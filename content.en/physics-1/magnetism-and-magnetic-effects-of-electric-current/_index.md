@@ -126,7 +126,7 @@ In this unit, basics of magnets and their properties are given. Later, how a cur
 
   
 
-## Earth’s magnetic field and magnetic elements
+### Earth’s magnetic field and magnetic elements
 
 **Figure 3.3 Earth’s magnetic field**
 
@@ -318,7 +318,7 @@ tural lights across the night sky. This ethereal aurora borealis (northern light
 
   
 
-## Basic properties of magnets
+### Basic properties of magnets
 
 Some basic terminologies and properties used in describing bar magnet.
 
@@ -926,7 +926,7 @@ Since _qmA_ \= _qmB_
 
 _m_ NT
 
-## Magnetic field at a point along the axial line of the magnetic dipole (bar magnet)
+### Magnetic field at a point along the axial line of the magnetic dipole (bar magnet)
 
 Consider a bar magnet NS as shown in Figure 3.13. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength _qm_ and are separated by a distance of 2_l_. The magnetic field at a point C (lies along the axis of the magnet)
 
@@ -2544,7 +2544,7 @@ Material Z: Slope is negative and hence, it is a diamagnetic material.
 
 ## MAGNETIC EFFECTS OF CURRENT
 
-## Oersted experiment
+### Oersted experiment
 
 In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor (Figure 3.25). When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory ‘electromagnetism’ which unifies two branches in physics namely, electricity and magnetism.  
 
@@ -2554,7 +2554,7 @@ In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noti
 
 (a) compass shows no deflection when no current flows through the wire
 
-## Magnetic field around a straight current-carrying conductor and circular loop
+### Magnetic field around a straight current-carrying conductor and circular loop
 
 **(a) Current carrying straight conductor:** Suppose we keep a magnetic compass
 
@@ -2597,7 +2597,7 @@ A B
 
 Magnetic lines of force
 
-## Right hand thumb rule
+### Right hand thumb rule
 
 The right hand rule is used to find the direction of magnetic field when the direction of current in a conductor is known.
 
@@ -2632,7 +2632,7 @@ Current in wire
 
 **_I_**
 
-## Maxwell’s right hand cork screw rule
+### Maxwell’s right hand cork screw rule
 
 This rule can also be used to find the direction of the magnetic field around the current-carrying conductor. If we rotate a right-handed screw using a screw driver, then the direction of current is same as the direction in which screw advances and the direction of rotation of the screw gives the direction of the magnetic field. (Figure 3.29)  
 
@@ -2673,7 +2673,7 @@ Using right hand rule, current flows upwards.
 
 Soon after Oersted’s discovery, both Jean-Baptiste Biot and Felix Savart in 1819 did quantitative experiments on the force experienced by a magnet kept near current carrying wire and arrived at a mathematical expression that gives the magnetic field at some point in space in terms of the current that produces the magnetic field. This is true for any shape of the conductor.
 
-## Definition and explanation of Biot- Savart law
+### Definition and explanation of Biot- Savart law
 
 V
 
@@ -2869,7 +2869,7 @@ Similarly, the exponent of current element _Idl_ (source) and exponent of magnet
 | 3 |Does not depend on angle |Depends on the angle between the position vector  rand the current element I dl |
   
 
-## Magnetic field due to long straight conductor carrying current
+### Magnetic field due to long straight conductor carrying current
 
 _Y_
 
@@ -3105,7 +3105,7 @@ _I a_
 
 2 ̆n ˆ (3.36)
 
-## Magnetic field produced along the axis of the current-carrying circular coil
+### Magnetic field produced along the axis of the current-carrying circular coil
 
 Consider a current carrying circular loop of radius _R_ and let _I_ be the current flowing through the wire in the direction as shown in Figure 3.33.
 
@@ -3343,7 +3343,7 @@ The magnetic field due to current in the upper semicircle and lower semicircle o
 
 _B_ \= 0.
 
-## Tangent law and Tangent Galvanometer
+### Tangent law and Tangent Galvanometer
 
 Tangent galvanometer is a device used to detect very small currents. It is a moving  
 
@@ -3517,7 +3517,7 @@ tan
 
 _I_ \= 0 082. A
 
-## Current loop as a magnetic dipole
+### Current loop as a magnetic dipole
 
 The magnetic field at a point on the axis of the current-carrying circular loop of radius _R_ at a distance _z_ from its centre is given by 
 
@@ -3624,7 +3624,7 @@ Polarity: South Pole
 
   
 
-## Magnetic dipole moment of revolving electron
+### Magnetic dipole moment of revolving electron
 
 Suppose an electron undergoes circular motion around the nucleus as shown in Figure 3.36. The circulating electron in a loop is like current in a circular loop (since flow of charge constitutes current). The magnetic dipole moment due to current carrying circular loop is
 
@@ -3836,7 +3836,7 @@ Ampère’s circuital law is used to calculate magnetic field at a point wheneve
 
 symmetry in the problem. This is similar to Gauss’s law in electrostatics.
 
-## Ampère’s circuital law
+### Ampère’s circuital law
 
 **Ampère’s law: The line integral of magnetic field over a closed loop is μ0 times net current enclosed by the loop.**
 
@@ -3854,7 +3854,7 @@ Closed line integral means integral over a closed curve (or line), symbol is
 
 **Note**
 
-## Magnetic field due to the current carrying wire of infinite length using Ampère’s law
+### Magnetic field due to the current carrying wire of infinite length using Ampère’s law
 
 #[Ampèrian loop for current carrying straight wire](3.37.png "")
 
@@ -4004,7 +4004,7 @@ Figure 3.39. Hence, the magnetic field of a solenoid looks like the magnetic fie
 
 The solenoid is assumed to be long which means that the length of the solenoid is large when compared to its diameter. The winding need not to be always circular, it can also be in other shapes. We consider here only circularly wound solenoid as shown in Figure 3.40.
 
-## Magnetic field due to a long current carrying solenoid
+### Magnetic field due to a long current carrying solenoid
 
 Consider a solenoid of length _L_ having _N_ turns. The diameter of the solenoid is assumed to be much smaller when compared to its length and the coil is wound very closely.
 
@@ -4222,7 +4222,7 @@ _B B BL N L N L N_, , ,2 2 2 2 > >
 
 Thus, strength of the magnetic field is increased when we pack more loops into the same length for a given current.
 
-## Toroid
+### Toroid
 
 A solenoid is bent in such a way its ends are joined together to form a closed ring shape, is called a toroid which is shown in Figure 3.42. The magnetic field has constant magnitude inside the toroid whereas in the interior region (say, at point P) and exterior region (say, at point Q), the magnetic field is zero.
 
@@ -4396,7 +4396,7 @@ In general, if the charge is moving in both the electric and magnetic fields, th
 
 _F q E B_\= + ×( )_v_ . It is known as Lorentz force.
 
-## Force on a moving charge in a magnetic field
+### Force on a moving charge in a magnetic field
 
 When an electric charge _q_ is moving with velocity _v_ in the magnetic field
 
@@ -4696,7 +4696,7 @@ Since, 
 
 _F F_._v v_\= ⇒0 and are perpendicular to each other. The angle between Lorentz force and velocity of the charged particle is 90o. Thus Lorentz force changes the direction of the velocity but not the magnitude of the velocity. Hence Lorentz force does no work and also does not alter kinetic energy of the particle.
 
-## Motion of a charged particle in a uniform magnetic field
+### Motion of a charged particle in a uniform magnetic field
 
 in
 
@@ -5197,7 +5197,7 @@ magnitudeof the displacement velocity
 
 Note that even though the difference between mass of two isotopes are very small, this arrangement helps us to convert this small difference into an easily measurable distance of separation. This arrangement is known as mass spectrometer. A mass spectrometer is used in many areas in sciences, especially in medicine, in space science, in geology etc. For example, in medicine, anaesthesiologists use it to measure the respiratory gases and biologist use it to determine the reaction mechanisms in photosynthesis.
 
-## Motion of a charged particle under crossed electric and magnetic field (velocity selector)
+### Motion of a charged particle under crossed electric and magnetic field (velocity selector)
 
 **Figure 3.48 Velocity selector**
 
@@ -5412,7 +5412,7 @@ _v_ . .
 
 _V_ \=148 65. V
 
-## Cyclotron
+### Cyclotron
 
 Cyclotron (Figure 3.49) is a device used to accelerate the charged particles to gain large kinetic energy. It is also called as high energy accelerator. It was invented by Lawrence and Livingston in 1934. **Principle**
 
@@ -5579,7 +5579,7 @@ _f qB mp_
 
 . .Hz 3MHz
 
-## Force on a current carrying conductor placed in a magnetic field
+### Force on a current carrying conductor placed in a magnetic field
 
 When a current carrying conductor is placed in a magnetic field, the force experienced by the conductor is equal to the sum of Lorentz forces on the individual charge carriers in the conductor. Consider a small segment of conductor of length _dl_, with cross-sectional area _A_  
 
@@ -5781,7 +5781,7 @@ ms
 
 So, we need to supply current of 9.8 A to keep the metallic rod stationary.
 
-## Force between two long parallel current carrying conductors
+### Force between two long parallel current carrying conductors
 
 Let two long straight parallel current carrying conductors separated by a distance _r_ be kept in air medium as shown in Figure 3.53. Let _I_1 and _I_2 be the electric currents passing through the conductors A and B in same direction (i.e. along z - direction) respectively. The net magnetic field at a distance _r_ due to current _I_1 in conductor A is 
 
@@ -6012,13 +6012,13 @@ _F_
 
 **Definition of ampere One ampere is defined as** **that constant**
 
-**current which when passed through each of the two infinitely long parallel straight conductors kept side by side parallelly at a distance of one metre apart in air or vacuum causes each conductor to experience a force of 2** × ## newton per metre length of conductor.
+**current which when passed through each of the two infinitely long parallel straight conductors kept side by side parallelly at a distance of one metre apart in air or vacuum causes each conductor to experience a force of 2** × ### newton per metre length of conductor.
 
 ## TORQUE ON A CURRENT LOOP
 
 The force on a current carrying wire in a magnetic field is responsible for the motor operation.
 
-## Torque on a current loop placed in a magnetic field
+### Torque on a current loop placed in a magnetic field
 
 Consider a rectangular loop PQRS carrying current _I_ is placed in a uniform magnetic field
 
@@ -6215,7 +6215,7 @@ is parallel to the magnetic field, the torque on the current loop is maximum.
 
 (b) When _θ_ \= 0°/180° or the plane of the loop is perpendicular to the magnetic field, the torque on the current loop is zero.
 
-## Moving coil galvanometer
+### Moving coil galvanometer
 
 Moving coil galvanometer is a device which is used to detect the flow of current in an electrical circuit.
 

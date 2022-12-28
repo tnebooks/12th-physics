@@ -50,7 +50,7 @@ Later he proved that it is indeed true. In 1888, H. Hertz experimentally verifie
 
 In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in our day to day life. It is a faster and more effective mode of transferring information from one place to another. It works on the basis that light is an electromagnetic wave. In hospitals, the location of bone fracture can be detected using X-rays as shown in Figure 5.2 (b), which is also an electromagnetic wave. For cooking microwave oven is used. The microwave is also an electromagnetic wave. There are plenty of applications of electromagnetic waves in engineering, medicine (example LASER surgery, etc), defence (example, RADAR signals) and also in fundamental scientific research. In this unit, basics of electromagnetic waves are discussed.
 
-## Displacement current and Maxwell’s correction to Ampere's circuital law
+### Displacement current and Maxwell’s correction to Ampere's circuital law
 
 **Induced magnetic field** Faraday’s law of electromagnetic
 
@@ -431,7 +431,7 @@ e
 
 6\. \[ cos( ) \]A=1.81 Aµ π
 
-## Maxwell’s equations in integral form
+### Maxwell’s equations in integral form
 
 Electrodynamics can be summarized in four basic equations, known as Maxwell’s equations. These equations are analogous to Newton’s equations in mechanics. Maxwell’s equations completely explain the behaviour of charges, currents and properties of electric and magnetic fields. These equations can be written in integral form (or integration form) or derivative form (or differential form). The
 
@@ -541,7 +541,7 @@ These four equations are known as Maxwell’s equations in electrodynamics. This
 
 **Electromagnetic waves are non- mechanical waves which move with speed equals to the speed of light (in vacuum).** It is a transverse wave. In the following subsections, we discuss the production of electromagnetic waves and its properties, sources of electromagnetic waves and also classification of electromagnetic spectrum.
 
-## Production and properties of electromagnetic waves
+### Production and properties of electromagnetic waves
 
 **Production of electromagnetic waves - Hertz experiment**
 
@@ -680,7 +680,7 @@ Refractive index of the medium,
 
 _n r r_\= = × =e µ 2 25 2 5 2 37. . .
 
-## Sources of electromagnetic waves
+### Sources of electromagnetic waves
 
 Any stationary charge produces only electric field (refer Unit 1). When the charge moves with uniform velocity, it produces steady current which gives rise to magnetic field (not time dependent, only space dependent) around the conductor in which charge flows. If the charged
 
@@ -791,7 +791,7 @@ _v_ \= × ×
 
 4 8 1. _ms_  
 
-## Electromagnetic spectrum
+### Electromagnetic spectrum
 
 **Figure 5.10 Electromagnetic spectrum -**
 
@@ -965,9 +965,9 @@ When an object burns, it emits radiations. That is, it emits electromagnetic rad
 
 **ns ity**
 
-## K
+### K
 
-## K 3000 K
+### K 3000 K
 
 **InfraredUltraviolet**
 
@@ -975,9 +975,9 @@ When an object burns, it emits radiations. That is, it emits electromagnetic rad
 
 **Bodies radiating at similar temperatures**
 
-**Surface of the sun** ≈ ## K Carbon arc lamp≈ ## K
+**Surface of the sun** ≈ ### K Carbon arc lamp≈ ### K
 
-**Lamp lament** ≈ ## K
+**Lamp lament** ≈ ### K
 
 
 

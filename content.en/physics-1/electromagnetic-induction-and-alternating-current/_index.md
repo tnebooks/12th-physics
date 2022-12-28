@@ -37,7 +37,7 @@ _“Nature is our kindest friend and best cr intimations to f_
 
 **Learning Objectives**
 
-## Introduction In the previous chapter, we have learnt
+### Introduction In the previous chapter, we have learnt
 
 that whenever an electric current flows through a conductor, it produces a magnetic field around it. This was discovered by Christian Oersted. Later, Ampere proved that a current-carrying loop behaves like a bar magnet. These are the magnetic effects produced by the electric current.
 
@@ -80,7 +80,7 @@ Michael Faraday was enormously popular for his lectures as well. In one of his l
 
 At the end of the lecture, one member of the audience approached Faraday and said, “Mr. Faraday, the behaviour of the magnet and the coil of wire was interesting, but what is the use of it?” Faraday answered politely, “Sir, what is the use of a newborn baby?” **Note:** We will soon see the greatness of ‘that little child’ who has now grown as an adult to cater to the energy needs.
 
-## Magnetic Flux (**F**B)
+### Magnetic Flux (**F**B)
 
 The magnetic flux FB through an area _A_ in a magnetic field is defined as the number of magnetic field lines passing through that area normally and is given by the equation (Figure 4.1(a)).
 
@@ -351,7 +351,7 @@ _G_
 
 **Figure 4.2 Faraday’s first experiment**
 
-## Faraday’s Experiments on Electromagnetic Induction
+### Faraday’s Experiments on Electromagnetic Induction
 
 **First Experiment** Consider a closed circuit consisting of a
 
@@ -708,7 +708,7 @@ A straight conducting wire is dropped horizontally from a certain height with it
 
 Yes! An emf will be induced in the wire because it moves perpendicular to the horizontal component of Earth’s magnetic field and hence it cuts the magnetic lines of Earth's magnetic filed.
 
-## Lenz’s law
+### Lenz’s law
 
 A German physicist Heinrich Lenz performed a series of experiments on electromagnetic induction and deduced a law to determine the direction of the induced current. This law is known as Lenz’s law.
 
@@ -884,7 +884,7 @@ on the basis of the law of conservation of energy. The explanation is as follows
 
 On the contrary to Lenz’s law, let us assume that the induced current _helps_ the cause responsible for its production. Now when we push the magnet little bit towards the coil, the induced current helps the movement of the magnet towards the coil. Then the magnet starts moving towards the coil without any expense of energy. This, then, becomes a perpetual motion machine. In practice, no such machine is possible. Therefore, the assumption that the induced current _helps_ the cause is wrong. Thus Lenz's law is an excellent example of conservation of energy.  
 
-## Fleming’s right hand rule
+### Fleming’s right hand rule
 
 When a conductor moves in a magnetic field, the direction of motion of the conductor, the field and the induced current are given by Fleming’s right hand rule and is as follows:
 
@@ -1009,7 +1009,7 @@ At t = 3 s,
 
   
 
-## Motional emf from Lorentz force
+### Motional emf from Lorentz force
 
 Consider a straight conducting rod _AB_ of length _l_ in a uniform magnetic field 
 
@@ -1420,7 +1420,7 @@ the armature to rest immediately and then galvanometer shows a steady deflection
 
 ## SELF–INDUCTION
 
-## Introduction
+### Introduction
 
 Inductor is a device used to store energy in a magnetic field when an electric current flows through it. The typical examples are coils, solenoids and toroids shown in Figure 4.17.
 
@@ -1544,7 +1544,7 @@ The inductance plays the same role in a circuit as mass and moment of inertia pl
 
 Thus, inductance of the coil opposes any change in current and tries to maintain the original state.
 
-## Self-inductance of a long solenoid
+### Self-inductance of a long solenoid
 
 Consider a long solenoid of length _l_ and cross-sectional area _A_. Let _n_ be the number of turns per unit length (or turn density) of the solenoid. When an electric current _i_ is passed through the solenoid, a magnetic  
 
@@ -1774,7 +1774,7 @@ _L L_
 
 \= 375
 
-## Mutual induction
+### Mutual induction
 
 When an electric current passing through a coil changes with time, an emf is induced in the neighbouring coil. This phenomenon is known as **mutual induction** and the emf induced is called mutually induced emf.
 
@@ -1916,7 +1916,7 @@ _M_ \=1H.
 
 Therefore, **the mutual inductance between two neighbouring coils is one henry if a current changing at the rate of 1A s–1 in one coil induces an opposing emf of 1V in neighbouring coil.**
 
-## Mutual inductance between two long co-axial solenoids
+### Mutual inductance between two long co-axial solenoids
 
 Consider two long co-axial solenoids of same length _l_. The length of these solenoids is large when compared to their radii so that the magnetic field produced inside the solenoids is uniform and the fringing effect at the ends may be ignored. Let _A_1 and _A_2 be the area of cross section of the solenoids with _A_1 being greater than _A_2 as shown in Figure 4.22. The turn density of these solenoids are _n_1 and _n_2 respectively.
 
@@ -2156,7 +2156,7 @@ _B_ ( )
 
 ## METHODS OF PRODUCING INDUCED EMF
 
-## Introduction
+### Introduction
 
 Electromotive force is the characteristic of any energy source capable of driving electric charge around a circuit. We have already learnt that it is not actually a force. It is the work done in moving unit electric charge around the circuit. It is measured in J C–1 or volt.
 
@@ -2199,11 +2199,11 @@ and (iii) By changing the relative orientation
 
 θ of the coil with magnetic field
 
-## Production of induced emf by changing the magnetic field
+### Production of induced emf by changing the magnetic field
 
 From Faraday’s experiments on electromagnetic induction, it was discovered that an emf is induced in a circuit by changing the magnetic flux of the field through it. The change in flux is brought about by (i) relative motion between the circuit and the magnet (First experiment) (ii) variation in current flowing through the nearby coil (Second experiment).
 
-## Production of induced emf by changing the area of the coil
+### Production of induced emf by changing the area of the coil
 
 Consider a conducting rod of length _l_ moving with a velocity _υ_ towards left on a rectangular fixed metallic framework as shown in Figure 4.23. The whole  
 
@@ -2455,7 +2455,7 @@ magnetic field. This can be achieved either by rotating a coil in a magnetic fie
 
   
 
-## Production of induced emf by changing relative orientation of the coil with the magnetic field
+### Production of induced emf by changing relative orientation of the coil with the magnetic field
 
 Consider a rectangular coil of _N_ turns kept in a uniform magnetic field
 
@@ -2639,7 +2639,7 @@ since ε ω π_m m N BA f_\= = ( )( )NΦ 2
 
 ## AC GENERATOR
 
-## Introduction
+### Introduction
 
 AC generator or alternator is an energy conversion device. It converts mechanical energy used to rotate the coil or field magnet into electrical energy. Alternator produces a large scale electrical power for use in homes and industries. AC generator and its components are shown in Figure 4.26.
 
@@ -2655,7 +2655,7 @@ AC generator or alternator is an energy conversion device. It converts mechanica
 
 #[AC generator and its components](4.26.png "")
 
-## Principle
+### Principle
 
 Alternators work on the principle of electromagnetic induction. The relative motion between a conductor and a magnetic field changes the magnetic flux linked with  
 
@@ -2667,7 +2667,7 @@ a magnetic field within a stationary coil. The first method is used for small AC
 
 **Note**
 
-## Construction
+### Construction
 
 Alternator consists of two major parts, namely stator and rotor. As their names suggest, stator is stationary while rotor rotates inside the stator. In any standard construction of commercial alternators, the armature winding is mounted on stator and the field magnet on rotor. **i) Stator**
 
@@ -2690,7 +2690,7 @@ DC source. The ends of field windings are connected to a pair of slip rings, att
 
 We will discuss the construction and working of two examples, namely single phase and three phase AC generators in the following sections.
 
-## Advantages of stationary armature-rotating field alternator
+### Advantages of stationary armature-rotating field alternator
 
 Alternators are generally high current and high voltage machines. The stationary armature-rotating field construction has many advantages. A few of them include: 1) The current is drawn directly from fixed
 
@@ -2730,7 +2730,7 @@ Stator core
 
 4) Armature windings can be constructed more rigidly to prevent deformation due to any mechanical stress.
 
-## Single phase AC generator
+### Single phase AC generator
 
 In a single phase AC generator, the armature conductors are connected in series so as to form a single circuit which generates a single-phase alternating emf and hence it is called single-phase alternator.
 
@@ -2949,13 +2949,13 @@ S
 | S |
   
 
-## Poly-phase AC generator
+### Poly-phase AC generator
 
 Some AC generators may have more than one coil in the armature core and each coil produces an alternating emf. In these generators, more than one emf is produced. Thus they are called **poly-phase generators**.
 
 If there are two alternating emfs produced in a generator, it is called two- phase generator. In some AC generators, there are three separate coils, which would give three separate emfs. Hence they are called **three-phase AC generators**.
 
-## Three-phase AC generator
+### Three-phase AC generator
 
 In the simplified construction of three- phase AC generator, the armature core has 6 slots, cut on its inner rim. Each slot is 60° away from one another. Six armature conductors are mounted in these slots. The conductors 1 and 4 are joined in series to form coil 1. The conductors 3 and 6 form coil 2 while the conductors 5 and 2 form coil 3. So, these coils are retangular in shape and are 120° apart from one another (Figure 4.30).
 
@@ -3025,7 +3025,7 @@ For coil 3, 240rotation of eld magnet is required
 
 #[Variation of emfs ε ε ε1 2 3, and with time angle.](4.31.png "")
 
-## Advantages of three- phase alternator
+### Advantages of three- phase alternator
 
 Three-phase system has many advantages over single-phase system. Let us see a few of them.
 
@@ -3056,7 +3056,7 @@ Three-phase system has many advantages over single-phase system. Let us see a fe
 
 If the transformer converts an alternating current with low voltage into an alternating current with high voltage, it is called **step-up transformer**. On the contrary, if the transformer converts alternating current with high voltage into an alternating current with low voltage, then it is called **step-down transformer**.
 
-## Construction and working of transformer
+### Construction and working of transformer
 
 **Principle** The principle of transformer is the
 
@@ -3205,7 +3205,7 @@ ii) If _N N Ks p_< <( )1 , then and ._V V I Is p s p_< > This is step-down trans
 
 Transformers are highly efficient devices having their efficiency in the range of 96 – 99%. Various energy losses in transformers will not allow them to be 100% efficient.
 
-## Energy losses in a transformer
+### Energy losses in a transformer
 
 Transformers do not have any moving parts so that its efficiency is much higher than that of rotating machines like generators and motors. But there are many factors which lead to energy loss in a transformer. **i) Core loss or Iron loss**
 
@@ -3222,7 +3222,7 @@ which some energy is lost in the form of heat. Hysteresis loss is minimized by u
 
 **iii) Flux leakage** Flux leakage happens when the magnetic lines of primary coil are not completely linked with secondary coil. Energy loss due to this flux leakage is minimized by winding coils one over the other.
 
-## Advantages of AC in long distance power transmission
+### Advantages of AC in long distance power transmission
 
 Electric power is produced in a large scale at electric power stations with the help of AC generators. These power stations are classified based on the type of fuel used as thermal, hydro electric and nuclear power stations. Most of these stations are located at remote places. Hence the electric power generated is transmitted over long distances through transmission lines to reach towns or cities where it is actually consumed. This process is called **power transmission**.
 
@@ -3483,7 +3483,7 @@ distribution is done to factories (440V) and
 
 **G 11kV**
 
-## kV
+### kV
 
 **Power station**
 
@@ -3493,9 +3493,9 @@ distribution is done to factories (440V) and
 
 **33 kV**
 
-## kV
+### kV
 
-## V/220 V
+### V/220 V
 
 **Distribution transformer**
 
@@ -3532,7 +3532,7 @@ _I_P = K × _I_s = 20 × 50 mA = 1 A
 
 ## ALTERNATING CURRENT
 
-## Introduction
+### Introduction
 
 In section 4.5, we have seen that when the orientation of the coil with the magnetic field is changed, an alternating emf is induced and hence an alternating current flows in the closed circuit. **An alternating voltage is the voltage which changes polarity at regular intervals of time and the direction of the resulting alternating current also changes accordingly.**
 
@@ -3611,7 +3611,7 @@ in water, swinging of pendulum are associated with sine waves. Thus sine wave se
 
 **Note**
 
-## Mean or Average value of AC
+### Mean or Average value of AC
 
 The current and voltage in a DC system remain constant over a period of time so that there is no problem in specifying their magnitudes. However, an alternating current or voltage varies from time to time. Then a question arises how to express the magnitude of an alternating current or voltage. Though there are many ways of expressing it, we limit our discussion with two ways, namely mean value and RMS (Root Mean Square) value of AC.
 
@@ -3708,7 +3708,7 @@ _n_\= + + + 1 2
 
 **Note**
 
-## RMS value of AC
+### RMS value of AC
 
 The term RMS refers to time-varying sinusoidal currents and voltages which is not used in DC systems.
 
@@ -4167,7 +4167,7 @@ another phasor _OB_  
 
 . Here ϕ is the phase angle between voltage and current. In this case, the current leads the voltage by phase angle ϕ which is shown in Figure 4.39. If the current lags behind the voltage, then we write _i_ = _Im_ sin (ωt - ϕ).
 
-## AC circuit containing pure resistor
+### AC circuit containing pure resistor
 
 #[AC circuit with resistor](4.40.png "")
 
@@ -4260,7 +4260,7 @@ m say that _i_ leads _v_ by ϕ
 
 the applied voltage and the current are in phase with each other in a resistive circuit. It means that they reach their maxima and minima simultaneously. This is indicated in the phasor diagram (Figure 4.41). The wave diagram also depicts that current is in phase with the applied voltage (Figure 4.41).
 
-## AC circuit containing only an inductor
+### AC circuit containing only an inductor
 
 Consider a circuit containing a pure inductor of inductance _L_ connected across an alternating voltage source (Figure 4.42). The instantaneous value of the alternating voltage is given by
 
@@ -4502,7 +4502,7 @@ _X f LL_ \= 2π (4.42)
 
 where _f_ is the frequency of the alternating current. For a steady current, _f_ = 0. Therefore, _XL_ = 0. Thus an ideal inductor offers no resistance to steady DC current.
 
-## AC circuit containing only a capacitor
+### AC circuit containing only a capacitor
 
 Consider a circuit containing a capacitor of capacitance _C_ connected across an alternating voltage source (Figure 4.44). The instantaneous value of the alternating voltage is given by
 
@@ -4978,7 +4978,7 @@ Therefore, _v_ \= 311 314sin _t_
 
 _i t_\= +( )3 1 314 2. sin π
 
-## AC circuit containing a resistor, an inductor and a capacitor in series – Series RLC circuit
+### AC circuit containing a resistor, an inductor and a capacitor in series – Series RLC circuit
 
 Consider a circuit containing a resistor of resistance _R_, an inductor of inductance _L_ and a capacitor of capacitance _C_ connected across an alternating voltage source (Figure 4.46). The instantaneous value of the alternating voltage is given by
 
@@ -5159,7 +5159,7 @@ angle ϕ is also positive. It means that the applied voltage leads the current b
 
 ∴ = =_v V t i I tm m_sin ; sinω ω
 
-## Resonance in series RLC Circuit
+### Resonance in series RLC Circuit
 
 When the frequency of the applied alternating source ω_r_( ) is equal to the
 
@@ -5298,7 +5298,7 @@ and _C_. Only then the voltage across _L_ and _C_ cancel one another when _VL_ a
 
   
 
-## Quality factor or Q–factor
+### Quality factor or Q–factor
 
 The current in the series _RLC_ circuit becomes maximum at resonance. Due to the increase in current, the voltage across _L_ and _C_ are also increased. This magnification of voltages at series resonance is termed as Q–factor.
 
@@ -5564,7 +5564,7 @@ _v_ \= + °( )2 4 200 50. sin _t_ V
 
 ## POWER IN AC CIRCUITS
 
-## Introduction of power in AC circuits
+### Introduction of power in AC circuits
 
 **Power of a circuit is defined as the rate of consumption of electric energy in that circuit.** It is given by the product of the voltage and current. In an AC circuit, the voltage and current vary continuously with time. Let us first calculate the power at an instant and then it is averaged over a complete cycle.
 
@@ -5658,7 +5658,7 @@ _L C_
 
 ∴ =_P V Iav RMS RMS_
 
-## Wattless current
+### Wattless current
 
 Consider an AC circuit in which there is a phase angle of ϕ between _VRMS_ and _IRMS_ and voltage is assumed to be leading the current by ϕ as shown in the phasor diagram (Figure 4.50).
 
@@ -5692,7 +5692,7 @@ Now, _IRMS_ is resolved into two perpendicular components, namely _IRMS_ cosφ a
 
 **be wattless current if the power consumed by it is zero**. This wattless current occurs in a purely inductive or capacitive circuit.
 
-## Power factor
+### Power factor
 
 The power factor of a circuit is defined in one of the following ways:
 
@@ -5743,7 +5743,7 @@ purely inductive or capacitive circuit because the phase angle _ϕ_ between volt
 
 a circuit having _R_, _L_ and _C_ in varying proportions.
 
-## Advantages and disadvantages of AC over DC
+### Advantages and disadvantages of AC over DC
 
 There are many advantages and disadvantages of AC system over DC system.
 
@@ -5955,7 +5955,7 @@ _R R_
 
 ## OSCILLATION IN LC CIRCUITS
 
-## Energy conversion during LC oscillations
+### Energy conversion during LC oscillations
 
 We have learnt that energy can be stored in both inductors and capacitors (Refer sections 1.8.2 and 4.3.2). In inductors, the energy is stored in the form of magnetic field while in capacitors, it is stored as the electric field.  
 
@@ -6129,7 +6129,7 @@ the circuit decrease the energy of the system. Therefore, the oscillations becom
 
 **Note**
 
-## Conservation of energy in LC oscillations
+### Conservation of energy in LC oscillations
 
 During _LC_ oscillations in _LC_ circuits, the energy of the system oscillates between the electric field of the capacitor and the magnetic field of the inductor. Although, these two forms of energy vary with time, the total energy remains constant. It means that _LC_ oscillations take place in accordance with the law of conservation of energy.
 
@@ -6255,7 +6255,7 @@ _C m_
 
 From above three cases, it is clear that the total energy of the system remains constant.
 
-## Analogies between LC oscillations and simple harmonic oscillations
+### Analogies between LC oscillations and simple harmonic oscillations
 
 **Qualitative treatment** The electromagnetic oscillations of _LC_
 

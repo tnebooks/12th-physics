@@ -167,7 +167,7 @@ _I Q t_
 
 2A
 
-## Conventional Current
+### Conventional Current
 
 #[Direction of conventional current and electron flow](2.3.png "")
 
@@ -197,7 +197,7 @@ same as a transfer of negative charge in the opposite direction.
 
 Electric current is not only produced by batteries. In nature, lightning bolt produces enormous electric current in a short time. During lightning, very high potential difference is created between the clouds and ground and hence charges flow between the clouds and ground.
 
-## Drift velocity
+### Drift velocity
 
 In a conductor the charge carriers are free electrons. These electrons move freely through the conductor and collide repeatedly with the positive ions. If there is no electric field, the electrons move in random directions, and hence their velocities are also randomly oriented. On an average, the number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction. As a result, there is no net flow of electrons in any direction and hence there will not be any current.
 
@@ -351,7 +351,7 @@ the battery is the source of electrons. It is not true. When a battery is connec
 
 When we say ‘battery has no charge’, it means, that the battery has lost ability to provide energy or provide potential difference to the electrons in the circuit. When we say ‘mobile is charging’, it implies that the battery is receiving energy from AC power supply and not electrons.
 
-## Microscopic model of current
+### Microscopic model of current
 
 Consider a conductor with area of cross section A and let an electric field
 
@@ -710,7 +710,7 @@ _R_ \= = =
 
 0 5. A
 
-## Resistivity
+### Resistivity
 
 In the previous section, we have seen that the resistance _R_ of any conductor is given by
 
@@ -983,7 +983,7 @@ around 500 k Ω. But when the skin is wet, the resistance is reduced to around10
 
   
 
-## Resistors in series and parallel
+### Resistors in series and parallel
 
 An electric circuit may contain a number of resistors which can be connected in different ways. For each type of circuit, we can calculate the equivalent resistance produced by a group of individual resistors.
 
@@ -1512,7 +1512,7 @@ _a ab bc, d_
 
 The equivalent resistance of the circuit between a and b is _Req_ = 1 Ω
 
-## Colour code for Carbon resistors
+### Colour code for Carbon resistors
 
 #[Resistances used in laboratory](2.11.png "")
 
@@ -1579,7 +1579,7 @@ Gold 10−1 5% Sliver 10−2 10% Colourless 20%
 
   
 
-## Temperature dependence of resistivity
+### Temperature dependence of resistivity
 
 The resistivity of a material is dependent on temperature. It is experimentally found that for a wide range of temperatures, the resistivity of a conductor increases with increase in temperature according to the expression,
 
@@ -2052,7 +2052,7 @@ produces potential difference across its terminals. This potential difference pr
 
 #[Electric cells and Batteries](2.18.png "")
 
-## Electromotive force and internal resistance
+### Electromotive force and internal resistance
 
 A battery or cell is called a source of electromotive force (emf). The term ‘electromotive force’ is a misnomer since it does not really refer to a force but describes a potential difference in volts. The emf of a battery or cell is the voltage provided by the battery when no current flows in the external circuit. It is shown in Figure 2.19.
 
@@ -2082,7 +2082,7 @@ Sulfuric acid
 
 move a certain amount of charge around the circuit. It is denoted by the symbol ε. An ideal battery has zero internal resistance and the potential difference (terminal voltage) across the battery equals to its emf. In reality, the battery is made of electrodes and electrolyte, there is resistance to the flow of charges within the battery. This resistance is called internal resistance _r_. For a real battery, the terminal voltage is not equal to the emf of the battery. A freshly prepared cell has low internal resistance and it increases with ageing.
 
-## Determination of internal resistance
+### Determination of internal resistance
 
 The circuit connections are made as shown in Figure 2.20.
 
@@ -2218,7 +2218,7 @@ The power delivered to the resistor = _I_ 2_R_ = 46.3 W
 
 The remaining power _P_ = (47.1 – 46.3) = 0.8 W is delivered to the internal resistance and cannot be used to do useful work. (It is equal to _I_ 2_r_).
 
-## Cells in series
+### Cells in series
 
 Several cells can be connected to form a battery. In series connection, the negative terminal of one cell is connected to the positive terminal of the second cell, the negative terminal of second cell is connected to the positive terminal of the third cell and so on. The free positive terminal of the first cell and the free negative terminal of the last cell become the terminals of the battery.
 
@@ -2341,7 +2341,7 @@ v) Potential difference across each cell _V n_
 
 4 8 65. . V
 
-## Cells in parallel
+### Cells in parallel
 
 In parallel connection all the positive terminals of the cells are connected to one point and all the negative terminals to a second point. These two points form the positive and negative terminals of the battery.
 
@@ -2503,7 +2503,7 @@ v) Current from each cell, ′ =_I I n_
 
 Ohm’s law is useful only for simple circuits. For more complex circuits, Kirchhoff ’s rules can be used to find current and voltage. There are two generalized rules: i) Kirchhoff ’s current rule ii) Kirchhoff ’s voltage rule.
 
-## Kirchhoff’s first rule (Current rule or Junction rule)
+### Kirchhoff’s first rule (Current rule or Junction rule)
 
 **It states that the algebraic sum of the currents at any junction of a circuit is zero**. It is a statement of law of conservation of electric charge. The charges that enter a given junction in a circuit must leave that junction since charge cannot build up or disappear at a junction. By convention, current entering the junction is taken as positive and current leaving the junction is taken as negative.
 
@@ -2558,7 +2558,7 @@ Applying Kirchhoff ’s rule to the point P in the circuit,
 
 The arrows pointing towards P are positive and away from P are negative. Therefore, 0.2A – 0.4A + 0.6A – 0.5A + 0.7A – _I_ = 0 1.5A – 0.9A – _I_ = 0 0.6A – _I_ = 0 _I_ = 0.6 A  
 
-## Kirchhoff’s Second rule (Voltage rule or Loop rule)
+### Kirchhoff’s Second rule (Voltage rule or Loop rule)
 
 **It states that in a closed circuit the algebraic sum of the products of the current and resistance of each part of the circuit is equal to the total emf included in the circuit**. This rule follows from the law of conservation of energy for an isolated system (The energy supplied by the emf sources is equal to the sum of the energy delivered to all resistors). The product of current and resistance is taken as positive when the direction of the current is followed. Suppose if the direction of current is opposite to the direction of the loop, then product of current and voltage across the resistor is negative. It is shown in Figure 2.24 (a) and (b). The emf is considered positive when proceeding from the negative to the positive terminal of the cell. It is shown in Figure 2.24 (c) and (d).
 
@@ -2733,7 +2733,7 @@ _I1_ = 1.83 A and _I2_ = –0.13 A
 
 It implies that the current in the 1 ohm resistor flows from F to E.
 
-## Wheatstone’s bridge
+### Wheatstone’s bridge
 
 An important application of Kirchhoff ’s rules is the Wheatstone’s bridge. It is used to compare resistances and in determining the unknown resistance in electrical network. The bridge consists of four resistances _P, Q, R_ and _S_ connected as shown in Figure 2.25. _A_ galvanometer _G_ is connected between the points _B_ and _D_. The battery is connected between the points _A_ and _C_. The current
 
@@ -2891,7 +2891,7 @@ _x_ + 400 = 625
 
 _x_ = 625 – 400 _x_ = 225 Ω  
 
-## Meter bridge
+### Meter bridge
 
 The meter bridge is another form of Wheatstone’s bridge. It consists of a uniform wire of manganin AB of one meter length. This wire is stretched along a metre scale on a wooden board between two copper strips C and D. Between these two copper strips another copper strip E is mounted to enclose two gaps G1 and G2 as shown in Figure 2.26.
 
@@ -3081,7 +3081,7 @@ _P_ \= 550 45
 
 \= 12.2 Ω
 
-## Potentiometer
+### Potentiometer
 
 Potentiometer is used for the accurate measurement of potential differences, current and resistances. It consists of ten meter long uniform wire of manganin or constantan stretched in parallel rows each of 1 meter length, on a wooden board. The two free ends A and B are brought to the same side and fixed to copper strips with binding screws. A meter scale is fixed parallel to the wire. A jockey is provided for making contact.
 
@@ -3132,7 +3132,7 @@ Hence ε = _Irl_ (2.58)
 
 Since _I_ and _r_ are constants, ε ∝ _l_. The emf of the cell is directly proportional to the balancing length.
 
-## Comparison of emf of two cells with a potentiometer
+### Comparison of emf of two cells with a potentiometer
 
 To compare the emf of two cells, the circuit connections are made as shown in Figure 2.28. Potentiometer wire CD is connected to a battery _Bt_ and a key K in  
 
@@ -3189,7 +3189,7 @@ By dividing equation (2.59) by (2.60) ε ε
 
 By including a rheostat (Rh) in the primary circuit, the experiment can be repeated several times by changing the current flowing through it.
 
-## Measurement of internal resistance of a cell by potentiometer
+### Measurement of internal resistance of a cell by potentiometer
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key K1. This forms the primary circuit.
 
@@ -3308,7 +3308,7 @@ Substituting the values of the _R_, _l_1 and _l_2, the internal resistance of th
 
 **current is known as Joule’s heating effect.** Just as current produces thermal energy, thermal energy may also be suitably used to produce an electromotive force. This is known as thermoelectric effect.
 
-## Joule’s law
+### Joule’s law
 
 If a current _I_ flows through a conductor kept across a potential difference _V_ for a time _t_, the work done or the electric potential energy spent is
 
@@ -3330,7 +3330,7 @@ Find the heat energy produced in a resistance of 10 Ω when 5 A current flows th
 
 **_Solution_** _R_ = 10 Ω, _I_ = 5 A, _t_ = 5 minutes = 5 × 60 s _H_ = _I_ 2_Rt_ \= 52 × 10 × 5 × 60 = 25 × 10 × 300 = 25 × 3000 = 75000 J (or) 75 kJ  
 
-## Application of Joule’s heating effect
+### Application of Joule’s heating effect
 
 **1\. Electric heaters** Electric iron, electric heater, electric
 
@@ -3446,7 +3446,7 @@ Tungsten lament
 
 **Conversion of temperature differences into electrical voltage and vice versa is known as thermoelectric effect.** A thermoelectric device generates voltage when there is a temperature difference on each side. If a voltage is applied, it generates a temperature difference.  
 
-## Seebeck effect
+### Seebeck effect
 
 **Seebeck discovered that in a closed circuit consisting of two dissimilar metals, when the junctions are maintained at different temperatures an emf (potential difference) is developed. The current that flows due to the emf developed is called thermoelectric current. The two dissimilar metals connected to form two junctions is known as thermocouple** (Figure 2.35).
 
@@ -3501,7 +3501,7 @@ thermoelectric generators (Seebeck generators).These thermoelectric generators a
 
 3\. Seebeck effect is used in thermocouples and thermopiles to measure the temperature difference between the two objects.
 
-## Peltier effect
+### Peltier effect
 
 In 1834, Peltier discovered that **when an electric current is passed through a circuit of a thermocouple, heat is evolved at one junction and** **absorbed at the other junction. This is known as Peltier effect.**
 
@@ -3549,7 +3549,7 @@ In the Cu-Fe thermocouple the junctions A and B are maintained at the same tempe
 
 gets heated and junction B gets cooled as shown in the Figure 2.36(b). Hence Peltier effect is reversible.
 
-## Thomson effect
+### Thomson effect
 
 Thomson showed that **if two points in a conductor are at different temperatures, the density of electrons at these points will differ and as a result the potential difference is created between these points. Thomson effect is also reversible.**
 
