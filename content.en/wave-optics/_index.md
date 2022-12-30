@@ -79,7 +79,7 @@ When a wave propagates it is treated as the propagation of wavefront. The wavefr
 
 **(b)**
 
-#[(a) Ripples on water surface (b) Wavefront and ray](7.1.png "")
+![(a) Ripples on water surface (b) Wavefront and ray](7.1.png "")
 
 The shape of a wavefront observed at a point depends on the shape of the source and also the distance at which the source is located. A point source located at a finite distance gives spherical wavefronts. An extended (or) line source at finite distance gives cylindrical wavefronts. Any source that is located at infinity gives plane wavefront as shown in Figure 7.2.
 
@@ -93,7 +93,7 @@ The shape of a wavefront observed at a point depends on the shape of the source 
 
 **Line source Source at innity**
 
-#[Wavefronts  ](7.2.png "")
+![Wavefronts  ](7.2.png "")
 
 ### Huygens’ Principle
 
@@ -113,7 +113,7 @@ Q Q
 
 **(a) Spherical wavefront (b) Plane wavefront**
 
-#[Huygens’ Principle](7.3.png "")
+![Huygens’ Principle](7.3.png "")
 
 |------|
 | P |
@@ -346,7 +346,7 @@ r r **X Y**
 
 **Medium(2)**
 
-#[Law of refraction  ](7.5.png "")
+![Law of refraction  ](7.5.png "")
 
 of medium (1) is, _c_/_v_1 = _n_1 and that of medium (2) is, _c_/_v_2 = _n_2.
 
@@ -558,7 +558,7 @@ Let us consider two light waves from the two sources _S_1 and _S_2 meeting at a 
 
 **S2**
 
-#[Superposition principle](7.6.png "")
+![Superposition principle](7.6.png "")
 
 The wave from _S_1 at an instant _t_ at _P_ is,
 
@@ -909,7 +909,7 @@ To obtain coherent light waves, we have the following three techniques.
 
 **S2**
 
-#[Wavefront division](7.8.png "")
+![Wavefront division](7.8.png "")
 | S |
 |------|
 
@@ -927,7 +927,7 @@ To obtain coherent light waves, we have the following three techniques.
 
 **Coherent light**
 
-#[Intensity (or) amplitude division](7.9.png "")
+![Intensity (or) amplitude division](7.9.png "")
 
 **(iii) Source and Images**: In this method a source and its images will act as a set of coherent sources, because the source and its image will have waves in-phase (or) constant phase difference as shown in Figure 7.10. The Instrument, Fresnel’s biprism uses two virtual images of the source as two coherent sources and the instrument, Lloyd’s mirror uses a source and its one virtual image as two coherent sources.  
 
@@ -951,7 +951,7 @@ To obtain coherent light waves, we have the following three techniques.
 
 **Lloyd’s Mirror Screen**
 
-#[Source and images as coherent sources](7.10.png "")
+![Source and images as coherent sources](7.10.png "")
 
 ### Double slit as coherent sources
 
@@ -1028,7 +1028,7 @@ _Experimental setup_ Thomas Young, a British Physicist in
 
 **Superpositon region**
 
-#[Interference due to double slit  ](7.11.png "")
+![Interference due to double slit  ](7.11.png "")
 
 _S_2 kept equidistance from a source _S_ as shown in Figure 7.12. The width of each slit is about 0.03 mm and they are separated by a distance of about 0.3 mm. As _S_1 and _S_2 are equidistant from _S_ the same wavefront is cut by _S1_ and _S2_. The light waves at _S_1 and _S_2 are in-phase. So, _S_1 and _S_2 act as coherent sources which is the requirement for obtaining interference pattern.
 
@@ -1044,7 +1044,7 @@ _S_2 kept equidistance from a source _S_ as shown in Figure 7.12. The width of e
 
 **O**
 
-#[Young’s double slit experimental setup](7.12.png "")
+![Young’s double slit experimental setup](7.12.png "")
 
 Wavefronts from _S_1 and _S_2 spread out and overlap on the other side of the double slit. When a screen is placed at a distance of about 1 m from the slits, alternate bright and dark fringes which are equally spaced appear on the screen. These are called interference fringes (or) bands. Using an eyepiece, the fringes can be seen directly. At the center point _O_ on the screen, the waves from _S_1 and _S_2 travel equal distances and arrive in-phase as shown in Figure 7.12. These two waves constructively interfere and a bright fringe is observed at _O_. This is called central bright fringe. When one of the slits is closed, the fringes disappear and there is uniform illumination on the screen. This shows clearly that the bands are due to interference.
 
@@ -1079,7 +1079,7 @@ Let d be the distance between the double slits _S_1 and _S_2 which act as cohere
 
 **Cd**
 
-#[Young’s double slit arrangement to find path difference](7.13.png "")
+![Young’s double slit arrangement to find path difference](7.13.png "")
 
 The path difference _δ_ between the light waves from _S_1 and _S_2 to the point _P_ is, _δ_ = _S_2_P_ – _S_1_P_
 
@@ -1173,7 +1173,7 @@ This is the condition for the point P to have a dark fringe. The distance _yn_ i
 
 **Bright (constructive interference)**
 
-#[Formation of bright and dark fringes](7.14.png "")
+![Formation of bright and dark fringes](7.14.png "")
 
 This shows that on the screen, alternate bright and dark fringes are seen on either side of the central bright fringe. The central bright is referred as 0th bright followed by 1st dark and 1st bright and then 2nd dark and 2nd bright and so on, on either side of _O_ successively as shown in Figure 7.15.
 
@@ -1203,7 +1203,7 @@ This shows that on the screen, alternate bright and dark fringes are seen on eit
 
 **Path dierence**
 
-#[Interference fringe pattern](7.15.png "")
+![Interference fringe pattern](7.15.png "")
 
 _Equation for bandwidth_ **The _bandwidth_ _β_ is defined as the**
 
@@ -1759,7 +1759,7 @@ _AC_ and _CB_. Now the width of each part is _a_/2. We have different points on 
 
 **_a_**
 
-#[Corresponding points](7.18.png "")
+![Corresponding points](7.18.png "")
   
 
 The light waves from different corresponding points meet at point P and interfere destructively to make it a minimum. The path difference _δ_ between the waves from these corresponding points is, _d q_\=
@@ -2048,7 +2048,7 @@ _(z)_
 
 **θ_a_**
 
-#[Fresnel’s distance](7.19.png "")
+![Fresnel’s distance](7.19.png "")
 
 The diffraction equation for first
 
@@ -2385,7 +2385,7 @@ Here, _N_ is the number of rulings per metre in the grating and _m_ is the order
 
 **θ_θ_**
 
-#[Determination of wavelength using grating](7.21.png "")
+![Determination of wavelength using grating](7.21.png "")
 
 ### Determination of wavelength of different colours
 
@@ -2442,7 +2442,7 @@ Here, the numerical value 1.22 appears in the expression for central maximum (or
 
 **a** roro
 
-#[Airy’s discs](7.23.png "")
+![Airy’s discs](7.23.png "")
 
 For small angles, sin _θ_ ≈ _θ,_ the above equation becomes,
 
@@ -2474,7 +2474,7 @@ For example, let two point-sources of light close to each other form image on a 
 
 **(b) Just resolved (c) Well resolved**
 
-#[Rayleigh’s criterion](7.24.png "")
+![Rayleigh’s criterion](7.24.png "")
 
 **According to _Rayleigh’s criterion_, the two points on an image are said to be just resolved when the central maximum of one diffraction pattern coincides with the first minimum of the other and vice-versa** as shown in Figure 7.24(b). In other words, the distance between the two central maxima must be at least _ro_. Hence, _ro_ is called **_spatial resolution_** given by the equation (7.54) and the corresponding _θ_ is said to be **_angular resolution_** given by the equation (7.53) respectively. It shows that for better resolution, the wavelength of light used must be as small as possible and the size of the aperture of the instrument must be as large as possible.
 
@@ -2566,7 +2566,7 @@ Both, longitudinal and transverse waves exhibit the phenomena of interference an
 
 **Direction of propagation**
 
-#[Unpolarised and polarised light](7.25.png "")
+![Unpolarised and polarised light](7.25.png "")
 | E |
 |------|------|------|------|------|
 
@@ -2597,7 +2597,7 @@ The plane containing the vibrations of the electric field vector is known as the
 
 **Incident light**
 
-#[Plane of vibration and plane of polarisation](7.26.png "")
+![Plane of vibration and plane of polarisation](7.26.png "")
 
 The Table 7.3 consolidates few characteristics of polarised and unpolarised light.
 
@@ -2661,7 +2661,7 @@ restricted by the polariser.
 
 **Polariser Analyser**
 
-#[Polariser and analyser](7.27.png "")
+![Polariser and analyser](7.27.png "")
 
 **7.5.3.2 Plane and partially polarised light**
 
@@ -2732,7 +2732,7 @@ _I k a_\= ( cos )_q_ 2
 
 **I0**
 
-#[Malus’ law  ](7.29.png "")
+![Malus’ law  ](7.29.png "")
 
 Where _k_ is constant of proportionality.
 
@@ -2756,7 +2756,7 @@ of light transmitted through the analyser.
 
 
 
-#[Malus’ law](7.30.png "")
+![Malus’ law](7.30.png "")
 
 The following are few special cases. _Case (i)_ When _θ_ = 0o, cos 0o= 1, _I I_\= 0
 
@@ -3134,7 +3134,7 @@ _ip_
 
 _ip_
 
-#[Pile of plates](7.32.png "")
+![Pile of plates](7.32.png "")
 
 Pile of plates makes use of Brewster’s law to convert the partially polarised refracted light into plane polarised light. It consists of  
 
@@ -3184,7 +3184,7 @@ E
 
 O
 
-#[Double refraction  ](7.33.png "")
+![Double refraction  ](7.33.png "")
 
 ### Types of optically active crystals
 
@@ -3208,7 +3208,7 @@ Nicol prism is a calcite crystal which has a length three times its breadth and 
 
 **108**
 
-#[Nicol Prism](7.34.png "")
+![Nicol Prism](7.34.png "")
 
 Let us consider a ray of unpolarised light from a monochromatic source is incident on the Nicol prism. The double refraction takes place and the ray is split into ordinary and extraordinary rays. They travel in different directions with different velocities. For monochromatic sodium light the refractive index of the
 | 108Ex |
@@ -3248,7 +3248,7 @@ When sun light gets scattered by the atmospheric molecules, the electrons of the
 
 **Polarised light**
 
-#[Polarisation by scattering](7.35.png "")
+![Polarisation by scattering](7.35.png "")
 
 **OPTICAL INSTRUMENTS**
 
@@ -3312,7 +3312,7 @@ This is the magnification for near point focusing.
 
 **f**
 
-#[Near point focusing](7.36.png "")
+![Near point focusing](7.36.png "")
 
 **7.6.1.2 Normal focusing** The eye is most relaxed when the image
 
@@ -3346,7 +3346,7 @@ _m i_\= _q q_0
 
 **(b)with aided eye**
 
-#[Normal focusing](7.37.png "")
+![Normal focusing](7.37.png "")
 
 For unaided eye shown in Figure 7.37(a),
 
@@ -3534,7 +3534,7 @@ The spatial resolution (radius of central maximum) is already derived in equatio
 
 **1.22λv _a_**
 
-#[Resolving power of microscope](7.38.png "")
+![Resolving power of microscope](7.38.png "")
   
 
 In microscope, the object distance is just more than the focal length _f_ and the image is formed at distance _v_ as shown in the Figure 7.38. Hence, _f_ in equation (7.54) is replaced by _v_.
@@ -3663,7 +3663,7 @@ The diagram of a compound microscope is shown in Figure 7.39. The lens near the 
 
 **D**
 
-#[Compound microscope](7.39.png "")
+![Compound microscope](7.39.png "")
 
 **7.6.2.1. Magnification in compound microscope**
 
@@ -3916,7 +3916,7 @@ An astronomical telescope is used to get the magnification of distant astronomic
 
 **_'_**
 
-#[Astronomical telescope](7.40.png "")
+![Astronomical telescope](7.40.png "")
 | Bh |fe |
 |------|------|------|------|------|------|------|------|------|
 | ' |Eβ |
@@ -4010,7 +4010,7 @@ A terrestrial telescope is used to see objects at a long distance on the surface
 
 **α αC**
 
-#[Terrestrial telescope](7.41.png "")
+![Terrestrial telescope](7.41.png "")
 
 ### Reflecting telescope
 
@@ -4038,7 +4038,7 @@ one surface is to be polished and maintained for a mirror where as it to be done
 
 used to analise the spectra of different sources of light, to measure the wavelength of different colours and to measure the refractive indices of materials of prisms. It is shown in Figure 7.43. It basically consists of three parts namely (i) collimator, (ii) prism table and (iii) telescope.
 
-#[Spectrometer](7.43.png "")
+![Spectrometer](7.43.png "")
 
 **_(i) Collimator_** The collimator is used for producing
 
@@ -4087,7 +4087,7 @@ The preliminary adjustments of the spectrometer are done. The refractive index o
 
 **_B CT1 T2_**
 
-#[Angle of prism](7.44.png "")
+![Angle of prism](7.44.png "")
 
 The prism is placed on the prism table with its refracting angle _A_ facing the collimator as shown in Figure 7.44. The slit is illuminated by sodium light (monochromotic light). The parallel rays coming from the collimator fall on the two faces _AB_ and _AC_ and get reflected. The telescope is rotated to the position _T_1 and _T_2 to capture the reflected rays and the two reading are noted.
 
@@ -4115,7 +4115,7 @@ observed through the telescope as shown in Figure 7.45. The prism table alone is
 
 **Direct ray position**
 
-#[Angle of minimum deviation](7.45.png "")
+![Angle of minimum deviation](7.45.png "")
 
 Now, the prism is removed and the telescope is turned to receive the direct ray and the reading is noted. The difference between the two readings gives the angle of minimum deviation _D_. The refractive index of the material of the prism _n_ is calculated using the using the equation (6.89),
 
@@ -4192,7 +4192,7 @@ Eye is a natural optical instrument human beings have. As the eye lens is flexib
 
 **_f_max _f_min**
 
-#[Focusing of normal eye](7.46.png "")
+![Focusing of normal eye](7.46.png "")
 
 Let us find _fmax_ and _fmin_ of human eye from the lens equation (6.63).  
 
@@ -4265,7 +4265,7 @@ The negative sign in the above result suggests that the correcting lens should b
 
 **x (b)(a)**
 
-#[Myopic eye and correction  ](7.47.png "")
+![Myopic eye and correction  ](7.47.png "")
 
 of farsightedness arising mainly due to aging is called _presbyopia._ The aged people cannot strain their eye more to reduce the focal length of the eye lens.
 
@@ -4343,7 +4343,7 @@ Calculate the power of the lens of the spectacles needed to rectify the defect o
 
 **25 cm**
 
-#[Hypermetropic eye and correct  ](7.48.png "")
+![Hypermetropic eye and correct  ](7.48.png "")
 
 **_Solution_** The maximum distance the person could see is, _x_ = 1.8 m. The lens should have a focal length of, _f_ = –_x_ m = –1.8 m. It is a concave (or) diverging lens.
 

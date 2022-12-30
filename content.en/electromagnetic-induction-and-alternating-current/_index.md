@@ -462,7 +462,7 @@ _i_S_i_p
 
 KB **(b)**
 
-#[Faraday’s second experiment](4.3.png "")
+![Faraday’s second experiment](4.3.png "")
 
 
 
@@ -574,7 +574,7 @@ _i_**S**_i_**p**
 
 **KB(c)**
 
-#[Explanation of Faraday’s second experiment  ](4.5.png "")
+![Explanation of Faraday’s second experiment  ](4.5.png "")
 
 induces an electric current in the secondary coil, but in the opposite direction (Figure 4.5(c)). So there is deflection in the galvanometer whenever there is a change in the primary current.
 
@@ -805,7 +805,7 @@ _i_
 
 **× →** **ind**(r, inwards) 
 
-#[First illustration of Lenz’s law](4.6.png "")
+![First illustration of Lenz’s law](4.6.png "")
 
 
 
@@ -826,7 +826,7 @@ the solenoid, with its north pole pointing the solenoid (Figure 4.7(b)). This mo
 
 In this case, the cause producing the induced current is the movement of the magnet. According to Lenz’s law, the induced  
 
-#[Second illustration of Lenz’s law](4.7.png "")
+![Second illustration of Lenz’s law](4.7.png "")
 
 **No motion**
 
@@ -903,7 +903,7 @@ When a conductor moves in a magnetic field, the direction of motion of the condu
 
 **Current**
 
-#[Fleming’s right hand rule](4.8.png "")
+![Fleming’s right hand rule](4.8.png "")
 
 **The thumb, index finger and middle finger of right hand are stretched out in mutually perpendicular directions (as shown in Figure 4.8). If the index finger points the direction of the magnetic field and the thumb indicates the direction of motion of the conductor, then the middle finger will indicate the direction of the induced current.**
 
@@ -1118,7 +1118,7 @@ _v v_ ε
 
 **E**
 
-#[Motional emf from Lorentz force](4.9.png "")
+![Motional emf from Lorentz force](4.9.png "")
 
 
 
@@ -1212,7 +1212,7 @@ s
 
 **Metal plate**
 
-#[Eddy currents](4.10.png "")
+![Eddy currents](4.10.png "")
 
 
 
@@ -1254,7 +1254,7 @@ When the electromagnet is switched on and the disc of the pendulum is made to os
 
 **S**
 
-#[Demonstration of eddy currents  ](4.11.png "")
+![Demonstration of eddy currents  ](4.11.png "")
 
 oppose the oscillation. A heavy damping force of eddy currents will bring the pendulum to rest within a few oscillations (Figure 4.11(b)).
 
@@ -1350,7 +1350,7 @@ In some cases, the circular disc, connected to the wheel of the train through a 
 
 **High frequency Alternating magnetic eld**
 
-#[Induction stove  ](4.13.png "")
+![Induction stove  ](4.13.png "")
 
 **N**
 
@@ -1403,13 +1403,13 @@ testing methods to find defects like surface cracks, air bubbles present in a sp
 
 **Eddy currents**
 
-#[Eddy current testing](4.15.png "")
+![Eddy current testing](4.15.png "")
 
 of defects causes the change in phase and amplitude of the eddy current that can be detected by some other means.In this way, the defects present in the specimen are identified (Figure 4.15). **iv. Electro magnetic damping**
 
 The armature of the galvanometer coil is wound on a soft iron cylinder. Once the armature is deflected, the relative motion between the soft iron cylinder and the radial magnetic field induces eddy current in the cylinder (Figure 4.16). The damping force due to the flow of eddy current brings
 
-#[Electromagnetic damping](4.16.png "")
+![Electromagnetic damping](4.16.png "")
 
 **N S**
 
@@ -1433,7 +1433,7 @@ Solenoid
 
 Toroid
 
-#[Examples for inductor](4.17.png "")
+![Examples for inductor](4.17.png "")
 
 **Self-induction** An electric current flowing through a
 
@@ -1456,7 +1456,7 @@ _i_
 
 B →
 
-#[Self-Induction](4.18.png "")
+![Self-Induction](4.18.png "")
 
 Let Φ_B_ be the magnetic flux linked with each turn of the coil of N turns, then the total flux linked with the coil _N B_Φ (flux linkage) is proportional to the current _i_ in the coil.
 
@@ -1539,7 +1539,7 @@ _i_
 
 **Decreasing current**
 
-#[Induced emf ε opposes the changing current _i_](4.19.png "")
+![Induced emf ε opposes the changing current _i_](4.19.png "")
 
 The inductance plays the same role in a circuit as mass and moment of inertia play in mechanical motion. When a circuit is switched on, the increasing current induces an emf which opposes the growth of current in a circuit (Figure 4.19(a)). Likewise, when circuit is broken, the decreasing current induces an emf in the reverse direction. This emf now opposes the decay of current (Figure 4.19(b)).
 
@@ -1575,7 +1575,7 @@ We know that
 
 _N LiB_Φ =
 
-#[Self-inductance of a long solenoid](4.20.png "")
+![Self-inductance of a long solenoid](4.20.png "")
 
 _i_
 
@@ -1809,7 +1809,7 @@ Coil 1 Coil 2
 
 Φ21
 
-#[Mutual induction](4.21.png "")
+![Mutual induction](4.21.png "")
 
 _N i_2 21 1Φ µ
 
@@ -1931,7 +1931,7 @@ Solenoid 2 of N2 turns
 
 Solenoid 1 of N1 turns
 
-#[Mutual inductance of two long co-axial solenoids](4.22.png "")
+![Mutual inductance of two long co-axial solenoids](4.22.png "")
 
 Let _i_1 be the current flowing through solenoid 1, then the magnetic field produced inside it is
 
@@ -2250,7 +2250,7 @@ _v_
 
 _v_
 
-#[Production of induced emf by changing the area enclosed by the loop](4.23.png "")
+![Production of induced emf by changing the area enclosed by the loop](4.23.png "")
 
 The change in magnetic flux in time _dt_ is
 
@@ -2488,7 +2488,7 @@ At time _t_ = 0, the plane of the coil is perpendicular to the field and the flu
 
 **B →**
 
-#[Variation of induced emf as a fun  ](4.25.png "")
+![Variation of induced emf as a fun  ](4.25.png "")
 
 **t**
 
@@ -2654,7 +2654,7 @@ AC generator or alternator is an energy conversion device. It converts mechanica
 
 **Rotor**
 
-#[AC generator and its components](4.26.png "")
+![AC generator and its components](4.26.png "")
 
 ### Principle
 
@@ -2697,7 +2697,7 @@ Alternators are generally high current and high voltage machines. The stationary
 
 terminals on the stator without the use of brush contacts.
 
-#[Stator core, Armature winding and 2-pole rotor](4.27.png "")
+![Stator core, Armature winding and 2-pole rotor](4.27.png "")
 
 D.C. source
 
@@ -2803,7 +2803,7 @@ A  m
 
 **S**
 
-#[Variation of induced emf with re  ](4.29.png "")
+![Variation of induced emf with re  ](4.29.png "")
 
 of the induced emf is at right angles to the plane of the paper. For PQ, it is inwards and for RS it is outwards. Therefore, the current flows along PQRS. The point A in the graph represents this maximum emf.
 
@@ -2960,7 +2960,7 @@ If there are two alternating emfs produced in a generator, it is called two- pha
 
 In the simplified construction of three- phase AC generator, the armature core has 6 slots, cut on its inner rim. Each slot is 60° away from one another. Six armature conductors are mounted in these slots. The conductors 1 and 4 are joined in series to form coil 1. The conductors 3 and 6 form coil 2 while the conductors 5 and 2 form coil 3. So, these coils are retangular in shape and are 120° apart from one another (Figure 4.30).
 
-#[Construction of three- phase AC generator](4.30.png "")
+![Construction of three- phase AC generator](4.30.png "")
 
 **P**
 
@@ -3022,7 +3022,7 @@ For coil 3, 240rotation of eld magnet is required
 
 e dotted lines represent emfs induced in previous cycle
 
-#[Variation of emfs ε ε ε1 2 3, and with time angle.](4.31.png "")
+![Variation of emfs ε ε ε1 2 3, and with time angle.](4.31.png "")
 
 ### Advantages of three- phase alternator
 
@@ -3251,7 +3251,7 @@ at io
 
 n
 
-#[Long distance power transmissions](4.33.png "")
+![Long distance power transmissions](4.33.png "")
 
 Since power produced is alternating in nature, there is a way out. The most important property of alternating voltage that it can be stepped up and stepped down by using transformers could be exploited in reducing current and thereby reducing power losses to a greater extent.
 
@@ -3534,7 +3534,7 @@ In section 4.5, we have seen that when the orientation of the coil with the magn
 
 In the Figure 4.34(a), an alternating voltage source is connected to a resistor _R_ in which the upper terminal of the source
 
-#[Alternating voltage and the corresponding alternating current](4.34.png "")
+![Alternating voltage and the corresponding alternating current](4.34.png "")
 
 **+**
 
@@ -3631,7 +3631,7 @@ Ba )
 
 se lengthof half-cycle (4.31)
 
-#[Sine wave of an alternating current](4.36.png "")
+![Sine wave of an alternating current](4.36.png "")
 
 **0 2**
 
@@ -3738,7 +3738,7 @@ Area of one cycle of squared wave
 
 θ
 
-#[Squared wave of AC](4.37.png "")
+![Squared wave of AC](4.37.png "")
 
 **_i_2 wave**
 
@@ -4101,7 +4101,7 @@ analyse phase relationship between voltage and current in different AC circuits.
 
   as shown in Figure 4.38.
 
-#[Phasor diagram for an alternating voltage _v_ = _Vm_ sin ωt](4.38.png "")
+![Phasor diagram for an alternating voltage _v_ = _Vm_ sin ωt](4.38.png "")
 
 _V_ m si
 
@@ -4165,7 +4165,7 @@ another phasor _OB_  
 
 ### AC circuit containing pure resistor
 
-#[AC circuit with resistor](4.40.png "")
+![AC circuit with resistor](4.40.png "")
 
 **R**
 
@@ -4203,7 +4203,7 @@ OA = _V_m
 
 OB = _I_m
 
-#[Phasor diagram and wave diagra  ](4.39.png "")
+![Phasor diagram and wave diagra  ](4.39.png "")
 
 _v_ \=_V tm_ sinω (4.37)
 
@@ -4290,9 +4290,9 @@ _v_
 
 _v_
 
-#[Phasor diagram and wave diagra](4.41.png "")
+![Phasor diagram and wave diagra](4.41.png "")
 
-#[AC circuit with inductor](4.42.png "")
+![AC circuit with inductor](4.42.png "")
 
 **L**
 
@@ -4418,7 +4418,7 @@ _m_\= from resistive circuit. The quantity
 
 _ωL_ plays the same role as the resistance in resistive circuit. This is the resistance
 
-#[Phasor diagram and wave diagra](4.43.png "")
+![Phasor diagram and wave diagra](4.43.png "")
 
 _V_ m sin
 
@@ -4504,7 +4504,7 @@ Consider a circuit containing a capacitor of capacitance _C_ connected across an
 
 _v_ \=_V tm_ sinω (4.43)
 
-#[AC circuit with capacitor](4.44.png "")
+![AC circuit with capacitor](4.44.png "")
 
 **C**
 
@@ -4625,7 +4625,7 @@ ICE is an acronym which means that the current leads the EMF (voltage) current i
 
 A 400 mH coil of negligible resistance is connected to an AC circuit in which an effective current of 6 mA is flowing.
 
-#[Phasor diagram and wave diagra](4.45.png "")
+![Phasor diagram and wave diagra](4.45.png "")
 
 _V_ m sin
 
@@ -4990,7 +4990,7 @@ VR
 
 VL VC
 
-#[AC circuit containing _R_, _L_ and _C_  ](4.46.png "")
+![AC circuit containing _R_, _L_ and _C_  ](4.46.png "")
 
 Let _i_ be the resulting current in the circuit at that instant. As a result, the voltage is developed across _R_, _L_ and _C_.
 
@@ -5081,9 +5081,9 @@ C_V_
 
 _v_
 
-#[Phasor diagram for a series _RLC_ – circuit when _VL_\> _VC_](4.47.png "")
+![Phasor diagram for a series _RLC_ – circuit when _VL_\> _VC_](4.47.png "")
 
-#[Voltage and impedance triangle when _XL_ > _XC_](4.48.png "")
+![Voltage and impedance triangle when _XL_ > _XC_](4.48.png "")
 
 0 A
 
@@ -5237,7 +5237,7 @@ At resonance, the impedance is
 
 _Z R X X RL C_\= + −( ) =2 2 since_X XL C_\=
 
-#[Resonance curve](4.49.png "")
+![Resonance curve](4.49.png "")
 
 0 Frequency
 
@@ -5658,7 +5658,7 @@ _L C_
 
 Consider an AC circuit in which there is a phase angle of ϕ between _VRMS_ and _IRMS_ and voltage is assumed to be leading the current by ϕ as shown in the phasor diagram (Figure 4.50).
 
-#[_VRMS_ leads _IRMS_ by ϕ](4.50.png "")
+![_VRMS_ leads _IRMS_ by ϕ](4.50.png "")
 
 **_I_RMS**
 
@@ -6056,7 +6056,7 @@ Wholly magnetic energy
 
 Wholly magnetic energy
 
-#[LC oscillations  ](4.52.png "")
+![LC oscillations  ](4.52.png "")
 
 The state of the circuit is similar to the initial state but the difference is that the capacitor is charged in opposite direction. The capacitor then starts to discharge through the inductor with anti-clockwise current. The total energy is the sum of the electrical and magnetic energies (Figure 4.52(f)).
 

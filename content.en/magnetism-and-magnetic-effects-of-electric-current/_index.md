@@ -115,7 +115,7 @@ Earlier, both electricity and magnetism were thought to be two independent branc
 
 In this unit, basics of magnets and their properties are given. Later, how a current carrying conductor (here only steady current, not time-varying current is considered) behaves like a magnet is presented.
 
-#[Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](3.2.png "")
+![Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](3.2.png "")
 
 **(a) (b)**
 
@@ -154,7 +154,7 @@ There are three quantities required to specify the magnetic field of the Earth o
 
 Earth’s magnetic field (_BH_)
 
-#[Declination angle](3.4.png "")
+![Declination angle](3.4.png "")
 
 Geographic meridian
 
@@ -240,7 +240,7 @@ Vertical component _BV_ = _BE_ sin _I_ (3.2)
 
 Dividing equation (3.2) and (3.1), we get
 
-#[Inclination angle](3.5.png "")
+![Inclination angle](3.5.png "")
 
 Horizontal
 
@@ -445,7 +445,7 @@ _q_m
 
 **\=**
 
-#[Properties of bar magnet  ](3.7.png "")
+![Properties of bar magnet  ](3.7.png "")
 
 **S**
 
@@ -894,7 +894,7 @@ r
 
 _q_mA _q_mB
 
-#[Coulomb’s law – force between two magnetic poles](3.12.png "")
+![Coulomb’s law – force between two magnetic poles](3.12.png "")
 
 **EXAMPLE 3.5**
 
@@ -1215,7 +1215,7 @@ _N m_\= ′
 
 The magnetic field at C due to the south pole is
 
-#[Components of magnetic field](3.15.png "")
+![Components of magnetic field](3.15.png "")
 
 
 
@@ -1501,7 +1501,7 @@ _θ_
 
 _O**p m**_
 
-#[Magnetic dipole kept in a uniform magnetic field](3.16.png "")
+![Magnetic dipole kept in a uniform magnetic field](3.16.png "")
 
 The moment of force or torque experienced by north and south pole about point O is        τ= × + ×_ON F OS FN S_
 
@@ -2108,7 +2108,7 @@ _m C T_
 
 χ =
 
-#[Curie’s law – susceptibility vs temperature  ](3.19.png "")
+![Curie’s law – susceptibility vs temperature  ](3.19.png "")
 
 **(c) Ferromagnetic materials** An atom or a molecule in a ferromagnetic
 
@@ -2120,7 +2120,7 @@ aligned (b) Domains aligned with
 
 external eld
 
-#[Magnetic domains – ferromagnetic materials](3.20.png "")
+![Magnetic domains – ferromagnetic materials](3.20.png "")
 
 In the presence of external magnetic field, two processes take place
 
@@ -2141,7 +2141,7 @@ Magnetized Iron in the presence of a magnetic field.
 
 **H**
 
-#[Processes of domain magnetization](3.21.png "")
+![Processes of domain magnetization](3.21.png "")
 
 Magnetism plays interes role in various aspects of life. It
 
@@ -2196,7 +2196,7 @@ _C T–Tc_
 
 χ_m_ (_T_ >_Tc_) _\=_
 
-#[Curie-Weiss law – susceptibility vs temperature  ](3.22.png "")
+![Curie-Weiss law – susceptibility vs temperature  ](3.22.png "")
 
 **Spin** Like mass and charge for particles, spin is also another
 
@@ -2366,7 +2366,7 @@ Saturation
 
 AD-AG: residual magnetism AE-AK: coercivity
 
-#[Hysteresis – plot for _B_ vs _H_](3.23.png "")
+![Hysteresis – plot for _B_ vs _H_](3.23.png "")
 
 **m (NOT FOR EXAMINATION)**
 
@@ -2422,7 +2422,7 @@ Carbon steel (hard)
 
 Silicon steel (soft)
 
-#[Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png "")
+![Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png "")
 
 
 
@@ -2548,7 +2548,7 @@ Material Z: Slope is negative and hence, it is a diamagnetic material.
 
 In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor (Figure 3.25). When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory ‘electromagnetism’ which unifies two branches in physics namely, electricity and magnetism.  
 
-#[Oersted’s experiment - current carrying wire and deflection of magnetic needle](3.25.png "")
+![Oersted’s experiment - current carrying wire and deflection of magnetic needle](3.25.png "")
 
 (b) deflection shown by compass needle due to current flowing through the wire.
 
@@ -2610,7 +2610,7 @@ The right hand rule is used to find the direction of magnetic field when the dir
 
 The Figure 3.28 shows the right hand rule for current carrying straight conductor and circular coil.
 
-#[Right hand rule – straight conductor and circular loop](3.28.png "")
+![Right hand rule – straight conductor and circular loop](3.28.png "")
 
 **_I_**
 
@@ -2640,7 +2640,7 @@ This rule can also be used to find the direction of the magnetic field around th
 
 **_I_**
 
-#[Maxwell’s right hand cork screw rule](3.29.png "")
+![Maxwell’s right hand cork screw rule](3.29.png "")
 
 **EXAMPLE 3.12**
 
@@ -3349,7 +3349,7 @@ Tangent galvanometer is a device used to detect very small currents. It is a mov
 
 magnet type galvanometer. Its working is based on tangent law (Figure 3.34).
 
-#[Tangent Galvanometer](3.34.png "")
+![Tangent Galvanometer](3.34.png "")
 
 **Tangent law**
 
@@ -3392,7 +3392,7 @@ current in the coil acting normal to the plane of the coil.
 
 (2) the horizontal component of Earth’s magnetic field (_BH_)
 
-#[Resultant position of pivoted needle](3.35.png "")
+![Resultant position of pivoted needle](3.35.png "")
 
 N
 
@@ -3638,7 +3638,7 @@ In magnitude,
 
 µ_L I A_\=
 
-#[(a) Electron revolving in a circular orbit (b) Direction of magnetic dipole moment vector and orbital angular momentum vector are opposite](3.36.png "")
+![(a) Electron revolving in a circular orbit (b) Direction of magnetic dipole moment vector and orbital angular momentum vector are opposite](3.36.png "")
 
 O O
 
@@ -3856,7 +3856,7 @@ Closed line integral means integral over a closed curve (or line), symbol is
 
 ### Magnetic field due to the current carrying wire of infinite length using Ampère’s law
 
-#[Ampèrian loop for current carrying straight wire](3.37.png "")
+![Ampèrian loop for current carrying straight wire](3.37.png "")
 
 OC
 
@@ -3974,7 +3974,7 @@ The current carrying solenoid is held in right hand. If the fingers curl in the 
 
   
 
-#[Solenoid](3.38.png "")
+![Solenoid](3.38.png "")
 
 Bubbin with Terminals
 
@@ -3992,7 +3992,7 @@ Current
 
 **Figure 3.40 The direction of magnetic** field of solenoid
 
-#[Solenoid as a bar magnet](3.39.png "")
+![Solenoid as a bar magnet](3.39.png "")
 
 S N
 
@@ -4226,7 +4226,7 @@ Thus, strength of the magnetic field is increased when we pack more loops into t
 
 A solenoid is bent in such a way its ends are joined together to form a closed ring shape, is called a toroid which is shown in Figure 3.42. The magnetic field has constant magnitude inside the toroid whereas in the interior region (say, at point P) and exterior region (say, at point Q), the magnetic field is zero.
 
-#[Toroid](3.42.png "")
+![Toroid](3.42.png "")
 
 **(a) Open space interior to the toroid** Let us calculate the magnetic field _BP_ at
 
@@ -4249,7 +4249,7 @@ point P. We construct an Amperian loop 1 of radius _r_1 around the point P as sh
 | Thus,  stincreased the same len |
   
 
-#[Toroid – Amperian loop](3.43.png "")
+![Toroid – Amperian loop](3.43.png "")
 
 S
 
@@ -4452,7 +4452,7 @@ _Fm_ is the cross product of _v_ and
 
 _B_
 
-#[Direction of the Lorentz force on (a) positive charge (b) negative charge](3.44.png "")
+![Direction of the Lorentz force on (a) positive charge (b) negative charge](3.44.png "")
 
 
 
@@ -4710,7 +4710,7 @@ _F_
 
 **+**
 
-#[Circular motion of a charged particle in a perpendicular uniform magnetic field](3.45.png "")
+![Circular motion of a charged particle in a perpendicular uniform magnetic field](3.45.png "")
 
 Consider a charged particle of charge _q_ having mass _m_ entering into a region of uniform magnetic field
 
@@ -4799,7 +4799,7 @@ From equations (3.59), (3.60) and (3.61), we infer that time period and frequenc
 
 If a charged particle moves in a region of uniform magnetic field such that its velocity is not perpendicular to the magnetic field, then the velocity of the particle is split up into two components; one component is parallel to the field while the other component perpendicular to the field. The component of velocity parallel to field remains unchanged and the component perpendicular to the field keeps changing due to Lorentz force. Hence the path of the particle is not a circle; it is a helical around the field lines as shown in Figure 3.46.
 
-#[Helical path of the electron in a uniform magnetic field](3.46.png "")
+![Helical path of the electron in a uniform magnetic field](3.46.png "")
 
 _B_
 
@@ -4807,7 +4807,7 @@ _B_
 
 For an example, the helical path of an electron when it moves in a magnetic field is shown in Figure 3.47. Inside the particle detector called cloud chamber, the path is made visible by the condensation of water droplets.
 
-#[Helical path of the electron inside the cloud chamber  ](3.47.png "")
+![Helical path of the electron inside the cloud chamber  ](3.47.png "")
 
 **EXAMPLE 3.19**
 
@@ -5418,7 +5418,7 @@ Cyclotron (Figure 3.49) is a device used to accelerate the charged particles to 
 
 When a charged particle moves perpendicular to the magnetic field, it experiences magnetic Lorentz force.
 
-#[Cyclotron invented by Lawrence and Livingston](3.49.png "")
+![Cyclotron invented by Lawrence and Livingston](3.49.png "")
 
 
 
@@ -5439,7 +5439,7 @@ When a charged particle moves perpendicular to the magnetic field, it experience
 
   
 
-#[Working of cyclotron](3.50.png "")
+![Working of cyclotron](3.50.png "")
 
 D.P
 
@@ -5623,7 +5623,7 @@ _dF I dl B_ 
 
 \= ×( ) (3.66)
 
-#[Current carrying conductor in a magnetic field](3.51.png "")
+![Current carrying conductor in a magnetic field](3.51.png "")
 
 _d q_
 
@@ -5799,7 +5799,7 @@ _i_1 1 1
 
 ( ) 
 
-#[Two long straight parallel wires](3.53.png "")
+![Two long straight parallel wires](3.53.png "")
 
 B1
 
@@ -5970,7 +5970,7 @@ _x_
 
 _yO_
 
-#[Current in both the conductors are in the same direction - attracts each other](3.54.png "")
+![Current in both the conductors are in the same direction - attracts each other](3.54.png "")
 
 The force acting per unit length of the conductor A due to the current in conductor B is 
 
@@ -5986,7 +5986,7 @@ _j_\= µ
 
 Thus the force between two parallel current carrying conductors is attractive if they carry current in the same direction. (Figure 3.55)
 
-#[Two parallel conductors carrying current in same direction experience an attractive force](3.55.png "")
+![Two parallel conductors carrying current in same direction experience an attractive force](3.55.png "")
 
 Current
 
@@ -5998,7 +5998,7 @@ _F_
 
 The force between two parallel current carrying conductors is repulsive if they carry current in opposite directions (Figure 3.56).  
 
-#[Two parallel conductors carrying current in opposite direction experience a repulsive force](3.56.png "")
+![Two parallel conductors carrying current in opposite direction experience a repulsive force](3.56.png "")
 
 Current
 
@@ -6065,7 +6065,7 @@ _a_
 
 **S** _b_
 
-#[Rectangular coil placed in a magnetic field](3.57.png "")
+![Rectangular coil placed in a magnetic field](3.57.png "")
 
 The magnitude of the magnetic force acting on the current-carrying arm PQ is _F IaB IaBPQ_ \= ( )=sin _p_
 
@@ -6105,7 +6105,7 @@ _θ b n̂_ 2 _B_
 
 _b_ 2
 
-#[Side view of current loop](3.58.png "")
+![Side view of current loop](3.58.png "")
 
 The magnitude of torque acting on the
 
@@ -6233,7 +6233,7 @@ coil PQRS whose length is _l_ and breadth _b_. PQ = RS = _l_ and QR = SP = _b_. 
 
 For single turn, the deflecting torque is τ = _bF_ = _bBIl_\= (_lb_) _BI_ = _ABI_ since area of the coil, _A_ = _lb_ For coil with _N_ turns, we get
 
-#[Moving coil galvanometer – its parts](3.59.png "")
+![Moving coil galvanometer – its parts](3.59.png "")
 
 Coil
 
@@ -6284,7 +6284,7 @@ constant or current reduction factor of the galvanometer.
 
 Since the suspended moving coil galvanometer is very sensitive, we have to handle with high care while doing experiments. Most of the galvanometer we use are pointer type moving coil galvanometer.
 
-#[Force acting on current carrying coil](3.60.png "")
+![Force acting on current carrying coil](3.60.png "")
 
 Force upwards
 
@@ -6575,7 +6575,7 @@ Ammeter is an instrument used to measure current flowing in the electrical circu
 
 A galvanometer is converted into an ammeter by connecting a low resistance in parallel with the galvanometer. This low resistance is called shunt resistance _S_. The scale is now calibrated in ampere and the range of ammeter depends on the values of the shunt resistance.
 
-#[Shunt resistance connected in parallel](3.61.png "")
+![Shunt resistance connected in parallel](3.61.png "")
 
 I I
 
@@ -6684,7 +6684,7 @@ A voltmeter is an instrument used to measure potential difference across any two
 
 Voltmeter must have high resistance and when it is connected in parallel, it will not draw appreciable current so that it will indicate the true potential difference.
 
-#[High resistance connected in series](3.62.png "")
+![High resistance connected in series](3.62.png "")
 
 A BIg
 

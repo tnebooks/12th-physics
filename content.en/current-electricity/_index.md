@@ -50,7 +50,7 @@ In unit 1, we studied the properties of charges when they are at rest. In realit
 
 Matter is made up of atoms. Each atom consists of a positively charged nucleus with negatively charged electrons moving around the nucleus. Atoms in metals have one or more electrons which are loosely bound to the nucleus. These electrons are called free electrons and can be easily detached from the atoms. The substances which have an abundance of these free electrons are called conductors. These free electrons move randomly throughout the conductor at a given temperature. In general due to this random motion, there is no net transfer of charges from one end of the
 
-#[Water current and Electric curren](2.1.png "")
+![Water current and Electric curren](2.1.png "")
 
 Equal potential
 
@@ -169,7 +169,7 @@ _I Q t_
 
 ### Conventional Current
 
-#[Direction of conventional current and electron flow](2.3.png "")
+![Direction of conventional current and electron flow](2.3.png "")
 
 **_V_**
 
@@ -359,7 +359,7 @@ Consider a conductor with area of cross section A and let an electric field
 
 _E_ be applied to it from right to left. Suppose there are _n_ electrons per unit volume in the conductor and assume that all the electrons move with the same drift velocity _vd_ as shown in Figure 2.5.
 
-#[Microscopic model of current](2.5.png "")
+![Microscopic model of current](2.5.png "")
 
 _dx_
 
@@ -504,7 +504,7 @@ In general, the current I is defined as the scalar product of the current densit
 
 The current I can be positive or negative depending on the choice of the unit vector normal to the surface area A.
 
-#[Current is a scalar](2.6.png "")
+![Current is a scalar](2.6.png "")
 
 _A_ _J__J_
 
@@ -550,7 +550,7 @@ _n_ = 20 × 1019 = 2 × 1020 electrons
 
 The ohm’s law can be derived from the equation _J = σE_. Consider a segment of wire of length _l_ and cross sectional area _A_ as shown in Figure 2.7.
 
-#[Current through the conductor](2.7.png "")
+![Current through the conductor](2.7.png "")
 
 _l_
 
@@ -657,7 +657,7 @@ The SI unit of resistance is ohm (Ω). From the equation (2.16), we infer that t
 
 straight line with a slope equal to the inverse of resistance _R_ of the conductor. It is shown in the Figure 2.8 (a).
 
-#[Current against voltage for (a) a conductor which obeys Ohm’s law and (b) for a non-ohmic device (Diode given in XII physics, unit 9 is an example of a non-ohmic device)](2.8.png "")
+![Current against voltage for (a) a conductor which obeys Ohm’s law and (b) for a non-ohmic device (Diode given in XII physics, unit 9 is an example of a non-ohmic device)](2.8.png "")
 
 Slope =
 
@@ -993,7 +993,7 @@ end to end, they are said to be in series. The resistors could be simple resisto
 
 The amount of charge passing through resistor _R_1 must also pass through resistors _R_2 and _R_3 since the charges cannot accumulate anywhere in the circuit. Due to
 
-#[Resistors in series](2.9.png "")
+![Resistors in series](2.9.png "")
 
 **_R3_**
 
@@ -1144,7 +1144,7 @@ Here _RP_ is the equivalent resistance of the parallel combination of the resist
 
 House hold appliances are always connected in parallel so that even if one is switched off, the other devices could function properly.
 
-#[Resistors in parallel](2.10.png "")
+![Resistors in parallel](2.10.png "")
 
 _RP_
 
@@ -1514,7 +1514,7 @@ The equivalent resistance of the circuit between a and b is _Req_ = 1 Ω
 
 ### Colour code for Carbon resistors
 
-#[Resistances used in laboratory](2.11.png "")
+![Resistances used in laboratory](2.11.png "")
 
 Carbon resistors consists of a ceramic core, on which a thin layer of crystalline carbon is deposited as shown in Figure 2.11. These resistors are inexpensive, stable and compact in size. Colour rings are used to indicate the value of the resistance according to the rules given in the Table 2.2.
 
@@ -1530,7 +1530,7 @@ never start with a metallic band on the left.
 
 **Note**
 
-#[Resistor colour coding](2.12.png "")
+![Resistor colour coding](2.12.png "")
 
 Decimal multiplier Tolerance
 
@@ -1665,7 +1665,7 @@ is change in resistance during the change in temperature ∆_T T T_\= −
 
 decreases with increase in temperature. As the temperature increases, more electrons will be liberated from their atoms (Refer unit 9 for conduction in semi conductors).
 
-#[(a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](2.13.png "")
+![(a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](2.13.png "")
 
 ρ_0_
 
@@ -1726,7 +1726,7 @@ Germanium −48 × 10−3
 
 Silicon −75 × 10−3
 
-#[Temperature dependence of resistivity for a semiconductor](2.14.png "")
+![Temperature dependence of resistivity for a semiconductor](2.14.png "")
 
 _T(K)_
 
@@ -1857,7 +1857,7 @@ _d_
 
 \+ -
 
-#[Energy given by the battery](2.15.png "")
+![Energy given by the battery](2.15.png "")
 
 
 
@@ -1882,7 +1882,7 @@ _d_
 
   
 
-#[Electrical bulbs with power rating](2.16.png "")
+![Electrical bulbs with power rating](2.16.png "")
 
 Usually these voltage rating refers AC RMS voltages. For a given bulb, if the voltage drop across the bulb is greater than voltage rating, the bulb will fuse.
 
@@ -2050,7 +2050,7 @@ Several electric cells connected together form a battery. When a cell or battery
 
 produces potential difference across its terminals. This potential difference provides the energy to move the electrons through the circuit. Commercially available electric cells and batteries are shown in Figure 2.18.
 
-#[Electric cells and Batteries](2.18.png "")
+![Electric cells and Batteries](2.18.png "")
 
 ### Electromotive force and internal resistance
 
@@ -2058,7 +2058,7 @@ A battery or cell is called a source of electromotive force (emf). The term ‘e
 
 Electromotive force determines the amount of work a battery or cell has to do
 
-#[Simple electric cell](2.17.png "")
+![Simple electric cell](2.17.png "")
 
 Terminal Terminal
 
@@ -2088,7 +2088,7 @@ The circuit connections are made as shown in Figure 2.20.
 
 The emf of cell ε is measured by connecting a high resistance voltmeter across it without connecting the external resistance _R_ as shown in Figure 2.20(a). Since the voltmeter draws very little current for deflection, the circuit may be considered as open. Hence the voltmeter reading gives the emf of the cell. Then, external resistance _R_ is included in the circuit and current _I_ is established in the circuit. The potential difference across
 
-#[Measuring the emf of a cell](2.19.png "")
+![Measuring the emf of a cell](2.19.png "")
 
 
 
@@ -2127,7 +2127,7 @@ _R_\= −
 
 ε (2.37)
 
-#[Internal resistance of the cell](2.20.png "")
+![Internal resistance of the cell](2.20.png "")
 
 \+ – _r_
 
@@ -2224,7 +2224,7 @@ Several cells can be connected to form a battery. In series connection, the nega
 
 Suppose _n_ cells, each of emf ε volts and internal resistance _r_ ohms are connected in series with an external resistance _R_ as shown in Figure 2.21
 
-#[cells in seriesCells in s ries (circuit diagram)](2.21.png "")
+![cells in seriesCells in s ries (circuit diagram)](2.21.png "")
 
 Cella in series (Schematic diagram)
 
@@ -2393,7 +2393,7 @@ through the external resistance due to the whole battery is _n_ times the curren
 
 (2.44)
 
-#[Cells in parallel](2.22.png "")
+![Cells in parallel](2.22.png "")
 
 _V_
 
@@ -2772,7 +2772,7 @@ When the points _B_ and _D_ are at the same potential, the bridge is said to be 
 
 _I_1= _I_3 (2.49)
 
-#[Wheatstone’s bridge](2.25.png "")
+![Wheatstone’s bridge](2.25.png "")
 
 B
 
@@ -2897,7 +2897,7 @@ The meter bridge is another form of Wheatstone’s bridge. It consists of a unif
 
 An unknown resistance _P_ is connected in G1 and a standard resistance _Q_ is connected in G2. A jockey (conducting wire-contact maker) is connected to the terminal E on the central copper strip through a galvanometer (G) and a high resistance (HR). The exact position of jockey on the wire can be read on the scale. A Lechlanche cell and a key (K) are connected between the ends of the bridge wire.
 
-#[Meter bridge](2.26.png "")
+![Meter bridge](2.26.png "")
 
 (
 
@@ -3112,7 +3112,7 @@ The principle of the potentiometer is illustrated in Figure 2.27. A steady curre
 
 The battery, key and the potentiometer wire connected in series form the primary circuit. The positive terminal of a primary cell of emf ε is connected to the point C and negative terminal is connected to the jockey through a galvanometer G and a high resistance HR. This forms the secondary circuit.
 
-#[Potentiometer](2.27.png "")
+![Potentiometer](2.27.png "")
 
 ( )
 
@@ -3138,7 +3138,7 @@ To compare the emf of two cells, the circuit connections are made as shown in Fi
 
 series. This is the primary circuit. The end C of the wire is connected to the terminal M of a DPDT (Double Pole Double Throw) switch and the other terminal N is connected to a jockey through a galvanometer G and a high resistance HR. The cells whose emf ε1 and ε2 to be compared are connected to the terminals M1,N1 and M2,N2 of the DPDT switch. The positive terminals of _Bt_, ε1 and ε2 should be connected to the same end C.
 
-#[Comparison of emf of two cells](2.28.png "")
+![Comparison of emf of two cells](2.28.png "")
 
 ( )
 
@@ -3193,7 +3193,7 @@ By including a rheostat (Rh) in the primary circuit, the experiment can be repea
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key K1. This forms the primary circuit.
 
-#[measurement of internal resistance](2.29.png "")
+![measurement of internal resistance](2.29.png "")
 
 ( )
 
@@ -3336,7 +3336,7 @@ Find the heat energy produced in a resistance of 10 Ω when 5 A current flows th
 
 toaster shown in Figure 2.30 are some of the home appliances that utilize the heating effect of current. In these appliances, the heating elements are made of nichrome, an alloy of nickel and chromium. Nichrome has a high specific resistance and can be heated to very high temperatures without oxidation.
 
-#[(a) Electric Iron box, (b) electric heater (c) electric Toaster](2.30.png "")
+![(a) Electric Iron box, (b) electric heater (c) electric Toaster](2.30.png "")
 
 (b) (c)
 
@@ -3401,13 +3401,13 @@ Fuse
 
 (trippers) are also used instead of fuses. Whenever there is an excessive current produced due to faulty wire connection, the circuit breaker switch opens. After repairing the faulty connection, we can close the circuit breaker switch. It is shown in the Figure 2.32.
 
-#[circuit breakers](2.32.png "")
+![circuit breakers](2.32.png "")
 
 **3\. Electric furnace** Furnaces as shown in Figure 2.33 are
 
 used to manufacture a large number of technologically important materials such as steel, silicon carbide, quartz, gallium arsenide, etc. To produce temperatures up to 1500°C, molybdenum-nichrome wire wound on a silica tube is used. Carbon arc furnaces produce temperatures up to 3000°C.
 
-#[Electric Fuse](2.31.png "")
+![Electric Fuse](2.31.png "")
 
 Fuse carrier
 
@@ -3434,11 +3434,11 @@ Fe
 
 (a)
 
-#[Electric furnace](2.33.png "")
+![Electric furnace](2.33.png "")
 
 **4\. Electrical lamp** It consists of a tungsten filament (melting point 33800C) kept inside a glass bulb and heated to incandescence by current. In incandescent electric lamps only about 5% of electrical energy is converted into light and the rest is wasted as heat. Electric discharge lamps, electric welding and electric arc also utilize the heating effect of current as shown in Figure 2.34.
 
-#[Electric bulb, electric arc and electric welding](2.34.png "")
+![Electric bulb, electric arc and electric welding](2.34.png "")
 
 Tungsten lament
 

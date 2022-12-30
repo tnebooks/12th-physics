@@ -62,7 +62,7 @@ The laws of reflection are valid at each point for any reflecting surface whethe
 
 **(b)**
 
-#[(a) Regular and (b) irregular reflections](6.2.png "")
+![(a) Regular and (b) irregular reflections](6.2.png "")
 
 ### Angle of deviation due to reflection
 
@@ -94,7 +94,7 @@ _d_ = 2_α_ (6.3)
 
   
 
-#[Angle of deviation due to reflection](6.3.png "")
+![Angle of deviation due to reflection](6.3.png "")
 
 **i r**
 
@@ -194,7 +194,7 @@ Let us consider a point object _A_ placed in front of a plane mirror. The point 
 
 **(b)**
 
-#[Formation of image in plane mirror for (a) point and (b) extended objects](6.4.png "")
+![Formation of image in plane mirror for (a) point and (b) extended objects](6.4.png "")
   
 
 A light ray _AO_ from the point object is incident on the mirror and it is reflected along _OB_. The normal is _ON_.
@@ -285,7 +285,7 @@ Unsymmetrical _n_\= 
 
 360 _q_
 
-#[Images formed by inclined mirrors](6.5.png "")
+![Images formed by inclined mirrors](6.5.png "")
 
 **EXAMPLE 6.2**
 
@@ -387,7 +387,7 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 **A convex mirrors**
 
-#[Spherical mirrors](6.6.png "")
+![Spherical mirrors](6.6.png "")
 
 **ll s ere**
 
@@ -428,7 +428,7 @@ All the above mentioned terms are shown in Figure 6.7 for both concave and conve
 
 **(b)**
 
-#[Representation of terminologies for (a) concave and (b) convex mirrors  ](6.7.png "")
+![Representation of terminologies for (a) concave and (b) convex mirrors  ](6.7.png "")
 
 ### Paraxial Rays and Marginal Rays
 
@@ -442,7 +442,7 @@ All the above mentioned terms are shown in Figure 6.7 for both concave and conve
 
 **Principal axis P**
 
-#[Paraxial and marginal rays](6.8.png "")
+![Paraxial and marginal rays](6.8.png "")
 
 ### Relation between _f_ and _R_
 
@@ -518,7 +518,7 @@ _PF PC_\= =;
 
 **(b) Convex Mirror**
 
-#[Relation between _f_ and _R_  ](6.9.png "")
+![Relation between _f_ and _R_  ](6.9.png "")
 
 _PF_ is focal length _f_ and _PC_ is the radius of curvature _R_.
 
@@ -566,7 +566,7 @@ The image formed by spherical mirror can be found by ray construction called ima
 
 **(d)**
 
-#[Image tracing](6.10.png "")
+![Image tracing](6.10.png "")
 
 (i) A ray parallel to the principal axis after reflection will pass (or appear to pass) through the principal focus. (Figure 6.10(a))
 
@@ -627,7 +627,7 @@ While tracing the image, we would normally come across the object distance _u_, 
 
 **Distance to the right (Positive)**
 
-#[Cartesian sign convention  ](6.11.png "")
+![Cartesian sign convention  ](6.11.png "")
 
 ### Mirror equation
 
@@ -647,7 +647,7 @@ An object _AB_ is considered on the principal axis of a concave mirror beyond th
 
 **F**
 
-#[Mirror equation](6.12.png "")
+![Mirror equation](6.12.png "")
 
 As per law of reflection, the angle of incidence ∠_BPA_ is equal to the angle of reflection ∠ ′ ′_B PA_ .
 
@@ -992,7 +992,7 @@ _Apparatus_: The apparatus used by Fizeau for determining speed of light in air 
 
 **45o**
 
-#[Speed of light by Fizeau’s method  ](6.13.png "")
+![Speed of light by Fizeau’s method  ](6.13.png "")
 
 in the wheel will get reflected by a mirror _M_ kept at a long distance _d_, about 8 _km_ from the toothed-wheel. If the toothed- wheel was not rotating, the light reflected back from the mirror would again pass through the same cut and reach the eyes of the observer who looks through the partially silvered glass plate.
 
@@ -1157,7 +1157,7 @@ In the same time _t_, light can cover a longer distance _d'_ in vacuum as it tra
 
 **d' = n d**
 
-#[Optical path](6.14.png "")
+![Optical path](6.14.png "")
   
 
 _c d t_
@@ -1303,7 +1303,7 @@ The refraction at a boundary is shown in Figure 6.15.
 
 **r n2**
 
-#[Refraction of light](6.15.png "")
+![Refraction of light](6.15.png "")
 
 For normal incidence of light on a surface, the angle of incidence is zero.
 
@@ -1323,7 +1323,7 @@ _d_ = _i_ – _r_ (6.20)
 
 **n1 n2**
 
-#[Angle of deviation due to refraction from rarer to denser medium  ](6.16.png "")
+![Angle of deviation due to refraction from rarer to denser medium  ](6.16.png "")
 
 On the other hand, if light travels from denser to rarer medium, it deviates away from normal as shown in Figure 6.17. The angle of deviation in this case is,
 
@@ -1339,7 +1339,7 @@ _d_ = _r_ – _i_ (6.21)
 
 **d=r-i**
 
-#[Angle of deviation due to refraction from denser to rarer medium](6.17.png "")
+![Angle of deviation due to refraction from denser to rarer medium](6.17.png "")
 
 ### simultaneous reflection (or) refraction
 
@@ -1396,7 +1396,7 @@ Refracted ray
 
 **Plane Mirror**(b)
 
-#[Principle of reversibility in (a) reflection and (b) refraction](6.19.png "")
+![Principle of reversibility in (a) reflection and (b) refraction](6.19.png "")
 
 Production of optical surfaces capable of refracting as well as reflecting is possible
 
@@ -1585,7 +1585,7 @@ Light from the object _O_ at the bottom of the tank passes from denser medium (w
 
 **C (c)**
 
-#[Apparent depth](6.20.png "")
+![Apparent depth](6.20.png "")
 
 _n i n r_1 2sin sin=
 
@@ -1895,7 +1895,7 @@ _ic_ \= 
 
 i
 
-#[Critical angle and total internal r  ](6.21.png "")
+![Critical angle and total internal r  ](6.21.png "")
 
 ### Effects due to total internal reflection
 
@@ -1961,7 +1961,7 @@ with its density. In hot places, air near the ground is hotter than air at a hei
 
 **(b)**
 
-#[(a) Mirage and (b) looming](6.23.png "")
+![(a) Mirage and (b) looming](6.23.png "")
 
 **Denser**
 
@@ -2023,7 +2023,7 @@ B'
 
 **(b)**
 
-#[Prisms making use of total internal reflection](6.24.png "")
+![Prisms making use of total internal reflection](6.24.png "")
 | Denseri>icRarer |
 |------|------|------|------|
 
@@ -2059,7 +2059,7 @@ In the first two cases, the critical angle _ic_ for the material of the prism mu
 
 **6.4.7.4 Radius of illumination (Snell’s window)**
 
-#[Light source inside water tank](6.25.png "")
+![Light source inside water tank](6.25.png "")
 
 When a source of light like electric bulb is kept inside a water tank, the light from the source travels in all direction inside the water. The light that is incident on the water surface at an angle less than the critical angle will undergo refraction and emerge out from the water. The light incident at an angle greater than critical angle will undergo total internal reflection.The light falling particularly at critical angle graces the surface. Thus, the entire surface of water appears illuminated when seen from outside as shown in Figure 6.25.
 
@@ -2071,7 +2071,7 @@ On the other hand, when the light entering the water from outside is seen from i
 
 **(b)**
 
-#[(a) Snell’s window and (b) angle of view for water animals](6.26.png "")
+![(a) Snell’s window and (b) angle of view for water animals](6.26.png "")
 
 The angle of view for water animals is restricted to twice the critical angle 2_ic_. The critical angle for water is 48.6o. Thus the angle of view is 97.2o. The radius _R_ of the circular area depends on the depth _d_ from which it is seen and also the refractive index _n_ of the medium. The radius _R_ of Snell’s window can be deduced with the illustration as shown in Figure 6.27.
 
@@ -2087,7 +2087,7 @@ A
 
 B
 
-#[Radius of Snell’s window](6.27.png "")
+![Radius of Snell’s window](6.27.png "")
 
 |------|------|------|------|
 
@@ -2427,7 +2427,7 @@ the critical angle. Hence, it advances with repeated total internal reflections 
 
 **Acceptance Cone(b)**
 
-#[(a) acceptance angle and (b) acceptance cone](6.29.png "")
+![(a) acceptance angle and (b) acceptance cone](6.29.png "")
 
 The Snell’s law in the product form, equation (6.19), for this refraction at the point _A_ is,
 
@@ -2662,7 +2662,7 @@ the light ray emerges in the same direction as that of the incident ray on the g
 
 **A**
 
-#[Refraction in glass slab](6.30.png "")
+![Refraction in glass slab](6.30.png "")
 
 Consider a glass slab of thickness _t_ and refractive index _n_ kept in air medium. If the path of the light is _ABCD,_ the refractions occur at two points _B_ and _C_ in the glass slab. The angles of incidence _i_ and refraction _r_ are measured with respect to the normal _N_1 and _N_2 at the two points _B_ and _C_ respectively. The lateral displacement _L_ is the perpendicular distance _CE_ drawn between the paths of the deviated light and the undeviated light at point _C_.
 
@@ -2827,7 +2827,7 @@ Let us consider two transparent media with refractive indices _n_1 and _n_2 whic
 
 **C**
 
-#[Refraction at single spherical surface](6.31.png "")
+![Refraction at single spherical surface](6.31.png "")
 
 Light from _O_ falls on the refracting surface at _N_. The normal drawn to the refracting surface at the point of incidence passes through the centre of curvature _C_. As _n_2>_n_1, light in the denser medium deviates towards the normal and meets the principal axis at _I_ where the image is formed.
 
@@ -3038,13 +3038,13 @@ As the thin lens is formed by two surfaces, the lens may separate two different 
 
 **F1 P P F1**
 
-#[Primary focus](6.32.png "")
+![Primary focus](6.32.png "")
 
 **The _secondary focus_ _F_2 is defined as a point where all the parallel rays travelling close to the principal axis converge to form an image on the principal axis** **after passing through lens** as shown in Figure 6.33. For a converging lens, such an image is a real image and for a diverging lens, it is a virtual image. The distance _PF_2 is the secondary focal length _f_2.
 
 **F2P PF2**
 
-#[Secondary focus](6.33.png "")
+![Secondary focus](6.33.png "")
 
 1 4 60
 
@@ -3213,7 +3213,7 @@ O P **I I'**
 
 **21**
 
-#[Refraction through thin lens](6.34.png "")
+![Refraction through thin lens](6.34.png "")
 
 |------|------|------|------|
 | 2 |
@@ -3592,7 +3592,7 @@ As the focal length is positive, the lens is a converging lens.
 
 The power of a lens is a measure of its deviating ability on an incident light. When a ray is incident on a lens then the degree with which the lens deviates the ray is determined
 
-#[Power of lens](6.36.png "")
+![Power of lens](6.36.png "")
 
 **F**
 
@@ -3936,7 +3936,7 @@ As the height of the image is positive, the image is erect and real.
 
 If one of the surfaces of a lens is silvered from outside, then such a lens is said to be a silvered lens. A silvered lens is a combination of a lens and a mirror. Light can enter through the transparent front surface of the lens and get reflected by the silver coated rear surface. Hence, light travels two times through the lens as shown in Figure 6.38.
 
-#[Slivered lens](6.38.png "")
+![Slivered lens](6.38.png "")
 
 The power _P_ of the silvered lens is,
 
@@ -4163,7 +4163,7 @@ _u_ = –15 cm = –0.15 m The object is to be placed 15 cm to the left of the s
 
 A prism is a triangular block of transparent glass. It is bounded by the three plane faces. Its one face is rough which is called base of the prism. The other two faces are polished which are called refracting faces of the prism. The angle between the two refracting faces is called angle of the prism (or) refracting angle (or) apex angle. It is represented as _A_ in Figure 6.39.
 
-#[Prism](6.39.png "")
+![Prism](6.39.png "")
 
 A
 
@@ -4197,7 +4197,7 @@ B C
 
 Q S
 
-#[Refraction through prism](6.40.png "")
+![Refraction through prism](6.40.png "")
 
 The angle of deviation _d_1 at surface _AB_ is,
 
@@ -4321,7 +4321,7 @@ The refractive index of the material of the prism is, _n_ = 1.15
 
 A graph plotted between the angle of incidence and angle of deviation is shown in Figure 6.41. One could observe that the angle of deviation decreases with increase in angle of incidence and reaches a minimum value _D_ and then continues to increase.
 
-#[Graph between _i_ and _d_](6.41.png "")
+![Graph between _i_ and _d_](6.41.png "")
 
 **The minimum value of angle of deviation is called angle of _minimum deviation D_. At minimum deviation**,
 
@@ -4331,7 +4331,7 @@ A graph plotted between the angle of incidence and angle of deviation is shown i
 
 _i irr_
 
-#[Angle of minimum deviation  ](6.42.png "")
+![Angle of minimum deviation  ](6.42.png "")
 
 (iii) the refracted ray inside the prism is parallel to its base of the prism.
 
@@ -4474,7 +4474,7 @@ The refractive index of the material of the prism is, _n_ = 1.5
 
 The angle of deviation produced by a prism is so far discussed only for monochromatic light (i.e. light of single colour). When white light enter in to a prism, an effect called _dispersion_ takes place. **Dispersion is splitting of white light into its constituent colours. This band of colours of light is called its** **_spectrum_**. When a narrow beam of parallel rays of white light is incident on a prism and the refracted beam is received on a white screen. A band of colours is obtained in the order, recollected by the word: VIBGYOR i.e., Violet, Indigo, Blue, Green, Yellow, Orange and Red. The violet is the most deviated colour and red is the least deviated colour as shown in Figure 6.43.
 
-#[Dispersion of white light in to its constituent colours](6.43.png "")
+![Dispersion of white light in to its constituent colours](6.43.png "")
 
 The colours obtained in a spectrum depend on the nature of the light source. Each colour in vacuum has a definite wavelength. The red colour has the longest wavelength of 700 nm while the violet  
 
@@ -4537,7 +4537,7 @@ g mild shower (or) near the fountains/falls emain suspended in air. A rainbow is
 
 vR
 
-#[Angle of deviation for different colours](6.44.png "")
+![Angle of deviation for different colours](6.44.png "")
 | 396.9 |1.533 |
 |------|------|
 | 486.1 |1.523 |

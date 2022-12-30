@@ -83,7 +83,7 @@ temperature, the free electrons on the surface of the metal get sufficient energ
 
 **ermal energy** (b)**Electrons**(a)
 
-#[Electrons in the (a) metal (b) heated metal](8.1.png "")
+![Electrons in the (a) metal (b) heated metal](8.1.png "")
 
 The intensity of the thermionic emission (the number of electrons emitted) depends on the metal used and its temperature. **Examples:** cathode ray tubes, electron microscopes, x-ray tubes etc (Figure 8.2).
 
@@ -119,7 +119,7 @@ very strong electric field is applied across the metal. This strong field pulls 
 
 **\+ + + + + +**
 
-#[Field emission](8.3.png "")
+![Field emission](8.3.png "")
 
 **ls**
 
@@ -160,7 +160,7 @@ suitable frequency is incident on the surface of the metal, the energy is transf
 
 **Metal**
 
-#[Photo electric emission](8.4.png "")
+![Photo electric emission](8.4.png "")
 
 **iv) Secondary emission** When a beam of fast moving electrons
 
@@ -170,7 +170,7 @@ strikes the surface of the metal, the kinetic energy of the striking electrons i
 
 **High Speed electrons Secondary electrons**
 
-#[Secondary emission of electrons  ](8.5.png "")
+![Secondary emission of electrons  ](8.5.png "")
 
 ## **PHOTO ELECTRIC EFFECT**
 
@@ -236,7 +236,7 @@ Further, if the negatively charged zinc plate is exposed to ultraviolet light, t
 
 **++ +++**
 
-#[Irradiation of ultraviolet light on (a) uncharged zinc plate (b) negatively charged plate (c) positively charged plate  ](8.6.png "")
+![Irradiation of ultraviolet light on (a) uncharged zinc plate (b) negatively charged plate (c) positively charged plate  ](8.6.png "")
 
 **Lenard’s observation** In 1902, Lenard studied this electron
 
@@ -258,7 +258,7 @@ emission phenomenon in detail. His simple experimental setup is shown in Figure 
 
 **_I_**
 
-#[Experimental setup of Lenard](8.7.png "")
+![Experimental setup of Lenard](8.7.png "")
 
 When ultraviolet light is incident on the negative plate _C_, an electric current flows in the circuit that is indicated by the deflection in the galvanometer. On other hand, if the positive plate is irradiated by the ultraviolet light, no current is observed in the circuit.
 
@@ -297,7 +297,7 @@ employed to study the phenomenon of photoelectric effect in detail. _S_ is a sou
 
 **_S_**
 
-#[Experimental setup for the study o  ](8.8.png "")
+![Experimental setup for the study o  ](8.8.png "")
 
 the cathode (negative electrode) made up of photosensitive material and is used to emit electrons. The anode (positive electrode) _A_ collects the electrons emitted from _C_. These electrodes are kept in an evacuated glass envelope with a quartz window that permits the passage of ultraviolet and visible light.
 
@@ -352,7 +352,7 @@ To study the effect of intensity of incident light on photoelectric current, the
 
 **Frequency and Accelerating potential- constant**
 
-#[Variation of photocurrent with intensity](8.9.png "")
+![Variation of photocurrent with intensity](8.9.png "")
 
 A graph is drawn between light intensity along x-axis and the photocurrent along y-axis. From the graph in Figure 8.9, it is evident that _photocurrent – the number of electrons emitted per second – is directly proportional to the intensity of the incident light_.  
 
@@ -402,7 +402,7 @@ particular negative potential _V_0, called stopping or cut-off potential.
 
 **potential**
 
-#[Variation of photocurrent with potential difference](8.10.png "")
+![Variation of photocurrent with potential difference](8.10.png "")
 
 **Stopping potential** is that value of the negative (retarding) potential given to the collecting electrode _A_ which is just sufficient to stop the most energetic photoelectrons emitted and make the photocurrent zero.
 
@@ -464,7 +464,7 @@ _ν **3** ν **2** ν **1**_
 
 –**_V_03** –**_V_02** –**_V_01**
 
-#[Variation of photocurrent with collector electrode potential for different frequencies of the incident radiation](8.11.png "")
+![Variation of photocurrent with collector electrode potential for different frequencies of the incident radiation](8.11.png "")
 
 (or)
 | ν  ν  ν>  > 3  2  ν1 νν3 2 1 |
@@ -486,7 +486,7 @@ _ν **0A** ν_ **\>** _ν **0B**ν_ **\>**
 
 _ν **0B**_
 
-#[Variation of stopping potential with frequency of the incident radiation for two metals](8.12.png "")
+![Variation of stopping potential with frequency of the incident radiation for two metals](8.12.png "")
 
 Now a graph is drawn between frequency of incident radiation and the stopping potential for different metals (Figure 8.12). From this graph, it is found that stopping potential varies linearly with frequency. Below a certain frequency called threshold frequency, no electrons are emitted; hence stopping potential is zero for that reason. But as the frequency is increased above threshold value, the stopping potential varies linearly with the frequency of incident light.
 
@@ -693,7 +693,7 @@ where _m_ is the mass of the electron and _v_ its velocity. This is shown in Fig
 
 **_Kmax = hv – hv_0**
 
-#[Emission of photoelectrons](8.13.png "")
+![Emission of photoelectrons](8.13.png "")
 
 If we reduce the frequency of the incident light, the speed or kinetic energy of photo electrons is also reduced. At some frequency _ν_0 of incident radiation, the photo electrons are just ejected with almost zero kinetic energy (Figure 8.13(b)). Then the equation (8.6) becomes
 
@@ -730,7 +730,7 @@ _Kmax_ = _hv_ – _ϕ_0 (8.8)
 
 **Frequency**
 
-#[_K_max vs _ν_ graph](8.14.png "")
+![_K_max vs _ν_ graph](8.14.png "")
 
 A graph between maximum kinetic energy _K_max of the photoelectron and frequency _ν_ of the incident light is a straight line as shown in Figure 8.14. The slope of the line is _h_ and its y-intercept is –_ϕ_0.
 
@@ -848,7 +848,7 @@ The cathode _C_ is semi-cylindrical in shape and is coated with a photo sensitiv
 
 **Radiation**
 
-#[Construction of photo cell](8.16.png "")
+![Construction of photo cell](8.16.png "")
 
 **Working:** When cathode is irradiated with suitable
 
@@ -1316,7 +1316,7 @@ The filament _F_ is heated by a low tension (L.T.) battery. Electrons are emitte
 
 **_θ_**
 
-#[Experimental set up of Davisson – Germer experiment](8.17.png "")
+![Experimental set up of Davisson – Germer experiment](8.17.png "")
 
 The electrons scattered by Ni atoms in different directions are received by the electron detector which measures the intensity of scattered electron beam. The detector is capable of rotation in the plane of the paper so that the angle _θ_ between the incident beam and the scattered beam can be changed at our will. The intensity of the scattered electron beam is measured as a function of the angle _θ_.
 
@@ -1348,7 +1348,7 @@ The electrons scattered by Ni atoms in different directions are received by the 
 
 **_θ_**
 
-#[Variation of intensity of diffracted electron beam with the angle θ](8.18.png "")
+![Variation of intensity of diffracted electron beam with the angle θ](8.18.png "")
 | V = 54 V50° |
   
 
@@ -1405,7 +1405,7 @@ The resolving power of a microscope is inversely proportional to the wavelength 
 Louis de Broglie wavelength of electron is very much less than (a few thousands less) that of the visible light being used in optical microscopes. As a result, the microscopes employing de Broglie waves of electrons have very much higher resolving power than
   
 
-#[(a) Optical microscope (b) Electr microscope](8.19.png "")
+![(a) Optical microscope (b) Electr microscope](8.19.png "")
 
 **Light source**
 
@@ -1798,7 +1798,7 @@ The electrons are accelerated to high speeds by the voltage applied between the 
 
 **_F_**
 
-#[Production of x-rays](8.20.png "")
+![Production of x-rays](8.20.png "")
 
 When high-speed electrons strike the target, they are decelerated suddenly and lose their kinetic energy. As a result, x-ray photons are produced. Since most of the kinetic energy of the bombarding electrons gets converted into heat, targets made of high-melting-point metals and a cooling system are usually employed.
 
@@ -1826,7 +1826,7 @@ The **continuous spectrum** consists of radiations of all possible wavelengths w
 
 **sit y**
 
-#[(a) X-ray spectra of tungsten at various accelerating potentials](8.21.png "")
+![(a) X-ray spectra of tungsten at various accelerating potentials](8.21.png "")
 
 **Tungsten, 35 kV**
 
@@ -1846,7 +1846,7 @@ The **continuous spectrum** consists of radiations of all possible wavelengths w
 
 **K**β
 
-#[(b) X-ray spectra of tungsten and molybdenum at 35 _kV_ accelerating potential](8.21.png "")
+![(b) X-ray spectra of tungsten and molybdenum at 35 _kV_ accelerating potential](8.21.png "")
 
 Though classical electromagnetic theory suggests the emission of radiations from accelerating electrons, it could not explain two features exhibited by x-ray spectra. These features are given below. (i) For a given accelerating voltage, the
 
@@ -1869,7 +1869,7 @@ When a fast moving electron penetrates and approaches a target nucleus, the inte
 
 **_E_1>_E_2**
 
-#[Bremsstrahlung photon from a decelerating electron](8.22.png "")
+![Bremsstrahlung photon from a decelerating electron](8.22.png "")
 
 The energy of the photon emitted is equal to the loss of kinetic energy of the electron. Since an electron may lose part or all of its energy to the photon, the photons are emitted with all possible energies (or frequencies). The continuous x-ray spectrum is due to such radiations.
 
@@ -1946,7 +1946,7 @@ easily than through bones. Thus an x-ray
 
 **_n=4_**
 
-#[Origin of characteristic x-ray spectra  ](8.23.png "")
+![Origin of characteristic x-ray spectra  ](8.23.png "")
 
 radiograph containing a deep shadow of the bones and a light shadow of the flesh may be obtained. X-ray radiographs are used to detect fractures, foreign bodies, diseased organs etc.
 

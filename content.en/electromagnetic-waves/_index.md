@@ -15,7 +15,7 @@ _“One scientific epoch ended_
 
 **Learning Objectives**
 
-#[Visible spectrum – rainbow and lightning](5.1.png "")
+![Visible spectrum – rainbow and lightning](5.1.png "")
 
 We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure
 
@@ -42,7 +42,7 @@ the following question, “when the time varying magnetic field produces an elec
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell’s prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
 
-#[(a) Cell phone tower and cell phone (b) X-ray radiograph](5.2.png "")
+![(a) Cell phone tower and cell phone (b) X-ray radiograph](5.2.png "")
 
 (a)
 
@@ -119,7 +119,7 @@ In order to understand how the changing electric field induces magnetic field, l
 
 Let a time−dependent current _ic_, called conduction current be passed through the wire to charge the capacitor.
 
-#[Applying Ampere's circuital law - loop enclosing surface](5.3.png "")
+![Applying Ampere's circuital law - loop enclosing surface](5.3.png "")
 
 _S1_
 
@@ -143,7 +143,7 @@ enclosing S1
 
 where µo is the permeability of free space.
 
-#[Applying Ampere's circuital law - loop enclosing surface _S2_](5.4.png "")
+![Applying Ampere's circuital law - loop enclosing surface _S2_](5.4.png "")
 
 _S2_
 
@@ -172,7 +172,7 @@ the plates of the capacitor (gap between the plates). So the magnetic field at a
 
 Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time−varying electric field (or time−varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor (Figure 5.5).
 
-#[Applying Gauss’s law between the plates of the capacitor](5.5.png "")
+![Applying Gauss’s law between the plates of the capacitor](5.5.png "")
 
 _S2_
 
@@ -549,7 +549,7 @@ Maxwell’s prediction was experimentally confirmed by Heinrich Rudolf Hertz in 
 
 It consists of two metal electrodes which are made of small spherical metals. These are connected to larger spheres and the ends of them are connected to induction coil with very large number of turns. This is to produce very high electromotive force (emf).
 
-#[(a) Heinrich Rudolf Hertz (b) S](5.7.png "")
+![(a) Heinrich Rudolf Hertz (b) S](5.7.png "")
 
 (a) (b)  
 
@@ -584,7 +584,7 @@ _q_ –_q_ **\+ \_**
 
   
 
-#[Electromagnetic waves – transverse wave](5.8.png "")
+![Electromagnetic waves – transverse wave](5.8.png "")
 
 **E**
 
@@ -959,7 +959,7 @@ This magnetic field can be easily produced with a permanent magnet. So, electrom
 
 When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddish- orange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
 
-#[Black body radiation spectrum – variation with temperature](5.11.png "")
+![Black body radiation spectrum – variation with temperature](5.11.png "")
 
 **In te**
 
@@ -998,15 +998,15 @@ is called black body spectrum (Refer XI Physics Unit 8). It is a continuous freq
 
 Suppose we allow a beam of white light to pass through the prism (as shown in Figure 5.12). It is split into its seven constituent colours which can be viewed on the screen as continuous spectrum. This phenomenon is known as dispersion of light and the definite pattern of colours obtained on the screen after dispersion is called as spectrum. The spectra can be broadly classified into two catagories:
 
-#[White light passed through prism – dispersion](5.12.png "")
+![White light passed through prism – dispersion](5.12.png "")
 
 **(a)Emission spectra** When the spectrum of self luminous
 
 source is taken, we get emission spectrum. Each source has its own characteristic
 
-#[continuous emission spectra](5.13.png "")
+![continuous emission spectra](5.13.png "")
 
-#[line emission spectra](5.14.png "")
+![line emission spectra](5.14.png "")
 
 **Hot gas**  
 
@@ -1047,11 +1047,11 @@ bands which are separated by dark spaces. This spectrum has a sharp edge at one 
 
 When we pass white light through a blue glass plate, it absorbs all the colours except blue and gives continuous absorption spectrum.
 
-#[line absorption spectra](5.15.png "")
+![line absorption spectra](5.15.png "")
 
 **Cold gas**
 
-#[Solar spectrum - Fraunhofer line](5.16.png "")
+![Solar spectrum - Fraunhofer line](5.16.png "")
 
 4000
 
