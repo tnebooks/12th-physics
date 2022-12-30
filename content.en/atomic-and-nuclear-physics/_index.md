@@ -31,7 +31,7 @@ _All of physics is either impossible or trivial. It is imposs_
 
 **Same size**
 
-**Figure 9.1** Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth
+![Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth](9.1.png "")
 
 **9.1**  
 
@@ -78,7 +78,7 @@ A simple and convenient device used to study the conduction of electricity throu
 
 **— +**
 
-**Figure 9.2** Discharge tube (a) real picture (b) schematic diagram
+![Discharge tube (a) real picture (b) schematic diagram](9.2.png "")
 
 **(a)**
 
@@ -184,7 +184,7 @@ discharge tube is kept in between pole pieces of magnet such that both electric 
 
 **B v**
 
-**Figure 9.4** Electric force balancing the magnetic force – the path of electron beam is a straight line
+![Electric force balancing the magnetic force – the path of electron beam is a straight line](9.4.png "")
 
 For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let _e_ be the charge of the cathode rays, then
 
@@ -264,7 +264,7 @@ y´ y
 
 **_l_**
 
-**Figure 9.5** Deviation of path by applying uniform electric field
+![Deviation of path by applying uniform electric field](9.5.png "")
 
 Let _y_ be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be _u_ \= 0 before entering the parallel electric plates. Let _t_ be the time taken by the cathode rays to travel in electric field. Let _l_ be the length of one of the plates, then the time taken is
 
@@ -388,7 +388,7 @@ Few oil drops in the chamber can acquire electric charge (negative charge) becau
 
 **Light source**
 
-**Figure 9.6** Millikan’s experiment (a) real picture and schematic picture (b) Side view picture
+![Millikan’s experiment (a) real picture and schematic picture (b) Side view picture](9.6.png "")
 
 (a)
 
@@ -412,7 +412,7 @@ Let _m_ be the mass of the oil drop and _q_ be its charge. Then the forces actin
 
 **(a) (b)**
 
-**Figure 9.7** Free body diagram of the oil drop – (a) without electric field (b) with electric field
+![Free body diagram of the oil drop – (a) without electric field (b) with electric field](9.7.png "")
 
 **(a) Determination of radius of the droplet**
 
@@ -596,7 +596,7 @@ Positively charged material
 
 **10 m–10**
 
-**Figure 9.8** (a) Atom (b) Water melon
+![(a) Atom (b) Water melon](9.8.png "")
 
 The atoms are electrically neutral, this implies that the total positive charge in an atom is equal to the total negative charge. According to this model, all the charges are assumed to be at rest. But from classical electrodynamics, no stable equilibrium points exist in electrostatic configuration (this is known as Earnshaw’s theorem) and hence such an atom cannot be stable. Further, it fails to explain the origin of spectral lines observed in the spectrum of hydrogen atom and other atoms.
 
@@ -623,7 +623,7 @@ Rutherford proposed an atom model based on the results of alpha scattering
 
 
 
-**Figure 9.9** Schematic diagram for scattering
+![Schematic diagram for scattering](9.9.png "")
 
 \_ \_
 
@@ -641,7 +641,7 @@ Rutherford proposed an atom model based on the results of alpha scattering
 
 **+**
 
-**Figure 9.10** In alpha scattering experiment – result (c) The variation of alpha particles scatt  
+![In alpha scattering experiment – result (c) The variation of alpha particles scatt  ](9.10.png "")
 
 experiment. In this experiment, alpha particles (positively charged particles) were allowed to fall on the atoms of a metallic gold foil. The results of this experiment are given below and are shown in Figure 9.10, Rutherford expected the atom model to be as seen in Figure 9.10 (a) but the experiment showed the model as in Figure 9.10 (b). (a) Most of the alpha particles were
 
@@ -714,7 +714,7 @@ From the experimental observations, Rutherford proposed that an atom has a lot o
 
 **_b_ Impact parameter gold nucleusdistance of closed approachAlpha particles _r0_**
 
-**Figure 9.11** Distance of closest approach and impact parameter
+![Distance of closest approach and impact parameter](9.11.png "")
 
 When an alpha particle moves straight towards the nucleus, it reaches a point where it comes to rest momentarily and returns back as shown in Figure 9.11. **The minimum distance between the centre**  
 
@@ -774,7 +774,7 @@ where _Ek_ is the kinetic energy of the alpha particle.This is used to estimate 
 
 **large distance**
 
-**Figure 9.12** Impact parameter
+![Impact parameter](9.12.png "")
 
 **The** **impact parameter** (_b_) (see Figure 9.12) **is defined as the perpendicular distance between the centre of the gold nucleus and the direction of velocity vector of alpha particle when it is at a large distance**. The
 
@@ -829,7 +829,7 @@ calculation of the diameter of the nucleus and also the size of the atom but has
 
 **_e\__** \+ \_
 
-**Figure 9.13** Spiral in motion of an electron around the nucleus
+![Spiral in motion of an electron around the nucleus](9.13.png "")
 
 According to classical electrodynamics, any accelerated charge should emit electromagnetic radiations continuously. Due to emission of radiations, the charge loses its energy. Hence, it can no longer sustain the circular motion. The radius of the orbit, therefore, becomes smaller and smaller (undergoes spiral motion) as shown in Figure 9.13 and finally the electron should fall into the nucleus and the atoms should disintegrate. But this does not happen.  
 
@@ -882,7 +882,7 @@ According to quantum mechanics, particles like electrons have dual nature (Refer
 
 Forbidden
 
-**Figure 9.15** Standing wave pattern for electron in a stable orbit  
+![Standing wave pattern for electron in a stable orbit  ](9.15.png "")
 
 The circumference of an electron’s orbit of radius _r_ must be an integral multiple of de Broglie wavelength – that is,
 
@@ -938,7 +938,7 @@ wavelength and _v_ is the frequency of the radiation emitted. Thus, the frequenc
 
 \_
 
-**Figure 9.16** Absorption and emission of radiation
+![Absorption and emission of radiation](9.16.png "")
 
 
 
@@ -1032,7 +1032,7 @@ _l mr_
 
 **Nucleus +Z_e_ +**
 
-**Figure 9.17** Electron revolving around the nucleus
+![Electron revolving around the nucleus](9.17.png "")
 
 Let _Z_ be the atomic number of the atom, then +_Ze_ is the charge of the nucleus. Let –_e_ be the charge of the electron. From Coulomb’s law, the force of attraction between the nucleus and the electron is
 
@@ -1257,7 +1257,7 @@ _n n_
 
 **r1**
 
-**Figure 9.18** Variation of radius of the orbit with principal quantum number
+![Variation of radius of the orbit with principal quantum number](9.18.png "")
 
 υ π_n_
 
@@ -1275,7 +1275,7 @@ Note that the velocity of electron decreases as the principal quantum number (or
 
 **O n**
 
-**Figure 9.19** Variation of velocity of the electron in the orbit with principal quantum number
+![Variation of velocity of the electron in the orbit with principal quantum number](9.19.png "")
 
 υ_n n_ µ 1
 
@@ -2100,7 +2100,7 @@ When any gas is heated up, the thermal energy is supplied to excite the electron
 
 **Low-pressure gas**
 
-**Figure 9.21** Spectrum of an atom  
+![Spectrum of an atom  ](9.21.png "")
 
 electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state with those wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
 
@@ -2126,7 +2126,7 @@ electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs e
 
 **pectrum**
 
-**Figure 9.22** Hydrogen spectrum (a) emission (b) absorption
+![Hydrogen spectrum (a) emission (b) absorption](9.22.png "")
 
 **Line spectrum**
 
@@ -2215,7 +2215,7 @@ The wavelengths of these lines can be calculated with great precision. Further, 
 
 **n m**
 
-**Figure 9.23** Spectral series – Lyman, Balmer, Paschen series
+![Spectral series – Lyman, Balmer, Paschen series](9.23.png "")
 
 Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each  
 
@@ -2779,7 +2779,7 @@ _A H n A_\=
 
 150 200 250
 
-**Figure 9.24** Avg. binding energy of the nucleons
+![Avg. binding energy of the nucleons](9.24.png "")
 
 Important inferences from of the average binding energy curve:
 
@@ -3356,7 +3356,7 @@ In this decay process, the daughter nucleus 12
 
 4.4 MeV
 
-**Figure 9.25** Gamma emission
+![Gamma emission](9.25.png "")
 
 ### Law of radioactive decay
 
@@ -3472,7 +3472,7 @@ _N_0/16
 
 2_T_1/2 3_T_1/2 4_T_1/2
 
-**Figure 9.26** Law of radioactive decay
+![Law of radioactive decay](9.26.png "")
 
 We can also define another useful quantity called activity (R) or decay rate which is the number of nuclei decayed per
 
@@ -4373,7 +4373,7 @@ Several neutrons from the initial ssion event cause ssion in additional 235U n
 
 95 39Y
 
-**Figure 9.28** Nuclear chain reaction  
+![Nuclear chain reaction  ](9.28.png "")
 
 **EXAMPLE 9.15**
 
@@ -4501,7 +4501,7 @@ Uranium containers
 
 **Shielding**
 
-**Figure 9.29** (a) Block diagram of Nuc  
+![(a) Block diagram of Nuc  ](9.29.png "")
 
 with plutonium or polonium is used as the neutron source. During fission of
 
@@ -4555,7 +4555,7 @@ Usually cadmium or boron acts as control rod material and these rods are inserte
 
 **Shielding:** For a protection against harmful radiations, the nuclear reactor is
 
-**Figure 9.29** (b) Schematic diagram o
+![(b) Schematic diagram o](9.29.png "")
 
 Core (fuel and moderator)
 
@@ -4718,7 +4718,7 @@ u 2 3+ _e_
 
 d 1 3– _e_
 
-**Figure 9.30** Constituents of nucleons
+![Constituents of nucleons](9.30.png "")
 
 The study of elementary particles is called particle physics and it is an active area of research even now. Till date, more than 20 Nobel prizes have been awarded in the field of particle physics.
 

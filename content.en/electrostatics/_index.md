@@ -93,7 +93,7 @@ A negatively charged rubber rod is attracted to a positively
 
 charged glass rod
 
-**Figure 1.1** (a) Unlike charges attract each oth  
+![(a) Unlike charges attract each oth  ](1.1.png "")
 
 is another intrinsic and fundamental property of particles. The nature of charges is understood through various experiments performed in the 19th and 20th century. The SI unit of charge is coulomb.
 
@@ -213,7 +213,7 @@ _q_**2**
 
 **r**
 
-**Figure 1.2** Coulomb force between two positive point charges
+![Coulomb force between two positive point charges](1.2.png "")
 
 **Important aspects of Coulomb’s law (i)** Coulomb's law states that the electrostatic force is directly proportional to the product of the magnitude of the two point charges and is inversely proportional to the square of the distance between the two point charges.
 
@@ -922,7 +922,7 @@ The electrostatic force between a proton and an electron is enormously greater t
 
 **F**G 
 
-**Figure 1.3** Electrostatic attraction between a comb and pieces of papers  
+![Electrostatic attraction between a comb and pieces of papers  ](1.3.png "")
 
 ### Superposition principle
 
@@ -1478,7 +1478,7 @@ the test charge **_q0_** is directed
 
 toward **_q_**.
 
-**Figure 1.5** Coulomb’s law in terms of electric field
+![Coulomb’s law in terms of electric field](1.5.png "")
 
 **(iii)** The equation (1.4) implies that the electric field is independent of the test charge _q_o and it depends only on the source charge _q_. **(iv)** Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude as shown in Figures 1.6(a) and (b). From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
 
@@ -1545,7 +1545,7 @@ Non uniform electric eld
 
 Non uniform electric eld
 
-**Figure 1.7** Uniform and non-uniform electric field
+![Uniform and non-uniform electric field](1.7.png "")
 
 **EXAMPLE 1.6**
 
@@ -2500,7 +2500,7 @@ where _r_\+ is the position vector of +_q_ from the origin and _r_\- is th
 
 
 
-**Figure 1.14** (a) Electric dipole (b) Electric field lines for the electric dipole
+![(a) Electric dipole (b) Electric field lines for the electric dipole](1.14.png "")
 
 
 
@@ -3149,7 +3149,7 @@ If the electric field is not uniform, then the force experienced by +_q_ is diff
 
 **_–_**
 
-**Figure 1.18** Torque on dipole
+![Torque on dipole](1.18.png "")
 
 
 
@@ -3247,7 +3247,7 @@ this torque ry fast and is used to
 
 **+**
 
-**Figure 1.20** Work done is equal to potential energy
+![Work done is equal to potential energy](1.20.png "")
 
 The test charge _q_′ is brought from R to P with constant velocity which means that external force used to bring the test charge _q_′ from R to P must be equal and opposite to the coulomb force
 
@@ -3394,7 +3394,7 @@ Consider a positive charge _q_ kept fixed at the origin. Let P be a point at dis
 
 **\+ _r_**
 
-**Figure 1.21** Electrostatic potential at a point P
+![Electrostatic potential at a point P](1.21.png "")
 
 The electric potential at the point P is
 
@@ -3494,7 +3494,7 @@ to _V q r_
 
 In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower
 
-**Figure 1.22** Motion of masses in terms of gravitational potential
+![Motion of masses in terms of gravitational potential](1.22.png "")
 
 **Earth**
 
@@ -3597,7 +3597,7 @@ where _r1,r2,r3_……._rn_ are the distances of _q1, q2, q3_ ….. _qn_ respect
 
 **+**
 
-**Figure 1.23** Motion of charges in terms of el  
+![Motion of charges in terms of el  ](1.23.png "")
 
 **_r1_**
 
@@ -3615,7 +3615,7 @@ where _r1,r2,r3_……._rn_ are the distances of _q1, q2, q3_ ….. _qn_ respect
 
 **P**
 
-**Figure 1.24** Electrostatic potential due to collection of charges
+![Electrostatic potential due to collection of charges](1.24.png "")
 
 **EXAMPLE 1.12**
 
@@ -3828,7 +3828,7 @@ O **+\_**
 
 _p_→
 
-**Figure 1.25** Potential due to electric dipole
+![Potential due to electric dipole](1.25.png "")
 
 Let _r_1 be the distance of point P from +_q_ and _r_2 be the distance of point P from –_q_.
 
@@ -4174,7 +4174,7 @@ Consider a point charge _q_ located at some point in space and an imaginary sphe
 
   
 
-**Figure 1.26** Equipotential surface of point Charge
+![Equipotential surface of point Charge](1.26.png "")
 
 
 **_q_**
@@ -4211,7 +4211,7 @@ J
 
 **(a)**
 
-**Figure 1.27** Equipotential surface for uniform electric field
+![Equipotential surface for uniform electric field](1.27.png "")
 
 **Equipotential surfaces**
 
@@ -4416,7 +4416,7 @@ To calculate the total electrostatic potential energy, we use the following proc
 
 **C**
 
-**Figure 1.28** Electrostatic potential energy for collection of point charges
+![Electrostatic potential energy for collection of point charges](1.28.png "")
 
 **(i)** Bringing a charge _q_1 from infinity to the point A requires no work, because there are no other charges already present in the vicinity of charge _q_1.
 
@@ -5174,7 +5174,7 @@ The remarkable point about this result is that the equation (1.61) is equally tr
 
 **++**
 
-**Figure 1.35** Gauss law for arbitrarily shaped surface
+![Gauss law for arbitrarily shaped surface](1.35.png "")
 
 Gauss’s law states that **if a charge _Q_ is enclosed by an arbitrary closed surface, then the total electric flux** **Φ_E_ through the closed surface is**
 
@@ -5385,7 +5385,7 @@ Curved Surface
 
 **\+ + + + + + + + + + + + + +**
 
-**Figure 1.37** Cylindrical Gaussian surface
+![Cylindrical Gaussian surface](1.37.png "")
 
 taken out of the integration and _Qencl_ is given by _Q Lencl_ \= λ , where λ is the linear charge density (charge present per unit length).
 
@@ -5909,7 +5909,7 @@ Gaussian surface
 
 _Qnet=0_
 
-**Figure 1.43** No net charge inside the conductor
+![No net charge inside the conductor](1.43.png "")
 
 \- -
 
@@ -6053,7 +6053,7 @@ The negative charge of the rod repels the electrons in the conductor to the oppo
 
 Before introducing the charged rod, the free electrons were distributed uniformly on the surface of the conductor and the net charge is zero. Once the charged rod is brought near the conductor, the distribution is no longer uniform with more electrons located on the farther side of the rod and positive charges are located closer to the rod. But the total charge is zero.
 
-**Figure 1.47** Various steps in electrostatic induction
+![Various steps in electrostatic induction](1.47.png "")
 
 \- - - - -
 
@@ -6310,7 +6310,7 @@ positive charge
 
 (a) (b)
 
-**Figure 1.48** Non polar molecules (a) without external field (b) with the external field
+![Non polar molecules (a) without external field (b) with the external field](1.48.png "")
 
 
 
@@ -6416,7 +6416,7 @@ When an external electric eld is applied, the molecules partially
 
 align with the eld.
 
-**Figure 1.49** (a) Randomly oriented polar molecules (b) Align with the external electric field
+![(a) Randomly oriented polar molecules (b) Align with the external electric field](1.49.png "")
 
 **Polarisation** In the presence of an external electric
 
@@ -6467,7 +6467,7 @@ For example, the charged balloon after rubbing sticks onto a wall. The reason is
 
 Wall
 
-**Figure 1.51** (a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon
+![(a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon](1.51.png "")
 
 **+**–
 
@@ -6572,7 +6572,7 @@ _\+ -+ -_
 
 **(a) (b) (c)**
 
-**Figure 1.52** (a) Parallel plate capacitor (b) Capacitor connected with a battery (c) Symbolic representation of capacitor.
+![(a) Parallel plate capacitor (b) Capacitor connected with a battery (c) Symbolic representation of capacitor.](1.52.png "")
 
 When a capacitor is connected to a battery of potential difference V, the electrons are transferred from one plate to the other plate by battery so that one plate becomes negatively charged with a charge of –Q and the other plate positively charged with +Q. The potential difference between the plates is equivalent to the battery’s terminal voltage. This is shown in Figure 1.52 (b). If the battery voltage is increased, the amount of charges stored in the plates also increase. In general, the charge stored in the capacitor is proportional to the potential difference between the plates.
 
@@ -6588,7 +6588,7 @@ The SI unit of capacitance is c_oulomb per volt_ or _farad (_F_)_ in honor of Mi
 
 Nowadays there are capacitors available in various shapes (cylindrical, disk) and types (tantalum, ceramic and electrolytic), as shown in Figure 1.53. These capacitors are extensively used in various kinds of electronic circuits.
 
-**Figure 1.53** Various types of capacitors
+![Various types of capacitors](1.53.png "")
 
 **Capacitance of a parallel plate capacitor** Consider a capacitor with two parallel
 
@@ -6678,7 +6678,7 @@ Area A
 
 Area A
 
-**Figure 1.54** Capacitance of a parallel plate capacitor  
+![Capacitance of a parallel plate capacitor  ](1.54.png "")
 
 **(i)** If the area of cross-section of the capacitor plates is increased, more charges can be distributed for the same potential difference. As a result, the capacitance is increased.
 
@@ -6860,7 +6860,7 @@ However, capacitors have disadvantage as well. Even after the battery or power s
 
 (a)
 
-**Figure 1.55** (a) Flash capacitor in camera (b)  
+![(a) Flash capacitor in camera (b)  ](1.55.png "")
 
 ### Effect of dielectrics in capacitors
 
@@ -6911,7 +6911,7 @@ _\+ -_
 
 (b)
 
-**Figure 1.56** (a) Capacitor is charged with a battery (b) Dielectric is inserted after the battery is disconnected
+![(a) Capacitor is charged with a battery (b) Dielectric is inserted after the battery is disconnected](1.56.png "")
 
 The introduction of dielectric between the plates will decrease the electric field. Experimentally it is found that the modified electric field is given by
 
@@ -7094,7 +7094,7 @@ _\+ -_ εr_d_
 
 – – – – – – – – – – – –– – – – – – –
 
-**Figure 1.57** (a) Capacitor is charged through a battery (b) Dielectric is inserted when the battery is connected.  
+![(a) Capacitor is charged through a battery (b) Dielectric is inserted when the battery is connected.  ](1.57.png "")
 
 After the dielectric is inserted, the capacitance is increased; hence the stored energy is also increased.
 
@@ -7396,7 +7396,7 @@ _V_
 
 (b)
 
-**Figure 1.58** (a) Capacitors connected in series (b) Equivalent capacitors CS  
+![(a) Capacitors connected in series (b) Equivalent capacitors CS  ](1.58.png "")
 
 The sum of the voltages across the capacitor must be equal to the voltage of the battery.
 
@@ -7499,7 +7499,7 @@ _Q CP_
 
 (b)
 
-**Figure 1.59** (a) capacitors in parallel (b) equivalent capacitance with the same total charge  
+![(a) capacitors in parallel (b) equivalent capacitance with the same total charge  ](1.59.png "")
 
 Thus, the equivalent capacitance of capacitors connected in parallel is equal to the sum of the individual capacitances. The equivalent capacitance _CP_ in a parallel connection is always greater than the largest individual capacitance. In a parallel connection, it is equivalent as area of each capacitance adds to give more effective area such that total capacitance increases.
 
@@ -7590,7 +7590,7 @@ A
 
 in conducting wire
 
-**Figure 1.60** Two conductors are connected through conducting wire  
+![Two conductors are connected through conducting wire  ](1.60.png "")
 
 If a charge _Q_ is introduced into any one of the spheres, this charge _Q_ is redistributed into both the spheres such that the electrostatic potential is same in both the spheres. They are now uniformly charged and attain electrostatic equilibrium. Let _q1_ be the charge residing on the surface of sphere A and _q2_ is the charge residing on the surface of sphere B such that _Q = q1 + q2_. The charges are distributed only on the surface and there is no net charge inside the conductor.
 
@@ -7898,7 +7898,7 @@ Consider a charged conductor of irregular shape as shown in Figure 1.61 (a).
 
   
 
-**Figure 1.61** Action of points or corona discharge
+![Action of points or corona discharge](1.61.png "")
 
 We know that smaller the radius of curvature, the larger is the charge density. The end of the conductor which has larger curvature (smaller radius) has a large charge accumulation as shown in Figure 1.61 (b).
 
@@ -7910,7 +7910,7 @@ This is a device used to protect tall buildings from lightning strikes. It works
 
 This device consists of a long thick copper rod passing from top of the building to the ground. The upper end of the rod has a sharp spike or a sharp needle as shown in Figure 1.62 (a) and (b).
 
-**Figure 1.62** (a) Schematic diagram of a lightning arrestor. (b) A house with a lightning arrestor
+![(a) Schematic diagram of a lightning arrestor. (b) A house with a lightning arrestor](1.62.png "")
 
 The lower end of the rod is connected to copper plate which is buried deep into the ground. When a negatively charged cloud is passing above the building, it induces a positive charge on the spike. Since the induced charge density on thin sharp spike is large, it results in a corona discharge. This positive charge ionizes the surrounding air which in turn neutralizes the negative charge in the cloud. The negative charge pushed to the spikes passes through the copper rod and
 
