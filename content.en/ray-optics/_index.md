@@ -11,7 +11,7 @@ weight: 6
 
 **In this unit, the students are exposed to,** • The ray aspect of light. • The phenomenon of reflection and refraction o • The determination of speed of light. • The concepts related to mirrors, lenses, prisms • The different phenomena like dispersion and s
 
-_There are two ways of spreading ligh_
+_There are two ways of spreading ligh_g
 
 **Learning Objectives**
 
