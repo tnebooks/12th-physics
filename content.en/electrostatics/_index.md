@@ -6525,36 +6525,20 @@ align with the eld.
 
 **Table 1.1 Dielectric strength**
 
-Substance Dielectric strength (Vm–1)
-
-Mica 100 × 106
-
-Teflon 60 × 106
-
-Paper 16 × 106
-
-Air 3 × 106
-
-Pyrex glass 14 × 106
+| Substance    | Dielectric strength (Vm–1) |
+|--------------|----------------------------|
+| Mica         | 100 × 10 <sup>6</sup>      |
+| Teflon       | 60 × 10<sup>6</sup>        |
+| Paper        | 16 × 10<sup>6</sup>        |
+| Air          | 3 × 10<sup>6</sup>         |
+| Pyrex glass  | 14 × 10<sup>6</sup>        |
 
 ## CAPACITORS AND CAPACITANCE
 
 ### Capacitors
 
 Capacitor is a device used to store electric charge and electrical energy. It consists of two conducting objects (usually plates or sheets) separated by some distance. Capacitors are widely used in many electronic circuits and have applications in many areas of science and technology.
-
-
-
-
-
-
-| ++++++++++++ |Eext |
-|------|------|------|
-| _______________ |
-| σ +σ E Eb b +  +  + +  +  +int ext +  +  + +  +  + |
-|  |
-| + |
-  
+    
 
 A simple capacitor consists of two parallel metal plates separated by a small distance as shown in Figure 1.52 (a).
 
@@ -7130,36 +7114,16 @@ Movable plate Insulator (dielectric)
 
 Fixed plate
 
-**A**
+
 
 When the key is pressed, the separation between the plates decreases leading to an increase in the capacitance. This in turn triggers the electronic circuits in the computer to identify which key is pressed.
 
+**Table 1.2 Effect of dielectrics in capacitor**
 
-
-
-
-
-
-
-
-| + + + + + + + + |
-|------|------|------|------|------|------|------|------|------|
-| →E |
-
-
-
-
-
-
-| →E |ε |
-|------|------|------|------|------|------|------|------|------|
-| – –––––––––– – –– – |
-
-
-
-|------|------|------|------|------|------|
-
-
+| S.No 	| Dielectric is inserted           	| Charge Q  	| Voltage V 	| Electric field E 	| Capacitance C 	| Energy U  	|
+|------	|----------------------------------	|-----------	|-----------	|------------------	|---------------	|-----------	|
+| 1    	| When the battery is disconnected 	| Constant  	| decreases 	| Decreases        	| Increases     	| Decreases 	|
+| 2    	| When the battery is connected    	| Increases 	| Constant  	| Constant         	| Increases     	| Increases 	|
 
 
   
@@ -7244,7 +7208,7 @@ _U CV C_\= = × × ×
 
 (b) After the removal of the dielectric, since the battery is already disconnected the total charge will not change. But the potential
 
-**Table 1.2 Effect of dielectrics in capacitor**
+
 
 S. No Dielectric is inserted
 

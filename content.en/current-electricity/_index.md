@@ -3,7 +3,7 @@ title: 'Current Electricity'
 weight: 2
 ---
 
-  
+
 
 **U N I T**
 
@@ -742,31 +742,23 @@ If _l_ = 1 m and _A_ = 1 m2, then the resistance _R = ρ_. In other words, the *
 
 **Table 2.1 Resistivity for various materials**
 
-**Material Resistivity, _ρ_ (Ω m)**
-
-**at 200C**
-
-**Insulators**
-
-Pure Water 2.5 × 105
-
-Glass 1010 – 1014
-
-Hard Rubber 1013 – 1016
-
-NaCl 1014
-
-Fused Quartz 1016
-
-**Semiconductors** Germanium 0.46 Silicon 640 **Conductors** Silver 1.6 × 10–8
-
-Copper 1.7 × 10–8
-
-Aluminium 2.7 × 10–8
-
-Tungsten 5.6 × 10–8
-
-Iron 10 × 10–8
+| **Material**       	| **Resistivity_ρ_  (Ω m) at 20<sup>0</sup>C** 	|
+|--------------------	|----------------------------------------------	|
+| **Insulators**     	                                              	|
+| Pure Water         	| 2.5 × 10<sup>5</sup>                         	|
+| Glass              	| 10<sup> 10 </sup> – 10<sup> 14 </sup>        	|
+| Hard Rubber        	| 10<sup> 13 </sup> – 10<sup> 16 </sup>        	|
+| NaCl               	| 10<sup> 14 </sup>                            	|
+| Fused Quartz       	| 10<sup> 16 </sup>                            	|
+| **Semiconductors** 	                                              	|
+| Germanium          	| 0.46                                         	|
+| Silicon            	| 640                                          	|
+| **Conductors**     	                                             	|
+| Silver             	| 1.6 × 10<sup> -8 </sup>                      	|
+| Copper             	| 1.7 × 10<sup> -8 </sup>                      	|
+| Aluminium          	| 2.7 × 10<sup> -8 </sup>                      	|
+| Tungsten           	| 5.6 × 10<sup> -8 </sup>                      	|
+| Iron               	| 10 × 10<sup> -8 </sup>                       	|
 
 
 
@@ -1520,6 +1512,26 @@ Carbon resistors consists of a ceramic core, on which a thin layer of crystallin
 
 Three coloured rings are used to indicate the values of a resistor: the first two rings are significant figures of resistances, the third ring indicates the decimal multiplier after them. The fourth colour, silver or gold,  
 
+**Table 2.2 Colour Coding for Resistors**
+
+| **Colour** 	| **Number** 	| **Multiplier**     	| **Tolerance** 	|
+|------------	|------------	|--------------------	|---------------	|
+| Black      	| 0          	| 1                  	|               	|
+| Brown      	| 1          	| 10 <sup> 1 </sup>  	|               	|
+| Red        	| 2          	| 10 <sup> 2 </sup>  	|               	|
+| Orange     	| 3          	| 10 <sup> 3 </sup>  	|               	|
+| Yellow     	| 4          	| 10 <sup> 4</sup>   	|               	|
+| Green      	| 5          	| 10 <sup> 5 </sup>  	|               	|
+| Blue       	| 6          	| 10 <sup> 6 </sup>  	|               	|
+| Violet     	| 7          	| 10 <sup> 7 </sup>  	|               	|
+| Gray       	| 8          	| 10 <sup> 8</sup>   	|               	|
+| White      	| 9          	| 10 <sup> 9</sup>   	|               	|
+| Gold       	|            	| 10 <sup> -1 </sup> 	| 5%            	|
+| Sliver     	|            	| 10 <sup> -2 </sup> 	| 10%           	|
+| Colourless 	|            	|                    	| 20%           	|
+
+
+
 shows the tolerance of the resistor at 10% or 5% as shown in the Figure 2.12 .If there is no fourth ring, the tolerance is 20%.
 
 For the resistor shown in Figure 2.12, the first digit = 5 (green), the second digit = 6 (blue), decimal multiplier = 103 (orange) and tolerance = 5% (gold). The value of resistance = 56 × 103 Ω or 56 kΩ with the tolerance value 5%.
@@ -1532,47 +1544,6 @@ never start with a metallic band on the left.
 
 ![Resistor colour coding](2.12.png "")
 
-Decimal multiplier Tolerance
-
-(metallic band)
-
-First digit
-
-Second digit
-
-1/2Ω 1/2Ω 1Ω
-
-_a ab bc, d_
-
-1Ω
-
-_a b_
-
-**Table 2.2 Colour Coding for Resistors**
-
-**Colour Number Multiplier Tolerance**
-
-Black 0 1
-
-Brown 1 101
-
-Red 2 102
-
-Orange 3 103
-
-Yellow 4 104
-
-Green 5 105
-
-Blue 6 106
-
-Violet 7 107
-
-Gray 8 108
-
-White 9 109
-
-Gold 10−1 5% Sliver 10−2 10% Colourless 20%
 
 
 
@@ -1667,30 +1638,6 @@ decreases with increase in temperature. As the temperature increases, more elect
 
 ![(a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](2.13.png "")
 
-ρ_0_
-
-_0 T_
-
-ρ
-
-_0 T_
-
-ρ (Ω_m_)
-
-(_K_)
-
-
-
-
-
-
-| ρ |
-|------|------|------|------|
-| 0 |
-| (K |
-| ρ |T |
-| ρ0 |
-  
 
 Hence the current increases and therefore the resistivity decreases as shown in Figure 2.14. A semiconductor with a negative temperature coefficient of resistivity is called a thermistor.
 
@@ -1698,39 +1645,23 @@ The typical values of temperature coefficients of various materials are given in
 
 **Table 2.3**
 
-**Material Temperature Coefficient of**
-
-**resistivity** _α_ **\[(**°**C)−1\]**
-
-Silver 3.8 × 10−3
-
-Copper 3.9 × 10−3
-
-Gold 3.4 × 10−3
-
-Aluminum 3.9 × 10−3
-
-Tungsten 4.5 × 10−3
-
-Iron 5.0 × 10−3
-
-Platinum 3.92 × 10−3
-
-Lead 3.9 × 10−3
-
-Nichrome 0.4 × 10−3
-
-Carbon −0.5 × 10−3
-
-Germanium −48 × 10−3
-
-Silicon −75 × 10−3
+| Material  | Temperature Coefficient of resistivity α [(°C)<sup>−1</sup>] |
+|-----------|--------------------------------------------------------------|
+| Silver    | 3.8 × 10<sup>−3</sup>                                        |
+| Copper    | 3.9 × 10<sup> −3 </sup>                                      |
+| Gold      | 3.4 × 10<sup> −3 </sup>                                      |
+| Aluminum  | 3.9 × 10<sup> −3 </sup>                                      |
+| Tungsten  | 4.5 × 10<sup> −3 </sup>                                      |
+| Iron      | 5.0 × 10<sup> −3 </sup>                                      |
+| Platinum  | 3.92 × 10<sup> −3 </sup>                                     |
+| Lead      | 3.9 × 10<sup> −3 </sup>                                      |
+| Nichrome  | 0.4 × 10−3                                                   |
+| Carbon    | −0.5 × 10                                                    |
+| Germanium | −48 × 10−3                                                   |
+| Silicon   | −75 × 10−3                                                   |
 
 ![Temperature dependence of resistivity for a semiconductor](2.14.png "")
 
-_T(K)_
-
-ρ (Ωm)  
 
 We can understand the temperature dependence of resistivity in the following way. In section 2.1.3, we have shown that
 

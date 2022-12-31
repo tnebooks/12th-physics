@@ -5014,118 +5014,15 @@ By parallelogram law, the diagonal _OE_  
 
 gives the resultant voltage _v_ of _VR_ and (_VL_ – _VC_) and its length _OE_ is equal to _Vm_. Therefore,
 
-_V V V Vm R L C_ 2 2 2= + −( )
-
-_V R X Xm L C_     _I I Im m m_ 2 2
-
-\= + −( )_Im R X XL C_ 2 2 or
-
-_I V m_
-
-_m_\= + −( )_R X XL C_
-
-2 2 or (4.46)
-
-_I V m_
-
-_m_\= _Z_
-
-where _Z R X XL C_\= + −( )2 2 (4.47)
-
-_Z_ is called impedance of the circuit which refers to the effective opposition to the current by the series _RLC_ circuit.
-
-
-
-
-
-
-| (i) Capacitive reactance,11X ==ωπCf 2 C1= = 100 Ω10C 25××π 0×π(ii) RMS value of current,−4V 220I == = 22.AX 100(iii) V =×220 2 = 311 VRMSRMSCTherIefo =×re 22, .. ()23= 1Amv = 311sin 314 tmit=+31.s in 314 π2 |
-|------|
-
-
-
-
-
-
-
-
-| VV =+VR 22mR=+ImLI =VI =m Zwherem |
-|------|
-
-
-  
-
-0
-
-t _i_
-
-A
-
-E
-
-D L
-
-B
-
-C
-
-_V_
-
-L_V_ C_V_
-
-R_V_
-
-C_V_
-
-– 
-
-_v_
 
 ![Phasor diagram for a series _RLC_ – circuit when _VL_\> _VC_](4.47.png "")
 
 ![Voltage and impedance triangle when _XL_ > _XC_](4.48.png "")
 
-0 A
-
-E
-
-_Vm_
-
- 0 A
-
-E
-
-_R_
-
-_Z_ 
-
-(a) (b)
-
-L_V_ C_V_
-
-R_V_
-
-– L_X_ C_X_–
 
 The voltage triangle and impedance triangle are given in the Figure 4.48.
 
 From phasor diagram, the phase angle between _v_ and _i_ is found out from the following relation
-
-tanφ= − =
-
-−_V V V_
-
-_X X R_
-
-_L C_
-
-_R_
-
-_L C_ (4.48)
-
-**Table 4.1 Summary of results of AC circu**
-
-**Type of Impedance Value of Impedance Ph cur**
 
 Resistance R 0o
 
@@ -5159,45 +5056,18 @@ angle ϕ is also positive. It means that the applied voltage leads the current b
 
 When the frequency of the applied alternating source ω_r_( ) is equal to the
 
-natural frequency 1 _LC_
-
-
-
-  
-
-
-
-   of the _RLC_
+natural frequency 
 
 circuit, the current in the circuit reaches its maximum value. Then the circuit is said to be in **electrical resonance**. The frequency at which resonance takes place is called **resonant frequency**.
 
-**its**
+**Table 4.1 Summary of results of AC circuits**
 
-**ase angle of rent with voltage**
-
-**Power factor**
-
-1
-
-lag 0 lead 0
-
-tween 0o and 90o lag lead
-
-Between 0 and 1
-
-
-
-
-
-
-
-|------|------|------|------|------|------|
-
-| VL DVL |v |
-| V |R |
-| – VC | |it |
-| 0 |VC |
-  
+| Type of Impedance | Value of Impedance                                         | Phase angle of current with voltage                      | Power factor    |
+|-------------------|------------------------------------------------------------|----------------------------------------------------------|-----------------|
+| Resistance        | R                                                          | 0<sup>o</sup>                                            | 1               |
+| Inductance        | X<sub>L</sub> = ωL                                         | 90<sup>o</sup> lag                                     | 0               |
+| Capacitance       | X<sub> C </sub> = 1/ωC                                     | 90<sup>o</sup>  lead                                  | 0               |
+| R- L - C          | {{< katex display >}}\sqrt{R^2+(ωL-1/ωC)^2} {{< /katex >}} | Between 0<sup>o</sup> and 90<sup>o</sup> lag or lead | Between 0 and 1 |
 
 Resonant angular frequency, ω_r LC_ \=
 
@@ -5208,22 +5078,6 @@ or _f LCr_ \=
 1 2π
 
 (4.49)
-
-At series resonance,
-
-ω_r LC_ \=
-
-1 or ω_r LC_ 2 1 =
-
-ω ω_r_
-
-_r_
-
-_L C_
-
-\= 1 or
-
-_X XL C_\= (4.50)
 
 This is the condition for resonance in RLC circuit.
 
@@ -6259,26 +6113,15 @@ system can be compared with the mechanical oscillations of a spring-mass system.
 
 There are two forms of energy involved in _LC_ oscillations. One is electrical energy of the charged capacitor; the other magnetic energy of the inductor carrying current.
 
+**Table 4.2 Energy in two oscillatory systems**
 
 
+|             | **LC oscillator**                                                                     |             | **Spring-mass system**                                                               |
+|-------------|---------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------|
+| **Element** | **Energy**                                                                            | **Element** | **Energy**                                                                           |
+| Capacitor   | Electrical Energy = {{< katex display >}} \frac{1}{2}(\frac{1}{C})q^2{{< /katex >}}   | Spring      | Potential energy = {{< katex display >}} \frac{1}{2}k x^2 {{< /katex >}}             |
+| Inductor    | Magnetic energy = {{< katex display >}} \frac{1}{2}Li^2 i=\frac{dq}{dt}{{< /katex >}} | Mass        | Kinetic energy = {{< katex display >}} \frac{1}{2}mv^2 v=\frac{dx}{dt}{{< /katex >}} |
 
-
-
-| L=×2Q=2 |
-|------|
-
-
-
-
-| coss ωω LQ in ωt22 22 2mm |1=LC2(4.58) |
-|------|------|------|
-| QtU =+Qt=+Q=+2QU =2 |
-| 22Ccoss ωω LQ in t22C LC() since  ω22 22mm coss ωωtt inC2C 22m2m |
-
-
-
-
-  
 
 Likewise, the mechanical energy of the spring-mass system exists in two forms; the potential energy of the compressed or extended spring and the kinetic energy of the mass. The Table 4.2 lists these two pairs of energy.
 
@@ -6290,131 +6133,19 @@ The angular frequency of oscillations of a spring-mass is given by (Refer equati
 
 From Table 4.3, _k C_→ 1 and _m L_→ . Therefore, the angular frequency of _LC_ oscillations is given by
 
-ω = 1 _LC_
-
-(4.58)
-
-**Table 4.2 Energy in two oscillatory system**
-
-**LC oscillator**
-
-**Element Energy**
-
-Capacitor Electrical Energy = 1
-
-2
-
-1 2
-
-_C q_
-
-  
-
-Inductor Magnetic energy = 1
-
-2
-
-2_Li_ _i dq dt_
-
-\=  
-
-**s**
-
-**Spring-mass system**
-
-**Element Energy**
-
-Spring Potential energy = 1
-
-2
-
-2_k x_
-
-Mass Kinetic energy = 1
-
-2
-
-2_mv_ _v_ \= _dx dt_
+ω = 1 _LC_(4.58)
 
 **Table 4.3 Analogies between electrical and mechanical quantities**
 
-**Electrical system Mechanical system** Charge _q_ Displacement _x_
-
-Current _i dq dt_
-
-\= Velocity _v_ \= _dx dt_
-
-Inductance _L_ Mass _m_ Reciprocal of capacitance 1
-
-_C_
-
-Force constant _k_
-
-Electrical energy
-
-\=  
-
- 
-
-1
-
-2
-
-1 2
-
-_C q_
-
-Potential energy
-
-\= 1
-
-2
-
-2_k x_
-
-Magnetic energy
-
-\= 1
-
-2
-
-2_Li_
-
-Kinetic energy
-
-\= 1
-
-2
-
-2_mv_
-
-Electromagnetic energy
-
-_U C q Li_\= 
-
-  
-
-+1
-
-2
-
-1 1
-
-2
-
-2 2
-
-Mechanical energy
-
-_E k x m_\= +1
-
-2
-
-1
-
-2
-
-2 2_v_
+| **Electrical system**                                                                                         | **Mechanical system**                                                                        |
+|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Charge q                                                                                                      | Displacement x                                                                               |
+| Current i = {{< katex display >}} \frac{dq}{dt}{{< /katex >}}                                                 | Velocity v = {{< katex display >}} \frac{dx}{dt}{{< /katex >}}                               |
+| Inductance L                                                                                                  | Mass m                                                                                       |
+| Reciprocal of capacitance {{< katex display >}} \frac{1}{C}{{< /katex >}}                                     | Force constant k                                                                             |
+| Electrical energy = {{< katex display >}} \frac{1}{2}(\frac{1}{C}q^2){{< /katex >}}                           | Potential energy = {{< katex display >}} \frac{1}{2}k x^2{{< /katex >}}                      |
+| Magnetic energy = {{< katex display >}} \frac{1}{2}Li^2{{< /katex >}}                                         | Kinetic energy = {{< katex display >}} \frac{1}{2}mv^2{{< /katex >}}                         |
+| Electromagnetic energy  U = {{< katex display >}} \frac{1}{2}(\frac{1}{C})q^2 + \frac{1}{2}Li^2{{< /katex >}} | Mechanical energy E = {{< katex display >}} \frac{1}{2}k x^2 + \frac{1}{2}mv^2{{< /katex >}} |
 
 
 

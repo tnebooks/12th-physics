@@ -1803,23 +1803,20 @@ _H_ , magnetic susceptibility gives information about how a material responds to
 
 **_M_**( ) **induced in the material to the magnetising field**
 
-
-
-**_H_**( )
-
-_m_
-
-_M_
-
-_H_ 
-
-
-
-
-
-(3.33)
-
 It is a dimensionless quantity. Magnetic susceptibility for some of the isotropic substances is given in Table 3.1.  
+
+| Material               	| Magnetic susceptibility (χ<sub>m</sub>) 	|
+|------------------------	|-----------------------------------------	|
+| Aluminium              	| 2.3 × 10<sup>-5</sup>                   	|
+| Copper                 	| −0.98 × 10<sup>-5</sup>               	|
+| Diamond                	| −2.2 × 10<sup>-5</sup>                 	|
+| Gold                   	| −3.6 × 10<sup>-5</sup>                 	|
+| Mercury                	| −3.2 × 10<sup>-5</sup>                 	|
+| Silver                 	| −2.6 × 10<sup>-5</sup>                 	|
+| Titanium               	| 7.06 × 10<sup>-5</sup>                 	|
+| Tungsten               	| 6.8 × 10 −5<sup>-5</sup>               	|
+| Carbon dioxide (1 atm) 	| −2.3 × 10<sup>-9</sup>                	|
+| Oxygen (1 atm)         	| 2090 × 10<sup>-9</sup>                	|
 
 **EXAMPLE 3.8**
 
@@ -2412,20 +2409,20 @@ specimen through a cycle, there is loss of energy in the form of heat. This loss
 
 the hysteresis loop, ferromagnetic materials are classified as soft magnetic materials with smaller area and hard magnetic materials with larger area. The comparison of the hysteresis loops for two magnetic materials is shown in Figure 3.24. Properties of soft and hard magnetic materials are compared in Table 3.2.
 
-_B_
-
-–_B_
-
-_H_–_H_
-
-Carbon steel (hard)
-
-Silicon steel (soft)
-
 ![Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png "")
 
+**Table 3.2 Differences between soft and hard ferromagnetic materials**
 
-
+| **S.No.** 	| **Properties**                           	| **Soft ferromagnetic materials**                   	| **Hard ferromagnetic materials**     	|
+|-----------	|------------------------------------------	|----------------------------------------------------	|--------------------------------------	|
+| 1         	| When external field is removed           	| Magnetisation disappears                           	| Magnetisation persists               	|
+| 2         	| Area of the loop                         	| Small                                              	| Large                                	|
+| 3         	| Retentivity                              	| Low                                                	| High                                 	|
+| 4         	| Coercivity                               	| Low                                                	| High                                 	|
+| 5         	| Susceptibility and magnetic permeability 	| High                                               	| Low                                  	|
+| 6         	| Hysteresis loss                          	| Less                                               	| More                                 	|
+| 7         	| Uses                                     	| Solenoid core, transformer core and electromagnets 	| Permanent magnets                    	|
+| 8         	| Examples                                 	| Soft iron, Mumetal, Stalloy etc.                   	| Carbon steel, Alnico, Lodestone etc. 	|   
 
   
 
@@ -2442,30 +2439,6 @@ coercivity and low permeability are suitable for making permanent magnets. Examp
 permeability, low retentivity, low coercivity and thin hysteresis loop with smaller area are preferred to make electromagnets.
 
 Examples: Soft iron and Mumetal (Nickel Iron alloy).
-
-**Table 3.2 Differences between soft and ha**
-
-**S.No. Properties Soft ferromag materials**
-
-1 When external field is removed
-
-Magnetisation
-
-2 Area of the loop Small
-
-3 Retentivity Low
-
-4 Coercivity Low
-
-5 Susceptibility and magnetic permeability
-
-High
-
-6 Hysteresis loss Less
-
-7 Uses Solenoid cor core and electr
-
-8 Examples Soft iron, Mum Stalloy etc.  
 
 **iii) Core of the transformer:** The materials with high initial
 
@@ -3361,14 +3334,7 @@ _B = BH_ tan _θ_ (3.39)
 
 **Construction** Tangent Galvanometer (TG) consists
 
-of copper coil of several turns wound on a non-magnetic circular frame. The frame is made up of brass or wood which is mounted vertically on a horizontal base table (turn
-
-
-
-
-  
-
-table) with three levelling screws. The TG is provided with two or more coils of different number of turns. Most of the equipments we use in laboratory, contains coils of 2 turns, 5 turns and 50 turns which are of different thickness and are used for measuring currents of different strengths.
+of copper coil of several turns wound on a non-magnetic circular frame. The frame is made up of brass or wood which is mounted vertically on a horizontal base table (turn table) with three levelling screws. The TG is provided with two or more coils of different number of turns. Most of the equipments we use in laboratory, contains coils of 2 turns, 5 turns and 50 turns which are of different thickness and are used for measuring currents of different strengths.
 
 At the centre of turn table, there is a small upright projection on which a compass box is placed. Compass box consists of a small magnetic needle which is pivoted at its centre, such that the centres of both magnetic needle and circular coil exactly coincide. A thin aluminium pointer attached perpendicular to the magnetic needle moves over a graduated circular scale. The circular scale is divided into four quadrants and they are graduated in degrees, each quadrant being numbered from 0° to 90° In order to avoid parallax error in measurement, a mirror is placed below the aluminium pointer.
 
@@ -3593,34 +3559,12 @@ magnetic moment, we use right hand thumb rule which states that
 
 **If we curl the fingers of right hand in the direction of current in the loop, then the stretched thumb gives the direction of the magnetic moment associated with the loop.**
 
-**Table 3.3 End rule – polarity with direction of current in circular loop Current in circular loop Polarity Picture**
+**Table 3.3 End rule – polarity with direction of current in circular loop**
 
-Anti-clockwise current North Pole Anti-clockwise current Polarity: North Pole
-
-Clockwise current South Pole Clockwise current
-
-Polarity: South Pole
-
-
-
-
-
-
-|  µB =2(or) µB =4π |
-|------|
-
-
-
-
-|  602RBI =µ N20××=41××I = 0.A082 |tan.60 tan θH.12 25×10−6 |
-|------|------|
-
-| 03 .14×100−7 |
-
-
-| EXAMPLE 3 . 1 4A co i l o f a t angen t ga lva nomet er o fdi amet er 0.24 m h as 100 t ur ns. I f t hehor izo nt a l comp onen t of Ear t h’s mag net icf ie ld  is  25 × 10  T t hen, c a lc u l atet he c ur ren t w hic h g ives a def le c t io nof 60 . –6SolutionThe dio ameter o f t he co il i s 0.24 m. Therefore, radius of the coil is 0.12 m. Number of turns is 100 turns. Earth’s magnetic field is 25 × 10  TDeflection is –6 60 tan.60  31 7322RBI = tan θµ N20××H.12 25×10= ×=1..732 08 21× 0 A41×× 03 .14×100I = 0.A082 −6−11−7 |
-|------|
-
+| Current in circular loop 	| Polarity   	| Picture 	|
+|--------------------------	|------------	|---------	|
+| Anti-clockwise current   	| North Pole 	|![](table3.3a.png)Anti-clockwise current Polarity:North Pole|
+| Clockwise current        	| South Pole 	|![](table3.3b.png)Clockwise current Polarity:South Pole|
 
   
 
