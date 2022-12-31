@@ -1672,29 +1672,21 @@ Substituting, _d_\= × ×
 
 _d_\= × =−235 6 10 235 69. . nm
 
-**DIFFRACTION**
+## 7.4 DIFFRACTION
 
 Diffraction is a characteristic of all waves, including sound waves. **_Diffraction_ is bending of waves around sharp edges into the geometrically shadowed region.**
 
-**7.4**
 
-**Table 7.1 Difference between Fresnel and** S.No. Fresnel diffraction
 
-1 Spherical (or) cylindrical wavefront undergoes diffraction
+**Table 7.1 Difference between Fresnel and Fraunhofer diffractions**
 
-2 Light wave is from a source at finite dist
-
-3 Convex lenses need not be used laboratory conditions
-
-4 Difficult to observe and analyse
-
-5
-
-**S**
-
-**P**
-
-**Slit Screen**  
+| **S.No.** | **Fresnel diffraction**                                    | **Fraunhofer diffraction**                            |
+|-----------|------------------------------------------------------------|-------------------------------------------------------|
+| 1         | Spherical (or) cylindrical wavefront undergoes diffraction | Plane wavefront undergoes diffraction                 |
+| 2         | Light wave is from a source at finite distance             | Light wave is from a source at infinity               |
+| 3         | Convex lenses need not be used for laboratory conditions   | Convex lenses are to be used in laboratory conditions |
+| 4         | Difficult to observe and analyse                           | Easy to observe and analyse                           |
+|5      |   ![](table7.1a.png) |    ![](table7.1b.png)                             |
 
 This is a violation to the rectilinear propagation of light we have studied in ray optics. But, the diffraction is prominent only when the size of the obstacle is comparable to the wavelength of light. This is the reason why sound waves get diffracted prominently by obstacles like doors, windows, buildings etc. The wavelength of sound wave is large and comparable to the geometry of these obstacles. But the diffraction in light is more pronounced when the obstacle size is of the order of wavelength of light.
 
@@ -2133,13 +2125,13 @@ _z_ = 0.25 m = 25 cm
 
 It is difficult to find the difference between interference and diffraction as they both exhibit the wave nature of light. In both the phenomena, interference of light only produces maxima and minima on the screen and the diffraction of light only spreads light in the geometrically shadowed region. Nevertheless, in interference, the superposition is given importance and in diffraction, the bending of light is given importance. The difference between interference and
 
-**Table 7.2 Difference between interference** S.No. Interference
+**Table 7.2 Difference between interference and diffraction**
 
-1 Equally spaced bright and dark fringes
-
-2 Equal intensity for all bright fringes
-
-3 Large number of fringes are obtained  
+| **S.No.** | **Interference**                       | **Diffraction**                                    |
+|-----------|----------------------------------------|----------------------------------------------------|
+| 1         | Equally spaced bright and dark fringes | Central bright is double the size of other fringes |
+| 2         | Equal intensity for all bright fringes | Intensity falls rapidly for higher order fringes   |
+| 3         | Large number of fringes are obtained   | Less number of fringes are obtained                |
 
 diffraction based on the appearance of their patterns are given in Table 7.2.
 
@@ -2605,19 +2597,21 @@ The Table 7.3 consolidates few characteristics of polarised and unpolarised ligh
 
 The polarised light can be obtained from unpolarised light by several techniques. Here, we are discussing the four methods. They are,
 
-(i) polarisation by selective absorption (ii) polarisation by reflection
+(i) polarisation by selective absorption
 
-**Table 7.3** Characteristics of polarised light
+(ii) polarisation by reflection
 
-S.No Polarised light
+(iii) polarisation by double refraction 
 
-1 Consists of waves having their electric and magnetic field vibrations in a single plane normal to the direction of ray.
+(iv) polarisation by scattering.
 
-2 Asymmetrical about the ray direction. 3 It is obtained by converting unpolarised
+**Table 7.3 Characteristics of polarised light and unpolarised light**
 
-light using polaroids.  
-
-(iii) polarisation by double refraction (iv) polarisation by scattering.
+| **S.No.** | **Polarised light**                                                                                                     | **Unpolarised light**                                                                                                    |
+|-----------|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| 1         | Consists of waves having their electric and magnetic field vibrations in a single plane normal to the direction of ray. | Consists of waves having their electric and magnetic field  vibrations in all directions normal to the direction of ray. |
+| 2         | Asymmetrical about the ray direction.                                                                                   | Symmetrical about the ray direction.                                                                                     |
+| 3         | It is obtained by converting unpolarised light using polaroids.                                                         | Produced by conventional light sources.                                                                                  |
 
 ### Polarisation by selective absorption
 
@@ -3355,41 +3349,6 @@ tan_q q_0 0≈ = _h D_
 (7.62)
 
 For aided eye shown in Figure 7.37(b),
-
-tan_q qi i h f_
-
-≈ = (7.63)
-
-The angular magnification is,
-
-_m h f h D_
-
-_i_\= = _q q_0
-
-/ /
-
-_m D f_
-
-\= (7.64)
-
-|------|------|------|------|------|------|------|------|
-| e foct innity |
-| h |Eya |
-| θi |f |θi |
-
-
-
-
-
-
-
-
-| Eye focussedon near point |
-|------|------|------|------|------|------|
-| F |
-| uD |
-
-
   
 
 This is the magnification for normal focusing.

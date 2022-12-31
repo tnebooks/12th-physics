@@ -73,25 +73,6 @@ _d =_ 180 _– 2i_ (6.2)
 The angle of deviation can also be measured in terms of the glancing angle _α_ which is measured between the incident ray AO and the reflecting plane surface XY as shown in Figure 6.3(b). By geometry, the angles ∠_AOX_ = _α_, ∠_BOY_ = _α_ and ∠_YOC_ = _α_ (all are same). The angle of deviation _d_ is the angle ∠_BOC_. Therefore,
 
 _d_ = 2_α_ (6.3)
-
-|------|------|------|------|------|------|------|------|------|
-
-
-
-
-
-
-
-
-| AN |Bir |
-|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| XY |
-
-
-
-
-|------|------|------|------|------|------|------|------|
-
   
 
 ![Angle of deviation due to reflection](6.3.png "")
@@ -130,69 +111,14 @@ _d_ = 2_α_ (6.3)
 
 ∠_R_1_OR_2 = ∠_N'OR_2 – ∠_N'OR_1 = (_i_+_θ_) – (_i_–_θ_) ∠_R_1_OR_2 = 2_θ_.
 
-**i i**
 
-**i–θ i+θ**
 
-**i+θ**
-
-**θ 2θ**
-
-**θ**
-
-**R1**
-
-**R2**
-
-**N**
-
-**A'**
-
-**A B'**
-
-**B**
-
-**N'I**
-
-**O**
 
 ### Image formation in plane mirror
 
 Let us consider a point object _A_ placed in front of a plane mirror. The point of incidence is _O_ on the mirror as shown in the Figure. 6.4(a).
 
-**i**
 
-**i O**
-
-**A A**
-
-**B**
-
-**D**
-
-**b b**
-
-**(a)**
-
-**Plane mirror**
-
-**N**
-
-**Object distance**
-
-**Image distance**
-
-**do di**
-
-**Eye**
-
-**Object**
-
-**Virtual image**
-
-**Plane mirror**
-
-**(b)**
 
 ![Formation of image in plane mirror for (a) point and (b) extended objects](6.4.png "")
   
@@ -227,63 +153,16 @@ The image formed by the plane mirror for extended object is shown in Figure 6.4(
 
 (iv) If an object is placed between two plane mirrors inclined at an angle _θ_, then the number of images _n_ formed is given in Table 6.1 the images formed are shown in Figure 6.5.  
 
-**Table 6.1** Image by inclined mirrors
+**Table 6.1 Image by inclined mirrors**
 
-360 θ
+| {{< katex display >}} \frac{360}{\theta} {{< /katex >}} | The position of object placed | Number of images n                                              |
+|---------------------------------------------------------|-------------------------------|-----------------------------------------------------------------|
+| Even                                                    | Symmetrical                   | n = {{< katex display >}} \frac{360}{\theta} - 1 {{< /katex >}} |
+|                                                         | Unsymmetrical                 | n = {{< katex display >}} \frac{360}{\theta} - 1 {{< /katex >}} |
+| Odd                                                     | Symmetrical                   | n = {{< katex display >}} \frac{360}{\theta} - 1 {{< /katex >}} |
+|                                                         | Unsymmetrical                 | n = {{< katex display >}} \frac{360}{\theta}{{< /katex >}}      |
 
-
 
- 
-
-
-
- 
-
-**The position of object placed**
-
-**Number of images _n_**
-
-Even
-
-Symmetrical _n_\= − 
-
- 
-
-
-
- 
-
-360 1 _q_
-
-Unsymmetrical _n_\= − 
-
- 
-
-
-
- 
-
-360 1 _q_
-
-Odd
-
-Symmetrical _n_\= − 
-
- 
-
-
-
- 
-
-360 1 _q_
-
-Unsymmetrical _n_\= 
-
-  
-
- 
-
-360 _q_
 
 ![Images formed by inclined mirrors](6.5.png "")
 
@@ -292,11 +171,7 @@ Unsymmetrical _n_\= 
 What is the height of the mirror needed for a person to see his/her image fully on the mirror?
 
 **_Solution_** Let us assume a person of height _h_ is standing in front of a vertical plane mirror. The person could see his/her head when light from the head falls on the mirror and gets reflected to the eyes. Same way, light from the feet falls on the mirror and gets reflected to the eyes.
-| Symmetrical |
-|------|
-| Unsymmetrical |
-| Symmetrical |
-| Unsymmetrical |
+
   
 
 **O bj**
@@ -412,21 +287,7 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 All the above mentioned terms are shown in Figure 6.7 for both concave and convex mirrors.
 
-**C F P**
 
-**f R**
-
-**(a)**
-
-**P F**
-
-**f**
-
-**C**
-
-**R**
-
-**(b)**
 
 ![Representation of terminologies for (a) concave and (b) convex mirrors  ](6.7.png "")
 
@@ -448,25 +309,7 @@ All the above mentioned terms are shown in Figure 6.7 for both concave and conve
 
 Let _C_ be the centre of curvature of the mirror. Consider a ray of light parallel to the principal axis is incident on the mirror at _M._ It passes through the principal focus _F_ after reflection. The geometry related to this is shown in Figure 6.9(a). The line _CM_ is the normal to the mirror at _M_. Let _i_ be the angle of incidence and the same will be the angle of reflection.
 
-|------|------|------|------|
-| F |
-| P |
 
-
-
-|------|------|------|------|
-
-
-
-
-
-
-|------|------|------|
-
-| P |F |
-
-
-  
 
 If _MP_ is the perpendicular from _M_ to the principal axis, then
 
@@ -490,31 +333,8 @@ _i PM PC_
 
 Simplifying further,
 
-2 2_PM PC_
 
-_PM PF_
 
-_PF PC_\= =;
-
-**C F P**
-
-**Mi**
-
-**i i 2i**
-
-**(a) Concave mirror**
-
-**M**
-
-**P**
-
-**i**
-
-**i**
-
-**i**
-
-**2i F C**
 
 **(b) Convex Mirror**
 
@@ -532,39 +352,8 @@ Equation (6.4) is the relation between _f_ and _R_. The construction is shown fo
 
 The image formed by spherical mirror can be found by ray construction called image tracing. To locate an image point, a minimum of two rays must meet at that point. We can use at least any two of the following four rays as shown in Figure 6.10.
 
-**A**
 
-**B**
 
-**C F P**
-
-**(a)**
-
-**A**
-
-**B**
-
-**C F P**
-
-**(c)**
-
-**A**
-
-**B**
-
-**C**
-
-**(b)**
-
-**F P**
-
-**A**
-
-**B**
-
-**C F P**
-
-**(d)**
 
 ![Image tracing](6.10.png "")
 
@@ -573,30 +362,7 @@ The image formed by spherical mirror can be found by ray construction called ima
 (ii) A ray passing (or appear passing) through the principal focus, after reflection will travel parallel to the principal axis. (Figure 6.10(b))
 
 (iii) A ray passing through the centre of curvature retraces its path after reflection as it is a normal incidence. (Figure 6.10(c))
-| iii 2i |
-|------|------|------|------|
 
-
-| P |
-
-
-
-|------|------|
-| F |
-
-
-
-
-|------|------|------|
-
-| C F |
-
-
-
-
-|------|------|
-
-| CF P |
   
 
 (iv) A ray falling on the pole will get reflected as per law of reflection keeping principal axis as the normal. (Figure 6.10(d))
@@ -635,17 +401,7 @@ The mirror equation establishes a relation among object distance _u_, image dist
 
 An object _AB_ is considered on the principal axis of a concave mirror beyond the centre of curvature _C_. The image formation is shown in the Figure 6.12. Let us consider three paraxial rays from point _B_ on the object. The first paraxial ray _BD_ travells parallel to the principal axis. It is incident on the concave mirror at _D_, close to the pole _P_. It is reflected back through the focus _F_. The second paraxial ray _BP_ is incident at the pole _P._ It is reflected along _PB_´. The third paraxial ray _BC_ passing through centre of curvature _C_, falls normally on the mirror at _E._ It is reflected back along the same path. The three reflected rays intersect at the point ′ ′_A B_ . A perpendicular drawn as ′ ′_A B_ to the principal axis gives the real, inverted image.
 
-**A'**
 
-**B' C P**
-
-**A**
-
-**B D**
-
-**E**
-
-**F**
 
 ![Mirror equation](6.12.png "")
 
@@ -662,11 +418,6 @@ _PA PA_
 (6.5)
 
 The other set of similar triangles are, ∆_DPF_ and ∆ ′ ′_B A F_ . (_PD_ is almost a straight vertical line)
-
-|------|------|------|------|------|------|
-| A' |
-| CF |P |
-| B' |
 
   
 
@@ -803,41 +554,13 @@ Rewriting to find v, 1 1 1 _v f u_ \= −
 
 Substituting for f and u, 1 1 15
 
-1 20_v_
 
-\= − − −
-
-1 20 15 300
-
-5 300
-
-1 60_v_
-
-\= − − −
-
-\= − = −( ) ( )
-
-_v cm_\=−60 0.
 
 The screen is to be placed at distance 60.0 cm to the left of the concave mirror.
 
 (b) Magnification, _m h h_
 
-_v u_
 
-\= ′ =−
-
-_m h h_
-
-\= ′ =−
-
-− −
-
-\=− ( ) ( )
-
-60 20
-
-3
 
 As the sign of magnification is negative, the image is inverted. As the magnitude of magnification is 3, the image is enlarged three times. As the image is formed to the left of the concave mirror, the image is real.
 
@@ -857,118 +580,14 @@ Given: length of object, _l_ = _f_ 3
 
 For the given condition, the image formation is shown in the figure.
 
-**A'B'**
 
-**A B**
-
-**uA = vA= 2f = R**
-
-**f/3**
-
-**F u**
-
-**v**
-
-**_l_ '**
-
-**P Rod**
-
-**Image**
-
-**_l_ ' _l_**
-
-**C**
 
 Let, _l'_ be the length of the image, then
 
-_m l l_
-
-_l f_
-
-_l m f_
-
-_l l_\=
-
-′ = ′
-
-′ = /
-
-( 3 3
-
-or)
-
 Image of one end coincides with the respective end of object. Thus, the coinciding end must be at centre of curvature.
 
-_u u f f f f B A_\= − = − =
 
-3 2
 
-3 5 3
-
-_v u l l_
-
-_v f f m f f m B B_
-
-_B l l_
-
-\= + +
-
-\= + + = +
-
-’ ( )5
-
-3 3 3 6
-
-3
-
-Mirror equation, 1 1 1 _v u f_ \+ =
-
-1 6
-
-3
-
-1 5 3
-
-1
-
-− +
-
- 
-
-
-
- 
-
-\+ −      
-
-\= −_f m f fl_( )
-
-After simplifying,
-
-3 6
-
-3 5
-
-1 3 6
-
-2 5_f m f f ml l_( )
-
-; ( )+
-
-\+ = +
-
-\=
-
-6 15 2
-
-15 2
-
-6+ = = −_m ml l_;
-
-_ml_ \= = 3 2
-
-1 5.
-  
 
 **SPEED OF LIGHT**
 
@@ -1006,18 +625,6 @@ _v_ \= 2_d t_
 
 The distance _d_ is a known value from the arrangement. The time _t_ taken for the
 
-**M**
-
-**d**
-
- **Tooth Slot**
-
-|------|------|
-
-
-
-| G |45 |
-|------|------|------|
 
 
   
@@ -1119,21 +726,27 @@ Light travels with a speed of 2.26 × 108 m s-1 through pure water.
 
 Refractive index does not have a unit. The smallest value of refractive index is for vacuum, which is 1. For any other medium refractive index is greater than 1. Refractive index is also called as optical density of the medium. Higher the refractive index of a medium, lesser is the speed of light through it and vice-versa. \[Note: optical density should not be confused with mass density of the material of the medium. They two are different entities\]. The Table 6.2 shows the refractive indices of different transparent media.
 
-**Table 6.2** Refractive index of media
+**Table 6.2 Refractive index of media**
 
-**Media Refractive index**
-
-Vacuum 1.00
-
-Air 1.0003
-
-Carbon dioxide gas 1.0005
-
-Ice 1.31
-
-Pure water 1.33  
-
-Ethyl alcohol 1.36 Quartz 1.46 Vegetable oil 1.47 Olive oil 1.48 Acrylic 1.49 Table salt 1.51 Glass 1.52 Sapphire 1.77 Zircon 1.92 Qubic zirconia 2.16 Diamond 2.42 Gallium phosphide 3.50
+| **Media**          | **Refractive index** |
+|--------------------|----------------------|
+| Vacuum             |                      |
+| Air                | 1.0003               |
+| Carbon dioxide gas | 1.0005               |
+| Ice                | 1.31                 |
+| Pure water         | 1.33                 |
+| Ethyl alcohol      | 1.36                 |
+| Quartz             | 1.46                 |
+| Vegetable oil      | 1.47                 |
+| Olive oil          | 1.48                 |
+| Acrylic            | 1.49                 |
+| Table salt         | 1.51                 |
+| Glass              | 1.52                 |
+| Sapphire           | 1.77                 |
+| Zircon             | 1.92                 |
+| Qubic zirconia     | 2.16                 |
+| Diamond            | 2.42                 |
+| Gallium phosphide  | 3.50                 |
 
 ### Optical path
 
@@ -1827,69 +1440,32 @@ _nc_ \= 
 The critical angle _ic_ depends on the refractive index _n_ of the medium. Table 6.3 shows the refractive index and the critical angle for different materials.
   
 
-**Table 6.3** Refractive index and critical angle for different media
+**Table 6.3 Refractive index and critical angle for different media**
 
-**Material Refractive index**
+| **Material**        | **Refractive index** | **Critical Angle** |
+|---------------------|----------------------|--------------------|
+| Ice                 | 1.310                | 49.8°              |
+| Water               | 1.333                | 48.6°              |
+| Fused Quartz        | 1.458                | 43.3°              |
+| Crown Glass         | 1.541                | 40.5°              |
+| Flint Glass         | 1.890                | 31.9°              |
+| Calcite             | 1.658                | 37.0°              |
+| Strontium Titanate  | 2.394                | 24.7°              |
+| Diamond             | 2.417                | 24.4°              |
+| Rutile              | 2.621                | 22.4°              |
 
-**Critical Angle**
-
-Ice 1.310 49.8°
-
-Water 1.333 48.6°
-
-Fused Quartz 1.458 43.3°
-
-Crown Glass 1.541 40.5°
-
-Flint Glass 1.890 31.9°
-
-Calcite 1.658 37.0°
-
-Strontium Titanate 2.394 24.7°
-
-Diamond 2.417 24.4°
-
-Rutile 2.621 22.4°
 
 For example the refractive index of glass is about 1.5. The critical angle for
 
 glass-air interface is, _ic_ \= 
 
-  
-
- =
-
-−sin .
-
-. .1 1 1 5
-
-41 8
 
 The refractive index of water is 1.33. The
 
 critical angle for water-air interface is,
 
-_ic_ \= 
 
-  
 
- =
-
-−sin .
-
-. .1 1 1 3
-
-48 6
-
-**i**
-
-**r n2 n1**
-
-**(i = ic)**
-
-**Air**
-
-**Water**
 
 **Critical anRefraction**
 
@@ -4485,21 +4061,15 @@ Sir Isaac Newton has demonstrated through a classic experiment to produce white 
 **Points to Ponder**
 
 But, when the white light enters a medium the red colour travels with the highest speed and violet colour travels with least speed. Hence, the wavelengths of colours in a medium are no longer the same as they are in vacuum. Actually, the dispersion takes place in a medium because of the difference in speed for different colours in a medium. In other words, the refractive index of the material of the prism is different for different colours. For violet colour, the refractive index is the highest and for red colour the refractive index is the least. The refractive index of two different glasses for different colours is shown in Table 6.4.
-| sinn = |2 |() sin. ()48 5 07. 5= == 15.sin 330 05.00 |
-|------|------|------|
-| 60 0 |
-| The r efsiracn ti 2ve in dex o f t he m aterial o f t he prism is, n = 1.5 |
-  
 
-**Table 6.4** Refractive indices for different wavelengths **Colour Wavelength**
+**Table 6.4 Refractive indices for different wavelengths**
 
-**in vacuum (nm)**
-
-**Crown glass**
-
-**Flint glass**
-
-Violet 396.9 1.533 1.663 Blue 486.1 1.523 1.639 Yellow 589.3 1.517 1.627 Red 656.3 1.515 1.622
+| **Colour** | **Wavelength in vacuum (nm)** | **Crown glass** | **Flint glass** |
+|------------|-------------------------------|-----------------|-----------------|
+| Violet     | 396.9                         | 1.533           | 1.663           |
+| Blue       | 486.1                         | 1.523           | 1.639           |
+| Yellow     | 589.3                         | 1.517           | 1.627           |
+| Red        | 656.3                         | 1.515           | 1.622           |
 
 ### Dispersive Power
 

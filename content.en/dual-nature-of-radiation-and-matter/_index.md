@@ -87,23 +87,22 @@ temperature, the free electrons on the surface of the metal get sufficient energ
 
 The intensity of the thermionic emission (the number of electrons emitted) depends on the metal used and its temperature. **Examples:** cathode ray tubes, electron microscopes, x-ray tubes etc (Figure 8.2).
 
-**Table 8.1 Work function of some materia**
+**Table 8.1 Work function of some materials**
 
-Metal Symbol Work function (eV)
-
-Cesium Cs 2.14
-
-Potassium K 2.30
-
-Sodium Na 2.75
-
-Calcium Ca 3.20
-
-Molybdenum Mo 4.17
-
-Lead Pb 4.25  
-
-**ElectronsHot lament**
+| Metal      | Symbol | Work function (eV) |
+|------------|--------|--------------------|
+| Cesium     | Cs     | 2.14               |
+| Potassium  | K      | 2.30               |
+| Sodium     | Na     | 2.75               |
+| Calcium    | Ca     | 3.20               |
+| Molybdenum | Mo     | 4.17               |
+| Lead       | Pb     | 4.25               |
+| Aluminium  | Al     | 4.28               |
+| Mercury    | Hg     | 4.49               |
+| Copper     | Cu     | 4.65               |
+| Silver     | Ag     | 4.70               |
+| Nickel     | Ni     | 5.15               |
+| Platinum   | Pt     | 5.65               |
 
 **Figure 8.2 Thermionic emission from hot** filament of cathode ray tube or x-ray tube
 

@@ -1806,11 +1806,14 @@ the following:
 
 **Table 9.1** Physical quantity Ground state F
 
-Radius (rn ∝ n2) 0.529 Å 2
+| **Physical quantity**                         | **Ground state**                       | **First excited state**                 | **Second excited state**              |
+|-----------------------------------------------|----------------------------------------|-----------------------------------------|---------------------------------------|
+| Radius (r<sub>n</sub> ∝ n<sup>2</sup>)        | 0.529 Å                                | 2.116 Å                                 | 4.761 Å                               |
+| Velocity (v<sub>n</sub> ∝ n<sup>-1</sup>)     | 2.19 × 10<sup>6</sup> m s<sup>-1</sup> | 1.095 × 10<sup>6</sup> m s<sup>-1</sup> | 0.73 × 10<sup>6</sup>m s<sup>-1</sup> |
+| Total Energy (E<sub>n</sub> ∝ n<sup>-2</sup>) | –13.6 eV                               | –3.4 eV                                 | –1.51 eV                              | 
 
-Velocity (_v_n ∝ n-1) 2.19 × 106 m s-1 1
 
-Total Energy (_E_n ∝ n-2) –13.6 _e_V –  
+
 
 (c) When a photon with energy 42 _e_V and another photon with energy 51 _e_V are made to collide with this atom, does this atom absorb these photons?
 
@@ -2310,7 +2313,15 @@ _v R m_
 
 Different spectral series are listed in Table 9.2.
 
-**Table 9.2 _n m_ Series Name** Region 1 2,3,4..... Lyman Ultraviolet 2 3,4,5..... Balmer Visible 3 4,5,6..... Paschen Infrared 4 5,6,7...... Brackett Infrared 5 6,7,8..... Pfund Infrared
+**Table 9.2**
+
+| n | m           | Series Name | Region      |
+|---|-------------|-------------|-------------|
+| 1 | 2,3,4.....  | Lyman       | Ultraviolet |
+| 2 | 3,4,5.....  | Balmer      | Visible     |
+| 3 | 4,5,6.....  | Paschen     | Infrared    |
+| 4 | 5,6,7...... | Brackett    | Infrared    |
+| 5 | 6,7,8.....  | Pfund       | Infrared    |
 
 **Limitations of Bohr atom model** The following are the drawbacks of Bohr
 
