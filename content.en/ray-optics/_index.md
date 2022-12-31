@@ -4,18 +4,13 @@ weight: 6
 ---
 
   
-
-**U N I T**
-
-**6**
-
 **In this unit, the students are exposed to,** • The ray aspect of light. • The phenomenon of reflection and refraction o • The determination of speed of light. • The concepts related to mirrors, lenses, prisms • The different phenomena like dispersion and s
 
 _There are two ways of spreading ligh_g
 
 **Learning Objectives**
 
-**INTRODUCTION**
+## INTRODUCTION**
 
 Light is mystical. Yet, its behaviour is so fascinating. It is difficult to comprehend light as a single entity. The _ray optics_ deals with light that is represented as a ray travelling in straight lines. Here, the geometrical constructs get the permanence to understand some of the characteristics of light and the phenomena associated with it. There are several other phenomena which can only be explained using _wave optics_, which we study in the next Unit. There is also a quantum aspect of light which we can study as _quantum optics_ in graduate level courses.
 
@@ -23,7 +18,6 @@ Light is mystical. Yet, its behaviour is so fascinating. It is difficult to comp
 
 Light travels in a straight line in a medium. Light may deviate in its path only when it encounters the boundary of another
 
-## RAY OPTICS
 
 f light.
 
@@ -222,7 +216,7 @@ height of the person. _h h h_1 2
 
 Does the height depend on the distance between the person and the mirror?
 
-**SPHERICAL MIRRORS**
+## SPHERICAL MIRRORS
 
 We shall now study about the reflections that take place in spherical surfaces.
 
@@ -589,7 +583,7 @@ Image of one end coincides with the respective end of object. Thus, the coincidi
 
 
 
-**SPEED OF LIGHT**
+## SPEED OF LIGHT
 
 Light travels with the highest speed in vacuum. The speed of light in vacuum is denoted as _c_ and its value is, _c_ = 3 × 108 m s-1. The earliest attempt to determine the speed of light was made by a French scientist Hippolyte Fizeau (1819–1896). That paved way for the other scientists too to determine the speed of light.
 
@@ -597,7 +591,7 @@ Light travels with the highest speed in vacuum. The speed of light in vacuum is 
 
 _Apparatus_: The apparatus used by Fizeau for determining speed of light in air medium is shown in Figure 6.13. The light from the source _S_ was first allowed to fall on a partially silvered glass plate _G_ kept at an angle of 45o to the incident light. The light then was allowed to pass through a rotating toothed-wheel with _N_ teeth and _N_ cuts of equal widths whose speed of rotation could be varied through an external mechanism (not shown in the Figure). The light passing through one cut
 
-## **Observer**
+ **Observer**
 
 **G**
 
@@ -877,7 +871,7 @@ _v_ 0 5
 
 Light would have travelled an additional 25 cm (75 cm – 50 cm) in vacuum at the same time had there been no glass slab in its path.
 
-**REFRACTION**
+## REFRACTION
 
 **Refraction is passing of light from one optical medium to another optical medium through a boundary**. In refraction, the angle of incidence _i_ in one medium and the angle of refraction _r_ in the other medium are measured with respect to the normal drawn to the surface at the point of incidence of light. According to laws of refraction, **(i) The incident ray, refracted ray and**
 
@@ -2362,7 +2356,7 @@ sin . cos .
 
 The lateral displacement is, _L_ \=12 81. cm  
 
-**REFRACTION AT SINGLE SPHERICAL SURFACE**
+## REFRACTION AT SINGLE SPHERICAL SURFACE
 
 We have so far studied only the refraction at plane surface. The refraction can also take place at spherical surface between two transparent media. The laws of refraction hold good at every point on the spherical surface. The normal at the point of incidence is perpendicular drawn to the tangent plane of the spherical surface at that point. Therefore, the normal always passes through its center of curvature. The study of refraction at single spherical surface paves way to the understanding of thin lenses which consist of two refracting surfaces.
 
@@ -2598,7 +2592,7 @@ _v v_ − − =
 
 The image is a virtual image formed 30 cm to the left of the spherical surface.
 
-**THIN LENS**
+## THIN LENS
 
 A lens is formed by a transparent material bounded between two spherical surfaces (or) one plane and another spherical surface. In a thin lens, the distance between the surfaces is very small. For two spherical surfaces, there will be two centres of curvature _C_1 and _C_2 and correspondingly two radii of curvature _R_1 and _R_2\. For a plane surface, the centre of curvature _C_ is at infinity and
 
@@ -3735,7 +3729,7 @@ Here, both _u_ and _v_ are same (_v = u_) as the image coincides with the object
 
 _u_ = –15 cm = –0.15 m The object is to be placed 15 cm to the left of the silvered lens.
 
-**PRISM**
+## PRISM
 
 A prism is a triangular block of transparent glass. It is bounded by the three plane faces. Its one face is rough which is called base of the prism. The other two faces are polished which are called refracting faces of the prism. The angle between the two refracting faces is called angle of the prism (or) refracting angle (or) apex angle. It is represented as _A_ in Figure 6.39.
 
