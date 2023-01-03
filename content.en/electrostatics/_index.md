@@ -12,8 +12,6 @@ extensions:
 
 **In this unit, student is exposed to** 
 
-
-
 - Historical background of electricity and magnetism
 
 - The role of electrostatic force in day – to-day life
@@ -223,120 +221,45 @@ Here \\(\hat{r} _{12}\\) is the unit vector from  \\(q _1 to q _2\\). Since \\(q
 \\(= 54 × 10^{-3} \hat{i} N\\)
 
 
-According to Newton’s third law, the force experienced by the charge _q_1 due to _q_2 is  
+According to Newton’s third law, the force experienced by the charge _q_1 due to _q_2 is \\(\vec {F} _{12} \\) = \\(= 54 × 10^{-3} \hat{i} N\\)
 
-_F F_12 21=− . Therefore,
+The directions of \\(\vec {F} _{21} and {F} _{12}\\) are shown in
+the above figure in case (a) 
 
-
+*(a)** \\(q _1 = +2 μC, q _2 = +3 μC, and r _ = 1m\\).They are unlike charges. So the force will be attractive.
 
-_F i_12 354 10=− × −  N.
+Force experienced by the charge q<sub>2</sub> due to q<sub>1</sub> is given by
 
-The directions of  
+\\(\vec {F} _{21} = \dfrac{9 × 10^9×2×10^{-6}×3×10^{-6}}{1^2} \hat{r}_{12}\\)
 
-_F F_21 12and are shown in the above figure in case (a)
+\\(= 54 × 10^{-3}  N\hat{i}  (using \hat{r}_{12} =  \hat{i} \\)
 
-**(b)** _q_1 = +2 μC, _q_2 = –3 μC, and _r_ = 1m. They are unlike charges. So the force will be attractive.
+The charge q<sub>2</sub> will experience an attractive force towards q<sub>1</sub> which is in the negative x direction.
 
-Force experienced by the charge _q_2 due to _q_1 is given by
+According to Newton’s third law, the force experienced by the charge q<sub>1</sub>  due to q<sub>2</sub> is  \\(\vec {F} _{21} = \\(-\vec {F} _{21}\\), Therefore,
 
-
+\\(\vec {F} _{12} =  54 × 10^{-3} \hat{i} N\\)
 
-_F r_
+The directions of \\(\vec {F} _{21} and \\(\vec {F} _{12} \\)are shown in the figure (case (b)).
 
-_i r_
+**(c)** If these two charges are kept inside
+the water, then the force experienced by q<sub>2</sub>
+due to q<sub>1</sub>
 
-21
+\\(\vec {F} _{12}^{W}\\) =\\(\dfrac{1}{4\pi\epsilon}\\)\\(\dfrac{q_1q_2}{r^2}\\)\\(\hat{r}_{12}\\)
 
-9 6 6
+since \\(\epsilon = {\epsilon}_r {\epsilon}_o\\)
 
-2 12
-
-3 12
-
-9 10 2 10 3 10
-
-1 54 10
-
-\= × × ×( )× − ×( )
-
-\=− ×
-
-− −
-
-−
-
-
-
- N (Using = _i_)
-
-The charge _q_2 will experience an attractive force towards _q_1 which is in the negative _x_ direction.
-
-According to Newton’s third law, the force experienced by the charge _q_1 due to _q_2 is
-
- 
-
-_F F_12 21=− . Therefore,
-
-
-
-_F i_12 354 10= × −  N
-
-The directions of  
-
-_F F_21 12and are shown in the figure (case (b)).
-
-**(c)** If these two charges are kept inside the water, then the force experienced by _q_2 due to _q_1
-
-
-
-_F q q r_
-
-_rW_ 21
-
-1 2 2 12
-
-1 4
-
-\= πe
-
-
-
-since e = er eo
-
-we have  
-
-
-
-_F q q r_
-
-_r FW_
-
-
-\= = πe e e
-
-  
+we have \\(\vec {F} _{21}^{W}\\) = \\(\dfrac{1}{4\pi\epsilon}\\)\\(\dfrac{q_1q_2}{r^2}\\)\\(\hat{r}_{12}\\) = \\(\dfrac{\vec {F} _{12}}{{\epsilon}_r}\\)
 
 Therefore,
 
-
+\\(\vec {F} _{12}^{W}\\) = \\(\dfrac{54*10^{-3}}{80}\hat{i}\\) = -0.675 * \\(\ 10^{-3}N\hat{i}\\)
 
-_F i iW_ 21
+```
+Note that the strength of the force between the two charges in water is reduced by 80 times compared to the force between the same two charges in vacuum. When common salt (NaCl) is taken in water, the electrostatic force between Na and Cl ions is reduced due to the high relative permittivity of water \\(\epsilon _{r} = 80\\). This is the reason water acts as a good solvent.
+```
 
-3 354 10
-
-80 0 675 10=−
-
-× =− ×
-
-− −N N .
-
-Note that the strength of the force between the two charges in water is reduced by
-
-80 times compared to the force between the same two charges in vacuum.
-
-When common salt (_NaCl_) is taken in water, the electrostatic force between _Na_ and _Cl_ ions is reduced due to the high relative permittivity of water (er = 80). This is the reason water acts as a good solvent.
-
-**Note**
 
 **EXAMPLE 1.3**
 
@@ -344,137 +267,54 @@ Two small-sized identical equally charged spheres, each having mass 1 g are hang
 
 (Take _g_ = 10 ms−2)
 
-_L L_
-
-_q_
-
- 
-
-_a_+_q_ +
+![](ex-1.3.png "")
 
 **_Solution_**
 
-If the two spheres are neutral, the angle between them will be 0o when
-
-
-
-
-
-
-| Therefore, 54×10 NFi =− =− 0.675×10 N i80−3W −321 |
-|------|
-
-
-
-
-| () ()02 ×10 ×− 31× 096 −− |i )612 |
-|------|------|------|
-|  91××Fr ==−21 |
-| 154×10 N(ir Using  ==2−312 |
-
-  
-
-hanged vertically. Since they are positively charged spheres, there will be a repulsive force between them and they will be at equilibrium with each other at an angle of 30° with the vertical. At equilibrium, each charge experiences zero net force in each direction. We can draw a free body diagram for one of the charged spheres and apply Newton’s second law for both vertical and horizontal directions.
-
+If the two spheres are neutral, the angle between them will be \\(\ 0\degree\\) when hanged vertically. Since they are positively charged spheres, there will be a repulsive force between them and they will be at equilibrium with each other at an angle of 30° with the vertical. At equilibrium, each charge experiences zero net force in each direction. We can draw a free body diagram for one of the charged spheres and apply Newton’s second law for both vertical and horizontal directions.
 The free body diagram is shown below.
 
-mg
+![](1.64.png "")
 
-**F**e 
+In the x-direction, the acceleration of
+the charged sphere is zero.
 
-
+Using Newton’s second law  \\(\vec {F} _{tot} = m \={a}\\) we have
 
-T _sinθ_
+\\(\T sin\theta \hat{i} - F_{e}\hat{i} = 0\\)
 
-T _cosθ_
+\\(\T sin\theta = F_{e}\\)          -----> equation 1
 
-_θ_
+Here T is the tension acting on the charge due to the string and F_e is the electrostatic force between the two charges.
 
-_θ_
+In the y-direction also, the net acceleration
+experienced by the charge is zero.
 
-_x_
+\\(\T cos \theta \hat{j} -mg \hat{j} = 0\\)
 
-_y_
+\\(\T cos \theta = mg\\)           -----> equation 2
 
-+
+By dividing equation (1) by equation (2),
 
-In the _x_\-direction, the acceleration of the charged sphere is zero.
-
-Using Newton’s second law 
-
-_F matot_ \=( ), we have
-
-_T i F ie_sinθ − = 0
-
-_T Fe_sinθ= (1)
-
-Here _T_ is the tension acting on the charge due to the string and _F_e is the electrostatic force between the two charges.
-
-In the _y_\-direction also, the net acceleration experienced by the charge is zero.
-
-_T j mg j_cosθ − = 0
-
-_T mg_cosθ= . (2)
-
-By dividing equation (1) by equation (2),  
-
-tanθ= _F_
-
-_mg e_ (3)
+\\(\tan \theta = \dfrac{F_e}{mg}\\)
 
 Since they are equally charged, the magnitude of the electrostatic force is
 
-_F k q re_ \=
+\\(\F_e = k(\dfrac{q^2}{r^2})\\) where k = \\(\drac{1}{4\pi\epsilon_0}\\)
 
-2
+Here r = 2a = 2Lsin\theta. By substituting these values in equation (3),
 
-2 where _k_ \= 1
+\\(\ tan\theta = k \dfrac{q^2}{mg(2Lsin\theta)^{2}}\\)
 
-4 0πe
+Rearranging the equation (4) to get q
 
-Here _r_ = 2_a_ = 2_L_sinθ. By substituting these values in equation (3),
+\\(\q = 2Lsin\theta \sqrt{\dfrac{mg tan\theta}{k}}\\)
 
-tan sin
+\\(\ = 2 * 0.1 * sin30\degree * \sqrt{\drac{10^{-3}*10*tan30\degree}{9*10^9}}\\)
 
-θ θ
+\\(\q = 8.01 * 10^{-8} C = 80.1 nC\\)
 
-\= ( )
-
-_k q_
-
-_mg L_
-
-2
-
-2 2
-
-(4)
-
-Rearranging the equation (4) to get _q_
-
-_q L mg_
-
-_k_ \= 2 sin
-
-tan θ
-
-θ
-
-\= × × × × × ×
-
-−
-
-2 0 1 30 10 10 30 9 10
-
-3
-
-9\. sin tan 
-
-
-
-_q_ = 8.01 × 10–8 C = 80.1 nC
-
-**EXAMPLE 1.4**
+_**EXAMPLE 1.4**
 
 Calculate the electrostatic force and gravitational force between the proton and the electron in a hydrogen atom. They are separated by a distance of 5.3 × 10–11 m. The magnitude of charges on the electron and proton are 1.6 × 10–19 C. Mass of the electron is _me_ = 9.1 × 10–31 kg and mass of proton is _mp_ = 1.6 × 10–27 kg.
 
@@ -482,56 +322,6 @@ Calculate the electrostatic force and gravitational force between the proton and
 
 The proton and the electron attract each other. The magnitude of the electrostatic force between these two particles is given by
 
-_F ke re_ \=
-
-2
-
-2 = × × ×( )
-
-×( )
-
-−
-
-−
-
-9 10 1 6 10
-
-5 3 10
-
-9 19 2
-
-11 2
-
-.
-
-.
-
-\= × × −9 2 56
-
-28 09 10 7.
-
-. = 8.2 × 10–8 N
-
-
-
-
-
-
-| mt |tan θ = |Fmghey a re e qually c hare f the electrostatic force i where  k = 14πe = 2 a = 2 Lsinθ. B y s ubs2quation (3),20()qmg 2 L sin θnging the equation (4) to g22mg tan θin θk10 ××10 ta.s13××in 091× 0 C = 80.1 nC−39–8 |(3) |
-|------|------|------|------|
-
-| ged, t he s |
-| Since tagnitude oqFk=rHere  rhese values in eetan θ = kRearraqL= 2s=×20q = 8.01 × 10 |
-
-| tituting |
-| (4) |
-| et q |
-| n 30 |
-
-
-
-| keF =r292×e = 228 |
-|------|
 
 
   
