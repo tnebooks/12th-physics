@@ -363,6 +363,8 @@ The force on _q_1 exerted by the charge _q_3 is
 
 By continuing this, the total force acting on the charge _q_1 due to all other charges is given by
 
+\\( \vec {F}^{tot} =  \vec {F}_{12} + \vec {F}_{13} + \vec {F}_{14} + .....\vec {F}_{1n}\\)
+
 
 
 The g ravitational f orce b etween t he proton a nd t he e lectron i s a ttractive. The m agnitude o f t he g ravitational f orce between these particles is Gm mF =r()66.. 71××09 11××01 .61× 0=ep 53. ×10G 2=×97.11 10−−−11 = 3.4 × 10 31  N 2728.09−11 2The ratio of the two forces−47 –47F  = 2.41 × 10F = 82. ×1034. ×10Note that FF» 10−8e 39The e lectrostat −ic f47 orce b etween a p rotonGand a n e lectron i s en ormously g reater39than t he g raeGvitational f orce b etween t hem.Thus t he g ravitational f orce i s n egligiblewhen compared with the electrostatic forcein m any si tuations s uch a s f or sm all sizeobjects a nd in t he a tomic do main. Thi s i sthe reason w hy a c harged comb attracts anuncharged piece of paper withgreater force even though thepiece o f p aper i s a ttracteddownward by the Earth. Thisis shown in Figure 1.3FeFigure 1.3 Electrostatic att Frac tion between a comb and pieces of papers |
