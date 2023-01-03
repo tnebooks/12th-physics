@@ -366,296 +366,70 @@ By continuing this, the total force acting on the charge _q_1 due to all other c
 \\( \vec {F}^{tot} =  \vec {F}_{12} + \vec {F}_{13} + \vec {F}_{14} + .....\vec {F}_{1n}\\)
 
 
+Without the superposition principle, Coulomb’s law will be incomplete when applied to more than two charges. Both the superposition principle and Coulomb’s law form fundamental principles of electrostatics and explain all the phenomena in electrostatics. But they are not derivable from each other.
 
-The g ravitational f orce b etween t he proton a nd t he e lectron i s a ttractive. The m agnitude o f t he g ravitational f orce between these particles is Gm mF =r()66.. 71××09 11××01 .61× 0=ep 53. ×10G 2=×97.11 10−−−11 = 3.4 × 10 31  N 2728.09−11 2The ratio of the two forces−47 –47F  = 2.41 × 10F = 82. ×1034. ×10Note that FF» 10−8e 39The e lectrostat −ic f47 orce b etween a p rotonGand a n e lectron i s en ormously g reater39than t he g raeGvitational f orce b etween t hem.Thus t he g ravitational f orce i s n egligiblewhen compared with the electrostatic forcein m any si tuations s uch a s f or sm all sizeobjects a nd in t he a tomic do main. Thi s i sthe reason w hy a c harged comb attracts anuncharged piece of paper withgreater force even though thepiece o f p aper i s a ttracteddownward by the Earth. Thisis shown in Figure 1.3FeFigure 1.3 Electrostatic att Frac tion between a comb and pieces of papers |
-|------|------|
+*EXAMPLE 1.5**
 
+Consider four equal charges _q_1, _q_2, _q_3 and _q_4 \= _q_ = +1 μC located at four different points on a circle of radius 1m, as shown in the figure. Calculate the total force acting on the charge _q_1 due to all the other charges.
 
-
-
-
-
-
-
-
-
-  
-
-Without the superposition principle, Coulomb’s law will be incomplete when applied
-
-to more than two charges. Both the superposition principle and Coulomb’s law form fundamental principles of electrostatics and explain all the phenomena in electrostatics. But they are not derivable from each other.
-
-**Note**
-
-**EXAMPLE 1.5**
-
-Consider four equal charges _q_1, _q_2, _q_3 and _q_4
-
-\= _q_ = +1 μC located at four different points on a circle of radius 1m, as shown in the figure. Calculate the total force acting on the charge _q_1 due to all the other charges.
-
-_x_
-
-_y q_**2**
-
-_q_**1**
-
-_q_**4**
-
-_q_**3**
-
-+
-
-++
-
-+
+![ ](1.65.png "")
 
 **_Solution_**
 
 According to the superposition principle, the total electrostatic force on charge _q_1 is the vector sum of the forces due to the other charges,
 
-   
+\\(\vec {F}^{tot} =  \vec {F}_{12} + \vec {F}_{13} + \vec {F}_{14}\\)
 
-_F F F Ftot_ 1 12 13 14= + +
+The following diagram shows the
+direction of each force on the charge q<sub>1</sub>
 
-The following diagram shows the direction of each force on the charge _q_1.  
+![ ](1.66.png "")
 
-**r21**
+The charges _q_2 and _q_4 are equi- distant from _q1_. As a result the strengths (magnitude) of the forces _F_12 and 
+_F_14 are the same even though their directions are different. Therefore the vectors representing these two forces are drawn with equal lengths. But the charge _q_3 is located farther compared to _q_2 and _q_4\. Since the strength of the electrostatic force decreases as distance increases, the strength of the force \\(\vec {F}^{13}\\) and \\(\vec {F}^{14}\\). Hence the vector representing
+the force \\(\vec {F}^{13}\\) is drawn with smaller length compared to that for forces 
+\\(\vec {F}^{12}\\)  and \\(\vec {F}^{14}\\).
 
-**r41**
-
-
-
-
-
-
-
-
-
-F14 sin
-
-F12 sin
-
-F14 cos 
-
-F12 cos 
-
-_x_
-
-_y q_**2**
-
-_q_**1**
-
-_q_**1**
-
-_q_**4**
-
-_q_**3** \+ **r31**
-
-+
-
-+
-
-+
-
-F14
-
-F13
-
-
-
-F13
-
-
-
-
-
-F14 
-
-F12
-
-F12
-
-+
-
-The charges _q_2 and _q_4 are equi- distant from _q1_. As a result the strengths (magnitude) of the forces
-
-
-
-_F_12 and 
-
-_F_14 are the same even though their directions are different. Therefore the vectors representing these two forces are drawn with equal lengths. But the charge _q_3 is located farther compared to _q_2 and _q_4\. Since the strength of the electrostatic force decreases as distance increases, the strength of the force
-
-
-
-_F_13 is lesser than that of forces 
-
-_F_12 and 
-
-_F_14 . Hence the vector representing the force
-
-
-
-_F_13 is drawn with smaller length compared to that for forces
-
-
-
-_F_12 and 
-
-_F_14 .
-
-From the figure, _r r r_21 41 312 2= = =m and m
+From the figure, \\(\r_{21} - \sqrt{2}m = r_{41} and r_{31} = 2m\\)
 
 The magnitudes of the forces are given by
 
-_F kq r_13
-
-2
-
-31 2= =
-
-× × −9 10 10 4
-
-9 12
 
 
-
-
-
-
-| r21 |FF+13 |
-|------|------|------|
-| qr41 | |
-| F12 |
-
-
-|  |
-|------|
-| F 13 |
   
 
-F13 = 2.25 × 10–3 N
+**Note**
 
-_F kq r_
 
-_F_12
 
-2
+**_Solution_**
 
-21 2 14= = =
+According to the superposition principle, the total electrostatic force on charge _q_1 is the vector sum of the forces due to the other charges,
 
-× × −9 10 10 2
 
-9 12
 
-\= 4.5 × 10–3 N
+
+
+
 
 From the figure, the angle θ = 45o. In terms of the components, we have
 
-
 
-_F F i F j_12 12 12= −cos sinθ θ 
 
-\= × × − × ×− −4 5 10 1 2
-
-4 5 10 1 2
-
-3 3. ._i j_ 
-
-
-
-_F F i i_13 13 32 25 10= = × −
-
- . N 
-
-_F F i F j_14 14 14= +cos sinθ θ 
-
-\= × × + × ×− −4 5 10 1 2
-
-4 5 10 1 2
-
-3 3. ._i j_ 
-
-Then the total force on _q_1 is 
-
-_F F i F j F i_
-
-_F i F j_
-
-_tot_ 1 12 12 13
-
-14 14
-
-\= −( )+ + +( )
-
-cos sin
-
-cos sin
-
-θ θ
-
-θ θ
-
-  
-
- 
-
-
-
-_F F F F i_
-
-_F F j_
-
-_tot_ 1 12 13 14
-
-12 14
-
-\= + +( ) + − +( )
-
-cos cos
-
-sin sin
-
-θ θ
-
-θ θ
-
-
-
-
 
 Since F12 = F14, the jth component is zero. Hence we have
 
-
 
 _F F F F itot_ 1 12 13 14= + +( )cos cosθ θ 
 
 substituting the values in the above equation,
 
-\= + + 
 
- 
 
-
 
- × = +(−4 5
 
-2 2 25 4 5
 
-2 10 4 5 2 2 23. . . . ._i_
 
-\+ +
-
-
-
- × = +( )×− −5
-
-2 2 25 4 5
-
-2 10 4 5 2 2 25 103 3. . . . ._i i_ 
-
-
-
-_F itot_ 1
 
 38 61 10= × −.  N
 
