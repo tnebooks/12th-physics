@@ -319,76 +319,28 @@ _**EXAMPLE 1.4**
 Calculate the electrostatic force and gravitational force between the proton and the electron in a hydrogen atom. They are separated by a distance of 5.3 × 10–11 m. The magnitude of charges on the electron and proton are 1.6 × 10–19 C. Mass of the electron is _me_ = 9.1 × 10–31 kg and mass of proton is _mp_ = 1.6 × 10–27 kg.
 
 **_Solution_**
-
 The proton and the electron attract each other. The magnitude of the electrostatic force between these two particles is given by
 
 
+\\(\F_{e} = \dfrac{Ke^{2}}{r^{2}} = \dfrac {9*10^{9}*(1.6*10^{-19})}{(5.3*10^{-11})^2}\\)
 
-  
+\\(\=dfrac{9*2.56}{28.09}*10^{-7} = 8.2 *10^{-8}N\\)
+
 
 The gravitational force between the proton and the electron is attractive. The magnitude of the gravitational force between these particles is
 
-_F Gm m_
+\\(\F_G = \dfrac{Gm_em_p}{r_2}\\)
+\\(\ = \dfrac{6.67 * 10^{-11}*9.1*10^{-31}*1.6*10^{-27}}{(5.3*10^{-11})^2}\\)
 
-_rG e p_\= 2
-
-\= × × × × ×
-
-×( )
-
-− − −
-
-−
-
-6 67 10 9 1 10 1 6 10
-
-5 3 10
-
-11 31 27
-
-11 2
-
-. . .
-
-.
-
-\= × −97 11 28 09
-
-10 47. .
-
-\= 3.4 × 10–47 N
+\\(\ = \dfrac{97.11}{28.09}*10^{-47} = 3.4 *10^{-47}N\\)
 
 The ratio of the two forces
 
-_F F_
+\\(\dfrac{F_e}{F_G} = \dfrac{8.2 * 10^-8}{3.4*10^{-47}} = 2.41 * 10 ^{39}\\)
 
-_e_
-
-_G_
-
-\= × ×
-
-−
-
-−
-
-8 2 10 3 4 10
-
-8
-
-47
-
-. .
-
-\= 2.41 × 1039
-
-Note that _F Fe G_»1039
+Note that \\(\F_e \approx 10^{39} F_G\\)
 
 The electrostatic force between a proton and an electron is enormously greater than the gravitational force between them. Thus the gravitational force is negligible when compared with the electrostatic force in many situations such as for small size objects and in the atomic domain. This is the reason why a charged comb attracts an uncharged piece of paper with greater force even though the piece of paper is attracted downward by the Earth. This is shown in Figure 1.3
-
-**F**e 
-
-**F**G 
 
 ![Electrostatic attraction between a comb and pieces of papers  ](1.3.png "")
 
@@ -400,13 +352,8 @@ According to this superposition principle, **the total force acting on a given c
 
 Consider a system of _n_ charges, namely _q1_, _q_2, _q_3 …._q_n. The force on _q_1 exerted by the charge _q2_
 
-
 
-_F k q q r_
 
-_r_12 1 2
-
-21 2 21= 
 
 where _r_21 is the unit vector from _q_2 to _q_1 along the line joining the two charges and _r_21 is the distance between the charges _q1_ and _q2_. The electrostatic force between two charges is not affected by the presence of other charges in the neighbourhood.
 
