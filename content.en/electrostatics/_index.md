@@ -352,84 +352,20 @@ According to this superposition principle, **the total force acting on a given c
 
 Consider a system of _n_ charges, namely _q1_, _q_2, _q_3 …._q_n. The force on _q_1 exerted by the charge _q2_
 
+\\( \vec {F}=k\dfrac{q_1q_2}{r^{2}_{21}} \hat{r}_21\\)
 
 
-
-where _r_21 is the unit vector from _q_2 to _q_1 along the line joining the two charges and _r_21 is the distance between the charges _q1_ and _q2_. The electrostatic force between two charges is not affected by the presence of other charges in the neighbourhood.
+where _r_^{21} is the unit vector from _q_2 to _q_1 along the line joining the two charges and _r_21 is the distance between the charges _q1_ and _q2_. The electrostatic force between two charges is not affected by the presence of other charges in the neighbourhood.
 
 The force on _q_1 exerted by the charge _q_3 is
 
-
-
-_F k q q r_
-
-_r_13 1 3
-
-31 2 31= 
+\\( \vec {F}_{13} = k\dfrac{q_1q_2}{r^{2}_{21}} \hat{r}_31\\)
 
 By continuing this, the total force acting on the charge _q_1 due to all other charges is given by
 
-    
-
-_F F F F Ftot n_1 12 13 14 1= + + + ..........
-
-
-
-_F k q q r_
-
-_r q q r_
-
-_r q q r_
-
-_rtot_ 1
-
-1 2
-
-21 2 21
-
-1 3
-
-31 2 31
-
-1 4
-
-41 2 41= + + +
-
-  
-
-    ...
-
-....+   
-
-
-
-_q q r_
-
-_rn_
-
-_n n_
-
-1
-
-1 2 1
-
-(1.3)
 
 
-
-
-
-
-| mr71××09 11××01 .61×ep2−−−11 31 |
-|------|------|
-| GmF =66..=G97=×28 |
-
-| ()53. ×10.11 = 3.4 × 10  N10.09−11 2−47 –47 |
-
-
-
-
-| The g ravitational f orce b etween t he proton a nd t he e lectron i s a ttractive. The m agnitude o f t he g ravitational f orce between these particles is Gm mF =r()66.. 71××09 11××01 .61× 0=ep 53. ×10G 2=×97.11 10−−−11 = 3.4 × 10 31  N 2728.09−11 2The ratio of the two forces−47 –47F  = 2.41 × 10F = 82. ×1034. ×10Note that FF» 10−8e 39The e lectrostat −ic f47 orce b etween a p rotonGand a n e lectron i s en ormously g reater39than t he g raeGvitational f orce b etween t hem.Thus t he g ravitational f orce i s n egligiblewhen compared with the electrostatic forcein m any si tuations s uch a s f or sm all sizeobjects a nd in t he a tomic do main. Thi s i sthe reason w hy a c harged comb attracts anuncharged piece of paper withgreater force even though thepiece o f p aper i s a ttracteddownward by the Earth. Thisis shown in Figure 1.3FeFigure 1.3 Electrostatic att Frac tion between a comb and pieces of papers |
+The g ravitational f orce b etween t he proton a nd t he e lectron i s a ttractive. The m agnitude o f t he g ravitational f orce between these particles is Gm mF =r()66.. 71××09 11××01 .61× 0=ep 53. ×10G 2=×97.11 10−−−11 = 3.4 × 10 31  N 2728.09−11 2The ratio of the two forces−47 –47F  = 2.41 × 10F = 82. ×1034. ×10Note that FF» 10−8e 39The e lectrostat −ic f47 orce b etween a p rotonGand a n e lectron i s en ormously g reater39than t he g raeGvitational f orce b etween t hem.Thus t he g ravitational f orce i s n egligiblewhen compared with the electrostatic forcein m any si tuations s uch a s f or sm all sizeobjects a nd in t he a tomic do main. Thi s i sthe reason w hy a c harged comb attracts anuncharged piece of paper withgreater force even though thepiece o f p aper i s a ttracteddownward by the Earth. Thisis shown in Figure 1.3FeFigure 1.3 Electrostatic att Frac tion between a comb and pieces of papers |
 |------|------|
 
 
