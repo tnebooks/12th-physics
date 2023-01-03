@@ -1,42 +1,68 @@
 ---
 title: 'Electrostatics'
 weight: 1
+extensions:
+    - katex
 ---
 
-  
+ 
 
-**U N I T**
+```
+### Learning Objectives
 
-**1** ELECTROS
+**In this unit, student is exposed to** 
 
-**In this unit, student is exposed to** • Historical background of electricity and magne • The role of electrostatic force in day – to-day li • Coulomb’s law and superposition principle • The concept of electric field • Calculation of electric field for various charge • Electrostatic potential and electrostatic potenti • Electric dipole and dipole moment • Electric field and electrostatic potential for a d • Electric flux • Gauss law and its various applications • Electrostatic properties of conductors and diel • Polarisation • Capacitors in series and parallel combinations • Effect of a dielectric in a capacitor • Distribution of charges in conductors, corona d • Working of a Van de Graaff generator
 
-**Learning Objectives**
+
+- Historical background of electricity and magnetism
+
+- The role of electrostatic force in day – to-day life
+
+- Coulomb’s law and superposition principle 
+
+- The concept of electric field 
+
+- Calculation of electric field for various charge configurations
+
+- Electrostatic potential and electrostatic potential energy 
+
+- Electric dipole and dipole moment 
+
+- Electric field and electrostatic potential for a dipole 
+
+- Electric flux 
+
+- Gauss law and its various applications 
+
+- Electrostatic properties of conductors and dielectrics
+
+- Polarisation 
+
+- Capacitors in series and parallel combinations 
+
+- Effect of a dielectric in a capacitor 
+
+- Distribution of charges in conductors, corona discharge
+
+- Working of a Van de Graaff generator
+
+```
 
 ## INTRODUCTION
 
-Electromagnetism is one of the most important branches of physics. The technological developments of the modern 21st century are primarily due to our understanding of electromagnetism. The forces we experience in everyday life are electromagnetic in nature except gravity.  
+Electromagnetism is one of the most important branches of physics. The technological developments of the modern 21st century are primarily due to our understanding of electromagnetism. The forces we experience in everyday life are electromagnetic in nature except gravity.
 
-TATICS
-
-tism fe
-
-configurations al energy
-
-ipole
-
-ectrics
-
-ischarge
-
-_Electricity is really just organized lightning_ – George Carlin
-
-In standard XI, we studied about the gravitational force, tension, friction, normal force etc. Newton treated them to be independent of each other with each force being a separate natural force. But what is the origin of all these forces? It is now understood that except gravity, all forces which we experience in every day life (tension in the string, normal force from the surface, friction etc.) arise from electromagnetic forces within the atoms. Some examples are
-
-
-
-
-  
+In standard XI, we studied about the
+gravitational force, tension, friction, normal
+force etc. Newton treated them to be
+independent of each other with each force
+being a separate natural force. But what is the
+origin of all these forces? It is now understood
+that except gravity, all forces which we
+experience in every day life (tension in the
+string, normal force from the surface, friction
+etc.) arise from electromagnetic forces within
+the atoms. Some examples are
 
 **(i)** When an object is pushed, the atoms in our hand interact with the atoms in the object and this interaction is basically electromagnetic in nature.
 
@@ -56,106 +82,43 @@ after rubbing with animal fur attracted small pieces of leaves and dust. The amb
 
 Consider a charged rubber rod hanging from a thread as shown in Figure 1.1. Suppose another charged rubber rod is brought near the first rubber rod; the rods repel each other. Now if we bring a charged glass rod close to the charged rubber rod, they attract each other. At the same time, if a charged glass rod is brought near another charged glass rod, both the rods repel each other.
 
-From these observations, the following inferences are made **(i)** The charging of rubber rod and that of
+From these observations, the following inferences are made
 
-glass rod are different from one another. **(ii)** The charged rubber rod repels another
+**(i)** The charging of rubber rod and that of glass rod are different from one another. 
 
-charged rubber rod, which implies that ‘like charges repel each other’. We can also arrive at the same inference by observing that a charged glass rod repels another charged glass rod.
+**(ii)** The charged rubber rod repels another charged rubber rod, which implies that ‘like charges repel each other’. We can also arrive at the same inference by observing that a charged glass rod repels another charged glass rod.
 
 **(iii)** The charged rubber rod attracts the charged glass rod, implying that the charge in the glass rod is not the same kind of charge present in the rubber. Thus unlike charges attract each other.
 
 Therefore, two kinds of charges exist in the universe. In the 18th century, Benjamin Franklin called one type of charge as positive (+) and another type of charge as negative (–). Based on Franklin’s convention, rubber and amber rods are negatively charged while the glass rod is positively charged. **If the net charge is zero in the object, it is said to be electrically neutral.**
 
-
-
-
-  
+![(a) Unlike charges attract each other (b) Like charges repel each other](1.1.png "")
 
 Following the pioneering work of J. J. Thomson and E. Rutherford, in the late 19th century and in the beginning of 20th century, we now understand that the atom is electrically neutral and is made up of the negatively charged electrons, positively charged protons, and neutrons which have zero charge. The material objects made up of atoms are neutral in general. When an object is rubbed with another object (for example rubber with silk cloth), some amount of charge is transferred from one object to another due to the friction between them and the object is then said to be electrically charged. **Charging the objects through rubbing is called triboelectric charging.**
 
 ### Basic properties of charges
 
-**(i) Electric charge** Most objects in the universe are made
+**(i) Electric charge**
 
-up of atoms, which in turn are made up of protons, neutrons and electrons. These particles have mass, an inherent property of particles. Similarly, the electric charge
+Most objects in the universe are made up of atoms, which in turn are made up of protons, neutrons and electrons. These particles have mass, an inherent property of particles. Similarly, the electric charge is another intrinsic and fundamental property of particles. The nature of charges is understood through various experiments performed in the 19th and 20th century. The SI unit of charge is coulomb.
 
-**Rubbe**
+**(ii) Conservation of charges**
 
-**\_\_ \_\_\_**
-
-**\+ + ++ F** 
-
-**F** 
-
-**Glass (a)**
-
-A negatively charged rubber rod is attracted to a positively
-
-charged glass rod
-
-![(a) Unlike charges attract each oth  ](1.1.png "")
-
-is another intrinsic and fundamental property of particles. The nature of charges is understood through various experiments performed in the 19th and 20th century. The SI unit of charge is coulomb.
-
-**(ii) Conservation of charges** Benjamin Franklin argued that when one
-
-object is rubbed with another object, charges get transferred from one to the other. Before rubbing, both objects are electrically neutral and rubbing simply transfers the charges from one object to the other. (For example, when a glass rod is rubbed against silk cloth, some negative charge are transferred from glass to silk. As a result, the glass rod is positively charged and silk cloth becomes negatively charged).
+Benjamin Franklin argued that when one object is rubbed with another object, charges get transferred from one to the other. Before rubbing, both objects are electrically neutral and rubbing simply transfers the charges from one object to the other. (For example, when a glass rod is rubbed against silk cloth, some negative charge are transferred from glass to silk. As a result, the glass rod is positively charged and silk cloth becomes negatively charged).
 
 From these observations, he concluded that charges are neither created or nor destroyed but can only be transferred from one object to other. This is called conservation of total charges and is one of the fundamental conservation laws in physics. It is stated more generally in the following way.
 
-**The total electric charge in the universe is constant and charge can neither be created nor be destroyed. In any physical**
+**The total electric charge in the universe is constant and charge can neither be created nor be destroyed. In any physical process, the net change in charge will always be zero.**
 
-**r Rubber**
+**(iii) Quantisation of charges**
 
-**Rubber**
+What is the smallest amount of charge that can be found in nature? Experiments show that the charge on an electron is −*e* and the charge on the proton is +*e*. Here, *e* denotes the fundamental unit of charge. The charge *q* on any object is equal to an integral multiple of this fundamental unit of charge *e*.
 
-**\_\_ \_\_\_**
+*q = ne* (1.1)
 
-**\_\_ \_\_\_**
+Here *n* is any integer (0, ±1, ±2, ±3, ±4………..). This is called quantisation of electric charge.
 
-**F** 
-
-**F** 
-
-**(b)**
-
-A negatively charged rubber rod is repelled by another
-
-negatively charged rubber rod
-
-er (b) Like charges repel each other
-
-
-
-
-
-
-| __ |___ |
-|------|------|------|
-
-
-
-| __ ___ |
-|------|------|------|
-
-
-
-| + ++ |+ |
-|------|------|
-
-  
-
-**process, the net change in charge will always be zero.**
-
-**(iii) Quantisation of charges** What is the smallest amount of charge
-
-that can be found in nature? Experiments show that the charge on an electron is −_e_ and the charge on the proton is +_e_. Here, _e_ denotes the fundamental unit of charge. The charge _q_ on any object is equal to an integral multiple of this fundamental unit of charge _e_.
-
-_q = ne_ (1.1)
-
-Here _n_ is any integer (0, ±1, ±2, ±3, ±4………..). This is called quantisation of electric charge.
-
-Robert Millikan in his famous experiment found that the value of _e_ = 1.6 × 10–19 C. The charge of an electron is −1.6 × 10–19 C and the charge of the proton is +1.6 × 10–19 C. When a glass rod is rubbed with silk cloth, the number of charges transferred is usually very large, typically of the order of 1010. So the charge quantisation is not appreciable at the macroscopic level. Hence the charges are treated to be continuous (not discrete). But at the microscopic level, quantisation of charge plays a vital role.
+Robert Millikan in his famous experiment found that the value of *e* = 1.6 × 10<sup>–19</sup> C. The charge of an electron is −1.6 × 10<sup>–19</sup> C and the charge of the proton is +1.6 × 10<sup>–19</sup> C. When a glass rod is rubbed with silk cloth, the number of charges transferred is usually very large, typically of the order of 1010. So the charge quantisation is not appreciable at the macroscopic level. Hence the charges are treated to be continuous (not discrete). But at the microscopic level, quantisation of charge plays a vital role.
 
 **EXAMPLE 1.1**
 
@@ -165,223 +128,63 @@ Calculate the number of electrons in one coulomb of negative charge.
 
 According to the quantisation of charge,
 
-_q_ = _ne_
+**q = ne**
 
-Here _q_ = 1C. So the number of electrons in 1 coulomb of charge is
+Here *q* = 1C. So the number of electrons in 1 coulomb of charge is
 
-_n q e_
-
-_C_\= = ×
-
-\= ×−
-
-1
-
-1 6 10 6 25 10
-
-19
-
-18
-
-. . electrons  
+{{< katex display >}} n = \frac{q}{e} = \frac{1C}{1.6 × 10^{–19}} = 6.25 × 10^{18}{{< /katex >}} electrons  
 
 ## COULOMB’S LAW
 
-In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges _q_1 and _q_2 at rest in vacuum, and separated by a distance of _r_ as shown in Figure 1.2. According to Coulomb, the force on the point charge _q_2 exerted by another point charge _q_1 is
+In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges \\(q _1\\) and \\(q _2\\) at rest in vacuum, and separated by a distance of *r* as shown in Figure 1.2. According to Coulomb, the force on the point charge \\(q _2 \\)exerted by another point charge \\(q _1\\) is
 
-
+{{< katex display >}} \vec {F}_{21} = k \frac{q_1q_2}{r^2} \hat{r}_{12} {{< /katex >}}(1.2)
 
-_F k q q r_
-
-_r_21 1 2
-
-2 12=  (1.2)
-
-where _r_12 is the unit vector directed from charge _q_1 to charge _q_2 and _k_ is the proportionality constant.
-
-**F21** 
-
-**+**
-
-**+**
-
-_q_**1**
-
-_q_**2**
-
-**r12**
-
-**r**
+where \\(\hat{r} _{12}\\) is the unit vector directed from charge \\(q _1\\) to charge \\(q _2\\) and *k* is the proportionality constant.
 
 ![Coulomb force between two positive point charges](1.2.png "")
 
-**Important aspects of Coulomb’s law (i)** Coulomb's law states that the electrostatic force is directly proportional to the product of the magnitude of the two point charges and is inversely proportional to the square of the distance between the two point charges.
+**Important aspects of Coulomb’s law**
 
-**(ii)** The force on the charge _q_2 exerted by the charge _q_1 always lies along the line
+**(i)** Coulomb's law states that the electrostatic force is directly proportional to the product of the magnitude of the two point charges and is inversely proportional to the square of the distance between the two point charges.
 
+**(ii)** The force on the charge \\(q _2\\) exerted by the charge \\(q _1\\) always lies along the line joining the two charges. \\(\hat{r} _{12}\\) is the unit vector pointing from charge \\(q _1\\) to \\(q _2\\) .It is shown in the Figure 1.2. Likewise, the force on the charge \\(q _1\\) exerted by \\(q _2\\) is along \\(\hat{-r} _{12}\\) (i.e., in the direction opposite to \\(\hat{r} _{12}\\) ).
 
-
-
-
-
-| r |
-|------|------|------|------|------|
-| F |
-| + |q |
-| r |
+**(iii)** In SI units, k = \\(\dfrac{1}{4π\epsilon_{o}}\\) and its value is \\(9 × 10^9 N m^2 C^{–2}\\). Here \\(\epsilon_{o}\\) is the permittivity of free space or vacuum and its value is
 
 
-| EXAMPLE 1 . 1Calculate t he n umber o f e lectrons in o ne coulomb of negative charge.SolutionAccording to the quantisation of charge,q = neHere q = 1C.  So the number of electrons in 1 coulomb of charge isq 1Cn == =×62.e 51 0 lectronse 16. × 1018−19 |
-|------|
+\\(\epsilon_{o} = \dfrac{1}{4πk} = 8.85×10^{−12} C^2 N^{−1}m^{−2} .\\)
 
-
-
-
-
-  
-
-joining the two charges. _r_12 is the unit vector pointing from charge _q_1 to _q_2 .It is shown in the Figure 1.2. Likewise, the force on the charge _q_1 exerted by _q_2 is along -_r_12 (i.e., in the direction opposite to _r_12 ).
-
-**(iii)** In SI units, _k o_
-
-\= 1
-
-4πe and its value is
-
-9 × 109 N m2 C–2. Here eo is the permittivity of free space or vacuum and its value is
-
-e_o k_ \= = × − − −1
-
-4 8 85 10 12
-
-π . .C N m2 1 2
 
 **(iv)** The magnitude of the electrostatic force between two charges each of one coulomb and separated by a distance of 1 m is calculated as follows:
 
-_F_ \= × × × = ×
-
-9 10 1 1 1
-
-9 10 9
-
-2 9 N .
+\\(|F| = \frac{9×10 ×1×1}{1^2} = 9×10^{9} N.\\)
 
 This is a huge quantity, almost equivalent to the weight of one million ton. We never come across 1 coulomb of charge in practice. Most of the electrical phenomena in day-to-day life involve electrical charges of the order of µC (micro coulomb) or nC (nano coulomb).
 
-**(v)** In SI units, Coulomb’s law in vacuum
+**(v)** In SI units, Coulomb’s law in vacuum takes the form \\(\vec {F} _{21} = \dfrac{1}{4π\epsilon _{o}} \dfrac{q_1q_2}{r^2} \hat{r} _{12} .\\) In a medium of permittivity e, the force between two point charges is given by \\(\vec {F} _{21} = \dfrac{1}{4π\epsilon} \dfrac{q_1q_2}{r^2} \hat{r} _{12} .\\)
 
-takes the form 
+.
 
-
-
-_F q q r_
-
-_r_21 1 2
-
-2 12 1
-
-4 =
-
-πe  . In a medium
-
-of permittivity e, the force between two
-
-point charges is given by 
-
-_F q q r_
-
-_r_21 1 2
-
-2 12 1
-
-4 =
-
-πe  .
-
-Since e>eo, the force between two point charges in a medium other than vacuum is always less than that in vacuum. We define the relative permittivity for a given medium
-
-as e e
-
-e _r_ \=
-
-
-
-. For vacuum or air, er = 1 and for
-
-all other media er> 1.  
+Since \\(\epsilon>\epsilon _o\\), the force between two point charges in a medium other than vacuum is always less than that in vacuum. We define the relative permittivity for a given medium \\(\epsilon _r\\) = \\(\dfrac{\epsilon}{\epsilon _o}\\). For vacuum or air, \\(\epsilon _r = 1\\) and for all other media \\(\epsilon _r > 1\\).  
 
 **(vi)** Coulomb’s law has same structure as Newton’s law of gravitation. Both are inversely proportional to the square of the distance between the particles. The electrostatic force is directly proportional to the product of the magnitude of two point charges and gravitational force is directly proportional to the product of two masses. But there are some important differences between these two laws.
 
-• The gravitational force between two masses is always attractive but Coulomb force between two charges can be attractive or repulsive, depending on the nature of charges.
+- The gravitational force between two masses is always attractive but Coulomb force between two charges can be attractive or repulsive, depending on the nature of charges.
 
-• The value of the gravitational constant _G_ = 6.67 × 10–11 N m2 kg–2. The value of the constant _k_ in Coulomb law is _k_ = 9 × 109 N m2 C–2. Since _k_ is much more greater than _G_, the electrostatic force is always greater in magnitude than gravitational force for smaller size objects. • The gravitational force between two masses is independent of the medium. For example, if 1 kg of two masses are kept in air or inside water, the gravitational force between two masses remains the same. But the electrostatic force between the two charges depends on nature of the medium in which the two charges are kept at rest.
+- The value of the gravitational constant \\(G = 6.67 × 10^{–11} N m^2 kg{–2}\\). The value of the constant *k* in Coulomb law is \\(k = 9 × 10^9 N m^2 C^{–2}\\). Since *k* is much more greater than *G*, the electrostatic force is always greater in magnitude than gravitational force for smaller size objects. 
 
-**(vii)** The force on a charge _q1_ exerted by a point charge _q2_ is given by
+- The gravitational force between two masses is independent of the medium. For example, if 1 kg of two masses are kept in air or inside water, the gravitational force between two masses remains the same. But the electrostatic force between the two charges depends on nature of the medium in which the two charges are kept at rest.
 
-
+**(vii)** The force on a charge \\(q _1\\) exerted by a point charge \\(q _2\\) is given by
 
-
+\\(\vec {F} _{12} = \dfrac{1}{4π\epsilon _o} \dfrac{q_1q_2}{r^2} \hat{r} _{21} .\\)
 
-_F q q r_
+Here \\(\hat{r} _{21}\\) is the unit vector from charge \\(q _2\\) to \\(q _1\\).
 
-_r_12 1 2
+\\(\hat{r} _{21} = -\hat{r} _{12}\\)
 
-2 21 1
-
-4 =
-
-πe 
-
-Here _r_21 is the unit vector from charge _q_2 to _q_1.
-
-But _r r_ 21 12=− ,
-
-
-
-
-  
-
- _F_
-
-_i_
-
-21
-
-9
-
-3
-
-9 10 2
-
-54 10
-
-\= × × ×
-
-\= × − 
-
-
-
- 
-
-_F q q r_
-
-_r q q r_
-
-_r_12 1 2
-
-2 12 1 2
-
-2 12 1
-
-4 1
-
-4 = −( )=− ( )
-
-π πe e  
-
-(or) _F F_  
-
-12 21=−
+\\(\vec {F} _{12} = \dfrac{1}{4π\epsilon _o} \dfrac{q_1q_2}{r^2} (-\hat{r} _{12}) .\\) = \\(- \dfrac{1}{4π\epsilon _o} \dfrac{q_1q_2}{r^2} (\hat{r} _{12}) .\\)
 
 Therefore, the electrostatic force obeys Newton’s third law.
 
@@ -391,159 +194,34 @@ Therefore, the electrostatic force obeys Newton’s third law.
 
 Consider two point charges _q_1 and _q_2 at rest as shown in the figure.
 
-**_y_**
-
-**_x_**
-
-1m
-
-_q_**1** _q_**2**
+![](example1.2.png)
 
 They are separated by a distance of 1m. Calculate the force experienced by the two charges for the following cases:
 
-**(a)** _q_1 = +2 μC and _q_2 = +3 μC
+**(a)** \\(q _1 = +2 μC and q _2 = +3 μC\\)
 
-**(b)** _q_1 = +2 μC and _q_2 = –3 μC
+**(b)** \\(q _1 = +2 μC and q _2 = –3 μC\\)
 
-**(c)** _q_1= +2 μC and _q_2 = –3 μC kept in water (er = 80)  
+**(c)** \\(q _1= +2 μC and q _2 = –3 μC kept in water (\epsilon _r = 80)\\)  
 
 **_Solution_**
 
-_y_
+![](example1.2b.png)
 
-_y_
+**(a)** \\(q _1 = +2 μC, q _2 = +3 μC, and r _ = 1m\\). Both are positive charges. so the force will be repulsive.
 
-_y_
+Force experienced by the charge \\(q _2 due to q _1\\) is given by
 
-_x_
+\\(\vec {F} _{12} = \dfrac{1}{4π\epsilon _o} \dfrac{q_1q_2}{r^2} \hat{r} _{12} .\\)
 
-_x_
+Here \\(\hat{r} _{12}\\) is the unit vector from  \\(q _1 to q _2\\). Since \\(q _2\\) is located on the right of \\(q _1\\), we have
 
-_x_
+\\(\hat{r} _{12} = \hat{i}\\) and \\(\dfrac{1}{4π\epsilon _o} = 9 ×10^9\\) so that
 
-**Case (a)**
+\\(\vec {F} _{21} = \dfrac{9 × 10^9×2×10^{-6}×3×10^{-6}}{1^2} \hat{i}\\)
 
-**Case (b)**
+\\(= 54 × 10^{-3} \hat{i} N\\)
 
-**Case (c)**
-
-_q_**1** _q_**2**
-
-_q_**1** _q_**2**
-
-**F12** 
-
-**F12** 
-
-**F12** 
-
-**F21** 
-
-**F21** 
-
-**F21** 
-
-**+**
-
-**+**
-
-**\_**
-
-**\_** _q_**1** _q_**2**
-
-**(a)** _q_1 = +2 μC, _q_2 = +3 μC, and _r_ = 1m. Both are positive charges. so the force will be repulsive.
-
-Force experienced by the charge _q_2 due to _q_1 is given by
-
-
-
-
-
-_F q q r_
-
-_r_21 1 2
-
-2 12 1
-
-4 =
-
-πe 
-
-Here _r_12 is the unit vector from _q_1 to _q_2\. Since _q_2 is located on the right of _q_1, we have
-
-_r i_
-
-
-
-12 = and 
-
-_i_ 6 6
-
-2 910 3 10
-
-1 1
-
-4 9 10× × = ×
-
-− − 
-
-πe
-
-N
-
-so that
-
-
-
-
-
-_F i_
-
-_i_
-
-21
-
-9 6 6
-
-2 9
-
-3
-
-9 10 2 10 3 10 1
-
-1 4
-
-9 10
-
-54 10
-
-\= × × × × ×
-
-\= ×
-
-\= ×
-
-− −
-
-−
-
-
-
-
-
-πe
-
-N
-
-
-
-
-
-
-
-|------|------|
-| q |
-  
 
 According to Newton’s third law, the force experienced by the charge _q_1 due to _q_2 is  
 
@@ -2215,7 +1893,7 @@ _E mg h qL_
 
 ### Electric field lines
 
-Electric field vectors are visualized by the concept of electric field lines. They form a set of continuous lines which are the visual representation of the electric field in some region of space. The following rules are followed while drawing electric field lines for charges. • The electric field lines start from a positive charge and end at negative charges or at infinity. For a positive point charge the electric field lines point radially outward and for a negative point charge, the electric field lines point radially inward. These are shown in Figure 1.9 (a) and (b).
+Electric field vectors are visualized by the concept of electric field lines. They form a set of continuous lines which are the visual representation of the electric field in some region of space. The following rules are followed while drawing electric field lines for charges. - The electric field lines start from a positive charge and end at negative charges or at infinity. For a positive point charge the electric field lines point radially outward and for a negative point charge, the electric field lines point radially inward. These are shown in Figure 1.9 (a) and (b).
 
 **(a)**
 
@@ -2280,7 +1958,7 @@ Electric field vectors are visualized by the concept of electric field lines. Th
 
 Note that for an isolated positive point charge the electric field line starts from the charge and ends only at infinity. For an isolated negative point charge the electric field lines start at infinity and end at the negative charge.
 
-• The electric field vector at a point in space is tangential to the electric field line at that point. This is shown in Figure 1.10
+- The electric field vector at a point in space is tangential to the electric field line at that point. This is shown in Figure 1.10
 
 **_P_**
 
@@ -2290,7 +1968,7 @@ Note that for an isolated positive point charge the electric field line starts f
 
 **Figure 1.10 Electric field at a point P**
 
-• The electric field lines are denser (more closer) in a region where the electric field has larger magnitude and less dense in a region where the electric field is of smaller magnitude. In other words, the number of lines passing through a given surface area perpendicular to the lines is proportional to the magnitude of  
+- The electric field lines are denser (more closer) in a region where the electric field has larger magnitude and less dense in a region where the electric field is of smaller magnitude. In other words, the number of lines passing through a given surface area perpendicular to the lines is proportional to the magnitude of  
 
 the electric field in that region. This is shown in Figure1.11
 
@@ -2316,7 +1994,7 @@ _E r_
 
 1 2 . So the
 
-electric field has greater magnitude at the surface A than at B. Therefore, the number of lines crossing the surface A is greater than the number of lines crossing the surface B. Note that at surface B the electric field lines are farther apart compared to the electric field lines at the surface A. • No two electric field lines intersect each other. If two lines cross at a point, then there will be two different electric field vectors at the same point, as shown in Figure 1.12.
+electric field has greater magnitude at the surface A than at B. Therefore, the number of lines crossing the surface A is greater than the number of lines crossing the surface B. Note that at surface B the electric field lines are farther apart compared to the electric field lines at the surface A. - No two electric field lines intersect each other. If two lines cross at a point, then there will be two different electric field vectors at the same point, as shown in Figure 1.12.
 
 \= Electric eld = Electric eld lines
 
@@ -2344,7 +2022,7 @@ electric field has greater magnitude at the surface A than at B. Therefore, the 
 
   
 
-As a consequence, if some charge is placed in the intersection point, then it has to move in two different directions at the same time, which is physically impossible. Hence, electric field lines do not intersect. • The number of electric field lines that emanate from the positive charge or end at a negative charge is directly proportional to the magnitude of the charges.
+As a consequence, if some charge is placed in the intersection point, then it has to move in two different directions at the same time, which is physically impossible. Hence, electric field lines do not intersect. - The number of electric field lines that emanate from the positive charge or end at a negative charge is directly proportional to the magnitude of the charges.
 
 For example in the Figure 1.13, the electric field lines are drawn for charges +_q_ and –2_q_. Note that the number of field lines emanating from +_q_ is 8 and the number of field lines ending at –2_q_ is 16. Since the magnitude of the second charge is twice that of the first charge,
 
@@ -2506,9 +2184,9 @@ where _r_\+ is the position vector of +_q_ from the origin and _r_\- is th
 
 _p qai qa i qai_\= − −( )=  2 (1.10)
 
-The electric dipole moment vector lies along the line joining two charges and is directed from –_q_ to +_q_. The SI unit of dipole moment is coulomb metre (Cm). The electric field lines for an electric dipole are shown in Figure 1.14 (b). • For simplicity, the two charges are placed on the _x_\-axis. Even if the two charges are placed on _y_ or _z_\-axis, dipole moment will point from –_q_ to +_q_.
+The electric dipole moment vector lies along the line joining two charges and is directed from –_q_ to +_q_. The SI unit of dipole moment is coulomb metre (Cm). The electric field lines for an electric dipole are shown in Figure 1.14 (b). - For simplicity, the two charges are placed on the _x_\-axis. Even if the two charges are placed on _y_ or _z_\-axis, dipole moment will point from –_q_ to +_q_.
 
-• The magnitude of the electric dipole moment is equal to the product of the magnitude of one of the charges and the distance between them,
+- The magnitude of the electric dipole moment is equal to the product of the magnitude of one of the charges and the distance between them,
 
 
 
@@ -2519,7 +2197,7 @@ The electric dipole moment vector lies along the line joining two charges and is
 
 _p qa_\= 2 (1.11)
 
-• Though the electric dipole moment for two equal and opposite charges is defined, it is possible to define and calculate the electric dipole moment for a collection of point charges. The electric dipole moment for a collection of _n_ point charges is given by
+- Though the electric dipole moment for two equal and opposite charges is defined, it is possible to define and calculate the electric dipole moment for a collection of point charges. The electric dipole moment for a collection of _n_ point charges is given by
 
  _p q ri i_
 
@@ -9166,17 +8844,17 @@ In this activity you will be able to learn about capacitor and the factors affec
 
 capacitance.
 
-**STEPS:** • Open the browser and type “phet.colorado.ed
+**STEPS:** - Open the browser and type “phet.colorado.ed
 
-address bar. Go to the tab ‘Dielectric’. • Change the plate area, distance between the p
+address bar. Go to the tab ‘Dielectric’. - Change the plate area, distance between the p
 
-maximize or minimize to make a capacitor w • Explore the relationships between charge, volt
+maximize or minimize to make a capacitor w - Explore the relationships between charge, volt
 
-a capacitor system to store the greatest energy • Charge the capacitor with 1.0 v using the b
+a capacitor system to store the greatest energy - Charge the capacitor with 1.0 v using the b
 
 dielectric between the plates. Discus how elec dielectric is introduced.
 
-• What is the effect of introducing a dielectric b
+- What is the effect of introducing a dielectric b
 
 **Note:** Install Java application if it is not in your system. simulation and works in off line from https://phet.c
 
