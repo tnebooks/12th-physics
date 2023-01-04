@@ -190,7 +190,7 @@ Therefore, the electrostatic force obeys Newton’s third law.
 
 **EXAMPLE 1.2**
 
-Consider two point charges _q_1 and _q_2 at rest as shown in the figure.
+Consider two point charges q _1 and q _2 at rest as shown in the figure.
 
 ![](example1.2.png)
 
@@ -206,55 +206,57 @@ They are separated by a distance of 1m. Calculate the force experienced by the t
 
 ![](example1.2b.png)
 
-**(a)** \\(q _1 = +2 μC, q _2 = +3 μC, and r _ = 1m\\). Both are positive charges. so the force will be repulsive.
+**(a)** \\(q _1 = +2 μC, q _2 = +3 μC,\\) and \\(r = 1m\\). Both are positive charges. so the force will be repulsive.
 
-Force experienced by the charge \\(q _2 due to q _1\\) is given by
+Force experienced by the charge \\(q _2\\) due to \\(q _1\\) is given by
 
 \\(\vec {F} _{12} = \dfrac{1}{4π\epsilon _o} \dfrac{q_1q_2}{r^2} \hat{r} _{12} .\\)
 
-Here \\(\hat{r} _{12}\\) is the unit vector from  \\(q _1 to q _2\\). Since \\(q _2\\) is located on the right of \\(q _1\\), we have
+Here \\(\hat{r} _{12}\\) is the unit vector from  \\(q _1\\) to \\(q _2\\). Since \\(q _2\\) is located on the right of \\(q _1\\), we have
 
 \\(\hat{r} _{12} = \hat{i}\\) and \\(\dfrac{1}{4π\epsilon _o} = 9 ×10^9\\) so that
 
 \\(\vec {F} _{21} = \dfrac{9 × 10^9×2×10^{-6}×3×10^{-6}}{1^2} \hat{i}\\)
 
-\\(= 54 × 10^{-3} \hat{i} N\\)
+\\(= 54 × 10^{-3} \hat{i}\\) \\(N\\)
 
 
-According to Newton’s third law, the force experienced by the charge _q_1 due to _q_2 is \\(\vec {F} _{12} \\) = \\(= 54 × 10^{-3} \hat{i} N\\)
+According to Newton’s third law, the force experienced by the charge \\(q _1\\) due to \\(q _2\\) is \\(\vec {F} _{12} = - \vec {F} _{21} \\). Therefore,
 
-The directions of \\(\vec {F} _{21} and {F} _{12}\\) are shown in
+\\(\vec {F} _{12} \\) = \\(- 54 × 10^{-3} \hat{i} N\\)
+
+The directions of \\(\vec {F} _{21} and \vec {F} _{12}\\) are shown in
 the above figure in case (a) 
 
-*(a)** \\(q _1 = +2 μC, q _2 = +3 μC, and r _ = 1m\\).They are unlike charges. So the force will be attractive.
+**(b)** \\(q _1 = +2 μC, q _2 = -3 μC,\\) and \\(r = 1m\\).They are unlike charges. So the force will be attractive.
 
 Force experienced by the charge q<sub>2</sub> due to q<sub>1</sub> is given by
 
-\\(\vec {F} _{21} = \dfrac{9 × 10^9×2×10^{-6}×3×10^{-6}}{1^2} \hat{r}_{12}\\)
+\\(\vec {F} _{21} = \dfrac{9 × 10^9×2×10^{-6}×3×10^{-6}}{1^2} \hat{r} _{12}\\)
 
-\\(= 54 × 10^{-3}  N\hat{i}  (using \hat{r}_{12} =  \hat{i} \\)
+\\(= 54 × 10^{-3}  N\hat{i}\\) (using \\(\hat{r}_{12} =  \hat{i} \\)
 
-The charge q<sub>2</sub> will experience an attractive force towards q<sub>1</sub> which is in the negative x direction.
+The charge q<sub>2</sub> will experience an attractive force towards q<sub>1</sub> which is in the negative \\(x\\) direction.
 
-According to Newton’s third law, the force experienced by the charge q<sub>1</sub>  due to q<sub>2</sub> is  \\(\vec {F} _{21} = \\(-\vec {F} _{21}\\), Therefore,
+According to Newton’s third law, the force experienced by the charge q<sub>1</sub>  due to q<sub>2</sub> is  \\(\vec {F} _{21}\\) = \\(-\vec {F} _{21}\\), Therefore,
 
 \\(\vec {F} _{12} =  54 × 10^{-3} \hat{i} N\\)
 
-The directions of \\(\vec {F} _{21} and \\(\vec {F} _{12} \\)are shown in the figure (case (b)).
+The directions of \\(\vec {F} _{21}\\) and \\(\vec {F} _{12} \\)are shown in the figure (case (b)).
 
 **(c)** If these two charges are kept inside
 the water, then the force experienced by q<sub>2</sub>
 due to q<sub>1</sub>
 
-\\(\vec {F} _{12}^{W}\\) =\\(\dfrac{1}{4\pi\epsilon}\\)\\(\dfrac{q_1q_2}{r^2}\\)\\(\hat{r}_{12}\\)
+\\(\vec {F} _{21}^{W}\\) =\\(\dfrac{1}{4\pi\epsilon}\\)\\(\dfrac{q_1q_2}{r^2}\\)\\(\hat{r} _{12}\\)
 
 since \\(\epsilon = {\epsilon}_r {\epsilon}_o\\)
 
-we have \\(\vec {F} _{21}^{W}\\) = \\(\dfrac{1}{4\pi\epsilon}\\)\\(\dfrac{q_1q_2}{r^2}\\)\\(\hat{r}_{12}\\) = \\(\dfrac{\vec {F} _{12}}{{\epsilon}_r}\\)
+we have     \\(\vec {F} _{12}^{W}\\) = \\(\dfrac{1}{4\pi{\epsilon}_r{\epsilon}_r}\\) \\(\dfrac{q_1q_2}{r^2}\\) \\(\hat{r} _{12}\\) = \\(\dfrac{\vec {F} _{12}}{{\epsilon}_r}\\)
 
 Therefore,
 
-\\(\vec {F} _{12}^{W}\\) = \\(\dfrac{54*10^{-3}}{80}\hat{i}\\) = -0.675 * \\(\ 10^{-3}N\hat{i}\\)
+\\(\vec {F} _{21}^{W}\\) = \\(\dfrac{54 × 10^{-3}}{80}\hat{i}\\) = \\(-0.675 \\) × \\(\ 10^{-3}N\hat{i}\\)
 
 ```
 Note that the strength of the force between the two charges in water is reduced by 80 times compared to the force between the same two charges in vacuum. When common salt (NaCl) is taken in water, the electrostatic force between Na and Cl ions is reduced due to the high relative permittivity of water \\(\epsilon _{r} = 80\\). This is the reason water acts as a good solvent.
@@ -279,20 +281,20 @@ The free body diagram is shown below.
 In the x-direction, the acceleration of
 the charged sphere is zero.
 
-Using Newton’s second law  \\(\vec {F} _{tot} = m \={a}\\) we have
+Using Newton’s second law  \\((\vec {F} _{tot} = m \hat{a})\\) we have
 
-\\(\T sin\theta \hat{i} - F_{e}\hat{i} = 0\\)
+\\(T sin\theta \hat{i} - F_{e}\hat{i} = 0\\)
 
-\\(\T sin\theta = F_{e}\\)          -----> equation 1
+\\(T sin\theta = F_{e}\\)          -----> equation 1
 
-Here T is the tension acting on the charge due to the string and F_e is the electrostatic force between the two charges.
+Here T is the tension acting on the charge due to the string and \\(F _e\\) is the electrostatic force between the two charges.
 
 In the y-direction also, the net acceleration
 experienced by the charge is zero.
 
-\\(\T cos \theta \hat{j} -mg \hat{j} = 0\\)
+\\(T cos \theta \hat{j} -mg \hat{j} = 0\\)
 
-\\(\T cos \theta = mg\\)           -----> equation 2
+\\(T cos \theta = mg\\)           -----> equation 2
 
 By dividing equation (1) by equation (2),
 
@@ -300,45 +302,45 @@ By dividing equation (1) by equation (2),
 
 Since they are equally charged, the magnitude of the electrostatic force is
 
-\\(\F_e = k(\dfrac{q^2}{r^2})\\) where k = \\(\drac{1}{4\pi\epsilon_0}\\)
+\\(F _e = k \dfrac{q^2}{r^2}\\) where k = \\(\dfrac{1}{4\pi\epsilon _o}\\)
 
-Here r = 2a = 2Lsin\theta. By substituting these values in equation (3),
+Here \\(r = 2a = 2Lsin\theta\\). By substituting these values in equation (3),
 
 \\(\ tan\theta = k \dfrac{q^2}{mg(2Lsin\theta)^{2}}\\)
 
 Rearranging the equation (4) to get q
 
-\\(\q = 2Lsin\theta \sqrt{\dfrac{mg tan\theta}{k}}\\)
+\\(q = 2Lsin\theta \sqrt{\dfrac{mg tan\theta}{k}}\\)
 
-\\(\ = 2 * 0.1 * sin30\degree * \sqrt{\drac{10^{-3}*10*tan30\degree}{9*10^9}}\\)
+\\( = 2 × 0.1 × sin30\degree\\) × \\(\sqrt{\dfrac{10^{-3}×10×tan30\degree}{9×10^9}}\\)
 
-\\(\q = 8.01 * 10^{-8} C = 80.1 nC\\)
+\\(q = 8.01 × 10^{-8} C = 80.1 nC\\)
 
-_**EXAMPLE 1.4**
+**EXAMPLE 1.4**
 
-Calculate the electrostatic force and gravitational force between the proton and the electron in a hydrogen atom. They are separated by a distance of 5.3 × 10–11 m. The magnitude of charges on the electron and proton are 1.6 × 10–19 C. Mass of the electron is _me_ = 9.1 × 10–31 kg and mass of proton is _mp_ = 1.6 × 10–27 kg.
+Calculate the electrostatic force and gravitational force between the proton and the electron in a hydrogen atom. They are separated by a distance of \\(5.3 × 10^{–11}\\) m. The magnitude of charges on the electron and proton are \\(1.6 × 10^{–19} C\\). Mass of the electron is \\(m _e = 9.1 × 10^{–31}\\) kg and mass of proton is \\(m _p\\) = \\(1.6 × 10^{-27}\\) kg.
 
 **_Solution_**
 The proton and the electron attract each other. The magnitude of the electrostatic force between these two particles is given by
 
 
-\\(\F_{e} = \dfrac{Ke^{2}}{r^{2}} = \dfrac {9*10^{9}*(1.6*10^{-19})}{(5.3*10^{-11})^2}\\)
+\\(F _{e} = \dfrac{Ke^2}{r^2}\\) = \\(\dfrac {9×10^{9}×(1.6×10^{-19})}{(5.3×10^{-11})^2}\\)
 
-\\(\=dfrac{9*2.56}{28.09}*10^{-7} = 8.2 *10^{-8}N\\)
+\\(=\dfrac{9×2.56}{28.09}×10^{-7} = 8.2 ×10^{-8}N\\)
 
 
 The gravitational force between the proton and the electron is attractive. The magnitude of the gravitational force between these particles is
 
-\\(\F_G = \dfrac{Gm_em_p}{r_2}\\)
-\\(\ = \dfrac{6.67 * 10^{-11}*9.1*10^{-31}*1.6*10^{-27}}{(5.3*10^{-11})^2}\\)
+\\(F_G = \dfrac{Gm_em_p}{r_2}\\)
+\\( = \dfrac{6.67 × 10^{-11}×9.1×10^{-31}×1.6×10^{-27}}{(5.3×10^{-11})^2}\\)
 
-\\(\ = \dfrac{97.11}{28.09}*10^{-47} = 3.4 *10^{-47}N\\)
+\\(\ = \dfrac{97.11}{28.09}×10^{-47} = 3.4 ×10^{-47}N\\)
 
 The ratio of the two forces
 
-\\(\dfrac{F_e}{F_G} = \dfrac{8.2 * 10^-8}{3.4*10^{-47}} = 2.41 * 10 ^{39}\\)
+\\(\dfrac{F_e}{F_G} = \dfrac{8.2 × 10^-8}{3.4×10^{-47}} = 2.41 × 10 ^{39}\\)
 
-Note that \\(\F_e \approx 10^{39} F_G\\)
+Note that \\(F_e \approx 10^{39} F_G\\)
 
 The electrostatic force between a proton and an electron is enormously greater than the gravitational force between them. Thus the gravitational force is negligible when compared with the electrostatic force in many situations such as for small size objects and in the atomic domain. This is the reason why a charged comb attracts an uncharged piece of paper with greater force even though the piece of paper is attracted downward by the Earth. This is shown in Figure 1.3
 
@@ -350,90 +352,76 @@ Coulomb’s law explains the interaction between two point charges. If there are
 
 According to this superposition principle, **the total force acting on a given charge is equal to the vector sum of forces exerted on it by all the other charges.**
 
-Consider a system of _n_ charges, namely _q1_, _q_2, _q_3 …._q_n. The force on _q_1 exerted by the charge _q2_
+Consider a system of _n_ charges, namely \\(q _1, q _2, q _3 ….q _n\\). The force on \\(q _1\\) exerted by the charge \\(q _2\\)
 
-\\( \vec {F}=k\dfrac{q_1q_2}{r^{2}_{21}} \hat{r}_21\\)
-
-
-where _r_^{21} is the unit vector from _q_2 to _q_1 along the line joining the two charges and _r_21 is the distance between the charges _q1_ and _q2_. The electrostatic force between two charges is not affected by the presence of other charges in the neighbourhood.
-
-The force on _q_1 exerted by the charge _q_3 is
-
-\\( \vec {F}_{13} = k\dfrac{q_1q_2}{r^{2}_{21}} \hat{r}_31\\)
-
-By continuing this, the total force acting on the charge _q_1 due to all other charges is given by
-
-\\( \vec {F}^{tot} =  \vec {F}_{12} + \vec {F}_{13} + \vec {F}_{14} + .....\vec {F}_{1n}\\)
+\\( \vec {F}=k\dfrac{q_1q_2}{r^{2}_{21}} \hat{r} _{21}\\)
 
 
+where \\(r^{21}\\) is the unit vector from \\(q _2\\) to \\(q _1\\) along the line joining the two charges and \\(r _{21}\\) is the distance between the charges \\(q _1\\) and \\(q _2\\). The electrostatic force between two charges is not affected by the presence of other charges in the neighbourhood.
+
+The force on \\(q _1\\) exerted by the charge \\(q _3\\) is
+
+\\( \vec {F}_{13} = k\dfrac{q_1q_3}{r^{2} _{31}} \hat{r} _{31}\\)
+
+By continuing this, the total force acting on the charge \|(q _1\\) due to all other charges is given by
+
+\\( \vec {F} ^{tot} _1\\) =  \\(\vec {F} _{12} + \vec {F} _{13} + \vec {F} _{14} + .....\vec {F} _{1n}\\)
+
+\\( \vec {F} ^{tot} _1\\) = k{\\(\dfrac{q _1q _2}{r^2 _{21}}\hat {r} _{21}\\) + \\(\dfrac{q _1q _3}{r^2 _{31}}\hat {r} _{31}\\) + \\(\dfrac{q _1q _4}{r^2 _{41}}\hat {r} _{41}\\) + ..... + \\(\dfrac{q _1q _n}{r^2 _{n1}}\hat {r} _{n1}\\)}
+
+
+```
 Without the superposition principle, Coulomb’s law will be incomplete when applied to more than two charges. Both the superposition principle and Coulomb’s law form fundamental principles of electrostatics and explain all the phenomena in electrostatics. But they are not derivable from each other.
+```
 
-*EXAMPLE 1.5**
+**EXAMPLE 1.5**
 
-Consider four equal charges _q_1, _q_2, _q_3 and _q_4 \= _q_ = +1 μC located at four different points on a circle of radius 1m, as shown in the figure. Calculate the total force acting on the charge _q_1 due to all the other charges.
+Consider four equal charges \\(q _1, q _2, q _3\\) and \\(q _4\\) \\(= q = +1 μC\\) located at four different points on a circle of radius 1m, as shown in the figure. Calculate the total force acting on the charge \\(q _1\\) due to all the other charges.
 
 ![ ](1.65.png "")
 
 **_Solution_**
 
-According to the superposition principle, the total electrostatic force on charge _q_1 is the vector sum of the forces due to the other charges,
+According to the superposition principle, the total electrostatic force on charge \\(q _1\\) is the vector sum of the forces due to the other charges,
 
-\\(\vec {F}^{tot} =  \vec {F}_{12} + \vec {F}_{13} + \vec {F}_{14}\\)
+\\(\vec {F}^{tot} =  \vec {F} _{12} + \vec {F} _{13} + \vec {F} _{14}\\)
 
 The following diagram shows the
 direction of each force on the charge q<sub>1</sub>
 
 ![ ](1.66.png "")
 
-The charges _q_2 and _q_4 are equi- distant from _q1_. As a result the strengths (magnitude) of the forces _F_12 and 
-_F_14 are the same even though their directions are different. Therefore the vectors representing these two forces are drawn with equal lengths. But the charge _q_3 is located farther compared to _q_2 and _q_4\. Since the strength of the electrostatic force decreases as distance increases, the strength of the force \\(\vec {F}^{13}\\) and \\(\vec {F}^{14}\\). Hence the vector representing
+The charges \\(q _2\\) and \\(q _4\\) a re equi- distant from \\(q _1\\). As a result the strengths (magnitude) of the forces \\(\vec {F} _{12}\\) and \\(\vec {F} _{14}\\) are the same even though their directions are different. Therefore the vectors representing these two forces are drawn with equal lengths. But the charge \\(q _3\\) is located farther compared to \\(q _2\\) and \\(q _4\\). Since the strength of the electrostatic force decreases as distance increases, the strength of the force \\(\vec {F}^{13}\\) and \\(\vec {F}^{14}\\). Hence the vector representing
 the force \\(\vec {F}^{13}\\) is drawn with smaller length compared to that for forces 
 \\(\vec {F}^{12}\\)  and \\(\vec {F}^{14}\\).
 
-From the figure, \\(\r_{21} - \sqrt{2}m = r_{41} and r_{31} = 2m\\)
+From the figure, \\(r _{21} - \sqrt{2}m = r _{41}\\) and \\(r _{31} = 2m\\)
 
 The magnitudes of the forces are given by
 
+\\(\vec {F} _{13} = \dfrac{kq^2}{r _{31}^2} = \dfrac{9 × 10^9 × 20^{-12}}{4}\\)
 
+\\(\vec {F}_{13} = 2.25 × 10^{-3} \N\\)
 
-  
+\\(\vec {F} _{12} = \dfrac{kq^2}{r _{21}^2} = \vec {F} _{14} = \dfrac{9 × 10^9 × 20^{-12}}{2}\\)
 
-**Note**
+\\(= 4.5 × 10^{-3} \N\\)
 
+From the figure, the angle \\(θ = 45^o\\). In terms of the components, we have
 
+\\(\vec {F} _{12} = F _{12} cos\theta \hat{i} - F _{12} sin\theta \hat{j}\\)
 
-**_Solution_**
+\\(= 4.5 × 10^{-3} × \dfrac{1}{\sqrt{2}} \hat{i} - 4.5 × 10^{-3} × \dfrac{1}{\sqrt{2}} \hat{j}\\) 
 
-According to the superposition principle, the total electrostatic force on charge _q_1 is the vector sum of the forces due to the other charges,
+\\(\vec {F} _{13} = F _{13} \\) \\(\hat{i} = 2.25 × 10^{-3} \N \hat{i}\\)
 
+\\(\vec {F} _{14} = F _{14} cos\theta \hat{i} - F _{14} sin\theta \hat{j}\\)
 
+\\(4.5 × 10^{-3} × \dfrac{1}{\sqrt{2}} \hat{i} + 4.5 × 10^{-3} × \dfrac{1}{\sqrt{2}} \hat{j}\\)
 
+Then the total force on \\(q _1\\) is
 
-
-
-
-From the figure, the angle θ = 45o. In terms of the components, we have
-
-
-
-
-Since F12 = F14, the jth component is zero. Hence we have
-
-
-_F F F F itot_ 1 12 13 14= + +( )cos cosθ θ 
-
-substituting the values in the above equation,
-
-
-
-
-
-
-
-
-38 61 10= × −.  N
-
-The resultant force is along the positive _x_ axis.  
+todo
 
 ## ELECTRIC FIELD AND ELECTRIC FIELD LINES
 
@@ -443,9 +431,9 @@ The interaction between two charges is determined by Coulomb’s law. How does t
 
 According to Faraday, every charge in the universe creates an electric field in the surrounding space, and if another charge is brought into its field, it will interact with the electric field at that point and will experience a force. It may be recalled that the interaction of two masses is similarly explained using the concept of gravitational field (Refer unit 6, volume 2, XI physics). Both the electric and gravitational forces are non-contact forces, hence the field concept is required to explain action at a distance.
 
-Consider a source point charge _q_ located at a point in space. Another point charge _q_o
+Consider a source point charge q _ located at a point in space. Another point charge q _o
 
-(test charge) is placed at some point P which is at a distance _r_ from the charge _q_. The electrostatic force experienced by the charge _q_o due to _q_ is given by Coulomb’s law.
+(test charge) is placed at some point P which is at a distance _r_ from the charge q _. The electrostatic force experienced by the charge q _o due to q _ is given by Coulomb’s law.
 
 
 
@@ -469,7 +457,7 @@ _r_\= =0 2
 
 1 4 0πe
 
-The charge _q_ creates an electric field in the surrounding space within which its effect can be felt by another charge. It is measured in
+The charge q _ creates an electric field in the surrounding space within which its effect can be felt by another charge. It is measured in
 
 )× −5 10 3 _i_
 
@@ -497,7 +485,7 @@ terms of a quantity called electric field intensity or simply called electric fi
 
 
 
-_E_,. **The electric field at the point P at a distance _r_ from the point charge _q_ is defined as the force that would be experienced by a unit positive charge placed at that point P** and is given by
+_E_,. **The electric field at the point P at a distance _r_ from the point charge q _ is defined as the force that would be experienced by a unit positive charge placed at that point P** and is given by
 
 
 
@@ -521,19 +509,19 @@ _r_\= = = 0
 
 πe (1.4)
 
-Here _r_ is the unit vector pointing from _q_ to the point of interest P. The electric field is a vector quantity and its SI unit is newton per coulomb (NC–1). **Important aspects of Electric field (i)** If the charge _q_ is positive then the electric field points away from the source charge and if _q_ is negative, the electric field points towards the source charge _q_. This is shown in the Figure 1.4.
+Here _r_ is the unit vector pointing from q _ to the point of interest P. The electric field is a vector quantity and its SI unit is newton per coulomb (NC–1). **Important aspects of Electric field (i)** If the charge q _ is positive then the electric field points away from the source charge and if q _ is negative, the electric field points towards the source charge q _. This is shown in the Figure 1.4.
 
 **E →**
 
 **E →**
 
-**\+ _q_**
+**\+ q _**
 
 **_P_**
 
 **_P_**
 
-**_q_ r**
+**q _ r**
 
 **r**
 
@@ -543,19 +531,19 @@ For a positive source charge,
 
 the electric eld at **_P_** points radially outward
 
-from **_q_**.
+from **q _**.
 
 For a negative source charge,
 
 the electric eld at **_P_** points radially inward
 
-toward **_q_**.
+toward **q _**.
 
 **Figure 1.4 Electric field of positive and** negative charges
 
 **(ii)** If the electric field at a point P is 
 
-_E_, then the force experienced by the test charge _q_o placed at the point P is  
+_E_, then the force experienced by the test charge q _o placed at the point P is  
 
  
 
@@ -579,7 +567,7 @@ This is Coulomb’s law in terms of electric field. This is shown in Figure 1.5
 
 **E →**
 
-**\+ _q_**
+**\+ q _**
 
 **_P_**
 
@@ -595,19 +583,19 @@ _\__
 
 **+**
 
-If **_q_** is positive, the force on
+If **q _** is positive, the force on
 
-the test charge **_q0_** is directed away from **_q_**.
+the test charge **_q0_** is directed away from **q _**.
 
-If **_q_** is negative , the force on
+If **q _** is negative , the force on
 
 the test charge **_q0_** is directed
 
-toward **_q_**.
+toward **q _**.
 
 ![Coulomb’s law in terms of electric field](1.5.png "")
 
-**(iii)** The equation (1.4) implies that the electric field is independent of the test charge _q_o and it depends only on the source charge _q_. **(iv)** Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude as shown in Figures 1.6(a) and (b). From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
+**(iii)** The equation (1.4) implies that the electric field is independent of the test charge q _o and it depends only on the source charge q _. **(iv)** Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude as shown in Figures 1.6(a) and (b). From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
 
 Note that in Figures 1.6 (a) and (b) the length of the electric field vector is shown for three different points. The strength or magnitude of the electric field at point P is stronger than at the points Q and R because the point P is closer to the source charge.
 
@@ -620,7 +608,7 @@ Note that in Figures 1.6 (a) and (b) the length of the electric field vector is 
 
 R
 
-_q_
+q _
 
 Q
 
@@ -632,7 +620,7 @@ P **–**
 
 R
 
-_q_
+q _
 
 Q
 
@@ -662,7 +650,7 @@ EQ
 
 **Figure 1.6 (a) Electric field due to** positive charge (b) Electric field due to negative charge
 
-**(v)** In the definition of electric field, it is assumed that the test charge _q_0 is taken sufficiently small, so that bringing this test charge will not move the source charge. In other words, the test charge is made sufficiently small such that it will not modify the electric field of the source charge. **(vi)** The expression (1.4) is valid only for point charges. For continuous and finite size charge distributions, integration techniques must be used (Refer Appendix A1.1). However, this expression can be used as an approximation for a finite-sized charge if the test point is very far away from the finite sized source charge. Note that we similarly treat the Earth as a point mass when we calculate the gravitational field of the Sun on the Earth (Refer unit 6, volume 2, XI physics).  
+**(v)** In the definition of electric field, it is assumed that the test charge q _0 is taken sufficiently small, so that bringing this test charge will not move the source charge. In other words, the test charge is made sufficiently small such that it will not modify the electric field of the source charge. **(vi)** The expression (1.4) is valid only for point charges. For continuous and finite size charge distributions, integration techniques must be used (Refer Appendix A1.1). However, this expression can be used as an approximation for a finite-sized charge if the test point is very far away from the finite sized source charge. Note that we similarly treat the Earth as a point mass when we calculate the gravitational field of the Sun on the Earth (Refer unit 6, volume 2, XI physics).  
 
 **(vii)** There are two kinds of the electric field: uniform (constant) electric field and non-uniform electric field. Uniform electric field will have the same direction and constant magnitude at all points in space. Non-uniform electric field will have different directions or different magnitudes or both at different points in space. The electric field created by a point charge is basically a non uniform electric field. This non-uniformity arises, both in direction and magnitude, with the direction being radially outward (or inward) and the magnitude changes as distance increases. These are shown in Figure 1.7.
 
@@ -1237,13 +1225,13 @@ field due to a charged sphere or a charged wire etc., it is very difficult to lo
 
 **EXAMPLE 1.8**
 
-A block of mass _m_ carrying a positive charge _q_ is placed on an insulated frictionless inclined plane as shown in the figure. A uniform electric field _E_ is applied parallel to the inclined surface such that the block is at rest. Calculate the magnitude of the electric field _E_.
+A block of mass _m_ carrying a positive charge q _ is placed on an insulated frictionless inclined plane as shown in the figure. A uniform electric field _E_ is applied parallel to the inclined surface such that the block is at rest. Calculate the magnitude of the electric field _E_.
 
 m
 
 _h L_
 
-_q_
+q _
 
 
 
@@ -1326,11 +1314,11 @@ _mg qE_sinθ− = 0
 
 _E mg_
 
-_q_ \=
+q _ \=
 
 sinθ
 
-Note that the magnitude of the electric field is directly proportional to the mass _m_ and inversely proportional to the charge _q_. It implies that, if the mass is increased by keeping the charge constant, then a strong electric field is required to stop the object from sliding. If the charge is increased by  
+Note that the magnitude of the electric field is directly proportional to the mass _m_ and inversely proportional to the charge q _. It implies that, if the mass is increased by keeping the charge constant, then a strong electric field is required to stop the object from sliding. If the charge is increased by  
 
 keeping the mass constant, then a weak electric field is sufficient to stop the mass from sliding down the plane.
 
@@ -1346,7 +1334,7 @@ Electric field vectors are visualized by the concept of electric field lines. Th
 
 **(a)**
 
-**_q_**
+**q _**
 
 **For a positive point charge, the eld lines are directed**
 
@@ -1473,7 +1461,7 @@ electric field has greater magnitude at the surface A than at B. Therefore, the 
 
 As a consequence, if some charge is placed in the intersection point, then it has to move in two different directions at the same time, which is physically impossible. Hence, electric field lines do not intersect. - The number of electric field lines that emanate from the positive charge or end at a negative charge is directly proportional to the magnitude of the charges.
 
-For example in the Figure 1.13, the electric field lines are drawn for charges +_q_ and –2_q_. Note that the number of field lines emanating from +_q_ is 8 and the number of field lines ending at –2_q_ is 16. Since the magnitude of the second charge is twice that of the first charge,
+For example in the Figure 1.13, the electric field lines are drawn for charges +q _ and –2q _. Note that the number of field lines emanating from +q _ is 8 and the number of field lines ending at –2q _ is 16. Since the magnitude of the second charge is twice that of the first charge,
 
 **Figure 1.13 Electric field lines and** magnitude of the charge
 
@@ -1493,7 +1481,7 @@ For example in the Figure 1.13, the electric field lines are drawn for charges +
 
 **\_**  
 
-the number of field lines drawn for –2_q_ is twice in number than that for charge +_q_.
+the number of field lines drawn for –2q _ is twice in number than that for charge +q _.
 
 **EXAMPLE 1.9**
 
@@ -1531,7 +1519,7 @@ charges and find the ratio _q q_
 
 **(ii)** In figure (b), calculate the ratio of two positive charges and identify the strength of the electric field at three points A, B, and C
 
-**(iii)** Figure (c) represents the electric field lines for three charges. If _q_2 = –20 nC, then calculate the values of _q_1 and _q_3
+**(iii)** Figure (c) represents the electric field lines for three charges. If q _2 = –20 nC, then calculate the values of q _1 and q _3
 
 
 
@@ -1551,9 +1539,9 @@ charges and find the ratio _q q_
 
 **_Solution_**
 
-**(i)** The electric field lines start at _q_2 and end at _q_1\. In figure (a), _q_2 is positive and _q_1
+**(i)** The electric field lines start at q _2 and end at q _1\. In figure (a), q _2 is positive and q _1
 
-is negative. The number of lines starting from _q_2 is 18 and number of the lines ending at _q_1 is 6. So _q_2 has greater magnitude. The
+is negative. The number of lines starting from q _2 is 18 and number of the lines ending at q _1 is 6. So q _2 has greater magnitude. The
 
 ratio of _q q_
 
@@ -1575,7 +1563,7 @@ _N N_
 
 _q q_2 13=
 
-**(ii)** In figure (b), the number of field lines emanating from both positive charges are equal (N=18). So the charges are equal. At point A, the electric field lines are denser compared to the lines at point B. So the electric field at point A is greater in magnitude compared to the field at point B. Further, no electric field line passes through C, which implies that the resultant electric field at C due to these two charges is zero. **(iii)** In the figure (c), the electric field lines start at _q_1 and _q_3 and end at _q_2\. This implies that _q_1 and _q_3 are positive charges. The ratio of the number of field lines is
+**(ii)** In figure (b), the number of field lines emanating from both positive charges are equal (N=18). So the charges are equal. At point A, the electric field lines are denser compared to the lines at point B. So the electric field at point A is greater in magnitude compared to the field at point B. Further, no electric field line passes through C, which implies that the resultant electric field at C due to these two charges is zero. **(iii)** In the figure (c), the electric field lines start at q _1 and q _3 and end at q _2\. This implies that q _1 and q _3 are positive charges. The ratio of the number of field lines is
 
 _q q_
 
@@ -1593,9 +1581,9 @@ _q q_
 
 1 2
 
-\= = = , implying that _q_1and _q_3
+\= = = , implying that q _1and q _3
 
-are half of the magnitude of _q_2\. So _q_1 = _q_3 = +10 nC.
+are half of the magnitude of q _2\. So q _1 = q _3 = +10 nC.
 
 ## ELECTRIC DIPOLE AND ITS PROPERTIES
 
@@ -1605,11 +1593,11 @@ are half of the magnitude of _q_2\. So _q_1 = _q_3 = +10 nC.
 
 not coincide. Such molecules behave as permanent dipoles. Examples: CO, water, ammonia, HCl etc.
 
-Consider two equal and opposite point charges (+_q_, –_q_) that are separated by a distance 2_a_ as shown in Figure 1.14(a). The electric dipole moment is defined as
+Consider two equal and opposite point charges (+q _, –q _) that are separated by a distance 2_a_ as shown in Figure 1.14(a). The electric dipole moment is defined as
 
   _p qr q r_\= + −+ −( ) (1.9)
 
-where _r_\+ is the position vector of +_q_ from the origin and _r_\- is the position vector of –_q_ from the origin. Then, from Figure 1.14 (a),
+where _r_\+ is the position vector of +q _ from the origin and _r_\- is the position vector of –q _ from the origin. Then, from Figure 1.14 (a),
 
 **+\_**
 
@@ -1633,7 +1621,7 @@ where _r_\+ is the position vector of +_q_ from the origin and _r_\- is th
 
 _p qai qa i qai_\= − −( )=  2 (1.10)
 
-The electric dipole moment vector lies along the line joining two charges and is directed from –_q_ to +_q_. The SI unit of dipole moment is coulomb metre (Cm). The electric field lines for an electric dipole are shown in Figure 1.14 (b). - For simplicity, the two charges are placed on the _x_\-axis. Even if the two charges are placed on _y_ or _z_\-axis, dipole moment will point from –_q_ to +_q_.
+The electric dipole moment vector lies along the line joining two charges and is directed from –q _ to +q _. The SI unit of dipole moment is coulomb metre (Cm). The electric field lines for an electric dipole are shown in Figure 1.14 (b). - For simplicity, the two charges are placed on the _x_\-axis. Even if the two charges are placed on _y_ or _z_\-axis, dipole moment will point from –q _ to +q _.
 
 - The magnitude of the electric dipole moment is equal to the product of the magnitude of one of the charges and the distance between them,
 
@@ -1708,17 +1696,17 @@ Calculate the electric dipole moment for the following charge configurations.
 
 **\_**
 
-**_Solution_ Case (a)** The position vector for the +_q_ on the positive _x_\-axis is _ai_and position vector for the +_q_ charge the negative _x_ axis is -_ai_ . So the dipole moment is,
+**_Solution_ Case (a)** The position vector for the +q _ on the positive _x_\-axis is _ai_and position vector for the +q _ charge the negative _x_ axis is -_ai_ . So the dipole moment is,
 
 
 
 _p q ai q ai_\= +( )( )+ +( ) −( )=  0
 
-**Case (b)** In this case one charge is placed at the origin, so its position vector is zero. Hence only the second charge +_q_ with position vector _ai_contributes to the dipole moment, which is _p qai_\= .  
+**Case (b)** In this case one charge is placed at the origin, so its position vector is zero. Hence only the second charge +q _ with position vector _ai_contributes to the dipole moment, which is _p qai_\= .  
 
-From both cases (a) and (b), we can infer that in general the electric dipole moment depends on the choice of the origin and charge configuration. But for one special case, the electric dipole moment is independent of the origin. If the total charge is zero, then the electric dipole moment will be the same irrespective of the choice of the origin. It is because of this reason that the electric dipole moment of an electric dipole (total charge is zero) is always directed from –_q_ to +_q_, independent of the choice of the origin.
+From both cases (a) and (b), we can infer that in general the electric dipole moment depends on the choice of the origin and charge configuration. But for one special case, the electric dipole moment is independent of the origin. If the total charge is zero, then the electric dipole moment will be the same irrespective of the choice of the origin. It is because of this reason that the electric dipole moment of an electric dipole (total charge is zero) is always directed from –q _ to +q _, independent of the choice of the origin.
 
-**Case (c)** _p q aj q a j qaj_\= − + − =−( ) ( )( ) .2 2 4   Note that in this case _p_ is directed from –2_q_ to +_q_.
+**Case (c)** _p q aj q a j qaj_\= − + − =−( ) ( )( ) .2 2 4   Note that in this case _p_ is directed from –2q _ to +q _.
 
 **Case (d)** 
 
@@ -1807,7 +1795,7 @@ Consider an electric dipole placed on the _x_\-axis as shown in Figure 1.15. A p
 
 **Figure 1.15 Electric field of the dipole** along the axial line
 
-The electric field at a point C due to +_q_ is 
+The electric field at a point C due to +q _ is 
 
 _E q r a_
 
@@ -1819,7 +1807,7 @@ _E q r a_
 
 Since the electric dipole moment vector 
 
-_p_ is from –_q_ to +_q_ and is directed along BC, the above equation is rewritten as
+_p_ is from –q _ to +q _ and is directed along BC, the above equation is rewritten as
 
 
 
@@ -1831,9 +1819,9 @@ _p_\+ = −( )
 
 2πe  (1.13)
 
-where _p_ is the electric dipole moment unit vector from –_q_ to +_q_.
+where _p_ is the electric dipole moment unit vector from –q _ to +q _.
 
-The electric field at a point C due to –_q_ is 
+The electric field at a point C due to –q _ is 
 
 _E q r a_
 
@@ -1843,7 +1831,7 @@ _p_− =− +( )
 
 2πe  (1.14)
 
-Since +_q_ is located closer to the point C than –_q_,
+Since +q _ is located closer to the point C than –q _,
 
 
 
@@ -1937,7 +1925,7 @@ _r a ptot_ \=
 
 Note that the total electric field is along 
 
-_E_\+ , since +_q_ is closer to C than –_q_. The direction of
+_E_\+ , since +q _ is closer to C than –q _. The direction of
 
 
 
@@ -1997,7 +1985,7 @@ If the point C is chosen on the left side of the dipole, the total electric fiel
 
 **Case (ii) Electric field due to an electric dipole at a point on the equatorial plane**
 
-Consider a point C at a distance _r_ from the midpoint O of the dipole on the equatorial plane as shown in Figure 1.17. Since the point C is equi-distant from +_q_ and –_q_, the magnitude of the electric fields at C due to +_q_ and –_q_ are the same. The direction
+Consider a point C at a distance _r_ from the midpoint O of the dipole on the equatorial plane as shown in Figure 1.17. Since the point C is equi-distant from +q _ and –q _, the magnitude of the electric fields at C due to +q _ and –q _ are the same. The direction
 
 
 
@@ -2190,7 +2178,7 @@ varies as 1 2_r_
 
 . This implies that the electric
 
-field due to a dipole at very large distances goes to zero faster than the electric field due to a point charge. The reason for this behavior is that at very large distance, the two charges appear to be close to each other and neutralize each other. **(iii)** The equations (1.17) and (1.21) are valid only at very large distances (_r_\>>_a_). Suppose the distance 2_a_ approaches zero and _q_ approaches infinity such that the product of 2_aq_ = _p_ is finite, then the dipole is called a point dipole. For such point dipoles, equations (1.17) and (1.21) are exact and hold true for any _r_.
+field due to a dipole at very large distances goes to zero faster than the electric field due to a point charge. The reason for this behavior is that at very large distance, the two charges appear to be close to each other and neutralize each other. **(iii)** The equations (1.17) and (1.21) are valid only at very large distances (_r_\>>_a_). Suppose the distance 2_a_ approaches zero and q _ approaches infinity such that the product of 2_aq_ = _p_ is finite, then the dipole is called a point dipole. For such point dipoles, equations (1.17) and (1.21) are exact and hold true for any _r_.
 
 ### Torque experienced by an electric dipole in the uniform electric field
 
@@ -2198,11 +2186,11 @@ Consider an electric dipole of dipole moment _p_ placed in a uniform electric
 
 
 
-_E_ whose field lines are equally spaced and point in the same direction. The charge +_q_ will experience a force _q_
+_E_ whose field lines are equally spaced and point in the same direction. The charge +q _ will experience a force q _
 
 
 
-_E_ in the direction of the field and charge –_q_ will experience a force –_q_
+_E_ in the direction of the field and charge –q _ will experience a force –q _
 
 
 
@@ -2244,7 +2232,7 @@ _p_ is aligned with 
 
 _E_ , the total torque on the dipole becomes zero.
 
-If the electric field is not uniform, then the force experienced by +_q_ is different from that experienced by –_q_. In addition to the torque, there will be net force acting on the dipole. This is shown in Figure 1.19.
+If the electric field is not uniform, then the force experienced by +q _ is different from that experienced by –q _. In addition to the torque, there will be net force acting on the dipole. This is shown in Figure 1.19.
 
 **E B_+q_**
 
@@ -2338,11 +2326,11 @@ defined for conservative forces. Since gravitational force is a conservative for
 
 ### Electrostatic Potential energy and Electrostatic potential
 
-Consider a positive charge _q_ kept fixed at the origin which produces an electric field
+Consider a positive charge q _ kept fixed at the origin which produces an electric field
 
 
 
-_E_ around it. A positive test charge _q_′ is brought from point R to point P against the repulsive force between _q_ and _q_′ as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
+_E_ around it. A positive test charge q _′ is brought from point R to point P against the repulsive force between q _ and q _′ as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
 
 rinciple of . The food which are produces fields and
 
@@ -2362,7 +2350,7 @@ this torque ry fast and is used to
 
   
 
-**_q_**
+**q _**
 
 **_q´_**
 
@@ -2376,7 +2364,7 @@ this torque ry fast and is used to
 
 ![Work done is equal to potential energy](1.20.png "")
 
-The test charge _q_′ is brought from R to P with constant velocity which means that external force used to bring the test charge _q_′ from R to P must be equal and opposite to the coulomb force
+The test charge q _′ is brought from R to P with constant velocity which means that external force used to bring the test charge q _′ from R to P must be equal and opposite to the coulomb force
 
  
 
@@ -2390,7 +2378,7 @@ _P_
 
  (1.25)
 
-Since coulomb force is conservative, work done is independent of the path and it depends only on the initial and final positions of the test charge. If potential energy associated with _q_′ at P is _U_P and that at R is _U_R, then difference in potential energy is defined as the work done to bring a test charge _q_′ from point R to P and is given as _U_P – _U_R = _W_ = Δ_U_
+Since coulomb force is conservative, work done is independent of the path and it depends only on the initial and final positions of the test charge. If potential energy associated with q _′ at P is _U_P and that at R is _U_R, then difference in potential energy is defined as the work done to bring a test charge q _′ from point R to P and is given as _U_P – _U_R = _W_ = Δ_U_
 
 ∆_U F drext R_
 
@@ -2452,7 +2440,7 @@ _P_
 
 The above equation (1.29) is independent
 
-of _q_′. The quantity ∆_U q_
+of q _′. The quantity ∆_U q_
 
 _E dr R_
 
@@ -2476,7 +2464,7 @@ _P_
 
  (1.30)
 
-The electric potential energy difference can be written as ∆_U_ = _q_′ ∆_V_. Physically potential difference between two points is a meaningful quantity. The value of the potential itself at one point is not meaningful. Therefore the point R is taken to infinity and the potential at infinity is considered as zero _V_∞ =( )0 .
+The electric potential energy difference can be written as ∆_U_ = q _′ ∆_V_. Physically potential difference between two points is a meaningful quantity. The value of the potential itself at one point is not meaningful. Therefore the point R is taken to infinity and the potential at infinity is considered as zero _V_∞ =( )0 .
 
 Then **the electric potential at a point P is equal to the work done by an external force to bring a unit positive charge with constant velocity from infinity to the point P in the region of the external electric field**
 
@@ -2496,7 +2484,7 @@ _P_
 
 **Important points 1.** Electric potential at point P depends
 
-only on the electric field which is due to the source charge _q_ and not on the test charge _q_′. Unit positive charge is brought from infinity to the point P with constant velocity because external agency should not impart any kinetic energy to the test charge.
+only on the electric field which is due to the source charge q _ and not on the test charge q _′. Unit positive charge is brought from infinity to the point P with constant velocity because external agency should not impart any kinetic energy to the test charge.
 
 
 
@@ -2513,9 +2501,9 @@ simpler than that using the concept of field.
 
 ### Electric potential due to a point charge
 
-Consider a positive charge _q_ kept fixed at the origin. Let P be a point at distance r from the charge _q_. This is shown in Figure 1.21.
+Consider a positive charge q _ kept fixed at the origin. Let P be a point at distance r from the charge q _. This is shown in Figure 1.21.
 
-**_q_**
+**q _**
 
 **_P_**
 
@@ -2539,7 +2527,7 @@ _V E dr E dr r r_
 
 (1.32)
 
-Electric field due to positive point charge _q_ is
+Electric field due to positive point charge q _ is
 
 
 
@@ -2601,7 +2589,7 @@ _r_
 
  
 
-Hence the electric potential due to a point charge _q_ at a distance r is
+Hence the electric potential due to a point charge q _ at a distance r is
 
 _V q r_
 
@@ -2609,7 +2597,7 @@ _V q r_
 
 4 0πe (1.33)
 
-**Important points (i)** If the source charge _q_ is positive, _V_ > 0. If _q_ is negative, then _V_ is negative and equal
+**Important points (i)** If the source charge q _ is positive, _V_ > 0. If q _ is negative, then _V_ is negative and equal
 
 to _V q r_
 
@@ -2648,7 +2636,7 @@ In the case of gravitational force, mass moves from a point of higher gravitatio
 
 gravitational potential (Figure 1.22). Similarly a positive charge moves from a point of higher electrostatic potential to a point of lower electrostatic potential. However a negative charge moves from lower electrostatic potential to higher electrostatic potential. This comparison is shown in Figure 1.23.
 
-**(iii)** The electric potential at a point P due to a collection of charges _q_1,_q_2,_q_3….._q_n is equal to sum of the electric potentials due to individual charges.
+**(iii)** The electric potential at a point P due to a collection of charges q _1,q _2,q _3…..q _n is equal to sum of the electric potentials due to individual charges.
 
 _V kq r_
 
@@ -2700,7 +2688,7 @@ _n_
 
 where _r1,r2,r3_……._rn_ are the distances of _q1, q2, q3_ ….. _qn_ respectively from P (Figure 1.24).
 
-**_+q_ P Q R** (a) Positive charge +_q_´ moves from higher electric potential to lower electric potential (P Q R)
+**_+q_ P Q R** (a) Positive charge +q _´ moves from higher electric potential to lower electric potential (P Q R)
 
 **_+q_ P Q R**
 
@@ -2708,7 +2696,7 @@ where _r1,r2,r3_……._rn_ are the distances of _q1, q2, q3_ ….. _qn_ respect
 
 **_–q´_**
 
-(b) negative charge –_q_´moves from lower electric potential to higher electric potential
+(b) negative charge –q _´moves from lower electric potential to higher electric potential
 
 (R Q P)
 
@@ -2756,9 +2744,9 @@ where _r1,r2,r3_……._rn_ are the distances of _q1, q2, q3_ ….. _qn_ respect
 
 **P Q R**
 
-**\-q P Q R** (c) Positive charge +_q_´ moves from higher electric potential to lower electric potential (R Q P)
+**\-q P Q R** (c) Positive charge +q _´ moves from higher electric potential to lower electric potential (R Q P)
 
-(d) negative charge –_q_´ moves from lower electric potential to higher electric potential
+(d) negative charge –q _´ moves from lower electric potential to higher electric potential
 
 (P Q R)
 
@@ -2816,7 +2804,7 @@ Electric potential at point Q is given by
 
 _V q rQ_
 
-_Q_
+q _
 
 \= = × × ×
 
@@ -2848,7 +2836,7 @@ The potential difference between the points P and Q is given by
 
 ∆_V V VP Q_\= − =− ×3 04 103. V  
 
-**(c)** The electric potential V at a point Q due to some charge is defined as the work done by an external force to bring a unit positive charge from infinity to Q. So to bring the _q_ amount of charge from infinity to the point Q, work done is given as follows.
+**(c)** The electric potential V at a point Q due to some charge is defined as the work done by an external force to bring a unit positive charge from infinity to Q. So to bring the q _ amount of charge from infinity to the point Q, work done is given as follows.
 
 _W_ = _qV_
 
@@ -2856,13 +2844,13 @@ _WQ_ \= × × × = ×− −2 10 5 06 10 10 12 106 3 3. . .J
 
 **EXAMPLE 1.13**
 
-Consider a point charge +_q_ placed at the origin and another point charge -2_q_ placed at a distance of 9 m from the charge +_q_. Determine the point between the two charges at which electric potential is zero.
+Consider a point charge +q _ placed at the origin and another point charge -2q _ placed at a distance of 9 m from the charge +q _. Determine the point between the two charges at which electric potential is zero.
 
 **_Solution_**
 
 According to the superposition principle, the total electric potential at a point is equal to the sum of the potentials due to each charge at that point.
 
-Consider the point at which the total potential zero is located at a distance _x_ from the charge +_q_ as shown in the figure.
+Consider the point at which the total potential zero is located at a distance _x_ from the charge +q _ as shown in the figure.
 
 **_+q -2q_P**
 
@@ -2957,15 +2945,15 @@ _p_→
 
 ![Potential due to electric dipole](1.25.png "")
 
-Let _r_1 be the distance of point P from +_q_ and _r_2 be the distance of point P from –_q_.
+Let _r_1 be the distance of point P from +q _ and _r_2 be the distance of point P from –q _.
 
-Potential at P due to charge +_q_ = 1 4 1πe
+Potential at P due to charge +q _ = 1 4 1πe
 
 
 
 _q r_
 
-Potential at P due to charge –_q_ \=− 1 4 2πe
+Potential at P due to charge –q _ \=− 1 4 2πe
 
 
 
@@ -3260,7 +3248,7 @@ _V p r r_
 
 Equation (1.38) is valid for distances very large compared to the size of the dipole. But for a point dipole, the equation (1.38) is valid for any distance.
 
-**Special cases Case (i)** If the point P lies on the axial line of the dipole on the side of +_q_, then θ = 0. Then the electric potential becomes  
+**Special cases Case (i)** If the point P lies on the axial line of the dipole on the side of +q _, then θ = 0. Then the electric potential becomes  
 
 _V p r_
 
@@ -3270,7 +3258,7 @@ _V p r_
 
 (1.39)
 
-**Case (ii)** If the point P lies on the axial line of the dipole on the side of –_q_, then θ = 180o. Then
+**Case (ii)** If the point P lies on the axial line of the dipole on the side of –q _, then θ = 180o. Then
 
 _V p r_
 
@@ -3292,7 +3280,7 @@ charge falls as . Thus the potential due to the dipole falls faster than that du
 
 ### Equi-potential Surface
 
-Consider a point charge _q_ located at some point in space and an imaginary sphere of radius _r_ is chosen by keeping the charge _q_ at its centre (Figure 1.26(a)). The electric potential at all points on the surface of the given sphere is the same. Such a surface is called an equipotential surface.
+Consider a point charge q _ located at some point in space and an imaginary sphere of radius _r_ is chosen by keeping the charge q _ at its centre (Figure 1.26(a)). The electric potential at all points on the surface of the given sphere is the same. Such a surface is called an equipotential surface.
 
 **An equipotential surface is a surface on which all the points are at the same electric potential.** For a point charge the equipotential surfaces are concentric spherical surfaces as shown in Figure 1.26(b). Each spherical surface is an equipotential surface but the
 
@@ -3304,7 +3292,7 @@ Consider a point charge _q_ located at some point in space and an imaginary sphe
 ![Equipotential surface of point Charge](1.26.png "")
 
 
-**_q_**
+**q _**
 
 **E**
 
@@ -3330,7 +3318,7 @@ I
 
 J
 
-**_q_**
+**q _**
 
 **All points in the surface of sphere are at same potential**
 
@@ -3352,11 +3340,11 @@ For a uniform electric field, the equipotential surfaces form a set of planes no
 
 _E_ . This is shown in the Figure 1.27.  
 
-**Properties of equipotential surfaces (i)** The work done to move a charge q between any two points A and B, _W_ = _q_ (_VB_ – _VA_). If the points A and B lie on the same equipotential surface, work done is zero because _VA_ = _VB_. **(ii)** The electric field is normal to an equipotential surface. If it is not normal, then there is a component of the field parallel to the surface. Then work must be done to move a charge between two points on the same surface. This is a contradiction. Therefore the electric field must always be normal to equipotential surface.
+**Properties of equipotential surfaces (i)** The work done to move a charge q between any two points A and B, _W_ = q _ (_VB_ – _VA_). If the points A and B lie on the same equipotential surface, work done is zero because _VA_ = _VB_. **(ii)** The electric field is normal to an equipotential surface. If it is not normal, then there is a component of the field parallel to the surface. Then work must be done to move a charge between two points on the same surface. This is a contradiction. Therefore the electric field must always be normal to equipotential surface.
 
 ### Relation between electric field and potential
 
-Consider a positive charge _q_ kept fixed at the origin. To move a unit positive charge by a small distance _dx_ towards _q_ in the electric field _E_, the work done is given by _dW_ = −_E_ _dx_. The minus sign implies that work is done against the electric field. This work done is equal to electric potential difference. Therefore,
+Consider a positive charge q _ kept fixed at the origin. To move a unit positive charge by a small distance _dx_ towards q _ in the electric field _E_, the work done is given by _dW_ = −_E_ _dx_. The minus sign implies that work is done against the electric field. This work done is equal to electric potential difference. Therefore,
 
 _dW_ = _dV_. (or) _dV_ = −_E dx_ (1.42)
 
@@ -3483,7 +3471,7 @@ E(**_Vcm_**\-1)
 
 ### Electrostatic potential energy for collection of point charges
 
-The electric potential at a point at a distance _r_ from point charge _q_1 is given by
+The electric potential at a point at a distance _r_ from point charge q _1 is given by
 
 _V q r_
 
@@ -3493,11 +3481,11 @@ _V q r_
 
 πe 
 
-This potential _V_ is the work done to bring a unit positive charge from infinity to the point. Now if the charge _q_2 is brought from infinity to that point at a distance _r_ from _q_1, the work done is the product of _q_2 and the electric potential at that point. Thus we have
+This potential _V_ is the work done to bring a unit positive charge from infinity to the point. Now if the charge q _2 is brought from infinity to that point at a distance _r_ from q _1, the work done is the product of q _2 and the electric potential at that point. Thus we have
 
 _W q V_\= 2
 
-This work done is stored as the electrostatic potential energy _U_ of a system of charges _q_1 and _q_2 separated by a distance _r_. Thus we have
+This work done is stored as the electrostatic potential energy _U_ of a system of charges q _1 and q _2 separated by a distance _r_. Thus we have
 
 _U q V q q_
 
@@ -3509,7 +3497,7 @@ _r_ \= =2
 
 (1.45)
 
-The electrostatic potential energy depends only on the distance between the two point charges. In fact, the expression (1.45) is derived by assuming that _q_1 is fixed and _q_2 is brought from infinity. The equation (1.45) holds true when _q_2 is fixed and _q_1 is brought from infinity or both _q_1 and _q_2 are simultaneously brought from infinity to a distance _r_ between them.
+The electrostatic potential energy depends only on the distance between the two point charges. In fact, the expression (1.45) is derived by assuming that q _1 is fixed and q _2 is brought from infinity. The equation (1.45) holds true when q _2 is fixed and q _1 is brought from infinity or both q _1 and q _2 are simultaneously brought from infinity to a distance _r_ between them.
 
 Three charges are arranged in the following configuration as shown in Figure 1.28.
 
@@ -3545,9 +3533,9 @@ To calculate the total electrostatic potential energy, we use the following proc
 
 ![Electrostatic potential energy for collection of point charges](1.28.png "")
 
-**(i)** Bringing a charge _q_1 from infinity to the point A requires no work, because there are no other charges already present in the vicinity of charge _q_1.
+**(i)** Bringing a charge q _1 from infinity to the point A requires no work, because there are no other charges already present in the vicinity of charge q _1.
 
-**(ii)** To bring the second charge _q_2 to the point B, work must be done against the electric field created by the charge _q_1\. So the work done on the charge _q_2 is _W_ = _q_2 _V_1B. Here _V_1B is the electrostatic potential due to the charge _q_1 at point _B_.
+**(ii)** To bring the second charge q _2 to the point B, work must be done against the electric field created by the charge q _1\. So the work done on the charge q _2 is _W_ = q _2 _V_1B. Here _V_1B is the electrostatic potential due to the charge q _1 at point _B_.
 
 _U q q rI_ \=
 
@@ -3559,9 +3547,9 @@ _U q q rI_ \=
 
 (1.46)
 
-Note that the expression is same when _q_2 is brought first and then _q_1 later.
+Note that the expression is same when q _2 is brought first and then q _1 later.
 
-**(iii)** Similarly to bring the charge q3 to the point C, work has to be done against the total electric field due to both charges _q_1 and _q_2\. So the work done to bring the charge _q_3 is = _q_3 (_V_1C + _V_2C). Here _V_1C is the electrostatic potential due to charge _q_1 at point C and _V_2C is the electrostatic potential due to charge _q_2 at point C.
+**(iii)** Similarly to bring the charge q3 to the point C, work has to be done against the total electric field due to both charges q _1 and q _2\. So the work done to bring the charge q _3 is = q _3 (_V_1C + _V_2C). Here _V_1C is the electrostatic potential due to charge q _1 at point C and _V_2C is the electrostatic potential due to charge q _2 at point C.
 
 The electrostatic potential energy is
 
@@ -3589,7 +3577,7 @@ _q q rII_ \= +
 
 (1.47)  
 
-**(iv)** Adding equations (1.46) and (1.47), the total electrostatic potential energy for the system of three charges _q_1, _q_2 and _q_3 is _U_ = _UI_ + _UII_
+**(iv)** Adding equations (1.46) and (1.47), the total electrostatic potential energy for the system of three charges q _1, q _2 and q _3 is _U_ = _UI_ + _UII_
 
 _U q q r_
 
@@ -3625,7 +3613,7 @@ Note that this stored potential energy _U_ is equal to the total external work d
 
 **EXAMPLE 1.15**
 
-Four charges are arranged at the corners of the square _PQRS_ of side _a_ as shown in the figure.(a) Find the work required to assemble these charges in the given configuration. (b) Suppose a charge _q_′ is brought to the centre of the square, by keeping the four charges fixed at the corners, how much extra work is required for this?
+Four charges are arranged at the corners of the square _PQRS_ of side _a_ as shown in the figure.(a) Find the work required to assemble these charges in the given configuration. (b) Suppose a charge q _′ is brought to the centre of the square, by keeping the four charges fixed at the corners, how much extra work is required for this?
 
 **_+q_**
 
@@ -3676,9 +3664,9 @@ Four charges are arranged at the corners of the square _PQRS_ of side _a_ as sho
 
 of the way they are arranged. We can follow any order.
 
-**(i)** First, the charge +_q_ is brought to the corner P. This requires no work since no charge is already present, _WP_ = 0
+**(i)** First, the charge +q _ is brought to the corner P. This requires no work since no charge is already present, _WP_ = 0
 
-**(ii)** Work required to bring the charge –_q_ to the corner Q = (–_q_) × potential at a point Q due to +_q_ located at a point P.
+**(ii)** Work required to bring the charge –q _ to the corner Q = (–q _) × potential at a point Q due to +q _ located at a point P.
 
 _W q q a_
 
@@ -3692,7 +3680,7 @@ _q aQ_ \=− × =−
 
 π πe e  
 
-**(iii)** Work required to bring the charge +_q_ to the corner R = _q_ × potential at the point R due to charges at the point P and Q.
+**(iii)** Work required to bring the charge +q _ to the corner R = q _ × potential at the point R due to charges at the point P and Q.
 
 _W q q a_
 
@@ -3736,7 +3724,7 @@ e
 
 
 
-**(iv)** Work required to bring the fourth charge –_q_ at the position S = _q_ × potential at the point S due the all the three charges at the point P, Q and R
+**(iv)** Work required to bring the fourth charge –q _ at the position S = q _ × potential at the point S due the all the three charges at the point P, Q and R
 
 _W q q a_
 
@@ -3772,11 +3760,11 @@ _W q aS_ \=− − 
 
 πe 
 
-**(b)** Work required to bring the charge _q_′ to the centre of the square = _q_′ × potential at the centre point O due to all the four charges in the four corners
+**(b)** Work required to bring the charge q _′ to the centre of the square = q _′ × potential at the centre point O due to all the four charges in the four corners
 
-The potential created by the two +_q_ charges are canceled by the potential created by the –_q_ charges which are located in the opposite corners. Therefore the net electric potential at the centre O due to all the charges in the corners is zero.  
+The potential created by the two +q _ charges are canceled by the potential created by the –q _ charges which are located in the opposite corners. Therefore the net electric potential at the centre O due to all the charges in the corners is zero.  
 
-Hence no work is required to bring any charge to the point O. Physically this implies that if any charge _q_′ when brought close to O, then it moves to the point O without any external force.
+Hence no work is required to bring any charge to the point O. Physically this implies that if any charge q _′ when brought close to O, then it moves to the point O without any external force.
 
 ### Electrostatic potential energy of a dipole in a uniform electric field
 
@@ -4211,7 +4199,7 @@ In general, the electric flux is negative if the electric field lines enter the 
 
 ### Gauss law
 
-A positive point charge _Q_ is surrounded by an imaginary sphere of radius _r_ as shown in Figure 1.34. We can calculate the total electric flux through the closed surface of the sphere using the equation (1.58).
+A positive point charge q _ is surrounded by an imaginary sphere of radius _r_ as shown in Figure 1.34. We can calculate the total electric flux through the closed surface of the sphere using the equation (1.58).
 
 Φ_E E dA EdA_\= ⋅ =∫ ∫     cosθ
 
@@ -4271,13 +4259,13 @@ _r Q_\= × = 1
 
 The equation (1.61) is called as Gauss’s law.
 
-The remarkable point about this result is that the equation (1.61) is equally true for any arbitrary shaped surface which encloses the charge _Q_ and as shown in the Figure 1.35. It is seen that the total electric flux is the same for closed surfaces _A1, A2_ and _A3_ as shown in the Figure 1.35.
+The remarkable point about this result is that the equation (1.61) is equally true for any arbitrary shaped surface which encloses the charge q _ and as shown in the Figure 1.35. It is seen that the total electric flux is the same for closed surfaces _A1, A2_ and _A3_ as shown in the Figure 1.35.
 
 **Spherical gaussian surface**
 
 **r**
 
-**_Q_**
+**q _**
 
  
 
@@ -4303,11 +4291,11 @@ The remarkable point about this result is that the equation (1.61) is equally tr
 
 ![Gauss law for arbitrarily shaped surface](1.35.png "")
 
-Gauss’s law states that **if a charge _Q_ is enclosed by an arbitrary closed surface, then the total electric flux** **Φ_E_ through the closed surface is**
+Gauss’s law states that **if a charge q _ is enclosed by an arbitrary closed surface, then the total electric flux** **Φ_E_ through the closed surface is**
 
 Φ_E enclE dA_
 
-_Q_ \= ⋅ =∫
+q _ \= ⋅ =∫
 
  
 
@@ -4376,15 +4364,15 @@ _E_ is due to charges present inside and outside the Gaussian surface but the ch
 
 **_Solution_ (i)** In figure (a), the area _A1_ encloses the
 
-charge _Q_. So electric flux through this
+charge q _. So electric flux through this
 
-closed surface _A1_ is _Q_ e 
+closed surface _A1_ is q _ e 
 
 . But the closed
 
 surface _A2_ contains no charges inside, so electric flux through _A2_ is zero.
 
-**(ii)** In figure (b), the net charge inside the cube is 3_q_ and the total electric flux in the
+**(ii)** In figure (b), the net charge inside the cube is 3q _ and the total electric flux in the
 
 cube is therefore Φ_E q_
 
@@ -4392,7 +4380,7 @@ cube is therefore Φ_E q_
 
 . Note that the
 
-charge -10 _q_ lies outside the cube and it will not contribute the total flux through the surface of the cube.
+charge -10 q _ lies outside the cube and it will not contribute the total flux through the surface of the cube.
 
 ### Applications of Gauss law
 
@@ -4484,7 +4472,7 @@ Since the magnitude of the electric field for the entire curved surface is const
 
 **r _P_**
 
-**_Q_E**
+**q _E**
 
 **(a)**
 
@@ -4799,18 +4787,18 @@ The direction of the electric field between the plates is directed from positive
 
 **(iv) Electric field due to a uniformly charged spherical shell**
 
-Consider a uniformly charged spherical shell of radius _R_ carrying total charge _Q_ as shown in Figure 1.40. The electric field at points outside and inside the sphere can be found using Gauss law.
+Consider a uniformly charged spherical shell of radius _R_ carrying total charge q _ as shown in Figure 1.40. The electric field at points outside and inside the sphere can be found using Gauss law.
 
 **Case (a) At a point outside the shell (_r_ > _R_)** Let us choose a point P outside the shell
 
-at a distance r from the centre as shown in Figure 1.40 (a). The charge is uniformly distributed on the surface of the sphere (spherical symmetry). Hence the electric field must point radially outward if _Q_ > 0 and point radially inward if _Q_ < 0. So a spherical Gaussian surface of radius _r_ is chosen and
+at a distance r from the centre as shown in Figure 1.40 (a). The charge is uniformly distributed on the surface of the sphere (spherical symmetry). Hence the electric field must point radially outward if q _ > 0 and point radially inward if q _ < 0. So a spherical Gaussian surface of radius _r_ is chosen and
 
 
 
 
   
 
-the total charge enclosed by this Gaussian surface is _Q_. Applying Gauss law
+the total charge enclosed by this Gaussian surface is q _. Applying Gauss law
 
   
 
@@ -4874,7 +4862,7 @@ _r_
 
 _R_
 
-_Q_
+q _
 
 (a)
 
@@ -4892,7 +4880,7 @@ _r_\= 1
 
 4 2πe  (1.75)
 
-The electric field is radially outward if _Q_ > 0 and radially inward if _Q_ < 0. From equation (1.75), we infer that the electric field at a point outside the shell will be the same as if the entire charge _Q_ is concentrated at the centre of the spherical shell. (A similar result is observed in gravitation, for gravitational force due to a spherical shell with mass _M_)
+The electric field is radially outward if q _ > 0 and radially inward if q _ < 0. From equation (1.75), we infer that the electric field at a point outside the shell will be the same as if the entire charge q _ is concentrated at the centre of the spherical shell. (A similar result is observed in gravitation, for gravitational force due to a spherical shell with mass _M_)
 
 **Case (b): At a point on the surface of the spherical shell (_r_ = _R_)**
 
@@ -4916,7 +4904,7 @@ Gaussian sphere_r_
 
 _R_
 
-_Q_
+q _
 
 P
 
@@ -4949,7 +4937,7 @@ e 
 
 (1.77)
 
-Since Gaussian surface encloses no charge, _Q_ = 0. The equation (1.77) becomes
+Since Gaussian surface encloses no charge, q _ = 0. The equation (1.77) becomes
 
 _E_ = 0 (_r_ < _R_) (1.78)
 
@@ -5227,7 +5215,7 @@ For an arbitrary shaped conductor, the intermediate steps and conclusion are the
 
 **EXAMPLE 1.19**
 
-A small ball of conducting material having a charge +_q_ and mass m is thrown upward at an angle _θ_ to horizontal surface with an initial speed _v_o as shown in the figure. There exists an uniform electric field _E_ downward along with the gravitational field _g_. Calculate the range, maximum height and time of flight in the motion of this charged ball. Neglect the effect of air and treat the ball as a point mass.  
+A small ball of conducting material having a charge +q _ and mass m is thrown upward at an angle _θ_ to horizontal surface with an initial speed _v_o as shown in the figure. There exists an uniform electric field _E_ downward along with the gravitational field _g_. Calculate the range, maximum height and time of flight in the motion of this charged ball. Neglect the effect of air and treat the ball as a point mass.  
 
  hmax
 
@@ -5371,9 +5359,9 @@ _g_\+ 
 
 
 
- > for charge +_q_, the quantities _T_,
+ > for charge +q _, the quantities _T_,
 
-_hmax_, and _R_ will decrease when compared to the motion of an object of mass m and zero net charge. Suppose the charge is –_q_, then
+_hmax_, and _R_ will decrease when compared to the motion of an object of mass m and zero net charge. Suppose the charge is –q _, then
 
 _g qE m_
 
@@ -5687,7 +5675,7 @@ _\+ -+ -_
 
 When a capacitor is connected to a battery of potential difference V, the electrons are transferred from one plate to the other plate by battery so that one plate becomes negatively charged with a charge of –Q and the other plate positively charged with +Q. The potential difference between the plates is equivalent to the battery’s terminal voltage. This is shown in Figure 1.52 (b). If the battery voltage is increased, the amount of charges stored in the plates also increase. In general, the charge stored in the capacitor is proportional to the potential difference between the plates.
 
-_Q V_∝ so that _Q_ = _CV_
+_Q V_∝ so that q _ = _CV_
 
 where the C is the proportionality constant called capacitance. **The capacitance C of a capacitor is defined as the ratio of the magnitude of charge on either of the conductor plates to the potential difference existing between them.**
 
@@ -5833,7 +5821,7 @@ e0 12 4
 
 **(b)** The charge stored in any one of the plates is Q = CV, Then
 
-_Q_\= × × = × =− −22 12 10 10 221 2 10 221 212 12. . .C pC
+q _\= × × = × =− −22 12 10 10 221 2 10 221 212 12. . .C pC
 
 
 
@@ -5876,7 +5864,7 @@ Sometimes we notice that the ceiling fan does not start rotating as soon as it i
 
 ### Energy stored in the capacitor
 
-Capacitor not only stores the charge but also it stores energy. When a battery is connected to the capacitor, electrons of total charge –_Q_ are transferred from one plate to the other plate. To transfer the charge, work is done by the battery. This work done is stored as electrostatic potential energy in the capacitor.
+Capacitor not only stores the charge but also it stores energy. When a battery is connected to the capacitor, electrons of total charge –q _ are transferred from one plate to the other plate. To transfer the charge, work is done by the battery. This work done is stored as electrostatic potential energy in the capacitor.
 
 To transfer an infinitesimal charge _dQ_ for a potential difference _V_, the work done is given by
 
@@ -5892,7 +5880,7 @@ _W Q C_
 
 _dQ Q C_
 
-_Q_
+q _
 
 \= =∫ 0
 
@@ -5979,7 +5967,7 @@ In earlier discussions, we assumed that the space between the parallel plates of
 
 **(i) when the capacitor is disconnected from the battery**
 
-Consider a capacitor with two parallel plates each of cross-sectional area _A_ and are separated by a distance _d_. The capacitor is charged by a battery of voltage _V_0 and the charge stored is _Q_0\. The capacitance of the capacitor without the dielectric is
+Consider a capacitor with two parallel plates each of cross-sectional area _A_ and are separated by a distance _d_. The capacitor is charged by a battery of voltage _V_0 and the charge stored is q _0\. The capacitance of the capacitor without the dielectric is
 
 _C Q V_0
 
@@ -6036,7 +6024,7 @@ e (1.91)
 
 where _E_o is the electric field inside the capacitors when there is no dielectric and e_r_ is the relative permittivity of the dielectric or simply known as the dielectric constant. Since er > 1, the electric field _E_ < _E_o.
 
-As a result, the electrostatic potential difference between the plates (_V = Ed_) is also reduced. But at the same time, the charge _Q_o will remain constant once the battery is disconnected.
+As a result, the electrostatic potential difference between the plates (_V = Ed_) is also reduced. But at the same time, the charge q _o will remain constant once the battery is disconnected.
 
 Hence the new potential difference is
 
@@ -6086,7 +6074,7 @@ _U Q C_0
 
 \= (1.95)
 
-After the dielectric is inserted, the charge _Q_0 remains constant but the capacitance is increased. As a result, the stored energy is decreased.
+After the dielectric is inserted, the charge q _0 remains constant but the capacitance is increased. As a result, the stored energy is decreased.
 
 _U Q C_
 
@@ -6339,7 +6327,7 @@ _U CV C_\= = × × ×
 
 S. No Dielectric is inserted
 
-Charge **_Q_**
+Charge **q _**
 
 Volta **_V_**
 
@@ -6451,9 +6439,9 @@ ant Constant Increases Increases
 
   
 
-–_Q_ are transferred from negative terminal to the right plate of _C_3 which pushes the electrons of same amount –_Q_ from left plate of C3 to the right plate of _C_2 due to electrostatic induction. Similarly, the left plate of _C_2 pushes the charges of –_Q_ to the right plate of _C_1 which induces the positive charge +_Q_ on the left plate of _C_1\. At the same time, electrons of charge –_Q_ are transferred from left plate of _C_1 to positive terminal of the battery.
+–q _ are transferred from negative terminal to the right plate of _C_3 which pushes the electrons of same amount –q _ from left plate of C3 to the right plate of _C_2 due to electrostatic induction. Similarly, the left plate of _C_2 pushes the charges of –q _ to the right plate of _C_1 which induces the positive charge +q _ on the left plate of _C_1\. At the same time, electrons of charge –q _ are transferred from left plate of _C_1 to positive terminal of the battery.
 
-By these processes, each capacitor stores the same amount of charge _Q_. The capacitances of the capacitors are in general different, so that the voltage across each capacitor is also different and are denoted as _V1, V2_ and _V3_ respectively.
+By these processes, each capacitor stores the same amount of charge q _. The capacitances of the capacitors are in general different, so that the voltage across each capacitor is also different and are denoted as _V1, V2_ and _V3_ respectively.
 
 _V1 V2 V3_
 
@@ -6493,7 +6481,7 @@ The sum of the voltages across the capacitor must be equal to the voltage of the
 
 _V_ \= _V_1 + _V_2 + _V_3 (1.103)
 
-Since, _Q_ = _CV_, we have _V Q C_
+Since, q _ = _CV_, we have _V Q C_
 
 _Q C_
 
@@ -6560,15 +6548,15 @@ Since corresponding sides of the capacitors are connected to the same positive a
 
   
 
-the charge stored in each capacitor is not the same. Let the charge stored in the three capacitors be _Q1_, _Q2_, and _Q3_ respectively. According to the law of conservation of total charge, the sum of these three charges is equal to the charge _Q_ transferred by the battery,
+the charge stored in each capacitor is not the same. Let the charge stored in the three capacitors be _Q1_, _Q2_, and _Q3_ respectively. According to the law of conservation of total charge, the sum of these three charges is equal to the charge q _ transferred by the battery,
 
-_Q_ = _Q1 +Q2 +Q3_ (1.106)
+q _ = _Q1 +Q2 +Q3_ (1.106)
 
 Since _Q = CV_, we have
 
 _Q = C1V + C2V + C3V_ (1.107)
 
-If these three capacitors are considered to form a single equivalent capacitance _CP_ which stores the total charge _Q_ as shown in the Figure 1.59(b), then we can write _Q = CPV_. Substituting this in equation (1.107), we get
+If these three capacitors are considered to form a single equivalent capacitance _CP_ which stores the total charge q _ as shown in the Figure 1.59(b), then we can write _Q = CPV_. Substituting this in equation (1.107), we get
 
 _CPV = C1V + C2V + C3V_
 
@@ -6596,7 +6584,7 @@ Thus, the equivalent capacitance of capacitors connected in parallel is equal to
 
 **EXAMPLE 1.22**
 
-Find the equivalent capacitance between P and _Q_ for the configuration shown below in the figure (a).
+Find the equivalent capacitance between P and q _ for the configuration shown below in the figure (a).
 
 **_QQ Q QPPP P6µF 6µF_**
 
@@ -6683,7 +6671,7 @@ A
 
 ![Two conductors are connected through conducting wire  ](1.60.png "")
 
-If a charge _Q_ is introduced into any one of the spheres, this charge _Q_ is redistributed into both the spheres such that the electrostatic potential is same in both the spheres. They are now uniformly charged and attain electrostatic equilibrium. Let _q1_ be the charge residing on the surface of sphere A and _q2_ is the charge residing on the surface of sphere B such that _Q = q1 + q2_. The charges are distributed only on the surface and there is no net charge inside the conductor.
+If a charge q _ is introduced into any one of the spheres, this charge q _ is redistributed into both the spheres such that the electrostatic potential is same in both the spheres. They are now uniformly charged and attain electrostatic equilibrium. Let _q1_ be the charge residing on the surface of sphere A and _q2_ is the charge residing on the surface of sphere B such that _Q = q1 + q2_. The charges are distributed only on the surface and there is no net charge inside the conductor.
 
 The electrostatic potential at the surface of the sphere A is given by
 
@@ -6760,7 +6748,7 @@ Thus the surface charge density _σ_ is inversely proportional to the radius of 
 
 **EXAMPLE 1.23**
 
-Two conducting spheres of radius _r1_ = 8 cm and _r2_ = 2 cm are separated by a distance much larger than 8 cm and are connected by a thin conducting wire as shown in the figure. A total charge of _Q_ = +100 nC is placed on one of the spheres. After a fraction of a second, the charge _Q_ is redistributed and both the spheres attain electrostatic equilibrium.
+Two conducting spheres of radius _r1_ = 8 cm and _r2_ = 2 cm are separated by a distance much larger than 8 cm and are connected by a thin conducting wire as shown in the figure. A total charge of q _ = +100 nC is placed on one of the spheres. After a fraction of a second, the charge q _ is redistributed and both the spheres attain electrostatic equilibrium.
 
 Br1 r2
 
@@ -6800,7 +6788,7 @@ _q r_
 
 _q r r_
 
-_q_1
+q _1
 
 1
 
@@ -6824,7 +6812,7 @@ But from the conservation of total charge, _Q = q1 + q2_, we get _q1 = Q – q2_
 
 _Q q r r_
 
-_q_− = 
+q _− = 
 
  
 
@@ -6854,7 +6842,7 @@ _r r_2 2
 
 Therefore,
 
-_q_2 9100 10 2
+q _2 9100 10 2
 
 10 20= × ×
 
@@ -6876,7 +6864,7 @@ is σ π1
 
 1 24
 
-\= _q_
+\= q _
 
 _r_
 
@@ -6888,7 +6876,7 @@ is σ π2
 
 2 24
 
-\= _q_
+\= q _
 
 _r_ Therefore,
 
@@ -7338,7 +7326,7 @@ rface : Φ_E Q_
 
 \= e 
 
-where _Q_ is the net charge
+where q _ is the net charge
 
 re : 
 
@@ -7476,11 +7464,11 @@ e large potential difference (~107 V).
 
 **I Multiple choice questions**
 
-**1\.** Two identical point charges of magnitude –q are fixed as shown in the figure below. A third charge +q is placed midway between the two charges at the point P. Suppose this charge +_q_ is displaced a small distance from the point P in the directions indicated by the arrows, in which direction(s) will +_q_ be stable with respect to the displacement?
+**1\.** Two identical point charges of magnitude –q are fixed as shown in the figure below. A third charge +q is placed midway between the two charges at the point P. Suppose this charge +q _ is displaced a small distance from the point P in the directions indicated by the arrows, in which direction(s) will +q _ be stable with respect to the displacement?
 
-\-_q_ \-_q_
+\-q _ \-q _
 
-+_q_ A1 A2
++q _ A1 A2
 
 B2
 
@@ -7545,17 +7533,17 @@ the following electric field line pattern?
 
 **_+2q–q_ Water**
 
-(a) 80_q_ e 
+(a) 80q _ e 
 
-(b) _q_ 40e
-
-
-
-(c) _q_ 80e
+(b) q _ 40e
 
 
 
-(d) _q_ 160e
+(c) q _ 80e
+
+
+
+(d) q _ 160e
 
 
 
@@ -7583,7 +7571,7 @@ O O R Rr r
 
 potential difference V = Vo – VA, where _Vo_ is the potential at the origin and _VA_ is the potential at _x_ = 2 m is: (a) 10 V (b) –20 V (c) +20 V (d) –10 V
 
-**10\.** A thin conducting spherical shell of radius _R_ has a charge _Q_ which is uniformly distributed on its surface. The correct plot for electrostatic potential due to this spherical shell is
+**10\.** A thin conducting spherical shell of radius _R_ has a charge q _ which is uniformly distributed on its surface. The correct plot for electrostatic potential due to this spherical shell is
 
 VV V
 
@@ -7599,7 +7587,7 @@ O O R Rr r
 
 **11\.** Two points A and B are maintained at a potential of 7 V and -4 V respectively. The work done in moving 50 electrons from A to B is (a) 8.80 × 10–17 J (b) -8.80 × 10–17 J (c) 4.40 × 10–17 J (d) 5.80 × 10–17 J
 
-12\. If voltage applied on a capacitor is increased from _V_ to 2_V_, choose the correct conclusion. (a) _Q_ remains the same, _C_ is doubled (b) _Q_ is doubled, _C_ doubled (c) _C_ remains same, _Q_ doubled (d) Both _Q_ and _C_ remain same
+12\. If voltage applied on a capacitor is increased from _V_ to 2_V_, choose the correct conclusion. (a) q _ remains the same, _C_ is doubled (b) q _ is doubled, _C_ doubled (c) _C_ remains same, q _ doubled (d) Both q _ and _C_ remain same
 
 
 
@@ -7611,7 +7599,7 @@ O O R Rr r
 
   
 
-**13\.** A parallel plate capacitor stores a charge _Q_ at a voltage _V_. Suppose the area of the parallel plate capacitor and the distance between the plates are each doubled then which is the quantity that will change? (a) Capacitance (b) Charge (c) Voltage (d) Energy density
+**13\.** A parallel plate capacitor stores a charge q _ at a voltage _V_. Suppose the area of the parallel plate capacitor and the distance between the plates are each doubled then which is the quantity that will change? (a) Capacitance (b) Charge (c) Voltage (d) Energy density
 
 14\. Three capacitors are connected in triangle as shown in the figure. The equivalent capacitance between the points A and C is
 
@@ -7747,15 +7735,15 @@ _F W e_ \= ×3 9 10
 
 21 .
 
-**3\.** Five identical charges _Q_ are placed equidistant on a semicircle as shown in the figure. Another point charge q is kept at the centre of the circle of radius _R_. Calculate the electrostatic force experienced by the charge _q_.
+**3\.** Five identical charges q _ are placed equidistant on a semicircle as shown in the figure. Another point charge q is kept at the centre of the circle of radius _R_. Calculate the electrostatic force experienced by the charge q _.
 
-_Q_
+q _
 
-_Q_
+q _
 
 _Q Q_
 
-_Q_
+q _
 
 _q x_
 
@@ -7773,9 +7761,9 @@ _i_\= +( )1 4
 
 1 22πe N
 
-**4\.** Suppose a charge +_q_ on Earth’s surface and another +_q_ charge is placed on the surface of the Moon. (a) Calculate the value of _q_ required to balance the gravitational attraction between Earth and Moon (b) Suppose the distance between the Moon and Earth is halved, would the charge _q_ change?
+**4\.** Suppose a charge +q _ on Earth’s surface and another +q _ charge is placed on the surface of the Moon. (a) Calculate the value of q _ required to balance the gravitational attraction between Earth and Moon (b) Suppose the distance between the Moon and Earth is halved, would the charge q _ change?
 
-(Take _mE_ = 5.9 × 1024 kg, _mM_ = 7.9 × 1022 kg) Ans: (a) _q_ ≈ +5.87 × 1013 C, (b) no change
+(Take _mE_ = 5.9 × 1024 kg, _mM_ = 7.9 × 1022 kg) Ans: (a) q _ ≈ +5.87 × 1013 C, (b) no change
 
 **_\-kx_**
 
