@@ -190,7 +190,7 @@ Therefore, the electrostatic force obeys Newton’s third law.
 
 **EXAMPLE 1.2**
 
-Consider two point charges q _1 and q _2 at rest as shown in the figure.
+Consider two point charges \\(q _1\\) and \\(q _2\\) at rest as shown in the figure.
 
 ![](example1.2.png)
 
@@ -421,7 +421,23 @@ From the figure, the angle \\(θ = 45^o\\). In terms of the components, we have
 
 Then the total force on \\(q _1\\) is
 
-todo
+\\(\vec {F} _1^{tot} = (F _{12} cos\theta \hat{i} - F _{12} sin\theta \hat{j}) + F _{13} \hat{i} + (F _{14} cos\theta \hat{i} + F _{14} sin\theta \hat{j}) \\)
+
+\\(\vec {F} _1^{tot} = (F _{12} cos\theta + F _{13} + F _{14} cos\theta) \hat{i} + (-F _{12} sin\theta \hat{i} + F _{14} sin\theta) \hat{j}\\)
+
+Since \\(F _{12} = F _{14}\\), the \\(j^{th}\\) component is zero. Both the electric and gravitational forces are Hence we have
+
+\\(\vec {F} _1^{tot} = (F _{12} cos\theta + F _{13} + F _{14} cos\theta) \hat{i}\\)
+
+substituting the values in the above equation,
+
+\\(= (\dfrac{4.5}{\sqrt{2}} + 2 + \dfrac{4.5}{\sqrt{2}}) × 10^{-3} \hat{i}\\) 
+
+\\(=(4.5\sqrt{2} + 2.25)×10^{-3} \hat{i}\\)
+
+\\(\vec {F} _1^{tot} = 8.61 × 10^{-3} \hat{i} N\\)
+
+The resultant force is along the positive x axis.
 
 ## ELECTRIC FIELD AND ELECTRIC FIELD LINES
 
@@ -431,234 +447,49 @@ The interaction between two charges is determined by Coulomb’s law. How does t
 
 According to Faraday, every charge in the universe creates an electric field in the surrounding space, and if another charge is brought into its field, it will interact with the electric field at that point and will experience a force. It may be recalled that the interaction of two masses is similarly explained using the concept of gravitational field (Refer unit 6, volume 2, XI physics). Both the electric and gravitational forces are non-contact forces, hence the field concept is required to explain action at a distance.
 
-Consider a source point charge q _ located at a point in space. Another point charge q _o
+Consider a source point charge q located at a point in space. Another point charge \\(q _o\\) (test charge) is placed at some point P which is at a distance *r* from the charge q . The electrostatic force experienced by the charge \\(q _o\\) due to q is given by Coulomb’s law.
 
-(test charge) is placed at some point P which is at a distance _r_ from the charge q _. The electrostatic force experienced by the charge q _o due to q _ is given by Coulomb’s law.
+\\(\vec{F} = \dfrac{kqq _o}{r^2} \hat{r} = \dfrac{qq _o}{r^2}\hat{r}\\) where \\(k = \dfrac{1}{4\pi\epsilon _o}\\)
 
-
+The charge q creates an electric field in the surrounding space within which its effect can be felt by another charge. It is measured in terms of a quantity called electric field intensity or simply called electric field \\(\vec{E}\\). **The electric field at the point P at a distance _r_ from the point charge q _ is defined as the force that would be experienced by a unit positive charge placed at that point P** and is given by
 
-_F kqq_
+\\(\vec{E} = \dfrac{\vec{F}}{q _o} = \dfrac{kq}{r^2} \hat{r} = \dfrac{1}{4\pi\epsilon _o}\dfrac{q}{r^2} \hat{r}\\) --->(1.4)
 
-_r r_
+Here \\(\hat{r}\\) is the unit vector pointing from q to the point of interest P. The electric field is a vector quantity and its SI unit is newton per coulomb \\((NC^{–1})\\).
 
-_qq r_
+**Important aspects of Electric field**
 
-_r_\= =0 2
+**(i)** If the charge q  is positive then the electric field points away from the source charge and if q is negative, the electric field points towards the source charge q. This is shown in the Figure 1.4.
 
-0
+![Electric field of positive and negative charges](1.4.png)
 
-0 2
+**(ii)** If the electric field at a point P is \\(\vec{E}\\), then the force experienced by the test charge q _o placed at the point P is  
 
-1 4
-
- 
-
-πe where _k_ \=
-
-1 4 0πe
-
-The charge q _ creates an electric field in the surrounding space within which its effect can be felt by another charge. It is measured in
-
-)× −5 10 3 _i_
-
-
-
-
-
-
-| FoThSHseThaxi |F  = 2.25 kqF ==r13    = 4.5 1221 |× 10  N91××01 0F =–3 2× 10  N2 91 − 22 igure 14, the angle θ = 45 . Iponents, we have–3cossθθiF in j o110 ×− ij 45 ××10212ii 22.N51× 0−−33cossθθiF in j−3110 ×+ ij 45 ××10214otal force on q  is−−33()cossθθiF in jF +Fi cossθθ Fj 1 in21()coscθθ FF +21 os i 314FF sinsθθ+ 14 in j = F , t he j componen21 31 4ave12 14co14scθθ FFt+h  os ig t he va lues in t h21 31 445.2 22. 5 + 45.2 ×=10 i45.. 22+ 25 ×10−−33. 11 0  Ntant f orce i s a long t he p−3 |
-|------|------|------|------|
-
-| n terms |
-| rom the ff the comFF =−=×45..12 12FF ==FF =+13 13=×45..14 14en the t()FF =−()++FF11tot =++−ince Ftot11ence we h()FF =+12ubstitutinquatott ion,11()=+iFi =×86e r esuls.tot1 |
-| 1212 |
-
-| i |
-| t i s zer o. |
-
-| e a bove |
-| ()45.. 22+ |
-| ositive  x |
-  
-
-terms of a quantity called electric field intensity or simply called electric field
-
-
-
-_E_,. **The electric field at the point P at a distance _r_ from the point charge q _ is defined as the force that would be experienced by a unit positive charge placed at that point P** and is given by
-
-
-
-
-
-_E F q_
-
-_kq r_
-
-_r q r_
-
-_r_\= = = 0
-
-2 0
-
-2
-
-1 4
-
- 
-
-πe (1.4)
-
-Here _r_ is the unit vector pointing from q _ to the point of interest P. The electric field is a vector quantity and its SI unit is newton per coulomb (NC–1). **Important aspects of Electric field (i)** If the charge q _ is positive then the electric field points away from the source charge and if q _ is negative, the electric field points towards the source charge q _. This is shown in the Figure 1.4.
-
-**E →**
-
-**E →**
-
-**\+ q _**
-
-**_P_**
-
-**_P_**
-
-**q _ r**
-
-**r**
-
-_\__
-
-For a positive source charge,
-
-the electric eld at **_P_** points radially outward
-
-from **q _**.
-
-For a negative source charge,
-
-the electric eld at **_P_** points radially inward
-
-toward **q _**.
-
-**Figure 1.4 Electric field of positive and** negative charges
-
-**(ii)** If the electric field at a point P is 
-
-_E_, then the force experienced by the test charge q _o placed at the point P is  
-
- 
-
-_F q E_\= 0 (1.5)
+\\(\vec{F} = q_0 \vec{E}\\) (1.5)
 
 This is Coulomb’s law in terms of electric field. This is shown in Figure 1.5
 
-**_q0_**
-
-**_q0_**
-
-**_q0_F**  **E**
-
-**\=**
-
-**_q0_F**  **E**
-
-**\=**
-
-**E →**
-
-**E →**
-
-**\+ q _**
-
-**_P_**
-
-**_P_**
-
-**_–q_ r**
-
-**r**
-
-_\__
-
-**+**
-
-**+**
-
-If **q _** is positive, the force on
-
-the test charge **_q0_** is directed away from **q _**.
-
-If **q _** is negative , the force on
-
-the test charge **_q0_** is directed
-
-toward **q _**.
-
 ![Coulomb’s law in terms of electric field](1.5.png "")
 
-**(iii)** The equation (1.4) implies that the electric field is independent of the test charge q _o and it depends only on the source charge q _. **(iv)** Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude as shown in Figures 1.6(a) and (b). From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
+**(iii)** The equation (1.4) implies that the electric field is independent of the test charge \\(q _o\\) and it depends only on the source charge q. 
+
+**(iv)** Since the electric field is a vector
+quantity, at every point in space, this field
+has unique direction and magnitude as
+shown in Figures 1.6(a) and (b). From
+equation (1.4), we can infer that as distance
+increases, the electric field decreases in
+magnitude.
 
 Note that in Figures 1.6 (a) and (b) the length of the electric field vector is shown for three different points. The strength or magnitude of the electric field at point P is stronger than at the points Q and R because the point P is closer to the source charge.
 
+![(a) Electric field due to positive charge (b) Electric field due to negative charge](1.6.png)
 
+**(v)** In the definition of electric field, it is assumed that the test charge \\(q _0\\) is taken sufficiently small, so that bringing this test charge will not move the source charge. In other words, the test charge is made sufficiently small such that it will not modify the electric field of the source charge.
 
-
-  
-
-**+**
-
-R
-
-q _
-
-Q
-
-P
-
-EQ
-
-P **–**
-
-R
-
-q _
-
-Q
-
-ER
-
-ER
-
-
-
-
-
-EP
-
-
-
-EP
-
-
-
-EQ
-
-
-
-(a)
-
-(b)
-
-**Figure 1.6 (a) Electric field due to** positive charge (b) Electric field due to negative charge
-
-**(v)** In the definition of electric field, it is assumed that the test charge q _0 is taken sufficiently small, so that bringing this test charge will not move the source charge. In other words, the test charge is made sufficiently small such that it will not modify the electric field of the source charge. **(vi)** The expression (1.4) is valid only for point charges. For continuous and finite size charge distributions, integration techniques must be used (Refer Appendix A1.1). However, this expression can be used as an approximation for a finite-sized charge if the test point is very far away from the finite sized source charge. Note that we similarly treat the Earth as a point mass when we calculate the gravitational field of the Sun on the Earth (Refer unit 6, volume 2, XI physics).  
+**(vi)** The expression (1.4) is valid only for point charges. For continuous and finite size charge distributions, integration techniques must be used (Refer Appendix A1.1). However, this expression can be used as an approximation for a finite-sized charge if the test point is very far away from the finite sized source charge. Note that we similarly treat the Earth as a point mass when we calculate the gravitational field of the Sun on the Earth (Refer unit 6, volume 2, XI physics).  
 
 **(vii)** There are two kinds of the electric field: uniform (constant) electric field and non-uniform electric field. Uniform electric field will have the same direction and constant magnitude at all points in space. Non-uniform electric field will have different directions or different magnitudes or both at different points in space. The electric field created by a point charge is basically a non uniform electric field. This non-uniformity arises, both in direction and magnitude, with the direction being radially outward (or inward) and the magnitude changes as distance increases. These are shown in Figure 1.7.
-
-Uniform Electric eld Non uniform electric eld
-
-Non uniform electric eld
-
-Non uniform electric eld
 
 ![Uniform and non-uniform electric field](1.7.png "")
 
@@ -666,330 +497,75 @@ Non uniform electric eld
 
 Calculate the electric field at points P, Q for the following two cases, as shown in the figure.
 
-
-
-
-
-
-| R |
-|------|------|
-
-
-
-
-|------|------|
-| Q |
-  
-
 **(a)** A positive point charge +1 µC is placed at the origin
 
 **(b)** A negative point charge –2 µC is placed at the origin
 
-4m
-
-2m
-
-2m
-
-Q
-
-y
-
-xP+1C **+**
-
-Ep
-
-
-
-Q 6m
-
-y
-
-xP–2C **–**
+![](example1.6.png)
 
 **_Solution_**
 
-**Case (a)** The magnitude of the electric field at
+**Case (a)** The magnitude of the electric field at point P is
 
-point P is
+\\(E _p = \dfrac{1}{4\pi\epsilon _0}\dfrac{q}{r^2} = \dfrac{9×10^9×1×10^{-6}}{4}\\)
 
-_E q rP_ \= =
+\\(= 2.25 × 10^3 NC^{-1}\\)
 
-× × ×
+Since the source charge is positive, the electric field points away from the charge. So the electric field at the point P is given by 
 
-\= ×
+\\(\vec{E}_p = 2.25 × 10^3 \hat{i} NC^{-1}\\)
 
-−
+For the point Q 
 
-−
+\\(|\vec{E} _Q| = \dfrac{9×10^9×1×10^{-6}}{16} = 0.56 × 10^3 NC^{-1}\\)
 
-1 4
-
-9 10 1 10 4
-
-2 25 10 0
-
-2
-
-9 6
-
-3
-
-πe
-
-. NC 1
-
-Since the source charge is positive, the electric field points away from the charge. So the electric field at the point P is given by 
-
-_E iP_ \= × −2 25 103. NC 1
-
-For the point Q 
-
-_EQ_ \= × × ×
-
-\= × −
-
-−9 10 1 10 16
-
-0 56 10 9 6
-
-3\. NC 1
-
-Hence 
-
-_E jQ_ \= × −0 56 103 1.  NC  
+Hence \\(\vec{E} _Q = 0.56 × 10^3 \hat{j} NC^{-1}\\)
 
 **Case (b)**
 
 The magnitude of the electric field at point P
 
-
+\\(|\vec{E}_p| = \dfrac{kq}{r^2} = \dfrac{1}{4\pi\epsilon _0}\dfrac{q}{r^2} = \dfrac{9×10^9×2×10^{-6}}{4}\\)
 
-_E kq r_
+\\(= 4.5 × 10^3 NC^{–1}\\)
 
-_q rP_ \= = =
+Since the source charge is negative, the electric field points towards the charge. So the electric field at the point P is given by 
 
-× × × −
+\\(\vec{E} _P= −4.5 × 10^3 \hat{i} NC^{-1} \\)
 
-2 0
+For the point Q, \\(|\vec{E} _Q|  = \dfrac{9×10^9×2×10^{-6}}{36}\\)
 
-2
+\\(= 0.5 × 10^3 NC^{-1}\\)
 
-9 61 4
+At the point Q the electric field is directed along the positive x-axis.
 
-9 10 2 10 4πe
-
-\= 4.5 × 103 NC–1
-
-Since the source charge is negative, the electric field points towards the charge. So the electric field at the point P is given by 
-
-_E iP_ \=− × −4 5 103. NC 1 
-
-For the point Q, 
-
-_EQ_ \= × × × −9 10 2 10
-
-36
-
-9 6
-
-\= 0.5 × 103 NC–1
-
-
-
-_E iQ_ \= × −0 5 103. NC 1
-
-At the point Q the electric field is directed along the positive _x_\-axis.
-
-4m
-
-2m
-
-Q
-
-_y_
-
-_x_P+1C **+**
-
-Ep
-
-
-
-EQ
-
-
-
-Q 2m6m
-
-_y_
-
-_x_P–2C **–**
-
-Ep
-
-
-
-EQ
-
-
-
-
-
-
-
-
-| +Q4mE2m+1C Pp |
-|------|------|
-
-
-
-| Case (b)The  magnitude  of  the  electric  field  at point P kq 1 q 91××02 ×10E == =r 4πe r 4       = 4.5 × 10  NC96 −Since t he s ource c harge i s n egative, t he P 2 2electric f ield p oin0ts t owards t he c harge. S o 3 –1the electric field at the point P is given byEi =− 45.  ×10  NCFor the point Q, P 3 E −=1 91××02 ×10                                        = 0.5 × 1036 NC96 −Ei =×05.  10  NCQ3 –1At t he p oint Q t he e lectric f ield i s directed along the positive x-axis.3 −1QEy+QQ4mE2m+1C P xpy–EE6m 2mQQ –2C P xp |
-|------|
-
-
-
-
-
-
-  
+![](example1.6b.png)
 
 ### Electric field due to the system of point charges
 
 Suppose a number of point charges are distributed in space. To find the electric field at some point P due to this collection of point charges, superposition principle is used. **The electric field at an arbitrary point due to a collection of point charges is simply equal to the vector sum of the electric fields created by the individual point charges. This is called superposition of electric fields**.
 
-Consider a collection of point charges _q q n_1 2 3, , .........._q q_ located at various points in space. The total electric field at some point P due to all these _n_ charges is given by
+Consider a collection of point charges \\(q _1 ,q _2 ,q _3,.....,q _n\\) located at various points in space. The total electric field at some point P due to all these *n* charges is given by
 
-    
+\\(\vec{E} _{tot} = \vec{E} _1 + \vec{E} _2 + \vec{E} _3 + ...... +\vec{E} _n\\) --->(1.6)
 
-_E E E E Etot n_\= + + + +1 2 3 ....... (1.6)
+\\(\vec{E} _{tot} = \dfrac{1}{4\pi\epsilon} (\dfrac{q _1}{r _{1p}^2}\hat{r} _{1p} + \dfrac{q _2}{r _{2p}^2}\hat{r} _{2p} + \dfrac{q _3}{r _{3p}^2}\hat{r} _{3p} + .... + \dfrac{q _n}{r _{np}^2}\hat{r} _{np} ) \\) ---> (1.7)
 
-
+where \\(r _{1P} , r _{2P} , r _{3P} ..........r _{nP}\\) are the distance of the the charges \\(q _1 , q _2 , q _3 ..........q _n\\) from the point P respectively. Also \\(\hat{r} _{1P} , \hat{r} _{2P} , \hat{r} _{3P} .......... \hat{r} _{nP}\\) are the corresponding unit vectors directed from \\(q _1 , q _2 , q _3 ..........q _n\\) to P. Equation (1.7) can be re-written as,
 
-_E q r_
+\\( \vec{E} _{tot} = \dfrac{1}{4\pi\epsilon _0} \displaystyle\sum _{i=1}^n (\dfrac{q _i}{r _{ip}^2}\hat{r} _{ip})\\)
 
-_r q r_
+For example in Figure 1.8, the resultant
+electric field due to three point charges
+\\(q _1 , q _2 , q _3\\) at point P is shown.
 
-_r q r_
+Note that the relative lengths of the electric
+field vectors for the charges depend on relative
+distances of the charges to the point P.
 
-_rtot P_
+![Superposition of Electric field](1.8.png)
 
-_P P_
-
-_P P_
-
-_P_\= + + +   
-
-
-
-1 4 0
-
-1
-
-1 2 1
-
-2
-
-2 2 2
-
-3
-
-3 2 3πe
-
-   ...
-
-....+   
-
-
-
-_q r_
-
-_rn_
-
-_nP nP_2 
-
-(1.7)
-
-where _r P P P nP_1 2 3, , .........._r r r_ are the distance of the the charges _q n_1 2 3, , .........._q q q_ from the point P respectively. Also_r r r rP P P nP_   1 2 3, , .......... are the corresponding unit vectors directed from _q n_1 2 3, , .........._q q q_ to P. Equation (1.7) can be re-written as,
-
-
-
-
-
-_E q r_
-
-_rtot i_
-
-_iP iP_
-
-_i_
-
-_n_
-
-\= 
-
- 
-
-
-
- =
-
-∑1 4 2
-
-1πe  (1.8)
-
-For example in Figure 1.8, the resultant electric field due to three point charges _q q q_1 2 3, , at point P is shown.
-
-Note that the relative lengths of the electric field vectors for the charges depend on relative distances of the charges to the point P.  
-
-E2P E3P= E1P+
-
-_q2_
-
-_q1_
-
-_r1P r2P_
-
-_r3Pq3_ P
-
-+
-
-E3P
-
-
-
-E3P
-
-
-
-Etot
-
-
-
-Etot
-
-
-
-E2P
-
-
-
-E2P
-
-
-
-  
-
-E1P
-
-
-
-**+**
-
-**+**
-
-**+**
-
-**Figure 1.8 Superposition of Electric field**
+todo
 
 **EXAMPLE 1.7**
 
