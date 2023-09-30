@@ -1,5 +1,5 @@
 ## Dev
 
 ```sh
-./hugow server --themesDir ../
+hugo server --themesDir ../
 ```
