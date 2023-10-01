@@ -38,409 +38,177 @@ In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in
 
 ### Displacement current and Maxwell’s correction to Ampere's circuital law
 
-**Induced magnetic field** Faraday’s law of electromagnetic
+In unit 4, we studied Faraday’s law of electromagnetic induction which states that the change in magnetic field produces an electric field. Mathematically
 
-induction states that the change in magnetic field produces an electric field. Mathematically, it is written as
+![Alt text](image-1.png)
+where ΦB is the magnetic flux and ¶
+¶t is the partial derivative with respect to time. 
+Equation (5.1) means that the electric field E is induced along a closed loop by the changing magnetic flux ΦB in the region encircled by the loop. Now the question asked by James Clerk Maxwell is ‘Is converseof this statement true?’ Answer is ‘yes’. He showed that the change in electric field also produces magnetic field which is
+![Alt text](image-2.png)
 
-_E dl d dt_
+where ΦB is the electric flux. This is known as Maxwell’s law of induction, which explains that the magnetic field B induced along a closed loop by the changing electric flux ΦE in the region encircled by that loop. This in turn, explains the existence of radio waves, gamma rays, infrared rays, etc.
+In order to understand how the changing electric field produces magnetic field, let us 
+consider a situation of ‘charging a parallel plate capacitor’ shown in Figure 5.3 Assume that the medium in between the capacitor plates is a non-conducting medium.
 
-_d dt_
+![Alt text](image-3.png)
 
-_B dA l_
+**Figure 5.3** charging of capacitor 
 
-_B S_
+The electric current passing through 
+the wire is the conduction current IC. This current generates magnetic field around the wire (refer Unit 3) connected across the capacitor. Therefore, when a magnetic needle is kept near the wire, deflection is observed. In order to compute the strength of magnetic field at a point, we use Ampere's circuital law (from Unit 3) which states that 
+‘the line integral of the magnetic field Baround any closed loop is equal to µo times the net current I threading through the area enclosed by the loop’. Ampere's law in 
+equation form is
+ 
+ B d  l I t
+l
+∫ ⋅ = µ ( ) (5.3)
+where µo is the permeability of free space
 
-− −==∫ ∫Φ. . (5.1)
+![Alt text](image-4.png)
+**Figure 5.4** Applying Ampere's circuital law - loop enclosing surface
 
-Electric field
-
-induced along a closed loop
-
-Variation of magnetic flux
-
-with time
-
-Changing magnetic flux ΦB in the region enclosed by the loop
-
-where ΦB is the magnetic flux and _d dt_
-
-is
-
-the total derivative with respect to time. Equation (5.1) means that the electric field 
-
-_E_ is induced along a closed loop by the changing magnetic flux ΦB in the region encircled by the loop.
-
-
-
-
-  
-
-From symmetry considerations, James Clerk Maxwell showed that the change in electric field also produces a magnetic field which is given by
-
-_B dl d dt_
-
-_d dt_
-
-_E dA l_
-
-_E S_
-
-\= − −=∫ ∫Φ. . (5.2)
-
-Magnetic field induced along a closed loop
-
-Variation of electric flux with time
-
-Changing electric flux ΦE in the region enclosed by the loop
-
-where ΦE is the electric flux. This is known as **Maxwell’s law of induction** which explains that the magnetic field
-
-
-
-_B_ is induced along a closed loop by the changing electric flux ΦE in the region encircled by that loop. This symmetry between electric and magnetic fields explains the existence of electromagnetic waves such as radio waves, gamma rays, infrared rays etc.
-
-**Displacement current − Maxwell’s correction**
-
-In order to understand how the changing electric field induces magnetic field, let us consider a situation of charging a parallel plate capacitor which contains non−conducting medium between the plates.
-
-Let a time−dependent current _ic_, called conduction current be passed through the wire to charge the capacitor.
-
-![Applying Ampere's circuital law - loop enclosing surface](5.3.png "")
-
-_S1_
-
-_iC iC_
-
-_P_
-
-Amperian loop
-
-\+ –  
-
-Ampere’s circuital law can be used to find the magnetic field produced around the current carrying wire.
-
-To calculate the magnetic field at a point _P_ near the wire and outside the capacitor, let us draw a circular Amperian loop which encloses the circular surface _S1_ (Figure 5.3). Using Ampere’s circuital law for this loop, we get
-
-   _B dl iC_⋅ =∫ µ0
-
-enclosing S1
-
-(5.3)
-
-where µo is the permeability of free space.
-
-![Applying Ampere's circuital law - loop enclosing surface _S2_](5.4.png "")
-
-_S2_
-
-_P_
-
-_iC iC_\+ –
-
-Amperian loop
-
-Now, the same loop is enclosed by balloon shaped surface _S2_ such that boundaries of two surfaces _S1_ and _S2_ are same but the shape of the surfaces is different (Figure 5.4). As Ampere’s law applied for a given closed loop does not depend on the shape of the enclosing surface, the integrals should give the same answer. But by applying Ampere’s circuital law for the surface _S2_, we get
-
-   _B dl_⋅ =∫ 0
-
-enclosing S2
-
+To calculate the magnetic field at a point P near the wire as shown in Figure 5.4, let us draw an amperian loop (circular loop) which encloses the surface S1(circular 
+surface). Therefore, using Ampere'scircuital law (equation 5.3), we get 
+ 
+ B dl I
+S
+C ∫ ⋅ = µ0
+1
 (5.4)
 
-The right hand side of equation is zero because the surface _S2_ nowhere touches the wire carrying conduction current and further, there is no current flowing between
 
-
-
-
-  
-
-the plates of the capacitor (gap between the plates). So the magnetic field at a point _P_ is zero. Hence there is an inconsistency between equations (5.3) and (5.4).
-
-Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time−varying electric field (or time−varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor (Figure 5.5).
-
-![Applying Gauss’s law between the plates of the capacitor](5.5.png "")
-
-_S2_
-
-_E_ →
-
-_iC iC_
-
-_P_
-
-\+ –
-
-_id_
-
-From Gauss’s law of electrostatics, the electric flux between the plates of the capacitor is
-
-Φ_E S_
-
-_E dA EA q_ \= ⋅ = =∫
-
- 
-
-  e
-
-where _A_ is the area of the plates of capacitor. The change in electric flux is given by
-
-( ) or_E_
-
-_o_
-
-_E o_
-
-_E d o_
-
-_d 1 dq= dt dt_
-
-_ddq = dt dt_
-
-_di = dt_
-
-Φ
-
-Φ
-
-Φ
-
-e
-
-e
-
-e
-
-(5.5)  
-
-where _d dq = i dt_
-
-is known as displacement
-
-current or Maxwell’s displacement current.
-
-The **displacement current can be defined as the current which comes into play in the region in which the electric field (or the electric flux) is changing with time**. In other words, whenever the change in electric field takes place, displacement current is produced.
-
-Maxwell modified Ampere's law as
-
-0 0
-
-0 0
-
-\[ \]_c d l_
-
-_E c 0_
-
-_l_
-
-_B.dl = i = i +i_
-
-_dB.dl = i + dt_
-
-µ µ
-
-Φµ µ
-
-∫
-
-∫
-
- 
-
- 
-
-
-
-
-
-e
-
-(5.6)
-
-where the total current enclosed by the surface becomes the sum of conduction current and displacement current. Therefore, = +_c di i i_ . The equation (5.6) is known as **Ampere− Maxwell law**. When the current in the circuit is constant, the displacement current is zero.
-
-Between the plates, the conduction current is zero while the displacement current is non−zero. This displacement current or time−varying electric field can also produce a magnetic field between the plates of the capacitor. The magnetic field at a point inside the capacitor is perpendicular to the electric field and is shown in Figure 5.6. This magnetic field can be determined using equation (5.6).
-
-**Figure 5.6 Magnetic field produced by** conduction and displacement currents
-
-\+ –_iC_
-
-_id_
-
-_iC E_ →
-
-_B_ →
-
-_B_ →
-
-_B_ →
-
-
-
-
-
-
-| d Φ=      dtdq= edt Ei= edo |
-|------|
-
-
-  
-
-**Importance of Maxwell’s correction:** Earth receives radiations from Sun and
-
-other stars. These radiations travel through empty space where there are no electric charges and hence no electric current. Ampere’s law says that only electric current can produce a magnetic field. If Ampere’s law alone is true, there will not be any radiation.
-
-Maxwell’s correction term _E 0 0_
-
-_d dt_
-
-µ Φ    
-
-e
-
-in Ampere’s law ensures that time−varying electric field or displacement current can also produce a magnetic field. Though conduction current is zero in an empty space, displacement current does exist. So, the equation (5.6) becomes
-
-E 0
-
-d dt0
-
-_l_
-
-_B.dl =_ Φµ∫  
-
-
-
-e
-
-In stars, due to thermal excitation of atoms, time−varying electric field is produced which in turn, produces time− varying magnetic field. According to Faraday’s law, this time−varying magnetic field produces again time−varying electric field and so on. The coupled time−varying electric and magnetic fields travel through empty space with the speed of light and is called electromagnetic wave.
-
-Even though Maxwell initially started with purely symmetry argument, his correction term explains one of the important aspects of the universe, namely the existence of electromagnetic waves.
-
-**Displacement current** The name stuck because Maxwell named it. The word
-
-displacement is poorly chosen because nothing is being displaced here.
-
-**Note**  
+where Ic is the conduction current.
+
+Suppose the same loop is enclosed by 
+balloon shaped surface S2 as shown in 
+Figure 5.5. This means that the boundaries of two surfaces S1and S2
+are same but shape of the enclosing surfaces are different (first surface (S1) is circular in shape and second 
+one is balloon shaped surface (S2)). As the Ampere’s law applied for a given closed loop does not depend on shape of the enclosing surface, the integrals will give the same 
+answer. But by applying Ampere’s circuital law (equation 5.3), we get
+
+![Alt text](image-5.png)
+**Figure 5.5** Applying Ampere's circuital law - loop enclosing surface S2
+
+∫ 0
+enclosing S2
+ (5.5)
+
+The right hand side of equation is 
+zero because the surface S2no where 
+touches the wire carrying conduction 
+current and further, there is no current in between the plates of the capacitor (there is a discontinuity). So the magnetic field at a point P is zero. Hence there is an inconsistency between equation (5.4) and equation (5.5). J. C.Maxwell resolved this 
+inconsistency as follows:
+Due to external source (battery or cell), the capacitor gets charged up because of current flowing through the capacitor. This produces an increasing electric field 
+between the capacitor plates. Sothere must be a current associated with the changing electric field in between the capacitor plates. In other words, the time varying electric flux (or time varying electric field) existing 
+
+---
+
+**Note**
+
+Displacement current
+The name stuck because 
+Maxwell named it. The word 
+displacement is poorly chosen because 
+nothing is being displaced here
+
+---
+between the plates of the capacitor also produces a current known as displacement current.
+
+![Alt text](image-8.png)
+
+**Figure 5.6** Applying Gauss’s law between the plates of the capacitor
+
+From Gauss’s law (refer Unit 1), the electric flux between the plates of the capacitor (Figure 5.6) is 
+
+ΦE E dA EA q = ⋅ ∫∫ = =  
+
+ε0
+
+where A is the area of the plates of capacitor. The change in electric flux is 
+d
+dt
+dq
+dt
+dq
+dt
+I d
+dt
+E
+d
+Φ Φ
+= ⇒ = = E 1
+ε
+ε
+
+
+
+where Id is known as displacement current. 
+
+The displacement current can be defined s the current which comes into play in the region in which the electric field and the electric flux are changing with time. In other words, whenever the change in electric field takes place, displacement current 
+is produced. Maxwell modified Ampere's law as
+
+
+∫ ⋅ = µ µ = + ( ) (5.6)
+where I = Ic+ Id which means the totalcurrent enclosed by the surface is sum of conduction current and displacement current. When a constant current is applied, 
+displacement current Id= 0 and hence Ic= I. Between the plates, the conduction current Ic= 0 and hence Id= I.
 
 **EXAMPLE 5.1**
 
-Consider a parallel plate capacitor which is connected to an 230 V RMS value and 50 Hz frequency. If the separation distance between the plates of the capacitor and area of the plates are 1 mm and 20 cm2
+Consider a parallel plate capacitor which is maintained at potential of 200 V. If the separation distance between the plates of the capacitor and area of the plates are 1 
+mm and 20 cm2. Calculate the displacement current for the time in µs.
 
-respectively. Calculate the displacement current at _t_ = 1 s.
+**Solution**
 
-**_Solution_**
+Potential difference between the plates of the capacitor, V = 200 V 
+The distance between the plates
 
-Potential difference between the plates of the capacitor, _V_ = _Vmax_ sin2p_ft_
+d = 1 mm = 1 × 10-3 m
 
-\= 230 2 sin(2p × 50_t_)
+Area of the plates of the capacitor, 
+A = 20 cm2 = 20 × 10-4 m
 
-∴ =_V t_325 100sin π
+Time is given in micro-second, µs = 10-6 s
 
-_d_ = 1 mm = 1 × 10–3 m _A_ = 20 cm2 = 20 × 10–4 m2
+Displacement current 
+I d
+dt
+I EA
+t d
+B = ⇒ ε ε   d = Φ
 
-Displacement current, _i d dt_
+But electric field, E V
+d =
 
-_d_(EA) _dtd_
-
-_E_\= = e Φ
-
-e 
-
-∴ = 
-
-   
-
-  
-
-\= 
-
-  
-
-
-
-  
-
-\=
-
-\=
-
-_i A_
-
-_d dV dt_
-
-_E V d_
-
-_A d_
-
-_t_
-
-_d_ e
-
-e
-
-0
-
-0 325 100 100
-
-
-
-( )( ) cosπ π
-
-8 85 10 20 10 325 100 3 14 100 1
-
-1 12 4. . cos( )
-
-× × × × × × × ×
-
-
-
- 
-
-
-
- 
-
+Therefore,
+I V
+d
+I VA
+t d = =d = × ×
+× ×
+× ×
+= ×
+−
+−
 − −
-
-π ×( )
-
-\= × × =
-
 −
+ε 8 85 10 200 20 10
+10 1 10
+35400 10
+12
+4
+6 3
+7
+.
+= 3 5. mA
 
-−
+### **Maxwell’s equations in integral form**
 
-10
+Electrodynamics can be summarized into four basic equations, known as Maxwell’s equations. These equations are analogous to Newton’s equations in mechanics. Maxwell’s equations completely explain the behaviour of charges, currents and properties of electric and magnetic fields. These equations can be written in integral form (or integration form) or derivative form (or differentiation form). The differential form of Maxwell’s equation is beyond higher secondary level because we need to learn additional mathematical operations like curl of vector 
+fields and divergence of vector fields. So we 
+focus here only in integral form of Maxwell’s equations:
 
-1 81 10 100 1 1
+1. First equation is nothing but the Gauss’s law. It relates the net electric flux to net electric charge enclosed in a surface. Mathematically, it is expressed as
 
-3
-
-6\. \[ cos( ) \]A=1.81 Aµ π
-
-### Maxwell’s equations in integral form
-
-Electrodynamics can be summarized in four basic equations, known as Maxwell’s equations. These equations are analogous to Newton’s equations in mechanics. Maxwell’s equations completely explain the behaviour of charges, currents and properties of electric and magnetic fields. These equations can be written in integral form (or integration form) or derivative form (or differential form). The
-
-
-
-
-
-
-| EXAMPLE 5 . 1Consider a p arallel p late c apacitor w hich is co nnected t o a n 230 V RMS va lue a nd 50 Hz frequency. If the separation distance between t he p lates o f t he c apacitor a nd area o f t he p lates a re 1  mm a nd 20 cmrespectively. C alculate  the di splacement current at t = 1 s. 2 SolutionPotential difference between the plates of the capacitor, V = V sin2pft= 230  sin(2p × 50t)2∴=Vt 325 sin100πmax d = 1 mm = 1 × 10  mA = 20 cm  = 20 × 10  mDisplacement current, –3dΦ d(EA)2 –4 i ==2 e edt dt∴=i edA dVdt   E =d Vd   E e A= ()325 ()100ππcos 100 td0 ()d= ××8880.10051××0231.c 4××01os××()1000 π 3251  1××10=×18.[ 11 0 −−A=12 1.81 µπA 4  cos(100 ×=11)]−3−6 |
-|------|
-
-
-
-
-
-
-  
-
-differential form of Maxwell’s equation is beyond higher secondary level. So we focus only the integral form of Maxwell’s equations.
-
-**First equation** It is nothing but the Gauss’s law of
-
-electricity. It relates the net electric flux to net electric charge enclosed in a surface. Mathematically, it is expressed as
 
  
 
@@ -456,14 +224,11 @@ _s_
 
 (5.7)
 
-where 
-
-_E_ is the electric field and Q enclosed is the net charge enclosed by the surface S. This equation is true for both discrete and continuous distribution of charges.
+where _E_ is the electric field and Q enclosed is the net charge enclosed by the surface S. This equation is true for both discrete and continuous distribution of charges.
 
 It also indicates that the electric field lines start from positive charge and terminate at negative charge. This implies that the electric field lines do not form a continuous closed path. In other words, it means that an isolated positive charge or negative charge can exist.
 
-**Second equation** This law is similar to Gauss’s law for
-
+2. Second equation has no name. But  This law is similar to Gauss’s law for
 electricity. So this law can also be called as Gauss’s law for magnetism. The surface integral of magnetic field over a closed surface is zero. Mathematically,
 
    _B dA s_
@@ -478,9 +243,7 @@ _B_ is the magnetic field. This equation implies that the magnetic
 
 lines of force form a continuous closed path. In other words, it means that no isolated magnetic monopole exists.  
 
-**Third equation** It is Faraday’s law of electromagnetic
-
-induction. This law relates electric field with the changing magnetic flux which is mathematically written as
+3. Third equation  is Faraday’s law of electromagnetic induction. This law relates electric field with the changing magnetic flux which is mathematically written as
 
    _E dl d_
 
@@ -494,9 +257,7 @@ _E_ is the electric field. This equation implies that the line integral of the e
 
 Our modern technological revolution is due to Faraday’s laws of electromagnetic induction.
 
-**Fourth equation** It is modified Ampere’s circuital law.
-
-This is also known as Ampere – Maxwell law. This law relates the magnetic field around any closed path to the conduction current and displacement current through that path.
+4. Fourth equation It is modified Ampere’s circuital law.This is also known as Ampere – Maxwell law. This law relates the magnetic field around any closed path to the conduction current and displacement current through that path.
 
       _B dl i d_
 
@@ -514,143 +275,182 @@ _s_
 
 where 
 
-_B_ is the magnetic field. This equation shows that both conduction current and displacement current produce magnetic field.
-
-These four equations are known as Maxwell’s equations in electrodynamics. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
-
-
-
-
-  
+_B_ is the magnetic field. This equation shows that both conduction current and displacement current produce magnetic field.These four equations are known as Maxwell’s equations in electrodynamics. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
 
 ## ELECTROMAGNETIC WAVES
 
 **Electromagnetic waves are non- mechanical waves which move with speed equals to the speed of light (in vacuum).** It is a transverse wave. In the following subsections, we discuss the production of electromagnetic waves and its properties, sources of electromagnetic waves and also classification of electromagnetic spectrum.
 
-### Production and properties of electromagnetic waves
-
-**Production of electromagnetic waves - Hertz experiment**
+### Production and properties of electromagnetic waves Production of electromagnetic waves - Hertz experiment**
 
 Maxwell’s prediction was experimentally confirmed by Heinrich Rudolf Hertz in 1888. The experimental set up used is shown in Figure 5.7 (b).
 
 It consists of two metal electrodes which are made of small spherical metals. These are connected to larger spheres and the ends of them are connected to induction coil with very large number of turns. This is to produce very high electromotive force (emf).
 
-![(a) Heinrich Rudolf Hertz (b) S](5.7.png "")
-
-(a) (b)  
+![Alt text](image-9.png)
+**Figure 5.7** Hertz experiment (a) Heinrich Rudolf Hertz (1857 – 1894) (b) Hertz apparatus
 
 Since the coil is maintained at very high potential, air between the electrodes gets ionized and spark (spark means discharge of electricity) is produced. This discharge of electricity affects another electrode (ring type — not completely closed) which is kept at far distance. This implies that the energy is transmitted from electrode to the receiver (ring electrode) in the form of waves, known as electromagnetic waves.
 
 If the receiver is rotated by 90°, then no spark is observed by the receiver. This confirms that electromagnetic waves are transverse waves as predicted by Maxwell. Hertz detected radio waves and also computed the speed of radio waves which is equal to the speed of light (3 × 108 m s–1).
 
-**Properties of electromagnetic waves** 1\. Electromagnetic waves are produced
+**Properties of electromagnetic waves** 
 
-by any accelerated charge. 2. Electromagnetic waves do not
+1\. Electromagnetic waves are produced
+by any accelerated charge. 
 
-require any medium for propagation. So electromagnetic wave is a non-mechanical wave.
+2 Electromagnetic waves do not require any medium for propagation. So electromagnetic wave is a non-mechanical wave.
 
-3\. Electromagnetic waves are transverse in nature. The oscillating electric field
-
-chematic diagram of Hertz apparatus
-
-Input
-
-Transmitter
-
-Receiver
-
-Induction coil
-
-_q_ –_q_ **\+ \_**
-
-**\+ \_**
+3\. Electromagnetic waves are transverse in nature. This means that the oscillating electric field vector, oscillating magnetic 
+field vector and propagation vector 
+(gives direction of propagation) are 
+mutually perpendicular to each other
 
 
+The electric and magnetic fields are in the y and z directions respectively and the direction of propagation is along x direction. This is shown in Figure 5.8. 
+
+4\. Electromagnetic waves travel with 
+speed which is equal to the speed 
+of light in vacuum or free space, 
+
+c = = ×
+1 3 108
+ε µ 
+ms-1, where εo
+ is the
+ 
+permittivity of free space or vacuum 
+and µo is the permeability of free space or vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
+
+5. In a medium with permittivity ε 
+and permeability µ, the speed of 
+electromagnetic wave is less than 
+speed in free space or vacuum, that is, v < c. In a medium of refractive index
 
 
-  
+ε µ
+εµ
+= = ⇒ =µ ε µ
+c
+v r r
+1
+1
+  , where εr is 
+
+the relative permittivity of the medium (also known as dielectric constant) and µr is the relative permeability of the medium.
+
+6\. Electromagnetic waves are not 
+deflected by electric field or magnetic 
+field
+
+
 
 ![Electromagnetic waves – transverse wave](5.8.png "")
 
-**E**
 
-**Direction of propagation**
-
-
-
-**B** 
-
-**_y_**
-
-**_x_**
-
-**_z_**
-
-vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to each other. For example, if the electric and magnetic fields are as shown in Figure 5.8, then the direction of propagation will be along x-direction.
-
-4\. Electromagnetic waves travel with speed which is equal to the speed of light in vacuum or free space,
-
-_c_\= = × −1 3 108
-
-e  
-
-µ ms 1, where eo is the
-
-permittivity of free space or vacuum and µo is the permeability of free space or
-
-• It is surprising to realize that EM momentum like particles. In the ye for the invention of optical tweezers
-
-• Optical tweezer is nothing but a laser lig molecules from one location to another locati field. The bacteria and virus can alone be sep tweezer and cancerous cells can be separated fr utilizes momentum property of EM waves. • In fact, the comet has tail shape because momentum which pushes the masses of the co • Angular momentum of EM waves can be u oppositely-charged coaxial cylindrical shells and in is flowing through it and when the current in the outer cylindrical shells start to rotate in opposite di the impart of angular momentum from the electro  
-
-vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
-
-5\. In a medium with permittivity ε and permeability _µ_, the speed of electromagnetic wave _v_ is less than that in free space or vacuum (_v_ < _c)_.
-
-In a medium of refractive index,
-
-_n c n r r_\= = ∴ =
-
-_v_
-
-1
-
-1 e
-
-e
-
-e 
-
-µ
-
-µ
-
-µ
-
-where er is the relative permittivity of the medium (also known as dielectric constant) and µr is the relative permeability of the medium.
-
-6\. Electromagnetic waves are not deflected by electric field or magnetic field.
 
 7\. Electromagnetic waves can exhibit interference, diffraction and polarization.
 
-8\. Like other waves, electromagnetic waves also carry energy, linear momentum and angular momentum.
+8\.The energy density (energy per 
+unit volume) associated with an 
+electromagnetic wave propagating in 
+vacuum or free space is 
+u E = + B 1
+2
+1
+2
+2 2 ε
+µ 
+
+ where, 1
+2
+2 εE u = E is the energy density 
+in an electric field and 1
+2 0
+2
+µ
+B u = B is 
+the energy density in a magnetic field.
+ Since, E = Bc ⇒ uB = uE
+.
+ The energy density of the 
+electromagnetic wave is 
+u E = = ε B
+µ 0
+2
+0
+1 2
 
-waves have linear momentum and angular ar 2018, Nobel prize in physics was awarded and production of high intense light pulses. ht, used to move micro sized particles or
+9\. The average energy density 
+for electromagnetic wave, 
+u E = = B 1
+2
+1
+2
+2 2 1
+ε
+µ 
+
 
-on. It has a lot of applications in the medical arated from regular tissue using this optical om normal healthy cells. The optical tweezer
+10\. The energy crossing per unit area per unit time and perpendicular 
+to the direction of propagation of 
+electromagnetic wave is called the 
+intensity. 
+ Intensity, I u = c or
+I = ×
+total electromagneticenergy (U)
+Surfacearea (A) time(t)
+= Power (P)
+Surfacearea (A)
 
-the sun light impart large amount of linear met away from the sun. nderstood in simple way. Consider a setup of between them a solenoid is kept. An AC current solenoid is reduced to zero, then the inner and rections. The rotation of these cylinders is due to magnetic field produced by the AC current.
+![Alt text](image-10.png)
 
+11\. Like other waves, electromagnetic waves also carry energy and momentum. For the electromagnetic wave of energy U propagating with speed c has linear momentum which
 
+is given by = = Energy
+speed
+U
+c
+. The force 
+exerted by an electromagnetic wave on 
+unit area of a surface is called radiation 
+pressure.
 
+12\. If the electromagnetic wave incident on a material surface is completely absorbed, then the energy delivered is U and momentum imparted on the surface is p
+U
+c = .
 
+13\. If the incident electromagnetic wave of energy U is totally reflected from the surface, then the momentum delivered to the surface is ∆p
+U
+c
+U
+c
+U
+c = − −
+
+
+
+
+
+
+
+
+
+= 2 . 
 
+14\. The rate of flow of energy crossing a unit area is known as pointing vector for electromagnetic waves, which is 
+  
+
+ S E = × ( ) B c = × ( ) E B 1 2
+µ
+ε . 
+The unit for 
+pointing vector is W m-2. The pointing 
+vector at any point gives the direction 
+of energy transport from that point. 
 
-| yDirection ofpropagationx |
-|------|------|------|------|------|------|------|------|------|------|------|------|------|
-| B |
-
-| Figure 5.8 Electromagnetic waves – transverse wave |
-  
+15\. Electromagnetic waves carries not only energy and momentum but also 
+angular momentum. 
 
 **EXAMPLE 5.2**
 
@@ -668,30 +468,9 @@ _n r r_\= = × =e µ 2 25 2 5 2 37. . .
 
 ### Sources of electromagnetic waves
 
+**Figure 5.9** Oscillating charges - sources of electromagnetic waves
+
 Any stationary charge produces only electric field (refer Unit 1). When the charge moves with uniform velocity, it produces steady current which gives rise to magnetic field (not time dependent, only space dependent) around the conductor in which charge flows. If the charged
-
-**Figure 5.9 Oscillating charges - sources of e**
-
-**Propagation of an Electromagnetic Wave**
-
-
-
-Source
-
-Elec e
-
-vect
-
-Magnetic eld
-
-vectors
-
-Discharging spark or
-
-oscillating molecular
-
-dipole  
-
 particle accelerates, it produces magnetic field in addition to electric field. Both electric and magnetic fields are time varying fields. Since the electromagnetic waves are transverse waves, the direction of propagation of electromagnetic waves is perpendicular to the planes containing electric and magnetic field vectors.
 
 Any oscillatory motion is also an accelerated motion. So, when the charge oscillates (oscillating molecular dipole) about their mean position (Figure 5.9), it produces electromagnetic waves.
@@ -720,43 +499,6 @@ where _E_o and _B_o are amplitudes of oscillating electric and magnetic field, _
 
 ld ors
 
-
-
-
-
-
-| EXAMPLE 5 . 2The r elative m agnet ic p er meabilityof t he m edium i s 2.5 a nd t he r elativeele ctric al p er mittivity o f t he m edium i s2.25.  C ompute  the  ref rac tive  index  of  themedium.SolutionDielectric co nstant (r elative p ermittivity of the medium), e  = 2.25 Magnetic permeability, µ  = 2.5 Refractive index of the medium, rn == e µ 22.. 52×=52 r .37rr |
-|------|
-
-
-
-
-
-
-|------|------|
-
-  
-
-wave and _k_ (unit vector, here it is called propagation vector) denotes the direction of propagation of electromagnetic wave.
-
-Note that both electric field and magnetic field oscillate with a frequency (frequency of electromagnetic wave) which is equal to the frequency of the source (here, oscillating charge is the source for the production of electromagnetic waves). In free space or in vacuum, the ratio between _Eo_ and _Bo_ is equal to the speed of electromagnetic wave and is equal to speed of light _c_.
-
-_c E B_
-
-\= 
-
-
-
-In any medium, the ratio of _E_o and _B_o is equal to the speed of electromagnetic wave in that medium. Thus
-
-_v_ \= < _E B_
-
-_c_
-
-
-
-Further, the energy of electromagnetic waves comes from the energy of the oscillating charge.
-
 **EXAMPLE 5.3**
 
 Compute the speed of the electromagnetic wave in a medium if the amplitude of electric and magnetic fields are 3 × 104 N C–1 and 2 × 10–4 T, respectively.
@@ -779,80 +521,42 @@ _v_ \= × ×
 
 ### Electromagnetic spectrum
 
+![Alt text](image-11.png)
+
 **Figure 5.10 Electromagnetic spectrum -**
 
-Radio
 
-Microwave
+Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency (Figure 5.10). 
 
-Wavelength
+**Radio waves**
 
-Energy
+They are produced by accelerated motion of charges in conducting wires. The frequency range is from a few Hz to 109 Hz. They show reflection and diffraction.They are used in radio and television communication systems and also in cellular phones to transmit voice communication in the ultra high frequency band. 
 
-1 cm = 10,000,000 nanometers
+**Microwaves**
 
-0.000000248
+It is produced by special vacuum tubes such as klystron, magnetron and gunndiode. The frequency range of microwaves is 109 Hz to 1011 Hz.These waves undergo reflection and can be polarised.It is used in radar system for aircraft navigation, speed of the vehicle, microwave oven for cooking and very long distance wireless communication through satellites.
 
-5,000,000,000
+ **Infrared radiation**
 
-0.124 2.48 4.96 2480 2,480,000 electron volts
+It is produced by hot bodies (also known as heat waves) and also by when the molecules undergoing rotational and vibrational transitions. The frequency range is 1011 Hz to 4 × 1014 Hz.it provides electrical energy to satellites by means of solar cells. It is used to produce dehydrated fruits, in green houses to keep the plants warm, heat therapy for muscular pain or sprain, TV remote as a signal carrier, 
+to look through haze fog or mist and used in night vision or infrared photograph.
 
-10,000 500 250 0.5 0.0005 nanometers
-
-Infrared Visible
-
-light UV
-
-X-Ray
-
-Gamma
-
-Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency (Figure 5.10). **Radio waves**
-
-They are produced by accelerated motion of charges in conducting wires. The frequency range is from a few Hz to 109 Hz. They show reflection and diffraction.
-
-They are used in radio and television communication systems and also in cellular phones to transmit voice communication in the ultra high frequency band. **Microwaves**
-
-It is produced by special vacuum tubes such as klystron, magnetron and gunndiode. The frequency range of microwaves is 109 Hz to 1011 Hz.These waves undergo reflection and can be polarised.
-
-It is used in radar system for aircraft navigation, speed of the vehicle, microwave oven for cooking and very long distance wireless communication through satellites. **Infrared radiation**
-
-It is produced by hot bodies (also known as heat waves) and also by when the molecules undergoing rotational and vibrational transitions. The frequency range is 1011 Hz to 4 × 1014 Hz.
-
-It provides electrical energy to satellites by means of solar cells. It is used to produce
-
-
-
-
-
-
-| EXAMPLE 5 . 3Compute  the s peed  of t he  electromagnetic wave in a m edium if t he a mplitude o f electric and magnetic fields are 3 × 10 N Cand 2 × 10  T, respectively.Solution4 –1The amplitude of the electric field, –4E  = 3 × 10  N CThe a mplitude o f t he m agnetic f ield, B  = 2 × 10  T . Th erefore, s peed o f t he electromag4netic wa –1 ve in that medium is o–4o 31× 0v = =×15. 10 ms21× 0481 −−4 |
-|------|
-
-
-  
-
-dehydrated fruits, in green houses to keep the plants warm, heat therapy for muscular pain or sprain, TV remote as a signal carrier, to look through haze fog or mist and used in night vision or infrared photography. **Visible light**
+**Visible light**
 
 It is produced by incandescent bodies and also it is radiated by excited atoms in gases. The frequency range is from 4 × 1014 Hz to 8 × 1014 Hz.
 
-It obeys the laws of reflection and refraction. It undergoes interference, diffraction and can be polarised. It exhibits photo-electric effect also. It can be used to study the structure of molecules, arrangement of electrons in external shells of atoms. It causes sensation of vision. **Ultraviolet radiation**
+It obeys the laws of reflection and refraction. It undergoes interference, diffraction and can be polarised. It exhibits photo-electric effect also. It can be used to study the structure of molecules, arrangement of electrons in external shells of atoms. It causes sensation of vision.
 
-It is produced by Sun, arc and ionized gases. Its frequency range is from 8 × 1014 Hz to 1017 Hz.
+**Ultraviolet radiation**
 
-**Measuring the speed of light using the micro** Nowadays the microwave oven is very commo of wavelengths 1 mm to 30 cm are produced in waves between the interior walls of the oven. I can be measured using micro wave oven.
+It is produced by Sun, arc and ionized gases. Its frequency range is from 8 × 1014 Hz to 1017 Hz.  It has less penetrating power. It can be absorbed by atmospheric ozone and is harmful to human body. It is used to destroy bacteria in sterilizing the surgical instruments, burglar alarm, to detect the invisible writing, finger prints and also in the study of atomic structure.
 
-**(a) (b)**
+![Alt text](image-12.png)
 
-**Hot Hot Hot Hot Hot**
+**X-rays** 
 
-We studied about the standing waves in XI phy have nodes and antinodes at fixed points. At n and at antinodes point, the amplitude is maxim microwaves is located at antinode points. Whe choclate (after removing the rotating platform) locations, chappathi will be burnt more than o and (d). The distance between two successive microwave. The frequency of microwave is printe and frequency of microwaves, using the formula
 
-**Activ**  
-
-It has less penetrating power. It can be absorbed by atmospheric ozone and is harmful to human body. It is used to destroy bacteria in sterilizing the surgical instruments, burglar alarm, to detect the invisible writing, finger prints and also in the study of atomic structure.
-
-**X-rays** It is produced when there is sudden
+It is produced when there is sudden
 
 stopping of high speed electrons at high- atomic number target, and also by electronic transitions among the innermost orbits of atoms. The frequency range of X-rays is from 1017 Hz to 1019 Hz.
 
