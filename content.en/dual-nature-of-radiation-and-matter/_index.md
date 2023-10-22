@@ -1,6 +1,8 @@
 ---
 title: 'Dual Nature of Radiation and Matter'
 weight: 8
+extensions:
+    - katex
 ---
 
 ---

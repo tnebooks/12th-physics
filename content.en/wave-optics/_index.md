@@ -1,6 +1,8 @@
 ---
 title: 'Wave Optics'
 weight: 7
+extensions:
+    - katex
 ---
 
 ```

@@ -1,6 +1,8 @@
 ---
 title: 'Electromagnetic Waves'
 weight: 5
+extensions:
+    - katex
 ---
 
 # Electromagnetic Waves

@@ -1,6 +1,8 @@
 ---
 title: 'Current Electricity'
 weight: 2
+extensions:
+    - katex
 ---
 
 

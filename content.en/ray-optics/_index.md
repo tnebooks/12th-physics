@@ -1,6 +1,8 @@
 ---
 title: 'Ray Optics'
 weight: 6
+extensions:
+    - katex
 ---
 
   

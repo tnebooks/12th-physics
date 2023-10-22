@@ -1,6 +1,8 @@
 ---
 title: 'Recent Developments in Physics'
 weight: 11
+extensions:
+    - katex
 ---
 
   

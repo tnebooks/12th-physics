@@ -1,6 +1,8 @@
 ---
 title: 'Electronics and Communication'
 weight: 10
+extensions:
+    - katex
 ---
 
   

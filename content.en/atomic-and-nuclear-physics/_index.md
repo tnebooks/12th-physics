@@ -1,6 +1,8 @@
 ---
 title: 'Atomic and Nuclear Physics'
 weight: 9
+extensions:
+    - katex
 ---
 
   
