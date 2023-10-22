@@ -5068,7 +5068,8 @@ circuit, the current in the circuit reaches its maximum value. Then the circuit 
 | Resistance        | R                                                          | 0<sup>o</sup>                                            | 1               |
 | Inductance        | X<sub>L</sub> = ωL                                         | 90<sup>o</sup> lag                                     | 0               |
 | Capacitance       | X<sub> C </sub> = 1/ωC                                     | 90<sup>o</sup>  lead                                  | 0               |
-| R- L - C          | {{< katex display >}}\sqrt{R^2+(ωL-1/ωC)^2} {{< /katex >}} | Between 0<sup>o</sup> and 90<sup>o</sup> lag or lead | Between 0 and 1 |
+| R- L - C          | {{</*/* katex [display] [class="text-center"] */*/>}} \sqrt{R^2+(ωL-1/ωC)^2} {{</*/* /katex */*/>}} | Between 0<sup>o</sup> and 90<sup>o</sup> lag or lead | Between 0 and 1 |
+
 
 Resonant angular frequency, ω_r LC_ \=
 
