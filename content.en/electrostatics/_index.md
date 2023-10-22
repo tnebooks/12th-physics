@@ -130,11 +130,11 @@ According to the quantisation of charge,
 
 Here *q* = 1C. So the number of electrons in 1 coulomb of charge is
 
-{{< katex display >}} n = \frac{q}{e} = \frac{1C}{1.6 × 10^{–19}} = 6.25 × 10^{18}{{< /katex >}} electrons  
+\\( n = \frac{q}{e} = \frac{1C}{1.6 × 10^{–19}} = 6.25 × 10^{18}\\) electrons  
 
 ## COULOMB’S LAW
 
-In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges {{< katex display >}}q _1{{< /katex >}} and \\(q _2\\) at rest in vacuum, and separated by a distance of *r* as shown in Figure 1.2. According to Coulomb, the force on the point charge \\(q _2 \\)exerted by another point charge \\(q _1\\) is
+In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges \\(q _1\\) and \\(q _2\\) at rest in vacuum, and separated by a distance of *r* as shown in Figure 1.2. According to Coulomb, the force on the point charge \\(q _2 \\)exerted by another point charge \\(q _1\\) is
 
 \\( \vec {F}_{21} = k \frac{q_1q_2}{r^2} \hat{r}_{12} \\)(1.2)
 

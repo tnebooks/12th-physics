@@ -151,7 +151,7 @@ The image formed by the plane mirror for extended object is shown in Figure 6.4(
 
 **Table 6.1 Image by inclined mirrors**
 
-| {{< katex display >}} \frac{360}{\theta} {{< /katex >}} | The position of object placed | Number of images n                                              |
+| \\( \frac{360}{\theta} \\) | The position of object placed | Number of images n                                              |
 |---------------------------------------------------------|-------------------------------|-----------------------------------------------------------------|
 | Even                                                    | Symmetrical                   | n = \\( \frac{360}{\theta} - 1 \\) |
 |                                                         | Unsymmetrical                 | n = \\( \frac{360}{\theta} - 1 \\) |
