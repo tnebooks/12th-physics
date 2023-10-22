@@ -5068,7 +5068,7 @@ circuit, the current in the circuit reaches its maximum value. Then the circuit 
 | Resistance        | R                                                          | 0<sup>o</sup>                                            | 1               |
 | Inductance        | X<sub>L</sub> = ωL                                         | 90<sup>o</sup> lag                                     | 0               |
 | Capacitance       | X<sub> C </sub> = 1/ωC                                     | 90<sup>o</sup>  lead                                  | 0               |
-| R- L - C          | {{</*/* katex [display] [class="text-center"] */*/>}} \sqrt{R^2+(ωL-1/ωC)^2} {{</*/* /katex */*/>}} | Between 0<sup>o</sup> and 90<sup>o</sup> lag or lead | Between 0 and 1 |
+| R- L - C          |  {{< katex display >}}\sqrt{R^2+(ωL-1/ωC)^2}{{< /katex >}}  | Between 0<sup>o</sup> and 90<sup>o</sup> lag or lead | Between 0 and 1 |
 
 
 Resonant angular frequency, ω_r LC_ \=
@@ -5459,14 +5459,6 @@ where _V IRMS RMS_ is called apparent power and cos _ϕ_ is power factor. The av
 
 | EXAMPLE 4 . 2 4Find the instantaneous value of alternating voltage volt  at  i)  0 s v =×10sin(31π 0 t)ii) 50 μs iii) 75 μs.()SolutionThe given equation is  4v =×10sin 31π 0 t(i) At t = 0 s, υ =°10sin 00 = V 4(ii) At t = 50 µs, ()v =×10sin 31π 05××01 0=×10sin150π 1046 ×180π −°==°10sin(270 ) =×10 −1−2(iii) At t = 75 µs,=− 10  V()v =×10sin 31π 07××51 0=×10sin225π 1046 ×180π −°==°10sin(405 )s=°10 in 45−2=×10 1 =7 .07  V2 |
 |------|
-
-
-
-
-
-
-
-
 
 | The current in an inductive circuit is given by0.3 sin (200t – 40°) A. Write the equation forthe voltage across it if the inductance is 40 mH.SolutionL    = 40 × 10 H; i = 0.3 sin (200t – 40 )X   = ωL = 200 × 40 × 10  = 8 ΩV = I X  = 0.3 × 8 = 2.4 V–3  oIn a n in ductive cir cuit, t he v olta–3thLe current by 90 . Therefore,m m L()sin ω 90°()in()200t o40°+ 90°in 200t 50° V |
 |------|------|------|------|
@@ -6121,8 +6113,8 @@ There are two forms of energy involved in _LC_ oscillations. One is electrical e
 |             | **LC oscillator**                                                                     |             | **Spring-mass system**                                                               |
 |-------------|---------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------|
 | **Element** | **Energy**                                                                            | **Element** | **Energy**                                                                           |
-| Capacitor   | Electrical Energy = {{< katex display >}} \frac{1}{2}(\frac{1}{C})q^2{{< /katex >}}   | Spring      | Potential energy = {{< katex display >}} \frac{1}{2}k x^2 {{< /katex >}}             |
-| Inductor    | Magnetic energy = {{< katex display >}} \frac{1}{2}Li^2 i=\frac{dq}{dt}{{< /katex >}} | Mass        | Kinetic energy = {{< katex display >}} \frac{1}{2}mv^2 v=\frac{dx}{dt}{{< /katex >}} |
+| Capacitor   | Electrical Energy =  \\( \frac{1}{2}(\frac{1}{C})q^2\\)    | Spring      | Potential energy = \\( \frac{1}{2}k x^2 \\)             |
+| Inductor    | Magnetic energy = \\( \frac{1}{2}Li^2 i=\frac{dq}{dt}\\) | Mass        | Kinetic energy = \\( \frac{1}{2}mv^2 v=\frac{dx}{dt}\\) |
 
 
 Likewise, the mechanical energy of the spring-mass system exists in two forms; the potential energy of the compressed or extended spring and the kinetic energy of the mass. The Table 4.2 lists these two pairs of energy.
@@ -6142,12 +6134,12 @@ From Table 4.3, _k C_→ 1 and _m L_→ . Therefore, the angular frequency of _L
 | **Electrical system**                                                                                         | **Mechanical system**                                                                        |
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Charge q                                                                                                      | Displacement x                                                                               |
-| Current i = {{< katex display >}} \frac{dq}{dt}{{< /katex >}}                                                 | Velocity v = {{< katex display >}} \frac{dx}{dt}{{< /katex >}}                               |
+| Current i = \\( \frac{dq}{dt}\\)                                                 | Velocity v = \\( \frac{dx}{dt}\\)                               |
 | Inductance L                                                                                                  | Mass m                                                                                       |
-| Reciprocal of capacitance {{< katex display >}} \frac{1}{C}{{< /katex >}}                                     | Force constant k                                                                             |
-| Electrical energy = {{< katex display >}} \frac{1}{2}(\frac{1}{C}q^2){{< /katex >}}                           | Potential energy = {{< katex display >}} \frac{1}{2}k x^2{{< /katex >}}                      |
-| Magnetic energy = {{< katex display >}} \frac{1}{2}Li^2{{< /katex >}}                                         | Kinetic energy = {{< katex display >}} \frac{1}{2}mv^2{{< /katex >}}                         |
-| Electromagnetic energy  U = {{< katex display >}} \frac{1}{2}(\frac{1}{C})q^2 + \frac{1}{2}Li^2{{< /katex >}} | Mechanical energy E = {{< katex display >}} \frac{1}{2}k x^2 + \frac{1}{2}mv^2{{< /katex >}} |
+| Reciprocal of capacitance \\( \frac{1}{C}\\)                                     | Force constant k                                                                             |
+| Electrical energy = \\( \frac{1}{2}(\frac{1}{C}q^2)\\)                           | Potential energy = \\( \frac{1}{2}k x^2\\)                      |
+| Magnetic energy = \\( \frac{1}{2}Li^2\\)                                         | Kinetic energy = \\( \frac{1}{2}mv^2\\)                         |
+| Electromagnetic energy  U = \\( \frac{1}{2}(\frac{1}{C})q^2 + \frac{1}{2}Li^2\\) | Mechanical energy E = \\( \frac{1}{2}k x^2 + \frac{1}{2}mv^2\\) |
 
 
 

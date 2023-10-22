@@ -134,9 +134,9 @@ Here *q* = 1C. So the number of electrons in 1 coulomb of charge is
 
 ## COULOMB’S LAW
 
-In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges \\(q _1\\) and \\(q _2\\) at rest in vacuum, and separated by a distance of *r* as shown in Figure 1.2. According to Coulomb, the force on the point charge \\(q _2 \\)exerted by another point charge \\(q _1\\) is
+In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges {{< katex display >}}q _1{{< /katex >}} and \\(q _2\\) at rest in vacuum, and separated by a distance of *r* as shown in Figure 1.2. According to Coulomb, the force on the point charge \\(q _2 \\)exerted by another point charge \\(q _1\\) is
 
-{{< katex display >}} \vec {F}_{21} = k \frac{q_1q_2}{r^2} \hat{r}_{12} {{< /katex >}}(1.2)
+\\( \vec {F}_{21} = k \frac{q_1q_2}{r^2} \hat{r}_{12} \\)(1.2)
 
 where \\(\hat{r} _{12}\\) is the unit vector directed from charge \\(q _1\\) to charge \\(q _2\\) and *k* is the proportionality constant.
 
@@ -200,7 +200,7 @@ They are separated by a distance of 1m. Calculate the force experienced by the t
 
 **(b)** \\(q _1 = +2 μC and q _2 = –3 μC\\)
 
-**(c)** \\(q _1= +2 μC and q _2 = –3 μC kept in water (\epsilon _r = 80)\\)  
+**(c)** \\(q _1= +2 μC and q _2 = –3 μC kept in water (\epsilon _r = 80\\))  
 
 **_Solution_**
 
@@ -248,7 +248,7 @@ The directions of \\(\vec {F} _{21}\\) and \\(\vec {F} _{12} \\)are shown in the
 the water, then the force experienced by q<sub>2</sub>
 due to q<sub>1</sub>
 
-\\(\vec {F} _{21}^{W}\\) =\\(\dfrac{1}{4\pi\epsilon}\\)\\(\dfrac{q_1q_2}{r^2}\\)\\(\hat{r} _{12}\\)
+\\(\vec {F} _{21}^{W}\\) =\\(\dfrac{1}{4\pi\epsilon}\\\\)(\dfrac{q_1q_2}{r^2}\\\\)(\hat{r} _{12}\\)
 
 since \\(\epsilon = {\epsilon}_r {\epsilon}_o\\)
 
@@ -281,7 +281,7 @@ The free body diagram is shown below.
 In the x-direction, the acceleration of
 the charged sphere is zero.
 
-Using Newton’s second law  \\((\vec {F} _{tot} = m \hat{a})\\) we have
+Using Newton’s second law  \\((\vec {F} _{tot} = m \hat{a}\\)) we have
 
 \\(T sin\theta \hat{i} - F_{e}\hat{i} = 0\\)
 
@@ -455,7 +455,7 @@ The charge q creates an electric field in the surrounding space within which its
 
 \\(\vec{E} = \dfrac{\vec{F}}{q _o} = \dfrac{kq}{r^2} \hat{r} = \dfrac{1}{4\pi\epsilon _o}\dfrac{q}{r^2} \hat{r}\\) --->(1.4)
 
-Here \\(\hat{r}\\) is the unit vector pointing from q to the point of interest P. The electric field is a vector quantity and its SI unit is newton per coulomb \\((NC^{–1})\\).
+Here \\(\hat{r}\\) is the unit vector pointing from q to the point of interest P. The electric field is a vector quantity and its SI unit is newton per coulomb \\((NC^{–1}\\)).
 
 **Important aspects of Electric field**
 
@@ -553,7 +553,7 @@ Consider a collection of point charges \\(q _1 ,q _2 ,q _3,.....,q _n\\) located
 
 where \\(r _{1P} , r _{2P} , r _{3P} ..........r _{nP}\\) are the distance of the the charges \\(q _1 , q _2 , q _3 ..........q _n\\) from the point P respectively. Also \\(\hat{r} _{1P} , \hat{r} _{2P} , \hat{r} _{3P} .......... \hat{r} _{nP}\\) are the corresponding unit vectors directed from \\(q _1 , q _2 , q _3 ..........q _n\\) to P. Equation (1.7) can be re-written as,
 
-\\( \vec{E} _{tot} = \dfrac{1}{4\pi\epsilon _0} \displaystyle\sum _{i=1}^n (\dfrac{q _i}{r _{ip}^2}\hat{r} _{ip})\\)
+\\( \vec{E} _{tot} = \dfrac{1}{4\pi\epsilon _0} \displaystyle\sum _{i=1}^n (\dfrac{q _i}{r _{ip}^2}\hat{r} _{ip}\\))
 
 For example in Figure 1.8, the resultant
 electric field due to three point charges

@@ -151,10 +151,10 @@ The image formed by the plane mirror for extended object is shown in Figure 6.4(
 
 | {{< katex display >}} \frac{360}{\theta} {{< /katex >}} | The position of object placed | Number of images n                                              |
 |---------------------------------------------------------|-------------------------------|-----------------------------------------------------------------|
-| Even                                                    | Symmetrical                   | n = {{< katex display >}} \frac{360}{\theta} - 1 {{< /katex >}} |
-|                                                         | Unsymmetrical                 | n = {{< katex display >}} \frac{360}{\theta} - 1 {{< /katex >}} |
-| Odd                                                     | Symmetrical                   | n = {{< katex display >}} \frac{360}{\theta} - 1 {{< /katex >}} |
-|                                                         | Unsymmetrical                 | n = {{< katex display >}} \frac{360}{\theta}{{< /katex >}}      |
+| Even                                                    | Symmetrical                   | n = \\( \frac{360}{\theta} - 1 \\) |
+|                                                         | Unsymmetrical                 | n = \\( \frac{360}{\theta} - 1 \\) |
+| Odd                                                     | Symmetrical                   | n = \\( \frac{360}{\theta} - 1 \\) |
+|                                                         | Unsymmetrical                 | n = \\( \frac{360}{\theta}\\)      |
 
 
 
