@@ -3,7 +3,7 @@ title: 'Wave Optics'
 weight: 7
 ---
 
----
+```
 **Learning Objectives**
 
 **In this unit, the students are exposed to,** 
@@ -12,8 +12,8 @@ weight: 7
 - The phenomena like interference, diffraction and polarisation.
 - The terms like magnification and resolving power etc ... 
 - The different optical instruments like microscope, telescope etc.
+```
 
----
 
 ## THEORIES ON LIGHT
 
@@ -64,7 +64,7 @@ When a wave propagates it is treated as the propagation of wavefront. The wavefr
 
 The shape of a wavefront observed at a point depends on the shape of the source and also the distance at which the source is located. A point source located at a finite distance gives spherical wavefronts. An extended (or) line source at finite distance gives cylindrical wavefronts. Any source that is located at infinity gives plane wavefront as shown in Figure 7.2.
 
-![Wavefronts  ](7.2.png "")
+![Wavefronts](7.2.png "")
 
 ### Huygens’ Principle
 
@@ -389,7 +389,7 @@ _Condition for dark fringe (or) minima_ The condition for the point _P_ to have 
 
 This is the condition for the point P to have a dark fringe. The distance _yn_ is the distance of the _n_th dark fringe from the point _O_. The formation of bright and dark fringes is shown in Figure 7.14.
 
-![]("")
+
 **Figure 7.14.png Formation of bright and dark fringes**
 
 This shows that on the screen, alternate bright and dark fringes are seen on either side of the central bright fringe. The central bright is referred as 0th bright followed by 1st dark and 1st bright and then 2nd dark and 2nd bright and so on, on either side of _O_ successively as shown in Figure 7.15.
@@ -534,7 +534,7 @@ Diffraction is a characteristic of all waves, including sound waves. **_Diffract
 |2 | Light wave is from a source at finite distance  | Light wave is from a source at infinity  |
 |3| Convex lenses need not be used for laboratory conditions| Convex lenses are to be used in laboratory conditions |
 |4| Difficult to observe and analyse| Easy to observe and analyse |
-|5|![](table7.1a.png) | ![](table7.1b.png)|
+|5|![table 7.1a](table7.1a.png) | ![table7.1b](table7.1b.png)|
 
 This is a violation to the rectilinear propagation of light we have studied in ray optics. But, the diffraction is prominent only when the size of the obstacle is comparable to the wavelength of light. This is the reason why sound waves get diffracted prominently by obstacles like doors, windows, buildings etc. The wavelength of sound wave is large and comparable to the geometry of these obstacles. But the diffraction in light is more pronounced when the obstacle size is of the order of wavelength of light.
 
