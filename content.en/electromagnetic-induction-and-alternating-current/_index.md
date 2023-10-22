@@ -1,6 +1,7 @@
 ---
 title: 'Electromagnetic Induction And Alternating Current'
 weight: 4
+extension: katex
 ---
 
   
