@@ -13,7 +13,7 @@ extensions:
 > “The magnetic force is animate, the human soul while it imitates a soul; in many respects it surpasses s united to an organic body”_ – William Gilbert
 
 
-## **Learning Objectives**
+ **Learning Objectives**
 
 
 **In this unit, the student is exposed to**
@@ -531,7 +531,7 @@ In vector notation,  
 
 (b) a bar magnet cut into two pieces perpendicular to the axis:
 
-![alt](eg-3.2.png)
+![alt](eg_3.2.png)
 
 **S**
 
