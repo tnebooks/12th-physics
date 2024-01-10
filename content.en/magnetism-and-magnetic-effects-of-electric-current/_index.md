@@ -295,6 +295,8 @@ australis (southern lights). These lights are often the magnetic poles of the no
 
 tural lights across the night sky. This ethereal aurora borealis (northern lights) or aurora called as polar lights. The lights are seen above ern hemispheres. They are called as “Aurora he south. This occurs as a result of interaction sphere with highly charged particles released
 
+![Aurora](Aurora.png)
+
 
 
 
@@ -528,6 +530,8 @@ In vector notation,  
  _p pm m_ 1 2
 
 (b) a bar magnet cut into two pieces perpendicular to the axis:
+
+![alt](eg-3.2.png)
 
 **S**
 
@@ -881,7 +885,7 @@ _q_mA _q_mB
 
 ![Coulomb’s law – force between two magnetic poles](3.12.png "")
 
-**EXAMPLE 3.5**
+**EXAMPLE 3.5 Coulomb’s law – force between two magnetic poles**
 
 The repulsive force between two magnetic poles in air is 9 × 10–3 N. If the two poles are equal in strength and are separated by a distance of 10 cm, calculate the pole strength of each pole.
 
@@ -981,6 +985,7 @@ _r + l_
 
 O is the geometrical center of bar magnet
 
+![Magnetic field at a point along th](3.13.png)
 **Figure 3.13 Magnetic field at a point along th**  
 
   _B q_
@@ -1144,6 +1149,7 @@ e axial line due to magnetic dipole
 
 Consider a bar magnet NS as shown in Figure 3.14. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength _qm_ and separated by a distance of 2_l_. The magnetic field at a point C (lies along the equatorial line) at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_ = 1 A m) at C.
 
+![Magnetic field at a point](3.14.png)
 **Figure 3.14 Magnetic field at a point** along the equatorial line due to a magnetic dipole
 
 x axis
@@ -1201,6 +1207,7 @@ _N m_\= ′
 The magnetic field at C due to the south pole is
 
 ![Components of magnetic field](3.15.png "")
+**Figure 3.15 Components of magnetic field**
 
 
 
@@ -1487,6 +1494,7 @@ _θ_
 _O**p m**_
 
 ![Magnetic dipole kept in a uniform magnetic field](3.16.png "")
+**Figure 3.16 Magnetic dipole kept in a uniform magnetic field**
 
 The moment of force or torque experienced by north and south pole about point O is        τ= × + ×_ON F OS FN S_
 
@@ -2038,7 +2046,7 @@ flux from a superconductor during its transition to the superconducting state is
 T > Tc T < Tc
 
 **B**
-
+![Meissner effect](3.18.png)
 **Figure 3.18 Meissner effect –** superconductors behave like perfect diamagnetic materials below transition temperature _TC_**.**
 
 **(b) Paramagnetic materials** In some magnetic materials, each atom or
@@ -2091,6 +2099,7 @@ _m C T_
 χ =
 
 ![Curie’s law – susceptibility vs temperature  ](3.19.png "")
+**Figure 3.19 Curie’s law – susceptibility vs temperature**
 
 **(c) Ferromagnetic materials** An atom or a molecule in a ferromagnetic
 
@@ -2103,6 +2112,7 @@ aligned (b) Domains aligned with
 external eld
 
 ![Magnetic domains – ferromagnetic materials](3.20.png "")
+**Figure 3.20 Magnetic domains – ferromagnetic materials**
 
 In the presence of external magnetic field, two processes take place
 
@@ -2124,6 +2134,7 @@ Magnetized Iron in the presence of a magnetic field.
 **H**
 
 ![Processes of domain magnetization](3.21.png "")
+**Figure 3.21 Processes of domain magnetization**
 
 Magnetism plays interes role in various aspects of life. It
 
