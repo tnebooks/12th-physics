@@ -4,7 +4,10 @@ weight: 8
 extensions:
     - katex
 ---
-
+**UNIT**
+**8 :**
+**Dual Nature of Radiation and Matter**
+-----
 ---
 **Learning Objectives**
 **In this unit, the students are exposed to** 
@@ -22,7 +25,7 @@ extensions:
 -  X-rays spectra and its types
 
 ---
-## **INTRODUCTION**
+## **8.1 INTRODUCTION**
 
 We are familiar with the concepts of particle and wave in our everyday experience. Marble balls, grains of sand, atoms, electrons and so on are some examples of particles while the examples of waves are sea waves, ripples in a pond, sound waves and light waves.
 
@@ -36,13 +39,13 @@ When electrons, protons and other particles are discovered, they are considered 
 
 In this unit, the particle nature of waves (radiation) and the wave nature of particles (matter) – that is, wave-particle duality of radiation and matter is discussed with the relevant experimental observations supporting this dual nature.
 
-### Electron emission
+### **8.1.1 Electron emission**
 
 In metals, the electrons in the outer most shells are loosely bound to the nucleus. Even at room temperature, there are a large number of free electrons which are moving inside the metal in a random manner. Though they move freely inside the metal, they cannot leave the surface of the metal. The reason is that when free electrons reach the surface of the metal, they are attracted by the positive nuclei of the metal. It is this attractive pull which will not allow free electrons to leave the metallic surface at room temperature.
 
 In order to leave the metallic surface, the free electrons must cross a potential barrier created by the positive nuclei of the metal. **The potential barrier which prevents free electrons from leaving the metallic surface is called surface barrier**.
 
-Free electrons possess some kinetic energy and this energy is different for different electrons. The kinetic energy of the free electrons is not sufficient to overcome the surface barrier. Whenever an additional energy is given to the free electrons, they will have sufficient energy to cross the surface barrier and they escape from the metallic surface**. The liberation of electrons from any surface of a substance is called** **electron emission**.  
+Free electrons possess some kinetic energy and this energy is different for different electrons. The kinetic energy of the free electrons is not sufficient to overcome the surface barrier. Whenever an additional energy is given to the free electrons, they will have sufficient energy to cross the surface barrier and they escape from the metallic surface**. The liberation of electrons from any surface of a substance is called **electron emission**.  
 
 **The minimum energy needed for an electron to escape from the metal surface is called work function of that metal**. The work function of the metal is denoted by φ0 and is measured in electron volt (eV).
 
@@ -79,6 +82,8 @@ So the metal selected for electron emission should have low work function. The e
 When a metal is heated to a high temperature, the free electrons on the surface of the metal get sufficient energy in the form of thermal energy so that they are emitted from the metallic surface (Figure 8.1). This type of emission is known as **thermionic emission**.
 
 ![Electrons in the (a) metal (b) heated metal](8.1.png "")
+**Figure 8.1 Electrons in the (a) metal 
+(b) heated metal**
 
 The intensity of the thermionic emission (the number of electrons emitted) depends on the metal used and its temperature. **Examples:** cathode ray tubes, electron microscopes, x-ray tubes etc (Figure 8.2).
 
@@ -89,20 +94,26 @@ The intensity of the thermionic emission (the number of electrons emitted) depen
 very strong electric field is applied across the metal. This strong field pulls the free electrons and helps them to overcome the surface barrier of the metal (Figure 8.3). **Examples:** Field emission scanning electron microscopes, Field-emission display etc.
 
 ![Field emission](8.3.png "")
+**Figure 8.3 Field emission**
+
 **(iii) Photo electric emission** 
 
 When an electromagnetic radiation of suitable frequency is incident on the surface of the metal, the energy is transferred from the radiation to the free electrons. Hence, the free electrons get sufficient energy to cross the surface barrier and the photo electric emission takes place (Figure 8.4). The number of electrons emitted depends on the intensity of the incident radiation. **Examples:** Photo diodes, photo electric cells etc.
 
 ![Photo electric emission](8.4.png "")
+**Figure 8.4 Photo electric emission**
 
 **(iv) Secondary emission** 
 
 When a beam of fast moving electrons strikes the surface of the metal, the kinetic energy of the striking electrons is transferred to the free electrons on the metal surface. Thus the free electrons get sufficient kinetic energy so that the secondary emission of electron occurs (Figure 8.5). **Examples:** Image intensifiers, photo multiplier tubes etc.
+
 ![Secondary emission of electrons  ](8.5.png "")
+**Figure 8.5 Secondary emission of electrons**
 
-## PHOTO ELECTRIC EFFECT
 
-### Hertz, Hallwachs and Lenard’s observation
+## **8.2 PHOTO ELECTRIC EFFECT**
+
+### **8.2.1 Hertz, Hallwachs and Lenard’s observation**
 
 **Hertz observation** 
 
@@ -132,11 +143,16 @@ Further, if the negatively charged zinc plate is exposed to ultraviolet light, t
 ![ ](8.6.png "")
 **Figure 8.6 Irradiation of ultraviolet light on (a) uncharged zinc plate (b) negatively charged plate (c) positively charged plate**
 
+
+
 **Lenard’s observation** 
+
 In 1902, Lenard studied this electron emission phenomenon in detail. His simple experimental setup is shown in Figure 8.7. The apparatus consists of two metallic plates _A_ and _C_ placed in an evacuated quartz bulb. The galvanometer _G_ and battery _B_ are connected in the circuit.
 ![](8.7.png "")
 **FIgure 8.7 Experimental setup of Lenard**
-When ultraviolet light is incident on the negative plate _C_, an electric current flows in the circuit that is indicated by the deflection in the galvanometer. On other hand, if the positive plate is irradiated by the ultraviolet light, no current is observed in the circuit.
+
+When ultraviolet light is incident on the negative plate _C_, an electric current flows in the circuit that is indicated by the deflection in the galvanometer. On other hand, if the positive plate is irradiated by the ultraviolet light, no current is observed 
+in the circuit.
 
 From these observations, it is concluded that when ultraviolet light falls on the negative plate, electrons are ejected from it which are attracted by the positive plate _A_. On reaching the positive plate through the evacuated bulb, the circuit is completed and the current flows in it. Thus, the ultraviolet light falling on the negative plate causes the electron emission from the surface of the plate.
 
@@ -146,7 +162,7 @@ The ejection of electrons from a metal plate when illuminated by light or any ot
 
 Metals like cadmium, zinc, magnesium etc show photoelectric emission with ultraviolet light while some alkali metals lithium, sodium, caesium respond well even to larger wavelength radiation like visible light. The materials which eject photoelectrons upon irradiation of electromagnetic wave of suitable wavelength are called **photosensitive materials**.
 
-### Effect of intensity of incident light on photoelectric current
+### **8.2.2 Effect of intensity of incident light on photoelectric current**
 
 **Experimental setup** 
 
@@ -154,6 +170,7 @@ The apparatus shown in Figure 8.8 is employed to study the phenomenon of photoel
 
 ![](8.8.png "")
 **Figure 8.8 Experimental setup for the study Of Photoelectronic effect**
+
 the cathode (negative electrode) made up of photosensitive material and is used to emit electrons. The anode (positive electrode) _A_ collects the electrons emitted from _C_. These electrodes are kept in an evacuated glass envelope with a quartz window that permits the passage of ultraviolet and visible light.
 
 The necessary potential difference between _C_ and _A_ is provided by high tension battery _B_ which is connected across a potential divider arrangement _PQ_ through a key _K_. _C_ is connected to the centre terminal while _A_ to the sliding contact _J_ of the potential divider. The plate _A_ can be maintained at a desired positive or negative potential with respect to _C_. To measure both positive and negative potential of _A_ with respect to _C_, the voltmeter is designed to have its zero marking at the centre and is connected between _A_ and _C_. The current is measured by a micro ammeter _mA_ connected in series.
@@ -168,6 +185,7 @@ To study the effect of intensity of incident light on photoelectric current, the
 
 ![](8.9.png "")
 **Figure 8.9 Variation of photocurrent with intensity**
+
 A graph is drawn between light intensity along x-axis and the photocurrent along y-axis. From the graph in Figure 8.9, it is evident that _photocurrent – the number of electrons emitted per second – is directly proportional to the intensity of the incident light_.  
 
 ---
@@ -177,7 +195,7 @@ Here, intensity of light means brightness. A bright light has more intensity tha
 
 ---
 
-### Effect of potential difference on photoelectric current
+### **8.2.3 Effect of potential difference on photoelectric current**
 
 To study the effect of potential difference _V_ between the electrodes on photoelectric current, the frequency and intensity of the incident light are kept constant. Initially the potential of _A_ is kept positive with respect to _C_ and the cathode is irradiated with the given light.
 
@@ -188,6 +206,7 @@ When a negative (retarding) potential is applied to _A_ with respect to _C_, the
 When the negative (retarding) potential of _A_ is gradually increased, the photocurrent starts to decrease because more and more photoelectrons are being repelled away from reaching the electrode _A_. The photocurrent becomes zero at a particular negative potential _V_0, called stopping or cut-off potential.
 ![](8.10.png "")
 **Figure 8.10 Variation of photocurrent with potential difference**
+
 **Stopping potential** is that value of the negative (retarding) potential given to the collecting electrode _A_ which is just sufficient to stop the most energetic photoelectrons emitted and make the photocurrent zero.
 
 At the stopping potential, even the most energetic electron is brought to rest. Therefore, the initial kinetic energy of the fastest electron (_K_max) is equal to the work done by the stopping potential to stop it (_eV_0).
@@ -198,7 +217,7 @@ From the Figure 8.10, when the intensity of the incident light alone is increase
 
 Thus, for a given frequency of the incident light, the stopping potential is independent of intensity of the incident light. This also implies that _the maximum kinetic energy of the photoelectrons is independent of intensity of the incident light_.
 
-### Effect of frequency of incident light on stopping potential
+### **8.2.4 Effect of frequency of incident light on stopping potential**
 
 To study the effect of frequency of incident light on stopping potential, the intensity of the incident light is kept constant. The variation of photocurrent with the collecting electrode potential is studied for radiations of different frequencies and a graph drawn between them is shown in Figure 8.11. From the graph, it is clear that stopping potential vary over different frequencies of incident light.
 ![](8.11.png "")
@@ -206,9 +225,10 @@ To study the effect of frequency of incident light on stopping potential, the in
 Greater the frequency of the incident radiation, larger is the corresponding stopping potential. This implies that _as the frequency is increased, the photoelectrons are emitted with greater kinetic energies so that the retarding potential needed to stop the photoelectrons is also greater_.
 ![](8.12.png "")
 **Figure 8.12 Variation of stopping potential with frequency of the incident radiation for two metals**
+
 Now a graph is drawn between frequency of incident radiation and the stopping potential for different metals (Figure 8.12). From this graph, it is found that stopping potential varies linearly with frequency. Below a certain frequency called threshold frequency, no electrons are emitted; hence stopping potential is zero for that reason. But as the frequency is increased above threshold value, the stopping potential varies linearly with the frequency of incident light.
 
-### Laws of photoelectric effect
+### **8.2.5 Laws of photoelectric effect**
 
 The above detailed experimental investigations of photoelectric effect revealed the following results: 
 i) For a given metallic surface, the emission of photoelectrons takes place only if the frequency of incident light is greater than a certain minimum frequency called the threshold frequency.
@@ -219,9 +239,12 @@ v) There is no time lag between incidence of light and ejection of photoelectron
 
 Once photoelectric phenomenon has been thoroughly examined through various experiments, the attempts were made to explain it on the basis of wave theory of light.
 
-### Concept of quantization of energy
+### **8.2.6 Concept of quantization of energy**
 
-**Failures of classical wave theory** From Maxwell’s theory (Refer unit 5 of volume 1), we learnt that light is an electromagnetic wave consisting of coupled electric and magnetic oscillations that move with the speed of light and exhibit typical wave behaviour. Let us try to explain the experimental observations of photoelectric effect using wave picture of light.
+
+**Failures of classical wave theory**
+
+ From Maxwell’s theory (Refer unit 5 of volume 1), we learnt that light is an electromagnetic wave consisting of coupled electric and magnetic oscillations that move with the speed of light and exhibit typical wave behaviour. Let us try to explain the experimental observations of photoelectric effect using wave picture of light.
 
 **(i)** When light is incident on a metallic surface, there is a continuous supply of energy to the electrons in the metal surface. According to wave theory, light of greater intensity should impart greater kinetic energy to the liberated electrons (Here, Intensity of light is the energy delivered per unit area per unit time).But this does not happen. The experiments show that maximum kinetic energy of the photoelectrons emitted does not depend on the intensity of the incident light.
 
@@ -238,13 +261,17 @@ Thus, the experimental observations of photoelectric emission could not be expla
 For the photoelectric emission from cesium, show that wave theory predicts that
 
 **(i)** maximum kinetic energy of the photoelectrons (_K_max) depends on the intensity _I_ of the incident light
+
 **(ii)** _K_max does not depend on the frequency of the incident light and
+
 **(iii)** the time interval between the incidence of light and the ejection of photoelectrons is very long.  
 
 For the sake of simplicity, the following standard assumptions can be made when light is incident on the given material.
 
 (a) Light is absorbed in the top atomic layer of the metal
+
 (b) For a given element, each atom absorbs an equal amount of energy and this energy is proportional to its cross-sectional area _A_
+
 (c) Each atom gives this energy to one of the electrons.
 
 (Given : The work function for cesium is 2.14 eV and the power absorbed per unit area is 1 60 10 6 2. × − −Wm which produces a measurable photocurrent in cesium.)
@@ -308,6 +335,7 @@ If we reduce the frequency of the incident light, the speed or kinetic energy of
 
 where _ν_0 is the threshold frequency. By rewriting the equation (8.6), we get
 The equation (8.7) is known as **Einstein’s photoelectric equation**.
+![](8.25.png "")
 
 If the electron does not lose energy by internal collisions, then it is emitted with maximum kinetic energy _K_max. Then where _v_max is the maximum velocity of the electron ejected. The equation (8.6) is rearranged as follows:
 ![_K_max vs _ν_ graph](8.14.png "")
@@ -533,8 +561,14 @@ Calculate the momentum and the de Broglie wavelength in the following cases:
 
 _Solution:_
 **(i)** Momentum of the electron is
+![](8.27.png "")
 
-**Magnified images of some objects:**
+
+
+![](8.26.png "")
+
+![](8.29.png "")
+
 
 Formulas 
 From these calculations, we notice that electron has significant value of de Broglie wavelength (≈10–9m which can be measured from diffraction studies) but moving bullet and car have negligibly small de Broglie wavelengths associated with them (≈10–33m and 10–39m respectively, which are not measurable by any experiment). This implies that the wave nature of matter is important at the atomic level but it is not really relevant at the macroscopic level.
@@ -645,6 +679,7 @@ Since x-rays can kill diseased tissues, they are employed to cure skin diseases,
 X-rays are used to check for flaws in welded joints, motor tyres, tennis balls and wood. At the custom post, they are used for detection of contraband goods.
 
 **(4)Scientific research** 
+![](8.30.png "")
 
 X-ray diffraction is important toolto study the structure of the crystalline materials – that is, the arrangement of atoms and molecules in crystals.
 
@@ -694,3 +729,21 @@ proportional to the intensity of the incident light.
 - Whenever fast moving electrons fall on the materials, a highly penetrating radiations, namely x-rays, are emitted.
 - Continuous x-ray spectrum consists of radiations of all possible wavelengths with a certain minimum wavelength λ 0 .
 - Characteristic x-ray spectra show some narrow peaks at some well–defined wavelengths when the target is hit by fast electrons.
+
+![](8.31.png "")
+
+![](8.32.png "")
+
+![](8.33.png "")
+
+![](8.34.png "")
+
+![](8.35.png "")
+
+**BOOK FOR REFERENCES**
+1. Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth 
+Edition, McGraw Hill Education (India) Private Limited.
+2. H.S. Mani and G.K. Mehta, Introduction to Modern Physics, Affiliated East-West Press 
+Pvt. Ltd.
+3. H.C.Verma, Concepts of Physics, Volume 1 and 2, BharathiBhawan publishers. 
+4. Halliday, Resnick and Walker, Principles of Physics, Wiley publishers. 
