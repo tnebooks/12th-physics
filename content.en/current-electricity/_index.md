@@ -7,52 +7,135 @@ extensions:
 
 
 
-**U N I T**
+**UNIT 2**
+CURRENT ELECTRICITY
+---
 
-**2** CURRENT
+We will make electricity so cheap that only the rich will burn candles 
+– `Thomas A. Edison`
 
-**In this unit, the student is exposed to** • Flow of charges in a metallic conductor
+![Learning Objectives](learningObjectives.png)
+<!-- 
+Learning Objectives
+
+**In this unit, the student is exposed to**
+
+• Flow of charges in a metallic conductor
 
 • Ohm’s law, electrical resistance, V-I characteris
 
 • Carbon resistors and combination of resistors
 
-• Kirchhoff ’s laws - Wheatstone’s bridge and its a
+• Kirchhoff ’s laws - Wheatstone’s bridge and its applications
 
 • Electric power and Electric energy
 
 • Heating effect - Joule’s law – applications
 
-• Thermoelectric effects – Seebeck effect – Peltie
+• Thermoelectric effects – Seebeck effect – Peltie effect – Thomson effect -->
 
-_We will make electric_
-
-**Learning Objectives**
 
 **INTRODUCTION**  
+![Introduction Bulb Image](2.1.2.png "w-50 float-end")
 
-ELECTRICITY
+In unit 1, we studied the properties of charges
+when they are at rest. In reality, the charges are always moving within the materials. For example, the electrons in a copper wire are never at rest and are continuously in random motion. Therefore it is important to analyse the behaviour of charges when they are in motion. The motion of charges constitutes ‘electric current’. Current electricity is the study of flow of electric charges. It owes its origin to Alessandro Volta (1745-1827), who invented the electric battery which produced the first steady flow of electric current. Modern world depends heavily on the use of electricity. It is used to operate machines, communication systems, electronic devices, home appliances etc., In this unit, we will study about the electric current, resistance and related phenomenon in materials.
 
-tics
-
-pplications
-
-r effect – Thomson effect
-
-_ity so cheap that only the rich will burn candles_ – Thomas A. Edison
-
-In unit 1, we studied the properties of charges when they are at rest. In reality, the charges are always moving within the materials. For example, the electrons in a copper wire are never at rest and are continuously in random motion. Therefore it is important to analyse the behaviour of charges when they are in motion. The motion of charges constitutes ‘electric current’. Current electricity is the study of flow of electric charges. It owes its origin to Alessandro Volta (1745-1827), who invented the electric battery which produced the first steady flow of electric current. Modern world depends heavily on the use of electricity. It is used to operate machines, communication systems, electronic devices, home appliances etc., In this unit, we will study about the electric current, resistance and related phenomenon in materials.
-
-
-
-
-  
 
 ## ELECTRIC CURRENT
 
-Matter is made up of atoms. Each atom consists of a positively charged nucleus with negatively charged electrons moving around the nucleus. Atoms in metals have one or more electrons which are loosely bound to the nucleus. These electrons are called free electrons and can be easily detached from the atoms. The substances which have an abundance of these free electrons are called conductors. These free electrons move randomly throughout the conductor at a given temperature. In general due to this random motion, there is no net transfer of charges from one end of the
+Matter is made up of atoms. Each atom consists of a positively charged nucleus with negatively charged electrons moving around the nucleus. Atoms in metals have one or more electrons which are loosely bound to the nucleus. These electrons are called free electrons and can be easily detached from the atoms. The substances which have an abundance of these free electrons are called conductors. These free electrons move randomly throughout the conductor at a given temperature. In general due to this random motion, there is no net transfer of charges from one end of the conductor to other end and hence no current in the conductor. When a potential difference is applied by the battery across the ends of the conductor, the free electrons drift towards the positive terminal of the battery, producing a net electric current. This is easily understandable from the analogy given in the Figure 2.1. 
 
-![Water current and Electric curren](2.1.png "")
+In the XI Volume 2, unit 6, we studied, that the mass move from higher gravitational potential to lower gravitational potential. Likewise, positive charge flows from region 
+of higher electric potential to region of lower electric potential and negative charge flows from region of lower electric potential to region of higher electric potential. So battery 
+or electric cell simply creates potential difference across the conductor.
+
+![Water current and Electric curren](2.1.png)
+<!-- ![Water current and Electric curren](2.1.png "") -->
+Figure 2.1 Water current and Electric current
+
+The electric current in a conductor is defined as the rate of flow of charges through a given cross-sectional area A. It is shown in the Figure 2.2
+
+![Charges flow across the area A](2.2.png)
+
+Figure 2.2 Charges flow across the area A
+
+**If a net charge Q passes through any cross section of a conductor in time t, then the current is defined as** I=Q/t. But charge flow is not always constant. Hence current can more generally be defined as 
+
+I<sub>avg</sub>= ∆Q/∆T      (2.1)
+
+Where ∆Q is the amount of charge that passes through the conductor at any cross section during the time interval ∆t. If the rate at which charge flows changes with time, the current also changes. The instantaneous current I is defined as the limit of the average current, as ∆t → 0
+
+I=lim<sub>∆t → 0</sub>  ∆Q/∆t= dQ/dt      (2.2)
+
+The SI unit of current is the ampere (A)
+
+1A= 1C/1s
+
+That is, 1A of current is equivalent to 1 coulomb of charge passing through a perpendicular cross section in a conductor in one second. The electric current is a ascalar quantity.
+
+**EXAMPLE 2.1**
+
+Compute the current in the wire if a charge of 120 C is flowing through a copper wire in 1 minute.
+
+**_Solution_**
+
+The current (rate of flow of charge) in the wire is
+
+_I= Q/t_  = 120/60 = 2A
+
+### Conventional Current
+
+![Direction of conventional current and electron flow](2.3.png "")
+Figure 2.3 Direction of conventional current and electron flow
+
+In an electric circuit, arrow heads are used to indicate the direction of flow of current. By convention, this flow in the circuit should be from the positive terminal of the battery to the negative terminal. This current is called the conventional current or simply current and is in the direction in which a positive test charge would move. In typical circuits the charges that flow are actually electrons, from the negative terminal of the battery to the positive terminal. As a result, the flow of electrons and the direction of conventional current point in opposite direction as shown in Figure 2.3. Mathematically, a transfer of positive charge is the same as a transfer of negative charge in the opposite direction.
+
+![you know](youKnow.png "")
+
+**2.1.2 Drift velocity**
+
+In a conductor the charge carriers are free electrons. These electrons move freely through the conductor and collide repeatedly with the positive ions. If there is no electric field, the electrons move in random directions, and hence their velocities are also randomly oriented. On an average, the number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction. As a result, there is no net flow of electrons in any direction and hence there will not be any current.Suppose a potential difference is set across the conductor by connecting a battery, an electric field <sup>-></sup>E is created in the conductor. This electric field exerts a force on the electrons, producing a current. The electric field accelerates the electrons, while ions scatter the electrons and change their direction of motion. Thus, we see zigzag motion of electrons. In addition to the zigzag motion due to the collisions, the electrons move lowly along the conductor in a direction opposite to that of <sup>-></sup>E as shown in the Figure 2.4.
+
+**Ions**
+Any material is made up of neutral atoms with equal number of electrons and protons. If the outermost electrons leave the atoms, they become free electrons and are responsible for electric current. The atoms after losing their outer most electrons will have more positive charges and hence are called positive ions. These ions will not move freely within the material like the free electrons. Hence the positive ions will not give rise to current.
+
+![Zig-zag motion and drift 
+velocity](2.4.png)
+Figure 2.4 Zig-zag motion and drift 
+velocity
+
+This velocity is called drift velocity <sup>-></sup>v<sub>d</sub>. The drift velocity is the average velocity acquired by the electrons inside the conductor when
+
+
+-------------------------------------------
+
+![Page 6 Image](../current-electricity/chapter-2-images/6.jpg "")
+
+![Page 7 Image](../current-electricity/chapter-2-images/7.jpg "")
+
+![Page 8 Image](../current-electricity/chapter-2-images/8.jpg "")
+
+![Page 9 Image](../current-electricity/chapter-2-images/9.jpg "")
+
+![Page 10 Image](../current-electricity/chapter-2-images/10.jpg "")
+
+
+-------------------------------------
+
+
+
+**_V_**
+
+_I_ **Direction of current**
+
+**Flow of electrons**
+
+**\+ –**
+
+In an electric circuit, arrow heads are used to indicate the direction of flow of current. By convention, this flow in the circuit should be from the positive terminal of the battery to the negative terminal. This current is called the conventional current or simply current and is in the direction in which a positive test charge would move. In typical circuits the charges that flow are actually electrons, from the negative terminal of the battery to the positive terminal. As a result, the flow of electrons and the direction of conventional current point in opposite direction as shown in Figure 2.3. Mathematically, a transfer of positive charge is the
+
+--------------------------------------------------------------------------------------
 
 Equal potential
 
