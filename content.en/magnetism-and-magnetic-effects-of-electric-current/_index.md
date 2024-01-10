@@ -548,7 +548,7 @@ if the magnitude or direction or both vary at different points in a region. Exam
 
 **EXAMPLE 3.4**
 
-Calculate the magnetic flux coming out from closed surface containing magnetic dipole (say, a bar magnet) as shown in figure.
+Calculate the magnetic flux coming out from closed surface containing magnetic dipole (say, a bar magnet) as shown in figure..
 
 ![](3.10.1.jpeg)  
 
