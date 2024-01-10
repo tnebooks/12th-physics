@@ -2,6 +2,7 @@
 title: 'Magnetism and magnetic effects of electric current'
 weight: 3
 extensions:
+<<<<<<< HEAD
 - katex
 ---   
 **U N I T**
@@ -14,6 +15,21 @@ EFFECTS OF ELECTRIC CURRENT
 the human soul while it is united to an organic body” – William Gilbert
 
 ![](3.1.1.jpeg)**Learning Objectives**  
+=======
+    - katex
+---
+
+  
+
+
+ **U N I T 3 MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT**
+
+> “The magnetic force is animate, the human soul while it imitates a soul; in many respects it surpasses s united to an organic body”_ – William Gilbert
+
+
+## **Learning Objectives**
+
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 **In this unit, the student is exposed to**
 
@@ -64,10 +80,24 @@ the human soul while it is united to an organic body” – William Gilbert
 • Torque on a current loop in a magnetic field
 
 • Moving Coil Galvanometer
+<<<<<<< HEAD
   
 ## 3.1  INTRODUCTION TO MAGNETISM
 ![](3.1.png)
 
+=======
+
+
+
+
+
+
+
+  
+
+## INTRODUCTION TO MAGNETISM
+![Magnetic levitation](3.1.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.1:** Magnetic levitation
 
 Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open (Figure 3.1).
@@ -91,11 +121,27 @@ In this unit, basics of magnets and their properties are given. Later, how a cur
 
 Figure 3.2  Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop
 
+<<<<<<< HEAD
 
 ### Earth’s magnetic field and magnetic elements
 **Figure 3.1.1 Earth’s magnetic field**
 
 ![](3.3.png)
+=======
+**Figure 3.2 Uses of magnets in modern 
+world – (a) speakers (b) head phones 
+(c) MRI scan (d) Hard disc of laptop**
+
+
+
+
+
+  
+
+### Earth’s magnetic field and magnetic elements
+![Earth’s magnetic field](3.3.png "w-50 float-end")
+**Figure 3.3 Earth’s magnetic field**
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 **Figure 3.3 Earth’s magnetic field**From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north- south direction of the Earth.
 
@@ -113,9 +159,15 @@ There are three quantities required to specify the magnetic field of the Earth o
 
 Earth’s magnetic field (_BH_)
 
+<<<<<<< HEAD
 ![](3.4.png)
+=======
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 **Figure 3.4 Declination Angle**
+
+![Declination angle](3.4.png "")
+**Figure 3.4 Declination angle**
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth’s geographic axis is called geographic equator.
 
@@ -131,11 +183,33 @@ Let _BE_ be the net Earth’s magnetic field at any point on the surface of the 
 
 Dividing equation (3.2) and (3.1), we get
 
+<<<<<<< HEAD
 ![Inclination angle](3.5.png)
 **Figure 3.5 Inclination Angle**
 
 ![Alt text](image-10.png)
 **(i) At magnetic equator** The Earth’s magnetic field is parallel to the
+=======
+![Inclination angle](3.5.png "")
+**Figure 3.5 Inclination angle**
+Horizontal
+
+_I_
+
+_B_
+
+_BH_  
+
+tan _I B B_
+
+_V_
+
+_H_
+
+\= (3.3)
+
+**1. At magnetic equator** The Earth’s magnetic field is parallel to the
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, _I_ = 0o.
 
@@ -143,7 +217,7 @@ surface of the Earth (i.e., horizontal) which implies that the needle of magneti
 
 This implies that the horizontal component is maximum and vertical component is zero at the equator.
 
-**(ii) At magnetic poles** The Earth’s magnetic field is
+**2. At magnetic poles** The Earth’s magnetic field is
 
 perpendicular to the surface of the Earth (i.e., vertical) which implies that the needle of magnetic compass rests vertically at an angle of dip, _I_ = 90o. Hence,
 
@@ -175,8 +249,23 @@ Some basic terminologies and properties used in describing bar magnet.
 
 Consider a bar magnet as shown in Figure 3.6. Let _qm_ be the pole strength of the magnetic pole and let _l_ be the distance between the geometrical centre of bar magnet O and one end of the pole. **The magnetic dipole moment is defined as the product of its pole strength and magnetic length**. It is a vector quantity, denoted by _pm_.
 
+<<<<<<< HEAD
 ![](3.6.png)
 
+=======
+**S**
+
+_q_m _l l_
+
+_d_
+
+_2l_
+
+_q_m
+
+**O N**
+![Bar Magnet](3.6.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.6 A bar magnet**
 
 ![Alt text](image-15.png)
@@ -227,6 +316,116 @@ Let the magnetic moment of a bar magnet be _pm_ whose magnetic length is _d_ 
 
  **_Solution_**
 (a) a bar magnet cut into two pieces along its length:
+<<<<<<< HEAD
+=======
+
+**S**
+
+_q_m
+
+2_l_
+
+_Cut into two pieces along the axis_
+
+_q_m
+
+**N**
+
+NORTHERLY DIRECTION
+
+NS
+
+N S
+
+N S
+
+NS Magnetic field lines
+
+**S**
+
+_q_m 2_l_
+
+Cut into two pieces
+
+_q_m
+
+**N**
+
+**\=**
+
+![Properties of bar magnet  ](3.7.png "")
+**Figure 3.7 Properties of bar magnet**
+**S**
+
+_q_m
+
+2_l_
+
+_Cut into two pieces along the axis_
+
+_q_m
+
+**N**
+
+2_l_
+
+**S** _q_m 2
+
+**S** _q_m 2
+
+2_l_
+
+**S** _q_m
+
+**N**
+
+2 _q_m 2
+
+**S** _q_m
+
+**N**
+
+2 _q_m 2
+
+**S**
+
+_q_m _l_
+
+_q_m
+
+**N S**
+
+_q_m _l_
+
+_q_m
+
+**N**
+
+**S**
+
+_q_m
+
+2_l_
+
+L
+
+_q_m
+
+**N**
+
+Geometrical length of a bar magnet
+
+Magnetic length of a bar magnet
+
+
+
+
+
+
+
+|------|------|------|
+| 2l |
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
   
 ![](3.5.7.jpeg)
 
@@ -285,7 +484,11 @@ _B_ is defined as
 
 where _θ_ is the angle between _B_ and _A_ as shown in Figure 3.8.
 
+<<<<<<< HEAD
 ![](3.8.png)
+=======
+![Magnetic flux](3.8.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.8 Magnetic flux**  
 
 **Special cases**
@@ -307,9 +510,28 @@ Magnetic flux is a scalar quantity. The SI unit for magnetic flux is weber, whic
 
 **Uniform magnetic field** Magnetic field is said to be uniform if it has same magnitude and direction at all the
 
+<<<<<<< HEAD
 ![](3.9.png)
 **Figure 3.9 Uniform magnetic field**  
   points in a given region. Example, locally Earth’s magnetic field is uniform.
+=======
+has same magnitude and direction at all the
+
+![Uniform magnetic field](3.9.png)
+**Figure 3.9 Uniform magnetic field**
+
+
+
+
+
+
+| A |
+|------|------|
+
+  
+
+points in a given region. Example, locally Earth’s magnetic field is uniform.
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 The magnetic field of Earth has same value over the entire area of your school!
 
@@ -317,7 +539,11 @@ The magnetic field of Earth has same value over the entire area of your school!
 
 if the magnitude or direction or both vary at different points in a region. Example: magnetic field of a bar magnet
 
+<<<<<<< HEAD
 ![](3.10.png)
+=======
+![Non-uniform magnetic field](3.10.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.10 Non-uniform magnetic field** (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet
 
 **EXAMPLE 3.4**
@@ -353,9 +579,63 @@ This looks similar to Coulomb’s law for static charges studied in Unit I (oppo
 electric charges – like poles repel and 
 unlike poles attract**
 
+<<<<<<< HEAD
 **Figure 3.11:** Magnetic poles behave like electric charges – like poles repel and unlike poles attract**The force of attraction or repulsion between two magnetic poles is directly proportional to the product of their pole strengths and inversely proportional to the square of the distance between them.**
+=======
 
-Mathematically, we can write
+
+| Solution∫The t otal f lux em anating f rom t he closed s urface S en closing t he di pole i s zero. So,  Φ == BA.d 0Here  the  integral  is  taken  over  closed ∫surface. S ince n o i solated m agnetic p ole B(called m agnetic m onopole) exi sts, t his integral is always zero, BA.d = 0This i s simi lar t o Ga uss’s l aw in electrostatics. |
+|------|
+
+
+
+
+  
+![Magnetic poles](3.11.png)
+**Figure 3.11: Magnetic poles behave like electric charges – like poles repel and unlike poles attract**
+
+**S S**
+
+**N**
+
+**S**
+
+**NN**
+
+**S**
+
+**N**
+
+Repulsive force
+
+Repulsive force
+
+Magnet A
+
+Magnet A
+
+Magnet B
+
+Magnet B
+
+Attractive force
+
+Attractive force
+
+Opposite poles (unlike poles) attract each other
+
+Magnet A Magnet B
+
+**N S N S**
+
+Magnet B Magnet A
+
+**N S N S**
+
+**The force of attraction or repulsion between two magnetic poles is directly proportional to the product of their pole strengths and inversely proportional to the square of the distance between them.**
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
+
+Mathematically, we can write as
 
 ![Alt text](image-30.png)
 
