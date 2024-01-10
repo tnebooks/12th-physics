@@ -570,6 +570,7 @@ Consider two bar magnets A and B as shown in Figure 3.11. When the north pole of
 
 On the other hand, when the north pole of magnet A and the south pole of magnet B or the south pole of magnet A and the north pole of magnet B are brought closer, their poles attract each other.
 
+
 This looks similar to Coulomb’s law for static charges studied in Unit I (opposite charges attract and like charges repel each other). So analogous to Coulomb’s law in electrostatics, we can state Coulomb’s law for magnetism (Figure 3.12) as follows:
 
 
