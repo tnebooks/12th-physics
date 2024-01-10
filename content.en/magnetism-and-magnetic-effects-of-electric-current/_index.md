@@ -8,9 +8,13 @@ extensions:
   
 
 
-**U N I T**
+ **U N I T 3 MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT**
 
-**3** MAGNETIS EFFECTS O
+> “The magnetic force is animate, the human soul while it imitates a soul; in many respects it surpasses s united to an organic body”_ – William Gilbert
+
+
+## **Learning Objectives**
+
 
 **In this unit, the student is exposed to**
 
@@ -62,35 +66,8 @@ extensions:
 
 • Moving Coil Galvanometer
 
-_“The magnetic force is animate, the human soul while it i_
 
-**Learning Objectives**  
 
-M AND MAGNETIC F ELECTRIC CURRENT
-
-agnetism
-
-nd equatorial line
-
-agnetic field
-
-iform magnetic field
-
-lity etc
-
-and ferro magnetic materials
-
-ght conductor and circular coil
-
-d cork screw rule
-
-electromagnetic field
-
-gnetic field
-
-ng conductor
-
-_or imitates a soul; in many respects it surpasses s united to an organic body”_ – William Gilbert
 
 
 
@@ -98,7 +75,7 @@ _or imitates a soul; in many respects it surpasses s united to an organic body�
   
 
 ## INTRODUCTION TO MAGNETISM
-
+![Magnetic levitation](3.1.png)
 **Figure 3.1:** Magnetic levitation
 
 Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open (Figure 3.1).
@@ -119,9 +96,10 @@ In this unit, basics of magnets and their properties are given. Later, how a cur
 
 ![Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](3.2.png "")
 
-**(a) (b)**
+**Figure 3.2 Uses of magnets in modern 
+world – (a) speakers (b) head phones 
+(c) MRI scan (d) Hard disc of laptop**
 
-**(c) (d)**
 
 
 
@@ -129,7 +107,7 @@ In this unit, basics of magnets and their properties are given. Later, how a cur
   
 
 ### Earth’s magnetic field and magnetic elements
-
+![Earth’s magnetic field](3.3.png "w-50 float-end")
 **Figure 3.3 Earth’s magnetic field**
 
 Geographic South Pole
@@ -156,7 +134,6 @@ There are three quantities required to specify the magnetic field of the Earth o
 
 Earth’s magnetic field (_BH_)
 
-![Declination angle](3.4.png "")
 
 Geographic meridian
 
@@ -197,6 +174,9 @@ Axis around which the Earth rotates once a day
 Earth magnetic north pole
 
 “True” South poleBar magnet
+
+![Declination angle](3.4.png "")
+**Figure 3.4 Declination angle**
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth’s geographic axis is called geographic equator.
 
@@ -243,7 +223,7 @@ Vertical component _BV_ = _BE_ sin _I_ (3.2)
 Dividing equation (3.2) and (3.1), we get
 
 ![Inclination angle](3.5.png "")
-
+**Figure 3.5 Inclination angle**
 Horizontal
 
 _I_
@@ -260,7 +240,7 @@ _H_
 
 \= (3.3)
 
-**(i) At magnetic equator** The Earth’s magnetic field is parallel to the
+**1. At magnetic equator** The Earth’s magnetic field is parallel to the
 
 surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, _I_ = 0o.
 
@@ -270,7 +250,7 @@ _BV_ = 0
 
 This implies that the horizontal component is maximum and vertical component is zero at the equator.
 
-**(ii) At magnetic poles** The Earth’s magnetic field is
+**2. At magnetic poles** The Earth’s magnetic field is
 
 perpendicular to the surface of the Earth (i.e., vertical) which implies that the needle of magnetic compass rests vertically at an angle of dip, _I_ = 90o. Hence,
 
@@ -339,7 +319,7 @@ _2l_
 _q_m
 
 **O N**
-
+![Bar Magnet](3.6.png)
 **Figure 3.6 A bar magnet**
 
 
@@ -448,7 +428,7 @@ _q_m
 **\=**
 
 ![Properties of bar magnet  ](3.7.png "")
-
+**Figure 3.7 Properties of bar magnet**
 **S**
 
 _q_m
@@ -713,6 +693,7 @@ _BA_
 
 _A_
 
+![Magnetic flux](3.8.png)
 **Figure 3.8 Magnetic flux**  
 
 **Special cases**
@@ -743,6 +724,7 @@ Magnetic flux is a scalar quantity. The SI unit for magnetic flux is weber, whic
 
 has same magnitude and direction at all the
 
+![Uniform magnetic field](3.9.png)
 **Figure 3.9 Uniform magnetic field**
 
 
@@ -763,6 +745,7 @@ The magnetic field of Earth has same value over the entire area of your school!
 
 if the magnitude or direction or both vary at different points in a region. Example: magnetic field of a bar magnet
 
+![Non-uniform magnetic field](3.10.png)
 **Figure 3.10 Non-uniform magnetic field** (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet
 
 (a) (b) (c)
@@ -817,8 +800,8 @@ This looks similar to Coulomb’s law for static charges studied in Unit I (oppo
 
 
   
-
-**Figure 3.11:** Magnetic poles behave like electric charges – like poles repel and unlike poles attract
+![Magnetic poles](3.11.png)
+**Figure 3.11: Magnetic poles behave like electric charges – like poles repel and unlike poles attract**
 
 **S S**
 
