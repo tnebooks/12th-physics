@@ -1,135 +1,54 @@
 ---
-title: 'Summary'
+title: "Summary"
 weight: 8
 extensions:
-    - katex
+  - katex
 ---
-**SUMMARY**  
 
-the principal axis of the mirror and make
+**SUMMARY**
 
-adius of curvature in spherical mirror is,
-
-d to trace image formed by spherical mirrors.
-
-_h h_
-
-_v u_
-
-\= ′ =− , _m h_
-
-_h f v_
-
-_f f_
-
-_f u_ \= ′ = − = −
-
-y denser medium. ht in vacuum to speed of light in medium,
-
-ed in vacuum in the same time light travels _nd_
-
-n ratio form is, sin sin
-
-_i r_
-
-_n n_
-
-\= 2
-
-1
-
-.
-
-ium with respect to first medium is, n _n n_21
-
-2
-
-1
-
-\=
-
-tual depth. The equation for apparent depth
-
-cident from a denser to rarer medium, is that °. For i > ic, total internal reflection occurs. _i_
-
-_nc_ \= 1 (or) _i_
-
-_nc_ \= 
-
-  
-
- 
-
-−sin 1 1
-
-ular illumination which appears when seen . The radius of the circular illumination is,
-
-idence. The acceptance angle in optical fibre
-
-the refractive indices of core, cladding and
-
-on the light falling on it. The equation for
-  
-
-„ The equation for single spherical surface is,
-
-„ The focal length of the thin lens is positi diverging lens. It is not based on the positio
-
-„ The lens makers formula is, 1 1 1
-
-1_f n_
-
-_R_ \= −( ) −
-
-
-
- 
-
-„ The lens equation is, 1 1 1 _v u f_ \- =
-
-„ The magnification produced by the lens is, m
-
-„ The power of a lens is a measure of the de falling on it. Power and focal length are inve
-
-_P f_
-
-\= 1
-
-„ The unit of power is diopter (D) when the f
-
-„ The effective focal length of lenses in contac
-
-„ A prism produces deviation on the incident „ Angle of deviation depends on angle of pris
-
-material of prism given by the equation, _d_ „ At minimum deviation, _i_1 = _i_2, _r_1 = _r_2, and t
-
-of the prism. „ The refractive index of prism depends on an
-
-given by the equation, _n_
-
-_A D_
-
-_A_ \=
-
-+  
-
-  
-
-     
-
-sin
-
-sin
-
-2
-
-2 „ When white light travels through a medium
-
-leading to dispersion of light. Red colour tra vacuum all the colours travel with the same
-
-„ The angle of deviation produced by the sma „ The angular separation between the two ext
-
-is called angular dispersion. _δV– δR = (nV–nR)A_ „ Dispersive power is the measure of ability o
+- A ray of light gives the direction of light.
+- Law of reflection is, i = r
+- Paraxial rays are the rays travelling close to the principal axis of the mirror
+  and makesmall angles with it.
+- The relation between focal length and radius of curvature in spherical mirror is, 2 f = R (or) f = R/2
+- Cartesian sign conventions are to be followed to trace image formed by spherical mirrors.
+- The mirror equation is, 1/v+1/u = 1/f
+- The magnification in spherical mirror is, m = h'/h = -v/u, m = h'/h = f-v/f = f/f-u
+- Light travels with lesser velocity in optically denser medium.
+- Refractive index is the ratio of speed of light in vacuum to speed of light in medium, n = c/v
+- Optical path is the equivalent path travelled in vacuum in the same time light travels through a optically denser medium. d′ = nd
+- Law of refraction also called as Snell’s law in ratio form is, sini/sinr = n2/n1
+- In product form is, n1 sin i = n2 sin r
+- The relative refractive index of second medium with respect to first medium is, n 21 = n2/n1
+- The apparent depth is always lesser than actual depth. The equation for apparent depth is, d ′ = d/n
+- The critical angle of incidence i c for a ray incident from a denser to rarer medium, is that angle for which the angle of refraction is 90°. For i > i c , total internal reflection occurs.
+- Equations for critical angle incidence is, sini c =  1  1 (or) i c = sin − 1     n  n
+- Snell’s window is the restricted area of circular illumination which appears when seen from water due to critical angle incidence. The radius of the circular illumination is,
+   1  
+  d
+   ( or ) R =
+  R = d 
+    n 2 − 1  
+  n 2 − 1
+  
+- Optical fibre makes use of critical angle incidence. The acceptance angle in optical fibre
+   n 2 − n 2  
+   1
+  2 
+   . Here, n , n , n are the refractive indices of core, cladding and
+  is, i a = sin 
+  1
+  2
+  3
+  n 2 3  
+   
+  − 1
+  
+  surrounding medium respectively.
+- Glass slabs produce a lateral displacement on the light falling on it. The equation for
+   sin ( i − r )  
+  measure of ability o
 
 _w_ \= −( ) −
 
@@ -137,73 +56,84 @@ _n n n V R_
 
 ( )1
 
-„ Rainbow is formed by dispersion of light by „ The scattering of light by particles of size le
+„
 
-scattering. The intensity of light produced b
-
-„ Non-Rayleigh scattering is by suspended d wavelength of light. This scattering is indep  
-
-_n v u_
-
-_n R_
-
-− = −( )1 1
-
-ve for a converging lens and negative for a n of the focal point.
-
-1
-
-2_R_
-
-
-
- 
-
-_h h_
-
-_v u_
-
-\= ′ = , _m h_
-
-_h f_
-
-_f u_ \= ′ = +
-
-(or) _m h h_
-
-_f v f_
-
-\= ′ = −
-
-gree of convergence (or) divergence of light rse to each other.
-
-ocal length is taken in meter.
-
-t is, 1 1 1
-
-1 2_f f f_ \= +
-
-ray. m, angle of incidence and refractive index of
-
-_i i A_\= + −1 2
-
-he ray inside the prism is parallel to the base
-
-gle of prism and angle of minimum deviation
-
-, different colours travel with different speeds vels faster than violet colour in a medium. In speed. ll angled prism is, _d_ \= −( )_n A_1 reme colours (violet and red) in the spectrum
-
-f the medium to disperse white light.
-
-droplets of water. ss than wavelength of light is called Rayleigh
-
-y Rayleigh scattering is, _I_ µ 1 4_l_
-
-ust particles whose size is greater than the endent of wavelength of light.
-| 2 |
-|------|
-|  A  |
-  
+- The equation for single spherical surface is,
+  n 1 ( n − 1 )
+  − =
+  v u
+  R
+- The focal length of the thin lens is positive for a converging lens and negative for a diverging lens. It is not based on the position of the focal point.
+   1
+  1
+  1 
+  = ( n − 1 )  − 
+    R 1 R 2  
+  f
+  1 1 1
+- The lens equation is, v - u = f
+  h ′ f − v
+  h ′
+  f
+  h ′ v
+- The magnification produced by the lens is, m = = , m = =
+  (or) m = =
+  h
+  f
+  h
+  f + u
+  h u
+- The lens makers formula is,
+- The power of a lens is a measure of the degree of convergence (or) divergence of light falling on it. Power and focal length are inverse to each other.
+  P =
+  1
+  f
+- The unit of power is diopter (D) when the focal length is taken in meter.
+- The effective focal length of lenses in contact is,
+  
+  
+  
+  
+  1
+  1
+  1
+  = +
+  f
+  f 1 f 2
+- A prism produces deviation on the incident ray.
+- Angle of deviation depends on angle of prism, angle of incidence and refractive index of material of prism given by the equation, d = i 1 + i 2 − A
+- At minimum deviation, i 1 = i 2 , r 1 = r 2 , and the ray inside the prism is parallel to the base of the prism.
+- The refractive index of prism depends on angle of prism and angle of minimum deviation
+   A + D  
+  sin 
+    2  
+  n =
+   A 
+  given by the equation,
+  sin  
+    2 
+  
+  
+  
+  
+- When white light travels through a medium, different colours travel with different speeds leading to dispersion of light. Red colour travels faster than violet colour in a medium. In vacuum all the colours travel with the same speed.
+- The angle of deviation produced by the small angled prism is, d = ( n − 1 ) A
+- The angular separation between the two extreme colours (violet and red) in the spectrum is called angular dispersion.
+  δ V – δ R = (n V –n R )A
+- Dispersive power is the measure of ability of the medium to disperse white light.
+  w =
+  
+  
+  ( n V − n R )
+  ( n − 1 )
+- Rainbow is formed by dispersion of light by droplets of water.
+- The scattering of light by particles of size less than wavelength of light is called Rayleigh
+  scattering. The intensity of light produced by Rayleigh scattering is, I μ
+  
+  46
+  1
+  l 4
+- Non-Rayleigh scattering is by suspended dust particles whose size is greater than the wavelength of light. This scattering is independent of wavelength of light.
 
 **Ray O**
 
@@ -223,7 +153,7 @@ ust particles whose size is greater than the endent of wavelength of light.
 
 **Spherical surface Len**
 
-**CONCEP**  
+**CONCEP**
 
 **ptics**
 
@@ -247,7 +177,6 @@ ust particles whose size is greater than the endent of wavelength of light.
 
 **T MAP**
 | Refraction Speed of lightRefractive index |Deviation in prism DispersionScattering |
-  
 
 **Multiple choice questions**
 
@@ -257,7 +186,7 @@ w.r.t medium **2\.** A rod of length 10 cm lies along the
 
 principal axis of a concave mirror of focal length 10 cm in such a way that its end closer to the pole is 20 cm away from the mirror. The length of the image is, (AIPMT Main 2012) (a) 2.5 cm (b) 5cm (c) 10 cm (d) 15cm
 
-**3\.** An object is placed in front of a convex mirror of focal length of _f_ and the maximum and minimum distance of an object from the mirror such that the image formed is real and magnified. (JEE Main 2009)\] (a) 2_f_ and _c_ (b) _c_ and ∞ (c) _f_ and _O_ (d) None of these
+**3\.** An object is placed in front of a convex mirror of focal length of _f_ and the maximum and minimum distance of an object from the mirror such that the image formed is real and magnified. (JEE Main 2009)\] (a) 2*f* and _c_ (b) _c_ and ∞ (c) _f_ and _O_ (d) None of these
 
 **4\.** For light incident from air on a slab of refractive index 2, the maximum possible angle of refraction is, (a) 30o (b) 45o
 
@@ -289,7 +218,7 @@ _a a_
 
 _w w_
 
-_l l_  
+_l l_
 
 **6\.** Stars twinkle due to, (a) reflection (b) total internal reflection (c) refraction (d) polarisation
 
@@ -304,7 +233,6 @@ This implies that the liquid must have refractive index, (a) less than one (b) l
 **10\.** A ray of light travelling in a transparent medium of refractive index n falls, on a surface separating the medium from air at an angle of incidents of 45o. The ray can undergo total internal reflection for the following _n_, (a) _n_ = 1.25 (b) _n_ = 1.33 (c) _n_ = 1.4 (d) _n_ = 1.5
 
 **EVALUATION**
-  
 
 **Answers**
 
@@ -336,7 +264,7 @@ focus of a lens? **19\.** What are the sign conventions followed
 
 for lenses? **20\.** Arrive at lens equation from lens
 
-maker’s formula.  
+maker’s formula.
 
 **21\.** Obtain the equation for lateral magnification of thin lens.
 
@@ -367,7 +295,6 @@ appearance of sky during sunset and sunrise?
 **8\.** Derive the equations for thin lens and for magnification.
 
 **9\.** Derive the equation for angle of deviation produced by a prism and thus obtain the equation for refractive index of material of the prism.
-  
 
 **10\.** What is dispersion? Obtain the equation for dispersive power of a medium.
 
@@ -389,7 +316,7 @@ intensity of light I passing through it. What will be the focal length and inten
 
 \[Ans: _v_ = 12 cm, _h'_ \= 8 cm, _m_ \= 2, image is erect, virtual, twice the height of
 
-object formed on right side of mirror.\]  
+object formed on right side of mirror.\]
 
 **2.** An object is placed in front of a concave mirror of focal length 20 cm. The image formed is three times the size of the object. Calculate two possible distances of the object from the mirror.
 
@@ -407,7 +334,7 @@ object formed on right side of mirror.\]
 
 \[Ans: _u_ = –15 cm.\] **5.** Obtain the lens maker’s formula for
 
-a lens of refractive index _n_2 which is separating two media of refractive indices n1 and n3 on the left and right respectively.
+a lens of refractive index \_n_2 which is separating two media of refractive indices n1 and n3 on the left and right respectively.
 
 : _n v_
 
@@ -463,9 +390,9 @@ _n n R_
 
 ( ) ( )1 _f_
 
-1 _n_3
+1 \_n_3
 
-_(n_3 _n_2) _R_2
+\_(n_3 \_n_2) \_R_2
 
 \=
 
@@ -522,7 +449,6 @@ _n n R_
   
 
 ( ) ( )3 _(_ 3 2Ans
-  
 
 **6.** A thin converging lens of refractive index 1.5 has a power of + 5.0 _D_. When this lens is immersed in a liquid of refractive index n, it acts as a divergent lens of focal length 100 cm. What must be the value of _n_?
 
@@ -554,7 +480,7 @@ _D_ \=
 
 **3\.** H.C. Verma,Concepts of Physics \[Part-1 Distributers Pvt. Ltd., (2008).
 
-**4\.** Roger A. Freedman, Hugh D. Young, 12th Edition, Pearson, (2011).  
+**4\.** Roger A. Freedman, Hugh D. Young, 12th Edition, Pearson, (2011).
 
 **8.** Prove that a concave lens can only form a virtual, erect and diminished image.
 
@@ -573,7 +499,6 @@ Walker, Fundamentals of Physics, 6th Edition,
 \], 1st Edition, Bharathi Bhawan Publishers &
 
 Sears and Zemansky’s University Physics,
-  
 
 **Ray o**
 
@@ -583,13 +508,13 @@ lens of desired focal length
 
 **STEPS:** • In the browser go to the page “https://www.g
 
-• Here _n_1 = refractive index of air (_n_1 = 1). _n_2 is the radius of curvature of the lens.
+• Here \_n_1 = refractive index of air (\_n_1 = 1). \_n_2 is the radius of curvature of the lens.
 
-• Take _n_2 = 1.5 , _R_1 = 3 cm and _R_2 = –3 cm. Ca
+• Take \_n_2 = 1.5 , \_R_1 = 3 cm and \_R_2 = –3 cm. Ca
 
 formula 1 1 1 1
 
-2 1 2_f_
+2 1 2*f*
 
 _n R R_
 
@@ -603,15 +528,15 @@ _n R R_
 
 ( ) . Verify your
 
-by adjusting _n_2, _R_1 and _R_2 .
+by adjusting \_n_2, \_R_1 and \_R_2 .
 
-• Find out the curvatures _R_1 and _R_2 to make a
+• Find out the curvatures \_R_1 and \_R_2 to make a
 
-• When _R_1 = –1cm and _R_2 = 1cm, you will get construct concave and convex lenses by adjus
+• When \_R_1 = –1cm and \_R_2 = 1cm, you will get construct concave and convex lenses by adjus
 
-• Adjust the refractive index _n_2, and analyse refractive index.
+• Adjust the refractive index \_n_2, and analyse refractive index.
 
-• Adjust the refractive index _n_1, and analyse refractive index of the medium surrounded b
+• Adjust the refractive index \_n_1, and analyse refractive index of the medium surrounded b
 
 **Note:** Use flash enabled browser or install flash player in
 
@@ -621,13 +546,13 @@ by adjusting _n_2, _R_1 and _R_2 .
 
 **ICT CORNER**
 
-**Step1**  
+**Step1**
 
 **ptics**
 
 eogebra.org/m/wv7eccvc”.
 
-the refractive index of the lens. _R_1 and _R_2 are
+the refractive index of the lens. \_R_1 and \_R_2 are
 
 lculate the focal length of the lens using the
 
@@ -635,7 +560,7 @@ answer with the value obtained on the screen
 
 lens of desired focal length 7 cm.
 
-a concave lens of focal length –1 cm. Try to ting _R_1 and _R_2.
+a concave lens of focal length –1 cm. Try to ting \_R_1 and \_R_2.
 
 how focal length changes with respect to
 
