@@ -7,7 +7,7 @@ extensions:
 
 # Electromagnetic Waves
 
-![Alt text](image-45.png)
+![Alt text](image-45.png "w-10 float-end")
 
 ## INTRODUCTION 
 ![Visible spectrum – rainbow and lightning](5.1.png "")
@@ -34,7 +34,6 @@ In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in
 **Induced magnetic field**
 Faraday’s law of electromagnetic induction which states that the change in magnetic field produces an electric field. Mathematically
 
-![Figure with 10%](image-1.png "w-10 float-end")
 ![Alt text](image-1.png)
 where ΦB is the magnetic flux and ¶
 ¶t is the partial derivative with respect to time. 
