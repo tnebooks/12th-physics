@@ -1,37 +1,20 @@
 ---
 title: 'Magnetism and magnetic effects of electric current'
-weight: 3
-extensions:
-<<<<<<< HEAD
+weight: 1
+extensions :
 - katex
 ---   
-**U N I T**
 
-**3** 
-MAGNETISM AND MAGNETIC 
-EFFECTS OF ELECTRIC CURRENT
 
-“The magnetic force is animate, or imitates a soul; in many respects it surpasses 
-the human soul while it is united to an organic body” – William Gilbert
-
-![](3.1.1.jpeg)**Learning Objectives**  
-=======
-    - katex
----
-
-  
 
 
  **U N I T 3 MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT**
 
-> “The magnetic force is animate, the human soul while it imitates a soul; in many respects it surpasses s united to an organic body”_ – William Gilbert
+> “The magnetic force is animate, the human soul while it imitates a soul in many respects it surpasses s united to an organic body” – William Gilbert
 
+![Alt text](image.png) **LEARNING OBJECTIVES** 
 
-## **Learning Objectives**
-
->>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
-
-**In this unit, the student is exposed to**
+**In this unit, the student is exposed to** ![alt](image-1.png)
 
 • Earth’s magnetic field and magnetic elements
 
@@ -80,5 +63,5 @@ the human soul while it is united to an organic body” – William Gilbert
 • Torque on a current loop in a magnetic field
 
 • Moving Coil Galvanometer
- 
 
+  
