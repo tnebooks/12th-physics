@@ -1,5 +1,5 @@
 ---
-title: 'MAGNETIC EFFECTS OF CURRENT'
+title: 'Multiple Choice Questions and Questions'
 weight: 1
 extensions:
     - katex

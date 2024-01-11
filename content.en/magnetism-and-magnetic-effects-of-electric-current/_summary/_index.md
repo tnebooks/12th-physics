@@ -1,5 +1,5 @@
 ---
-title: 'MAGNETIC EFFECTS OF CURRENT'
+title: 'SUMMARY'
 weight: 12
 extensions:
     - katex

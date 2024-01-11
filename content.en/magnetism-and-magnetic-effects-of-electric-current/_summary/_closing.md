@@ -1,5 +1,5 @@
 ---
-title: 'MAGNETIC EFFECTS OF CURRENT'
+title: 'BOOKS FOR REFERENCE'
 weight: 2
 extensions:
     - katex
