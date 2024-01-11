@@ -9,8 +9,9 @@ extensions:
 
 **U N I T**
 
-**9** ATOMIC
+**9** ATOMIC AND NUCLEAR PHYSICS
 
+**Learning Objectives**
 **In this unit, the students are exposed to** 
 • electric discharge through the gases 
 • determination of specific charge of by an electron J.J. Thomson experiment
@@ -29,10 +30,7 @@ extensions:
 • qualitative idea of elementary particles
 
 All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial
-
-**Learning Objectives**
-
-**INTRODUCTION**
+  **9.1**  **INTRODUCTION**
 
 <!-- **Atom Apple**
 
@@ -47,19 +45,13 @@ All of physics is either impossible or trivial. It is impossible until you under
 **Same size**
 
 **Same size** -->
-
-![Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth](9.1.png "")
-
-**9.1**  
-
-AND NUCLEAR PHYSICS
-
-In earlier classes, we have studied that anything which occupies space is called matter. Matter can be classified into solids, liquids and gases. In our daily life, we use water for drinking, petrol for vehicles, we inhale oxygen, stainless steel vessels for cooking, etc. Experiences tell us that behaviour of one material is not the same as that of another, which means that the physical and chemical properties are different for different materials. In order to understand this, we need to know the fundamental constituents of materials.
-
-
-
-
-  
+<!-- ![Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth](9.1.png "") -->
+<div align="center">
+  <img src="9.1.png"/>
+  <p> Figure 9.1  </strong>Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth</p>
+</div>
+In earlier classes, we have studied that anything which occupies space is called matter. Matter can be classified into solids, liquids and gases. In our daily life, we use water for drinking, petrol for vehicles, we inhale oxygen, stainless steel vessels for cooking, etc. Experiences tell us that behaviour of one material is not the same as that of another, which means that the physical and chemical properties are different for different materials. 
+In order to understand this, we need to know the fundamental constituents of materials.
 
 When an object is divided repeatedly, the process of division could not be done beyond a certain stage in a similar way and we end up with a small speck. This small speck was defined as an atom. The word atom in Greek means ‘without division or indivisible’. The size of an atom is very very small. For an example, the size of hydrogen atom (simplest among other atoms) is around 10–10 m. An American Physicist Richard P. Feynman said that if the size of an atom becomes the size of an apple, then the size of apple becomes the size of the earth as shown in Figure 9.1. Such a small entity is an atom.
 
@@ -70,11 +62,7 @@ Later, scientists observed that even the atom is not the fundamental entity. It 
 In this context, the remaining part of this unit is written to understand the structure and basic properties of nucleus. Further how the nuclear energy is produced and utilized are discussed.
 
 **9.2**   **ELECTRIC DISCHARGE THROUGH GASES**
-
-Gases at normal atmospheric pressure are poor conductors of electricity because they do not have free electrons for conduction.
-
-But by special arrangement, one can make a gas to conduct electricity.
-
+Gases at normal atmospheric pressure are poor conductors of electricity because they do not have free electrons for conduction.But by special arrangement, one can make a gas to conduct electricity.
 A simple and convenient device used to study the conduction of electricity through gases is known as gas discharge tube. The arrangement of discharge tube is shown in Figure 9.2. It consists of a long closed glass tube (of length nearly 50 cm and diameter of 4 cm) inside of which a gas in pure form is filled usually. The small opening in the tube is connected to a high vacuum pump and a low-pressure gauge. This tube is fitted with two metallic plates known as electrodes which are connected to secondary of an induction coil. The electrode connected to positive of secondary is known as anode and the electrode to the negative of the secondary is cathode. The potential of secondary is maintained at about 50 kV.
 
 <!-- **High potential difference**
@@ -85,16 +73,15 @@ A simple and convenient device used to study the conduction of electricity throu
 
 **— +** -->
 
-![Discharge tube (a) real picture (b) schematic diagram](9.2.png "")
+<!-- ![Discharge tube (a) real picture (b) schematic diagram](9.2.png "") -->
 
+<div align="center">
+  <img src="9.2.png"/>
+  <p> Figure 9.2  </strong>Discharge tube (a) real picture (b) schematic diagram</p>
+</div>
 <!-- **(a)**
 
 **(b)** -->
-
-
-
-
-  
 
 Suppose the pressure of the gas in discharge tube is reduced to around 110 mm of Hg using vacuum pump, it is observed that no discharge takes place. When the pressure is kept near 100 mm of Hg, the discharge of electricity through the tube takes place. Consequently, irregular streaks of light appear and also crackling sound is produced. When the pressure is reduced to the order of 10 mm of Hg, a luminous column known as positive column is formed from anode to cathode.
 
@@ -112,8 +99,7 @@ momentum and travel in a straight line with high speed of the order of 107 ms-1.
 
 (5) The speed of cathode rays is up to (1/10)<sup>th</sup> of the speed of light.
 
-
-### Determination of specific charge _e/m_ of an electron –
+**9.2.1 Determination of specific charge _e/m_ of an electron –** 
 **Thomson’s experiment**
 
 Thomson’s experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
@@ -170,47 +156,60 @@ The arrangement of J. J. Thomson’s experiment is shown in Figure 9.3. A highly
 
 **B v** -->
 
-![Electric force balancing the magnetic force – the path of electron beam is a straight line](9.4.png "")
+<!-- ![Electric force balancing the magnetic force – the path of electron beam is a straight line](9.4.png "") -->
+<div align="center">
+  <img src="9.4.png"/>
+  <p> Figure 9.4 </strong>Electric force balancing the magnetic force – the path of electron beam is a straight line</p>
+</div>
 
 **Figure 9.4**  Electric force balancing the magnetic force – the path of electron beam is a straight line  
 
 For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let _e_ be the charge of the cathode rays, then
 
-\[ eE = eBv \]
+{{< katex display >}}
+eE=ebv
+{{< /katex >}}
 
-\[ \Rightarrow \frac{v}{E} = \frac{1}{B} \]
-
-(9.1)  
+{{< katex display >}}
+\Rightarrow v = \frac{E}{B}   (9.1)  
+{{< /katex >}}
 
 **(ii) Determination of specific charge** Since the cathode rays (electron beam) are accelerated from cathode to anode, the potential energy of the electron beam at the cathode is converted into kinetic energy of the electron beam at the anode. Let _V_ be the potential difference between anode and cathode, then the potential energy is _eV_. Then from law of conservation of energy,
 
-\[ eV = \frac{1}{2}mv^2 \Rightarrow \frac{e}{m} = \frac{v^2}{2V} \]
-
-
+{{< katex display >}}
+ eV = \frac{1}{2}mv^2 \Rightarrow \frac{e}{m} = \frac{v^2}{2V} 
+{{< /katex >}}
 
 Substituting the value of velocity from equation (9.1), we get
-
-\[ \frac{e}{m} = n^{1/2}VE^2B^2 \]        (9.2)
-
+{{< katex display >}}
+ \frac{e}{m} = n^{1/2}VE^2B^2         (9.2)
+{{< /katex >}}
 Substituting the values of _E, B_ and _V_, the specific charge can be determined as
 
-\[ \frac{e}{m} = 1.7 \times 10^{11} \, \text{Ckg}^{-1} \]
+{{< katex display >}}
+\frac{e}{m} = 1.7 \times 10^{11} \, \text{Ckg}^{-1} 
+{{< /katex >}}
 
-  <!-- \[ p = \frac{m}{v} \] -->
+  <!-- {{< katex display >}}  p = \frac{m}{v}  {{< /katex >}}
+ -->
 
 **(iii) Deflection of charge only due to uniform electric field**
 
 When the magnetic field is turned off, the deflection is only due to electric field. The deflection in vertical direction is due to the electric force.
 
-\[ F_e = eE \]  (9.3)
+{{< katex display >}}
+ F_e = eE 
+{{< /katex >}}  (9.3)
 
 Let _m_ be the mass of the electron and by applying Newton’s second law of motion, acceleration of the electron is
 
-\[ a_e = \frac{1}{m} F_e \] (9.4)
-
+{{< katex display >}} 
+a_e = \frac{1}{m} F_e  (9.4)
+{{< /katex >}}
 Substituting equation (9.4) in equation (9.3),
 
-\[ a_e = \frac{1}{m_e} E = \frac{e}{m_e} E \]
+{{< katex display >}} a_e = \frac{1}{m_e} E = \frac{e}{m_e} E 
+{{< /katex >}}
 
 
 
@@ -241,34 +240,49 @@ y´ y
 
 **_l_** -->
 
-![Deviation of path by applying uniform electric field](9.5.png "")
+<!-- ![Deviation of path by applying uniform electric field](9.5.png "") -->
+<div align="center">
+  <img src="9.5.png"/>
+  <p> Figure 9.5 </strong>Deviation of path by applying uniform electric field</p>
+</div>
+
 **Figure 9.5** Deviation of path by applying uniform electric field
 
 Let _y_ be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be _u_ \= 0 before entering the parallel electric plates. Let _t_ be the time taken by the cathode rays to travel in electric field. Let _l_ be the length of one of the plates, then the time taken is
 
-\(t = \frac{1}{\nu}\) (9.5)
-
+{{< katex display >}}
+t = \frac{1}{\nu} (9.5)
+{{< /katex >}}
 Hence, the deflection _yʹ_ of cathode rays is (note: _u_ \= 0 and \(a_e = \frac{e}{mE}\))
 
-\( y' = ut + \frac{1}{2}at^2 \Rightarrow y' = ut + a_e t^2 \)
+ {{< katex display >}} y' = ut + \frac{1}{2}at^2 \Rightarrow y' = ut + a_e t^2 {{< /katex >}}
 
- \[ =\frac{1}{2} \left( \frac{e}{mE} \right) \left( \frac{1}{\nu} \right)^2 \]  
+ {{< katex display >}} 
+ =\frac{1}{2} \left( \frac{e}{mE} \right) \left( \frac{1}{\nu} \right)^2 
+ {{< /katex >}}  
 
- \[ y' = \frac{1}{2} \frac{e}{m} \frac{l^2B^2}{E} \]
+ {{< katex display >}}
+ y' = \frac{1}{2} \frac{e}{m} \frac{l^2B^2}{E}
+  {{< /katex >}} 
 
 Therefore, the deflection _y_ on the screen is
 
-\[ y \propto y' \Rightarrow y = Cy' \]
+{{< katex display >}} 
+y \propto y' \Rightarrow y = Cy' 
+ {{< /katex >}}
 
 where C is proportionality constant which depends on the geometry of the discharge tube and substituting _yʹ_ value in equation 9.6, we get  
 
-\[ y = C \frac{l}{2} \frac{e}{m} \frac{l^2B^2}{E} \]   (9.7)
+{{< katex display >}}  y = C \frac{l}{2} \frac{e}{m} \frac{l^2B^2}{E}  {{< /katex >}}
+   (9.7)
 
 Rearranging equation (9.7) as
 
- \[ \frac{e}{m} = \frac{eyE}{Cl^2B^2} \]  (9.8)
+ {{< katex display >}}  \frac{e}{m} = \frac{eyE}{Cl^2B^2}  {{< /katex >}}
+  (9.8)
 
-Substituting the values on RHS, the value of specific charge is calculated as \[ \frac{e}{m} = 1.7 \times 10^{11} \, \text{C/kg}^{-1} \] .
+Substituting the values on RHS, the value of specific charge is calculated as {{< katex display >}}  \frac{e}{m} = 1.7 \times 10^{11} \, \text{C/kg}^{-1}  {{< /katex >}}
+ .
 
 The specific charge is independent of 
 (a) gas used
@@ -276,7 +290,7 @@ The specific charge is independent of
 
 **Note**
 
-### 9.2.2 Determination of charge of an electron – Millikan’s oil drop experiment
+**9.2.2 Determination of charge of an electron – Millikan’s oil drop experiment**
 
 Millikan’s oil drop experiment is another important experiment in modern physics which is used to determine one of the fundamental constants of nature known as charge of an electron (Figure 9.6 (a)).
 
@@ -309,11 +323,13 @@ Few oil drops in the chamber can acquire electric charge (negative charge) becau
 **To Atomizer**
 
 **Light source** -->
-
-![Millikan’s experiment (a) real picture and schematic picture (b) Side view picture](9.6.png "")
-**Figure 9.6** Millikan’s experiment (a) real 
+<div align="center">
+  <img src="9.6.png"/>
+  <p> Figure 9.6 </strong>Millikan’s experiment (a) real picture and schematic picture (b) Side view picture</p>
+</div>
+<!-- **Figure 9.6** Millikan’s experiment (a) real 
 picture and schematic picture (b) Side 
-view picture
+view picture -->
 
 <!-- (a)
 
@@ -338,47 +354,42 @@ Let _m_ be the mass of the oil drop and _q_ be its charge. Then the forces actin
 
 **(a) (b)** -->
 
-![Free body diagram of the oil drop – (a) without electric field (b) with electric field](9.7.png "")
-**Figure 9.7** Free body diagram of the oil 
-drop – (a) without electric field (b) with 
-electric field
+<!-- ![Free body diagram of the oil drop – (a) without electric field (b) with electric field](9.7.png "") -->
+<div align="center">
+  <img src="9.7.png"/>
+  <p> Figure 9.7 </strong>Free body diagram of the oil drop – (a) without electric field (b) with electric field</p>
+</div>
 
 **(a) Determination of radius of the droplet**
 
 When the electric field is switched off, the oil drop accelerates downwards. Due to the presence of air drag forces, the oil drops easily attain its terminal velocity and moves with constant velocity. This velocity can be carefully measured by noting down the time taken by the oil drop to fall through a predetermined distance. The free body diagram of the oil drop is shown in Figure 9.7 (a), we note that viscous force and buoyant force balance the gravitational force.
 Let the gravitational force acting on the oil drop (downward) be _F<sub>g</sub>  = mg_
 Let us assume that oil drop to be spherical in shape. Let ρ be the density of the oil drop, and _r_ be the radius of the oil drop, then the mass of the oil drop can be expressed in terms of its density as
-
-
-\[ p = \frac{m}{v} \]
-
-\[ m = \rho \left(\frac{4}{3}\pi r^3\right) \] (therefore volume of the sphere, \[ V = \frac{4}{3}\pi r^3 \])
+{{< katex display >}}  p = \frac{m}{v}  {{< /katex >}}
+{{< katex display >}}  m = \rho \left(\frac{4}{3}\pi r^3\right)  {{< /katex >}}
+ (therefore volume of the sphere, {{< katex display >}}  V = \frac{4}{3}\pi r^3  {{< /katex >}}
+)
 
 The gravitational force can be written in terms of density as
 
-\[ F_g = mg \]
-
-\[ F_g = \rho \left(\frac{4}{3}\pi r^3\right)g \]
-
+{{< katex display >}}  F_g = mg  {{< /katex >}}
+{{< katex display >}}  F_g = \rho \left(\frac{4}{3}\pi r^3\right)g  {{< /katex >}}
 Let σ be the density of the air, the upthrust force experienced by the oil drop due to displaced air is
 
-\[ F_b = \sigma \left(\frac{4}{3}\pi r^3\right)g \]
-
+{{< katex display >}}  F_b = \sigma \left(\frac{4}{3}\pi r^3\right)g  {{< /katex >}}
 Once the oil drop attains a terminal velocity _υ_, the net downward force acting on the oil drop is equal to the viscous force acting opposite to the direction of motion of the oil drop. From Stokes law, the viscous force on the oil drop is
 
-\[ F_v = 6\pi r \nu \eta \]
+{{< katex display >}}  F_v = 6\pi r \nu \eta  {{< /katex >}}
+
 
 From the free body diagram as shown in Figure 9.7 (a), the force balancing equation is
 
-\[ F_g = F_b + F_v \]
-
-\[ \rho \left(\frac{4}{3}\pi r^3\right)g = \sigma \left(\frac{4}{3}\pi r^3\right)g + 6\pi r \nu \eta \]
-
-\[ \frac{4}{3} \pi r^3 (\rho - \sigma) g = 6\pi r \nu \eta \]
-
-\[ \frac{2}{3} \pi r^3 (\rho - \sigma) g = 3\pi r \nu \eta \]
-
-\[ r = \left( \frac{9 \nu \eta}{2(\rho - \sigma) g} \right)^{1/2} \]        (9.9)
+{{< katex display >}}  F_g = F_b + F_v  {{< /katex >}}
+{{< katex display >}}  \rho \left(\frac{4}{3}\pi r^3\right)g = \sigma \left(\frac{4}{3}\pi r^3\right)g + 6\pi r \nu \eta  {{< /katex >}}
+{{< katex display >}}  \frac{4}{3} \pi r^3 (\rho - \sigma) g = 6\pi r \nu \eta  {{< /katex >}}
+{{< katex display >}}  \frac{2}{3} \pi r^3 (\rho - \sigma) g = 3\pi r \nu \eta  {{< /katex >}}
+{{< katex display >}}  r = \left( \frac{9 \nu \eta}{2(\rho - \sigma) g} \right)^{1/2}  {{< /katex >}}
+        (9.9)
 
 Thus, equation (9.9) gives the radius of the oil drop.
 
@@ -386,35 +397,29 @@ Thus, equation (9.9) gives the radius of the oil drop.
 
 charged oil drops experience an upward electric force (_qE_). Among many drops, one particular drop can be chosen in the field of view of microscope and strength of the electric field is adjusted to make that particular drop to be stationary. Under these circumstances, there will be no viscous force acting on the oil drop. Then, from the free body diagram shown Figure 9.7 (b), the net force acting on the oil droplet is
 
-\[ F_e = F_b + F_g \]
+{{< katex display >}}  F_e = F_b + F_g  {{< /katex >}}
 
-\[ qE + \frac{4}{3}\pi^3 \sigma g = \frac{4}{3}\pi^3 \rho g \]
-
-\[ qE = \frac{4}{3}\pi^3 (\rho - \sigma) g \]
-
-\[ q = \frac{4}{3} E \pi^3 (\rho - \sigma) g \]
-
+{{< katex display >}}  qE + \frac{4}{3}\pi^3 \sigma g = \frac{4}{3}\pi^3 \rho g  {{< /katex >}}
+{{< katex display >}}  qE = \frac{4}{3}\pi^3 (\rho - \sigma) g  {{< /katex >}}
+{{< katex display >}}  q = \frac{4}{3} E \pi^3 (\rho - \sigma) g  {{< /katex >}}
 Substituting equation (9.9) in equation (9.11), we get
 
-\[ q = \frac{18\pi}{E} \left( \frac{n^3v^3}{2(\rho - \sigma)g} \right)^{1/2} \]         (9.12)
+{{< katex display >}}  q = \frac{18\pi}{E} \left( \frac{n^3v^3}{2(\rho - \sigma)g} \right)^{1/2}  {{< /katex >}}
+         (9.12)
 
 Millikan repeated this experiment several times and computed the charges on oil drops. He found that the charge of any oil drop can be written as integral multiple of a basic value, \(-1.6 \times 10^{-19} \, \text{C}\)
 
 which is nothing but the charge of an electron.
 
-**ATOM MODELS**
+**9.3** **ATOM MODELS**
 
-**Introduction** Around 400 B.C, Greek philosophers
-
-Leucippus and Democretus proposed the concept of atom, ‘Every object on continued subdivision ultimately yields atoms’. Later, many physicists and chemists tried to understand the nature with the idea of atoms. Many theories were proposed to explain the properties (physical and chemical) of bulk materials on the basis of atomic model.
+**Introduction** 
+Around 400 B.C, Greek philosophers Leucippus and Democretus proposed the concept of atom, ‘Every object on continued subdivision ultimately yields atoms’. Later, many physicists and chemists tried to understand the nature with the idea of atoms. Many theories were proposed to explain the properties (physical and chemical) of bulk materials on the basis of atomic model.
 
 For instance, J. J. Thomson proposed a theoretical atom model which is based on static distribution of electric charges. Since this model fails to explain the stability of atom, one of his students E. Rutherford proposed the first dynamic model of an atom. Rutherford gave atom model which is based on results of an experiment done by his students (Geiger and Marsden). But this model also failed to explain the stability of the atom.
 
 Later, Niels Bohr who is also a student of Rutherford proposed an atomic model for hydrogen atom which is more successful than other two models. Niels Bohr atom model could explain the stability of the atom and also the origin of line spectrum. There are other atom models, such as Sommerfeld’s atom model and atom model from wave mechanics (quantum mechanics). But we will restrict ourselves only to very simple (mathematically simple) atom model in this section.
-
-**9.3**  
-
-### J. J. Thomson’s Model (Water melon model)
+ **9.3.1 J. J. Thomson’s Model (Water melon model)**
 
 In this model, the atoms are visualized as homogeneous spheres which contain uniform distribution of positively charged particles (Figure 9.8 (a)). The negatively charged particles known as electrons are embedded in it like seeds in water melon as shown in Figure 9.8 (b).
 <!-- 
@@ -424,15 +429,15 @@ In this model, the atoms are visualized as homogeneous spheres which contain uni
 
 \_ -->
 
-Positively charged material
-
 <!-- **10 m–10** -->
-
-![(a) Atom (b) Water melon](9.8.png "")
- **Figure (9.8)** (a) Atom (b) Water melon
+<div align="center">
+  <img src="9.8.png"/>
+  <p> Figure 9.8 </strong>(a) Atom (b) Water melon</p>
+</div>
+ <!-- **Figure (9.8)** (a) Atom (b) Water melon -->
 The atoms are electrically neutral, this implies that the total positive charge in an atom is equal to the total negative charge. According to this model, all the charges are assumed to be at rest. But from classical electrodynamics, no stable equilibrium points exist in electrostatic configuration (this is known as Earnshaw’s theorem) and hence such an atom cannot be stable. Further, it fails to explain the origin of spectral lines observed in the spectrum of hydrogen atom and other atoms.
 
-### Rutherford’s model
+**9.3.2 Rutherford’s model**
 
 In 1911, Geiger and Marsden did a remarkable experiment based on the advice of their teacher Rutherford, which is known as scattering of alpha particles by gold foil.
 
@@ -446,8 +451,11 @@ Rutherford proposed an atom model based on the results of alpha scattering
 
 **Polonium sample** -->
 
-![Schematic diagram for scattering](9.9.png "")
-
+<!-- ![Schematic diagram for scattering](9.9.png "") -->
+<div align="center">
+  <img src="9.9.png"/>
+  <p> Figure 9.9 </strong>Schematic diagram for scattering</p>
+</div>
 <!-- \_ \_
 
 \_
@@ -464,18 +472,15 @@ Rutherford proposed an atom model based on the results of alpha scattering
 
 **+** -->
 
-![In alpha scattering experiment – result (c) The variation of alpha particles scatt  ](9.10.png "")
+<!-- ![In alpha scattering experiment – result (c) The variation of alpha particles scatt  ](9.10.png "") -->
+<div align="center">
+  <img src="9.10.png"/>
+  <p> Figure 9.10 </strong>In alpha scattering experiment – result (c) The variation of alpha particles scatt</p>
+</div>
 **Figure(9.10)** In alpha scattering experiment – result (c) The variation of alpha particles scatt
-
-experiment. In this experiment, alpha particles (positively charged particles) were allowed to fall on the atoms of a metallic gold foil. The results of this experiment are given below and are shown in Figure 9.10, Rutherford expected the atom model to be as seen in Figure 9.10 (a) but the experiment showed the model as in Figure 9.10 (b). (a) Most of the alpha particles were
-
-un-deflected through the gold foil and went straight.
-
+experiment. In this experiment, alpha particles (positively charged particles) were allowed to fall on the atoms of a metallic gold foil. The results of this experiment are given below and are shown in Figure 9.10, Rutherford expected the atom model to be as seen in Figure 9.10 (a) but the experiment showed the model as in Figure 9.10 (b). (a) Most of the alpha particles were un-deflected through the gold foil and went straight.
 (b) Some of the alpha particles were deflected through a small angle.
-
-(c) A few alpha particles (one in thousand) were deflected through the angle more than 90°
-of alpha particles experiment by Rutherford
-
+(c) A few alpha particles (one in thousand) were deflected through the angle more than 90° of alpha particles experiment by Rutherford
 <!-- ## 40 60 80 100 120 140 160 180 10
 
 ## 104 105 106 107
@@ -526,17 +531,22 @@ From the experimental observations, Rutherford proposed that an atom has a lot o
 
 **_b_ Impact parameter gold nucleusdistance of closed approachAlpha particles _r0_**
 
-![Distance of closest approach and impact parameter](9.11.png "")
+<!-- ![Distance of closest approach and impact parameter](9.11.png "") -->
+<div align="center">
+  <img src="9.11.png"/>
+  <p> Figure 9.11 </strong>Distance of closest approach and impact parameter</p>
+</div>
 
 When an alpha particle moves straight towards the nucleus, it reaches a point where it comes to rest momentarily and returns back as shown in Figure 9.11. **The minimum distance between the centre**  
 
-**of the nucleus and the alpha particle just before it gets reflected back through 180**° **is defined as the distance of closest approach r0 (also known as contact distance)**. At this distance, all the kinetic energy of the alpha particle will be converted into electrostatic potential energy (Refer unit 1, volume 1 of +2 physics text book).
+**of the nucleus and the alpha particle just before it gets reflected back through 180 is defined as the distance of closest approach r0 (also known as contact distance)**. At this distance, all the kinetic energy of the alpha particle will be converted into electrostatic potential energy (Refer unit 1, volume 1 of +2 physics text book).
 
-\[ \frac{1}{2}m{v_0}^2 = \frac{1}{4\pi\varepsilon_0} \frac{2eZ_e}{r_0} \]
-
-\[ r_0 = \frac{1}{4\pi\varepsilon_0} \frac{2Ze^2} {\frac{1}{2} m{v_0}^2} = \frac{1}{4\pi\varepsilon_0} \frac{2Ze^2} {E_k} \]
-
-
+{{< katex display >}}  
+\frac{1}{2}m{v_0}^2 = \frac{1}{4\pi\varepsilon_0} \frac{2eZ_e}{r_0}  
+{{< /katex >}}
+{{< katex display >}}  
+r_0 = \frac{1}{4\pi\varepsilon_0} \frac{2Ze^2} {\frac{1}{2} m{v_0}^2} = \frac{1}{4\pi\varepsilon_0} \frac{2Ze^2} {E_k}  
+{{< /katex >}}
 where _Ek_ is the kinetic energy of the alpha particle.This is used to estimate the size of the nucleus but size of the nucleus is always lesser than the distance of closest approach. Further, Rutherford calculated the radius of the nucleus for different nuclei and found that it ranges from 10–14 m to 10–15 m.
 
 <!-- **(b) Impact parameter**
@@ -553,14 +563,18 @@ where _Ek_ is the kinetic energy of the alpha particle.This is used to estimate 
 
 **large distance** -->
 
-![Impact parameter](9.12.png "")
+<!-- ![Impact parameter](9.12.png "") -->
+<div align="center">
+  <img src="9.12.png"/>
+  <p> Figure 9.12 </strong>Impact parameter</p>
+</div>
 
 **The** **impact parameter** (_b_) (see Figure 9.12) **is defined as the perpendicular distance between the centre of the gold nucleus and the direction of velocity vector of alpha particle when it is at a large distance**. The relation between impact parameter and scattering angle can be shown as
 
-\[ b \propto \cot\left(\frac{\theta}{2}\right) \Rightarrow b = K \cot\left(\frac{\theta}{2}\right) \]     (9.13)
-
-
-where \[ K = \frac{1}{4\pi\varepsilon_0} \frac{2Ze^2}{mv_0^2} \] and θ is called
+{{< katex display >}}  b \propto \cot\left(\frac{\theta}{2}\right) \Rightarrow b = K \cot\left(\frac{\theta}{2}\right)  {{< /katex >}}
+     (9.13)
+where {{< katex display >}}  K = \frac{1}{4\pi\varepsilon_0} \frac{2Ze^2}{mv_0^2}  {{< /katex >}}
+ and θ is called
 
 scattering angle. Equation (9.13) implies that when impact parameter increases, the scattering angle decreases. Smaller the impact parameter, larger will be the deflection of alpha particles.
 
@@ -574,7 +588,12 @@ calculation of the diameter of the nucleus and also the size of the atom but has
 
 **_e\__** \+ \_
 
-![Spiral in motion of an electron around the nucleus](9.13.png "")
+<!-- ![Spiral in motion of an electron around the nucleus](9.13.png "") -->
+
+<div align="center">
+  <img src="9.13.png"/>
+  <p> Figure 9.13 </strong>Spiral in motion of an electron around the nucleus</p>
+</div>
 
 According to classical electrodynamics, any accelerated charge should emit electromagnetic radiations continuously. Due to emission of radiations, the charge loses its energy. Hence, it can no longer sustain the circular motion. The radius of the orbit, therefore, becomes smaller and smaller (undergoes spiral motion) as shown in Figure 9.13 and finally the electron should fall into the nucleus and the atoms should disintegrate. But this does not happen.  
 
@@ -594,12 +613,11 @@ around nucleus in circular orbits under the influence of Coulomb electrostatic f
 
 (b) Electrons in an atom revolve around the nucleus only in certain discrete orbits called stationary orbits and electron in such orbits do not radiate electromagnetic energy. Only those discrete orbits allowed are stable orbits.
 
-The angular momentum of the electron in these stationary orbits are quantized – that is, it can be written as an integer or integral multiple of \[ \frac{h}{2\pi} \] called as reduced Planck’s constant – that is, _h_(read it as h-bar) and the integer _n_ is called as principal quantum number.
+The angular momentum of the electron in these stationary orbits are quantized – that is, it can be written as an integer or integral multiple of {{< katex display >}}  \frac{h}{2\pi}  {{< /katex >}}
+ called as reduced Planck’s constant – that is, _h_(read it as h-bar) and the integer _n_ is called as principal quantum number.
 
-\[ l = nh \]
-
-where \[ h = \frac{h}{2\pi} \]
-
+{{< katex display >}}  l = nh  {{< /katex >}}
+where {{< katex display >}}  h = \frac{h}{2\pi}  {{< /katex >}}
 This condition is known as angular momentum quantization condition.
 
 According to quantum mechanics, particles like electrons have dual nature (Refer unit 8, volume 2 of +2 physics text book). The standing wave pattern of the de Broglie wave associated with orbiting electron in a stable orbit is shown in Figure 9.15.
@@ -616,29 +634,27 @@ According to quantum mechanics, particles like electrons have dual nature (Refer
 
 <!-- Forbidden -->
 
-![Standing wave pattern for electron in a stable orbit  ](9.15.png "")
+<!-- ![Standing wave pattern for electron in a stable orbit  ](9.15.png "") -->
+<div align="center">
+  <img src="9.15.png"/>
+  <p> Figure 9.15 </strong>Standing wave pattern for electron in a stable orbit </p>
+</div>
 
 The circumference of an electron’s orbit of radius _r_ must be an integral multiple of de Broglie wavelength – that is,
 
 2πr =nλ                     (9.14) where n = 1,2,3,......
 
-But the de Broglie wavelength (_λ_) associated with an electron of mass _m_ moving with velocity _υ_ is \[ \lambda = \frac{h}{mv} \] where _h_ is called Planck’s constant. Thus from equation (9.14),
+But the de Broglie wavelength (_λ_) associated with an electron of mass _m_ moving with velocity _υ_ is {{< katex display >}}  \lambda = \frac{h}{mv}  {{< /katex >}}
+ where _h_ is called Planck’s constant. Thus from equation (9.14),
 
-\[2\pi r = \frac{n h}{mv}\]
-
-\[mvr = \frac{n h}{2\pi}\
-
-
+{{< katex display >}} 2\pi r = \frac{n h}{mv} {{< /katex >}}
+{{< katex display >}} mvr = \frac{n h}{2\pi} {{< /katex >}}
 For any particle of mass _m_ undergoing circular motion with radius _r_ and velocity _υ_, the magnitude of angular momentum _l_ is given by
-
-\[ l = r \cdot mv \]
-
-\[ mvr = l = nh \]
-
+{{< katex display >}}  l = r \cdot mv  {{< /katex >}}
+{{< katex display >}}  mvr = l = nh  {{< /katex >}}
 (c) Energy of the electron in orbits is not continuous but only discrete. This is called the quantization of energy. An electron can jump from one orbit to another orbit by absorbing or emitting a photon whose energy is equal to the difference in energy (ΔE) between the two orbital levels (Figure 9.16)
 
-\[ \Delta E = E_{\text{final}} - E_{\text{initial}} = hv = \frac{hc}{\gamma} \]
-
+{{< katex display >}}  \Delta E = E_{\text{final}} - E_{\text{initial}} = hv = \frac{hc}{\gamma}  {{< /katex >}}
  where _c_ is the speed of light and λ is the
 
 wavelength and _v_ is the frequency of the radiation emitted. Thus, the frequency of the radiation emitted is related only to change in atomic energy levels and it does not depend on frequency of orbital motion of the electron.
@@ -663,9 +679,12 @@ wavelength and _v_ is the frequency of the radiation emitted. Thus, the frequenc
 
 \_ -->
 
-![Absorption and emission of radiation](9.16.png "")
+<!-- ![Absorption and emission of radiation](9.16.png "") -->
 
-
+<div align="center">
+  <img src="9.16.png"/>
+  <p> Figure 9.16 </strong>Absorption and emission of radiation</p>
+</div>
 
 
 
@@ -685,32 +704,26 @@ The radius of the 5th orbit of hydrogen atom is 13.25 Å. Calculate the de brogl
 
 **Solution:**
 
-\[ 2\pi r = n\lambda \]
+{{< katex display >}}  2\pi r = n\lambda  {{< /katex >}}
+{{< katex display >}}  2 \times 3.14 \times 13.25 \, \text{Å} = 5 \times \lambda \Rightarrow \lambda = 16.64 \, \text{Å}  {{< /katex >}}
 
-\[ 2 \times 3.14 \times 13.25 \, \text{Å} = 5 \times \lambda \Rightarrow \lambda = 16.64 \, \text{Å} \]
 
 **EXAMPLE 9.2**
 
 Find the (i) angular momentum (ii) velocity of the electron revolving in the 5th orbit of hydrogen atom.
 
-\[ h = 6.6 \times 10^{-34} \, \text{Js} \]
+{{< katex display >}}  h = 6.6 \times 10^{-34} \, \text{Js}  {{< /katex >}}
+{{< katex display >}}  m = 9.1 \times 10^{-31} \, \text{kg}  {{< /katex >}}
 
-\[ m = 9.1 \times 10^{-31} \, \text{kg} \]
 
 **Solution** (i) Angular momentum is given by
 
-\[ \lambda = \frac{nh}{2\pi} = \frac{5 \times 6.6 \times 10^{-34}}{2 \times 3.14} \]
-
-\[ \lambda \approx 5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1} \]
-
+{{< katex display >}}  \lambda = \frac{nh}{2\pi} = \frac{5 \times 6.6 \times 10^{-34}}{2 \times 3.14}  {{< /katex >}}
+{{< katex display >}}  \lambda \approx 5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1}  {{< /katex >}}
 (ii) Velocity is given by
 
-Velocity \[ \nu = \frac{\lambda}{mr} = \frac{5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1}}{9.1 \times 10^{-31} \, \text{kg} \cdot 13.25 \times 10^{-10} \, \text{m}} \]
-
-\[ \nu \approx 4.4 \times 10^5 \, \text{m/s}^{-1} \]
-
- 
-
+Velocity {{< katex display >}}  \nu = \frac{\lambda}{mr} = \frac{5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1}}{9.1 \times 10^{-31} \, \text{kg} \cdot 13.25 \times 10^{-10} \, \text{m}}  {{< /katex >}}
+{{< katex display >}}  \nu \approx 4.4 \times 10^5 \, \text{m/s}^{-1}  {{< /katex >}}
 <!-- **_rn_**
 
 **_υn_**
@@ -731,64 +744,54 @@ Velocity \[ \nu = \frac{\lambda}{mr} = \frac{5.25 \times 10^{-34} \, \text{kg} \
 
 **Nucleus +Z_e_ +** -->
 
-![Electron revolving around the nucleus](9.17.png "")
+<!-- ![Electron revolving around the nucleus](9.17.png "") -->
+<div align="center">
+  <img src="9.17.png"/>
+  <p> Figure 9.17 </strong>Electron revolving around the nucleus</p>
+</div>
 
 Let _Z_ be the atomic number of the atom, then +_Ze_ is the charge of the nucleus. Let –_e_ be the charge of the electron. From Coulomb’s law, the force of attraction between the nucleus and the electron is
  
-\[
+{{< katex display >}} 
 \overset{\rightarrow}{F}_{\text{Coulomb}} = \frac{1}{4\pi\varepsilon_0} \frac{+Ze \cdot (-e)}{r^2_n r}
-\]
-
- \[
+ {{< /katex >}}
+ {{< katex display >}} 
    = -\frac{1}{4\pi\varepsilon_0} \frac{Ze^2}{r_n^2} \cdot \overset{\hat{}}{r}
-\]
-
+ {{< /katex >}}
 This force provides necessary centripetal force
 
-\[ F_{\text{centripetal}} = \frac{mv^2_n}{r_n} \cdot \overset{\hat{}}{r} \]
-
-
-
+{{< katex display >}}  F_{\text{centripetal}} = \frac{mv^2_n}{r_n} \cdot \overset{\hat{}}{r}  {{< /katex >}}
 where _m_ be the mass of the electron that moves with a velocity _υ_n in a circular orbit. Therefore,
 
-\[ |\overset{\rightarrow}{F}_{\text{Coulomb}}| = |\overset{\rightarrow}{F}_{\text{centripetal}}| \]
-
-\[ \frac{1}{4\pi\varepsilon_0} \frac{Ze^2}{r_n^2} = \frac{mv_n^2}{r_n} \]
-
+{{< katex display >}}  |\overset{\rightarrow}{F}_{\text{Coulomb}}| = |\overset{\rightarrow}{F}_{\text{centripetal}}|  {{< /katex >}}
+{{< katex display >}}  \frac{1}{4\pi\varepsilon_0} \frac{Ze^2}{r_n^2} = \frac{mv_n^2}{r_n}  {{< /katex >}}
 Multiplied and divided by ‘_m_’
 
-\[ r_n = \frac{4\pi\varepsilon_0(mv_nr_n)^2}{Ze^2} \]
+{{< katex display >}}  r_n = \frac{4\pi\varepsilon_0(mv_nr_n)^2}{Ze^2}  {{< /katex >}}
+
 
 From Bohr’s assumption, the angular momentum quantization condition, 
 
-\[ mv_nr_n = l_n = n \],
-
-
-
+{{< katex display >}}  mv_nr_n = l_n = n  {{< /katex >}}
 
 | EXAMPLE 9 . 2Find t he (i) a ngular m omentum (ii) velocity of the electron revolving in the 5  orbit of  hydrogen atom.(h = 6.6 × 10 Js, m = 9.1 × 10 kg)Solutionth(i) Angular momentum is given by–34  –31nhln==2π56××.61 0= =×52.k51 0 gm s23× .14−34−−34 21 |
 |------|
 | (ii) Velocity is given bylVelocity υ =mr(.52 51× 0 kgms )=(.91 ××10 kg)(13.25 10 mm)υ =×44. 10 ms−−34 21−−31 1051 − |
 
   
-\( h = 6.6 \times 10^{-34} \, \text{Js} \)
-\( m = 9.1 \times 10^{-31} \, \text{kg} \)
+ {{< katex display >}} 
+ h = 6.6 \times 10^{-34} \, \text{Js} 
+ {{< /katex >}}
 
-∴ 
-
-\[ l = nh = \frac{nh}{2\pi} \]
-
-\[ l = \frac{5 \times 6.6 \times 10^{-34}}{2 \times 3.14} \]
-
-\[ l = 5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1} \]
-
-
-\[ v = \frac{l}{mr} \]
-
-\[ v = \frac{5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1}}{(9.1 \times 10^{-31} \, \text{kg})(13.25 \times 10^{-10} \, \text{m})} \]
-
-\[ v = 4.4 \times 10^5 \, \text{m/s}^{-1} \]
-
+   {{< katex display >}}
+  m = 9.1 \times 10^{-31} \, \text{kg} 
+  {{< /katex >}}
+   ∴ {{< katex display >}}  l = nh = \frac{nh}{2\pi}  {{< /katex >}}
+{{< katex display >}}  l = \frac{5 \times 6.6 \times 10^{-34}}{2 \times 3.14}  {{< /katex >}}
+{{< katex display >}}  l = 5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1}  {{< /katex >}}
+{{< katex display >}}  v = \frac{l}{mr}  {{< /katex >}}
+{{< katex display >}}  v = \frac{5.25 \times 10^{-34} \, \text{kg} \cdot \text{m}^2 \cdot \text{s}^{-1}}{(9.1 \times 10^{-31} \, \text{kg})(13.25 \times 10^{-10} \, \text{m})}  {{< /katex >}}
+{{< katex display >}}  v = 4.4 \times 10^5 \, \text{m/s}^{-1}  {{< /katex >}}
  (9.16)
 
 where _n_Î . Since, ε0, _h, e_ and π are constants. Therefore, the radius of the orbit becomes
@@ -806,31 +809,24 @@ where _a h me_0 0
 . Å. This is
 
 known as Bohr radius which is the smallest radius of the orbit in hydrogen atom. Bohr radius is also used as unit of length called Bohr. 1 Bohr = 0.53 Å. For hydrogen atom (Z = 1), the radius of nth orbit is
-
-
-\[ r_n = a_0n^2 \]
-
+{{< katex display >}}  r_n = a_0n^2  {{< /katex >}}
 For \( n = 1 \) (first orbit or ground state),
-\[ r_1 = a_0 = 0.529 \, \text{Å} \]
+{{< katex display >}}  r_1 = a_0 = 0.529 \, \text{Å}  {{< /katex >}}
 
 For \( n = 2 \) (second orbit or first excited state),
-\[ r_2 = 4a_0 = 2.116 \, \text{Å} \]
+{{< katex display >}}  r_2 = 4a_0 = 2.116 \, \text{Å}  {{< /katex >}}
 
 For \( n = 3 \) (third orbit or second excited state),
-\[ r_3 = 9a_0 = 4.761 \, \text{Å} \]
-
+{{< katex display >}}  r_3 = 9a_0 = 4.761 \, \text{Å}  {{< /katex >}}
 and so on.
 
-Thus the radius of the orbit from centre increases with (\(n\)), that is, \[ r_n \propto n^2 \] as shown in Figure 9.18.
+Thus the radius of the orbit from centre increases with (\(n\)), that is, {{< katex display >}}  r_n \propto n^2  {{< /katex >}}
+ as shown in Figure 9.18.
 
 Further, Bohr’s angular momentum quantization condition leads to
-
-
-\[ \frac{mv_na_0n^2}{Z} = \frac{nh}{2\pi} \]  \[ (∴  r_n = \frac{a_0 n^2}{Z}) \]
-
+{{< katex display >}}  \frac{mv_na_0n^2}{Z} = \frac{nh}{2\pi}  {{< /katex >}}
+  {{< katex display >}}  (∴  r_n = \frac{a_0 n^2}{Z})  {{< /katex >}}
 ∴ 
-
-
 <!-- **r2= 4r1**
 
 **r4= 16r1**
@@ -839,63 +835,52 @@ Further, Bohr’s angular momentum quantization condition leads to
 
 **r1** -->
 
-![Variation of radius of the orbit with principal quantum number](9.18.png "")
+<!-- ![Variation of radius of the orbit with principal quantum number](9.18.png "") -->
+<div align="center">
+  <img src="9.18.png"/>
+  <p> Figure 9.18 </strong>Variation of radius of the orbit with principal quantum number</p>
+</div>
 
-\[ v_n = \frac{h}{2\pi m a_0 Z} \frac{Z}{n} \]
-
-
-in atomic physics \[ v_n \propto \frac{1}{n}
+{{< katex display >}}  v_n = \frac{h}{2\pi m a_0 Z} \frac{Z}{n}  {{< /katex >}}
+in atomic physics {{< katex display >}}  v_n \propto \frac{1}{n}  {{< /katex >}}
 
 Note that the velocity of electron decreases as the principal quantum number (orbit number) increases as shown in Figure 9.19. This curve is the rectangular hyperbola. This implies that the velocity of electron in ground state is maximum when compared to that in excited states.
 
-**Vn**
+<!-- **Vn**
 
-**O n**
+**O n** -->
 
-![Variation of velocity of the electron in the orbit with principal quantum number](9.19.png "")
-
+<!-- ![Variation of velocity of the electron in the orbit with principal quantum number](9.19.png "") -->
+<div align="center">
+  <img src="9.19.png"/>
+  <p> Figure 9.19 </strong>Variation of velocity of the electron in the orbit with principal quantum number</p>
+</div>
 <!-- υ_n n_ µ 1 -->
-
-
-
-
-
-
 <!-- | r= 3 |
 |------|------| -->
 
-  
+  **The energy of an electron in the _n_<sup>th</sup> orbit** Since the electrostatic force is a conservative
 
-**The energy of an electron in the _n_th orbit** Since the electrostatic force is a conservative
+force, the potential energy for the _n_<sup>**th**</sup>  orbit is
+{{< katex display >}}  U_n = \frac{1}{4\pi\varepsilon_0} \frac{(+Ze)(-e)}{r_n} = -\frac{1}{4\pi\varepsilon_0} \frac{Ze^2}{r_n}  {{< /katex >}}
+{{< katex display >}}  U_n = -\frac{1}{4\varepsilon_0^2} \frac{Z^2me^4}{h^2n^2}  {{< /katex >}}
+The kinetic energy of the electron in _n_<sup>th</sup> orbit is
 
-force, the potential energy for the _n_**th** orbit is
-
-
-\[ U_n = \frac{1}{4\pi\varepsilon_0} \frac{(+Ze)(-e)}{r_n} = -\frac{1}{4\pi\varepsilon_0} \frac{Ze^2}{r_n} \]
-
-\[ U_n = -\frac{1}{4\varepsilon_0^2} \frac{Z^2me^4}{h^2n^2} \]
-
-
-The kinetic energy of the electron in _n^th_ orbit is
-
-\[ KE_n = \frac{1}{2}m c_n^2 = \frac{me^4}{8\epsilon_0^2 h^2} \frac{Z^2}{n^2} \]
-
+{{< katex display >}}  KE_n = \frac{1}{2}m c_n^2 = \frac{me^4}{8\epsilon_0^2 h^2} \frac{Z^2}{n^2}  {{< /katex >}}
 This implies that Un = –2 KEn. Total energy of the electron in in the _nth_ orbit is
 
-\[ E_n = KE_n + U_n = KE_n - 2KE_n = -KE_n \]
+{{< katex display >}}  E_n = KE_n + U_n = KE_n - 2KE_n = -KE_n  {{< /katex >}}
+{{< katex display >}}  E_n = -\frac{me^2}{8\epsilon_0^2h^2} \frac{Z^2}{n^2}  {{< /katex >}}
+  For hydrogen atom (Z = 1),
 
-\[ E_n = -\frac{me^2}{8\epsilon_0^2h^2} \frac{Z^2}{n^2} \]  
-
-For hydrogen atom (Z = 1),
-
-\[ E_n = -\frac{me^2}{8\epsilon_0^2h^2} \frac{1}{n^2} \] joule          (9.17)
+{{< katex display >}}  E_n = -\frac{me^2}{8\epsilon_0^2h^2} \frac{1}{n^2}  {{< /katex >}}
+ joule          (9.17)
 
 where _n_ stands for principal quantum number. The negative sign in equation (9.17) indicates that the electron is bound to the nucleus.
 
 Substituting the values of mass and charge of an electron (_m_ and _e_), permittivity of free space ε0 and Planck’s constant _h_ and expressing energy in terms of electron(+(_eV_)), we get
 
-\[ E_n = -13.6 \frac{1}{n^2} \, \text{eV} \]
-
+{{< katex display >}}  E_n = -13.6 \frac{1}{n^2} \, \text{eV}  {{< /katex >}}
 For the first orbit (ground state), the total energy of electron is E1= – 13.6 _eV_. For the second orbit (first excited state), the total energy of electron is E2= –3.4 _eV_. For the third orbit (second excited state), the total energy of electron is E3= –1.51 _eV_ and so on.  
 
 Notice that the energy of the first excited state is greater than that of the ground state, second excited state is greater than that of the first excited state and so on. Thus, the orbit which is closest to the nucleus (_r_1) has lowest energy (minimum energy what it is compared with other orbits). So, it is often called ground state energy (lowest energy state). The ground state energy of hydrogen (–13.6 _eV_ ) is used as a unit of energy called Rydberg (1 Rydberg = –13.6 _eV_ ).
@@ -914,17 +899,14 @@ The energy level diagram along with the shape of the orbits for increasing value
 
 (a) The velocity of an electron in _n_th orbit is
 
-\[ v_n = \frac{h}{2\pi m a_0 Z} \frac{1}{n} \]
-
-where \( a_0 = \frac{\epsilon_0 h^2}{\pi m e^2} = \) Bohr radius. Substituting
-
+{{< katex display >}}  v_n = \frac{h}{2\pi m a_0 Z} \frac{1}{n}  {{< /katex >}}
+where {{< katex display >}}  a_0 = \frac{\epsilon_0 h^2}{\pi m e^2} = {{< /katex >}} Bohr radius. Substituting
 for _a_0 in _υ_n,
 
 
 
-\[ v_n = \frac{e^2}{2\epsilon_0 h} \frac{Z}{n} = c \left(\frac{e^2}{2\epsilon_0 hc}\right) \frac{Z}{n} = \alpha c \frac{Z}{n} \]  
-
-
+{{< katex display >}}  v_n = \frac{e^2}{2\epsilon_0 h} \frac{Z}{n} = c \left(\frac{e^2}{2\epsilon_0 hc}\right) \frac{Z}{n} = \alpha c \frac{Z}{n}  {{< /katex >}}
+  
 where _c_ is the speed of light in free space or vacuum and its value is _c_ \= 3 × 10^8 m s–1and α is called fine structure constant.
 
 For a hydrogen atom, _Z_ = 1 and for the first orbit, _n_ \= 1, the ratio of velocity of electron in first orbit to the speed of light in vacuum or free space is
@@ -935,7 +917,11 @@ For a hydrogen atom, _Z_ = 1 and for the first orbit, _n_ \= 1, the ratio of vel
 
 **n = 3 n = 4 n = 5 n = ∞** -->
 
-**Figure 9.20 Energy levels of a hydrogen atom**  
+<!-- **Figure 9.20 Energy levels of a hydrogen atom**   -->
+<div align="center">
+  <img src="9.20.png"/>
+  <p> Figure 9.20 </strong>Energy levels of a hydrogen atom</p>
+</div>
 
 <!-- υ α ε
 
@@ -1009,36 +995,28 @@ number
 
 
 
- \[ \frac{v_1}{c} = \alpha = \frac{e^2}{2\epsilon_0hc} \]
+ {{< katex display >}}  \frac{v_1}{c} = \alpha = \frac{e^2}{2\epsilon_0hc}  {{< /katex >}}
 
-\[ \alpha = \frac{(1.6 \times 10^{-19} \, \text{C})^2}{2 \times (8.854 \times 10^{-12} \, \text{C}^2 \, \text{N}^{-1} \, \text{m}^{-2}) \times (6.6 \times 10^{-34} \, \text{Nms}) \times (3 \times 10^8 \, \text{ms}^{-1})} \]
 
-\[ \alpha \approx \frac{1}{136.9} \approx \frac{1}{137} \] 
-  
-
-\[ \Rightarrow \alpha = \frac{1}{137} \]
-
+{{< katex display >}}  \alpha = \frac{(1.6 \times 10^{-19} \, \text{C})^2}{2 \times (8.854 \times 10^{-12} \, \text{C}^2 \, \text{N}^{-1} \, \text{m}^{-2}) \times (6.6 \times 10^{-34} \, \text{Nms}) \times (3 \times 10^8 \, \text{ms}^{-1})}  {{< /katex >}}
+{{< katex display >}}  \alpha \approx \frac{1}{136.9} \approx \frac{1}{137}  {{< /katex >}}
+{{< katex display >}}  \Rightarrow \alpha = \frac{1}{137}  {{< /katex >}}
 (b) Using fine structure constant, the velocity of electron can be written as
 
-\[ v_n = \alpha \frac{cZ}{n} \]
-
+{{< katex display >}}  v_n = \alpha \frac{cZ}{n}  {{< /katex >}}
 For a hydrogen atom (\(Z = 1\)), the velocity of the electron in the \(n\)-th orbit is
 
-\[ v_n = \frac{c}{137n} \approx (2.19 \times 10^6) \frac{1}{n} \, \text{m/s} \]
-
+{{< katex display >}}  v_n = \frac{c}{137n} \approx (2.19 \times 10^6) \frac{1}{n} \, \text{m/s}  {{< /katex >}}
 For the first orbit (ground state), the velocity of the electron is
 
-\[ v_1 = 2.19 \times 10^6 \, \text{m/s} \]
-
+{{< katex display >}}  v_1 = 2.19 \times 10^6 \, \text{m/s}  {{< /katex >}}
 For the second orbit (first excited state), the velocity of the electron is
 
-\[ v_2 = 1.095 \times 10^6 \, \text{m/s} \]
-
+{{< katex display >}}  v_2 = 1.095 \times 10^6 \, \text{m/s}  {{< /katex >}}
 For the third orbit (second excited state), the velocity of the electron is
 
-\[ v_3 = 0.73 \times 10^6 \, \text{m/s} \]
-
-Here, \(v_1 > v_2 > v_3\).
+{{< katex display >}}  v_3 = 0.73 \times 10^6 \, \text{m/s}  {{< /katex >}}
+Here, {{< katex display >}} v_1 > v_2 > v_3 .{{< /katex >}}
 
 **EXAMPLE 9.4**
 
@@ -1056,25 +1034,19 @@ Let the mass of the electron be _m_ and mass of the nucleus be _M_. Since there 
 
 Let _V_ be the velocity of the nuclear motion and _υ_ be the velocity of electron motion. Since the total linear momentum of the system is zero,
 
-\[ -mv + Mv = 0 \quad \text{or} \quad MV = mv = p \]
-
-\[ \overrightarrow{P_e} + \overrightarrow{P_n} = 0 \quad \text{or} \quad |\overrightarrow{P_e}| = |\overrightarrow{P_n}| = \overrightarrow{P} \]
-
+{{< katex display >}}  -mv + Mv = 0 \quad \text{or} \quad MV = mv = p  {{< /katex >}}
+{{< katex display >}}  \overrightarrow{P_e} + \overrightarrow{P_n} = 0 \quad \text{or} \quad |\overrightarrow{P_e}| = |\overrightarrow{P_n}| = \overrightarrow{P}  {{< /katex >}}
 Hence, the kinetic energy of the system is
 
-\[ KE = \frac{P_n^2}{2M} + \frac{P_e^2}{2m} = \frac{P^2}{2} \left(\frac{1}{M} + \frac{1}{m}\right) \]
+{{< katex display >}}  KE = \frac{P_n^2}{2M} + \frac{P_e^2}{2m} = \frac{P^2}{2} \left(\frac{1}{M} + \frac{1}{m}\right)  {{< /katex >}}
+Let {{< katex display >}} \frac{1}{M} + \frac{1}{m} = \frac{1}{\mu_m} {{< /katex >}}
 
-Let \( \frac{1}{M} + \frac{1}{m} = \frac{1}{\mu_m} \)
+Here the reduced mass is {{< katex display >}} \mu_m = \frac{mM}{M+m} {{< /katex >}}
 
-Here the reduced mass is \( \mu_m = \frac{mM}{M+m} \)
-
-Therefore, the kinetic energy of the system now is \( KE = \frac{P^2}{2\mu_m} \)
-
-
+Therefore, the kinetic energy of the system now is {{< katex display >}} KE = \frac{P^2}{2\mu_m} {{< /katex >}}
 Since the potential energy of the system is same, the total energy of the hydrogen can be expressed by replacing mass by reduced mass, which is
 
-\[ E_n = -\frac{\mu_me^4}{8\sigma_0^2h^2} \frac{1}{n^2} \]
-
+{{< katex display >}}  E_n = -\frac{\mu_me^4}{8\sigma_0^2h^2} \frac{1}{n^2}  {{< /katex >}}
 Since the nucleus is very heavy compared to the electron, the reduced mass is closer to the mass of the electron.
 
 
@@ -1107,9 +1079,10 @@ The excitation energy for an electron from ground state (n = 1) to first excited
 
 For hydrogen atom, it is  
 
-\[ E_I = E_2 - E_1 = -3.4 \, \text{eV} - (-13.6 \, \text{eV}) = 10.2 \, \text{eV} \]
+{{< katex display >}}  E_I = E_2 - E_1 = -3.4 \, \text{eV} - (-13.6 \, \text{eV}) = 10.2 \, \text{eV}  {{< /katex >}}
 
-Similarly, the excitation energy for an electron from ground state (\(n = 1\)) to the second excited state (\(n = 3\)) is called the second excitation energy, which is \(E_{II} = E_3 - E_1 = -1.51 \, \text{eV} - (-13.6 \, \text{eV}) = 12.1 \, \text{eV}\)
+
+Similarly, the excitation energy for an electron from ground state (\(n = 1\)) to the second excited state (\(n = 3\)) is called the second excitation energy, which is {{< katex display >}}E_{II} = E_3 - E_1 = -1.51 \, \text{eV} - (-13.6 \, \text{eV}) = 12.1 \, \text{eV}{{< /katex >}}
 
 and so on. **Excitation potential is defined as**
 
@@ -1117,56 +1090,42 @@ and so on. **Excitation potential is defined as**
 
 state energy is
 
-\[ E_I = eV_I \]
+{{< katex display >}}  E_I = eV_I  {{< /katex >}}
+
 
 First excitation potential for hydrogen atom is,
 
-\[ V_I = \frac{1}{e} E_I = 10.2 \, \text{volt} \]
-
+{{< katex display >}}  V_I = \frac{1}{e} E_I = 10.2 \, \text{volt}  {{< /katex >}}
 Similarly, the second excitation potential is
 
-\[ V_{II} = \frac{1}{e} E_{II} = 12.1 \, \text{volt} \]
-
+{{< katex display >}}  V_{II} = \frac{1}{e} E_{II} = 12.1 \, \text{volt}  {{< /katex >}}
 and so on.
 
 **Ionization energy and ionization potential** An atom is said to be ionized when an electron is completely removed from the atom – that is, it reaches the state with energy _En_→∞ . **The minimum energy required to remove an electron from an atom in the ground state is known as binding energy or ionization energy**.
 
 For hydrogen atom, the ground state ionization energy is,
-
-
-
-\[ E_{\text{ionization}} = E_{\infty} - E_1 = 0 - (-13.6 \, \text{eV}) = 13.6 \, \text{eV} \]
-
+{{< katex display >}}  E_{\text{ionization}} = E_{\infty} - E_1 = 0 - (-13.6 \, \text{eV}) = 13.6 \, \text{eV}  {{< /katex >}}
 When an electron is in _n_th state of an atom, the energy required to remove an electron from that state – that is, the corresponding ionization energy is
 
-\[ E_{\text{ionization}} = E_{\infty} - E_1 = 0 - \left(-\frac{13.6}{n^2} Z^2 \, \text{eV}\right) = \frac{13.6}{n^2} Z^2 \, \text{eV} \]
-
-At normal room temperature, the electron in a hydrogen atom (_Z_\=1) spends most of
-
-
-
-
-  
-
-**energy required to remove an electron from the ground state of an atom to the outer most orbit _(E = 0_ for _n_→∞_)_ is known as first ionization energy (13.6 _e_V).** Then, the hydrogen atom is said to be in ionized state or simply called as hydrogen ion, denoted by _H_+. If we supply more energy than the ionization energy, the excess energy appear as the kinetic energy of the free electron.
+{{< katex display >}}  E_{\text{ionization}} = E_{\infty} - E_1 = 0 - \left(-\frac{13.6}{n^2} Z^2 \, \text{eV}\right) = \frac{13.6}{n^2} Z^2 \, \text{eV}  {{< /katex >}}
+At normal room temperature, the electron in a hydrogen atom \(_Z_\=1\) spends most of
+**energy required to remove an electron from the ground state of an atom to the outer most orbit _(E = 0_ for _n_→∞_)_ is known as first ionization energy (13.6 (_e_V).** Then, the hydrogen atom is said to be in ionized state or simply called as hydrogen ion, denoted by _H_+. If we supply more energy than the ionization energy, the excess energy appear as the kinetic energy of the free electron.
 
 **Ionization potential is defined as ionization energy per unit charge.**
 
-\[ V_{\text{ionization}} = \frac{1}{e} \]
-
-\[ E_{\text{ionization}} = \frac{13.6}{n^2} Z^2 V \]
-
+{{< katex display >}}  V_{\text{ionization}} = \frac{1}{e}  {{< /katex >}}
+{{< katex display >}}  E_{\text{ionization}} = \frac{13.6}{n^2} Z^2 V  {{< /katex >}}
 Thus, for a hydrogen atom (Z =1), the ionization potential is
 
-\[ V = \frac{13.6}{n^2} \, \text{volt} \]
-
+{{< katex display >}}  V = \frac{13.6}{n^2} \, \text{volt}  {{< /katex >}}
 The radius, velocity and total energy in ground state, first excited state and second excited state are given in Table 9.1.
 
 **EXAMPLE 9.5**
 
 Suppose the energy of an electron in hydrogen–like atom is given as
 
-\[ E_n = -\frac{54.4}{n^2} \, \text{eV} \]_E_n_ =-54.4/n^2 eV
+{{< katex display >}}  E_n = -\frac{54.4}{n^2} \, \text{eV}  {{< /katex >}}
+{{< katex display >}} E_n =-54.4/n^2 eV {{< /katex >}}
 
 V where _n_Î . Calculate
 
@@ -1217,8 +1176,7 @@ For large value of principal quantum number – that is, _n = ∞,_ we get _E_�
 
 (b) For a hydrogen-like atom, ground state energy is
 
-\[ E_1 = -\frac{13.6}{n^2} Z^2 \, \text{eV} \]
-
+{{< katex display >}}  E_1 = -\frac{13.6}{n^2} Z^2 \, \text{eV}  {{< /katex >}}
 where _Z_ is the atomic number. Hence, comparing this energy with given energy, we get, – 13.6 _Z_2 = – 54.4 ⇒ _Z_ = ±2. Since, atomic number cannot be negative number, _Z_ = 2.
 
 irst excited state Second excited state
@@ -1236,38 +1194,36 @@ irst excited state Second excited state
 
 The first excitation energy is 
 
-\[ E_1 = E_2 - E_1 = -13.6 \, \text{eV} - (-54.4 \, \text{eV}) = 40.8 \, \text{eV} \]
-
+{{< katex display >}}  E_1 = E_2 - E_1 = -13.6 \, \text{eV} - (-54.4 \, \text{eV}) = 40.8 \, \text{eV}  {{< /katex >}}
 Hence, the first excitation potential is
 
-\[ V_1 = \frac{40.8 \, \text{eV}}{e} = 40.8 \, \text{volt} \]
-
+{{< katex display >}}  V_1 = \frac{40.8 \, \text{eV}}{e} = 40.8 \, \text{volt}  {{< /katex >}}
 The first ionization energy is
 
-\[ E_{\text{ionization}} = E_{\infty} - E_1 = 0 - (-54.4 \, \text{eV}) = 54.4 \, \text{eV} \]
-
-
+{{< katex display >}}  E_{\text{ionization}} = E_{\infty} - E_1 = 0 - (-54.4 \, \text{eV}) = 54.4 \, \text{eV}  {{< /katex >}}
 Hence, the first ionization potential is
 
-\[ V_{\text{ionization}} = \frac{54.4 \, \text{eV}}{e} \]
-
+{{< katex display >}}  V_{\text{ionization}} = \frac{54.4 \, \text{eV}}{e}  {{< /katex >}}
   = 54.54 volt
-
 (c) Consider two photons to be A and B. Given that photon A with energy 42 _e_V and photon B with energy 51 _e_V From Bohr assumption, difference in energy levels is equal to the energy photon absored, then atom will absorb energy, otherwise, not.
 
-\[ E_2 - E_1 = -13.6 \, \text{eV} - (-54.4 \, \text{eV}) \]
-        = 40.8eV = 41eV
+{{< katex display >}}  E_2 - E_1 = -13.6 \, \text{eV} - (-54.4 \, \text{eV})  {{< /katex >}}
+
+   {{< katex display >}}     = 40.8eV = 41eV {{< /katex >}}
 
 Similarly, 
 
-\[ E_3 - E_1 = -6.04 \, \text{eV} - (-54.4 \, \text{eV}) \]
-         = 48.36eV
+{{< katex display >}}  E_3 - E_1 = -6.04 \, \text{eV} - (-54.4 \, \text{eV})  {{< /katex >}}
 
-\[ E_4 - E_1 = -3.4 \, \text{eV} - (-54.4 \, \text{eV}) \]
-         = 51eV
+  {{< katex display >}}       = 48.36eV    {{< /katex >}}
 
-\[ E_3 - E_2 = -6.04 \, \text{eV} - (-13.6 \, \text{eV}) \]
-         = 7.56eV         
+{{< katex display >}}  E_4 - E_1 = -3.4 \, \text{eV} - (-54.4 \, \text{eV})  {{< /katex >}}
+
+   {{< katex display >}}      = 51eV     {{< /katex >}}
+
+{{< katex display >}}  E_3 - E_2 = -6.04 \, \text{eV} - (-13.6 \, \text{eV})  {{< /katex >}}
+
+  {{< katex display >}}        = 7.56eV          {{< /katex >}}
 
 and so on. But note that _E2 – E1_ ≠ 42 _e_V, _E3 – E1_ ≠ 42 _e_V, _E4 – E1_ ≠ 42 _e_V and _E3 – E2_ ≠ 42 _e_V.
 
@@ -1287,32 +1243,26 @@ For _n_ = 1, _z_ = 2
  
 (e) Since, total energy is equal to negative of kinetic energy in Bohr atom model, we get
 
-\[ KE_n = -E_n = -\left(-\frac{54.4}{n^2} \, \text{eV}\right) \]
-
+{{< katex display >}}  KE_n = -E_n = -\left(-\frac{54.4}{n^2} \, \text{eV}\right)  {{< /katex >}}
 Simplifying, we get:
 
-\[ KE_n = \frac{54.4}{n^2} \, \text{eV} \]
-
+{{< katex display >}}  KE_n = \frac{54.4}{n^2} \, \text{eV}  {{< /katex >}}
 Since, Potential energy is negative of twice the kinetic energy,
-
-
-\[ U_n = -2KE_n = -2\left(\frac{54.4}{n^2} \, \text{eV}\right) \]
-
+{{< katex display >}}  U_n = -2KE_n = -2\left(\frac{54.4}{n^2} \, \text{eV}\right)  {{< /katex >}}
 Simplifying, we get:
 
-\[ U_n = -\frac{108.8}{n^2} \, \text{eV} \]
-
+{{< katex display >}}  U_n = -\frac{108.8}{n^2} \, \text{eV}  {{< /katex >}}
 For a ground state, put n =1
 
-Kinetic energy is \[ KE_1 = 54.4 \, \text{eV} \] and Potential energy is \[ U_1 = -108.8 \, \text{eV} \]
+Kinetic energy is {{< katex display >}}  KE_1 = 54.4 \, \text{eV}  {{< /katex >}}
+ and Potential energy is {{< katex display >}}  U_1 = -108.8 \, \text{eV}  {{< /katex >}}
+
 
 ### Atomic spectra
 
 Materials in the solid, liquid and gaseous states emit electromagnetic radiations when they are heated up and these emitted radiations usually exhibit continuous spectrum. For example, when white light is examined through a spectrometer, electromagnetic radiations of all wavelengths are observed which is a continuous spectrum.
 
-In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or
-
-electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains of a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
+In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains of a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
 
 This implies that these spectra are unique to each element and can be used to identify the element of the gas (like finger print used to identify a person) – that is, it varies from one gas to another gas. This uniqueness of line spectra of elements made the scientists to determine the composition of stars, sun and also used to identify the unknown compounds.
 
@@ -1338,8 +1288,11 @@ When any gas is heated up, the thermal energy is supplied to excite the electron
 
 **Low-pressure gas** -->
 
-![Spectrum of an atom  ](9.21.png "")
-
+<!-- ![Spectrum of an atom  ](9.21.png "") -->
+<div align="center">
+  <img src="9.21.png"/>
+  <p> Figure 9.21 </strong>Spectrum of an atom </p>
+</div>
 electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state with those wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
 
 <!-- **n = 3n = 4 n = 4n = 5 n = 5**
@@ -1364,11 +1317,15 @@ electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs e
 
 **pectrum** -->
 
-![Hydrogen spectrum (a) emission (b) absorption](9.22.png "")
+<!-- ![Hydrogen spectrum (a) emission (b) absorption](9.22.png "") -->
+<div align="center">
+  <img src="9.22.png"/>
+  <p> Figure 9.22 </strong>Hydrogen spectrum (a) emission (b) absorption</p>
+</div>
 
 **Line spectrum**
 
-Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately \(10^{-8}\) s) by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
+Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately \(10^-8\)s by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
 
 The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
 
@@ -1448,14 +1405,17 @@ The wavelengths of these lines can be calculated with great precision. Further, 
 
 **n m** -->
 
-![Spectral series – Lyman, Balmer, Paschen series](9.23.png "")
+<!-- ![Spectral series – Lyman, Balmer, Paschen series](9.23.png "") -->
+<div align="center">
+  <img src="9.23.png"/>
+  <p> Figure 9.23 </strong>Spectral series – Lyman, Balmer, Paschen series</p>
+</div>
 
 Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each  
 
 series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculate using equation derived from Bohr atom model.
 
-\[ \frac{1}{\lambda} = R\left(\frac{1}{n^2} - \frac{1}{m^2}\right) = \vec{v} \] 
-
+{{< katex display >}}  \frac{1}{\lambda} = R\left(\frac{1}{n^2} - \frac{1}{m^2}\right) = \vec{v}  {{< /katex >}}
  (9.18)
 
 where _v_ **is known as wave number which is inverse of wavelength,** _R_ is known as Rydberg constant whose value is 1.09737 × 107 m-1 and _m_ and _n_ are positive integers such that _m > n_. The various spectral series are discussed below:
@@ -1464,35 +1424,27 @@ where _v_ **is known as wave number which is inverse of wavelength,** _R_ is kno
 
 (9.18), the wave numbers or wavelength of spectral lines of Lyman series which lies in ultra-violet region,
   
-\[ \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{1^2} - \frac{1}{m^2}\right) \]
-
+{{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{1^2} - \frac{1}{m^2}\right)  {{< /katex >}}
 **(b) Balmer series** For _n =_ 2 and _m_ = 3,4,5....... in equation
 
 (9.18), the wave numbers or wavelength of spectral lines of Balmer series which lies in visible region,
 
-\[ \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{2^2} - \frac{1}{m^2}\right) \]
-
-
+{{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{2^2} - \frac{1}{m^2}\right)  {{< /katex >}}
 **(c) Paschen series** Put _n =_ 3 and _m_ = 4,5,6....... in equation
 
 (9.18). The wave number or wavelength of spectral lines of Paschen series which lies in infra-red region (near IR) is
 
-\[ \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{3^2} - \frac{1}{m^2}\right) \]
-
-
+{{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{3^2} - \frac{1}{m^2}\right)  {{< /katex >}}
 **(d) Brackett series** For _n =_ 4 and _m_ = 5,6,7........ in equation
 
 (9.18), the wave numbers or wavelength of spectral lines of Brackett series which lies in infra-red region (middle IR),
 
-\[ \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{4^2} - \frac{1}{m^2}\right) \]
-
-
+{{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{4^2} - \frac{1}{m^2}\right)  {{< /katex >}}
 **(e) Pfund series** For _n =_ 5 and _m_ = 6,7,8........ in equation
 
 (9.18), the wave numbers or wavelength of spectral lines of Pfund series which lies in infra-red region (far IR),
 
-\[ \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{5^2} - \frac{1}{m^2}\right) \]
-
+{{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{5^2} - \frac{1}{m^2}\right)  {{< /katex >}}
 Different spectral series are listed in Table 9.2.
 
 **Table 9.2**
@@ -1517,6 +1469,7 @@ hydrogen atom or hydrogen like-atoms but not for complex atoms.
 
 (d) The distribution of electrons in various levels cannot be completely explained by Bohr atom model.  
 
+**9.4**
 **NUCLEI**
 
 **Introduction** In the previous section, we have
@@ -1535,7 +1488,7 @@ _Z AX_
 
 where _X_ is the chemical symbol of the element, _A_ is the mass number and _Z_ is the atomic number. For example, the
 
-**9.4**
+
 
 
 
@@ -1556,25 +1509,16 @@ nitrogen nucleus is represented by 7
 
 Since the nucleus is made up of positively charged protons and electrically neutral neutrons, the overall charge of the nucleus is positive and it has the value +_Ze_. But the atom is electrically neutral which implies that the number of electrons in the atom is equal to the number of protons in the nucleus.
 
-### Isotopes, isobars, and isotones
+### 9.4.2 Isotopes, isobars, and isotones
 
 **Isotopes:** In nature, there are atoms of a particular
 
 element whose nuclei have same number of protons but different number of neutrons. These kinds of atoms are called isotopes. In other words, **isotopes are atoms of the same element having same atomic number _Z_, but different mass number _A_**. For example, hydrogen has three isotopes and they are represented as 1
 
-1_H_ (hydrogen), 1
-
-2_H_ (deuterium),and 1
-
-3_H_ (tritium). Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
+{{< katex display >}} _{1}^{1}\textrm{H} (hydrogen), _{2}^{1}\textrm{H} and  (deuterium), _{3}^{1}\textrm{H} (tritium){{< /katex >}} . Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
 
 The number of isotopes for the particular element and their relative abundances (percentage) vary with each element. For example, carbon has four main isotopes:
-
-6
-
-11_C_ , 6
-
-12_C_ , 6
+{{< katex display >}} _{11}^{6}\textrm{C},_{11}^{6}\textrm{C}{{< /katex >}}
 
 13_C_ and 6
 
@@ -1622,7 +1566,7 @@ Since the chemical properties of any atom are determined only by electrons, the 
 
 13_C_ are examples of isotones with 7 neutrons each.
 
-### Atomic and nuclear masses
+### 9.4.3 Atomic and nuclear masses
 
 The mass of nuclei is very small (about 10-25 kg or less). Therefore, it is more convenient to express it in terms of another unit namely, the _atomic mass unit (u)._ **One atomic mass unit (_u_) is defined as the (1/12)th of the mass of the isotope of carbon**
 
@@ -1631,39 +1575,11 @@ The mass of nuclei is very small (about 10-25 kg or less). Therefore, it is more
 12_C_ which is more abundant in naturally occurring isotope of carbon**.**
 
 In other words
+  {{< katex display >}} 
+1u = \frac{{\text{{mass of }} ^{12}_6C \text{{ atom}}}}{{12}} = \frac{{1.9926 \times 10^{-26}}}{{12}} = 1.660 \times 10^{-27} \, \text{{kg}}
+ {{< /katex >}}
 
-1 12
-
-1 9926 10 12
-
-1 660 10
-
-6 12 26
-
-27
-
-mass of atom
-
-kg
-
-_u C_
-
-\= = ×
-
-\= ×
-
-−
-
-−
-
-.
-
-.
-
-
-
-
-  
+   
 
 In terms of this atomic mass unit, the mass of the neutron = 1.008665 _u_, the mass of the proton =1.007276 _u_, the mass of the hydrogen atom = 1.007825 _u_ and the mass of 6
 
@@ -1681,51 +1597,30 @@ The element chlorine is a mixture of 75.77% of 17
 
 average atomic mass will be
 
-75 77 100
-
-34 96885 24 23 100
-
-36 96593
-
-35 453
-
-. . . .
-
-.
-
-× + ×
-
-\=
-
-_u u_
-
-_u_
-
+{{< katex display >}} 
+0.7577 \times 34.9688u + 0.2423 \times 36.9659u = 34.453u
+ {{< /katex >}}
 In fact, the chemist uses the average atomic mass or simply called chemical atomic weight (35.453 u for chlorine) of an element. So it must be remembered that the atomic mass which is mentioned in the periodic table is basically averaged atomic mass.
 
-### Size and density of the nucleus
+### 9.4.4 Size and density of the nucleus
 
 The alpha particle scattering experiment and many other measurements using  
 
 different methods have been carried out on the nuclei of various atoms. The nuclei of atoms are found to be approximately spherical in shape. It is experimentally found that radius of nuclei for _Z_ > 10, satisfies the following empirical formula
-
-_R R A_\= 0
-
-1 3 (9.19)
+ {{< katex display >}}  R = R_0 A^{1/3}  {{< /katex >}}
+           (9.19)
 
 Here _A_ is the mass number of the nucleus and the constant R0 = 1.2 F, where 1 F = 1 × 10–15 m.The unit fermi (F) is named after Enrico Fermi.
 
 **EXAMPLE 9.7**
 
-Calculate the radius of 79 197 _Au_ nucleus.
+Calculate the radius of\(^{197}_{79}\text{Au}\) nucleus.
 
 **_Solution_**
 
 According to the equation (9.19),
 
-_R m_\= × × = ×− −1 2 10 197 6 97 1015 1 3 15. ( ) .
-
-Or _R =_ 6.97 F
+R = 1.2 × 10^-15 × (197)^(1/3) = 6.97 × 10^-15 m
 
 **EXAMPLE 9.8**
 
@@ -1735,88 +1630,29 @@ Calculate the density of the nucleus with mass number _A_.
 
 From equation (9.19), the radius of the
 
-nuclecus, R = _R A_0
+nuclecus, {{< katex display >}}  R = R_0 A^{1/3}  {{< /katex >}}
 
-1 3 . Then the volume of
+. Then the volume of
 
 the nucleus
-
-_V R R A_\= =4 3
-
-4 3
-
-3 0 3π π
-
-By ignoring the mass difference between the proton and neutron, the total mass of the nucleus having mass number _A_ is equal to _A.m_ where _m_ is mass of the proton and is equal to 1.6726 x 10-27 kg.
-
-
-
-
-  
-
-n +
-
-++
-
-n n
-
-n
-
-Neutron
-
-Proton+ + n
-
-n
-
-n + n
-
-\+ + +
-
+{{< katex display >}}  V = \frac{4}{3} \pi R^3 = \frac{4}{3} \pi R_0^3 A  {{< /katex >}}
+By ignoring the mass difference between the proton and neutron, the total mass of the nucleus having mass number _A_ is equal to _A.m_ where _m_ is mass of the proton and is equal to 1.6726 x 10^-27 kg.
 Nuclear density
 
-ρ π π
-
-\= = =mass of the nuclei Volume ofthe nuclei
-
-_A m R A_
-
-_m R_
-
-. 4 3
-
-4 30
-
-3 0 3
-
+{{< katex display >}}  \rho = \frac{\text{mass of the nuclei}}{\text{Volume of the nuclei}}  {{< /katex >}}
+{{< katex display >}}  \rho = \frac{A \cdot m}{\frac{4}{3}\pi R_0^3 A}  {{< /katex >}}
+{{< katex display >}}  \rho = \frac{m}{\frac{4}{3}\pi R_0^3}  {{< /katex >}}
 The above expression shows that the nuclear density is independent of the mass number _A_. In other words, all the nuclei (_Z_ > 10) have the same density and it is an important characteristic property of all nuclei.
 
 We can calculate the numerical value of this density by substituting the corresponding values.
 
-ρ π
-
-\= ×
-
-× × = ×
-
-−
-
-−
-
-1 67 10 4 3 1 2 10
-
-2 3 10 27
-
-15 3
-
-17\. ( . )
-
-. kg m-3.
-
+{{< katex display >}}  \rho = \frac{1.67 \times 10^{-27}}{\frac{4}{3} \pi x (1.2 \times 10^{-15})^3}  {{< /katex >}}
+{{< katex display >}}  \rho \approx 2.3 \times 10^{17} \, \text{kg m}^{-3}  {{< /katex >}}
 It implies that nucleons are extremely tightly packed or compressed state in the nucleus and compare this density with the density of water which is 103 kg m-3.
 
 A single teaspoon of nuclear matter would weigh about trillion tons.
 
-### Mass defect and binding energy
+### 9.4.5 Mass defect and binding energy
 
 It is experimentally found out that the mass of any nucleus is always less than the sum of the masses of its individual constituent particles. For example, consider the carbon-12 nucleus which is made up of 6 protons and 6 neutrons. Mass of 6 neutrons = 6 1 00866 6 05196× =. ._u u_ Mass of 6 protons = 6 1 00727 6 04362× =. ._u u_  
 
@@ -1830,14 +1666,16 @@ and mn are mass of the nucleus ( _Z AX_ ), the
 
 mass of a proton and the mass of a neutron respectively, then the mass defect is given by
 
-∆_m Zm Nm Mp n_\= +( ) − (9.20)
+{{< katex display >}}
+\Delta m = (Zm_p + Nm_n)-M       (9.20)
+{{< /katex >}}
 
 Where has this mass disappeared? The answer was provided by Albert Einstein with the help of famous mass-energy relation ( )_E mc_\= 2 . According to this relation, the mass can be converted into energy and energy can be converted into mass. In the case of the carbon-12 nucleus, when 6 protons and 6 neutrons combine to form carbon-12 nucleus, mass equal to mass defect disappears and an energy equivalent to missing mass. This energy is called the binding energy of the nucleus (BE) and is equal to ∆_m c_( ) 2 . In fact, to separate the carbon-12 nucleus into individual constituents, we must supply the energy equal to binding energy of the nucleus.
 
 We can write the equation (9.20) in terms of binding energy
-
-_BE Zm Nm M cp n_\= + −( ) 2 (9.21)
-
+{{< katex display >}}
+BE = (Zm_p + Nm_n - M)c^2                                           (9.21)
+{{< /katex >}}
 It is always convenient to work with the mass of the atom rather than with the mass of
 
 
@@ -1852,33 +1690,32 @@ It is always convenient to work with the mass of the atom rather than with the m
 
 the nucleus. Hence by adding and subtracting the mass of the _Z_ electrons, we get
 
-_BE Zm Zm Nm M Zm cp e n e_\= + + − −( ) 2 (9.22)
+{{< katex display >}}
+BE = (Zm_p + Zm_e + Nm_n - M -Zm_e)c^2                                          
+{{< /katex >}} 
 
-_BE Z m m Nm M Zm cp e n e_\= +( ) + − −  2
+{{< katex display >}}
+BE = [Z(m_p + m_e)+Nm_n - M - Zm_e]c^2                                           
+{{< /katex >}} 
 
-where _m m mp e H_\+ = (mass of hydrogen atom)
+where m_p + m_e = m_H (mass of hydrogen atom)
 
-_BE Zm Nm M Zm cH n e_\= + − +\[ \]( ) 2 (9.23)
+{{< katex display >}}
+BE = [Zm_H + Nm_n - (M+Zm_e)]c^2                                           
+{{< /katex >}}
 
-Here _M Zm Me A_\+ = where _M A_ is the mass of the atom of an element _Z_
+Here  M + Zm_e = M_A where M_A is the mass of the atom of an element _{A}^{Z}\textrm{X} . Finally, the binding energy in terms of the atomic masses is given by
 
-_AX_ . Finally, the binding energy in terms of
-
-the atomic masses is given by
-
-_BE Zm Nm M cH n A_\= + −\[ \] 2 (9.24)
-
-Using Einstein’s mass- energy equivalence, the energy equivalent
-
-of one atomic mass unit 1 1 66 10 3 10
-
-27 8 2_u_ \= × × ×− . ( )
-
-\= × ≈− 14 94 10 931
-
-11 . _J MeV_
+{{< katex display >}} 
+BE =[Zm_H + Nm_n - M_A]c^2   
+{{< /katex >}}
+  (9.24)
 
 **Note**
+Using Einstein’s mass- energy equivalence, the energy equivalent of one atomic mass unit 
+
+{{< katex display >}} 1u=1.66\times  10^{-21}\times(3\times10^{8})^2
+  =14.94\times10^{-11}J \approx 931Mev {{< /katex >}}
 
 **EXAMPLE 9.9**
 
@@ -1890,23 +1727,17 @@ and that of hydrogen atom, _m uH_ \= 1 00785. .
 
 **_Solution:_**
 
-Binding energy _BE Zm Nm M cH n A_\= + −\[ \] 2
+Binding energy 
 
 For helium nucleus, _Z_ \= 2, _N_ \= _A–Z_ \= 4–2 = 2
 
 Mass defect
 
-∆_m u u_\= ×( ) + ×( ) − 2 1 00785 2 1 008665 4 00260. . .
-
-_u u u_) + ×( ) − 5 2 1 008665 4 00260. . ∆_m u_\= 0 03043.
-
-_B E u c_. .= ×0 03043 2
-
-_B E MeV MeV_. . .= × =0 03043 931 28 33
-
-1 931 2_uc MeV_\=   
-
-The binding energy of the 2
+{{< katex display >}} \Delta m= [2\times1.00785u)+(2\times1.00866u)- 4.00260u]\Delta m=0.03043u {{< /katex >}}
+{{< katex display >}}B.E =0.03043u\times c^2 {{< /katex >}}
+{{< katex display >}}B.E=0.03043\times931MeV =28.33Mev {{< /katex >}}
+{{< katex display >}}[\because 1uc^2=931MeV] {{< /katex >}}
+ The binding energy of the 2
 
 4_He_ nucleus is 28.33 MeV.
 
@@ -1914,14 +1745,9 @@ The binding energy of the 2
 
 In the previous section, the origin of the binding energy is discussed. Now we can find the average binding energy per nucleon _BE_ . It is given by
 
-_BE Zm Nm M c_
-
-_A H n A_\=
-
-\+ −\[ \] 2
-
-(9.25)
-
+{{< katex display >}}
+\overline{BE} =   \frac{[Zm_H + Nm_n - M_A]c^2}{A}
+{{< /katex >}}
 **The average binding energy per nucleon is the average energy required to separate single nucleon from the particular nucleus**. When _BE_ is plotted against A of all known nuclei. We get _BE_ aveage curve as shown in Figure 9.24.
 
 0
@@ -1972,7 +1798,12 @@ _A H n A_\=
 
 150 200 250
 
-![Avg. binding energy of the nucleons](9.24.png "")
+<!-- ![Avg. binding energy of the nucleons](9.24.png "") -->
+
+<div align="center">
+  <img src="9.24.png"/>
+  <p> Figure 9.24 </strong>Avg. binding energy of the nucleons</p>
+</div>
 
 Important inferences from of the average binding energy curve:
 
@@ -2084,12 +1915,6 @@ From this observation, it was concluded that there must be a strong attractive f
 acting only up to a distance of a few fermi. But inside the nucleus, the repulsive Coulomb force or attractive gravitational forces between two protons are much weaker than the nuclear force between two protons. Similarly, the gravitational force between two neutrons is also much weaker than nuclear force between the neutrons. So nuclear force is the strongest force in nature.
 
 (ii) The nuclear force is attractive and acts with an equal strength between proton- proton, proton-neutron, and neutron – neutron.
-
-
-
-
-  
-
 (iii) Nuclear force does not act on the electrons. So it does not alter the chemical properties of the atom.
 
 **RADIOACTIVITY**
@@ -2175,11 +2000,6 @@ As already mentioned, the total mass of the daughter nucleus and
 2
 
 4_He_ nucleus is always
-
-
-
-
-  
 
 less than that of the parent nucleus. The difference in mass ( ∆_m m m mX Y_\= − − α ) is released as energy called **disintegration energy** _Q_ and is given by
 
@@ -2274,11 +2094,6 @@ By applying conservation of momentum, we get
 _m mTh Th_α α  _v v_\=−
 
 It implies that the alpha particle and daughter nucleus move in opposite directions.
-
-
-
-
-  
 
 In magnitude _m mTh Th_α αυ υ=
 
@@ -2549,15 +2364,15 @@ In this decay process, the daughter nucleus 12
 
 4.4 MeV
 
-![Gamma emission](9.25.png "")
+<!-- ![Gamma emission](9.25.png "") -->
+<div align="center">
+  <img src="9.25.png"/>
+  <p> Figure 9.25 </strong>Gamma emission</p>
+</div>
 
 ### Law of radioactive decay
 
 In the previous section, the decay process of a single radioactive nucleus was discussed. In practice, we have bulk material of radioactive sample which contains a vast number of the radioactive nuclei and not all the radioactive nucleus in a sample
-
-
-
-
 
 
 | B 125 |13.4 |
@@ -2566,8 +2381,6 @@ In the previous section, the decay process of a single radioactive nucleus was d
 | C∗12γ6C 126 |
 
 
-
-  
 
 decay at the same time. It decays over a period of time and this decay is basically a random process. It implies that we cannot predict which nucleus is going to decay or rather we can determine like probabilistic basis (like tossing a coin). We can calculate approximately how many nuclei in a sample are decayed over a period of time.
 
@@ -2633,7 +2446,8 @@ _N N e t_\= − 0
 
 λ (9.35)
 
-\[Note: _e e x ex y y_ln = ⇒ = \] Equation (9.35) is called the law of
+{{< katex display >}} Note: _e e x ex y y_ln = ⇒ =  {{< /katex >}}
+ Equation (9.35) is called the law of
 
 radioactive decay. Here _N_ denotes the number of undecayed nuclei present at any time _t_ and _N_0 denotes the number of nuclei present initially time _t=0_. Note that the number of atoms is decreasing exponentially over the length of time. This implies that the time taken for all the radioactive nuclei to decay will be infinite. Equation (9.35) is plotted in Figure 9.26.
 
@@ -2665,7 +2479,12 @@ _N_0/16
 
 2_T_1/2 3_T_1/2 4_T_1/2
 
-![Law of radioactive decay](9.26.png "")
+<!-- ![Law of radioactive decay](9.26.png "") -->
+
+<div align="center">
+  <img src="9.26.png"/>
+  <p> Figure 9.26 </strong>Law of radioactive decay</p>
+</div>
 
 We can also define another useful quantity called activity (R) or decay rate which is the number of nuclei decayed per
 
@@ -2819,7 +2638,8 @@ The total number of nuclei decaying in the time interval from _t_ to _t t_+∆ i
 
 Mean life
 
-t = \[ \] 0
+t = {{< katex display >}}   {{< /katex >}}
+ 0
 
 0 0
 
@@ -3249,9 +3069,10 @@ To find decay constant, we use the equation
 
 . //_T_ yr s yr
 
-\[ ∴
+{{< katex display >}}  ∴
 
-1yr = 365.25 × 24 × 60 × 60 s = 3.156 × 107 s\]
+1yr = 365.25 × 24 × 60 × 60 s = 3.156 × 107 s {{< /katex >}}
+
 
 λ= × − −3 83 10 12 1. _s_
 
@@ -3566,7 +3387,12 @@ Several neutrons from the initial ssion event cause ssion in additional 235U n
 
 95 39Y
 
-![Nuclear chain reaction  ](9.28.png "")
+<!-- ![Nuclear chain reaction  ](9.28.png "") -->
+
+<div align="center">
+  <img src="9.28.png"/>
+  <p> Figure 9.28 </strong>Nuclear chain reaction</p>
+</div>
 
 **EXAMPLE 9.15**
 
@@ -3694,7 +3520,7 @@ Uranium containers
 
 **Shielding**
 
-![(a) Block diagram of Nuc  ](9.29.png "")
+![(a) Block diagram of Nuclear reactor  ](9.29.png "")
 
 with plutonium or polonium is used as the neutron source. During fission of
 
@@ -3748,7 +3574,11 @@ Usually cadmium or boron acts as control rod material and these rods are inserte
 
 **Shielding:** For a protection against harmful radiations, the nuclear reactor is
 
-![(b) Schematic diagram o](9.29.png "")
+<!-- ![(b) Schematic diagram o](9.29.png "") -->
+<div align="center">
+  <img src="9.29.png"/>
+  <p> Figure 9.29 </strong>(b) Schematic diagram of nuclear reactor</p>
+</div>
 
 Core (fuel and moderator)
 
@@ -3895,24 +3725,11 @@ up quark is + 2
 
 According to quark model, proton is made up of two up quarks and one down quark and neutron is made up of one up quark and two down quarks as shown in the Figure 9.30.
 
-Neutron
-
-u 2 3+ _e_
-
-d 1 3– _e_
-
-d 1 3– _e_
-
-Proton
-
-u 2 3+ _e_
-
-u 2 3+ _e_
-
-d 1 3– _e_
-
-![Constituents of nucleons](9.30.png "")
-
+<!-- ![Constituents of nucleons](9.30.png "") -->
+<div align="center">
+  <img src="9.30.png"/>
+  <p> Figure 9.30 </strong>Constituents of nucleons</p>
+</div>
 The study of elementary particles is called particle physics and it is an active area of research even now. Till date, more than 20 Nobel prizes have been awarded in the field of particle physics.
 
 **Fundamental forces of nature:** It is known that there exists gravitational
@@ -4163,7 +3980,8 @@ clei, it is called nuclear fission nucleus, it is called nuclear fusion eaction 
 
 **2\.** A rod of length 10 cm lies along the principal axis of a concave mirror of focal length 10 cm in such a way that its end closer to the pole is 20 cm away from the mirror. The length of the image is, (AIPMT Main 2012) (a) 2.5 cm (b) 5cm (c) 10 cm (d) 15cm
 
-**3\.** An object is placed in front of a convex mirror of focal length of f and the maximum and minimum distance of an object from the mirror such that the image formed is real and magnified. (IEE Main 2009)\] (a) 2f and c (b) c and ∞ (c) f and O (d) None of these
+**3\.** An object is placed in front of a convex mirror of focal length of f and the maximum and minimum distance of an object from the mirror such that the image formed is real and magnified. (IEE Main 2009) 
+ (a) 2f and c (b) c and ∞ (c) f and O (d) None of these
 
 **4\.** For light incident from air onto a slab of refractive index 2. Maximum possible angle of refraction is, (a) 30o (b) 45o
 
@@ -4445,7 +4263,8 @@ present in nature.
 
 **1\.** Consider two hydrogen atoms _HA_ and _HB_ in ground state. Assume that hydrogen atom _HA_ is at rest and hydrogen atom _HB_ is moving with a speed and make head-on collision with the stationary hydrogen atom _HA_. After the collision, both of them move together. What is minimum value of the kinetic energy of the moving hydrogen atom _HB_, such that any one of the hydrogen atoms reaches first excitation state.
 
-\[Ans: 20.4 eV\] **2\.** In the Bohr atom model, the frequency
+{{< katex display >}} Ans: 20.4 eV {{< /katex >}}
+ **2\.** In the Bohr atom model, the frequency
 
 of transitions is given by the following expression
 
@@ -4472,7 +4291,8 @@ Transitions _m n_→ 1 3 2→
 
 Show that the frequency of these transitions obey sum rule (which is known as Ritz combination principle)
 
-\[Ans: _v v v_3 2 2 1 3 1→ → →+ = \]
+{{< katex display >}} Ans: _v v v_3 2 2 1 3 1→ → →+ =  {{< /katex >}}
+
 
 **3\.** (a) A hydrogen atom is excited by radiation of wavelength 97.5 nm. Find the principal quantum number of the excited state.
 
@@ -4482,17 +4302,21 @@ Show that the frequency of these transitions obey sum rule (which is known as Ri
 
 Compute the total number of possible lines in emission spectrum as given in(a).
 
-\[Ans: (a) n =4 (b) 6 possible transitions\]
+{{< katex display >}} Ans: (a) n =4 (b) 6 possible transitions {{< /katex >}}
 
-**4\.** Calculate the radius of the earth if the density of the earth is equal to the density of the nucleus.\[mass of earth 5 97 10
 
-24 . × _kg_ \].
+**4\.** Calculate the radius of the earth if the density of the earth is equal to the density of the nucleus.{{< katex display >}} mass of earth 5 97 10
 
-\[Ans:180m \]
+24 . × _kg_  {{< /katex >}}
+.
+
+{{< katex display >}} Ans:180m  {{< /katex >}}
+
 
 **5\.** Calculate the mass defect and the binding energy per nucleon of the 47
 
-108_Ag_ nucleus. \[atomic mass of Ag = 107.905949\]
+108_Ag_ nucleus. {{< katex display >}} atomic mass of Ag = 107.905949 {{< /katex >}}
+
 
 Ans:
 
@@ -4524,23 +4348,26 @@ and
 
 ratio of decayed numbers of A and B nuclei after 80 minutes.
 
-\[Ans: 5:4\]
+{{< katex display >}} Ans: 5:4 {{< /katex >}}
+
 
 **7\.** On your birthday, you measure the activity of the sample 210_Bi_ which has a half-life of 5.01 days. The initial activity that you measure is 1µ_Ci_ . (a) What is the approximate activity of the sample on your next birthday? Calculate (b) the decay constant (c) the mean life (d) initial number of atoms.
 
-\[Ans: (a) 10 22- µ_Ci_ (b) 1 6 10 6 1
+{{< katex display >}} Ans: (a) 10 22- µ_Ci_ (b) 1 6 10 6 1
 
 . × − −_s_
 
 (c) 7.23days (d) 2 31 10 10
 
-. × \]
+. ×  {{< /katex >}}
+
 
 **8\.** Calculate the time required for 60% of a sample of radon undergo decay. Given _T_
 
 1 2/ of radon =3.8 days
 
-\[Ans: 5.022 days\]
+{{< katex display >}} Ans: 5.022 days {{< /katex >}}
+
 
 **9\.** Assuming that energy released by the fission of a single
 
@@ -4548,9 +4375,10 @@ ratio of decayed numbers of A and B nuclei after 80 minutes.
 
 235_U_ nucleus is 200MeV, calculate the number of fissions per second required to produce 1 watt power.
 
-\[Ans: 3 125 10 10
+{{< katex display >}} Ans: 3 125 10 10
 
-. × \]
+. ×  {{< /katex >}}
+
 
 **10\.** Show that the mass of radium ( 88
 
@@ -4560,7 +4388,8 @@ ratio of decayed numbers of A and B nuclei after 80 minutes.
 
 **11\.** Characol pieces of tree is found from an archeological site. The carbon-14 content of this characol is only 17.5% that of equivalent sample of carbon from a living tree. What is the age of tree?
 
-\[Ans: 1.44 × 104 yr\]
+{{< katex display >}} Ans: 1.44 × 104 yr {{< /katex >}}
+
 
 
 
