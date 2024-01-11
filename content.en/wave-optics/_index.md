@@ -6,55 +6,58 @@ extensions:
 ---
 
 ```
-**Learning Objectives**
+Learning Objectives
 
-**In this unit, the students are exposed to,** 
+    In this unit, the students are exposed to,
 - The wave aspect of light. 
 - The proof for law of reflection and refraction. 
 - The phenomena like interference, diffraction and polarisation.
-- The terms like magnification and resolving power etc ... 
+- The terms like magnification and resolving power etc .
 - The different optical instruments like microscope, telescope etc.
 ```
 
 
-## THEORIES ON LIGHT
+7.1 THEORIES ON LIGHT
 
 Light is a form of energy that is transferred from one place to another. A glance at the evolution of various theories of light put forth by scientists will give not only an over view of the nature of light but also its propagation and some phenomenon demonstrated by it.
 
-### Corpuscular theory
+7.1.1 Corpuscular theory
 
 Sir Isaac Newton (1672) gave the corpuscular theory of light which was also suggested earlier by Descartes (1637) to explain the laws of reflection and refraction. According this theory, light is emitted as tiny, massless (negligibly small mass) and perfectly elastic particles called corpuscles. As the corpuscles are very small, the source of light does not suffer appreciable loss of mass even if it emits light for a long time. On account of high speed, they are unaffected by the force of gravity and their path is a straight line in a medium of uniform refractive index. The energy of light is the kinetic energy of these corpuscles. When these corpuscles impinge on the retina of the eye, the vision is produced. The different sizes of the corpuscles give different colours to light. When the corpuscles approach a surface between two media, they are either repelled (or) attracted. The reflection of light is due to the repulsion of the corpuscles by the medium and refraction of light is due to the attraction of the corpuscles by the medium.
 
 This theory could not explain the reason why the speed of light is lesser in denser medium than in rarer medium and also the phenomena like interference, diffraction and polarisation.
   
 
-### Wave theory
+7.1.2 Wave theory
 
 Christian Huygens (1678) proposed the wave theory to explain the propagation of light through a medium. According to him, light is a disturbance from a source travels that as longitudinal mechanical waves through the ether medium (that was presumed to pervade all space) as mechanical wave requires a medium for its propagation. The wave theory could successfully explain phenomena of reflection, refraction, interference and diffraction of light.
 
 Later, the existence of ether in all space was proved to be wrong. Hence, this theory could not explain the propagation of light through vacuum. The phenomenon of polarisation could not be explained by this theory as it is the property of only transverse waves.
 
-### Electromagnetic wave theory
+
+7.1.3 Electromagnetic wave theory
 
 Maxwell (1864) proved that light is an electromagnetic wave which is transverse in nature carrying electromagnetic energy. He could also show that no medium is necessary for the propagation of electromagnetic waves. All the phenomenon of light could be successfully explained by this theory.
 
 Nevertheless, the interaction phenomenon of light with matter like photoelectric effect and Compton effect could not be explained by this theory.
 
-### Quantum theory
+7.1.4 Quantum theory
 
 Albert Einstein (1905), endorsing the views of Max Plank (1900), was able to explain photoelectric effect (discussed in Unit 8) in which light interacts with matter as _photons_ to eject the electrons. A photon is a discrete packet of energy. Each photon has energy _E_ of, 
 
-_E_ = _hv_ (7.1)
+_E_ = _hv_           (7.1)
 
 Where, _h_ is Plank’s constant (_h_ = 6.625 × 10–34 Js) and _v_ is frequency of electromagnetic wave.
 
 As light has both wave as well as particle nature it is said to have dual nature. It is concluded that light propagates as a wave and interacts with matter as a particle.
 
-## WAVE NATURE OF LIGHT
+7.2
+  WAVE NATURE OF LIGHT
 
 Light is a transverse, electromagnetic wave. The wave nature of light was first demonstrated through experiments like interference and diffraction. The transverse nature of light is demonstrated in polarization. Like all electromagnetic waves, light can travel through vacuum.
 
-### Wave optics
+7.2.1
+ Wave optics
 
 Wave optics deals with the wave characteristics of light. Even the law of reflection and refraction are proved only with the help of wave optics. Though light propagates as a wave, its direction of propagation is still represented as a ray.
 
@@ -65,10 +68,9 @@ When a wave propagates it is treated as the propagation of wavefront. The wavefr
 ![(a) Ripples on water surface (b) Wavefront and ray](7.1.png "")
 
 The shape of a wavefront observed at a point depends on the shape of the source and also the distance at which the source is located. A point source located at a finite distance gives spherical wavefronts. An extended (or) line source at finite distance gives cylindrical wavefronts. Any source that is located at infinity gives plane wavefront as shown in Figure 7.2.
-
 ![Wavefronts](7.2.png "")
 
-### Huygens’ Principle
+7.2.2 Huygens’ Principle
 
 Huygens principle is basically a geometrical construction which gives the shape of the wavefront at any time if we know its shape at _t_ = 0. **According to Huygens principle, each point on the wavefront behaves as the source of secondary wavelets spreading out in all directions with the speed of the wave. These are called as secondary wavelets**. **The envelope to all these wavelets gives the position and shape of the new wavefront at a later time**. Thus, Huygens’ principle explains the propagation of a wavefront.
 
@@ -77,12 +79,15 @@ The propagation of a spherical and plane wavefront can be explained using Huygen
 ![Huygens’ Principle](7.3.png "")
 There is one shortcoming in the above Huygens’ construction for propagation of a wavefront. It could not explain the absence of backward wave which also arises in the above construction. According to electromagnetic wave theory, the backward wave is ruled out inherently. However, Huygens’ principle is a good diagrammatic construction which explains the propagation of the wavefront.
 
-### Proof for laws of reflection using Huygens’ Principle
+7.2.3 Proof for laws of 
+reflection using Huygens’ 
+Principle
 
 Let us consider a parallel beam of light is incident on a reflecting plane surface such as a plane mirror _XY_ as shown in Figure 7.4. The incident wavefront is _AB_ and the reflected wavefront is ′ ′_A B_ . These wavefronts are perpendicular to the incident rays _L_, _M_ and reflected rays ′_L_ , ′_M_ respectively. By the time point _A_ of the incident wavefront touches the reflecting surface, the point _B_ is yet to travel a distance _BB_′ to touch the reflecting surface at ′_B_ . When the point _B_ touches the reflecting surface at ′_B_ , the point _A_ would have reached ′_A_ . This is applicable to all the points on the wavefront. Thus, the reflected wavefront ′ ′_A B_ emanates as a plane wavefront. The two normals _N_ and ′_N_ are considered at the points where the rays _L_ and _M_ fall on the reflecting surface. As reflection happens in the same medium, the speed of light is same before and after
 
 
-**Figure 7.4 Laws of reflection**  
+![Figure 7.4 Laws of reflection](7.4.png "")  
+Figure 7.4 Laws of reflection
 
 the reflection. The time taken for the light to travel from _B_ to ′_B_ and _A_ to ′_A_ are the same. Thus, the distance _BB_′ is equal to the distance _AA_′ ; _(AA = BB )_′ ′ .
 (i) The incident rays, the reflected rays and the normal are in the same plane.
@@ -97,7 +102,7 @@ _i_ = _r_ (7.2)
 
 Hence, the laws of reflection are proved.
 
-### Proof for laws of refraction using Huygens’ Principle
+7.2.4  Proof for laws of refraction using Huygens’ Principle
 
 Let us consider a parallel beam of light is incident on a refracting plane surface _XY_ such as a glass as shown in Figure 7.5. The incident wavefront _AB_ is in rarer medium (1) and the refracted wavefront ′ ′_A B_ is in denser medium (2). These wavefronts are perpendicular to the incident rays _L_, _M_ and refracted rays ′ ′_L ,M_ respectively. By the time the point _A_ of the incident wavefront touches the refracting surface, the point _B_ is yet to travel a distance _BB_′ to touch the refracting surface at ′_B_ . When the point _B_ touches the refracting surface at ′_B_ , the point _A_ would have reached ′_A_ in the other medium. This is applicable
 
@@ -165,7 +170,7 @@ The speed of light in water, _v_2
 
 The results show that the frequency remains same in all media.  
 
-## INTERFERENCE
+ ## 7.3 INTERFERENCE
 
 **The phenomenon of superposition of two light waves which produces increase in intensity at some points and decrease in intensity at some other points is called _interference_ of light.**
 

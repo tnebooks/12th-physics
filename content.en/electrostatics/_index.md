@@ -129,8 +129,7 @@ According to the quantisation of charge,
 **q = ne**
 
 Here *q* = 1C. So the number of electrons in 1 coulomb of charge is
-
-\\( n = \frac{q}{e} = \frac{1C}{1.6 × 10^{–19}} = 6.25 × 10^{18}\\) electrons  
+ {{< katex display >}}n = \frac{q}{e} = \frac{1C}{1.6 × 10^{–19}} = 6.25 × 10^{18}{{< /katex >}} electrons  
 
 ## COULOMB’S LAW
 
