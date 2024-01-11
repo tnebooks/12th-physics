@@ -1,42 +1,43 @@
 ---
-title: 'Magnetism and magnetic effects of electric current'
+title: "Magnetism and magnetic effects of electric current"
 weight: 3
 extensions:
-    - katex
+  - katex
 ---
 
-  
+**U N I T** **3**
+**MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT**
 
-
-**U N I T**
-
-**3** MAGNETIS EFFECTS O
+_“The magnetic force is animate, or intimate a soul; in many respects it surpasses the human soul while it is united to an organic body”_ – William Gilbert
 
 **In this unit, the student is exposed to**
+
+**Learning Objectives**
+![](image.png)
 
 • Earth’s magnetic field and magnetic elements
 
 • Basic properties of magnets
 
-• Statement of Coulomb inverse square law of m
+• Statement of Coulomb inverse square law of magnestism
 
 • Magnetic dipole
 
-• Magnetic field due to a dipole along axial line a
+• Magnetic field due to a dipole along axial line and equatorial line
 
-• Torque acting on a bar magnet in a uniform m
+• Torque acting on a bar magnet in a uniform magnetic field
 
-• Potential energy of a bar magnet placed in a un
+• Potential energy of a bar magnet placed in a uniform magnetic field
 
-• Magnetic properties – permeability, susceptibi
+• Magnetic properties – permeability, susceptibility etc
 
-• Classification of magnetic materials – dia, para
+• Classification of magnetic materials – dia, para and ferro magnetic materials
 
 • Concept of Hysteresis
 
-• Magnetic effects of electric current – long strai
+• Magnetic effects of electric current – long straight conductor and circular coil
 
-• Right hand thumb rule and Maxwell’s right han
+• Right hand thumb rule and Maxwell’s right hannd cork screw rule
 
 • Biot-Savart’s law – applications
 
@@ -50,179 +51,44 @@ extensions:
 
 • Solenoid and toroid
 
-• Lorentz force – charged particle moving in an
+• Lorentz force – charged particle moving in an electromagnetic field
 
 • Cyclotron
 
-• Force on a current carrying conductor in a ma
+• Force on a current carrying conductor in a magnetic field
 
-• Force between two long parallel current carryi
+• Force between two long parallel current carrying conductor
 
 • Torque on a current loop in a magnetic field
 
 • Moving Coil Galvanometer
 
-_“The magnetic force is animate, the human soul while it i_
-
-**Learning Objectives**  
-
-M AND MAGNETIC F ELECTRIC CURRENT
-
-agnetism
-
-nd equatorial line
-
-agnetic field
-
-iform magnetic field
-
-lity etc
-
-and ferro magnetic materials
-
-ght conductor and circular coil
-
-d cork screw rule
-
-electromagnetic field
-
-gnetic field
-
-ng conductor
-
-_or imitates a soul; in many respects it surpasses s united to an organic body”_ – William Gilbert
-
-
-
-
-  
-
-## INTRODUCTION TO MAGNETISM
-
-**Figure 3.1:** Magnetic levitation
-
-Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open (Figure 3.1).
-
-Many birds and animals have magnetic sense in their eyes using Earth’s
-
-magnetic field for navigation.
-
-Magnetic sensing in eyes - for Zebra finch bird, due to protein cryptochromes Cry4 present in retina; the bird uses Earth's magnetic field for navigation  
-
-Magnetism exists everywhere from tiny particles like electrons to the entire universe. Historically the word ‘magnetism’ was derived from iron ore magnetite (Fe3O4). In olden days, magnets were used as magnetic compass for navigation, magnetic therapy for treatment and also used in magic shows.
-
-In modern days, many things we use in our daily life contain magnets (Figure 3.2). Motors, cycle dynamo, loudspeakers, magnetic tapes used in audio and video recording, mobile phones, head phones, CD, pen-drive, hard disc of laptop, refrigerator door, generator are a few examples.
-
-Earlier, both electricity and magnetism were thought to be two independent branches in physics. In 1820, H.C. Oersted observed the deflection of magnetic compass needle kept near a current carrying wire. This unified the two different branches, electricity and magnetism as a single subject ‘electromagnetism’ in physics.
-
-In this unit, basics of magnets and their properties are given. Later, how a current carrying conductor (here only steady current, not time-varying current is considered) behaves like a magnet is presented.
-
-![Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](3.2.png "")
-
-**(a) (b)**
-
-**(c) (d)**
-
-
-
-
-  
-
 ### Earth’s magnetic field and magnetic elements
 
-**Figure 3.3 Earth’s magnetic field**
-
-Geographic South Pole
-
-Geographic North Pole
-
-Magnetic South Pole
-
-Magnetic North Pole
+![Figure 3.3 Earth’s magnetic field](3.3.png)
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north- south direction of the Earth.
 
-William Gilbert in 1600 proposed that Earth itself behaves like a gigantic
+William Gilbert in 1600 proposed that Earth itself behaves like a gigantic powerful bar magnet. But this theory is not successful because the temperature inside the Earth is very high and so it will not be possible for a magnet to retain its magnetism.
 
-powerful bar magnet. But this theory is not successful because the temperature inside the Earth is very high and so it will not be possible for a magnet to retain its magnetism.
+Gover suggested that the Earth’s
+magnetic field is due to hot rays coming out from the Sun. These rays will heat up the air near equatorial region. Once air becomes hotter, it rises above and will move towards northern and southern hemispheres and get electrified. This may be responsible to magnetize the ferromagnetic materials near the Earth’s surface. Till date, so many theories have been proposed. But none of the theorium completely explains the cause for the Earth’s magnetism.
 
-Gover suggested that the Earth’s magnetic field is due to hot rays coming out from the Sun. These rays will heat up the air near equatorial region. Once air becomes hotter, it rises above and will move towards northern and southern hemispheres and get electrified. This may be responsible to magnetize the ferromagnetic materials near the Earth’s surface. Till date, so many theories have been proposed. But none of the theorium completely explains the cause for the Earth’s magnetism.  
-
-The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole (Figure 3.3). Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north-pole of the Earth which is near the geographic south pole. **The branch of physics which deals with the Earth’s magnetic field is called Geomagnetism or Terrestrial magnetism.**
+The north pole of magnetic compass
+needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole (Figure 3.3). Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north-pole of the Earth which is near the geographic south
+pole. **The branch of physics which deals with the Earth’s magnetic field is called Geomagnetism or Terrestrial magnetism.**
 
 There are three quantities required to specify the magnetic field of the Earth on its surface, which are often called as the elements of the Earth’s magnetic field. They are
 
-(a) magnetic declination (_D_) (b) magnetic dip or inclination (_I_) (c) the horizontal component of the
+(a) magnetic declination (_D_)
+(b) magnetic dip or inclination (_I_)
+(c) the horizontal component of the Earth’s magnetic field (_BH_)
 
-Earth’s magnetic field (_BH_)
-
-![Declination angle](3.4.png "")
-
-Geographic meridian
-
-Magnetic meridian
-
-**D = Angle of declination**
-
-**D**
-
-Magnetic meridian
-
-Magnetic meridian
-
-Geographic meridian
-
-Geographic meridian
-
-Geographic Equator
-
-Magnetic Equator
-
-Angle of declination
-
-Earth magnetic south pole
-
-N
-
-S
-
-Magnetic field lines
-
-“True” North pole - the Earth rotates around this axis
-
-Earth
-
-Axis around which the Earth rotates once a day
-
-Earth magnetic north pole
-
-“True” South poleBar magnet
+![Declination angle](3.4.png)
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth’s geographic axis is called geographic equator.
 
 The straight line which connects magnetic poles of Earth is known as magnetic axis.
-
-
-
-
-
-
-| North Pole |
-|------|------|------|
-
-| Geographi |c |
-
-
-| “True” North pole - thEarth rotates aroundthis axis |
-|------|------|------|------|------|------|------|------|------|
-
-| N |
-
-| S |Axis around which the Earth rotatesonce a dayEarth magnetic north pole |
-
-
-
-  
 
 A vertical plane passing through magnetic axis is called magnetic meridian and a great circle perpendicular to Earth’s magnetic axis is called magnetic equator.
 
@@ -236,89 +102,49 @@ _B_ **with the horizontal direction in the magnetic meridian is called dip or ma
 
 Let _BE_ be the net Earth’s magnetic field at any point on the surface of the Earth. _BE_ can be resolved into two perpendicular components.
 
-Horizontal component _BH_ = _BE_ cos _I_ (3.1)
-
-Vertical component _BV_ = _BE_ sin _I_ (3.2)
+![](image6.png)
 
 Dividing equation (3.2) and (3.1), we get
 
-![Inclination angle](3.5.png "")
+![Inclination angle](3.5.png)
 
-Horizontal
+![](image7.png)
 
-_I_
+**(i) At magnetic equator**
+The Earth’s magnetic field is parallel to the surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, _I_ = 0o.
 
-_B_
-
-_BH_  
-
-tan _I B B_
-
-_V_
-
-_H_
-
-\= (3.3)
-
-**(i) At magnetic equator** The Earth’s magnetic field is parallel to the
-
-surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, _I_ = 0o.
-
-_BH_ = _BE_
-
-_BV_ = 0
+![](image8.png)
 
 This implies that the horizontal component is maximum and vertical component is zero at the equator.
 
-**(ii) At magnetic poles** The Earth’s magnetic field is
+**(ii) At magnetic poles**
+The Earth’s magnetic field is perpendicular to the surface of the Earth (i.e., vertical) which implies that the needle of magnetic compass rests vertically at an angle of dip, _I_ = 90o. Hence,
 
-perpendicular to the surface of the Earth (i.e., vertical) which implies that the needle of magnetic compass rests vertically at an angle of dip, _I_ = 90o. Hence,
-
-_BH_ = 0 _BV_ = _BE_
+![](image9.png)
 
 This implies that the vertical component is maximum at poles and horizontal component is zero at poles.
 
 **EXAMPLE 3.1**
 
-The horizontal component and vertical component of Earth’s magnetic field at a place are 0.15 G and 0.26 G respectively. Calculate the angle of dip and resultant magnetic field. (G-gauss, cgs unit for magnetic field 1G = 10–4 T) **_Solution:_**
+The horizontal component and vertical component of Earth’s magnetic field at a place are 0.15 G and 0.26 G respectively. Calculate the angle of dip and resultant magnetic field. (G-gauss, cgs unit for magnetic field 1G = 10–4 T)
+
+**_Solution:_**
 
 _BH_ = 0.15 G and _BV_ = 0.26 G
 
-tan . .
-
-tan ( . )_I I_\= ⇒ = =−0 26 0 15
-
-1 732 601 
+![](image10.png)
 
 The resultant magnetic field of the Earth is
 
-_B B BH V_\= + =2 2 0 3. G
+![](image11.png)
 
+**Aurora Borealis and Aurora Australis** People living at high latitude regions (near Arctic or Antarctic) might experience dazzling coloured natural lights across the night sky. This ethereal display on the sky is known as aurora borealis (northern lights) or aurora
+australis (southern lights). These lights are often called as polar lights. The lights are seen above the magnetic poles of the northern and southern hemispheres. They are called as “Aurora borealis” in the north and “Aurora australis” in the south. This occurs as a result of interaction between the gaseous particles in the Earth’s atmosphere with highly charged particles released from the Sun’s atmosphere through solar wind. These particles emit light due to collision and variations in colour are due to the type of the gas particles that take part in the collisions. A pale yellowish – green colour is produced when the ionized oxygen takes part in the collision and a blue or purplish – red aurora is produced due to ionized nitrogen molecules.
 
-
-
-
-
-| The h orizontal co mponent a nd v erticalcomponent of Earth’s magnetic field at a placeare 0.15 G and 0.26 G respectively. Calculatethe angle of dip and resultant magnetic field.(G-gauss, cgs uni t f or m agnetic f ield 1G = 10  T)Solution:B  = 0.15 G and B  = 0.26 G–402. 6tan II=⇒ ==tan( 1.)73201. 5ThH e resultant magn Vetic field of th−1B = 03.G22HV |
-|------|------|------|------|
-| 60 |
-| e Earth is |
-
-| BB=+ |
-  
-
-**Aurora Bore** People living at high latitude experience dazzling coloured na display on the sky is known as
-
-australis (southern lights). These lights are often the magnetic poles of the northern and south borealis” in the north and “Aurora australis” in t between the gaseous particles in the Earth’s atmo from the Sun’s atmosphere through solar wind. These particles emit light due to collision and variations in colour are due to the type of the gas particles that take part in the collisions. A pale yellowish – green colour is produced when the ionized oxygen takes part in the collision and a blue or purplish – red aurora is produced due to ionized nitrogen molecules.  
-
-**alis and Aurora Australis** regions (near Arctic or Antarctic) might
-
-tural lights across the night sky. This ethereal aurora borealis (northern lights) or aurora called as polar lights. The lights are seen above ern hemispheres. They are called as “Aurora he south. This occurs as a result of interaction sphere with highly charged particles released
-
-
-
-
-  
+![](image1.png)
+![](image2.png)
+![](image3.png)
+![](image4.png)
 
 ### Basic properties of magnets
 
@@ -326,344 +152,100 @@ Some basic terminologies and properties used in describing bar magnet.
 
 **(a) Magnetic dipole moment**
 
-Consider a bar magnet as shown in Figure 3.6. Let _qm_ be the pole strength of the magnetic pole and let _l_ be the distance between the geometrical centre of bar magnet O and one end of the pole. **The magnetic dipole moment is defined as the product of its pole strength and magnetic length**. It is a vector quantity, denoted by _pm_.
+Consider a bar magnet as shown in Figure 3.6. Let _qm_ be the pole strength of the magnetic pole and let _l_ be the distance between the geometrical centre of bar magnet O and one end of the pole. **The magnetic dipole moment is defined as the product of its pole strength and magnetic length**. It is a vector quantity, denoted by *pm*.
 
-**S**
-
-_q_m _l l_
-
-_d_
-
-_2l_
-
-_q_m
-
-**O N**
+![](3.6.png)
 
 **Figure 3.6 A bar magnet**
 
-
+![](image12.png)
 
-
+where _d_ is the vector drawn from south pole to north pole and its magnitude _d_= 2 _l_.
 
-_p q dm m_\= (3.4)
-
-where 
-
-_d_ is the vector drawn from south pole to north pole and its magnitude
-
-
-
-_d l_\= 2 .
-
-The magnitude of magnetic dipole moment is _p q lm m_\= 2
+The magnitude of magnetic dipole moment is _p_ _m_ = 2 _q_ _m_ _l_ q
 
 The SI unit of magnetic moment is A m2. The direction of magnetic moment is from south pole to north pole.
 
 **(b) Magnetic field**
 
-Magnetic field is the region or space around every magnet within which its influence will be felt by keeping another magnet in that region. **The magnetic field**
+Magnetic field is the region or space around every magnet within which its influence will be felt by keeping another magnet in that region. **The magnetic field** **_B_ at a point is defined as a force experienced by the bar magnet of unit pole strength**.
 
-
+![](image13.png)
+Its unit is N A–1 m–1.
 
-**_B_ at a point is defined as a force experienced by the bar magnet of unit pole strength**.  
+**(c) Types of magnets**
 
-_B q_
+Magnets are classified into natural magnets and artificial magnets. For example, iron, cobalt, nickel, etc. are natural magnets. Strengths of natural magnets are very weak and the shapes of the magnet are irregular. Artificial magnets are made in order to have desired shape and strength. If the magnet is in the form of rectangular shape or cylindrical shape, then it is known as bar magnet.
 
-_F m_
+**Properties of magnet**
 
-  =
+The following are the properties of bar magnet (Figure 3.7),
 
-1 (3.5)
+1\. A freely suspended bar magnet will always point along the north-south direction.
 
-Its unit is N A–1 m–1. **(c) Types of magnets**
-
-Magnets are classified into natural magnets and artificial magnets. For example, iron, cobalt, nickel, etc. are natural magnets. Strengths of natural magnets are very weak and the shapes of the magnet are irregular. Artificial magnets are made in order to have desired shape and strength. If the magnet is in the form of rectangular shape or cylindrical shape, then it is known as bar magnet. **Properties of magnet**
-
-The following are the properties of bar magnet (Figure 3.7), 1. A freely suspended bar magnet will always
-
-point along the north-south direction. 2. A magnet attracts or repels another
-
-magnet or magnetic substances towards itself. The attractive or repulsive force is maximum near the end of the bar magnet. When a bar magnet is dipped into iron filling, they cling to the ends of the magnet.
+2\. A magnet attracts or repels another magnet or magnetic substances towards itself. The attractive or repulsive force is maximum near the end of the bar magnet. When a bar magnet is dipped into iron filling, they cling to the ends of the magnet.
 
 3\. When a magnet is broken into pieces, each piece behaves like a magnet with poles at its ends.
 
 4\. Two poles of a magnet have pole strength equal to one another.
 
-5\. The length of the bar magnet is called geometrical length and the length between two magnetic poles in a bar magnet is called magnetic length. Magnetic length is always slightly smaller than geometrical length. The ratio of magnetic length and geometrical length is 5
+5\. The length of the bar magnet is called geometrical length and the length between two magnetic poles in a bar magnet is called magnetic length. Magnetic length is always slightly smaller than geometrical length. The ratio of magnetic length and geometrical length is 5/6.
 
-6 .
+![](image14.png)
 
-_Magnetic length_
-
-_Geometrical length_ \= =
-
-5 6
-
-0 833.
-
-
-
-
-  
+![Figure 3.7 Properties of bar magnet](3.7.png)
 
 **EXAMPLE 3.2**
 
-Let the magnetic moment of a bar magnet be _pm_ whose magnetic length is _d_ = 2_l_ and pole strength is _qm_. Compute the magnetic moment of the bar magnet when it is cut into two pieces (a) along its length (b) perpendicular to its length. **_Solution_**
+Let the magnetic moment of a bar magnet be *pm* whose magnetic length is _d_ = 2*l* and pole strength is _qm_. Compute the magnetic moment of the bar magnet when it is cut into two pieces (a) along its length (b) perpendicular to its length.
 
-(a) a bar magnet cut into two pieces along its length:
+**_Solution_**
 
-**S**
+(a) a bar magnet cut into two pieces along
+its length:
 
-_q_m
-
-2_l_
-
-_Cut into two pieces along the axis_
-
-_q_m
-
-**N**
-
-NORTHERLY DIRECTION
-
-NS
-
-N S
-
-N S
-
-NS Magnetic field lines
-
-**S**
-
-_q_m 2_l_
-
-Cut into two pieces
-
-_q_m
-
-**N**
-
-**\=**
-
-![Properties of bar magnet  ](3.7.png "")
-
-**S**
-
-_q_m
-
-2_l_
-
-_Cut into two pieces along the axis_
-
-_q_m
-
-**N**
-
-2_l_
-
-**S** _q_m 2
-
-**S** _q_m 2
-
-2_l_
-
-**S** _q_m
-
-**N**
-
-2 _q_m 2
-
-**S** _q_m
-
-**N**
-
-2 _q_m 2
-
-**S**
-
-_q_m _l_
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N**
-
-**S**
-
-_q_m
-
-2_l_
-
-L
-
-_q_m
-
-**N**
-
-Geometrical length of a bar magnet
-
-Magnetic length of a bar magnet
-
-
-
-
-
-
-
-|------|------|------|
-| 2l |
-  
+![](image5.png)
 
 When the bar magnet is cut along the axis into two pieces, new magnetic pole strength
 
-is ′ =_q q_
+is _q′ m_ =_q m_/2 but magnetic length does not change. So, the magnetic moment is
 
-_m m_
-
-2 but magnetic length does not
-
-change. So, the magnetic moment is
-
-′ = ′_p q lm m_2
-
-   _p q_
-
-_l q l pm m_
-
-_m m_2 2 1
-
-2 2 1
-
-2 ( )
-
-In vector notation,  
-
- _p pm m_ 1 2
+![](image15.png)
 
 (b) a bar magnet cut into two pieces perpendicular to the axis:
 
-**S**
-
-_q_m 2_l_
-
-Cut in to two pieces
-
-_q_m
-
-**N**
-
-s
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N**
+![](image16.png)
 
 When the bar magnet is cut perpendicular to the axis into two pieces, magnetic pole strength will not change but magnetic length will be halved. So the magnetic moment is
 
-       _p q l q l pm m m m_ 1 2
-
-2 1 2
-
-2 1 2
-
-( )
-
-In vector notation,  
-
- _p pm m_ 1 2
+![](image17.png)
 
 **EXAMPLE 3.3**
 
 Compute the magnetic length of a uniform bar magnet if the geometrical length of the magnet is 12 cm. Mark the positions of magnetic pole points.
 
-Magnetic length = 5 6  
+![](image18.png)
 
-**S**
-
-_q_m _l_
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N**
-
-**S**
-
-12 cm
-
-**N**
-
-**_Solution_** Geometrical length of the bar magnet is 12 cm
-
-Magnetic length geometrical length cm= × ( ) = × =5 6
-
-5 6
-
-12 10
-
-geometrical length cm× ( ) = × =5 6
-
-12 10
+**_Solution_**
+Geometrical length of the bar magnet is 12 cm
+![](image19.png)
 
 In this figure, the dot implies the pole points.
 
-**S**
-
-12 cm
-
-10 cm1 cm 1 cm
-
-**N**
-
-(i) Pole strength is a scalar quantity with dimension \[MoLToA\]. Its SI unit is N T–1
-
-(newton per tesla) or A m (ampere-metre). (ii) Like positive and negative charges in electrostatics, north pole of a magnet experiences a force in the direction of magnetic field while south pole of a magnet experiences force opposite to the magnetic field. (iii) Pole strength depends on the nature of materials of the magnet, area of cross- section and the state of magnetization. (iv) If a magnet is cut into two equal halves along the length then pole strength is reduced to half. (v) If a magnet is cut into two equal halves perpendicular to the length, then pole strength remains same. (vi) If a magnet is cut into two pieces, we will not get separate north and south poles. Instead, we get two magnets. In other words, isolated monopole does not exist in nature.
+![](image20.png)
 
 **Note**
+(i) Pole strength is a scalar quantity with dimension \[MoLToA\]. Its SI unit is N T– (newton per tesla) or A m (ampere-metre).
 
+(ii) Like positive and negative charges in electrostatics, north pole of a magnet experiences a force in the direction of magnetic field while south pole of a magnet experiences force opposite to the magnetic field.
 
+(iii) Pole strength depends on the nature of materials of the magnet, area of cross- section and the state of magnetization.
 
+(iv) If a magnet is cut into two equal halves along the length then pole strength is reduced to half.
 
+(v) If a magnet is cut into two equal halves perpendicular to the length, then pole strength remains same.
 
-
-| 12 cmSolution S NGeometrical length of the bar magnet is 12 cm()5Magnetic length =× geometricall engthc =×65=× 12 = 10 m6In t his f igure, t he do t im plies t he p ole points. 12 cmS NN S Nq q10 cml 1 cmm m m |
-|------|------|
-
-
-| ql 1 cm |
-
-
-| When the bar magnet is cut along the axisinto two pieces, new magnetic pole strengthis q ′ = q  b ut m agnetic length do es n ot2change. So, the magnetic moment ispq′ = ′ 2l mmq 1 1p  2lq () 2lp 2 2 2 Immn vector notation,   1pp m 2m mm(b) a b ar m agnet c ut in to t wo p ieces perpendicular to the axis:mmCut in to two piecesS Nq q2lm mS N S Nq q q qWhen the bar magnet is cut perpendicularl lm m m mto t he axis into t wo p ieces, magnetic p olestrength will not change but magnetic lengthwill be halved. So the magnetic moment is1 1 1pq  2lq  () 2lp 2 2 2In vector notation,   1pp 2mm mmmm |
-|------|
-
-
-
-
-  
+(vi) If a magnet is cut into two pieces, we will not get separate north and south poles. Instead, we get two magnets. In other words, isolated monopole does not exist in nature.
 
 **Magnetic field lines**
 
@@ -677,84 +259,39 @@ In this figure, the dot implies the pole points.
 
 **(d) Magnetic flux The number of magnetic field lines**
 
-**crossing any area normally is defined as magnetic flux** _ΦB_ **through the area.** Mathematically, the magnetic flux through a surface of area
+**crossing any area normally is defined as magnetic flux** _ΦB_ **through the area.** Mathematically, the magnetic flux through a surface of area _A_ in a uniform magnetic field _B_ is defined as
 
-
+![](image22.png)
 
-_A_ in a uniform magnetic field
+where _θ_ is the angle between *B* and _A_ as shown in Figure 3.8.
 
-
+![Figure 3.8 Magnetic Flux](3.8.png)
 
-_B_ is defined as
-
-_B B A BA B A_   
-
- 
-
-. cos (3.6)
-
-where _θ_ is the angle between 
-
-_B_ and 
-
-_A_ as shown in Figure 3.8.
-
-_θ_
-
-_θ_ = 0 º _θ A_
-
-_B B_
-
-_A_
-
-_B_
-
-_BA_
-
-_A_
-
-**Figure 3.8 Magnetic flux**  
+**Figure 3.8 Magnetic flux**
 
 **Special cases**
 
-(a) When 
+(a) When  _B_ is normal to the surface i.e., _θ_ \= 0o, the magnetic flux is _ΦB_ = _BA_ (maximum).
 
-_B_ is normal to the surface i.e., _θ_ \= 0o, the magnetic flux is _ΦB_ = _BA_ (maximum).
-
-(b) When 
-
-_B_ is parallel to the surface i.e., _θ_ = 90o, the magnetic flux is _ΦB_ = 0.
+(b) When  _B_ is parallel to the surface i.e., _θ_ = 90o, the magnetic flux is _ΦB_ = 0.
 
 Suppose the magnetic field is not uniform over the surface, the equation (3.6) can be written as
 
-Φ_B B A_\= ∫  
-
-.d
+![](image23.png)
 
 Magnetic flux is a scalar quantity. The SI unit for magnetic flux is weber, which is denoted by symbol Wb. Dimensional formula for magnetic flux is ML T A2 2 1− −  . The CGS unit of magnetic flux is maxwell.
 
-1 weber = 108 maxwell
+![](image24.png)
 
 **The magnetic flux density is defined as the number of magnetic field lines crossing per unit area kept normal to the direction of lines of force.** Its unit is Wb m–2 or tesla (T).
 
 **(e) Uniform magnetic field and Non- uniform magnetic field**
 
-**Uniform magnetic field** Magnetic field is said to be uniform if it
+**Uniform magnetic field** Magnetic field is said to be uniform if it has same magnitude and direction at all the
 
-has same magnitude and direction at all the
+![](3.9.png)
 
 **Figure 3.9 Uniform magnetic field**
-
-
-
-
-
-
-| A |
-|------|------|
-
-  
-
 points in a given region. Example, locally Earth’s magnetic field is uniform.
 
 The magnetic field of Earth has same value over the entire area of your school!
@@ -763,37 +300,25 @@ The magnetic field of Earth has same value over the entire area of your school!
 
 if the magnitude or direction or both vary at different points in a region. Example: magnetic field of a bar magnet
 
+![](3.10.png)
+
 **Figure 3.10 Non-uniform magnetic field** (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet
-
-(a) (b) (c)
-
-NS
-
-N S
-
-N S
-
-NS
-
-Magnetic field lines
-
-(d)
 
 **EXAMPLE 3.4**
 
 Calculate the magnetic flux coming out from closed surface containing magnetic dipole (say, a bar magnet) as shown in figure.
 
-**S N**  
+![](image25.png)
 
 **_Solution_**
 
 The total flux emanating from the closed surface S enclosing the dipole is zero. So,
 
-Φ_B B A_\= =∫    .d 0
+Φ*B B A*\= =∫    .d 0
 
 Here the integral is taken over closed surface. Since no isolated magnetic pole (called magnetic monopole) exists, this integral is always zero,
 
-  _B A_.d =∫ 0
+  *B A*.d =∫ 0
 
 This is similar to Gauss’s law in electrostatics.
 
@@ -805,18 +330,8 @@ On the other hand, when the north pole of magnet A and the south pole of magnet 
 
 This looks similar to Coulomb’s law for static charges studied in Unit I (opposite charges attract and like charges repel each other). So analogous to Coulomb’s law in electrostatics, we can state Coulomb’s law for magnetism (Figure 3.12) as follows:
 
-
-
-
-
-
-| Solution∫The t otal f lux em anating f rom t he closed s urface S en closing t he di pole i s zero. So,  Φ == BA.d 0Here  the  integral  is  taken  over  closed ∫surface. S ince n o i solated m agnetic p ole B(called m agnetic m onopole) exi sts, t his integral is always zero, BA.d = 0This i s simi lar t o Ga uss’s l aw in electrostatics. |
-|------|
-
-
-
-
-  
+| Solution∫The t otal f lux em anating f rom t he closed s urface S en closing t he di pole i s zero. So,  Φ == BA.d 0Here the integral is taken over closed ∫surface. S ince n o i solated m agnetic p ole B(called m agnetic m onopole) exi sts, t his integral is always zero, BA.d = 0This i s simi lar t o Ga uss’s l aw in electrostatics. |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 **Figure 3.11:** Magnetic poles behave like electric charges – like poles repel and unlike poles attract
 
@@ -866,7 +381,7 @@ Mathematically, we can write
 
 _F q q_
 
-_r rm mA B_∝ 2 
+*r rm mA B*∝ 2 
 
 where _qmA_ and _qmB_
 
@@ -886,7 +401,7 @@ where _k_ is a proportionality constant whose value depends on the surrounding m
 
 space is _k_ \= ≈ − −µ π 
 
-4 10 7 1H m , where μo is the  
+4 10 7 1H m , where μo is the
 
 absolute permeability of free space (air or vacuum) and H stands for henry.
 
@@ -894,9 +409,9 @@ Magnet A Magnet B **N S N S**
 
 r
 
-_q_mA _q_mB
+\_q_mA \_q_mB
 
-![Coulomb’s law – force between two magnetic poles](3.12.png "")
+![Coulomb’s law – force between two magnetic poles](3.12.png)
 
 **EXAMPLE 3.5**
 
@@ -924,27 +439,16 @@ Since _qmA_ \= _qmB_
 
 −
 
-−_q qm_
+−*q qm*
 
 _m_ NT
 
 ### Magnetic field at a point along the axial line of the magnetic dipole (bar magnet)
 
-Consider a bar magnet NS as shown in Figure 3.13. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength _qm_ and are separated by a distance of 2_l_. The magnetic field at a point C (lies along the axis of the magnet)
+Consider a bar magnet NS as shown in Figure 3.13. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength _qm_ and are separated by a distance of 2*l*. The magnetic field at a point C (lies along the axis of the magnet)
 
-
-
-
-
-
-| EXAMPLE 3 . 5The r epulsive f orce b etween t wo m agnetic poles in a ir i s 9 × 10 N. I f t he t wo p oles are e qual in s trength a nd a re s eparated by a di stance  of 10 cm,  calculate t he  pole strength of each pole. –3 Solution :The m agnitude o f t he f orce b etween t wo poles is given byqqFk=rGiven : F = 9 × 10 N, r = 10 cm = 10 × 10 mmmSince q AB = 2 q = q , we havem m m–3 –2A B ()q91×=01 0 × ⇒=q 30 NT10 × 102−−37 m −1−2 2 m |
-|------|
-
-
-
-
-
-  
+| EXAMPLE 3 . 5The r epulsive f orce b etween t wo m agnetic poles in a ir i s 9 × 10 N. I f t he t wo p oles are e qual in s trength a nd a re s eparated by a di stance of 10 cm, calculate t he pole strength of each pole. –3 Solution :The m agnitude o f t he f orce b etween t wo poles is given byqqFk=rGiven : F = 9 × 10 N, r = 10 cm = 10 × 10 mmmSince q AB = 2 q = q , we havem m m–3 –2A B ()q91×=01 0 × ⇒=q 30 NT10 × 102−−37 m −1−2 2 m |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_
 
@@ -952,7 +456,7 @@ at a distance _r_ from the geometrical centre O of the bar magnet can be compute
 
 The magnetic field at C due to the north pole is
 
- _B_
+ *B*
 
 _q r l_
 
@@ -966,7 +470,7 @@ where (_r_ – _l_) is the distance between north pole of the bar magnet and uni
 
 The magnetic field at C due to the south pole is
 
- _B_
+ *B*
 
 _q r l_
 
@@ -998,9 +502,9 @@ _r + l_
 
 O is the geometrical center of bar magnet
 
-**Figure 3.13 Magnetic field at a point along th**  
+**Figure 3.13 Magnetic field at a point along th**
 
-  _B q_
+  *B q*
 
 _r l i q_
 
@@ -1008,7 +512,7 @@ _r l im m_\=
 
 − + −
 
-+
+-
 
 
 
@@ -1024,7 +528,7 @@ _r l im m_\=
 
  
 
- _B q_
+ *B q*
 
 _r l r l im_\=
 
@@ -1048,7 +552,7 @@ _r l r l im_\=
 
 
 
- _B r q l_
+ *B r q l*
 
 _r l im_\=
 
@@ -1076,9 +580,9 @@ _r l im_\=
 
 ( )  (3.11)
 
-Since the magnitude of magnetic dipole moment is _p p q lm m m_  2 , the magnetic field at a point C can be written as
+Since the magnitude of magnetic dipole moment is *p p q lm m m*  2 , the magnetic field at a point C can be written as
 
- _B rp_
+ *B rp*
 
 _r l iaxial_
 
@@ -1104,11 +608,11 @@ _m_\= −( )
 
 If the distance between two poles in a bar magnet is small (looks like short magnet) when compared to the distance between geometrical centre O of bar magnet and the location of point C (_r_ >>_l_),
 
-( )_r l r_2 2 2 4− ≈ (3.13)
+( )\_r l r_2 2 2 4− ≈ (3.13)
 
 Therefore, using equation (3.13) in equation (3.12), we get
 
-  _B p r_
+  *B p r*
 
 _i r_
 
@@ -1130,7 +634,7 @@ _m_\= 
 
 2 3 3  (3.14)
 
-where _pm_ = _p im_  .
+where *pm* = _p im_  .
 
 C x axis
 
@@ -1140,7 +644,7 @@ _–i –j_
 
 _j i_
 
-_q_mC
+\_q_mC
 
 _BS BN_ ˆ
 
@@ -1152,14 +656,9 @@ _BS BN_ ˆ
 
 e axial line due to magnetic dipole
 
-
-
-
-  
-
 ### Magnetic field at a point along the equatorial line due to a magnetic dipole (bar magnet)
 
-Consider a bar magnet NS as shown in Figure 3.14. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength _qm_ and separated by a distance of 2_l_. The magnetic field at a point C (lies along the equatorial line) at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_ = 1 A m) at C.
+Consider a bar magnet NS as shown in Figure 3.14. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength _qm_ and separated by a distance of 2*l*. The magnetic field at a point C (lies along the equatorial line) at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_ = 1 A m) at C.
 
 **Figure 3.14 Magnetic field at a point** along the equatorial line due to a magnetic dipole
 
@@ -1187,7 +686,7 @@ _r_
 
 _r' =_ (_r 2 + l 2_)½
 
-_q_mC
+\_q_mC
 
 _BS_
 
@@ -1213,11 +712,11 @@ _N m_\= ′
 
 4 2
 
-1 2Here = ( + )2 2  
+1 2Here = ( + )2 2
 
 The magnetic field at C due to the south pole is
 
-![Components of magnetic field](3.15.png "")
+![Components of magnetic field](3.15.png)
 
 
 
@@ -1255,7 +754,7 @@ _B B BN S_\= + . 
 
 _B B B iN S_\=− +( )cosθ Since, _B BN S_\=
 
-  _B_
+  *B*
 
 _q r_
 
@@ -1289,13 +788,13 @@ _hypotenuse l r_
 
 _l_
 
-_r l_2 2 1 2
+\_r l_2 2 1 2
 
 (3.18)
 
 Substituting equation (3.18) in equation (3.17), we get
 
- _B_
+ *B*
 
 _q l_
 
@@ -1303,7 +802,7 @@ _r l im_\=−
 
 ×
 
-+
+-
 
 µ π4
 
@@ -1317,20 +816,14 @@ _r l im_\=−
 
  (3.19)
 
-
-
-
-
+|    |
+| --- |
 
 |  |
-|------|
 
-|  |
-  
+Since, magnitude of magnetic dipole moment is *p p q lm m m*  2 and substituting in equation (3.19), the magnetic field at a point C is
 
-Since, magnitude of magnetic dipole moment is _p p q lm m m_  2 and substituting in equation (3.19), the magnetic field at a point C is
-
- _B_
+ *B*
 
 _p_
 
@@ -1346,11 +839,11 @@ _m_\=− +
 
 If the distance between two poles in a bar magnet is small (looks like short magnet) when compared to the distance between geometrical centre O of bar magnet and the location of point C (_r_ >>_l_ ),
 
-( )_r l r_2 2 3 2 3+ ≈ (3.21)
+( )\_r l r_2 2 3 2 3+ ≈ (3.21)
 
 Therefore, using equation (3.21) in equation (3.20), we get 
 
-_B p r_
+*B p r*
 
 _iequatorial m_\=−
 
@@ -1364,11 +857,11 @@ Since _p i pm m_  =
 
 , the magnetic field at equatorial point is given by
 
-  _B_
+  *B*
 
 _p requatorial_
 
-_m_   4 3 (3.22)
+*m*   4 3 (3.22)
 
 Note that magnitude of _Baxial_ is twice that of magnitude of _Bequatorial_ and the direction of _Baxial_ and _Bequatorial_ are opposite.
 
@@ -1378,11 +871,11 @@ A short bar magnet has a magnetic moment of 0.5 J T –1. Calculate magnitude an
 
 **_Solution_**
 
-Given magnetic moment = 0.5 J T –1 and distance _r_ \= 0.1 m  
+Given magnetic moment = 0.5 J T –1 and distance _r_ \= 0.1 m
 
 (a) When the point lies on the axial line of the bar magnet, the magnetic field for short magnet is given by 
 
-_B p r_
+*B p r*
 
 _iaxial m_\=
 
@@ -1418,7 +911,7 @@ _B i iaxial_ \= × ×
 
 Hence, the magnitude of the magnetic field along axial is Baxial = 1 × 10–4 T and direction is towards South to North. (b) When the point lies on the normal bisector (equatorial) line of the bar magnet, the magnetic field for short magnet is given by 
 
-_B p r_
+*B p r*
 
 _iequatorial m_\=−
 
@@ -1446,7 +939,7 @@ Hence, the magnitude of the magnetic field along axial is _Bequatorial_ = 0.5 ×
 
 ## TORQUE ACTING ON A BAR MAGNET IN UNIFORM MAGNETIC FIELD
 
-Consider a magnet of length 2_l_ and pole strength _qm_ kept in a uniform magnetic field
+Consider a magnet of length 2*l* and pole strength _qm_ kept in a uniform magnetic field
 
 
 
@@ -1456,18 +949,8 @@ _B_ as shown in Figure 3.16. Each pole experiences a force of magnitude _qmB_ bu
 
 _B_.
 
-
-
-
-
-
-| (a) W hen t he p oint lies o n t he axi al lin e of t he b ar m agnet, t he m agnetic f ield f or short magnet is given by B = 4µπ 2rp iHenBi axiacel, t=×h10e m ag 3nim20(.01×tude o).5  f t=×h11e m0agn ietTic field along axial is B = 1 × 10  T and direction −−7 4is toaxiawal rds South to N 3 orth. (b) W hen t he p oint lies o n t he n ormalbisector (e quatorial) line o–4f t he b ar m agnet,axial the magnetic field for short magnet is given byB =− µ p i4π rHenBi eqceuatorial, the m=− a10gni tude o(.m30105. ) f t h=−e m05a. g×n10etic f i ieTld along axi al i s  B = 0.5 × 10  T a nd −−7 4direeqcuatorialtion is towards No 3 rth to South. Note that magnitude of B  is twice that of magnitude o f  B  a nd t he dir e –4ction o f equatorialB  and B  are opposite. axialequatorialaxial equatorial |
-|------|
-
-
-
-
-  
+| (a) W hen t he p oint lies o n t he axi al lin e of t he b ar m agnet, t he m agnetic f ield f or short magnet is given by B = 4µπ 2rp iHenBi axiacel, t=×h10e m ag 3nim20(.01×tude o).5  f t=×h11e m0agn ietTic field along axial is B = 1 × 10 T and direction −−7 4is toaxiawal rds South to N 3 orth. (b) W hen t he p oint lies o n t he n ormalbisector (e quatorial) line o–4f t he b ar m agnet,axial the magnetic field for short magnet is given byB =− µ p i4π rHenBi eqceuatorial, the m=− a10gni tude o(.m30105. ) f t h=−e m05a. g×n10etic f i ieTld along axi al i s B = 0.5 × 10 T a nd −−7 4direeqcuatorialtion is towards No 3 rth to South. Note that magnitude of B is twice that of magnitude o f B a nd t he dir e –4ction o f equatorialB and B are opposite. axialequatorialaxial equatorial |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 The force experienced by north pole,  
 
@@ -1475,23 +958,23 @@ _F q BN m_\= (3.23)
 
 The force experienced by south pole,  
 
-_F q BS m_  (3.24)
+*F q BS m*  (3.24)
 
 Adding equations (3.23) and (3.24), we get the net force acting on the dipole as
 
    
 
-_F F FN S_   0
+*F F FN S*   0
 
-\-_q_mBF =
+\-\_q_mBF =
 
-_q_mBF =
+\_q_mBF =
 
-2_l_
+2*l*
 
 τ about O points inwards ⊗
 
-2_l_ sin_θ_
+2*l* sin*θ*
 
 **S**
 
@@ -1503,9 +986,9 @@ _θ_
 
 _O**p m**_
 
-![Magnetic dipole kept in a uniform magnetic field](3.16.png "")
+![Magnetic dipole kept in a uniform magnetic field](3.16.png)
 
-The moment of force or torque experienced by north and south pole about point O is        τ= × + ×_ON F OS FN S_
+The moment of force or torque experienced by north and south pole about point O is        τ= × + ×*ON F OS FN S*
 
        τ= × + × −( )_ON q B OS q Bm m_
 
@@ -1521,7 +1004,7 @@ torque about point O
 
      _l q B l q Bm m_sin sin
 
-  2_l q Bm_ sin
+  2*l q Bm* sin
 
   _p Bm_ sin    _q l pm m_2
 
@@ -1529,7 +1012,7 @@ In vector notation,  
 
 
 
-  _p Bm_ (3.25)  
+  *p Bm* (3.25)
 
 ### Potential energy of a bar magnet in a uniform magnetic field
 
@@ -1537,7 +1020,7 @@ In vector notation,  
 
 B
 
-2_l_ 2_l_ sin
+2*l* 2*l* sin
 
 **S**
 
@@ -1547,7 +1030,7 @@ B
 
 **_p m_**
 
-When a bar magnet (magnetic dipole) of dipole moment _pm_ is held at an angle _θ_ with the direction of a uniform magnetic field _B_
+When a bar magnet (magnetic dipole) of dipole moment *pm* is held at an angle _θ_ with the direction of a uniform magnetic field _B_
 
  ,
 
@@ -1557,7 +1040,7 @@ as shown in Figure 3.17 the magnitude of the torque acting on the dipole is
 
 
 
- _B mp B_ sin
+ *B mp B* sin
 
 If the dipole is rotated through a very small angular displacement _dθ_ against the
 
@@ -1575,18 +1058,13 @@ bar magnet in a non-uniform magnetic field. What will happen? It will undergo tr
 
 (net force) and rotational motion (torque).
 
+torque τ _B_ at constant angular velocity, then the work done by external torque  *ext*  for this small angular displacement is given by
 
+*dW dext*  
 
+The bar magnet has to be moved at constant angular velocity, which implies that   *B ext*
 
-  
-
-torque τ _B_ at constant angular velocity, then the work done by external torque  _ext_  for this small angular displacement is given by
-
-_dW dext_  
-
-The bar magnet has to be moved at constant angular velocity, which implies that   _B ext_
-
-_dW p B dm_ sin 
+*dW p B dm* sin 
 
 Total work done in rotating the dipole from _θʹ_ to _θ_ is
 
@@ -1606,11 +1084,11 @@ _W d p B d p Bm m_\= = = −  
 
 θ sin cos
 
-_W p Bm_   (cos cos ) 
+*W p Bm*   (cos cos ) 
 
 This work done is stored as potential energy in bar magnet at an angle _θ_ (when it is rotated from _θʹ_ to _θ_) and it can be written as
 
-_U p Bm_   (cos cos )  (3.26)
+*U p Bm*   (cos cos )  (3.26)
 
 In fact, the equation (3.26) gives the difference in potential energy between the angular positions _θʹ_ and _θ_. If we choose the reference point as _θʹ_ = 90o, so that second term in the equation becomes zero, the equation (3.26) can be written as
 
@@ -1630,7 +1108,7 @@ _U p B pm m_\= − = −(cos ) B0
 
 _U p B pm m_\= − =(cos ) B180
 
-_U U p Banti parallel imum m_− = =−max co  
+*U U p Banti parallel imum m*− = =−max co
 
 From the above two results, We infer that the potential energy of the bar magnet is minimum when it is aligned along the external magnetic field and maximum when the bar magnet is aligned anti-parallel to external magnetic field.
 
@@ -1640,7 +1118,7 @@ Consider a magnetic dipole which on switching ON external magnetic field orient 
 
 **_Solution_**
 
-Let _pm_ be the dipole and before switching ON the external magnetic field, there is no orientation. Therefore, the energy U = 0.
+Let *pm* be the dipole and before switching ON the external magnetic field, there is no orientation. Therefore, the energy U = 0.
 
 As soon as external magnetic field is switched ON, the magnetic dipole orient parallel (θ = 0o) to the magnetic field with energy,
 
@@ -1658,29 +1136,18 @@ since cos 0o = 1
 
 Otherwise, the magnetic dipole orients anti-parallel (θ = 180o) to the magnetic field with energy,
 
-_U U p B U p Banti parallel imum m anti parallel m_− −= =− ⇒ =max cos180
+*U U p B U p Banti parallel imum m anti parallel m*− −= =− ⇒ =max cos180
 
-_U p Banti parallel m_−⇒ =s180
+*U p Banti parallel m*−⇒ =s180
 
 since cos 180o = -1
 
-
-
-
-
-
-| dW  |
-|------|------|
+| dW    |
+| ------ |
 | ext |
 
-
-| EXAMPLE 3 . 7C o n sider a m a g n et ic di p o le w hic ho n sw i t c hin g O N ext er n a l m a g n et icf ie ld o r ien t o n l y in t w o p os si b le wa ysi .e ., o n e a lo n g t h e dir e c t io n o f t h em a g n et ic f ie ld (p a ra l le l t o t h e f ie ld) a n da n o t h er a nt i-p a ra l le l t o m a g n et ic f ie ld .C o mp u t e t h e en er g y f o r t h e p os si b leo r ien t at io n.SolutionLet   be  the  dipole  and b efore sw itching pON  the  external  magnetic f ield,  there is n o o rientation. Th erefore, t he en erg y U = 0. mAs s oon a s ext ernal m agnetic f ield i s switched O N, t he m agnetic di pole o rient parallel (θ = 0 ) t o t he m agnetic f ield w ith energ y, UU == o − pB cos0Up =− Bsince cos 0 = 1paralleli min mummOther wise, t he m agnetic di pole o rients parallelmanti-parallel  (θ =  180 )  to t he  magnetic o field with energ y, UU == o −⇒pB cos180 UpUp = Banti−−paralleli max mumm since cos 180 = -1antianti parallelmo |
-|------|
-
-
-
-
-  
+| EXAMPLE 3 . 7C o n sider a m a g n et ic di p o le w hic ho n sw i t c hin g O N ext er n a l m a g n et icf ie ld o r ien t o n l y in t w o p os si b le wa ysi .e ., o n e a lo n g t h e dir e c t io n o f t h em a g n et ic f ie ld (p a ra l le l t o t h e f ie ld) a n da n o t h er a nt i-p a ra l le l t o m a g n et ic f ie ld .C o mp u t e t h e en er g y f o r t h e p os si b leo r ien t at io n.SolutionLet  be the dipole and b efore sw itching pON the external magnetic f ield, there is n o o rientation. Th erefore, t he en erg y U = 0. mAs s oon a s ext ernal m agnetic f ield i s switched O N, t he m agnetic di pole o rient parallel (θ = 0 ) t o t he m agnetic f ield w ith energ y, UU == o − pB cos0Up =− Bsince cos 0 = 1paralleli min mummOther wise, t he m agnetic di pole o rients parallelmanti-parallel (θ = 180 ) to t he magnetic o field with energ y, UU == o −⇒pB cos180 UpUp = Banti−−paralleli max mumm since cos 180 = -1antianti parallelmo |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## MAGNETIC PROPERTIES
 
@@ -1700,11 +1167,11 @@ _H_ and its unit is A m–1.
 
 In free space, the permeability (or absolute permeability) is denoted by µ0 and for any other medium it is denoted by µ.**The relative permeability** µ**r** **is defined as the ratio between absolute permeability of the medium to the permeability of free space.**
 
-  _r_  
+  *r*  
 
 (3.29)
 
-Relative permeability is a dimensionless number and has no units. For free space (air or vacuum), the relative permeability is unity i.e., _µr_ = 1.  
+Relative permeability is a dimensionless number and has no units. For free space (air or vacuum), the relative permeability is unity i.e., _µr_ = 1.
 
 **(c) Intensity of magnetisation**
 
@@ -1720,7 +1187,7 @@ _m_  
 
 Volume (3.30)
 
-The SI unit of intensity of magnetisation is ampere metre–1. For a bar magnet of pole strength _qm_, length 2_l_ and area of cross-section _A_, the magnetic moment of the bar magnet is 
+The SI unit of intensity of magnetisation is ampere metre–1. For a bar magnet of pole strength _qm_, length 2*l* and area of cross-section _A_, the magnetic moment of the bar magnet is 
 
  _p q lm m_\= 2 and volume
 
@@ -1758,11 +1225,6 @@ _m m_ 
 
 2
 
-
-
-
-  
-
 _Volume_ \= ×( −
 
 200 8 10
@@ -1789,11 +1251,11 @@ _H_ , the substance gets magnetised. **The magnetic induction (total magnetic fi
 
     
 
- _B B B H Mo m_\= + = +_m m_
+ *B B B H Mo m*\= + = +_m m_
 
 ⇒ = + = +     
 
-_B B B H Mo m_ µ ( ) (3.32)
+*B B B H Mo m* µ ( ) (3.32)
 
 **(e) Magnetic susceptibility**
 
@@ -1805,20 +1267,20 @@ _H_ , magnetic susceptibility gives information about how a material responds to
 
 **_M_**( ) **induced in the material to the magnetising field**
 
-It is a dimensionless quantity. Magnetic susceptibility for some of the isotropic substances is given in Table 3.1.  
+It is a dimensionless quantity. Magnetic susceptibility for some of the isotropic substances is given in Table 3.1.
 
-| Material               	| Magnetic susceptibility (χ<sub>m</sub>) 	|
-|------------------------	|-----------------------------------------	|
-| Aluminium              	| 2.3 × 10<sup>-5</sup>                   	|
-| Copper                 	| −0.98 × 10<sup>-5</sup>               	|
-| Diamond                	| −2.2 × 10<sup>-5</sup>                 	|
-| Gold                   	| −3.6 × 10<sup>-5</sup>                 	|
-| Mercury                	| −3.2 × 10<sup>-5</sup>                 	|
-| Silver                 	| −2.6 × 10<sup>-5</sup>                 	|
-| Titanium               	| 7.06 × 10<sup>-5</sup>                 	|
-| Tungsten               	| 6.8 × 10 −5<sup>-5</sup>               	|
-| Carbon dioxide (1 atm) 	| −2.3 × 10<sup>-9</sup>                	|
-| Oxygen (1 atm)         	| 2090 × 10<sup>-9</sup>                	|
+| Material               | Magnetic susceptibility (χ<sub>m</sub>) |
+| ---------------------- | --------------------------------------- |
+| Aluminium              | 2.3 × 10<sup>-5</sup>                   |
+| Copper                 | −0.98 × 10<sup>-5</sup>                 |
+| Diamond                | −2.2 × 10<sup>-5</sup>                  |
+| Gold                   | −3.6 × 10<sup>-5</sup>                  |
+| Mercury                | −3.2 × 10<sup>-5</sup>                  |
+| Silver                 | −2.6 × 10<sup>-5</sup>                  |
+| Titanium               | 7.06 × 10<sup>-5</sup>                  |
+| Tungsten               | 6.8 × 10 −5<sup>-5</sup>                |
+| Carbon dioxide (1 atm) | −2.3 × 10<sup>-9</sup>                  |
+| Oxygen (1 atm)         | 2090 × 10<sup>-9</sup>                  |
 
 **EXAMPLE 3.8**
 
@@ -1918,37 +1380,31 @@ Tungsten 6 8 10 5
 
 Oxygen (1 atm) 2090 10 9× −
 
-
-
-
-
-
-| EXAMPLE 3 . 8Compute  the in tensity o f m agnetisation of t he b ar m agnet w hose m ass, m agnetic moment and density are 200 g, 2 A m  and8 g cm , respectively.Solution2Density of the magnet is –3Mass MassDensity  Volume Volume Density()200 × 10 kgVolume = =×2581× 01 kg × 0 m−3=×25 10 mMagnitude of magn−−36 etic momen 3 t Intensity of magnet−63 ization,  pmoment 2m |
-|------|------|------|------|
-| 10 m−63 |
-| = 2 Am2 |
-| 6 |
-| MagneticM ==M =×08.A |
-| Volume 25 × 1010 m−51 − |
-  
+| EXAMPLE 3 . 8Compute the in tensity o f m agnetisation of t he b ar m agnet w hose m ass, m agnetic moment and density are 200 g, 2 A m and8 g cm , respectively.Solution2Density of the magnet is –3Mass MassDensity  Volume Volume Density()200 × 10 kgVolume = =×2581× 01 kg × 0 m−3=×25 10 mMagnitude of magn−−36 etic momen 3 t Intensity of magnet−63 ization, pmoment 2m |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10 m−63                                                                                                                                                                                                                                                                                                                                                                            |
+| = 2 Am2                                                                                                                                                                                                                                                                                                                                                                            |
+| 6                                                                                                                                                                                                                                                                                                                                                                                  |
+| MagneticM ==M =×08.A                                                                                                                                                                                                                                                                                                                                                               |
+| Volume 25 × 1010 m−51 −                                                                                                                                                                                                                                                                                                                                                            |
 
 **EXAMPLE 3.9**
 
 Using the relation   
 
-_B H M_  ( ), show that  _m r_ 1.
+*B H M*  ( ), show that  *m r* 1.
 
 **_Solution_**   
 
-_B H M_  ( ),
+*B H M*  ( ),
 
 But from equation (3.36), in vector form,  
 
-_M Hm_ 
+*M Hm* 
 
 Hence,    
 
-_B H B Hm_     ( )1
+*B H B Hm*     ( )1
 
 where,      
 
@@ -1956,9 +1412,9 @@ where,      
 
 
 
-( )_m m r_1 1
+( )\_m m r_1 1
 
-   _m r_ 1
+   *m r* 1
 
 **EXAMPLE 3.10**
 
@@ -1968,7 +1424,7 @@ Two materials X and Y are magnetised whose values of intensity of magnetisation 
 
 The susceptibility of material X is
 
-_m_
+*m*
 
 _M_
 
@@ -1984,7 +1440,7 @@ _H_,X .  
 
 The susceptibility of material Y is
 
-_m_
+*m*
 
 _M_
 
@@ -1998,7 +1454,7 @@ _H_,Y   
 
 2
 
-Since, susceptibility of material Y is greater than that of material X, which implies that material Y can be easily magnetized.  
+Since, susceptibility of material Y is greater than that of material X, which implies that material Y can be easily magnetized.
 
 ## CLASSIFICATION OF MAGNETIC MATERIALS
 
@@ -2014,27 +1470,11 @@ When placed in a non-uniform magnetic field, the interaction between induced mag
 
 This action is called diamagnetic action and such materials are known as diamagnetic materials. Examples: Bismuth, Copper and Water etc.
 
+| EXAMPLE 3 . 9Using t he r elation   sho wBH () M ,that  1.Solution mr BH () M ,But from equation (3.36), in vector form, MH Hence,  BH() 1 BH wherem,  () 11   m  mm rmr |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-
-
-
-
-| EXAMPLE 3 . 9Using t he r elation     sho wBH () M ,that  1.Solution mr BH () M ,But from equation (3.36), in vector form, MH Hence,   BH() 1 BH wherem,   () 11   m  mm rmr |
-|------|
-
-
-
-
-
-
-
-| Two m aterials X a nd Y a re m agnetised whose va lues of intensity of m agnetisation are 500 A m  and 2000 A m  respectively.If the magnetising field is 1000 A m , then which o ne a mong t hese m aterials c an b e easily magnet–1ized?. –1–1SolutionThe susceptibility of material X is M 500    05.H 1000The susceptibility of material Y is m,XM 2000    2H 1000Since, susceptibility of material Y i s greaterthan tm,Y hat o f m aterial X, w hich implies t hatmaterial Y can be easily magnetized. |
-|------|
-
-
-
-
-  
+| Two m aterials X a nd Y a re m agnetised whose va lues of intensity of m agnetisation are 500 A m and 2000 A m respectively.If the magnetising field is 1000 A m , then which o ne a mong t hese m aterials c an b e easily magnet–1ized?. –1–1SolutionThe susceptibility of material X is M 500    05.H 1000The susceptibility of material Y is m,XM 2000    2H 1000Since, susceptibility of material Y i s greaterthan tm,Y hat o f m aterial X, w hich implies t hatmaterial Y can be easily magnetized. |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 The properties of diamagnetic materials are i) Magnetic susceptibility is negative. ii) Relative permeability is slightly less than
 
@@ -2060,7 +1500,7 @@ T > Tc T < Tc
 
 **(b) Paramagnetic materials** In some magnetic materials, each atom or
 
-molecule has net magnetic dipole moment which is the vector sum of orbital and spin magnetic moments of electrons. Due to the random orientation of these magnetic moments, the net magnetic moment of the materials is zero.  
+molecule has net magnetic dipole moment which is the vector sum of orbital and spin magnetic moments of electrons. Due to the random orientation of these magnetic moments, the net magnetic moment of the materials is zero.
 
 In the presence of an external magnetic field, the torque acting on the atomic dipoles will align them in the field direction. As a result, there is net magnetic dipole moment induced in the direction of the applied field. The induced dipole moment is present as long as the external field exists.
 
@@ -2069,11 +1509,6 @@ When placed in a non-uniform magnetic field, the paramagnetic materials will hav
 **Magnetic levitated train** Magnetic levitated train
 
 is also called Maglev train. This train floats few centimetres above the guideway because of electromagnet used. Maglev train does not need wheels and also achieve greater speed. The basic mechanism of working of Maglev train involves two sets of magnets. One set is used to repel which makes train to float above the track and another set is used to move the floating train ahead at very great speed. These trains are quieter, smoother and environmental friendly compared conventional trains and have potential for moving with much higher speeds with technology in future.
-
-
-
-
-  
 
 Examples: Aluminium, Platinum, Chromium and Oxygen etc.
 
@@ -2091,23 +1526,23 @@ iv) Susceptibility is inversely proportional to temperature.
 
 vibration will upset the alignment of magnetic dipole moments. Therefore, the magnetic susceptibility decreases with increase in temperature. In many cases, the susceptibility of the materials is
 
-_m T_ 
+*m T* 
 
-1 or χ_m C T_
+1 or χ*m C T*
 
 \=
 
 This relation is called Curie’s law. Here _C_ is called Curie constant and temperature _T_ is in kelvin. The graph drawn between magnetic susceptibility and temperature is shown in Figure 3.19, which is a rectangular hyperbola.
 
-χ_m_
+χ*m*
 
-_T_O
+\_T_O
 
 _m C T_
 
 χ =
 
-![Curie’s law – susceptibility vs temperature  ](3.19.png "")
+![Curie’s law – susceptibility vs temperature  ](3.19.png)
 
 **(c) Ferromagnetic materials** An atom or a molecule in a ferromagnetic
 
@@ -2119,7 +1554,7 @@ aligned (b) Domains aligned with
 
 external eld
 
-![Magnetic domains – ferromagnetic materials](3.20.png "")
+![Magnetic domains – ferromagnetic materials](3.20.png)
 
 In the presence of external magnetic field, two processes take place
 
@@ -2129,18 +1564,13 @@ In the presence of external magnetic field, two processes take place
 
 As a result of these mechanisms, there is a strong net magnetisation of the material in the direction of the applied field (Figure 3.21).
 
-
-
-
-  
-
 Unmagnetized Iron in the absence of a magnetic field.
 
 Magnetized Iron in the presence of a magnetic field.
 
 **H**
 
-![Processes of domain magnetization](3.21.png "")
+![Processes of domain magnetization](3.21.png)
 
 Magnetism plays interes role in various aspects of life. It
 
@@ -2148,7 +1578,7 @@ connection with archeological place Keezhadi To find whether any archeological s
 
 In this technique, the variation of the magnetic field in comparison with the neighbouring place is studied. The magnetic field variation is due to the presence of magnetic mineral magnetite and its related minerals present in the archeological structures like buried wall, pottery, bricks, buried tombs, monuments and inhabited sites. Those minerals are either diamagnetic or paramagnetic or ferromagnetic in nature and each type has different range of magnetic susceptibilities.
 
-Indian Institute of Geomagnetism (IIG), M Keezhadi site and found out that there were a From the picture (Figure 1), there was magnet over the particular area (coloured portion). In fa Keezhadi has been revealed through magnetism  
+Indian Institute of Geomagnetism (IIG), M Keezhadi site and found out that there were a From the picture (Figure 1), there was magnet over the particular area (coloured portion). In fa Keezhadi has been revealed through magnetism
 
 When placed in a non-uniform magnetic field, the ferromagnetic materials will have a strong tendency to move from weaker to stronger part of the field. Materials which exhibit strong magnetism in the direction of applied field are called ferromagnetic materials. Examples: Iron, Nickel and Cobalt.
 
@@ -2162,11 +1592,6 @@ Figure 2
 
 Figure 1
 
-
-
-
-  
-
 i) Magnetic susceptibility is positive and large.
 
 ii) Relative permeability is large.
@@ -2179,7 +1604,7 @@ iv) Susceptibility is inversely proportional to temperature.
 
 ferromagnetism decreases due to the increased thermal agitation of the atomic dipoles. At a particular temperature, ferromagnetic material becomes paramagnetic. This temperature is known as Curie temperature _TC_ . The susceptibility of the material above the Curie temperature is given by
 
-_m C_
+*m C*
 
 _C T T_
 
@@ -2189,13 +1614,13 @@ This relation is called Curie-Weiss law. The constant _C_ is called Curie consta
 
 χ
 
-_TT_cO
+\_TT_cO
 
 _C T–Tc_
 
-χ_m_ (_T_ >_Tc_) _\=_
+χ*m* (_T_ >_Tc_) _\=_
 
-![Curie-Weiss law – susceptibility vs temperature  ](3.22.png "")
+![Curie-Weiss law – susceptibility vs temperature  ](3.22.png)
 
 **Spin** Like mass and charge for particles, spin is also another
 
@@ -2238,14 +1663,6 @@ down). Spin for proton and neutron is
 _s_ \= 1
 
 2 . For photon, spin _s_ = 1.
-
-
-
-
-
-
-
-  
 
 Type of magnetism
 
@@ -2291,7 +1708,7 @@ _H_ . The magnetic induction 
 
 _B_ of the material increases from point A with the magnitude of the magnetising field and then attains a saturation level. This
 
-**Comparison of Types of Magnetis**  
+**Comparison of Types of Magnetis**
 
 field is ≠ 0 )
 
@@ -2365,33 +1782,21 @@ Saturation
 
 AD-AG: residual magnetism AE-AK: coercivity
 
-![Hysteresis – plot for _B_ vs _H_](3.23.png "")
+![Hysteresis – plot for _B_ vs _H_](3.23.png)
 
 **m (NOT FOR EXAMINATION)**
 
-
-
-
-
-
-| Type of magnetism |Magnetising eld is absent (H = 0) |H ≠ 0Magnetising eld is present ( ) |Magnetisation of the material |Susceptibility |Relativepermeability |
-|------|------|------|------|------|------|------|------|------|------|
-| Diamagnetism |(Zero magnetic moment) |ed opposite to ld) |MO H |Negative |Less than unity |
-
-
+| Type of magnetism | Magnetising eld is absent (H = 0) | H ≠ 0Magnetising eld is present ( ) | Magnetisation of the material | Susceptibility | Relativepermeability |
+| ----------------- | ---------------------------------- | ------------------------------------ | ----------------------------- | -------------- | -------------------- |
+| Diamagnetism      | (Zero magnetic moment)             | ed opposite to ld)                   | MO H                          | Negative       | Less than unity      |
 
 | (Alignthe e |
 | Paramagnetism |(Net magnetic moment but random alignment) |ed with the eld) |MO H |Positive and small |Greater than unity |
 
-
-
 | (Align |
 | Ferromagnetism |(Net magnetic momentin a domain but they arerandomly aligned) |ed with the |MO H |Positive and large |Ver y large |
 
-
-
 | (Aligneld) |
-  
 
 If the magnetising field is now reduced, the magnetic induction also decreases but does not retrace the original path CA. It takes different path CD. When the magnetising field is zero, the magnetic induction is not zero and it has positive value. This implies that some magnetism is left in the specimen even when _H_ = 0. The residual magnetism AD present in the specimen is called remanence or retentivity. **Remanence is defined as the ability of the materials to retain the magnetism in them even after the magnetising field disappears.**
 
@@ -2401,7 +1806,7 @@ Further increase of 
 
 _H_ in the reverse direction causes the magnetic induction to increase along EF until it reaches saturation at F in the reverse direction. If magnetising field is decreased and then increased with direction reversed, the magnetic induction traces the path FGKC. This closed curve ACDEFGKC is called hysteresis loop and it corresponds to one cycle of magnetisation.
 
-In the entire cycle, the magnetic induction _B_ lags behind the magnetising field _H_. This **phenomenon of lagging of magnetic induction behind the magnetising field is called hysteresis.** Hysteresis means ‘lagging behind’.  
+In the entire cycle, the magnetic induction _B_ lags behind the magnetising field _H_. This **phenomenon of lagging of magnetic induction behind the magnetising field is called hysteresis.** Hysteresis means ‘lagging behind’.
 
 **Hysteresis loss** During the magnetisation of the
 
@@ -2411,22 +1816,20 @@ specimen through a cycle, there is loss of energy in the form of heat. This loss
 
 the hysteresis loop, ferromagnetic materials are classified as soft magnetic materials with smaller area and hard magnetic materials with larger area. The comparison of the hysteresis loops for two magnetic materials is shown in Figure 3.24. Properties of soft and hard magnetic materials are compared in Table 3.2.
 
-![Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png "")
+![Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png)
 
 **Table 3.2 Differences between soft and hard ferromagnetic materials**
 
-| **S.No.** 	| **Properties**                           	| **Soft ferromagnetic materials**                   	| **Hard ferromagnetic materials**     	|
-|-----------	|------------------------------------------	|----------------------------------------------------	|--------------------------------------	|
-| 1         	| When external field is removed           	| Magnetisation disappears                           	| Magnetisation persists               	|
-| 2         	| Area of the loop                         	| Small                                              	| Large                                	|
-| 3         	| Retentivity                              	| Low                                                	| High                                 	|
-| 4         	| Coercivity                               	| Low                                                	| High                                 	|
-| 5         	| Susceptibility and magnetic permeability 	| High                                               	| Low                                  	|
-| 6         	| Hysteresis loss                          	| Less                                               	| More                                 	|
-| 7         	| Uses                                     	| Solenoid core, transformer core and electromagnets 	| Permanent magnets                    	|
-| 8         	| Examples                                 	| Soft iron, Mumetal, Stalloy etc.                   	| Carbon steel, Alnico, Lodestone etc. 	|   
-
-  
+| **S.No.** | **Properties**                           | **Soft ferromagnetic materials**                   | **Hard ferromagnetic materials**     |
+| --------- | ---------------------------------------- | -------------------------------------------------- | ------------------------------------ |
+| 1         | When external field is removed           | Magnetisation disappears                           | Magnetisation persists               |
+| 2         | Area of the loop                         | Small                                              | Large                                |
+| 3         | Retentivity                              | Low                                                | High                                 |
+| 4         | Coercivity                               | Low                                                | High                                 |
+| 5         | Susceptibility and magnetic permeability | High                                               | Low                                  |
+| 6         | Hysteresis loss                          | Less                                               | More                                 |
+| 7         | Uses                                     | Solenoid core, transformer core and electromagnets | Permanent magnets                    |
+| 8         | Examples                                 | Soft iron, Mumetal, Stalloy etc.                   | Carbon steel, Alnico, Lodestone etc. |
 
 **Applications of hysteresis loop** The significance of hysteresis loop is that
 
@@ -2452,7 +1855,7 @@ The following figure shows the variation of intensity of magnetisation with the 
 
 _M_
 
-_H_O
+\_H_O
 
 Z X
 
@@ -2480,34 +1883,24 @@ Permanent magnets
 
 etal, Carbon steel, Alnico, Lodestone etc.
 
+| When external eld is removed            | Magnetisation disappears                             |
+| ---------------------------------------- | ---------------------------------------------------- |
+| Area of the loop                         | Small                                                |
+| Retentivity                              | Low                                                  |
+| Coercivity                               | Low                                                  |
+| Susceptibility and magnetic permeability | High                                                 |
+| Hysteresis loss                          | Less                                                 |
+| Uses                                     | Solenoid co re, t ransformer core and electromagnets |
+| Examples                                 | So iron, Mumetal,Stalloy etc.                       |
 
-
-
-
-
-| When external eld is removed |Magnetisation disappears |
-|------|------|
-| Area of the loop |Small |
-| Retentivity |Low |
-| Coercivity |Low |
-| Susceptibility and magnetic permeability |High |
-| Hysteresis loss |Less |
-| Uses |Solenoid co re, t ransformer core and electromagnets |
-| Examples |So iron, Mumetal,Stalloy etc. |
-
-
-| X |Y |
-|------|------|------|------|
-
-
-
-  
+| X   | Y   |
+| --- | --- |
 
 **_Solution_**
 
 The slope of _M-H_ graph is a measure of the magnetic susceptibility, which is given by
 
-χ_m M H_
+χ*m M H*
 
 \=
 
@@ -2521,9 +1914,9 @@ Material Z: Slope is negative and hence, it is a diamagnetic material.
 
 ### Oersted experiment
 
-In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor (Figure 3.25). When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory ‘electromagnetism’ which unifies two branches in physics namely, electricity and magnetism.  
+In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor (Figure 3.25). When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory ‘electromagnetism’ which unifies two branches in physics namely, electricity and magnetism.
 
-![Oersted’s experiment - current carrying wire and deflection of magnetic needle](3.25.png "")
+![Oersted’s experiment - current carrying wire and deflection of magnetic needle](3.25.png)
 
 (b) deflection shown by compass needle due to current flowing through the wire.
 
@@ -2535,16 +1928,8 @@ In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noti
 
 near a current-carrying straight conductor, then the needle of the magnetic compass experiences a torque and deflects to align in the direction of the magnetic field at that point. Tracing out the direction shown by magnetic needle , we can draw the magnetic field lines at a distance. For a straight current-carrying conductor, the nature of magnetic field is like concentric circles having their common centre on the axis of the conductor as shown in Figure 3.26 (a).
 
-
-
-
-
-
-| SolutionThe slope of M-H graph is a measure of the magnetic susceptibility, which is given byMχ =HMaterial X: S lope i s p ositive a nd l arger valuem . So, it is a ferromagnetic material. Material  Y:  Slope  is  positive  and  lesser value than X. So, it could be a paramagnetic material.Material Z: S lope i s n egative a nd h ence, i t is a diamagnetic material. |
-|------|
-
-
-  
+| SolutionThe slope of M-H graph is a measure of the magnetic susceptibility, which is given byMχ =HMaterial X: S lope i s p ositive a nd l arger valuem . So, it is a ferromagnetic material. Material Y: Slope is positive and lesser value than X. So, it could be a paramagnetic material.Material Z: S lope i s n egative a nd h ence, i t is a diamagnetic material. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 The direction of circular magnetic field lines will be clockwise or anticlockwise depending on the direction of current in the conductor. If the strength (or magnitude) of the current is increased then the density of the magnetic field will also increase. The strength of the magnetic field (_B_) decreases as the distance (_r_) from the conductor increases (Figure 3.26 (b)).
 
@@ -2558,7 +1943,7 @@ near a current carrying circular conductor, then the needle of the magnetic comp
 
 (b) the variation of strength of magnetic field and distance _r_ are shown
 
-_r_  
+_r_
 
 The strength of the magnetic field is increased if either the current in the coil or the number of turns or both are increased. The polarity (north pole or south pole) depends on the direction of current in the loop.
 
@@ -2576,16 +1961,11 @@ Magnetic lines of force
 
 The right hand rule is used to find the direction of magnetic field when the direction of current in a conductor is known.
 
-
-
-
-  
-
 **Assume that we hold the current carrying conductor in our right hand such that the thumb points in the direction of current flow, then the fingers encircling the conductor point in the direction of the magnetic field lines produced.**
 
 The Figure 3.28 shows the right hand rule for current carrying straight conductor and circular coil.
 
-![Right hand rule – straight conductor and circular loop](3.28.png "")
+![Right hand rule – straight conductor and circular loop](3.28.png)
 
 **_I_**
 
@@ -2609,13 +1989,13 @@ Current in wire
 
 ### Maxwell’s right hand cork screw rule
 
-This rule can also be used to find the direction of the magnetic field around the current-carrying conductor. If we rotate a right-handed screw using a screw driver, then the direction of current is same as the direction in which screw advances and the direction of rotation of the screw gives the direction of the magnetic field. (Figure 3.29)  
+This rule can also be used to find the direction of the magnetic field around the current-carrying conductor. If we rotate a right-handed screw using a screw driver, then the direction of current is same as the direction in which screw advances and the direction of rotation of the screw gives the direction of the magnetic field. (Figure 3.29)
 
 **B**
 
 **_I_**
 
-![Maxwell’s right hand cork screw rule](3.29.png "")
+![Maxwell’s right hand cork screw rule](3.29.png)
 
 **EXAMPLE 3.12**
 
@@ -2639,11 +2019,6 @@ Using right hand rule, current flows upwards.
 
 **B**
 
-
-
-
-  
-
 ## BIOT - SAVART LAW
 
 Soon after Oersted’s discovery, both Jean-Baptiste Biot and Felix Savart in 1819 did quantitative experiments on the force experienced by a magnet kept near current carrying wire and arrived at a mathematical expression that gives the magnetic field at some point in space in terms of the current that produces the magnetic field. This is true for any shape of the conductor.
@@ -2652,15 +2027,13 @@ Soon after Oersted’s discovery, both Jean-Baptiste Biot and Felix Savart in 18
 
 V
 
-I _dl_
+I *dl*
 
 – + _dB_
 
-P_r r̂_
+P*r r̂*
 
-+
-
-**Figure 3.30 Magnetic field at a point P** due to current carrying conductor
+- **Figure 3.30 Magnetic field at a point P** due to current carrying conductor
 
 Biot and Savart experimentally observed that the magnitude of magnetic field _dB_
 
@@ -2678,7 +2051,7 @@ at a point P (Figure 3.30) at a distance _r_ from the small elemental length tak
 
 
 
-and _r_.  
+and *r*.
 
 (iv) inversely as the square of the distance _r_ between the point P and length element _dl_ 
 
@@ -2716,7 +2089,7 @@ Here vector _dB_ 
 
 is perpendicular to both _Idl_ 
 
-(pointing the direction of current flow) and the unit vector _r_ directed from _dl_
+(pointing the direction of current flow) and the unit vector *r* directed from _dl_
 
 
 
@@ -2740,14 +2113,9 @@ The equation (3.34) is used to compute the magnetic field only due to a small el
 
 . Hence integrating equation (3.34), we get
 
-
-
-
-  
-
   
 
-_B dB I dl r_
+*B dB I dl r*
 
 _r_ \= =
 
@@ -2783,11 +2151,11 @@ _n_ 
 
 4 2 
 
-where _n_ is the unit vector perpendicular to both _I dl_
+where *n* is the unit vector perpendicular to both _I dl_
 
 
 
-and _r_
+and *r*
 
 Electric current is not a vector quantity. It is a scalar quantity. But electric current
 
@@ -2803,9 +2171,9 @@ Electric and magnetic fields
 
 • obey the principle of superposition and are linear with respect to source. In magnitude,
 
-_E q_∝
+*E q*∝
 
-_B Idl_∝  
+*B Idl*∝
 
 **Differences between electric field (from Coulomb’s law) and magnetic field (from Biot-Savart’s law)**
 
@@ -2817,38 +2185,32 @@ Produced by a vector source i.e., current element _Idl_ 
 
 2 It is directed along the position vector joining the source and the point at which the field is calculated
 
-It is directed perpendicular to the position vector _r_ and the current element _Idl_
+It is directed perpendicular to the position vector *r* and the current element _Idl_
 
 
 
 3 Does not depend on angle
 
-Depends on the angle between the position vector _r_ and the current element _Idl_
+Depends on the angle between the position vector *r* and the current element _Idl_
 
 
 
 The exponent of charge _q_ (source) and exponent of electric field _E_ is unity.
 
-Similarly, the exponent of current element _Idl_ (source) and exponent of magnetic field B is unity. In other words, electric field _E_ is proportional only to charge (source) and not on higher powers of charge (_q_2, _q_3, etc). Similarly, magnetic field _B_ is proportional to current element _I_ (source) and not on square or cube or higher powers of current element. The cause and effect have linear relationship.
+Similarly, the exponent of current element _Idl_ (source) and exponent of magnetic field B is unity. In other words, electric field _E_ is proportional only to charge (source) and not on higher powers of charge (_q_2, \_q_3, etc). Similarly, magnetic field \_B_ is proportional to current element _I_ (source) and not on square or cube or higher powers of current element. The cause and effect have linear relationship.
 
 **Note**
 
-
-
-
-
-
-| S. No. Ele ctric eld Magnetic eld1 Produced  Produced by a by a scalar  vector source i.e., source i.e.,  current element an electric  I dlcharge q |
-|------|------|------|
-| 2 |It is directed along the position vectorjoining the source and the point at which the eld is calculated |It is directed perpendicular to the position vector  and the current relement I dl |
-| 3 |Does not depend on angle |Depends on the angle between the position vector  rand the current element I dl |
-  
+| S. No. Ele ctric eld Magnetic eld1 Produced Produced by a by a scalar vector source i.e., source i.e., current element an electric I dlcharge q |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 2                                                                                                                                                  | It is directed along the position vectorjoining the source and the point at which the eld is calculated | It is directed perpendicular to the position vector  and the current relement I dl |
+| 3                                                                                                                                                  | Does not depend on angle                                                                                 | Depends on the angle between the position vector rand the current element I dl     |
 
 ### Magnetic field due to long straight conductor carrying current
 
 _Y_
 
-_Y_´
+*Y*´
 
 O _P_
 
@@ -2862,9 +2224,9 @@ _I a_
 
 _r_
 
-_ϕ_1
+\_ϕ_1
 
-_ϕ_2_ϕ_
+*ϕ_2*ϕ\_
 
 _dϕ_
 
@@ -2880,11 +2242,11 @@ _dB Idl r_
 
 \= _µ π_
 
-_θ_0 24
+\_θ_0 24
 
 sin _n ˆ_
 
-where _n ˆ_ is the unit vector which points into the page at P_, θ_ is the angle between current element _Idl_ and line joining _dl_ and the point P. Let _r_ be the distance between line element at A to the point P.
+where _n ˆ_ is the unit vector which points into the page at P*, θ* is the angle between current element _Idl_ and line joining _dl_ and the point P. Let _r_ be the distance between line element at A to the point P.
 
 _dB I a_
 
@@ -2896,15 +2258,15 @@ _φ_
 
 0
 
-4 cos  
+4 cos
 
 To apply trigonometry, draw a perpendicular AC to the line BP as shown in Figure 3.32.
 
-In triangle ∆ABC, sin_q_\= AC AB
+In triangle ∆ABC, sin*q*\= AC AB
 
-⇒ =AC ABsin_q_
+⇒ =AC ABsin*q*
 
-But AB _= dl_ ⇒ =AC _dl_ sin_q_
+But AB _= dl_ ⇒ =AC _dl_ sin*q*
 
 Let _df_ be the angle subtended between AP and BP
 
@@ -2918,7 +2280,7 @@ Since, _df_ is very small, sin(_df_ ) _df_
 
 But AP = _r_ ⇒ =_AC rdf_
 
-∴ = =AC _dl rd_sin_θ φ_
+∴ = =AC *dl rd_sin*θ φ\_
 
 ∴ = =_dB I r_
 
@@ -2928,21 +2290,21 @@ _n_  _µ_
 
 _π φ_
 
-_µ π φ_0
+\_µ π φ_0
 
 2 0
 
-4 4 ( )˘ ˘ _n ˆ_0
+4 4 ( )˘ ˘ \_n ˆ_0
 
 2 0 _n ˆ_
 
 Let _f_ be the angle between BP and OP
 
-In a ∆OPA, cos_f_\= OP BP
+In a ∆OPA, cos*f*\= OP BP
 
 \= _a r_
 
-⇒ =_r a_ cos_f_
+⇒ =_r a_ cos*f*
 
 _dB I a_
 
@@ -2956,7 +2318,7 @@ _φ φ_
 
 _µ π_
 
-_φ φ_0 0
+\_φ φ_0 0
 
 4 4 cos
 
@@ -2968,7 +2330,7 @@ _d n_ 
 
 ⇒ =_φ µ π_
 
-_φ φ_0
+\_φ φ_0
 
 4 ˘ cos
 
@@ -3004,37 +2366,27 @@ _φ µ π_
 
 _φ φ φ_
 
-_φ_0 0 1 24 41
+\_φ_0 0 1 24 41
 
-2_I a_
+2*I a*
 
 _n B I a_
 
-_n_sin ˘ sin sin ˘\[ \] ⇒ = +( ) −
+\_n_sin ˘ sin sin ˘\[ \] ⇒ = +( ) −
 
 
 
 _ˆ_
 
-
-
-
-
-
 | Cθ rdϕϕϕ2 |
-|------|------|
-
+| --------- |
 
 | a ϕ1 |
 
-
-| acos fµ I µ00 |Icos φφdnπa |
-|------|------|------|
-| ⇒=rdB =⇒dB |
+| acos fµ I µ00                             | Icos φφdnπa |
+| ----------------------------------------- | ----------- |
+| ⇒=rdB =⇒dB                              |
 | dnφ ˘nˆ dB =44π acos φµ I= cos φφdn ˘nˆπa |
-
-
-  
 
 \= _µ π_
 
@@ -3042,13 +2394,13 @@ _φ µ π_
 
 _φ φ φ_
 
-_φ_0 0 1 24 41
+\_φ_0 0 1 24 41
 
-2_I a_
+2*I a*
 
 _n B I a_
 
-_n_sin ˘ sin sin ˘\[ \] ⇒ = +( ) −
+\_n_sin ˘ sin sin ˘\[ \] ⇒ = +( ) −
 
 
 
@@ -3070,7 +2422,7 @@ _π µ π_
 
 2 ˘ _ˆ_
 
- _I a_
+ *I a*
 
 _I a_
 
@@ -3088,7 +2440,7 @@ The magnetic field at a point P on the axis of the circular coil at a distance _
 
 
 
-at C and D. Let _r_ be the vector joining the current element (_I dl_ 
+at C and D. Let *r* be the vector joining the current element (_I dl_ 
 
 ) at C and the point P.
 
@@ -3136,7 +2488,7 @@ x
 
 z
 
-y  
+y
 
 According to Biot-Savart’s law, the magnetic field at P due to the current element at C is
 
@@ -3178,7 +2530,7 @@ sin
 
 where _θ_ is the angle between _Idl_ 
 
-and _r_ . Here _θ =_ 90°.
+and *r* . Here _θ =_ 90°.
 
 The direction of _dB I dl r_
 
@@ -3208,29 +2560,29 @@ _r_ 
 
 
 
-due to each current element is resolved into two components; _dB_cos_ϕ_ along y-direction and _dB_sin_ϕ_ along z-direction. The horizontal components cancel out while the vertical components (_dB_sin_ϕ k_ ) alone contribute to the net magnetic field
+due to each current element is resolved into two components; *dB_cos*ϕ* along y-direction and \_dB_sin*ϕ* along z-direction. The horizontal components cancel out while the vertical components (\_dB_sin*ϕ k_ ) alone contribute to the net magnetic field
 
 
 
 _B_ at the point P.
 
-_B dB dB k_   = =∫ ∫ sin_f_
+_B dB dB k_   = =∫ ∫ sin*f*
 
 \= ∫ _µ π_
 
-_φ_0 24
+\_φ_0 24
 
 _I dl r_
 
-_k_sin 
+\_k_sin 
 
 From ∆OCP,
 
-sin_f_\= +( ) _R_
+sin*f*\= +( ) _R_
 
-_R z_2 2 1
+\_R z_2 2 1
 
-2 and _r R z_2 2 2= + .
+2 and \_r R z_2 2 2= + .
 
 Substituting these in the above equation, we get
 
@@ -3240,27 +2592,20 @@ _R z k dl_
 
  = +( )
 
-( )∫_µ π_ 0
+( )∫*µ π* 0
 
 2 2 3
 
 24
 
-
-
-
-
-
-| rdB cos ϕϕz |rdB cos ϕ |zO |
-|------|------|------|------|------|------|------|------|------|
-| y |
+| rdB cos ϕϕz | rdB cos ϕ | zO  |
+| ----------- | --------- | --- |
+| y           |
 
 | x |
 | r |R O |r |
 
-  
-
-If we integrate the line element from 0 to 2π_R_, we get the net magnetic field _B_
+If we integrate the line element from 0 to 2π*R*, we get the net magnetic field _B_
 
  at point
 
@@ -3320,11 +2665,11 @@ _B_ \= 0.
 
 ### Tangent law and Tangent Galvanometer
 
-Tangent galvanometer is a device used to detect very small currents. It is a moving  
+Tangent galvanometer is a device used to detect very small currents. It is a moving
 
 magnet type galvanometer. Its working is based on tangent law (Figure 3.34).
 
-![Tangent Galvanometer](3.34.png "")
+![Tangent Galvanometer](3.34.png)
 
 **Tangent law**
 
@@ -3352,7 +2697,7 @@ the base are adjusted so that the small magnetic needle is exactly horizontal an
 
 **Theory** In the tangent galvanometer experiment,
 
-when no current is passed through the coil, the small magnetic needle lies along horizontal component of Earth’s magnetic  
+when no current is passed through the coil, the small magnetic needle lies along horizontal component of Earth’s magnetic
 
 field. When the circuit is closed, the electric current will pass through the circular coil and produce magnetic field at the centre of the coil. Now there are two fields which are acting mutually perpendicular to each other. They are: (1) the magnetic field (_B_) due to the electric
 
@@ -3360,7 +2705,7 @@ current in the coil acting normal to the plane of the coil.
 
 (2) the horizontal component of Earth’s magnetic field (_BH_)
 
-![Resultant position of pivoted needle](3.35.png "")
+![Resultant position of pivoted needle](3.35.png)
 
 N
 
@@ -3368,7 +2713,7 @@ S
 
 
 
-B_H_
+B*H*
 
 B
 
@@ -3390,20 +2735,13 @@ From equation (3.39) and equation (3.40), we get
 
 _NI R_
 
-_BH_2  tan
+\_BH_2  tan
 
 The horizontal component of Earth’s magnetic field is given by
 
-
-
-
-
-
-| N |
-|------|------|------|
-|  |
-
-  
+| N   |
+| --- |
+|    |
 
 _B N R_
 
@@ -3489,7 +2827,7 @@ _I_ \= 0 082. A
 
 The magnetic field at a point on the axis of the current-carrying circular loop of radius _R_ at a distance _z_ from its centre is given by 
 
-_B I R_
+*B I R*
 
 _R z k_\=
 
@@ -3503,13 +2841,13 @@ _R z k_\=
 
  (From eqn. 3.37)
 
-At larger distance _z_ >> _R_, therefore _R z z_2 2 2+ ≈ , we have
+At larger distance _z_ >> _R_, therefore \_R z z_2 2 2+ ≈ , we have
 
    B B= =
 
 µ µ π
 
-π_I R z_
+π*I R z*
 
 _k I R z_
 
@@ -3521,11 +2859,11 @@ _k_ 2 2
 
 2
 
-3  or (3.42)  
+3  or (3.42)
 
 Let _A_ be the area of the circular loop _A_ = π _R2_. So rewriting the equation (3.42) in terms of area of the loop, we have
 
- _B I A_
+ *B I A*
 
 _z k_\=
 
@@ -3535,7 +2873,7 @@ _z k_\=
 
 (or) 
 
-_B IA z_
+*B IA z*
 
 _k_\= µ π4
 
@@ -3553,7 +2891,7 @@ where _pm_ is called magnetic dipole moment. In vector notation,
 
 _p I Am_ \= (3.44)
 
-This implies that a current carrying circular loop behaves as a magnetic dipole of magnetic moment _pm_ . So, **the magnetic dipole moment of any current loop is equal to the product of the current and area of the loop.**
+This implies that a current carrying circular loop behaves as a magnetic dipole of magnetic moment *pm* . So, **the magnetic dipole moment of any current loop is equal to the product of the current and area of the loop.**
 
 **Right hand thumb rule** In order to determine the direction of
 
@@ -3563,12 +2901,10 @@ magnetic moment, we use right hand thumb rule which states that
 
 **Table 3.3 End rule – polarity with direction of current in circular loop**
 
-| Current in circular loop 	| Polarity   	| Picture 	|
-|--------------------------	|------------	|---------	|
-| Anti-clockwise current   	| North Pole 	|![](table3.3a.png)Anti-clockwise current Polarity:North Pole|
-| Clockwise current        	| South Pole 	|![](table3.3b.png)Clockwise current Polarity:South Pole|
-
-  
+| Current in circular loop | Polarity   | Picture                                                      |
+| ------------------------ | ---------- | ------------------------------------------------------------ |
+| Anti-clockwise current   | North Pole | ![](table3.3a.png)Anti-clockwise current Polarity:North Pole |
+| Clockwise current        | South Pole | ![](table3.3b.png)Clockwise current Polarity:South Pole      |
 
 ### Magnetic dipole moment of revolving electron
 
@@ -3578,13 +2914,13 @@ Suppose an electron undergoes circular motion around the nucleus as shown in Fig
 
 
 
-µ_L I A_\= (3.45)
+µ*L I A*\= (3.45)
 
 In magnitude,
 
-µ_L I A_\=
+µ*L I A*\=
 
-![(a) Electron revolving in a circular orbit (b) Direction of magnetic dipole moment vector and orbital angular momentum vector are opposite](3.36.png "")
+![(a) Electron revolving in a circular orbit (b) Direction of magnetic dipole moment vector and orbital angular momentum vector are opposite](3.36.png)
 
 O O
 
@@ -3604,7 +2940,7 @@ _I e T_
 
 \= − (3.46)
 
-where −_e_ is the charge of an electron. If _R_ is the radius of the circular orbit and _v_ is the velocity of the electron in the circular orbit, then  
+where −*e* is the charge of an electron. If _R_ is the radius of the circular orbit and _v_ is the velocity of the electron in the circular orbit, then
 
 _T R_ \=
 
@@ -3616,7 +2952,7 @@ Using equation (3.46) and equation (3.47) in equation (3.45), we get
 
 µ π
 
-π_L e R_
+π*L e R*
 
 _R e R_ \=− =−
 
@@ -3626,11 +2962,11 @@ _v_
 
 _v_ (3.48)
 
-where _A_ = π_R2_ is the area of the circular loop. By definition, angular momentum of the electron about O is
+where _A_ = π*R2* is the area of the circular loop. By definition, angular momentum of the electron about O is
 
  
 
-_L R p_\= ×
+*L R p*\= ×
 
 In magnitude,
 
@@ -3638,7 +2974,7 @@ _L Rp m R_\= = _v_ (3.49)
 
 Using equation (3.48) and equation (3.49), we get
 
-µ µ_L LL_
+µ µ*L LL*
 
 _e R m R_
 
@@ -3660,7 +2996,7 @@ The negative sign indicates that the magnetic moment and angular momentum are in
 
 In magnitude,
 
-µ_L_
+µ*L*
 
 _L e m_
 
@@ -3682,15 +3018,15 @@ _L e m_
 
 . . C kg
 
-µ_L_
+µ*L*
 
 _L_ \= × =−8 78 1010 1. C kg constant
 
-The ratio µ_L_
+The ratio µ*L*
 
 _L_ is a constant known as
 
-gyro-magnetic ratio _e m_2
+gyro-magnetic ratio \_e m_2
 
  
 
@@ -3700,15 +3036,8 @@ gyro-magnetic ratio _e m_2
 
 that the gyro-magnetic ratio is a constant of proportionality which connects angular momentum of the electron and the magnetic moment of the electron.
 
-
-
-
-
-
-
 |------|------|
 | R |
-  
 
 According to Neil’s Bohr quantization rule, the angular momentum of an electron moving in a stationary orbit is quantized which means
 
@@ -3718,7 +3047,7 @@ _L n n h_ \= =
 
 where _h_ is the Planck’s constant (_h_ = 6.63 x 10–34 J s ) and number _n_ is the orbit number, i.e., _n_ = 1,2,3,..... Hence,
 
-µ π_L_
+µ π*L*
 
 _e m_
 
@@ -3728,7 +3057,7 @@ _Am_\= = 2 4
 
 2
 
-µ π_L n h_
+µ π*L n h*
 
 _m_ \= ×
 
@@ -3740,7 +3069,7 @@ _m_ \= ×
 
 − −
 
-−_n_ ( . )( . ) . ( . )
+−*n* ( . )( . ) . ( . )
 
 1 60 10 6 63 10 4 3 14 9 11 10
 
@@ -3748,7 +3077,7 @@ _m_ \= ×
 
 31
 
-µ_L n_\= × × −9 27 10 24. Am2
+µ*L n*\= × × −9 27 10 24. Am2
 
 The minimum value of magnetic moment can be obtained by substituting n = 1,
 
@@ -3768,7 +3097,7 @@ min
 
 Am JT2 -1
 
-where µ π_B eh_
+where µ π*B eh*
 
 _m_ \= = × −
 
@@ -3778,7 +3107,7 @@ Bohr magneton which is used to measure atomic magnetic moments.
 
 ## AMPÈRE’S CIRCUITAL LAW
 
-Ampère’s circuital law is used to calculate magnetic field at a point whenever there is a  
+Ampère’s circuital law is used to calculate magnetic field at a point whenever there is a
 
 symmetry in the problem. This is similar to Gauss’s law in electrostatics.
 
@@ -3802,7 +3131,7 @@ Closed line integral means integral over a closed curve (or line), symbol is
 
 ### Magnetic field due to the current carrying wire of infinite length using Ampère’s law
 
-![Ampèrian loop for current carrying straight wire](3.37.png "")
+![Ampèrian loop for current carrying straight wire](3.37.png)
 
 OC
 
@@ -3812,14 +3141,9 @@ r
 
 I
 
-_n_
+*n*
 
 Consider a straight conductor of infinite length carrying current _I_ and
-
-
-
-
-  
 
 the direction of magnetic field lines is shown in Figure 3.37. Since the wire is geometrically cylindrical in shape and symmetrical about its axis, we construct an Ampèrian loop in the form of a circular shape at a distance _r_ from the centre of the conductor as shown in Figure 3.37. From the Ampère’s law, we get
 
@@ -3855,7 +3179,7 @@ _B dl I r_
 
 2
 
-_B r I_⋅ =2π µ 
+*B r I*⋅ =2π µ 
 
 _B I r_
 
@@ -3865,11 +3189,11 @@ _B I r_
 
 In vector form, the magnetic field is
 
- _B I r_
+ *B I r*
 
 _n_\= µ π2 
 
-where _n_ is the unit vector along the tangent to the Ampèrian loop as shown in the Figure 3.37.  
+where *n* is the unit vector along the tangent to the Ampèrian loop as shown in the Figure 3.37.
 
 **EXAMPLE 3.15**
 
@@ -3909,18 +3233,10 @@ Inside the solenoid, the magnetic field is nearly uniform and parallel to its ax
 
 The current carrying solenoid is held in right hand. If the fingers curl in the direction of current, then extended thumb gives the direction of magnetic field of current carrying solenoid. It is shown in
 
+| EXAMPLE 3 . 1 5C ompute t he m ag ni tude o f t he m ag net icf ie ld o f a lo ng , s t ra ig ht w ir e c ar r y in ga c ur rent o f 1 A a t di st ance o f 1mf rom it. C omp are it wit h E ar t h’s mag net icf ie ld .SolutionGiven that I = 1 A and radius r = 1 mµ I 41π ××01B == =×21 0 T2πr 21π ×But t he E arth’s m agnetic f ield i s −7 −7straightwireSBo,  10 Tis one hundred times smaller BthanB−5EarthstraightwireEarth |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-
-
-
-| EXAMPLE 3 . 1 5C ompute t he m ag ni tude o f t he m ag net icf ie ld o f a lo ng , s t ra ig ht w ir e c ar r y in ga c ur rent o f 1 A a t di st ance o f 1mf rom it. C omp are it wit h E ar t h’s mag net icf ie ld .SolutionGiven that I = 1 A and radius r = 1 mµ I 41π ××01B == =×21 0 T2πr 21π ×But t he E arth’s m agnetic f ield i s −7 −7straightwireSBo,  10 Tis  one  hundred  times  smaller BthanB−5EarthstraightwireEarth |
-|------|
-
-
-  
-
-![Solenoid](3.38.png "")
+![Solenoid](3.38.png)
 
 Bubbin with Terminals
 
@@ -3938,7 +3254,7 @@ Current
 
 **Figure 3.40 The direction of magnetic** field of solenoid
 
-![Solenoid as a bar magnet](3.39.png "")
+![Solenoid as a bar magnet](3.39.png)
 
 S N
 
@@ -3946,7 +3262,7 @@ _II_
 
 _l_
 
-Figure 3.39. Hence, the magnetic field of a solenoid looks like the magnetic field of a bar magnet.  
+Figure 3.39. Hence, the magnetic field of a solenoid looks like the magnetic field of a bar magnet.
 
 The solenoid is assumed to be long which means that the length of the solenoid is large when compared to its diameter. The winding need not to be always circular, it can also be in other shapes. We consider here only circularly wound solenoid as shown in Figure 3.40.
 
@@ -3976,7 +3292,7 @@ In order to calculate the magnetic field at any point inside the solenoid, we us
 
 _B dl I C_
 
-_enclosed_⋅ =
+*enclosed*⋅ =
 
 \= ×
 
@@ -4004,20 +3320,12 @@ _a_
 
 Since the elemental lengths along bc and da are perpendicular to the magnetic field
 
-
-
-
-
-
-| dcpoints in |i |
-|------|------|------|
-
-
-  
+| dcpoints in | i   |
+| ----------- | --- |
 
 which is along the axis of the solenoid, the integrals
 
-    _B dl B dl b_
+    *B dl B dl b*
 
 _c_
 
@@ -4047,7 +3355,7 @@ _d_
 
 For the path along ab, the integral is
 
-  _B dl B dl B dl a_
+  *B dl B dl B dl a*
 
 _b_
 
@@ -4073,7 +3381,7 @@ _b_
 
 Let _I_ be the current passing through the solenoid of _N_ turns, then
 
-   _B dl BL NI B NI_
+   *B dl BL NI B NI*
 
 _L a_
 
@@ -4093,7 +3401,7 @@ _nI_\= =µ µ  
 
 (3.52)
 
-Since _n_ is a constant for a given solenoid and μ0 is also constant. For a fixed current _I_, the magnetic field inside the solenoid is also a constant.  
+Since _n_ is a constant for a given solenoid and μ0 is also constant. For a fixed current _I_, the magnetic field inside the solenoid is also a constant.
 
 Solenoid can be used as electromagnet. It produces strong magnetic field that
 
@@ -4121,18 +3429,13 @@ _B NI LL N_, = µ
 
 (a) length of the solenoid becomes twice with fixed number of turns
 
-_L_→2_L_ (length becomes twice) _N_→_N_ (number of turns remains
+*L*→2*L* (length becomes twice) *N*→*N* (number of turns remains
 
 constant) The magnetic field is
 
-
-
-
-  
-
 _B NI L_
 
-_BL N L N_2 2 1 2, ,= =µ
+\_BL N L N_2 2 1 2, ,= =µ
 
 
 
@@ -4144,11 +3447,11 @@ twice) The magnetic field is
 
 _B NI L_
 
-_BL N L N_2 2 2 2, ,= =µ
+\_BL N L N_2 2 2 2, ,= =µ
 
 
 
-MRI is Magnetic Resonance Imaging which helps the physicians to diagonise or monitor treatment for a variety of abnormal conditions happening within the head, chest, abdomen and pelvis. It is a non invasive medical test. The patient is placed in a circular opening (actually interior of a solenoid which is made up of superconducting wire) and large current is sent through the superconducting wire to produce a strong magnetic field. So, it uses more powerful magnet, radio frequency pulses and a computer to produce pictures of organs which helps the physicians to examine various parts of the body.  
+MRI is Magnetic Resonance Imaging which helps the physicians to diagonise or monitor treatment for a variety of abnormal conditions happening within the head, chest, abdomen and pelvis. It is a non invasive medical test. The patient is placed in a circular opening (actually interior of a solenoid which is made up of superconducting wire) and large current is sent through the superconducting wire to produce a strong magnetic field. So, it uses more powerful magnet, radio frequency pulses and a computer to produce pictures of organs which helps the physicians to examine various parts of the body.
 
 (c) the number of turns becomes twice but the length of the solenoid remains same
 
@@ -4172,19 +3475,14 @@ Thus, strength of the magnetic field is increased when we pack more loops into t
 
 A solenoid is bent in such a way its ends are joined together to form a closed ring shape, is called a toroid which is shown in Figure 3.42. The magnetic field has constant magnitude inside the toroid whereas in the interior region (say, at point P) and exterior region (say, at point Q), the magnetic field is zero.
 
-![Toroid](3.42.png "")
+![Toroid](3.42.png)
 
 **(a) Open space interior to the toroid** Let us calculate the magnetic field _BP_ at
 
-point P. We construct an Amperian loop 1 of radius _r_1 around the point P as shown in
+point P. We construct an Amperian loop 1 of radius \_r_1 around the point P as shown in
 
-
-
-
-
-
-| (c) the  number  of t urns  becomes  twice but the length of the solenoid remains sameL→L (length is fixed)N→2N (n umber o f t urns b ecomes twice)The magnetic field is 2NIµ 2BLhe above results,  B LNrength  of  the  magnetic  field  is when  we  pack  more  loops  into LNgt22 h for a g LN iven current. |
-|------|------|
+| (c) the number of t urns becomes twice but the length of the solenoid remains sameL→L (length is fixed)N→2N (n umber o f t urns b ecomes twice)The magnetic field is 2NIµ 2BLhe above results,  B LNrength of the magnetic field is when we pack more loops into LNgt22 h for a g LN iven current. |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | B ==LN,,2 |
 
@@ -4192,10 +3490,9 @@ point P. We construct an Amperian loop 1 of radius _r_1 around the point P as sh
 
 | BB >>LN,,,22 |
 
-| Thus,  stincreased the same len |
-  
+| Thus, stincreased the same len |
 
-![Toroid – Amperian loop](3.43.png "")
+![Toroid – Amperian loop](3.43.png)
 
 S
 
@@ -4217,7 +3514,7 @@ r1
 
 Figure 3.43. For simplicity, we take circular loop so that the length of the loop is its circumference.
 
-_L r_1 12= π
+\_L r_1 12= π
 
 Ampère’s circuital law for the loop 1 is  
 
@@ -4241,9 +3538,9 @@ _BP_ \= 0
 
 **(b) Open space exterior to the toroid** Let us calculate the magnetic field _BQ_ at
 
-point Q. We construct an Amperian loop 3 of radius _r_3 around the point Q as shown in Figure 3.43. The length of the loop is
+point Q. We construct an Amperian loop 3 of radius \_r_3 around the point Q as shown in Figure 3.43. The length of the loop is
 
-_L r_3 32= π  
+\_L r_3 32= π
 
 Ampère’s circuital law for the loop 3 is  
 
@@ -4267,11 +3564,11 @@ _BQ_ \= 0
 
 **(c) Inside the toroid** Let us calculate the magnetic field _BS_ at
 
-point S by constructing an Amperian loop 2 of radius _r_2 around the point S as shown in Figure 3.43. The length of the loop is
+point S by constructing an Amperian loop 2 of radius \_r_2 around the point S as shown in Figure 3.43. The length of the loop is
 
-_L r_2 22= π
+\_L r_2 22= π
 
-Ampere’s circuital law for the loop 2 is    _B dl IS_
+Ampere’s circuital law for the loop 2 is    *B dl IS*
 
 _loop enclosed_. =∫
 
@@ -4283,7 +3580,7 @@ Let _I_ be the current passing through the toroid and _N_ be the number of turns
 
 _Ienclosed_ = _NI_
 
-Therefore,    _B dl B dl B rS_
+Therefore,    *B dl B dl B rS*
 
 _loop S_
 
@@ -4291,7 +3588,7 @@ _loop S_. cos= =∫ ∫
 
 2 2 22θ π
 
-   _B dl NIS_
+   *B dl NIS*
 
 _loop_
 
@@ -4314,11 +3611,6 @@ _n N r_
 _B nIS_ \= µ 
 
 (3.53)
-
-
-
-
-  
 
 ## LORENTZ FORCE
 
@@ -4344,7 +3636,7 @@ _F q E B_\= + ×( )_v_ . It is known as Lorentz force.
 
 ### Force on a moving charge in a magnetic field
 
-When an electric charge _q_ is moving with velocity _v_ in the magnetic field
+When an electric charge _q_ is moving with velocity *v* in the magnetic field
 
 
 
@@ -4374,7 +3666,7 @@ _Fm_ is directly proportional to the magnetic field
 
 _B_ 2\. 
 
-_Fm_ is directly proportional to the velocity _v_ of the moving charge  
+_Fm_ is directly proportional to the velocity *v* of the moving charge
 
 3\. 
 
@@ -4386,19 +3678,19 @@ _Fm_ is directly proportional to the magnitude of the charge _q_
 
 5\. The direction of 
 
-_Fm_ is always perpendicular to _v_ and
+_Fm_ is always perpendicular to *v* and
 
 
 
 _B_ as 
 
-_Fm_ is the cross product of _v_ and
+_Fm_ is the cross product of *v* and
 
 
 
 _B_
 
-![Direction of the Lorentz force on (a) positive charge (b) negative charge](3.44.png "")
+![Direction of the Lorentz force on (a) positive charge (b) negative charge](3.44.png)
 
 
 
@@ -4408,7 +3700,7 @@ B **\_**
 
 (b)
 
-_v_
+*v*
 
 _Fm_
 
@@ -4428,7 +3720,7 @@ _Fm_ on negative charge is opposite to the direction of
 
 _Fm_ on positive charge provided other factors are identical as shown Figure 3.44 (b)
 
-7\. If velocity _v_ of the charge _q_ is along magnetic field
+7\. If velocity *v* of the charge _q_ is along magnetic field
 
 
 
@@ -4452,27 +3744,20 @@ A m =1N A m
 
 **EXAMPLE 3.17**
 
-A particle of charge _q_ moves with velocity _v_ along positive y - direction in a magnetic field
+A particle of charge _q_ moves with velocity *v* along positive y - direction in a magnetic field
 
 
 
 _B_ . Compute the Lorentz force experienced by the particle (a) when
 
-
-
-
-
-
-|  |
-|------|------|
-
-  
+|    |
+| --- |
 
 magnetic field is along positive y-direction (b) when magnetic field points in positive z - direction (c) when magnetic field is in zy - plane and making an angle _θ_ with velocity of the particle. Mark the direction of magnetic force in each case.
 
 **_Solution_**
 
-Velocity of the particle is _v v_\= _j_
+Velocity of the particle is *v v*\= *j*
 
 (a) Magnetic field is along positive
 
@@ -4520,17 +3805,17 @@ From Lorentz force, 
 
 _Fm_ \= _q_(
 
-_j Bk q B i_×( )=_v v_ 
+*j Bk q B i*×( )=*v v* 
 
 )
 
-\= _qvB_
+\= *qvB*
 
-_F q j Bk im_ \= ×( )_v_ 
+_F q j Bk im_ \= ×( )*v* 
 
 
 
-Therefore, the magnitude of the Lorentz force is _qvB_ and direction is along positive x - direction.  
+Therefore, the magnitude of the Lorentz force is _qvB_ and direction is along positive x - direction.
 
 (c) Magnetic field is in zy - plane and making an angle _θ_ with the velocity of the particle, which implies
 
@@ -4540,7 +3825,7 @@ _B B j B k_\= +cos sinθ θ 
 
 _z_
 
-_ν_
+*ν*
 
 F
 
@@ -4568,7 +3853,7 @@ _v v_
 
 **EXAMPLE 3.18**
 
-Compute the work done and power delivered by the Lorentz force on the particle of charge _q_ moving with velocity _v_ . Calculate the angle between Lorentz force and velocity of the charged particle and also interpret the result.
+Compute the work done and power delivered by the Lorentz force on the particle of charge _q_ moving with velocity *v* . Calculate the angle between Lorentz force and velocity of the charged particle and also interpret the result.
 
 **_Solution_** For a charged particle moving on a magnetic field,
 
@@ -4596,41 +3881,32 @@ _W q B dt_\= ×( ) =∫ 
 
 
 
-_v v_. 0
+*v v*. 0
 
 Since  
 
-_v_´_B_ is perpendicular to  
+*v*´*B* is perpendicular to  
 
-_v_´_B_ and hence 
-
-
+*v*´*B* and hence 
 
 
 
 
 
-_v v_×( )⋅ =_B_ 0 This means that Lorentz force does no work on the particle. From work- kinetic energy theorem, (Refer section 4.2.6, XI th standard Volume I)
+
+
+*v v*×( )⋅ =_B_ 0 This means that Lorentz force does no work on the particle. From work- kinetic energy theorem, (Refer section 4.2.6, XI th standard Volume I)
 
 _dW dt_
 
 _P_\= = 0
 
+|    |
+| --- |
+| +q  |
 
-
-
-
-
-|  |
-|------|------|
-| +q |
-
-
-| (c) Magnetic field is in zy - plane and making an angle θ  with the velocity of the particle,which implies  BB =+ cossθθjB in kzB ν+qyFFrom Lorentz force, x ()Fq = v jB ×+(c os θθjB sin) k= qBv sin θ im |
-|------|
-
-
-  
+| (c) Magnetic field is in zy - plane and making an angle θ with the velocity of the particle,which implies BB =+ cossθθjB in kzB ν+qyFFrom Lorentz force, x ()Fq = v jB ×+(c os θθjB sin) k= qBv sin θ im |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Since, 
 
@@ -4656,7 +3932,7 @@ _F_
 
 **+**
 
-![Circular motion of a charged particle in a perpendicular uniform magnetic field](3.45.png "")
+![Circular motion of a charged particle in a perpendicular uniform magnetic field](3.45.png)
 
 Consider a charged particle of charge _q_ having mass _m_ entering into a region of uniform magnetic field
 
@@ -4664,15 +3940,15 @@ Consider a charged particle of charge _q_ having mass _m_ entering into a region
 
 _B_ with velocity  
 
-_v_´_B_ such that velocity is perpendicular to the magnetic field. As soon as the particle enters into the field, Lorentz force acts on it in a direction perpendicular to both magnetic field
+*v*´*B* such that velocity is perpendicular to the magnetic field. As soon as the particle enters into the field, Lorentz force acts on it in a direction perpendicular to both magnetic field
 
 
 
 _B_ and velocity  
 
-_v_´_B_. As a result, the charged particle moves
+*v*´*B*. As a result, the charged particle moves
 
-in a circular orbit as shown in Figure 3.45. The Lorentz force on the charged particle is given by  
+in a circular orbit as shown in Figure 3.45. The Lorentz force on the charged particle is given by
 
 
 
@@ -4686,7 +3962,7 @@ Since Lorentz force alone acts on the particle, the magnitude of the net force o
 
 _F F q Bi i_
 
-_m_∑ = = _v_
+*m*∑ = = _v_
 
 This Lorentz force acts as centripetal force for the particle causing it to execute circular motion. Therefore,
 
@@ -4734,18 +4010,13 @@ In terms of angular frequency ω,
 
 _B_ (3.61)
 
-
-
-
-  
-
 Equations (3.60) and (3.61) are called as **cyclotron frequency or gyro-frequency**.
 
 From equations (3.59), (3.60) and (3.61), we infer that time period and frequency depend only on charge-to-mass ratio (specific charge) but not on velocity or the radius of the circular path.
 
 If a charged particle moves in a region of uniform magnetic field such that its velocity is not perpendicular to the magnetic field, then the velocity of the particle is split up into two components; one component is parallel to the field while the other component perpendicular to the field. The component of velocity parallel to field remains unchanged and the component perpendicular to the field keeps changing due to Lorentz force. Hence the path of the particle is not a circle; it is a helical around the field lines as shown in Figure 3.46.
 
-![Helical path of the electron in a uniform magnetic field](3.46.png "")
+![Helical path of the electron in a uniform magnetic field](3.46.png)
 
 _B_
 
@@ -4753,7 +4024,7 @@ _B_
 
 For an example, the helical path of an electron when it moves in a magnetic field is shown in Figure 3.47. Inside the particle detector called cloud chamber, the path is made visible by the condensation of water droplets.
 
-![Helical path of the electron inside the cloud chamber  ](3.47.png "")
+![Helical path of the electron inside the cloud chamber  ](3.47.png)
 
 **EXAMPLE 3.19**
 
@@ -4789,7 +4060,7 @@ _v_ \= 2.195 10 ms8 1× −
 
 **EXAMPLE 3.20**
 
-A proton moves in a uniform magnetic field of strength 0.500 T magnetic field is directed along the x-axis. At initial time, _t s_\= 0 , the proton has velocity   _v_ \= 1.95 10 + 2.00 10 ms5 5 1× ×( ) −_i k_ . Find
+A proton moves in a uniform magnetic field of strength 0.500 T magnetic field is directed along the x-axis. At initial time, _t s_\= 0 , the proton has velocity   *v* \= 1.95 10 + 2.00 10 ms5 5 1× ×( ) −*i k* . Find
 
 (a) At initial time, what is the acceleration of the proton.
 
@@ -4801,19 +4072,10 @@ Magnetic field 
 
 _B i_\= 0 500. T
 
+| EXAMPLE 3 . 1 9An e lectron m oving p erpendicular t o a uniform m agnetic f ield 0.500 T un dergoes circular motion of radius 2.50 mm. What is the speed of electron?SolutionCharge o f a n e lectron q = –1.60 × 10 C ⇒q =×16.C01 0Magnitude of magnetic field B = 0.500 T–19Mass of the elec−t19ron, m = 9.11 × 10 kg R adius o f t he o rbit, r = 2.50 mm = 2.50 × 10 m–31Speed of the electron, rBv = qm–32.50 ××10 0.500v =1 .601×× 09.11 × 10−3v =2 .195 × 10−19 ms −3181 − |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-
-
-
-| EXAMPLE 3 . 1 9An e lectron m oving p erpendicular t o a uniform m agnetic f ield 0.500 T un dergoes circular motion of radius 2.50 mm. What is the speed of electron?SolutionCharge o f a n e lectron q  = –1.60  × 10  C ⇒q =×16.C01 0Magnitude of magnetic field B = 0.500 T–19Mass of the elec−t19ron, m = 9.11 × 10  kg R adius o f t he o rbit, r  = 2.50 mm = 2.50 × 10  m–31Speed of the electron,  rBv = qm–32.50 ××10 0.500v =1 .601×× 09.11 × 10−3v =2 .195 × 10−19 ms −3181 − |
-|------|
-
-
-
-  
-
-Velocity of the particle _v_ \= × + ×( ) −1 95 10 2 00 105 5 1. ._i k_  ms
+Velocity of the particle *v* \= × + ×( ) −1 95 10 2 00 105 5 1. .*i k*  ms
 
 Charge of the proton _q_\= × −1 60 10 19. C
 
@@ -4869,9 +4131,9 @@ m s
 
 .
 
-_j_
+*j*
 
-_j_
+*j*
 
 (b) Trajectory is helical
 
@@ -4959,9 +4221,9 @@ The proton experiences appreciable acceleration in the magnetic field, hence the
 
 Two singly ionized isotopes of uranium 92
 
-235_U_ and 92 238_U_ (isotopes have same atomic  
+235*U* and 92 238*U* (isotopes have same atomic
 
-number but different mass number) are sent with velocity 1.00 × 105 m s–1 into a magnetic field of strength 0.500 T normally. Compute the distance between the two isotopes after they complete a semi-circle. Also compute the time taken by each isotope to complete one semi-circular path. (Given: masses of the isotopes: _m_235 = 3.90 × 10–25 kg and _m_238 = 3.95 × 10–25 kg)
+number but different mass number) are sent with velocity 1.00 × 105 m s–1 into a magnetic field of strength 0.500 T normally. Compute the distance between the two isotopes after they complete a semi-circle. Also compute the time taken by each isotope to complete one semi-circular path. (Given: masses of the isotopes: \_m_235 = 3.90 × 10–25 kg and \_m_238 = 3.95 × 10–25 kg)
 
 ν
 
@@ -4979,11 +4241,11 @@ _B_
 
 **_Solution_** Since isotopes are singly ionized, they have equal charge which is equal to the charge of an electron, _q_ \= – 1.6 × 10–19 C. Mass of uranium 92
 
-235_U_ and 92 238_U_ are 3.90 × 10–25 kg
+235*U* and 92 238*U* are 3.90 × 10–25 kg
 
 and 3.95 × 10–25 kg respectively. Magnetic field applied, _B_ = 0.500 T. Velocity of the electron is 1.00 × 105 ms–1, then
 
-(a) the radius of the path of 92 235_U_ is _r_235
+(a) the radius of the path of 92 235*U* is \_r_235
 
 _r m_
 
@@ -5013,13 +4275,13 @@ _q B m_
 
 _v_ . . . .
 
-. _r_235 = 48.8 cm
+. \_r_235 = 48.8 cm
 
-The diameter of the semi-circle due to 92 235_U_
+The diameter of the semi-circle due to 92 235*U*
 
-is _d_235 = 2_r_235 = 97.6 cm
+is \_d_235 = 2_r_235 = 97.6 cm
 
-The radius of the path of 92 238_U_ is _r_238 then
+The radius of the path of 92 238*U* is \_r_238 then
 
 _r_
 
@@ -5053,26 +4315,20 @@ _v_ . . . .
 
 .
 
-_r_238 = 49.4 cm
+\_r_238 = 49.4 cm
 
-The diameter of the semi-circle due to 92 238_U_
+The diameter of the semi-circle due to 92 238*U*
 
-is _d_238 = 2_r_238 = 98.8 cm
+is \_d_238 = 2_r_238 = 98.8 cm
 
-
-
-
-
-
-| Velocity of the particle ()v =×19.. 51 02ik+×00 10 msCharge of the proton q =×16.C01 0Mass of the p55roton  −1m =×16.k71 0 g−19(a) The force experienced by the proton is−27()0××() 95N10 ik()+×20.. 01 00 ×() 500i, from Newton’s second law, −19 55−14 16. 01× 0 j16. 71× 00 j mstor y is helical −14−27elical path is 12 −216.. 71××02 00×1016.. 01××00 50010 m1= 4 18 mm−27 5he h elix i s t he di stance t ravelled −19s in a time T, which is P = v  T−3πm 23××..14 16 71× 0=qB 16.. 01××00 500 x0tc()h of the h ()elix is  −27−1919−..8 51× 01 31 ×1002 mm= 55 moton exp 58eriences a − ppreciable n  in t he  magnetic  field, h ence −3f t he h elix i s a lmost six t imes an the radius of the helix. |
-|------|------|
+| Velocity of the particle ()v =×19.. 51 02ik+×00 10 msCharge of the proton q =×16.C01 0Mass of the p55roton −1m =×16.k71 0 g−19(a) The force experienced by the proton is−27()0××() 95N10 ik()+×20.. 01 00 ×() 500i, from Newton’s second law, −19 55−14 16. 01× 0 j16. 71× 00 j mstor y is helical −14−27elical path is 12 −216.. 71××02 00×1016.. 01××00 50010 m1= 4 18 mm−27 5he h elix i s t he di stance t ravelled −19s in a time T, which is P = v T−3πm 23××..14 16 71× 0=qB 16.. 01××00 500 x0tc()h of the h ()elix is −27−1919−..8 51× 01 31 ×1002 mm= 55 moton exp 58eriences a − ppreciable n in t he magnetic field, h ence −3f t he h elix i s a lmost six t imes an the radius of the helix. |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 | ()  Fq=× v BFj=×16. 01=×16.. 01 01 |
 
 | Therefore |
 
 |  11 a == Fm=×95. 81 |
-
 
 | (b) TrajecR adius of h |
 
@@ -5088,20 +4344,18 @@ is _d_238 = 2_r_238 = 98.8 cm
 
 | The p racceleratiothe p itch ogreater th |
 
+| mr ===×48r = 48.8 cm235235   |
+| ---------------------------- |
+| The diamis d = 2The radiu235 |
+| mr ===×49r = 49.4 cm238238   |
 
-| mr ===×48r  = 48.8 cm235235 |
-|------|
-| The diamis d  = 2The radiu235 |
-| mr ===×49r  = 49.4 cm238238 |
-  
-
-Therefore the separation distance between the isotopes is ∆_d d d_\= − =
+Therefore the separation distance between the isotopes is ∆*d d d*\= − =
 
 238 235 1 2. cm
 
 (b) The time taken by each isotope to complete one semi-circular path are
 
-_t_235
+\_t_235
 
 2
 
@@ -5121,7 +4375,7 @@ magnitudeof the displacement velocity
 
 \= × =−9 76 10 9 766. .s s…
 
-_t_238
+\_t_238
 
 2
 
@@ -5147,7 +4401,7 @@ Note that even though the difference between mass of two isotopes are very small
 
 **Figure 3.48 Velocity selector**
 
-into the page_B_
+into the page*B*
 
 _E **νq**_
 
@@ -5159,7 +4413,7 @@ _E **νq**_
 
 ++++++++++++++++++++++
 
-−−−−−−−−−−−−−−−−−−−−−−  
+−−−−−−−−−−−−−−−−−−−−−−
 
 Let us consider an experimental arrangement to illustrate velocity selector as shown in Figure 3.48. In the region of space between the parallel plates of a capacitor which produce uniform electric field
 
@@ -5169,7 +4423,7 @@ _E_ , a uniform magnetic field 
 
 _B_ is maintained perpendicular to the direction of electric field.
 
-Suppose a charged particle with charge _q_ enters the space from left side with a velocity _v_ , the net force on the particle is
+Suppose a charged particle with charge _q_ enters the space from left side with a velocity *v* , the net force on the particle is
 
  
 
@@ -5219,26 +4473,16 @@ _m1_
 
 **Note**
 
-
-
-
-
-
 | Therefore t he s eparation di stance b etween the isotopes is ∆dd=− d = 12.c m(b) The t ime t aken b y e ach i sotope t o complete one semi-circular path are 238 235magnitudeo ft he displacemen |
-|------|------|------|------|------|------|
-| t…… |
-| t ==235t ==238 |
-| velocity97.61× 0−2−6 |
-| ==×97.. 61 09 ss=10. 01× 0magnitudeo ft he displacemen5 |76t |
-| velocity98.81× 0−2−6 |
-| ==×98.. 81 09 ss=10. 01× 05 |88 |
-
-
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| t……                                                                                                                                                                                               |
+| t ==235t ==238                                                                                                                                                                                    |
+| velocity97.61× 0−2−6                                                                                                                                                                              |
+| ==×97.. 61 09 ss=10. 01× 0magnitudeo ft he displacemen5                                                                                                                                           | 76t |
+| velocity98.81× 0−2−6                                                                                                                                                                              |
+| ==×98.. 81 09 ss=10. 01× 05                                                                                                                                                                       | 88  |
 
 |------|------|
-
-
-  
 
 This means, for a given magnitude of 
 
@@ -5294,7 +4538,7 @@ When an electron goes with this velocity, it shows null deflection. Since the ac
 
 2
 
-2_m eV_
+2*m eV*
 
 _eV m_
 
@@ -5304,7 +4548,7 @@ _v_
 
 \=
 
-\=  
+\=
 
 Since the mass of the electron, _m_\= × −9 1 10 31. kg and charge of an electron, _q e_\= = × −
 
@@ -5312,7 +4556,7 @@ Since the mass of the electron, _m_\= × −9 1 10 31. kg and charge of an elect
 
 . .C The velocity acquired by the electron due to accelerating potential of 200 V is
 
-_v_200
+\_v_200
 
 19
 
@@ -5332,7 +4576,7 @@ _v_200
 
 . . ms
 
-Since the speed _v_200 > _v_, the electron is deflected towards direction of Lorentz force. So, in order to have null deflection, the potential, we have to supply is
+Since the speed _v_200 > \_v_, the electron is deflected towards direction of Lorentz force. So, in order to have null deflection, the potential, we have to supply is
 
 _V m e_
 
@@ -5364,28 +4608,20 @@ Cyclotron (Figure 3.49) is a device used to accelerate the charged particles to 
 
 When a charged particle moves perpendicular to the magnetic field, it experiences magnetic Lorentz force.
 
-![Cyclotron invented by Lawrence and Livingston](3.49.png "")
+![Cyclotron invented by Lawrence and Livingston](3.49.png)
 
-
-
-
-
-
-| Since t he m ass o f t he e lectron,  and charge of an electron, m =×91.k 10 g  Th e v elocity acq uired qe== 16.. × 10 Cby the electron due to accelerating potential of 200 V i()s −31−19()21 .(61× 0 200)v = =×83.m9191. ×10Since t he s peed  −v19  >  v, t he e ledef200lected t owards dir −31 ection o f Lforce. S o, in o rder t o h ave n ull defthe potential, we have to supply is 200() ()()v 91.. ×10 ××72 31e 21××.61 0.V652 −31−19 |
-|------|------|------|------|
-| 0 s61 − |
-| ctron i s orentz lection, |
-| 06 2 |
-| 1 mV ==2V = 148 |
-
+| Since t he m ass o f t he e lectron, and charge of an electron, m =×91.k 10 g Th e v elocity acq uired qe== 16.. × 10 Cby the electron due to accelerating potential of 200 V i()s −31−19()21 .(61× 0 200)v = =×83.m9191. ×10Since t he s peed −v19 > v, t he e ledef200lected t owards dir −31 ection o f Lforce. S o, in o rder t o h ave n ull defthe potential, we have to supply is 200() ()()v 91.. ×10 ××72 31e 21××.61 0.V652 −31−19 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0 s61 −                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ctron i s orentz lection,                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 06 2                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 1 mV ==2V = 148                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 | 1mev =22eVv =2 m |
-|------|------|
-| V |
+| ---------------- |
+| V                |
 
-  
-
-![Working of cyclotron](3.50.png "")
+![Working of cyclotron](3.50.png)
 
 D.P
 
@@ -5407,7 +4643,7 @@ is shown in Figure 3.50. The particles are allowed to move in between two semi- 
 
 **Working** Let us assume that the ion ejected from
 
-source S is positively charged. As soon as ion is ejected, it is accelerated towards a Dee (say, Dee – 1) which has negative potential at that time. Since the magnetic field is normal to the plane of the Dees, the ion moves in a circular path. After one semi-circular path inside Dee-1, the ion reaches the gap between Dees. At this time, the polarities  
+source S is positively charged. As soon as ion is ejected, it is accelerated towards a Dee (say, Dee – 1) which has negative potential at that time. Since the magnetic field is normal to the plane of the Dees, the ion moves in a circular path. After one semi-circular path inside Dee-1, the ion reaches the gap between Dees. At this time, the polarities
 
 of the Dees are reversed so that the ion is now accelerated towards Dee-2 with a greater velocity. For this circular motion, the centripetal force on the charged particle _q_ is provided by Lorentz force.
 
@@ -5427,11 +4663,11 @@ _v_
 
 ⇒ =
 
-⇒ ∝_r v_ (3.63)
+⇒ ∝*r v* (3.63)
 
 From the equation (3.63), the increase in velocity increases the radius of circular path. This process continues and hence the particle moves in spiral path of increasing radius. Once it reaches near the edge, it is taken out with the help of deflector plate and allowed to hit the target T.
 
-The important condition in cyclotron operation is that when the frequency _f_ at which the positive ion circulates in the magnetic field must be equal to the constant frequency of the electrical oscillator _f_osc . This is called resonance condition.
+The important condition in cyclotron operation is that when the frequency _f_ at which the positive ion circulates in the magnetic field must be equal to the constant frequency of the electrical oscillator \_f_osc . This is called resonance condition.
 
 From equation (3.60), we have
 
@@ -5457,29 +4693,14 @@ _v_ (3.64)
 
 accelerated
 
-
-
-
-
-
-
 |------|------|
-
-
-
 
 | S |
 
-
-
-
-
-
 | mv=r⇒=r2⇒∝r |
-|------|------|
-| qBvm |
-| qBv |
-  
+| ----------- |
+| qBvm        |
+| qBv         |
 
 Deutrons (bundles of one proton and one neutron) can be accelerated because it has
 
@@ -5527,9 +4748,9 @@ _f qB mp_
 
 ### Force on a current carrying conductor placed in a magnetic field
 
-When a current carrying conductor is placed in a magnetic field, the force experienced by the conductor is equal to the sum of Lorentz forces on the individual charge carriers in the conductor. Consider a small segment of conductor of length _dl_, with cross-sectional area _A_  
+When a current carrying conductor is placed in a magnetic field, the force experienced by the conductor is equal to the sum of Lorentz forces on the individual charge carriers in the conductor. Consider a small segment of conductor of length _dl_, with cross-sectional area _A_
 
-and current _I_ as shown in Figure 3.51. The free electrons drift opposite to the direction of current. So the relation between current _I_ and magnitude of drift velocity _v_d (Refer Unit 2) is
+and current _I_ as shown in Figure 3.51. The free electrons drift opposite to the direction of current. So the relation between current _I_ and magnitude of drift velocity \_v_d (Refer Unit 2) is
 
 _I = neAvd_ (3.65)
 
@@ -5569,13 +4790,13 @@ _dF I dl B_ 
 
 \= ×( ) (3.66)
 
-![Current carrying conductor in a magnetic field](3.51.png "")
+![Current carrying conductor in a magnetic field](3.51.png)
 
-_d q_
+*d q*
 
 _FB_
 
-_B_in
+\_B_in
 
 _L_
 
@@ -5583,23 +4804,13 @@ _A_
 
 **–**
 
-
-
-
-
-
-| ()16.( 01× 01 )−19 |
-|------|------|
-| qBf ==2π=×15..31 |
+| ()16.( 01× 01 )−19                        |
+| ----------------------------------------- |
+| qBf ==2π=×15..31                          |
 | m 23(. 14)(16.) 71× 001Hz = 5 33 MHz−27p6 |
 
-
-
-| EXAMPLE 3 . 2 3Suppose a c yclotron i s o perated t o accelerate p rotons w ith a m agnetic f ield of s trength 1 T. C alculate t he f requency in which  the  electric  field  between  two  Dees could be reversed.SolutionMagnetic field B = 1 TMass of the proton, ()Charge of the proton, m =×16.k71 0 gq =×16.C01 0qB 16.( 01× 01 )f == −272πm 23(. 14)(16.) p 71× 0−19=×15..31 01Hz = 5 33 MHz−19−27p6 |
-|------|
-
-
-  
+| EXAMPLE 3 . 2 3Suppose a c yclotron i s o perated t o accelerate p rotons w ith a m agnetic f ield of s trength 1 T. C alculate t he f requency in which the electric field between two Dees could be reversed.SolutionMagnetic field B = 1 TMass of the proton, ()Charge of the proton, m =×16.k71 0 gq =×16.C01 0qB 16.( 01× 01 )f == −272πm 23(. 14)(16.) p 71× 0−19=×15..31 01Hz = 5 33 MHz−19−27p6 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 Thus the force on a straight current carrying conductor of length _l_ placed in a uniform magnetic field is
 
@@ -5611,7 +4822,7 @@ _F BIl_\= sinθtotal
 
 (a) If the conductor is placed along the direction of the magnetic field, the angle then _θ_ \= 0o. Hence, the force experienced by the conductor is zero.
 
-(b) If the conductor is placed perpendicular to the magnetic field, then the angle _θ_ =90o Hence, the force experienced by the conductor is maximum, which is _F_total _= BIl_.
+(b) If the conductor is placed perpendicular to the magnetic field, then the angle _θ_ =90o Hence, the force experienced by the conductor is maximum, which is _F_total _= BIl\_.
 
 **Fleming’s left hand rule** When a current carrying conductor is
 
@@ -5623,7 +4834,7 @@ Force Magnet
 
 Current
 
-Stretch out forefinger, the middle finger and the thumb of the left hand such that they are in three mutually perpendicular directions. If the forefinger points in the direction of magnetic field,  
+Stretch out forefinger, the middle finger and the thumb of the left hand such that they are in three mutually perpendicular directions. If the forefinger points in the direction of magnetic field,
 
 the middle finger in the direction of the electric current, then thumb will point in the direction of the force experienced by the conductor.
 
@@ -5647,7 +4858,7 @@ _B_ 
 
 The linear density of the rod i.e., mass per unit length of the rod is 0.25 kg m–1
 
-⇒ = −_m l_
+⇒ = −*m l*
 
 0 25 1
 
@@ -5663,35 +4874,26 @@ B
 
 45°
 
-BI_l_ cos45°
+BI*l* cos45°
 
-BI_l_
+BI*l*
 
 _I_
 
 _B_ 
 
-
-
-
-
-
-| B |
-|------|------|
+| B  |
+| --- |
 
 | I |
 
-
-
-
-| le |
-|------|
-| dy |
-  
+| le  |
+| --- |
+| dy  |
 
 For equilibrium of the rod,
 
-_mg IBl_sin cos45 45  =
+\_mg IBl_sin cos45 45  =
 
 ⇒ =
 
@@ -5729,13 +4931,13 @@ So, we need to supply current of 9.8 A to keep the metallic rod stationary.
 
 ### Force between two long parallel current carrying conductors
 
-Let two long straight parallel current carrying conductors separated by a distance _r_ be kept in air medium as shown in Figure 3.53. Let _I_1 and _I_2 be the electric currents passing through the conductors A and B in same direction (i.e. along z - direction) respectively. The net magnetic field at a distance _r_ due to current _I_1 in conductor A is 
+Let two long straight parallel current carrying conductors separated by a distance _r_ be kept in air medium as shown in Figure 3.53. Let _I_1 and \_I_2 be the electric currents passing through the conductors A and B in same direction (i.e. along z - direction) respectively. The net magnetic field at a distance \_r_ due to current \_I_1 in conductor A is 
 
- _B I r_
+ *B I r*
 
 _i I r_
 
-_i_1 1 1
+\_i_1 1 1
 
 2 2 = − =−
 
@@ -5745,7 +4947,7 @@ _i_1 1 1
 
 ( ) 
 
-![Two long straight parallel wires](3.53.png "")
+![Two long straight parallel wires](3.53.png)
 
 B1
 
@@ -5771,13 +4973,13 @@ _x_
 
 _yO_
 
-From thumb rule, the direction of magnetic field is perpendicular to the plane of the paper and inwards (arrow into the page ⊗) i.e. along negative _i_ direction.  
+From thumb rule, the direction of magnetic field is perpendicular to the plane of the paper and inwards (arrow into the page ⊗) i.e. along negative *i* direction.
 
 Let us consider a small elemental length _dl_ in conductor B at which the magnetic field
 
 
 
-_B_1 is present. From equation 3.66, Lorentz force on the element _dl_ of conductor B is
+_B_1 is present. From equation 3.66, Lorentz force on the element \_dl_ of conductor B is
 
 _dF I dl B I dl I r_
 
@@ -5813,7 +5015,7 @@ _j_
 
 Therefore the force on _dl_ of the wire B is directed towards the conductor A. So the element of length _dl_ in B is attracted towards the conductor A. Hence the force per unit length of the conductor B due to current in the conductor A is 
 
-_F l_
+*F l*
 
 _I I r_
 
@@ -5825,15 +5027,15 @@ _j_\=− µ
 
 Similarly, the net magnetic induction due to current _I2_ (in conductor B) at a distance _r_ in the elemental length _dl_ of conductor A is
 
- _B I r_
+ *B I r*
 
-_i_2 2
+\_i_2 2
 
 2 =
 
 µ π 
 
-From the thumb rule, direction of magnetic field is perpendicular to the plane of the paper and outwards (arrow out of the page ) i.e., along positive _i_ direction. Hence, the magnetic force acting on element _dl_ of the conductor A is
+From the thumb rule, direction of magnetic field is perpendicular to the plane of the paper and outwards (arrow out of the page ) i.e., along positive *i* direction. Hence, the magnetic force acting on element _dl_ of the conductor A is
 
 _dF I dl B I dl I r_
 
@@ -5869,34 +5071,21 @@ _j_
 
 Therefore the force on _dl_ of conductor A is directed towards the conductor B. So the length _dl_ is attracted towards the conductor B as shown in Figure (3.54).
 
-
-
-
-
-
 | For equilibrium of the rod, mg sinc45 = IBl os 451 m⇒=I g tan 45B l02.k5 gm=× 19× .8 ms02. 5T ⇒=I 98.A −1 −2So, w e n eed t o s upply c urrent o f 9.8 A t o keep the metallic rod stationar y. |
-|------|
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+| r   |
+| --- |
 
-
-
-| r |
-|------|
-
-
-
-| r |
-|------|
-
+| r   |
+| --- |
 
 | F2 |
 
-
-| ()dF =×µ= |  µ I 2 |
-|------|------|
+| ()dF =×µ=                |   µ I 2 |
+| -------------------------- | ---------- |
 | Id lB =×Id l2πrII dl12 112 |
-| j2πr |
-  
+| j2πr                      |
 
 _A B_
 
@@ -5916,11 +5105,11 @@ _x_
 
 _yO_
 
-![Current in both the conductors are in the same direction - attracts each other](3.54.png "")
+![Current in both the conductors are in the same direction - attracts each other](3.54.png)
 
 The force acting per unit length of the conductor A due to the current in conductor B is 
 
-_F l_
+*F l*
 
 _I I r_
 
@@ -5932,7 +5121,7 @@ _j_\= µ
 
 Thus the force between two parallel current carrying conductors is attractive if they carry current in the same direction. (Figure 3.55)
 
-![Two parallel conductors carrying current in same direction experience an attractive force](3.55.png "")
+![Two parallel conductors carrying current in same direction experience an attractive force](3.55.png)
 
 Current
 
@@ -5942,9 +5131,9 @@ _F_
 
 **Current in the _same_** **direction**
 
-The force between two parallel current carrying conductors is repulsive if they carry current in opposite directions (Figure 3.56).  
+The force between two parallel current carrying conductors is repulsive if they carry current in opposite directions (Figure 3.56).
 
-![Two parallel conductors carrying current in opposite direction experience a repulsive force](3.56.png "")
+![Two parallel conductors carrying current in opposite direction experience a repulsive force](3.56.png)
 
 Current
 
@@ -5971,11 +5160,6 @@ Consider a rectangular loop PQRS carrying current _I_ is placed in a uniform mag
 
 
 _B_ . Let _a_ and _b_ be the length and breadth of rectangular loop respectively. The unit vector _n ˆ_ normal to the plane of the
-
-
-
-
-  
 
 loop makes an angle _θ_ with the magnetic field as shown in Figure 3.57.
 
@@ -6011,7 +5195,7 @@ _a_
 
 **S** _b_
 
-![Rectangular coil placed in a magnetic field](3.57.png "")
+![Rectangular coil placed in a magnetic field](3.57.png)
 
 The magnitude of the magnetic force acting on the current-carrying arm PQ is _F IaB IaBPQ_ \= ( )=sin _p_
 
@@ -6033,11 +5217,11 @@ arm SP is _F IbB IbBSP_ \= +( )=sin cos_π θθ_2
 
 and its direction is also as shown in the Figure 3.57.
 
-Since the forces _FQR_ and _FSP_ are equal, opposite and collinear, they cancel each other. But the forces _FPQ_ and _FRS_ , which are equal in magnitude and opposite in direction, are not acting along same straight line. Therefore, _FPQ_ and _FRS_ constitute a couple which exerts a torque on the loop.  
+Since the forces _FQR_ and _FSP_ are equal, opposite and collinear, they cancel each other. But the forces _FPQ_ and _FRS_ , which are equal in magnitude and opposite in direction, are not acting along same straight line. Therefore, _FPQ_ and _FRS_ constitute a couple which exerts a torque on the loop.
 
 _FRS_
 
-sin_θ_ **×**
+sin*θ* **×**
 
 τ
 
@@ -6051,11 +5235,11 @@ _θ b n̂_ 2 _B_
 
 _b_ 2
 
-![Side view of current loop](3.58.png "")
+![Side view of current loop](3.58.png)
 
 The magnitude of torque acting on the
 
-arm PQ about AB is τ_PQ b IaB_\= 
+arm PQ about AB is τ*PQ b IaB*\= 
 
  
 
@@ -6063,13 +5247,13 @@ arm PQ about AB is τ_PQ b IaB_\= 
 
  2
 
-sin_q_ and it
+sin*q* and it
 
 points in the direction of AB. The magnitude
 
 of the torque acting on the arm RS about
 
-AB is τ_RS b IaB_\= 
+AB is τ*RS b IaB*\= 
 
  
 
@@ -6077,7 +5261,7 @@ AB is τ_RS b IaB_\= 
 
  2
 
-sin_q_
+sin*q*
 
 and points also in the same
 
@@ -6107,7 +5291,7 @@ _b F b F_
 
 _Ia b B_
 
-_PQ RS_2 2 sin sin
+\_PQ RS_2 2 sin sin
 
 ( sin )
 
@@ -6115,13 +5299,13 @@ _q q_
 
 _q_
 
-τ= _IAB_ sin_q_ along the direction AB
+τ= _IAB_ sin*q* along the direction AB
 
 In vector form, 
 
  
 
-τ=( )×_IA B_
+τ=( )×*IA B*
 
 The above equation can also be written in terms of magnetic dipole moment
 
@@ -6129,7 +5313,7 @@ The above equation can also be written in terms of magnetic dipole moment
 
 
 
-τ= ×_p Bm_ where 
+τ= ×*p Bm* where 
 
 
 
@@ -6141,17 +5325,11 @@ If there are N turns in the rectangular loop, then the torque is given by
 
 τ= _NIAB_sin_q_
 
-
-
-
-
-
-| b nPQ |
-|------|------|------|
-| 2×θ b sinθ τ |θ |
+| b nPQ        |
+| ------------ | --- |
+| 2×θ b sinθ τ | θ   |
 
 | 2 |
-  
 
 **Special cases:** (a) When _θ_ \= 90°or the plane of the loop
 
@@ -6171,7 +5349,7 @@ Moving coil galvanometer is a device which is used to detect the flow of current
 
 of a rectangular coil PQRS of insulated thin copper wire. The coil contains a large number of turns wound over a light metallic frame. A cylindrical soft-iron core is placed symmetrically inside the coil as shown in Figure 3.59. The rectangular coil is suspended freely between two pole pieces of a horse-shoe magnet.
 
-The upper end of the rectangular coil is attached to one end of fine strip of phosphor bronze and the lower end of the coil is connected to a hair spring which is also made up of phosphor bronze. In a fine suspension strip, a small plane mirror is attached in order to measure the deflection of the coil with the help of lamp and scale arrangement. The other end of the mirror is connected to a torsion head. In order to pass electric current through the galvanometer, the suspension strip and the spring S are connected to terminals.  
+The upper end of the rectangular coil is attached to one end of fine strip of phosphor bronze and the lower end of the coil is connected to a hair spring which is also made up of phosphor bronze. In a fine suspension strip, a small plane mirror is attached in order to measure the deflection of the coil with the help of lamp and scale arrangement. The other end of the mirror is connected to a torsion head. In order to pass electric current through the galvanometer, the suspension strip and the spring S are connected to terminals.
 
 **Working** Consider a single turn of the rectangular
 
@@ -6179,7 +5357,7 @@ coil PQRS whose length is _l_ and breadth _b_. PQ = RS = _l_ and QR = SP = _b_. 
 
 For single turn, the deflecting torque is τ = _bF_ = _bBIl_\= (_lb_) _BI_ = _ABI_ since area of the coil, _A_ = _lb_ For coil with _N_ turns, we get
 
-![Moving coil galvanometer – its parts](3.59.png "")
+![Moving coil galvanometer – its parts](3.59.png)
 
 Coil
 
@@ -6198,11 +5376,6 @@ Fixed core Moving coil
 Lamp
 
 Lens and graticule
-
-
-
-
-  
 
 τ = _NABI_ (3.69)
 
@@ -6230,7 +5403,7 @@ constant or current reduction factor of the galvanometer.
 
 Since the suspended moving coil galvanometer is very sensitive, we have to handle with high care while doing experiments. Most of the galvanometer we use are pointer type moving coil galvanometer.
 
-![Force acting on current carrying coil](3.60.png "")
+![Force acting on current carrying coil](3.60.png)
 
 Force upwards
 
@@ -6250,7 +5423,7 @@ _l_
 
 P
 
-Magnetic eld  
+Magnetic eld
 
 **Figure of merit of a galvanometer It is defined as the current required to**
 
@@ -6314,18 +5487,10 @@ _g_
 
 where _Rg_ is the resistance of galvanometer.
 
-
-
-
-
-
-| l |the coMagneticeld |
-|------|------|------|
-
-
+| l   | the coMagneticeld |
+| --- | ------------------ |
 
 | l |
-  
 
 **EXAMPLE 3.25**
 
@@ -6407,7 +5572,7 @@ div A div V
 
 V A
 
-k. . Ω  
+k. . Ω
 
 **EXAMPLE 3.26**
 
@@ -6435,7 +5600,7 @@ Increase in current sensitivity is
 
 
 
-  =_I I IS S S_1 50
+  =\_I I IS S S_1 50
 
 100 3 2
 
@@ -6471,57 +5636,32 @@ A galvanometer is very sensitive instrument to detect the current. It can be eas
 
 Ammeter is an instrument used to measure current flowing in the electrical circuit. The ammeter must offer low resistance such that it will not change the current passing through it. So ammeter is connected in series to measure the circuit current.
 
-
-
-
-
-
 | 3V ′ ==22S |
-|------|
-
-
-
+| ---------- |
 
 | EXAMPLE 3 . 2 6The resistance of a moving coil galvanometer is m ade t wice i ts o riginal va lue in o rder t o increase c urrent s ensitivity b y 50%. Fin d the percentage change in voltage sensitivity.SolutionVoltage sensitivity is IV =When t he r esistance i s doRubled, t hen n ew resistance is SSIncrease in c urrent s g ensitivity i s RR′ = 2II′ =+1 10050 gg = 23 IThe new voltage sensitivity isSS S3IV ′ ==2 3 V2R 4Hence the voltage sensitivity decreases. The Spercentage decrease in voltage sensitivity is S SgVV− ′×=100%% 25VSSS |
-|------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-
-
-
-
-
-
-
-
-| B 52×× 10 ××41 0−−22 |
-|------|------|
-| NAI ==K = 10S11µAm== |
+| B 52×× 10 ××41 0−−22                                  |
+| ----------------------------------------------------- |
+| NAI ==K = 10S11µAm==                                  |
 | 41× 0 divisions per ampere −9icro ampere 10 ampere6−6 |
 
-
-
-| A |
-|------|
+| A    |
+| ---- |
 | div3 |
 
-
-| 3 . 2 5f a moving coil galvanometer has d e ach turn h as an ef fective area m . It is suspended in a magnetic e s trength i s 4 × 10  Wb m . I f nal co nstant  K o f t he s uspension 2  N m deg . ts  current  sensitivity  –2 in di vi –2sion o - ampere. –9 –1late t he v oltage s ensitivity o f t he ometer  for  it  to  have  full  scale tion of 50 divisions for 25 mV. ute t he r esistance o f t he ometer. ns m WbmN m deg–2 2rent sensitivity –2 –2–9  –1B 52×× 10 ××41 041× 0 divisions per ampere −−22−96re icro,  ampere 10 ampere−6div div div1 = 1A 10 A µA()tadi6gvAe sµensitivity −6−1θ 50 div=×21 0 divVesis25tan mVce of the galvanom31 −div10A =×05.. 10 V =div A21× 60 VS 3S 3 |
-|------|------|------|------|
-| EXAMPLEThe coil o5 turns anof 2 × 10field w hosthe t orsiofibre is 4 × 10–2(a) Find  iper micr(b) Calcugalvandeflec(c) CompgalvanSolutionN = 5 turA = 2 × 10B =  4 × 10K = 4 × 10(a) CurNAI ==K = 10S11ThµAmer==efoI ==10(b) VI =ol 1SSV ==(c) The rVS |
-
-
-
-
+| 3 . 2 5f a moving coil galvanometer has d e ach turn h as an ef fective area m . It is suspended in a magnetic e s trength i s 4 × 10 Wb m . I f nal co nstant K o f t he s uspension 2 N m deg . ts current sensitivity –2 in di vi –2sion o - ampere. –9 –1late t he v oltage s ensitivity o f t he ometer for it to have full scale tion of 50 divisions for 25 mV. ute t he r esistance o f t he ometer. ns m WbmN m deg–2 2rent sensitivity –2 –2–9 –1B 52×× 10 ××41 041× 0 divisions per ampere −−22−96re icro, ampere 10 ampere−6div div div1 = 1A 10 A µA()tadi6gvAe sµensitivity −6−1θ 50 div=×21 0 divVesis25tan mVce of the galvanom31 −div10A =×05.. 10 V =div A21× 60 VS 3S 3 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| EXAMPLEThe coil o5 turns anof 2 × 10field w hosthe t orsiofibre is 4 × 10–2(a) Find iper micr(b) Calcugalvandeflec(c) CompgalvanSolutionN = 5 turA = 2 × 10B = 4 × 10K = 4 × 10(a) CurNAI ==K = 10S11ThµAmer==efoI ==10(b) VI =ol 1SSV ==(c) The rVS                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 | eter is |
 | 05 kΩ |
 | IR ==Vg |
 
-  
-
 A galvanometer is converted into an ammeter by connecting a low resistance in parallel with the galvanometer. This low resistance is called shunt resistance _S_. The scale is now calibrated in ampere and the range of ammeter depends on the values of the shunt resistance.
 
-![Shunt resistance connected in parallel](3.61.png "")
+![Shunt resistance connected in parallel](3.61.png)
 
 I I
 
@@ -6555,7 +5695,7 @@ _I S S R_
 
 _Ig g_
 
-\= +  
+\= +
 
 Since, the deflection in the galvanometer is proportional to the current passing through it,
 
@@ -6589,7 +5729,7 @@ is also
 
 small. This means, _Ra_ is also small, i.e., the resistance offered by the ammeter is small. So, when we connect ammeter in series, the ammeter will not change appreciably the current in the circuit. For an ideal ammeter, the resistance must be equal to zero. But in reality, the reading in ammeter is always less than the actual current in the circuit. Let _Iideal_ be the current measured by ideal ammeter and _Iactual_ be the actual current in the circuit. Then, the percentage error in measuring a current through an ammeter is
 
-∆_I I_
+∆*I I*
 
 _I I I_
 
@@ -6607,16 +5747,8 @@ _ideal_
 
 2\. An ideal ammeter has zero resistance
 
-
-
-
-
-
 | VV⇒=IR()galvanometerS =ggIII =SRg |
-|------|
-
-
-  
+| --------------------------------- |
 
 3\. In order to increase the range of an ammeter n times, the value of shunt resistance to be connected in parallel is
 
@@ -6630,7 +5762,7 @@ A voltmeter is an instrument used to measure potential difference across any two
 
 Voltmeter must have high resistance and when it is connected in parallel, it will not draw appreciable current so that it will indicate the true potential difference.
 
-![High resistance connected in series](3.62.png "")
+![High resistance connected in series](3.62.png)
 
 A BIg
 
@@ -6642,7 +5774,7 @@ G
 
 A galvanometer is converted into a voltmeter by connecting high resistance _Rh_ in series with galvanometer as shown in Figure 3.62. The scale is now calibrated in volt and the range of voltmeter depends on the values of the resistance _Rh_ connected in series i.e. the value of resistance is so adjusted so that current _Ig_ produces full scale deflection in the galvanometer.
 
-Let _Rg_ be the resistance of galvanometer and _Ig_ be the current with which the galvanometer produces full scale deflection. Since the galvanometer is connected in series with high resistance, the current in the electrical circuit is same as the current passing through the galvanometer.  
+Let _Rg_ be the resistance of galvanometer and _Ig_ be the current with which the galvanometer produces full scale deflection. Since the galvanometer is connected in series with high resistance, the current in the electrical circuit is same as the current passing through the galvanometer.
 
 _I = Ig_
 
@@ -6686,16 +5818,10 @@ and it is always connected in parallel with the circuit element across which the
 
 _Rh = (n-1) Rg_
 
-
-
-
-
-
-| I =RR⇒=Rgh |V |
-|------|------|
-| +Vgh |
-| −Ig |
-  
+| I =RR⇒=Rgh | V   |
+| ---------- | --- |
+| +Vgh       |
+| −Ig        |
 
 „ A vertical plane passing through geograp „ A vertical plane passing through magneti „ The angle between magnetic meridian a
 
@@ -6735,7 +5861,7 @@ our right hand such that the thumb poin rest of the fingers encircling the wire 
 
 „ Maxwell right hand cork screw rule “If the direction of current is same as the d direction of rotation of the screw will det
 
-**S U M M A R Y**  
+**S U M M A R Y**
 
 hic axis is called geographic meridian. c axis is called magnetic meridian. t a point with the geographic meridian is ation. al magnetic field
 
@@ -6771,16 +5897,11 @@ ind the cyclic variation in magnetising field “lagging behind”. we hold the 
 
 we rotate a screw by a screw driver, then irection in which screw advances, and the ermine the direction of the magnetic field”.
 
-
-
-
-  
-
 „ Ampère’s circuital law is  
 
  _B dl I C_
 
-_enclos_⋅ =∫ µ
+*enclos*⋅ =∫ µ
 
 „ Magnetic field inside the solenoid is B = unit length.
 
@@ -6836,11 +5957,11 @@ suitable low resistance _S_ called shunt in p „ An ideal ammeter has zero resi
 
 in an electrical circuit. „ A galvanometer can be converted into suit
 
-a suitable high resistance _Rh_ in series with „ An ideal voltmeter has infinite resistance  
+a suitable high resistance _Rh_ in series with „ An ideal voltmeter has infinite resistance
 
 _ed_ .
 
-_nI_µ 
+*nI*µ 
 
 , where _n_ is the number of turns per
 
@@ -6875,11 +5996,6 @@ ure potential difference across any element
 able voltmeter of given range by connecting the given galvanometer.
 
 .
-
-
-
-
-  
 
 **M ag**
 
@@ -7019,7 +6135,7 @@ able voltmeter of given range by connecting the given galvanometer.
 
 **T M**
 
-**A P**  
+**A P**
 
 **Ta ng**
 
@@ -7109,11 +6225,6 @@ able voltmeter of given range by connecting the given galvanometer.
 
 **id**
 
-
-
-
-  
-
 **I Multiple choice questions**
 
 1\. The magnetic field at the centre O of the following current loop is
@@ -7130,13 +6241,13 @@ I
 
 _I r_4 Ä (b) µ _I_
 
-_r_4
+\_r_4
 
 (c) µ 
 
 _I r_2 Ä (d) µ _I_
 
-_r_2
+\_r_2
 
 **2\.** An electron moves in a straight line inside a charged parallel plate capacitor of uniform charge density σ. The time taken by the electron to cross the parallel plate capacitor undeflected when the plates of the capacitor are kept under constant magnetic field of induction
 
@@ -7166,11 +6277,11 @@ _lB e_
 
 
 
-_B_ .  
+_B_ .
 
 **EVALUATION**
 
-(a) 2 3_q BV m_
+(a) 2 3*q BV m*
 
 (b) _q B V m_
 
@@ -7178,7 +6289,7 @@ _B_ .
 
 2
 
-(c) 2 3 2_q B V m_
+(c) 2 3 2*q B V m*
 
 (d) 2 3
 
@@ -7196,16 +6307,8 @@ spiral of _N_ = 100 tight turns carrying a current I = 8 m A (milli ampere). The
 
 **7\.** Two identical coils, each with _N_ turns and radius _R_ are placed coaxially at a distance R as shown in the figure. If _I_ is the current passing through the loops in the same direction, then the
 
-
-
-
-
-
-
 |------|------|------|
 | e |v |
-
-  
 
 magnetic field at a point P at a distance
 
@@ -7255,19 +6358,19 @@ Lorentz force acting on the wire is
 
 (a) 2 3
 
-β_Il_ (b) 1 3
+β*Il* (b) 1 3
 
-β_Il_
+β*Il*
 
-(c) 2 β_Il_ (d) 1 2
+(c) 2 β*Il* (d) 1 2
 
-β_Il_
+β*Il*
 
 **9\.** A bar magnet of length _l_ and magnetic moment _pm_ is bent in the form of an arc as shown in figure. The new magnetic dipole moment will be
 
 (NEET 2013)
 
-r r60°  
+r r60°
 
 (a) _pm_ (b) 3 π
 
@@ -7283,11 +6386,11 @@ _pm_ (d) 1
 
 (a) _q m_
 
-(b) 2_q m_
+(b) 2*q m*
 
-(c) _q m_2
+(c) \_q m_2
 
-(d) _q m_4
+(d) \_q m_4
 
 11\. The BH curve for a ferromagnetic material is shown in the figure. The material is placed inside a long solenoid which contains 1000 turns/cm. The current that should be passed in the solenonid to demagnetize the ferromagnet completely is
 
@@ -7313,15 +6416,8 @@ H in ampere per metre
 
 (a) 1.00 m A (b) 1.25 mA (c) 1.50 mA (d) 1.75 mA
 
-
-
-
-
-
-| R |
-|------|
-
-  
+| R   |
+| --- |
 
 **12\.** Two short bar magnets have magnetic moments 1.20 Am2 and 1.00 Am2 respectively. They are kept on a horizontal table parallel to each other with their north poles pointing towards south. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centres is (Horizontal components of Earth’s magnetic induction is 3.6 × 10–5 Wb m–2 )
 
@@ -7339,19 +6435,19 @@ magnetic field at a place is equal to the horizontal component. What is the valu
 
 (a) 1 4
 
-σωπ_BR_ (b) 1 2
+σωπ*BR* (b) 1 2
 
-2σωπ_BR_
+2σωπ*BR*
 
 (c) 1 4
 
-3σωπ_BR_ (d)1 4
+3σωπ*BR* (d)1 4
 
-4σωπ_BR_  
+4σωπ*BR*
 
-15\. The potential energy of magnetic dipole whose dipole moment is   _p i jm_ \= − +( . . )0 5 0 4 2Am kept in
+15\. The potential energy of magnetic dipole whose dipole moment is   *p i jm* \= − +( . . )0 5 0 4 2Am kept in
 
-uniform magnetic field  _B i_\= 0 2. T
+uniform magnetic field  *B i*\= 0 2. T
 
 (a) –0.1 J (b) –0.8 J (c) 0.1 J (d) 0.8 J
 
@@ -7372,11 +6468,6 @@ parallel in a circuit? Why? **16\.** Explain the concept of velocity selector. *
 not a circle when its velocity is not perpendicular to the magnetic field?
 
 **18\.** Give the properties of dia / para / ferromagnetic materials.
-
-
-
-
-  
 
 **19\.** What happens to the domains in a ferromagnetic material in the presence of external magnetic field?
 
@@ -7410,7 +6501,7 @@ and outside of the long solenoid using Ampere’s circuital law.
 
 **13\.** Derive the expression for the force between two parallel, current-carrying conductors.
 
-**14\.** Give an account of magnetic Lorentz force.  
+**14\.** Give an account of magnetic Lorentz force.
 
 **15\. Compare the properties of soft and** hard ferromagnetic materials.
 
@@ -7420,7 +6511,7 @@ and outside of the long solenoid using Ampere’s circuital law.
 
 **1\.** A bar magnet having a magnetic moment
 
-_pm_ is cut into four pieces i.e., first cut into two pieces along the axis of the magnet and each piece is further cut along the axis into two pieces. Compute the magnetic moment of each piece.
+*pm* is cut into four pieces i.e., first cut into two pieces along the axis of the magnet and each piece is further cut along the axis into two pieces. Compute the magnetic moment of each piece.
 
 Answer  
 
@@ -7428,18 +6519,13 @@ _p pmnew m_ = 1 4
 
 **2\.** A conductor of linear mass density 0.2 g m–1 suspended by two flexible wire as shown in figure. Suppose the tension in the supporting wires is zero when it is kept inside the magnetic field of 1 T whose direction is into the page. Compute the current inside the conductor and also the direction of the current. Assume _g_ = 10 m s–2
 
-_B_in
+\_B_in
 
 Answer 2 mA **3\.** A circular coil with cross-sectional area
 
 0.1 cm2 is kept in a uniform magnetic field of strength 0.2 T. If the current passing in the coil is 3 A and plane of the loop is perpendicular to the direction of magnetic field. Calculate
 
 (a) total torque on the coil
-
-
-
-
-  
 
 **BOOKS FOR REFERENCE**
 
@@ -7467,9 +6553,9 @@ magnetic field whose strength is 0.8 T. If the bar magnet is oriented at an angl
 
 in moving it from most stable configuration to the most unstable configuration and also compute the work done by the applied magnetic field in this case.
 
-Answer (i) 0.5 A m2 (ii) _W_ = 0.8 J and _W_mag \= -0.8 J
+Answer (i) 0.5 A m2 (ii) _W_ = 0.8 J and \_W_mag \= -0.8 J
 
-**5\.** A non - conducting sphere has a mass of 100 g and radius 20 cm. A flat compact coil of wire with turns 5 is  
+**5\.** A non - conducting sphere has a mass of 100 g and radius 20 cm. A flat compact coil of wire with turns 5 is
 
 _2_, Bharati Bhawan Publisher.
 
@@ -7489,11 +6575,6 @@ wrapped tightly around it with each turns concentric with the sphere. This spher
 
 6\. Calculate the magnetic field at the centre of a square loop which carries a current of 1.5 A, length of each side being 50 cm. Answer 3.4 x 10–6 T
 
-
-
-
-  
-
 **Magn**
 
 In this activity you will be able to visualize and understand the working of cyclotron.
@@ -7512,7 +6593,7 @@ sections. • Note the kinetic energy of the particle after som
 
 **Step3**
 
-Double the electric and magnetic fields by clicking co energy for a particular given time t.  
+Double the electric and magnetic fields by clicking co energy for a particular given time t.
 
 **etism**
 
@@ -7529,7 +6610,3 @@ e time (say t = 20 s)
 **Topic: Cyclotron**
 
 rresponding buttons and observe the change in kinetic
-
-
-
-
