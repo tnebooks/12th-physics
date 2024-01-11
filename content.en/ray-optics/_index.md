@@ -4,30 +4,37 @@ weight: 6
 extensions:
     - katex
 ---
+**U N I T**
+**6** 
+**RAY OPTICS**
 
-  
-**In this unit, the students are exposed to,** • The ray aspect of light. • The phenomenon of reflection and refraction o • The determination of speed of light. • The concepts related to mirrors, lenses, prisms • The different phenomena like dispersion and s
 
-_There are two ways of spreading ligh_g
+There are two ways of spreading light: to be the candle or the mirror that reflects it.
+— Edith Wharton
 
 **Learning Objectives**
 
-## INTRODUCTION**
+![scanner](scan.png)
+
+**In this unit, the students are exposed to,** 
+
+• The ray aspect of light. 
+
+• The phenomenon of reflection and refraction of light.
+
+• The determination of speed of light. 
+
+• The concepts related to mirrors, lenses, prisms etc. 
+
+• The different phenomena like dispersion and scattering of light.
+
+**INTRODUCTION**
 
 Light is mystical. Yet, its behaviour is so fascinating. It is difficult to comprehend light as a single entity. The _ray optics_ deals with light that is represented as a ray travelling in straight lines. Here, the geometrical constructs get the permanence to understand some of the characteristics of light and the phenomena associated with it. There are several other phenomena which can only be explained using _wave optics_, which we study in the next Unit. There is also a quantum aspect of light which we can study as _quantum optics_ in graduate level courses.
 
 ### Ray optics
 
-Light travels in a straight line in a medium. Light may deviate in its path only when it encounters the boundary of another
-
-
-f light.
-
-etc. cattering of light.
-
-_t: to be the candle or the mirror that reflects it._ — Edith Wharton
-
-medium (or) an obstacle. A ray of light gives information only about the direction of light. It does not give information about the other characteristics like intensity and colour of light. However, a ray is a sensible representation of light in ray optics. The path of the light is called a ray of light and a bundle of such rays is called a beam of light. In this chapter, we can explain the phenomena of reflection, refraction, dispersion and scattering of light, using the ray depiction of light.
+Light travels in a straight line in a medium. Light may deviate in its path only when it encounters the boundary of another medium (or) an obstacle. A ray of light gives information only about the direction of light. It does not give information about the other characteristics like intensity and colour of light. However, a ray is a sensible representation of light in ray optics. The path of the light is called a ray of light and a bundle of such rays is called a beam of light. In this chapter, we can explain the phenomena of reflection, refraction, dispersion and scattering of light, using the ray depiction of light.
 
 ### Reflection
 
@@ -44,19 +51,12 @@ _i = r_ (6.1)
 
 The law of reflection is shown in Figure 6.1.
 
+![Reflection of light](6.1.png)
+
 **Figure 6.1 Reflection of light**
-
-**A N B**
-
-**i r**
-
-**X Y SilveredO**
 
 The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays as shown in Figure 6.2(a). If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection as shown in Figure 6.2(b).
 
-**(a)**  
-
-**(b)**
 
 ![(a) Regular and (b) irregular reflections](6.2.png "")
 
@@ -68,38 +68,11 @@ _d =_ 180 _– 2i_ (6.2)
 
 The angle of deviation can also be measured in terms of the glancing angle _α_ which is measured between the incident ray AO and the reflecting plane surface XY as shown in Figure 6.3(b). By geometry, the angles ∠_AOX_ = _α_, ∠_BOY_ = _α_ and ∠_YOC_ = _α_ (all are same). The angle of deviation _d_ is the angle ∠_BOC_. Therefore,
 
-_d_ = 2_α_ (6.3)
+_d_ = 2α (6.3)
   
 
 ![Angle of deviation due to reflection](6.3.png "")
 
-**i r**
-
-**O**
-
-**C**
-
-**A N B**
-
-**X Y**
-
-**(a)**
-
-**d=180-2i**
-
-**O**
-
-**C**
-
-**A N B**
-
-**X Y**
-
-**(b)**
-
-**d=2**  
-
-
 
 **EXAMPLE 6.1** Prove that for the same incident light when a reflecting surface is tilted by an angle _θ_, the reflected light will be tilted by an angle 2_θ_.
 
@@ -151,13 +124,7 @@ The image formed by the plane mirror for extended object is shown in Figure 6.4(
 
 **Table 6.1 Image by inclined mirrors**
 
-| \\( \frac{360}{\theta} \\) | The position of object placed | Number of images n                                              |
-|---------------------------------------------------------|-------------------------------|-----------------------------------------------------------------|
-| Even                                                    | Symmetrical                   | n = \\( \frac{360}{\theta} - 1 \\) |
-|                                                         | Unsymmetrical                 | n = \\( \frac{360}{\theta} - 1 \\) |
-| Odd                                                     | Symmetrical                   | n = \\( \frac{360}{\theta} - 1 \\) |
-|                                                         | Unsymmetrical                 | n = \\( \frac{360}{\theta}\\)      |
-
+![](Table-6.1.png "")
 
 
 ![Images formed by inclined mirrors](6.5.png "")
@@ -168,57 +135,19 @@ What is the height of the mirror needed for a person to see his/her image fully 
 
 **_Solution_** Let us assume a person of height _h_ is standing in front of a vertical plane mirror. The person could see his/her head when light from the head falls on the mirror and gets reflected to the eyes. Same way, light from the feet falls on the mirror and gets reflected to the eyes.
 
-  
+![](distance.png "")
 
-**O bj**
-
-**ec t Im**
-
-**age**
-
-**Mirror**
-
-**H H'**
-
-**F'**
-
-**(h1+h2)/2**
-
-**i1**
-
-**i2**
-
-**i2**
-
-**i1 h1**
-
-**h1/2**
-
-**h1/2**
-
-**h2/2**
-
-**h2/2**
-
-**E**
-
-**h2**
-
-**F**
-
-If the distance between his head _H_ and eye _E_ is _h_1 and distance between his feet _F_ and eye _E_ is _h_2\. The person’s total height is, _h._ Here it is, _h_ = _h_1 + _h_2
+If the distance between his head _H_ and eye _E_ is _h1_ and distance between his feet _F_ and eye _E_ is _h2_. The person’s total height is, _h._ Here it is, _h_ = _h1_ + _h2_
 
 By the law of reflection, the angle of incidence and angle of reflection are the same for the two extreme reflections. The normals are now the bisectors of the angles between the incident and the reflected rays at the two points. By geometry, the height of the mirror needed is only half of the
 
-height of the person. _h h h_1 2
+height of the person. $\frac{h_1+h_2}{2} = \frac{h}{2}$
 
-2 2 +
 
-\=
 
 Does the height depend on the distance between the person and the mirror?
 
-## SPHERICAL MIRRORS
+## 6.2 SPHERICAL MIRRORS
 
 We shall now study about the reflections that take place in spherical surfaces.
 
@@ -226,7 +155,8 @@ A spherical surface is a part cut from a hollow sphere. Spherical mirrors are ge
 
 We shall get familiarised with some of the terminologies pertaining to spherical mirrors.
 
-**6.2**  
+![Spherical mirrors](6.6.1.png "")
+![](6.6.2.png "")
 
 **_Centre of curvature_**_:_ The centre of the sphere of which the mirror is a part is called the _centre of curvature C_ of the mirror.
 
@@ -235,45 +165,6 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 **_Pole_:** The middle point on the spherical surface of the mirror (or) the geometrical centre of the mirror is called _pole P_ of the mirror (or) optic centre.
 
 **_Principal axis_**_:_ The line joining the pole _P_ and the centre of curvature _C_ is called the _principal axis_ of the mirror. The light ray travelling along the principal axis towards the mirror after reflection travels back along the same principal axis. It is also called optical axis
-
-**C P P**
-
-**A**
-
-**B B**
-
-**A**
-
-**Hollow sphere**
-
-**Reecting surface**
-
-**Spherical mirrors**
-
-**Inner reective**
-
-**A concave mirrors**
-
-**Outer reective**
-
-**A convex mirrors**
-
-![Spherical mirrors](6.6.png "")
-
-**ll s ere**
-
-**e ecti g s rface**
-
-**erical irr rs**
-
-**I er re ective**
-
-**c cave irr rs**
-
-**ter re ective**
-
-**c vex irr rs**
-  
 
 **_Focus (or) Focal point_**_:_ Light rays travelling parallel and close to the principal axis when incident on a spherical mirror, converge at a point for concave mirror (or) appear to diverge from a point for convex mirror on the principal axis. This point is called the _focus (_or) _focal point F_ of the mirror.
 
@@ -287,17 +178,9 @@ All the above mentioned terms are shown in Figure 6.7 for both concave and conve
 
 ![Representation of terminologies for (a) concave and (b) convex mirrors  ](6.7.png "")
 
-### Paraxial Rays and Marginal Rays
+### 6.2.1 Paraxial Rays and Marginal Rays
 
 **The _paraxial rays_ are the rays which travel very close to the principal axis and make small angles with it**. They fall on the mirror very close to the pole. On the other hand, **the _marginal rays_ are the rays which travel far away from the principal axis and make large angles with it**. They fall on the mirror far away from the pole. These two rays behave differently (get focused at different points) as shown in Figure 6.8. In this chapter, we shall restrict our studies only to paraxial rays. As the angles made by the paraxial rays are very small, we can make good approximations.
-
-**C F**
-
-**Marginal rays**
-
-**Paraxial rays**
-
-**Principal axis P**
 
 ![Paraxial and marginal rays](6.8.png "")
 
@@ -344,7 +227,7 @@ _f R R_ \= =(or) f (6.4)
 
 Equation (6.4) is the relation between _f_ and _R_. The construction is shown for convex mirror in figure 6.9(b)
 
-### Image formation in spherical mirrors
+### 6.2.3 Image formation in spherical mirrors
 
 The image formed by spherical mirror can be found by ray construction called image tracing. To locate an image point, a minimum of two rays must meet at that point. We can use at least any two of the following four rays as shown in Figure 6.10.
 
@@ -363,7 +246,7 @@ The image formed by spherical mirror can be found by ray construction called ima
 
 (iv) A ray falling on the pole will get reflected as per law of reflection keeping principal axis as the normal. (Figure 6.10(d))
 
-### Cartesian sign convention
+### 6.2.4 Cartesian sign convention
 
 While tracing the image, we would normally come across the object distance _u_, the image distance _v_, the object height _h_, the image height ′_h_ , the focal length _f_ and the radius of curvature _R_. A system of signs for these quantities must be followed so that the relations connecting them are consistent in all types of physical situations. We shall follow the Cartesian sign convention which is now widely used. It is given below and also shown in Figure 6.11.
 
@@ -379,19 +262,9 @@ While tracing the image, we would normally come across the object distance _u_, 
 
 (vi) Heights measured downwards perpendicular to the principal axis, are taken as negative.
 
-**Height upwards (Positive)**
-
-**Height downwards (Negative)**
-
-**Incident light**
-
-**Distance to the le (Negative)**
-
-**Distance to the right (Positive)**
-
 ![Cartesian sign convention  ](6.11.png "")
 
-### Mirror equation
+### 6.2.5 Mirror equation
 
 The mirror equation establishes a relation among object distance _u_, image distance _v_ and focal length _f_ for a spherical mirror.
 
@@ -401,57 +274,35 @@ An object _AB_ is considered on the principal axis of a concave mirror beyond th
 
 ![Mirror equation](6.12.png "")
 
-As per law of reflection, the angle of incidence ∠_BPA_ is equal to the angle of reflection ∠ ′ ′_B PA_ .
+As per law of reflection, the angle of incidence ∠_BPA_ is equal to the angle of reflection ∠ _BPA_ .
 
-The triangles ∆_BPA_ and ∆ ′ ′_B PA_ are similar. Thus, from the rule of similar triangles,
+The triangles ∆ _BPA_ and ∆ _BPA_ are similar. Thus, from the rule of similar triangles,
 
-′ ′ =
+$$
+\frac{A' \cdot B'}{AB} = \frac{PA'}{PA}
+$$
 
-′_A B AB_
+The other set of similar triangles are, ∆_DPF_ and ∆ _BAF_ . (_PD_ is almost a straight vertical line)
 
-_PA PA_
-
-(6.5)
-
-The other set of similar triangles are, ∆_DPF_ and ∆ ′ ′_B A F_ . (_PD_ is almost a straight vertical line)
-
-  
-
-′ ′ = ′_A B_
-
-_PD A F PF_
-
-As, _PD_ = _AB_ the above equation becomes,
-
-′ ′ = ′_A B_
-
-_AB A F PF_
-
-(6.6)
+$$
+\frac{A' \cdot B'}{AB} = \frac{A'F}{PF}
+$$
 
 From equations (6.5) and (6.6) we can write,
 
-_PA PA_
-
-_A F PF_
-
-′ = ′
+$$
+\frac{P \cdot A'}{PA} = \frac{A'F}{PF}
+$$
 
 As, ′ ′_A F= PA - PF_ , the above equation becomes,
-
-_PA PA_
-
-_PA PF PF_
-
-′ =
-
-′− (6.7)
+$$
+\frac{PA'}{PA} = \frac{PA'-PF}{PF}
+$$
 
 We can apply the sign conventions for the various distances in the above equation.
 
-_PA u PA v PF f_\=− ′=− =−, , All the three distances are negative as per
-
-sign convention, because they are measured to the left of the pole. Now, the equation (6.7) becomes, − − = − − − −
+_PA_=_u_,_PA'_=_-v_,_PF_=-f_
+ All the three distances are negative as per sign convention, because they are measured to the left of the pole. Now, the equation (6.7) becomes.
 
 _v u_
 
