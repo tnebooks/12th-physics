@@ -186,6 +186,8 @@ c
 
 o P
 
+![Refraction at single spherical surface](6.1.2.png "")
+
 **_Solution_** Given, _u_ = –15 cm, _R_ = 30 cm, _n_1 = 1 and _n_2 = 1.5
 
 Equation for single spherical surface is, _n v_

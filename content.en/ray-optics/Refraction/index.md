@@ -138,9 +138,14 @@ Refracted ray
 
 ![Principle of reversibility in (a) reflection and (b) refraction](6.19.png "")
 
+### Do you know ? ###
 Production of optical surfaces capable of refracting as well as reflecting is possible
 
-by properly coating the surfaces with suitable materials. Thus, a glass can be made partially see through and partially reflecting. These glasses are commercially called as two-way mirror, half-silvered mirror, semi-silvered mirror etc. This gives a perception of regular mirror if the other side is made dark. But, still hidden cameras can be kept behind such mirrors. We need to be cautious when we stand in front of mirrors kept in unknown places. T method to test the two way mirror. Place th nail on the mirror surface. If there is a gap nail and its image, then it is a regular mirro fingernail directly touches its image, then it way mirror.  
+by properly coating the surfaces with suitable materials. Thus, a glass can be made partially see through and partially reflecting. These glasses are commercially called as two-way mirror, half-silvered mirror, semi-silvered mirror etc. This gives a perception of regular mirror if the other side is made dark. But, still hidden cameras can be kept behind such mirrors. We need to be cautious when we stand in front of mirrors kept in unknown places. T method to test the two way mirror. Place th nail on the mirror surface. If there is a gap nail and its image, then it is a regular mirro fingernail directly touches its image, then it way mirror. 
+
+![Mirror](DoYouKnow.1.png)
+![Mirror](DoYouKnow.2.png)
+
 
 ### Relative refractive index
 
@@ -389,50 +394,18 @@ _d_2
 
 (6.26)
 
+## Do you know ? ##
 **Atmospheric refraction:** Due layers of atmosphere which vary in continuously when it passes throu
 
 visible a little before the actual sunrise and al refraction of light through the atmosphere. W crossing of the sun at the horizon. Figure sho sun with respect to the horizon. The figure is apparent shift in the direction of the sun is a time difference between the actual and appare flattened (oval shaped) during sun rise and su
 
-The same is also applicable for the positio stars do not twinkle. They appear twinkling beca with varying refractive indices which is clearl
+The same is also applicable for the positions of stars as shown in Figure. Actually, the
+stars do not twinkle. They appear twinkling because of the movement of the atmospheric layers
+with varying refractive indices which is clearly seen in the night sky.
 
-**HAtmosphere**  
-
-As the rarer medium is air, its refractive index _n_2 can be taken as 1, (_n_2=1). And the refractive index _n_1 of denser medium could then be taken as _n_ itself, (_n_1=_n_). Now, the equation for apparent depth becomes,
-
-′ =_d d n_
-
-(6.27)
-
-The bottom appears to be elevated by _d_\-_d'_,
-
-_d d d d n_
-
-− ′= − or
-
-_d d d n_
-
-− ′= − 
-
- 
-
-
-
- 1 1 (6.28)
-
-to refraction of light through different refractive index, the path of light deviates
-
-gh the atmosphere. For example, the Sun is so until a little after the actual sunset due to hat we mean by actual sunrise is the actual ws the actual and apparent positions of the highly exaggerated to show the effect. The round half a degree and the corresponding nt positions is about 2 minutes. Sun appears nset due to the same phenomenon. ns of stars as shown in Figure. Actually, the use of the movement of the atmospheric layers y seen in the night sky.
-
-**Apparent Position of sun**
-
-**Actual Position of sun**
-
-**orizon**
-
-|------|------|------|
+![Apparent depth](image.png "")
 
 
-  
 
 **EXAMPLE 6.8**
 
@@ -1320,12 +1293,12 @@ or _n_1 2£
 
 Hence, in air (no cladding) the refractive index _n_1 of the core should be, _n_1 1 414£ .
   
-
+## Do you know ? ##
 An endoscope which has a bundle of optical fibres is an instrument used by doctors to see
 
 inside of a patient’s body. Endoscopes work on the phenomenon of total internal reflection. The optical fibres are inserted into the body through mouth, nose (or) a special hole made in the body. Even operations could be carried out with the endoscope cables which have the necessary instruments attached at their ends.
 
-Endoscope
+![Endoscope](DoYouKnow.3.png "")
 
 ### Refraction in glass slab
 

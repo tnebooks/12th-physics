@@ -8,8 +8,6 @@ extensions:
 
 A lens is formed by a transparent material bounded between two spherical surfaces (or) one plane and another spherical surface. In a thin lens, the distance between the surfaces is very small. For two spherical surfaces, there will be two centres of curvature _C_1 and _C_2 and correspondingly two radii of curvature _R_1 and _R_2\. For a plane surface, the centre of curvature _C_ is at infinity and
 
-**6.6**  
-
 its radius of curvature _R_ is infinity (_R_ = ∞). The terminologies of spherical mirrors hold good very much for thin lenses except for the focal length.
 
 ### Primary and secondary focus
@@ -18,52 +16,18 @@ As the thin lens is formed by two surfaces, the lens may separate two different 
 
 **The _primary focus F_1 is defined as a point where a point source kept produces a parallel emergent rays to the principal axis after passing through lens** as shown in Figure 6.32. For a converging lens, such an object is a real object and for a diverging lens, it is a virtual object. The distance _PF_1 is the _primary focal length f_1_._
 
-**F1 P P F1**
+
 
 ![Primary focus](6.32.png "")
 
 **The _secondary focus_ _F_2 is defined as a point where all the parallel rays travelling close to the principal axis converge to form an image on the principal axis** **after passing through lens** as shown in Figure 6.33. For a converging lens, such an image is a real image and for a diverging lens, it is a virtual image. The distance _PF_2 is the secondary focal length _f_2.
 
-**F2P PF2**
-
 ![Secondary focus](6.33.png "")
 
-1 4 60
-
-3 60
-
-1 20
-
-;= − = − =−
-| P |
-|------|------|------|------|------|
-
-
-| = |−3 1; =− |
-| 60 20P |
-| F |
-| 1 |
-
-
-
-
-
-|------|------|------|------|
-
-| P F |
-
-
-
-|------|------|------|------|
-
-| P2 |
-
-
-  
 
 If the media on the two sides of a thin lens have same refractive index, then the two focal lengths are equal. We will mostly be using the secondary focus _F_2 in our further discussions.
 
-### Sign conventions on focal length for lens
+### Sign conventions on focal length for lens ###
 
 The sign conventions for thin lenses differ only in the signs followed for focal lengths.
 
@@ -270,21 +234,6 @@ The above equation is known as **_lens equation_** which relates the object dist
 
 Let us consider an object _OO'_ of height _h_1 placed on the principal axis with its height perpendicular to the principal axis. The inverted real image _II_ ′ is formed which has a height _h_2 as shown in Figure 6.35.  
 
-**F**
-
-**O**
-
-**O**
-
-**P**
-
-**_h_**
-
-**_h_**
-
-**I**
-
-**I**
 
 **u v Figure 6.35 Lateral magnification in thin** lens
 
@@ -356,6 +305,8 @@ A biconvex lens has radii of curvature 20 cm and 15 cm for the two curved suface
 **_Solution_**
 
 For a biconvex lens, radius of curvature of the first surface is positive and that of the second surface is negative as shown in figure.
+
+![biconvex lens](6.13.1.png "")
 
 R2 = cm
 
@@ -491,6 +442,8 @@ This will also result in, _f =_ 17.14 _cm_ Thus, it is concluded that the focal 
 
 **EXAMPLE 6.14** Determine the focal length of the lens made up of a material of refractive index 1.52 as shown in the diagram. (Points _C_1 and _C_2 are the centers of curvature of the first and second surfaces respectively.)
 
+![biconvex lens](6.13.2.png "")
+
 **10 cm**
 
 **20 cm**
@@ -576,22 +529,6 @@ The power of a lens is a measure of its deviating ability on an incident light. 
 
 ![Power of lens](6.36.png "")
 
-**F**
-
-**F**
-
-**1**
-
-**F2**
-
-**F1**
-
-**2**
-
-(a)
-
-(b)  
-
 by the power of the lens. Power of the lens is inversely proportional to the focal length i.e. greater the power of lens, smaller will be the focal length. In Figure 6.36, the lens (b) has greater deviating ability than lens (a). As (b) has greater deviating ability, its focal length is less and vice versa.
 
 In other words, **the _power_ of a lens is a measure of the degree of convergence (or) divergence the lens produces on the light falling on it**. The power of a lens _P_ is the reciprocal of its focal length in meter.
@@ -659,15 +596,7 @@ As the power is positive, it is a converging lens.
 
 Let us consider two lenses  and  of focal lengths _f_1 and _f_2 placed coaxially in contact with each other so that they have a common principal axis. For a point object placed at O beyond the focus of the lens  on the principal axis, an image is formed by it at _I'_. This image _I'_ acts as an object for the lens  and the final image is formed at _I_ as shown in Figure. 6.37. As these two lenses are thin, the measurements are done with respect to the common optic centre _P_ between the two lenses.
 
-O P I
-
-u v
-
-I
-
-v
-
-**1 2**
+![lenses in contact](6.37.png "")
 
 **Figure. 6.37** Lenses in contact
 
@@ -778,18 +707,16 @@ _P f_
 m D
 
 **Points to Ponder**  
+System of combination of lenses is
+commonly used in designing lenses
+for cameras, microscopes, telescopes
+and other optical instruments. They
+produce better magnification and
+sharpness of the image.
 
 **EXAMPLE 6.17**
-
-**15 cm**
-
-**5 mm**
-
-**40 cm**
-
-**1 2**
-
 An object of 5 mm height is placed at a distance of 15 cm from a convex lens of focal length 10 cm. A second lens of focal length 5 cm is placed 40 cm from the first lens and 55 cm from the object. Find (a) the position of the final image, (b) its nature and (c) its size.
+![lenses in contact](6.13.3.png "")
 
 **_Solution_** Given, _h_ = 5 mm = 0.5 cm, _u_1 = –15 cm, _f_1 = 10 cm, _f_2 = 5 cm, _d_ = 40 cm
 
@@ -988,6 +915,8 @@ Suppose the object distance _u_ and image distance _v_ are to be found, we can v
 **EXAMPLE 6.18**
 
 A thin biconvex lens is made up of a glass of refractive index 1.5. The two surfaces have equal radii of curvature of 30 cm each. One of its surfaces is made reflecting by silvering it from outside. (a) What is the focal length and power of this silvered lens? (b) Where should an object be placed in front of this lens so that the image is formed on the object itself?
+
+![Slivered lens](6.13.4.png "")
 
 **_Solution_** The given situation is shown in figure.
 
