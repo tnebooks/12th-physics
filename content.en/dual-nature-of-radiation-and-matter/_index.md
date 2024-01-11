@@ -4,11 +4,7 @@ weight: 8
 extensions:
     - katex
 ---
-**UNIT**
-**8 :**
-**Dual Nature of Radiation and Matter**
------
----
+# **UNIT 8: DUAL NATURE OF RADIATION AND MATTER**
 **Learning Objectives**
 **In this unit, the students are exposed to** 
 -  the phenomenon of electron emission and its types
@@ -25,7 +21,31 @@ extensions:
 -  X-rays spectra and its types
 
 ---
-## **8.1 INTRODUCTION**
+<!--
+---
+title: 'Dual Nature of Radiation and Matter'
+weight: 8
+extensions:
+    - katex
+---
+# **UNIT 8: DUAL NATURE OF RADIATION AND MATTER**
+**Learning Objectives**
+**In this unit, the students are exposed to** 
+-  the phenomenon of electron emission and its types
+-  the observations of Hertz, Hallwachs and Lenard 
+-  photoelectric effect and its laws 
+-  the concept of quantization of energy 
+-  photo cell and its applications 
+-  particle nature of radiation 
+-  the wave nature of matter 
+-  de Broglie equation and de Broglie waveleng 
+-  the construction and working of electron microscope 
+-  Davisson and Germer experiment 
+-  X-rays and its production 
+-  X-rays spectra and its types
+
+---
+## **INTRODUCTION**
 
 We are familiar with the concepts of particle and wave in our everyday experience. Marble balls, grains of sand, atoms, electrons and so on are some examples of particles while the examples of waves are sea waves, ripples in a pond, sound waves and light waves.
 
@@ -39,7 +59,7 @@ When electrons, protons and other particles are discovered, they are considered 
 
 In this unit, the particle nature of waves (radiation) and the wave nature of particles (matter) – that is, wave-particle duality of radiation and matter is discussed with the relevant experimental observations supporting this dual nature.
 
-### **8.1.1 Electron emission**
+### **Electron emission**
 
 In metals, the electrons in the outer most shells are loosely bound to the nucleus. Even at room temperature, there are a large number of free electrons which are moving inside the metal in a random manner. Though they move freely inside the metal, they cannot leave the surface of the metal. The reason is that when free electrons reach the surface of the metal, they are attracted by the positive nuclei of the metal. It is this attractive pull which will not allow free electrons to leave the metallic surface at room temperature.
 
@@ -111,9 +131,9 @@ When a beam of fast moving electrons strikes the surface of the metal, the kinet
 **Figure 8.5 Secondary emission of electrons**
 
 
-## **8.2 PHOTO ELECTRIC EFFECT**
+## **PHOTO ELECTRIC EFFECT**
 
-### **8.2.1 Hertz, Hallwachs and Lenard’s observation**
+### **Hertz, Hallwachs and Lenard’s observation**
 
 **Hertz observation** 
 
@@ -149,7 +169,7 @@ Further, if the negatively charged zinc plate is exposed to ultraviolet light, t
 
 In 1902, Lenard studied this electron emission phenomenon in detail. His simple experimental setup is shown in Figure 8.7. The apparatus consists of two metallic plates _A_ and _C_ placed in an evacuated quartz bulb. The galvanometer _G_ and battery _B_ are connected in the circuit.
 ![](8.7.png "")
-**FIgure 8.7 Experimental setup of Lenard**
+**Figure 8.7 Experimental setup of Lenard**
 
 When ultraviolet light is incident on the negative plate _C_, an electric current flows in the circuit that is indicated by the deflection in the galvanometer. On other hand, if the positive plate is irradiated by the ultraviolet light, no current is observed 
 in the circuit.
@@ -162,7 +182,7 @@ The ejection of electrons from a metal plate when illuminated by light or any ot
 
 Metals like cadmium, zinc, magnesium etc show photoelectric emission with ultraviolet light while some alkali metals lithium, sodium, caesium respond well even to larger wavelength radiation like visible light. The materials which eject photoelectrons upon irradiation of electromagnetic wave of suitable wavelength are called **photosensitive materials**.
 
-### **8.2.2 Effect of intensity of incident light on photoelectric current**
+### **Effect of intensity of incident light on photoelectric current**
 
 **Experimental setup** 
 
@@ -195,7 +215,7 @@ Here, intensity of light means brightness. A bright light has more intensity tha
 
 ---
 
-### **8.2.3 Effect of potential difference on photoelectric current**
+### **Effect of potential difference on photoelectric current**
 
 To study the effect of potential difference _V_ between the electrodes on photoelectric current, the frequency and intensity of the incident light are kept constant. Initially the potential of _A_ is kept positive with respect to _C_ and the cathode is irradiated with the given light.
 
@@ -217,7 +237,7 @@ From the Figure 8.10, when the intensity of the incident light alone is increase
 
 Thus, for a given frequency of the incident light, the stopping potential is independent of intensity of the incident light. This also implies that _the maximum kinetic energy of the photoelectrons is independent of intensity of the incident light_.
 
-### **8.2.4 Effect of frequency of incident light on stopping potential**
+### **Effect of frequency of incident light on stopping potential**
 
 To study the effect of frequency of incident light on stopping potential, the intensity of the incident light is kept constant. The variation of photocurrent with the collecting electrode potential is studied for radiations of different frequencies and a graph drawn between them is shown in Figure 8.11. From the graph, it is clear that stopping potential vary over different frequencies of incident light.
 ![](8.11.png "")
@@ -228,7 +248,7 @@ Greater the frequency of the incident radiation, larger is the corresponding sto
 
 Now a graph is drawn between frequency of incident radiation and the stopping potential for different metals (Figure 8.12). From this graph, it is found that stopping potential varies linearly with frequency. Below a certain frequency called threshold frequency, no electrons are emitted; hence stopping potential is zero for that reason. But as the frequency is increased above threshold value, the stopping potential varies linearly with the frequency of incident light.
 
-### **8.2.5 Laws of photoelectric effect**
+### **Laws of photoelectric effect**
 
 The above detailed experimental investigations of photoelectric effect revealed the following results: 
 i) For a given metallic surface, the emission of photoelectrons takes place only if the frequency of incident light is greater than a certain minimum frequency called the threshold frequency.
@@ -239,7 +259,7 @@ v) There is no time lag between incidence of light and ejection of photoelectron
 
 Once photoelectric phenomenon has been thoroughly examined through various experiments, the attempts were made to explain it on the basis of wave theory of light.
 
-### **8.2.6 Concept of quantization of energy**
+### **Concept of quantization of energy**
 
 
 **Failures of classical wave theory**
@@ -294,29 +314,37 @@ photoelectric effect even if the frequency is less than the threshold frequency.
 By taking the atomic radius _r_ \= × −1 0 10 10. m and substituting the given values of _I_ and _ϕ_0, we can estimate the time interval as
 Thus, wave theory predicts that there is a large time gap between the incidence of light and the ejection of photoelectrons but the experiments show that photo emission is an instantaneous process.
 
-**Concept of quantization of energy** 
+ **Concept of quantization of energy** 
 
 Max Planck proposed quantum concept in 1900 in order to explain the thermal radiations emitted by a black body and the shape of its radiation curves.
 
 According to Planck, matter is composed of a large number of oscillating particles (atoms) which vibrate with different frequencies. Each atomic oscillator - which vibrates with its characteristic frequency - emits or absorbs electromagnetic radiation of the same frequency. It also says that 
 
-(i) If an oscillator vibrates with frequency _v_,its energy can have only certain discrete values, given by the equation. _E_n= _nhν_ _n=_1,2,3.... (8.5) where _h_ is a constant, called Planck’s constant.
+(i) If an oscillator vibrates with frequency _v_,its energy can have only certain discrete values, given by the equation. _En_= _nhν_ _n_=_1,2,3...._ (8.5) where _h_ is a constant, called Planck’s constant.
 
 (ii) The oscillators emit or absorb energy in small packets or quanta and the energy of each quantum is _hν_.
 
 This implies that the energy of the oscillator is quantized – that is, energy is not continuous as believed in the wave picture. This is called **quantization of energy**.
 
-### Particle nature of light: Einstein’s explanation
+### **Particle nature of light: Einstein’s explanation**
 
-Einstein extended Planck’s quantum concept to explain the photoelectric effect in 1905. According to Einstein, the energy in light is not spread out over wavefronts but is concentrated in small packets or energy quanta. Therefore, light (or any other electromagnetic waves) of frequency _v_ from any source can be considered as a stream of quanta and the energy of each light quantum is given by _E_ = _hν_.He also proposed that a quantum of light has linear momentum and the magnitude particle. The light quantum can behave as a particle and this is called photon. Therefore, photon is nothing but particle manifestation of light.
+Einstein extended Planck’s quantum concept to explain the photoelectric effect in 1905. According to Einstein, the energy in light is not spread out over wavefronts but is concentrated in small packets or energy quanta. Therefore, light (or any other electromagnetic waves) of frequency _v_ from any source can be considered as a stream of quanta and the energy of each light quantum is given by _E_ = _hν_.He also proposed that a quantum of light has linear momentum and the magnitude particle is _p_ = _hv_/c. The light quantum can behave as a particle and this is called photon. Therefore, photon is nothing but particle manifestation of light.
+
 
 **Characteristics of photons:** 
+
 According to particle nature of light, photons are the basic constituents of any radiation and possess the following characteristic properties:
 
 (i) The photons of light of frequency _ν_ and wavelength λ will have energy, given by
+_E_=_hv_=_hc/λ_.
+
 (ii) The energy of a photon is determined by the frequency of the radiation and not by its intensity and the intensity has no relation with the energy of the individual photons in the beam.
+
 (iii) The photons travel with the speed of light and its momentum is given by
+_p_=_h/λ_=_hν/λ_.
+
 (iv) Since photons are electrically neutral, they are unaffected by electric and magnetic fields.
+
 (v) When a photon interacts with matter (photon-electron collision), the total energy, total linear momentum and angular momentum are conserved. Since photon may be absorbed or a new photon may be produced in such interactions, the number of photons may not be conserved.
 
 ---
@@ -326,14 +354,15 @@ According to quantum concept, intensity of light of given wavelength is defined 
 ---
 
 **Einstein’s explanation of photoelectric equation**
-When a photon of energy _hν_ is incident on a metal surface, it is completely absorbed by a single electron and the electron is ejected. In this process, a part of the photon energy is used in overcoming the potential barrier of the metal surface (photoelectric work function _ϕ_0 )and the remaining energy as the kinetic energy of the ejected electron. From the law of conservation of energy,
+When a photon of energy _hν_ is incident on a metal surface, it is completely absorbed by a single electron and the electron is ejected. In this process, a part of the photon energy is used in overcoming the potential barrier of the metal surface (photoelectric work function _ϕ_0 )and the remaining energy as the kinetic energy of the ejected electron. From the law of conservation of energy, 
 Formulas 
 where _m_ is the mass of the electron and _v_ its velocity. This is shown in Figure 8.13(a).
 ![](8.13.png "")
 **Figure 8.13 Emission of photoelectrons**
-If we reduce the frequency of the incident light, the speed or kinetic energy of photo electrons is also reduced. At some frequency _ν_0 of incident radiation, the photo electrons are just ejected with almost zero kinetic energy (Figure 8.13(b)). Then the equation (8.6) becomes
 
-where _ν_0 is the threshold frequency. By rewriting the equation (8.6), we get
+If we reduce the frequency of the incident light, the speed or kinetic energy of photo electrons is also reduced. At some frequency _ν0_ of incident radiation, the photo electrons are just ejected with almost zero kinetic energy (Figure 8.13(b)). Then the equation (8.6) becomes
+
+where _ν0_ is the threshold frequency. By rewriting the equation (8.6), we get
 The equation (8.7) is known as **Einstein’s photoelectric equation**.
 ![](8.25.png "")
 
@@ -354,9 +383,10 @@ The experimentally observed facts of photoelectric effect can be explained with 
 
 **i)** As each incident photon liberates one electron, then the increase of intensity of the light (the number of photons per unit area per unit time) increases the number of electrons emitted thereby increasing the photocurrent. The same has been experimentally observed.
 
-**ii)** From _Kmax_ \= _hv_ – _ϕ_0, it is evident that _K_max is proportional to the frequency of the incident light and is independent of intensity of the light.
+**ii)** From _Kmax_ \= _hv_ – _ϕ0_, it is evident that _Kmax_ is proportional to the frequency of the incident light and is independent of intensity of the light.
 
 **iii)** As given in equation (8.7), there must be minimum energy (equal to the work function of the metal) for incident photons to liberate electrons from the metal surface. Below this value of energy, emission of electrons is not possible. Correspondingly, there exists minimum frequency called threshold frequency below which there is no photoelectric emission.
+
 **iv)** According to quantum concept, the transfer of photon energy to the electrons is instantaneous so that there is no time lag between incidence of photons and ejection of electrons. Thus, the photoelectric effect is explained on the basis of quantum concept of light.
 
 **The nature of light: wave - particle duality** 
@@ -373,7 +403,7 @@ A reader may find it difficult to u stream of particle. This is the case ev Eins
 
 “All these fifty years of conscious broodin question, ‘What are light quanta?’ Of course t but he is deluding himself ”.  
 
-### Photo electric cells and their applications
+### **Photo electric cells and their applications**
 
 **Photo cell** 
 
@@ -381,10 +411,22 @@ Photo electric cell or photo cell is a device which converts light energy into e
 
 i) **Photo emissive cell:** 
 Its working depends on the electron emission from a metal cathode due to irradiation of light or other radiations.
+
 ii) **Photo voltaic cell:** 
 Here sensitive element made of semiconductor is used which generates voltage proportional to the intensity of light or other radiations.
+
 iii) **Photo conductive cell:** 
 In this, the resistance of the semiconductor changes in accordance with the radiant energy incident on it. In this section, we discuss about photo emissive cell and its applications.
+
+## **Do you know:**
+
+A reader may find it difficult to understand how light can be both a wave and a
+stream of particle. This is the case even for great scientist like Albert Einstein.
+Einstein once wrote a letter to his friend Michel Besso in 1954 expressing
+his frustration:
+“All these fifty years of conscious brooding have brought me no closer to answer the
+question, ‘What are light quanta?’ Of course today everyone thinks he knows the answer,
+but he is deluding himself ”
 
 **Photo emissive cell**
 
@@ -393,6 +435,8 @@ In this, the resistance of the semiconductor changes in accordance with the radi
 It consists of an evacuated glass or quartz bulb in which two metallic electrodes – that is, a cathode and an anode are fixed as shown in Figure 8.16.
 
 ![Construction of photo cell](8.16.png "")
+
+**Figure 8.16 Construction of photo cell**
 
 **Working:** 
 
@@ -460,7 +504,7 @@ _Solution_
 
 ## **MATTER WAVES**
 
-### Introduction - Wave nature of particles
+### **Introduction - Wave nature of particles**
 
 So far, we learnt that the characteristics of particles and waves are different. A wave is specified by its frequency, wavelength, wave velocity, amplitude and intensity. It spreads out and occupies a relatively large region of space. A particle specified by its mass, velocity, momentum and energy occupies a definite position in space and is very small in size.
 
@@ -476,7 +520,7 @@ Greatly influenced by the symmetry in nature, de Broglie suggested that if radia
 
 According to de Broglie hypothesis, all material particles like electrons, protons, neutrons in motion are associated with waves. These waves are called de Broglie waves or matter waves.  
 
-### De Broglie wave length:
+### **De Broglie wave length:**
 
 The momentum of photon of frequency _ν_ is given by
 Formulas 
@@ -640,7 +684,7 @@ But these two features could be explained on the basis of photon theory of radia
 **Figure 8.22 Bremsstrahlung photon from a decelerating electron**
 The energy of the photon emitted is equal to the loss of kinetic energy of the electron. Since an electron may lose part or all of its energy to the photon, the photons are emitted with all possible energies (or frequencies). The continuous x-ray spectrum is due to such radiations.
 
-When an electron gives up all its energy, then the photon is emitted with highest frequency _ν_0 (or lowest wavelength λ0 ). The initial kinetic energy of an electron is given by _eV_ where _V_ is the accelerating voltage. Therefore, we have
+When an electron gives up all its energy, then the photon is emitted with highest frequency _ν0_ (or lowest wavelength λ0 ). The initial kinetic energy of an electron is given by _eV_ where _V_ is the accelerating voltage. Therefore, we have
 Formulas 
 where λ0 is the cut-off wavelength. Substituting the known values in the above equation, we get
 FOrmulas 
@@ -747,3 +791,47 @@ Edition, McGraw Hill Education (India) Private Limited.
 Pvt. Ltd.
 3. H.C.Verma, Concepts of Physics, Volume 1 and 2, BharathiBhawan publishers. 
 4. Halliday, Resnick and Walker, Principles of Physics, Wiley publishers. 
+
+
+**ICT CORNER**
+
+**Dual nature of radiation and matter**
+
+**Topic: Photoelectric effect**
+
+In this activity you will be able to visualize how
+light knocks electrons off a metal target and
+describe the photoelectric effect experiment.
+
+**Steps:**
+
+• Open the browser and type “https://phet.colorado.edu/en/simulation/legacy/photoelectric” in the
+address bar.
+
+• Change intensity of light and observe how the intensity of light will affect the photo electric current
+and the energy of electrons
+
+• By adjusting the value of wavelength and observe how the wavelength of light will affect the photo
+electric current and the energy of electrons
+
+• Adjust the value of voltage from the battery and analyse the effect of potential difference on the
+photoelectric current.
+
+• Change the material of the target and analyse how it will affect the current and the energy of electrons.
+
+• Study the photo electric current – voltage graph and Photo electric current - intensity graph obtained 
+
+![](8.36.png "")
+
+**Note:**
+
+Install Java application if it is not in your browser.
+You can download all the phet simulation and works in off line from https://phet.colorado.edu/en/offline-access.
+
+**URL:**
+https://phet.colorado.edu/en/simulation/legacy/photoelectric
+
+
+* Pictures are indicative only.
+* If browser requires, allow Flash Player or Java Script to load the page.
+ -->
