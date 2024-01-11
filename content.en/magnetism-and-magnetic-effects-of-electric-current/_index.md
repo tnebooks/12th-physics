@@ -2,6 +2,20 @@
 title: 'Magnetism and magnetic effects of electric current'
 weight: 3
 extensions:
+<<<<<<< HEAD:
+- katex
+---   
+**U N I T**
+
+**3** 
+MAGNETISM AND MAGNETIC 
+EFFECTS OF ELECTRIC CURRENT
+
+“The magnetic force is animate, or imitates a soul; in many respects it surpasses 
+the human soul while it is united to an organic body” – William Gilbert
+
+![](3.1.1.jpeg)**Learning Objectives**  
+=======
     - katex
 ---
 
@@ -15,6 +29,7 @@ extensions:
 
 ## **Learning Objectives**
 
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 **In this unit, the student is exposed to**
 
@@ -65,6 +80,12 @@ extensions:
 • Torque on a current loop in a magnetic field
 
 • Moving Coil Galvanometer
+<<<<<<< HEAD
+  
+## 3.1  INTRODUCTION TO MAGNETISM
+![](3.1.png)
+
+=======
 
 
 
@@ -76,9 +97,12 @@ extensions:
 
 ## INTRODUCTION TO MAGNETISM
 ![Magnetic levitation](3.1.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.1:** Magnetic levitation
 
 Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open (Figure 3.1).
+
+![](3.1.2.jpeg)
 
 Many birds and animals have magnetic sense in their eyes using Earth’s
 
@@ -93,9 +117,17 @@ In modern days, many things we use in our daily life contain magnets (Figure 3.2
 Earlier, both electricity and magnetism were thought to be two independent branches in physics. In 1820, H.C. Oersted observed the deflection of magnetic compass needle kept near a current carrying wire. This unified the two different branches, electricity and magnetism as a single subject ‘electromagnetism’ in physics.
 
 In this unit, basics of magnets and their properties are given. Later, how a current carrying conductor (here only steady current, not time-varying current is considered) behaves like a magnet is presented.
+![](3.2.png)
 
-![Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](3.2.png "")
+Figure 3.2  Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop
 
+<<<<<<< HEAD
+
+### Earth’s magnetic field and magnetic elements
+**Figure 3.1.1 Earth’s magnetic field**
+
+![](3.3.png)
+=======
 **Figure 3.2 Uses of magnets in modern 
 world – (a) speakers (b) head phones 
 (c) MRI scan (d) Hard disc of laptop**
@@ -109,16 +141,9 @@ world – (a) speakers (b) head phones
 ### Earth’s magnetic field and magnetic elements
 ![Earth’s magnetic field](3.3.png "w-50 float-end")
 **Figure 3.3 Earth’s magnetic field**
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
-Geographic South Pole
-
-Geographic North Pole
-
-Magnetic South Pole
-
-Magnetic North Pole
-
-From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north- south direction of the Earth.
+**Figure 3.3 Earth’s magnetic field**From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north- south direction of the Earth.
 
 William Gilbert in 1600 proposed that Earth itself behaves like a gigantic
 
@@ -134,94 +159,37 @@ There are three quantities required to specify the magnetic field of the Earth o
 
 Earth’s magnetic field (_BH_)
 
+<<<<<<< HEAD
+![](3.4.png)
+=======
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
-Geographic meridian
-
-Magnetic meridian
-
-**D = Angle of declination**
-
-**D**
-
-Magnetic meridian
-
-Magnetic meridian
-
-Geographic meridian
-
-Geographic meridian
-
-Geographic Equator
-
-Magnetic Equator
-
-Angle of declination
-
-Earth magnetic south pole
-
-N
-
-S
-
-Magnetic field lines
-
-“True” North pole - the Earth rotates around this axis
-
-Earth
-
-Axis around which the Earth rotates once a day
-
-Earth magnetic north pole
-
-“True” South poleBar magnet
+**Figure 3.4 Declination Angle**
 
 ![Declination angle](3.4.png "")
 **Figure 3.4 Declination angle**
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth’s geographic axis is called geographic equator.
 
-The straight line which connects magnetic poles of Earth is known as magnetic axis.
-
-
-
-
-
-
-| North Pole |
-|------|------|------|
-
-| Geographi |c |
-
-
-| “True” North pole - thEarth rotates aroundthis axis |
-|------|------|------|------|------|------|------|------|------|
-
-| N |
-
-| S |Axis around which the Earth rotatesonce a dayEarth magnetic north pole |
-
-
-
-  
-
-A vertical plane passing through magnetic axis is called magnetic meridian and a great circle perpendicular to Earth’s magnetic axis is called magnetic equator.
+The straight line which connects magnetic poles of Earth is known as magnetic axis.A vertical plane passing through magnetic axis is called magnetic meridian and a great circle perpendicular to Earth’s magnetic axis is called magnetic equator.
 
 When a magnetic needle is freely suspended, the alignment of the magnet does not exactly lie along the geographic meridian as shown in Figure 3.4. **The angle between magnetic meridian at a point and geographical meridian is called the _declination or magnetic declination_** (_D_). At higher latitudes, the declination is greater whereas near the equator, the declination is smaller. In India, declination angle is very small and for Chennai, magnetic declination angle is –1o 16ʹ (which is negative (west)).
 
-**The angle subtended by the Earth’s total magnetic field**
-
-
-
-_B_ **with the horizontal direction in the magnetic meridian is called dip or magnetic inclination** (_I_) **at that point** (Figure 3.5). For Chennai, inclination angle is 14o 28ʹ. **The component of Earth’s magnetic field along the horizontal direction in the magnetic meridian is called horizontal component of Earth’s magnetic field, denoted by _BH_.**
+**The angle subtended by the Earth’s total magnetic field**_B_ **with the horizontal direction in the magnetic meridian is called dip or magnetic inclination** (_I_) **at that point** (Figure 3.5). For Chennai, inclination angle is 14o 28ʹ. **The component of Earth’s magnetic field along the horizontal direction in the magnetic meridian is called horizontal component of Earth’s magnetic field, denoted by _BH_.**
 
 Let _BE_ be the net Earth’s magnetic field at any point on the surface of the Earth. _BE_ can be resolved into two perpendicular components.
 
-Horizontal component _BH_ = _BE_ cos _I_ (3.1)
-
-Vertical component _BV_ = _BE_ sin _I_ (3.2)
+![Alt text](image-9.png)
 
 Dividing equation (3.2) and (3.1), we get
 
+<<<<<<< HEAD
+![Inclination angle](3.5.png)
+**Figure 3.5 Inclination Angle**
+
+![Alt text](image-10.png)
+**(i) At magnetic equator** The Earth’s magnetic field is parallel to the
+=======
 ![Inclination angle](3.5.png "")
 **Figure 3.5 Inclination angle**
 Horizontal
@@ -241,12 +209,11 @@ _H_
 \= (3.3)
 
 **1. At magnetic equator** The Earth’s magnetic field is parallel to the
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, _I_ = 0o.
 
-_BH_ = _BE_
-
-_BV_ = 0
+![Alt text](image-11.png)
 
 This implies that the horizontal component is maximum and vertical component is zero at the equator.
 
@@ -254,53 +221,27 @@ This implies that the horizontal component is maximum and vertical component is 
 
 perpendicular to the surface of the Earth (i.e., vertical) which implies that the needle of magnetic compass rests vertically at an angle of dip, _I_ = 90o. Hence,
 
-_BH_ = 0 _BV_ = _BE_
+![Alt text](image-12.png)
 
 This implies that the vertical component is maximum at poles and horizontal component is zero at poles.
 
 **EXAMPLE 3.1**
 
-The horizontal component and vertical component of Earth’s magnetic field at a place are 0.15 G and 0.26 G respectively. Calculate the angle of dip and resultant magnetic field. (G-gauss, cgs unit for magnetic field 1G = 10–4 T) **_Solution:_**
+The horizontal component and vertical component of Earth’s magnetic field at a place are 0.15 G and 0.26 G respectively. Calculate the angle of dip and resultant magnetic field. (G-gauss, cgs unit for magnetic field 1G = 10–4 T) 
+**_Solution:_**
 
 _BH_ = 0.15 G and _BV_ = 0.26 G
 
-tan . .
-
-tan ( . )_I I_\= ⇒ = =−0 26 0 15
-
-1 732 601 
+![Alt text](image-13.png)
 
 The resultant magnetic field of the Earth is
 
-_B B BH V_\= + =2 2 0 3. G
-
-
-
-
-
-
-| The h orizontal co mponent a nd v erticalcomponent of Earth’s magnetic field at a placeare 0.15 G and 0.26 G respectively. Calculatethe angle of dip and resultant magnetic field.(G-gauss, cgs uni t f or m agnetic f ield 1G = 10  T)Solution:B  = 0.15 G and B  = 0.26 G–402. 6tan II=⇒ ==tan( 1.)73201. 5ThH e resultant magn Vetic field of th−1B = 03.G22HV |
-|------|------|------|------|
-| 60 |
-| e Earth is |
-
-| BB=+ |
-  
-
-**Aurora Bore** People living at high latitude experience dazzling coloured na display on the sky is known as
-
-australis (southern lights). These lights are often the magnetic poles of the northern and south borealis” in the north and “Aurora australis” in t between the gaseous particles in the Earth’s atmo from the Sun’s atmosphere through solar wind. These particles emit light due to collision and variations in colour are due to the type of the gas particles that take part in the collisions. A pale yellowish – green colour is produced when the ionized oxygen takes part in the collision and a blue or purplish – red aurora is produced due to ionized nitrogen molecules.  
-
-**alis and Aurora Australis** regions (near Arctic or Antarctic) might
-
-tural lights across the night sky. This ethereal aurora borealis (northern lights) or aurora called as polar lights. The lights are seen above ern hemispheres. They are called as “Aurora he south. This occurs as a result of interaction sphere with highly charged particles released
-
-
+![Alt text](image-14.png)
 
 
   
 
-### Basic properties of magnets
+**3.1.2 Basic properties of magnets**
 
 Some basic terminologies and properties used in describing bar magnet.
 
@@ -308,6 +249,10 @@ Some basic terminologies and properties used in describing bar magnet.
 
 Consider a bar magnet as shown in Figure 3.6. Let _qm_ be the pole strength of the magnetic pole and let _l_ be the distance between the geometrical centre of bar magnet O and one end of the pole. **The magnetic dipole moment is defined as the product of its pole strength and magnetic length**. It is a vector quantity, denoted by _pm_.
 
+<<<<<<< HEAD
+![](3.6.png)
+
+=======
 **S**
 
 _q_m _l l_
@@ -320,20 +265,12 @@ _q_m
 
 **O N**
 ![Bar Magnet](3.6.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.6 A bar magnet**
 
-
+![Alt text](image-15.png)
 
-
-
-_p q dm m_\= (3.4)
-
-where 
-
-_d_ is the vector drawn from south pole to north pole and its magnitude
-
-
-
+where _d_ is the vector drawn from south pole to north pole and its magnitude
 _d l_\= 2 .
 
 The magnitude of magnetic dipole moment is _p q lm m_\= 2
@@ -342,23 +279,15 @@ The SI unit of magnetic moment is A m2. The direction of magnetic moment is from
 
 **(b) Magnetic field**
 
-Magnetic field is the region or space around every magnet within which its influence will be felt by keeping another magnet in that region. **The magnetic field**
+Magnetic field is the region or space around every magnet within which its influence will be felt by keeping another magnet in that region. **The magnetic field _B_ at a point is defined as a force experienced by the bar magnet of unit pole strength**.  
+![Alt text](image-16.png)
+Its unit is N A–1 m–1.
 
-
+ **(c) Types of magnets**
 
-**_B_ at a point is defined as a force experienced by the bar magnet of unit pole strength**.  
+Magnets are classified into natural magnets and artificial magnets. For example, iron, cobalt, nickel, etc. are natural magnets. Strengths of natural magnets are very weak and the shapes of the magnet are irregular. Artificial magnets are made in order to have desired shape and strength. If the magnet is in the form of rectangular shape or cylindrical shape, then it is known as bar magnet.
 
-_B q_
-
-_F m_
-
-  =
-
-1 (3.5)
-
-Its unit is N A–1 m–1. **(c) Types of magnets**
-
-Magnets are classified into natural magnets and artificial magnets. For example, iron, cobalt, nickel, etc. are natural magnets. Strengths of natural magnets are very weak and the shapes of the magnet are irregular. Artificial magnets are made in order to have desired shape and strength. If the magnet is in the form of rectangular shape or cylindrical shape, then it is known as bar magnet. **Properties of magnet**
+ ## Properties of magnet
 
 The following are the properties of bar magnet (Figure 3.7), 1. A freely suspended bar magnet will always
 
@@ -370,28 +299,25 @@ magnet or magnetic substances towards itself. The attractive or repulsive force 
 
 4\. Two poles of a magnet have pole strength equal to one another.
 
-5\. The length of the bar magnet is called geometrical length and the length between two magnetic poles in a bar magnet is called magnetic length. Magnetic length is always slightly smaller than geometrical length. The ratio of magnetic length and geometrical length is 5
+5\. The length of the bar magnet is called geometrical length and the length between two magnetic poles in a bar magnet is called magnetic length. Magnetic length is always slightly smaller than geometrical length. The ratio of magnetic length and geometrical length is 5/6.
 
-6 .
+![Alt text](image-17.png)
+ Magnetic length/Geometrical length=5/6 =0.833.
 
-_Magnetic length_
+![](3.7.png)
 
-_Geometrical length_ \= =
-
-5 6
-
-0 833.
-
-
-
-
-  
+**Figure 3.7 Properties of bar magnet**
 
 **EXAMPLE 3.2**
 
-Let the magnetic moment of a bar magnet be _pm_ whose magnetic length is _d_ = 2_l_ and pole strength is _qm_. Compute the magnetic moment of the bar magnet when it is cut into two pieces (a) along its length (b) perpendicular to its length. **_Solution_**
+Let the magnetic moment of a bar magnet be _pm_ whose magnetic length is _d_ = 2_l_ and pole strength is _qm_. Compute the magnetic moment of the bar magnet when it is cut into two pieces 
+(a) along its length 
+(b) perpendicular to its length.
 
+ **_Solution_**
 (a) a bar magnet cut into two pieces along its length:
+<<<<<<< HEAD
+=======
 
 **S**
 
@@ -499,151 +425,45 @@ Magnetic length of a bar magnet
 
 |------|------|------|
 | 2l |
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
   
+![](3.5.7.jpeg)
 
-When the bar magnet is cut along the axis into two pieces, new magnetic pole strength
-
-is ′ =_q q_
-
-_m m_
-
-2 but magnetic length does not
-
+When the bar magnet is cut along the axis 
+into two pieces, new magnetic pole strength 
+is q′ m= q m/2 but magnetic length does not 
 change. So, the magnetic moment is
+![Alt text](image-18.png)
 
-′ = ′_p q lm m_2
+(b) a bar magnet cut into two pieces 
+perpendicular to the axis:
 
-   _p q_
+![Alt text](image-19.png)
 
-_l q l pm m_
+When the bar magnet is cut perpendicular 
+to the axis into two pieces, magnetic pole strength will not change but magnetic length will be halved. So the magnetic moment is 
 
-_m m_2 2 1
+![Alt text](image-20.png)
 
-2 2 1
+### EXAMPLE 3.3
+Compute the magnetic length of a uniform 
+bar magnet if the geometrical length of the 
+magnet is 12 cm. Mark the positions of 
+magnetic pole points. 
 
-2 ( )
+![Alt text](image-21.png)
 
-In vector notation,  
+**Solution**
 
- _p pm m_ 1 2
+Geometrical length of the bar magnet is 12 cm
 
-(b) a bar magnet cut into two pieces perpendicular to the axis:
+![Alt text](image-22.png)
 
-**S**
+In this figure, the dot implies the pole 
+points.
+![Alt text](image-23.png)
 
-_q_m 2_l_
-
-Cut in to two pieces
-
-_q_m
-
-**N**
-
-s
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N**
-
-When the bar magnet is cut perpendicular to the axis into two pieces, magnetic pole strength will not change but magnetic length will be halved. So the magnetic moment is
-
-       _p q l q l pm m m m_ 1 2
-
-2 1 2
-
-2 1 2
-
-( )
-
-In vector notation,  
-
- _p pm m_ 1 2
-
-**EXAMPLE 3.3**
-
-Compute the magnetic length of a uniform bar magnet if the geometrical length of the magnet is 12 cm. Mark the positions of magnetic pole points.
-
-Magnetic length = 5 6  
-
-**S**
-
-_q_m _l_
-
-_q_m
-
-**N S**
-
-_q_m _l_
-
-_q_m
-
-**N**
-
-**S**
-
-12 cm
-
-**N**
-
-**_Solution_** Geometrical length of the bar magnet is 12 cm
-
-Magnetic length geometrical length cm= × ( ) = × =5 6
-
-5 6
-
-12 10
-
-geometrical length cm× ( ) = × =5 6
-
-12 10
-
-In this figure, the dot implies the pole points.
-
-**S**
-
-12 cm
-
-10 cm1 cm 1 cm
-
-**N**
-
-(i) Pole strength is a scalar quantity with dimension \[MoLToA\]. Its SI unit is N T–1
-
-(newton per tesla) or A m (ampere-metre). (ii) Like positive and negative charges in electrostatics, north pole of a magnet experiences a force in the direction of magnetic field while south pole of a magnet experiences force opposite to the magnetic field. (iii) Pole strength depends on the nature of materials of the magnet, area of cross- section and the state of magnetization. (iv) If a magnet is cut into two equal halves along the length then pole strength is reduced to half. (v) If a magnet is cut into two equal halves perpendicular to the length, then pole strength remains same. (vi) If a magnet is cut into two pieces, we will not get separate north and south poles. Instead, we get two magnets. In other words, isolated monopole does not exist in nature.
-
-**Note**
-
-
-
-
-
-
-| 12 cmSolution S NGeometrical length of the bar magnet is 12 cm()5Magnetic length =× geometricall engthc =×65=× 12 = 10 m6In t his f igure, t he do t im plies t he p ole points. 12 cmS NN S Nq q10 cml 1 cmm m m |
-|------|------|
-
-
-| ql 1 cm |
-
-
-| When the bar magnet is cut along the axisinto two pieces, new magnetic pole strengthis q ′ = q  b ut m agnetic length do es n ot2change. So, the magnetic moment ispq′ = ′ 2l mmq 1 1p  2lq () 2lp 2 2 2 Immn vector notation,   1pp m 2m mm(b) a b ar m agnet c ut in to t wo p ieces perpendicular to the axis:mmCut in to two piecesS Nq q2lm mS N S Nq q q qWhen the bar magnet is cut perpendicularl lm m m mto t he axis into t wo p ieces, magnetic p olestrength will not change but magnetic lengthwill be halved. So the magnetic moment is1 1 1pq  2lq  () 2lp 2 2 2In vector notation,   1pp 2mm mmmm |
-|------|
-
-
-
-
-  
+![Alt text](image-24.png)
 
 **Magnetic field lines**
 
@@ -657,71 +477,44 @@ In this figure, the dot implies the pole points.
 
 **(d) Magnetic flux The number of magnetic field lines**
 
-**crossing any area normally is defined as magnetic flux** _ΦB_ **through the area.** Mathematically, the magnetic flux through a surface of area
-
-
-
-_A_ in a uniform magnetic field
-
-
-
+**crossing any area normally is defined as magnetic flux** _ΦB_ **through the area.** Mathematically, the magnetic flux through a surface of area _A_ in a uniform magnetic field
 _B_ is defined as
 
-_B B A BA B A_   
+![Alt text](image-25.png)
 
- 
+where _θ_ is the angle between _B_ and _A_ as shown in Figure 3.8.
 
-. cos (3.6)
-
-where _θ_ is the angle between 
-
-_B_ and 
-
-_A_ as shown in Figure 3.8.
-
-_θ_
-
-_θ_ = 0 º _θ A_
-
-_B B_
-
-_A_
-
-_B_
-
-_BA_
-
-_A_
-
+<<<<<<< HEAD
+![](3.8.png)
+=======
 ![Magnetic flux](3.8.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.8 Magnetic flux**  
 
 **Special cases**
 
-(a) When 
+(a) When _B_ is normal to the surface i.e., _θ_ \= 0o, the magnetic flux is _ΦB_ = _BA_ (maximum).
 
-_B_ is normal to the surface i.e., _θ_ \= 0o, the magnetic flux is _ΦB_ = _BA_ (maximum).
-
-(b) When 
-
-_B_ is parallel to the surface i.e., _θ_ = 90o, the magnetic flux is _ΦB_ = 0.
+(b) When _B_ is parallel to the surface i.e., _θ_ = 90o, the magnetic flux is _ΦB_ = 0.
 
 Suppose the magnetic field is not uniform over the surface, the equation (3.6) can be written as
 
-Φ_B B A_\= ∫  
-
-.d
+![Alt text](image-26.png)
 
 Magnetic flux is a scalar quantity. The SI unit for magnetic flux is weber, which is denoted by symbol Wb. Dimensional formula for magnetic flux is ML T A2 2 1− −  . The CGS unit of magnetic flux is maxwell.
 
-1 weber = 108 maxwell
-
+![Alt text](image-27.png)
 **The magnetic flux density is defined as the number of magnetic field lines crossing per unit area kept normal to the direction of lines of force.** Its unit is Wb m–2 or tesla (T).
 
 **(e) Uniform magnetic field and Non- uniform magnetic field**
 
-**Uniform magnetic field** Magnetic field is said to be uniform if it
+**Uniform magnetic field** Magnetic field is said to be uniform if it has same magnitude and direction at all the
 
+<<<<<<< HEAD
+![](3.9.png)
+**Figure 3.9 Uniform magnetic field**  
+  points in a given region. Example, locally Earth’s magnetic field is uniform.
+=======
 has same magnitude and direction at all the
 
 ![Uniform magnetic field](3.9.png)
@@ -738,6 +531,7 @@ has same magnitude and direction at all the
   
 
 points in a given region. Example, locally Earth’s magnetic field is uniform.
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
 The magnetic field of Earth has same value over the entire area of your school!
 
@@ -745,42 +539,32 @@ The magnetic field of Earth has same value over the entire area of your school!
 
 if the magnitude or direction or both vary at different points in a region. Example: magnetic field of a bar magnet
 
+<<<<<<< HEAD
+![](3.10.png)
+=======
 ![Non-uniform magnetic field](3.10.png)
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 **Figure 3.10 Non-uniform magnetic field** (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet
-
-(a) (b) (c)
-
-NS
-
-N S
-
-N S
-
-NS
-
-Magnetic field lines
-
-(d)
 
 **EXAMPLE 3.4**
 
-Calculate the magnetic flux coming out from closed surface containing magnetic dipole (say, a bar magnet) as shown in figure.
+Calculate the magnetic flux coming out from closed surface containing magnetic dipole (say, a bar magnet) as shown in figure..
 
-**S N**  
+![](3.10.1.jpeg)  
 
 **_Solution_**
 
 The total flux emanating from the closed surface S enclosing the dipole is zero. So,
 
-Φ_B B A_\= =∫    .d 0
+![Alt text](image-28.png)
 
 Here the integral is taken over closed surface. Since no isolated magnetic pole (called magnetic monopole) exists, this integral is always zero,
 
-  _B A_.d =∫ 0
+![Alt text](image-29.png)
 
 This is similar to Gauss’s law in electrostatics.
 
-## COULOMB’S INVERSE SQUARE LAW OF MAGNETISM
+##3.2 COULOMB’S INVERSE SQUARE LAW OF MAGNETISM
 
 Consider two bar magnets A and B as shown in Figure 3.11. When the north pole of magnet A and the north pole of magnet B or the south pole of magnet A and the south pole of magnet B are brought closer, they repel each other.
 
@@ -789,8 +573,15 @@ On the other hand, when the north pole of magnet A and the south pole of magnet 
 This looks similar to Coulomb’s law for static charges studied in Unit I (opposite charges attract and like charges repel each other). So analogous to Coulomb’s law in electrostatics, we can state Coulomb’s law for magnetism (Figure 3.12) as follows:
 
 
+![](3.11.png)
 
+**Figure 3.11: Magnetic poles behave like 
+electric charges – like poles repel and 
+unlike poles attract**
 
+<<<<<<< HEAD
+**Figure 3.11:** Magnetic poles behave like electric charges – like poles repel and unlike poles attract**The force of attraction or repulsion between two magnetic poles is directly proportional to the product of their pole strengths and inversely proportional to the square of the distance between them.**
+=======
 
 
 | Solution∫The t otal f lux em anating f rom t he closed s urface S en closing t he di pole i s zero. So,  Φ == BA.d 0Here  the  integral  is  taken  over  closed ∫surface. S ince n o i solated m agnetic p ole B(called m agnetic m onopole) exi sts, t his integral is always zero, BA.d = 0This i s simi lar t o Ga uss’s l aw in electrostatics. |
@@ -842,516 +633,121 @@ Magnet B Magnet A
 **N S N S**
 
 **The force of attraction or repulsion between two magnetic poles is directly proportional to the product of their pole strengths and inversely proportional to the square of the distance between them.**
+>>>>>>> 69cc6d398c5d50866a02f0fb7bd63d73e2532e75
 
-Mathematically, we can write
+Mathematically, we can write as
 
-
+![Alt text](image-30.png)
 
-_F q q_
+where _qmA_ and _qmB_ are pole strengths of two poles and _r_ is the distance between two magnetic poles.
 
-_r rm mA B_∝ 2 
+![Alt text](image-31.png)
 
-where _qmA_ and _qmB_
+where _k_ is a proportionality constant whose value depends on the surrounding medium. In SI unit, the value of _k_ for free space is _k_ \= −µ/4π ~~$10^{-7} , where μo is the absolute permeability of free space (air or vacuum) and H stands for henry.             
 
-are pole strengths of two poles and _r_ is the distance between two magnetic poles.
-
-
-
-_F k q q_
-
-_r rm mA B_\= 2  (3.7)
-
-In magnitude, _F k q q_
-
-_r m mA B_\= 2 (3.8)
-
-where _k_ is a proportionality constant whose value depends on the surrounding medium. In SI unit, the value of _k_ for free
-
-space is _k_ \= ≈ − −µ π 
-
-4 10 7 1H m , where μo is the  
-
-absolute permeability of free space (air or vacuum) and H stands for henry.
-
-Magnet A Magnet B **N S N S**
-
-r
-
-_q_mA _q_mB
-
-![Coulomb’s law – force between two magnetic poles](3.12.png "")
+![Coulomb’s law – force between two magnetic poles](3.12.png)
 
 **EXAMPLE 3.5**
 
-The repulsive force between two magnetic poles in air is 9 × 10–3 N. If the two poles are equal in strength and are separated by a distance of 10 cm, calculate the pole strength of each pole.
+The repulsive force between two magnetic poles in air is 9 × 10^{–3} N. If the two poles are equal in strength and are separated by a distance of 10 cm, calculate the pole strength of each pole.
 
 **_Solution_:** The magnitude of the force between two poles is given by
 
-_F k q q_
+![Alt text](image-32.png)
 
-_r m mA B_\= 2
+Given : _F_ = 9 × 10–3 N, _r_ = 10 cm = 10 × 10–2 m Since _qmA_ \= _qmB_ \= _qm_, we have
 
-Given : _F_ = 9 × 10–3 N, _r_ = 10 cm = 10 × 10–2 m
-
-Since _qmA_ \= _qmB_
-
-\= _qm_, we have
-
-9 10 10 10 10
-
-303 7 2
-
-2 2 1× = ×
-
-×( ) ⇒ =− −
-
-−
-
-−_q qm_
-
-_m_ NT
+![Alt text](image-33.png)
 
 ### Magnetic field at a point along the axial line of the magnetic dipole (bar magnet)
 
 Consider a bar magnet NS as shown in Figure 3.13. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength _qm_ and are separated by a distance of 2_l_. The magnetic field at a point C (lies along the axis of the magnet)
 
 
+![](3.13.png)
+**Figure 3.13 Magnetic field at a point along the axial line due to magnetic dipole**
 
-
-
-
-| EXAMPLE 3 . 5The r epulsive f orce b etween t wo m agnetic poles in a ir i s 9 × 10 N. I f t he t wo p oles are e qual in s trength a nd a re s eparated by a di stance  of 10 cm,  calculate t he  pole strength of each pole. –3 Solution :The m agnitude o f t he f orce b etween t wo poles is given byqqFk=rGiven : F = 9 × 10 N, r = 10 cm = 10 × 10 mmmSince q AB = 2 q = q , we havem m m–3 –2A B ()q91×=01 0 × ⇒=q 30 NT10 × 102−−37 m −1−2 2 m |
-|------|
-
-
-
-
-
-  
-
-at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_
-
-\= 1 Am) at C.
+at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_ \= 1 Am) at C.
 
 The magnetic field at C due to the north pole is
 
- _B_
-
-_q r l_
-
-_iN m_\= −
-
-µ π4 2( )
-
- (3.9)
+![Alt text](image-34.png)
 
 where (_r_ – _l_) is the distance between north pole of the bar magnet and unit north pole at C.
 
 The magnetic field at C due to the south pole is
 
- _B_
-
-_q r l_
-
-_iS m_\=− +
-
-µ π4 2( )
-
- (3.10)
+![Alt text](image-35.png)
 
 where (_r_ + _l_) is the distance between south pole of the bar magnet and unit north pole at C.
 
 The net magnetic field due to the magnetic dipole at point C
 
-  
-
-_B B BN S_\= +
-
-**NS O**
-
-_l l_
-
-_2l_
-
-_r – l_
-
-_r_
-
-_r + l_
-
-O is the geometrical center of bar magnet
-
-**Figure 3.13 Magnetic field at a point along th**  
-
-  _B q_
-
-_r l i q_
-
-_r l im m_\=
-
-− + −
-
-+
-
-
-
- 
-
-
-
- 
-
-µ π
-
-µ π4 42 2( ) ( )
-
- 
-
- _B q_
-
-_r l r l im_\=
-
-−( ) − +( )
-
-
-
-
-
-
-
-
-
-
-
-
-
-µ π4
-
-1 1 2 2
-
-
-
- _B r q l_
-
-_r l im_\=
-
-⋅
-
-−( )
-
-
-
-
-
-
-
-
-
-
-
-
-
-µ π 2
-
-4 2
-
-2 2 2
-
-( )  (3.11)
+![Alt text](image-36.png)
+![Alt text](image-37.png)
 
 Since the magnitude of magnetic dipole moment is _p p q lm m m_  2 , the magnetic field at a point C can be written as
-
- _B rp_
-
-_r l iaxial_
-
-_m_\= −( )
-
-
-
-
-
-
-
-
-
-
-
-
-
-µ π4
-
-2 2 2 2
-
- (3.12)
+![Alt text](image-38.png)
 
 If the distance between two poles in a bar magnet is small (looks like short magnet) when compared to the distance between geometrical centre O of bar magnet and the location of point C (_r_ >>_l_),
 
-( )_r l r_2 2 2 4− ≈ (3.13)
+![Alt text](image-39.png)
 
 Therefore, using equation (3.13) in equation (3.12), we get
+![Alt text](image-40.png)
 
-  _B p r_
+where pm = p i m
 
-_i r_
-
-_paxial m_
-
-_m_\= 
-
- 
-
-
-
-  =
-
-µ π
-
-µ π4
-
-2 4
-
-2 3 3  (3.14)
-
-where _pm_ = _p im_  .
-
-C x axis
-
-y axis
-
-_–i –j_
-
-_j i_
-
-_q_mC
-
-_BS BN_ ˆ
-
-ˆ ˆ
-
-ˆ
-
-\= 1 Am_q_mC
-
-e axial line due to magnetic dipole
-
-
-
-
-  
-
-### Magnetic field at a point along the equatorial line due to a magnetic dipole (bar magnet)
+### 3.2.2 Magnetic field at a point along the equatorial line due to a magnetic dipole (bar magnet)
 
 Consider a bar magnet NS as shown in Figure 3.14. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength _qm_ and separated by a distance of 2_l_. The magnetic field at a point C (lies along the equatorial line) at a distance _r_ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole (_qmC_ = 1 A m) at C.
 
+![](3.14.png)
+
 **Figure 3.14 Magnetic field at a point** along the equatorial line due to a magnetic dipole
 
-x axis
+The magnetic field at C due to the north 
+pole is
+![Alt text](image-41.png)
 
-y axis
+The magnetic field at C due to the south 
+pole is
 
-_–i –j_
+![](3.15.png)
 
-_j i_
+**Figure 3.15 Components of magnetic field**
 
-ˆ
+![Alt text](image-42.png)
+where, B q
+r S = mµ/4π
 
-ˆ ˆ
+From equations (3.15) and (3.16), the net 
+magnetic field at point C due to the dipole is B = Bn +Bs 
 
-ˆ
+![Alt text](image-43.png)
 
-C _B_
+In a right angle triangle NOC as shown 
+in Figure 3.14
+![Alt text](image-44.png)
 
-_r_
+Substituting equation (3.18) in equation 
+(3.17), we get
 
- 
-
-
-
-_r' =_ (_r 2 + l 2_)½
-
-_q_mC
-
-_BS_
-
-_BN_
-
-**NS O**_l l_
-
-\= 1 Am_q_mC
-
-The magnetic field at C due to the north pole is
-
-
-
-_B B i B jN N N_\=− +cos sinθ θ  (3.15)
-
-where _B q r_
-
-_r’ r l_
-
-_N m_\= ′
-
-µ π 
-
-4 2
-
-1 2Here = ( + )2 2  
-
-The magnetic field at C due to the south pole is
-
-![Components of magnetic field](3.15.png "")
-
-
-
-
-
-_BN_
-
-_BN cosθ(-i)_
-
-_BS cosθ(-i)_
-
-_BS sinθ(-j)_
-
-_BN sinθ(j)_
-
-
-
-_BS_ 
-
-
-
-_B B i B jS S S_\=− −cos sinθ θ  (3.16)
-
-where, _B q rS_
-
-_m_\= ′
-
-µ π 
-
-4 2
-
-From equations (3.15) and (3.16), the net magnetic field at point C due to the dipole is   
-
-_B B BN S_\= + . 
-
-_B B B iN S_\=− +( )cosθ Since, _B BN S_\=
-
-  _B_
-
-_q r_
-
-_i q_
-
-_r l im m_\=−
-
-′ =−
-
-\+ 2 4
-
-2 42 2 2
-
-µ π
-
-θ µ π
-
-θcos ( )
-
-cos 
-
-(3.17)
-
-In a right angle triangle NOC as shown in Figure 3.14
-
-cos    
-
-  _adjacent_
-
-_hypotenuse l r_
-
-_l_
-
-_r l_2 2 1 2
-
-(3.18)
-
-Substituting equation (3.18) in equation (3.17), we get
-
- _B_
-
-_q l_
-
-_r l im_\=−
-
-×
-
-+
-
-µ π4
-
-2
-
-2 2 3 2
-
-( )
-
-( )
-
- (3.19)
-
-
-
-
-
-
-|  |
-|------|
-
-|  |
-  
+![Alt text](image-45.png)
 
 Since, magnitude of magnetic dipole moment is _p p q lm m m_  2 and substituting in equation (3.19), the magnetic field at a point C is
 
- _B_
-
-_p_
-
-_r l iequatorial_
-
-_m_\=− +
-
-µ π4 2 2
-
-3 2( )
-
- (3.20)
+![Alt text](image-46.png)
 
 If the distance between two poles in a bar magnet is small (looks like short magnet) when compared to the distance between geometrical centre O of bar magnet and the location of point C (_r_ >>_l_ ),
 
-( )_r l r_2 2 3 2 3+ ≈ (3.21)
+![Alt text](image-47.png)
 
-Therefore, using equation (3.21) in equation (3.20), we get 
+Therefore, using equation (3.21) in equation (3.20), we get _B p r_ _iequatorial m_\=−µ π4 3
 
-_B p r_
+Since _p i pm _ =, the magnetic field at equatorial point is given by
 
-_iequatorial m_\=−
-
-µ π4 3
-
-
-
-Since _p i pm m_  =
-
-
-
-, the magnetic field at equatorial point is given by
-
-  _B_
-
-_p requatorial_
-
-_m_   4 3 (3.22)
+![Alt text](image-48.png)
 
 Note that magnitude of _Baxial_ is twice that of magnitude of _Bequatorial_ and the direction of _Baxial_ and _Bequatorial_ are opposite.
 
@@ -1363,257 +759,90 @@ A short bar magnet has a magnetic moment of 0.5 J T –1. Calculate magnitude an
 
 Given magnetic moment = 0.5 J T –1 and distance _r_ \= 0.1 m  
 
-(a) When the point lies on the axial line of the bar magnet, the magnetic field for short magnet is given by 
+(a) When the point lies on the axial line of the bar magnet, the magnetic field for short magnet is given by 
 
-_B p r_
+![Alt text](image-49.png)
 
-_iaxial m_\=
+Hence, the magnitude of the magnetic field along axial is Baxial = 1 × 10–4 T and direction is towards South to North. 
 
-
+(b) When the point lies on the normal bisector (equatorial) line of the bar magnet, the magnetic field for short magnet is given by 
 
- 
-
-
-
- 
-
-µ π4
-
-2 3 
-
-
-
-_B i iaxial_ \= × ×
-
- 
-
-
-
-  = ×
-
-− −10 2 0 5 0 1
-
-1 107 3
-
-4\. ( . )
-
-  T
-
-Hence, the magnitude of the magnetic field along axial is Baxial = 1 × 10–4 T and direction is towards South to North. (b) When the point lies on the normal bisector (equatorial) line of the bar magnet, the magnetic field for short magnet is given by 
-
-_B p r_
-
-_iequatorial m_\=−
-
-µ π4 3
-
-
-
-
-
-_B i iequatorial_ \=− 
-
- 
-
-
-
-  =− ×− −10 0 5
-
-0 1 0 5 107
-
-3 4.
-
-( . ) .  T
+![Alt text](image-50.png)
 
 Hence, the magnitude of the magnetic field along axial is _Bequatorial_ = 0.5 × 10–4 T and direction is towards North to South. Note that magnitude of _Baxial_ is twice that of magnitude of _Bequatorial_ and the direction of _Baxial_ and _Bequatorial_ are opposite.
 
 ## TORQUE ACTING ON A BAR MAGNET IN UNIFORM MAGNETIC FIELD
 
-Consider a magnet of length 2_l_ and pole strength _qm_ kept in a uniform magnetic field
+Consider a magnet of length 2_l_ and pole strength _qm_ kept in a uniform magnetic field _B_ as shown in Figure 3.16. Each pole experiences a force of magnitude _qmB_ but acting in opposite directions. Therefore, the net force exerted on the magnet is zero and hence, there is no translatory motion. These two equal and opposite forces constitute a couple (about midpoint of bar magnet) tend to align the magnet in the direction of the magnetic field _B_.
 
-
+The force experienced by north pole, 
 
-_B_ as shown in Figure 3.16. Each pole experiences a force of magnitude _qmB_ but acting in opposite directions. Therefore, the net force exerted on the magnet is zero and hence, there is no translatory motion. These two equal and opposite forces constitute a couple (about midpoint of bar magnet) tend to align the magnet in the direction of the magnetic field
+![Alt text](image-51.png)
 
-
+The force experienced by south pole, 
 
-_B_.
-
-
-
-
-
-
-| (a) W hen t he p oint lies o n t he axi al lin e of t he b ar m agnet, t he m agnetic f ield f or short magnet is given by B = 4µπ 2rp iHenBi axiacel, t=×h10e m ag 3nim20(.01×tude o).5  f t=×h11e m0agn ietTic field along axial is B = 1 × 10  T and direction −−7 4is toaxiawal rds South to N 3 orth. (b) W hen t he p oint lies o n t he n ormalbisector (e quatorial) line o–4f t he b ar m agnet,axial the magnetic field for short magnet is given byB =− µ p i4π rHenBi eqceuatorial, the m=− a10gni tude o(.m30105. ) f t h=−e m05a. g×n10etic f i ieTld along axi al i s  B = 0.5 × 10  T a nd −−7 4direeqcuatorialtion is towards No 3 rth to South. Note that magnitude of B  is twice that of magnitude o f  B  a nd t he dir e –4ction o f equatorialB  and B  are opposite. axialequatorialaxial equatorial |
-|------|
-
-
-
-
-  
-
-The force experienced by north pole,  
-
-_F q BN m_\= (3.23)
-
-The force experienced by south pole,  
-
-_F q BS m_  (3.24)
+![Alt text](image-52.png)
 
 Adding equations (3.23) and (3.24), we get the net force acting on the dipole as
 
-   
+![Alt text](image-53.png)
 
-_F F FN S_   0
+![Magnetic dipole kept in a uniform magnetic field](3.16.png)
 
-\-_q_mBF =
+**Figure 3.16 Magnetic dipole kept in a uniform magnetic field**
 
-_q_mBF =
+The moment of force or torque experienced by north and south pole about point O is
 
-2_l_
+![Alt text](image-54.png)
 
-τ about O points inwards ⊗
+By using right hand cork screw rule, we conclude that the total torque is pointing into the paper. Since the magnitudes _ON OS l and_ ![Alt text](image-55.png) the magnitude of total torque about point O
 
-2_l_ sin_θ_
-
-**S**
-
-**N**
-
-**N S**
-
-_θ_
-
-_O**p m**_
-
-![Magnetic dipole kept in a uniform magnetic field](3.16.png "")
-
-The moment of force or torque experienced by north and south pole about point O is        τ= × + ×_ON F OS FN S_
-
-       τ= × + × −( )_ON q B OS q Bm m_
-
-By using right hand cork screw rule, we conclude that the total torque is pointing into the paper. Since the magnitudes _ON OS l and_
-
-     
-
-and _ON OS l q B q Bm m_
-
-          , the magnitude of total
-
-torque about point O
-
-     _l q B l q Bm m_sin sin
-
-  2_l q Bm_ sin
-
-  _p Bm_ sin    _q l pm m_2
-
-In vector notation,  
-
-
-
-  _p Bm_ (3.25)  
+![Alt text](image-56.png)
+![Alt text](image-1.png)
 
 ### Potential energy of a bar magnet in a uniform magnetic field
 
+![](3.17.png)
+
 **Figure 3.17: A bar magnet (magnetic dipole) in a uniform magnetic field**
 
-B
+When a bar magnet (magnetic dipole) of dipole moment _pm_ is held at an angle _θ_ with the direction of a uniform magnetic field _B_ as shown in Figure 3.17 the magnitude of the torque acting on the dipole is
 
-2_l_ 2_l_ sin
-
-**S**
-
-**N**
-
-
-
-**_p m_**
-
-When a bar magnet (magnetic dipole) of dipole moment _pm_ is held at an angle _θ_ with the direction of a uniform magnetic field _B_
-
- ,
-
-as shown in Figure 3.17 the magnitude of the torque acting on the dipole is
-
- 
-
-
-
- _B mp B_ sin
+![Alt text](image.png)
 
 If the dipole is rotated through a very small angular displacement _dθ_ against the
+torque τ B at constant angular velocity, then the work done by external torque 
+  ext for this small angular displacement is given by
 
-_q B q Bm m_
+![Alt text](image-58.png)
 
-   
+The bar magnet has to be moved at constant angular velocity, which implies that t_B =t ext
 
-(a) Why a freely suspended bar magnet in your laboratory experiences only
-
-torque (rotational motion) but not any translatory motion even though Earth has non-uniform magnetic field?
-
-It is because Earth’s magnetic field is locally(physics laboratory)uniform. (b) Suppose we keep a freely suspended
-
-bar magnet in a non-uniform magnetic field. What will happen? It will undergo translatory motion
-
-(net force) and rotational motion (torque).
-
-
-
-
-  
-
-torque τ _B_ at constant angular velocity, then the work done by external torque  _ext_  for this small angular displacement is given by
-
-_dW dext_  
-
-The bar magnet has to be moved at constant angular velocity, which implies that   _B ext_
-
-_dW p B dm_ sin 
+![Alt text](image-59.png)
 
 Total work done in rotating the dipole from _θʹ_ to _θ_ is
 
-_W d p B d p Bm m_\= = = −  
-
-′ ′ ′∫ ∫τ θ θ θ θ
-
-θ
-
-θ
-
-θ
-
-θ
-
-θ
-
-θ sin cos
-
-_W p Bm_   (cos cos ) 
+![Alt text](image-60.png)
 
 This work done is stored as potential energy in bar magnet at an angle _θ_ (when it is rotated from _θʹ_ to _θ_) and it can be written as
 
-_U p Bm_   (cos cos )  (3.26)
+![Alt text](image-61.png)
 
 In fact, the equation (3.26) gives the difference in potential energy between the angular positions _θʹ_ and _θ_. If we choose the reference point as _θʹ_ = 90o, so that second term in the equation becomes zero, the equation (3.26) can be written as
 
-_U p Bm_\=− (cos )θ (3.27)
+![Alt text](image-62.png)
 
 The potential energy stored in a bar magnet in a uniform magnetic field is given by
 
-_U p Bm_\= −  i 
-
-(3.28)
+![Alt text](image-63.png)
 
 **Case 1** (i) If _θ_ \= 0o, then
 
-_U p B pm m_\= − = −(cos ) B0
+![Alt text](image-64.png)
 
 (ii) If _θ_ \= 180o, then
 
-_U p B pm m_\= − =(cos ) B180
-
-_U U p Banti parallel imum m_− = =−max co  
+![Alt text](image-65.png)
 
 From the above two results, We infer that the potential energy of the bar magnet is minimum when it is aligned along the external magnetic field and maximum when the bar magnet is aligned anti-parallel to external magnetic field.
 
@@ -1627,55 +856,21 @@ Let _pm_ be the dipole and before switching ON the external magnetic field, t
 
 As soon as external magnetic field is switched ON, the magnetic dipole orient parallel (θ = 0o) to the magnetic field with energy,
 
-_U U p B U p B_
-
-_parallel imum m_
-
-_parallel m_
-
-\= = − = −
-
-min cos0
-
-since cos 0o = 1
+![Alt text](image-66.png)
 
 Otherwise, the magnetic dipole orients anti-parallel (θ = 180o) to the magnetic field with energy,
 
-_U U p B U p Banti parallel imum m anti parallel m_− −= =− ⇒ =max cos180
+![Alt text](image-67.png)
 
-_U p Banti parallel m_−⇒ =s180
+since cos 180o = -1 
 
-since cos 180o = -1
-
-
-
-
-
-
-| dW  |
-|------|------|
-| ext |
-
-
-| EXAMPLE 3 . 7C o n sider a m a g n et ic di p o le w hic ho n sw i t c hin g O N ext er n a l m a g n et icf ie ld o r ien t o n l y in t w o p os si b le wa ysi .e ., o n e a lo n g t h e dir e c t io n o f t h em a g n et ic f ie ld (p a ra l le l t o t h e f ie ld) a n da n o t h er a nt i-p a ra l le l t o m a g n et ic f ie ld .C o mp u t e t h e en er g y f o r t h e p os si b leo r ien t at io n.SolutionLet   be  the  dipole  and b efore sw itching pON  the  external  magnetic f ield,  there is n o o rientation. Th erefore, t he en erg y U = 0. mAs s oon a s ext ernal m agnetic f ield i s switched O N, t he m agnetic di pole o rient parallel (θ = 0 ) t o t he m agnetic f ield w ith energ y, UU == o − pB cos0Up =− Bsince cos 0 = 1paralleli min mummOther wise, t he m agnetic di pole o rients parallelmanti-parallel  (θ =  180 )  to t he  magnetic o field with energ y, UU == o −⇒pB cos180 UpUp = Banti−−paralleli max mumm since cos 180 = -1antianti parallelmo |
-|------|
-
-
-
-
-  
-
-## MAGNETIC PROPERTIES
+**3.4 MAGNETIC PROPERTIES**
 
 All materials are not magnetic in nature. Further, all the magnetic materials will not behave identically. So, in order to differentiate one magnetic material from another, some basic parameters are used. They are:
 
 **(a) Magnetising field The magnetic field which is used to**
 
-**magnetize a sample or specimen is called the magnetising field.** Magnetising field is a vector quantity and is denoted by
-
-
-
-_H_ and its unit is A m–1.
+**magnetize a sample or specimen is called the magnetising field.** Magnetising field is a vector quantity and is denoted by _H_ and its unit is A m–1.
 
 **(b) Magnetic permeability The magnetic permeability is the**
 
@@ -1683,9 +878,7 @@ _H_ and its unit is A m–1.
 
 In free space, the permeability (or absolute permeability) is denoted by µ0 and for any other medium it is denoted by µ.**The relative permeability** µ**r** **is defined as the ratio between absolute permeability of the medium to the permeability of free space.**
 
-  _r_  
-
-(3.29)
+![Alt text](image-68.png)
 
 Relative permeability is a dimensionless number and has no units. For free space (air or vacuum), the relative permeability is unity i.e., _µr_ = 1.  
 
@@ -1695,70 +888,21 @@ Any bulk material (any object of finite size) contains a large number of atoms. 
 
 When such a material is kept in an external magnetic field, atomic dipoles are induced and hence, they will try to align partially or fully along the direction of external field. **The net magnetic moment per unit volume of the material** is known **as intensity of magnetisation.** It is a vector quantity. Mathematically,
 
-_M p V_
+![Alt text](image-69.png)
 
-_m_  
+The SI unit of intensity of magnetisation is ampere metre–1. For a bar magnet of pole strength _qm_, length 2_l_ and area of cross-section _A_, the magnetic moment of the bar magnet is _p q lm m_\= 2 and volume of the bar magnet is _V A l l A_\= =2 2 .The intensity of magnetisation for a bar magnet is
 
-\= = Magneticmoment
-
-Volume (3.30)
-
-The SI unit of intensity of magnetisation is ampere metre–1. For a bar magnet of pole strength _qm_, length 2_l_ and area of cross-section _A_, the magnetic moment of the bar magnet is 
-
- _p q lm m_\= 2 and volume
-
-of the bar magnet is _V A l l A_\= =2 2 
-
-. The
-
-intensity of magnetisation for a bar magnet is
-
-_M q l_
-
-_l A m_
-
- 
-
-\= = Magneticmoment
-
-Volume 2
-
-2 (3.31)
+![Alt text](image-70.png)
 
 In magnitude, equation (3.31) is
 
-_M M q l_
-
-_l A M_
-
-_q A_
-
-_m m_ 
-
-\= = × ×
-
-⇒ = 2
-
-2
-
-
-
-
-  
-
-_Volume_ \= ×( −
-
-200 8 10
+![Alt text](image-71.png)
 
 This means, **for a bar magnet the intensity of magnetisation can be defined as the pole strength per unit area (face area).**
 
-**(d) Magnetic induction or total magnetic field** When a substance like soft iron bar
-
-is placed in a uniform magnetising field 
-
-_H_ , the substance gets magnetised. **The magnetic induction (total magnetic field) inside the specimen**
-
-
+**(d) Magnetic induction or total magnetic field** 
+When a substance like soft iron bar is placed in a uniform magnetising field _H_ , the substance gets magnetised. 
+**The magnetic induction (total magnetic field) inside the specimen**
 
 **_B_ is equal to the sum of the magnetic field**
 
@@ -2002,14 +1146,14 @@ This action is called diamagnetic action and such materials are known as diamagn
 
 
 
-| EXAMPLE 3 . 9Using t he r elation     sho wBH () M ,that  1.Solution mr BH () M ,But from equation (3.36), in vector form, MH Hence,   BH() 1 BH wherem,   () 11   m  mm rmr |
+| EXAMPLE 3 . 9  Using the relation     show BH () M ,that  1.Solution mr BH () M ,But from equation (3.36), in vector form, MH Hence,   BH() 1 BH wherem,   () 11   m  mm rmr |
 |------|
 
 
 
 
 
-
+**Example 3.10**
 
 | Two m aterials X a nd Y a re m agnetised whose va lues of intensity of m agnetisation are 500 A m  and 2000 A m  respectively.If the magnetising field is 1000 A m , then which o ne a mong t hese m aterials c an b e easily magnet–1ized?. –1–1SolutionThe susceptibility of material X is M 500    05.H 1000The susceptibility of material Y is m,XM 2000    2H 1000Since, susceptibility of material Y i s greaterthan tm,Y hat o f m aterial X, w hich implies t hatmaterial Y can be easily magnetized. |
 |------|
@@ -2019,11 +1163,13 @@ This action is called diamagnetic action and such materials are known as diamagn
 
   
 
-The properties of diamagnetic materials are i) Magnetic susceptibility is negative. ii) Relative permeability is slightly less than
+The properties of diamagnetic materials are 
 
-unity. iii) The magnetic field lines are repelled or
+i) Magnetic susceptibility is negative.
 
-expelled by diamagnetic materials when placed in a magnetic field.
+ii) Relative permeability is slightly less than unity. 
+
+iii) The magnetic field lines are repelled or expelled by diamagnetic materials when placed in a magnetic field.
 
 iv) Susceptibility is nearly temperature independent.
 
@@ -2031,13 +1177,7 @@ Superconductors are perfect diamagnetic materials. The expulsion of magnetic
 
 flux from a superconductor during its transition to the superconducting state is known as Meissner effect. (see figure 3.18)
 
-**Note**
-
-**B**
-
-T > Tc T < Tc
-
-**B**
+![](3.18.png)
 
 **Figure 3.18 Meissner effect –** superconductors behave like perfect diamagnetic materials below transition temperature _TC_**.**
 
@@ -2049,24 +1189,36 @@ In the presence of an external magnetic field, the torque acting on the atomic d
 
 When placed in a non-uniform magnetic field, the paramagnetic materials will have a tendency to move from weaker to stronger part of the field. Materials which exhibit weak magnetism in the direction of the applied field are known as paramagnetic materials.
 
-**Magnetic levitated train** Magnetic levitated train
+**Magnetic levitated train** Magnetic levitated train is also called Maglev train. This train floats few centimetres above the guideway because of electromagnet used. Maglev train does not need wheels and also achieve greater speed. The basic mechanism of working of Maglev train involves two sets of magnets. One set is used to repel which makes train to float above the track and another set is used to move the floating train ahead at very great speed. These trains are quieter, smoother and environmental friendly compared conventional trains and have potential for moving with much higher speeds with technology in future.
+![Alt text](image-2.png)
 
-is also called Maglev train. This train floats few centimetres above the guideway because of electromagnet used. Maglev train does not need wheels and also achieve greater speed. The basic mechanism of working of Maglev train involves two sets of magnets. One set is used to repel which makes train to float above the track and another set is used to move the floating train ahead at very great speed. These trains are quieter, smoother and environmental friendly compared conventional trains and have potential for moving with much higher speeds with technology in future.
-
-
-
+In the presence of an external 
+magnetic field, the torque acting on the 
+atomic dipoles will align them in the field 
+direction. As a result, there is net magnetic 
+dipole moment induced in the direction 
+of the applied field. The induced dipole 
+moment is present as long as the external 
+field exists.
+When placed in a non-uniform 
+magnetic field, the paramagnetic 
+materials will have a tendency to move 
+from weaker to stronger part of the field. 
+Materials which exhibit weak magnetism 
+in the direction of the applied field 
+are known as paramagnetic materials.
 
   
 
 Examples: Aluminium, Platinum, Chromium and Oxygen etc.
 
-The properties of paramagnetic materials are: i) Magnetic susceptibility is positive and
+The properties of paramagnetic materials are: 
+i) Magnetic susceptibility is positive and small.
 
-small. ii) Relative permeability is greater than
+ii) Relative permeability is greater than
+unity. 
 
-unity. iii) The magnetic field lines are attracted
-
-into the paramagnetic materials when placed in a magnetic field.
+iii) The magnetic field lines are attracted into the paramagnetic materials when placed in a magnetic field.
 
 iv) Susceptibility is inversely proportional to temperature.
 
@@ -2081,28 +1233,16 @@ vibration will upset the alignment of magnetic dipole moments. Therefore, the ma
 \=
 
 This relation is called Curie’s law. Here _C_ is called Curie constant and temperature _T_ is in kelvin. The graph drawn between magnetic susceptibility and temperature is shown in Figure 3.19, which is a rectangular hyperbola.
+![Curie’s law – susceptibility vs temperature](3.19.png)
 
-χ_m_
-
-_T_O
-
-_m C T_
-
-χ =
-
-![Curie’s law – susceptibility vs temperature  ](3.19.png "")
+**Figure 3.19 Curie’s law – susceptibility vs temperature**
 
 **(c) Ferromagnetic materials** An atom or a molecule in a ferromagnetic
 
 material possesses net magnetic dipole moment as in a paramagnetic material. A ferromagnetic material is made up of smaller regions, called ferromagnetic domains (Figure 3.20). Within each domain, the magnetic moments are spontaneously aligned in a direction. This alignment is caused by strong interaction arising from electron spin which depends on the inter-atomic distance. Each domain has net magnetisation in a direction. However the direction of magnetisation varies from domain to domain and thus net magnetisation of the specimen is zero.
+![Magnetic domains – ferromagnetic materials](3.20.png)
 
-H (a) Domains randomly
-
-aligned (b) Domains aligned with
-
-external eld
-
-![Magnetic domains – ferromagnetic materials](3.20.png "")
+**Figure 3.20 Magnetic domains – ferromagnetic materials**
 
 In the presence of external magnetic field, two processes take place
 
@@ -2113,44 +1253,26 @@ In the presence of external magnetic field, two processes take place
 As a result of these mechanisms, there is a strong net magnetisation of the material in the direction of the applied field (Figure 3.21).
 
 
+![Processes of domain magnetization](3.21.png)
 
+**Figure 3.21 Processes of domain magnetization**
 
-  
-
-Unmagnetized Iron in the absence of a magnetic field.
-
-Magnetized Iron in the presence of a magnetic field.
-
-**H**
-
-![Processes of domain magnetization](3.21.png "")
-
-Magnetism plays interes role in various aspects of life. It
-
-connection with archeological place Keezhadi To find whether any archeological structure e under the surface of a given place, well establi technique called ‘magnetometer surveying’ is u
+Magnetism plays interest role in various aspects of life. It connection with archeological place Keezhadi To find whether any archeological structure e under the surface of a given place, well establi technique called ‘magnetometer surveying’ is used.
 
 In this technique, the variation of the magnetic field in comparison with the neighbouring place is studied. The magnetic field variation is due to the presence of magnetic mineral magnetite and its related minerals present in the archeological structures like buried wall, pottery, bricks, buried tombs, monuments and inhabited sites. Those minerals are either diamagnetic or paramagnetic or ferromagnetic in nature and each type has different range of magnetic susceptibilities.
 
-Indian Institute of Geomagnetism (IIG), M Keezhadi site and found out that there were a From the picture (Figure 1), there was magnet over the particular area (coloured portion). In fa Keezhadi has been revealed through magnetism  
+Indian Institute of Geomagnetism (IIG), Mumbai conducted magnetometer survey on 
+Keezhadi site and found out that there were archeological structures like wall, pottery etc. 
+From the picture (Figure 1), there was magnetic field variation in the range of 10 to 100nT 
+over the particular area (coloured portion). In fact, the existence of massive brick structures at 
+Keezhadi has been revealed through magnetism (Figure 2)
+
+![Alt text](image-3.png)
+![Alt text](image-4.png)
 
 When placed in a non-uniform magnetic field, the ferromagnetic materials will have a strong tendency to move from weaker to stronger part of the field. Materials which exhibit strong magnetism in the direction of applied field are called ferromagnetic materials. Examples: Iron, Nickel and Cobalt.
 
-The properties of ferromagnetic materials are:
-
-ting has too. xists shed sed.
-
-umbai conducted magnetometer survey on rcheological structures like wall, pottery etc. ic field variation in the range of 10 to 100nT ct, the existence of massive brick structures at (Figure 2).
-
-Figure 2
-
-Figure 1
-
-
-
-
-  
-
-i) Magnetic susceptibility is positive and large.
+The properties of ferromagnetic materials are: i) Magnetic susceptibility is positive and large.
 
 ii) Relative permeability is large.
 
@@ -2158,9 +1280,7 @@ iii) The magnetic field lines are strongly attracted into the ferromagnetic mate
 
 iv) Susceptibility is inversely proportional to temperature.
 
-**Curie-Weiss law** As temperature increases, the
-
-ferromagnetism decreases due to the increased thermal agitation of the atomic dipoles. At a particular temperature, ferromagnetic material becomes paramagnetic. This temperature is known as Curie temperature _TC_ . The susceptibility of the material above the Curie temperature is given by
+**Curie-Weiss law** As temperature increases, the ferromagnetism decreases due to the increased thermal agitation of the atomic dipoles. At a particular temperature, ferromagnetic material becomes paramagnetic. This temperature is known as Curie temperature _TC_ . The susceptibility of the material above the Curie temperature is given by
 
 _m C_
 
@@ -2178,33 +1298,13 @@ _C T–Tc_
 
 χ_m_ (_T_ >_Tc_) _\=_
 
-![Curie-Weiss law – susceptibility vs temperature  ](3.22.png "")
+![Curie-Weiss law – susceptibility vs temperature](3.22.png)
 
-**Spin** Like mass and charge for particles, spin is also another
+**Figure 3.22 Curie-Weiss law – susceptibility vs temperature**
 
-important attribute for an elementary particle. Spin is a quantum mechanical phenomenon which is responsible for magnetic properties of the material. Spin in quantum mechanics is entirely different from spin we encounter in classical mechanics. Spin in quantum mechanics does not mean rotation; it is intrinsic angular momentum which does not have classical analogue. For historical reason, the name spin is retained. Spin of a particle takes only positive values but the orientation of the spin vector takes plus or minus values in an external magnetic field. For an
+**Spin** Like mass and charge for particles, spin is also another important attribute for an elementary particle. Spin is a quantum mechanical phenomenon which is responsible for magnetic properties of the material. Spin in quantum mechanics is entirely different from spin we encounter in classical mechanics. Spin in quantum mechanics does not mean rotation; it is intrinsic angular momentum which does not have classical analogue. For historical reason, the name spin is retained. Spin of a particle takes only positive values but the orientation of the spin vector takes plus or minus values in an external magnetic field. For an example, electron has spin _s_ \= 1/2. In the presence of magnetic field, the spin will orient either parallel or anti-parallel to the direction of magnetic field.
 
-example, electron has spin _s_ \= 1 2
-
-. In the
-
-presence of magnetic field, the spin will orient either parallel or anti-parallel to the direction of magnetic field.
-
-Spin is parallel to the magnetic field direction
-
-(Spin up)
-
-Spin is anti-parallel to the magnetic field direction
-
-(Spin down)
-
-B
-
-mS
-
-B
-
-mS
+![Alt text](image-5.png)
 
 This implies that the magnetic spin
 
@@ -2222,43 +1322,10 @@ _s_ \= 1
 
 2 . For photon, spin _s_ = 1.
 
-
-
-
-
-
-
-  
-
-Type of magnetism
-
-Magnetising field is absent (H = 0)
-
-Magnetising present ( _H_
-
-Diamagnetism
-
-(Zero magnetic moment) (Aligned oppo
-
-the field)
-
-Paramagnetism
-
-(Net magnetic moment but random alignment) (Aligned with t
-
-Ferromagnetism
-
-(Net magnetic moment in a domain but they are randomly aligned)
-
-(Aligned with field)
-
+![Alt text](image-6.png)
 ## HYSTERESIS
 
-When a ferromagnetic material is kept in a magnetising field, the material gets magnetised by induction. An important characteristic of ferromagnetic material is that the variation of magnetic induction 
-
-_B_ with magnetising field 
-
-_H_ is not linear.
+When a ferromagnetic material is kept in a magnetising field, the material gets magnetised by induction. An important characteristic of ferromagnetic material is that the variation of magnetic induction _B_ with magnetising field _H_ is not linear.
 
 It means that the ratio _B H_
 
@@ -2266,148 +1333,29 @@ It means that the ratio _B H_
 
 constant. Let us study this behaviour in detail.
 
-A ferromagnetic material (example, Iron) is magnetised slowly by a magnetising field
+A ferromagnetic material (example, Iron) is magnetised slowly by a magnetising field _H_ . The magnetic induction _B_ of the material increases from point A with the magnitude of the magnetising field and then attains a saturation level. This
+![Hysteresis – plot for _B_ vs _H_](3.23.png)
 
-
-
-_H_ . The magnetic induction 
-
-_B_ of the material increases from point A with the magnitude of the magnetising field and then attains a saturation level. This
-
-**Comparison of Types of Magnetis**  
-
-field is ≠ 0 )
-
-Magnetisation of the material Susceptibility Relative
-
-permeability
-
-site to
-
-M
-
-O H
-
-Negative Less than unity
-
-he field)
-
-M
-
-O H
-
-Positive and small
-
-Greater than unity
-
-the
-
-M
-
-O H
-
-Positive and large
-
-Very large
-
-response of the material is depicted by the path AC as shown in Figure 3.23. Saturation magnetization is defined as the maximum point up to which the material can be magnetised by applying the magnetising field.
-
-_B_
-
-_D_
-
-_A K_
-
-_E_
-
-_F_
-
-_G_
-
-_C_
-
-–_B_
-
-_H_ –_H_
-
-Flux density
-
-Retentivity
-
-Coercivity
-
-Magnetising field
-
-Magnetising field in opposits direction
-
-Flux density in opposits direction
-
-Saturation in opposits direction
-
-Saturation
-
-AD-AG: residual magnetism AE-AK: coercivity
-
-![Hysteresis – plot for _B_ vs _H_](3.23.png "")
-
-**m (NOT FOR EXAMINATION)**
-
-
-
-
-
-
-| Type of magnetism |Magnetising eld is absent (H = 0) |H ≠ 0Magnetising eld is present ( ) |Magnetisation of the material |Susceptibility |Relativepermeability |
-|------|------|------|------|------|------|------|------|------|------|
-| Diamagnetism |(Zero magnetic moment) |ed opposite to ld) |MO H |Negative |Less than unity |
-
-
-
-| (Alignthe e |
-| Paramagnetism |(Net magnetic moment but random alignment) |ed with the eld) |MO H |Positive and small |Greater than unity |
-
-
-
-| (Align |
-| Ferromagnetism |(Net magnetic momentin a domain but they arerandomly aligned) |ed with the |MO H |Positive and large |Ver y large |
-
-
-
-| (Aligneld) |
-  
-
-If the magnetising field is now reduced, the magnetic induction also decreases but does not retrace the original path CA. It takes different path CD. When the magnetising field is zero, the magnetic induction is not zero and it has positive value. This implies that some magnetism is left in the specimen even when _H_ = 0. The residual magnetism AD present in the specimen is called remanence or retentivity. **Remanence is defined as the ability of the materials to retain the magnetism in them even after the magnetising field disappears.**
+response of the material is depicted by the path AC as shown in Figure 3.23. Saturation magnetization is defined as the maximum point up to which the material can be magnetised by applying the magnetising field. If the magnetising field is now reduced, the magnetic induction also decreases but does not retrace the original path CA. It takes different path CD. When the magnetising field is zero, the magnetic induction is not zero and it has positive value. This implies that some magnetism is left in the specimen even when _H_ = 0. The residual magnetism AD present in the specimen is called remanence or retentivity. **Remanence is defined as the ability of the materials to retain the magnetism in them even after the magnetising field disappears.**
 
 In order to demagnetise the material, the magnetising field is gradually increased in the reverse direction. Now the magnetic induction decreases along DE and becomes zero at E. The magnetising field AE in the reverse direction is required to bring residual magnetism to zero. **The magnitude of the reverse magnetising field for which the residual magnetism of the material vanishes is called its coercivity.**
 
-Further increase of 
-
-_H_ in the reverse direction causes the magnetic induction to increase along EF until it reaches saturation at F in the reverse direction. If magnetising field is decreased and then increased with direction reversed, the magnetic induction traces the path FGKC. This closed curve ACDEFGKC is called hysteresis loop and it corresponds to one cycle of magnetisation.
+Further increase of _H_ in the reverse direction causes the magnetic induction to increase along EF until it reaches saturation at F in the reverse direction. If magnetising field is decreased and then increased with direction reversed, the magnetic induction traces the path FGKC. This closed curve ACDEFGKC is called hysteresis loop and it corresponds to one cycle of magnetisation.
 
 In the entire cycle, the magnetic induction _B_ lags behind the magnetising field _H_. This **phenomenon of lagging of magnetic induction behind the magnetising field is called hysteresis.** Hysteresis means ‘lagging behind’.  
 
-**Hysteresis loss** During the magnetisation of the
-
-specimen through a cycle, there is loss of energy in the form of heat. This loss is attributed to the rotation and orientation of molecular magnets in various directions. It is found that the energy lost (or dissipated) per unit volume of the material when it is carried through one cycle of magnetisation is equal to the area of the hysteresis loop.
+**Hysteresis loss** During the magnetisation of the specimen through a cycle, there is loss of energy in the form of heat. This loss is attributed to the rotation and orientation of molecular magnets in various directions. It is found that the energy lost (or dissipated) per unit volume of the material when it is carried through one cycle of magnetisation is equal to the area of the hysteresis loop.
 
 **Hard and soft magnetic materials** Based on the shape and size of
 
 the hysteresis loop, ferromagnetic materials are classified as soft magnetic materials with smaller area and hard magnetic materials with larger area. The comparison of the hysteresis loops for two magnetic materials is shown in Figure 3.24. Properties of soft and hard magnetic materials are compared in Table 3.2.
 
-![Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png "")
+![Comparison of two ferromagnetic materials based on hysteresis loop](3.24.png)
+
+**Figure 3.24 Comparison of two ferromagnetic materials based on hysteresis loop**
 
 **Table 3.2 Differences between soft and hard ferromagnetic materials**
-
-| **S.No.** 	| **Properties**                           	| **Soft ferromagnetic materials**                   	| **Hard ferromagnetic materials**     	|
-|-----------	|------------------------------------------	|----------------------------------------------------	|--------------------------------------	|
-| 1         	| When external field is removed           	| Magnetisation disappears                           	| Magnetisation persists               	|
-| 2         	| Area of the loop                         	| Small                                              	| Large                                	|
-| 3         	| Retentivity                              	| Low                                                	| High                                 	|
-| 4         	| Coercivity                               	| Low                                                	| High                                 	|
-| 5         	| Susceptibility and magnetic permeability 	| High                                               	| Low                                  	|
-| 6         	| Hysteresis loss                          	| Less                                               	| More                                 	|
-| 7         	| Uses                                     	| Solenoid core, transformer core and electromagnets 	| Permanent magnets                    	|
-| 8         	| Examples                                 	| Soft iron, Mumetal, Stalloy etc.                   	| Carbon steel, Alnico, Lodestone etc. 	|   
+![Alt text](image-7.png)
 
   
 
@@ -2415,31 +1363,22 @@ the hysteresis loop, ferromagnetic materials are classified as soft magnetic mat
 
 it provides information such as retentivity, coercivity, permeability, susceptibility and energy loss during one cycle of magnetisation for each ferromagnetic material. Therefore, the study of hysteresis loop will help us in selecting proper and suitable material for a given purpose. Some examples:
 
-**i) Permanent magnets:** The materials with high retentivity, high
+**i) Permanent magnets:** The materials with high retentivity, high coercivity and low permeability are suitable for making permanent magnets. 
+Examples: Carbon steel and Alnico
 
-coercivity and low permeability are suitable for making permanent magnets. Examples: Carbon steel and Alnico
-
-**ii) Electromagnets:** The materials with high initial
-
-permeability, low retentivity, low coercivity and thin hysteresis loop with smaller area are preferred to make electromagnets.
+**ii) Electromagnets:** The materials with high initial permeability, low retentivity, low coercivity and thin hysteresis loop with smaller area are preferred to make electromagnets.
 
 Examples: Soft iron and Mumetal (Nickel Iron alloy).
 
-**iii) Core of the transformer:** The materials with high initial
-
-permeability, large magnetic induction and thin hysteresis loop with smaller area are needed to design transformer cores. **Examples:** Soft iron
+**iii) Core of the transformer:** The materials with high initial permeability, large magnetic induction and thin hysteresis loop with smaller area are needed to design transformer cores. 
+**Examples:** Soft iron
 
 **EXAMPLE 3.11**
 
+
 The following figure shows the variation of intensity of magnetisation with the applied magnetic field intensity for three magnetic materials X, Y and Z. Identify the materials X,Y and Z.
 
-_M_
-
-_H_O
-
-Z X
-
-Y
+![Alt text](image-8.png)
 
 **rd ferromagnetic materials**
 
@@ -2506,11 +1445,7 @@ Material Z: Slope is negative and hence, it is a diamagnetic material.
 
 In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor (Figure 3.25). When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory ‘electromagnetism’ which unifies two branches in physics namely, electricity and magnetism.  
 
-![Oersted’s experiment - current carrying wire and deflection of magnetic needle](3.25.png "")
-
-(b) deflection shown by compass needle due to current flowing through the wire.
-
-(a) compass shows no deflection when no current flows through the wire
+![Oersted’s experiment - current carrying wire and deflection of magnetic needle](3.25.png )
 
 ### Magnetic field around a straight current-carrying conductor and circular loop
 
@@ -2518,9 +1453,10 @@ In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noti
 
 near a current-carrying straight conductor, then the needle of the magnetic compass experiences a torque and deflects to align in the direction of the magnetic field at that point. Tracing out the direction shown by magnetic needle , we can draw the magnetic field lines at a distance. For a straight current-carrying conductor, the nature of magnetic field is like concentric circles having their common centre on the axis of the conductor as shown in Figure 3.26 (a).
 
+![](3.26.png)
 
-
-
+**Figure 3.26 Magnetic field lines around 
+straight, long wire carrying current**
 
 
 | SolutionThe slope of M-H graph is a measure of the magnetic susceptibility, which is given byMχ =HMaterial X: S lope i s p ositive a nd l arger valuem . So, it is a ferromagnetic material. Material  Y:  Slope  is  positive  and  lesser value than X. So, it could be a paramagnetic material.Material Z: S lope i s n egative a nd h ence, i t is a diamagnetic material. |
@@ -2533,28 +1469,12 @@ The direction of circular magnetic field lines will be clockwise or anticlockwis
 
 **(b) Circular coil carrying current** Suppose we keep a magnetic compass
 
-near a current carrying circular conductor, then the needle of the magnetic compass experiences a torque and deflects to align in the direction of the magnetic field at that point. We can notice that at the points A and B in the vicinity of the coil, the magnetic field lines are circular. The magnetic field lines are nearly parallel to each other near the centre of the loop, indicating that the field present near the centre of the coil is almost uniform (Figure 3.27).
+near a current carrying circular conductor, then the needle of the magnetic compass experiences a torque and deflects to align in the direction of the magnetic field at that point. We can notice that at the points A and B in the vicinity of the coil, the magnetic field lines are circular. The magnetic field lines are nearly parallel to each other near the centre of the loop, indicating that the field present near the centre of the coil is almost uniform (Figure 3.27).The strength of the magnetic field is increased if either the current in the coil or the number of turns or both are increased. The polarity (north pole or south pole) depends on the direction of current in the loop.
 
-**Figure 3.26 Magnetic field lines around** straight, long wire carrying current
-
-(a) the photograph of magnetic field lines curling around the conductor carrying current
-
-(b) the variation of strength of magnetic field and distance _r_ are shown
-
-_r_  
-
-The strength of the magnetic field is increased if either the current in the coil or the number of turns or both are increased. The polarity (north pole or south pole) depends on the direction of current in the loop.
-
-**Figure 3.27 The magnetic field lines** curling around the circular coil carrying current.
-
-(•)
-
-Circular coil carrying current
-
-A B
-
-Magnetic lines of force
-
+![](3.27.png)
+**Figure 3.27 The magnetic field lines 
+curling around the circular coil carrying 
+current**
 ### Right hand thumb rule
 
 The right hand rule is used to find the direction of magnetic field when the direction of current in a conductor is known.
@@ -2570,35 +1490,11 @@ The Figure 3.28 shows the right hand rule for current carrying straight conducto
 
 ![Right hand rule – straight conductor and circular loop](3.28.png "")
 
-**_I_**
-
-**_B_**
-
-**_I_**
-
-Resulting _B_ field
-
-Current in wire
-
-**B**
-
-**B B**
-
-**_I_**
-
-**_I_**
-
-**_I_**
-
+**Figure 3.28 Right hand rule – straight conductor and circular loop**
 ### Maxwell’s right hand cork screw rule
 
 This rule can also be used to find the direction of the magnetic field around the current-carrying conductor. If we rotate a right-handed screw using a screw driver, then the direction of current is same as the direction in which screw advances and the direction of rotation of the screw gives the direction of the magnetic field. (Figure 3.29)  
-
-**B**
-
-**_I_**
-
-![Maxwell’s right hand cork screw rule](3.29.png "")
+![Maxwell’s right hand cork screw rule](3.29.png)
 
 **EXAMPLE 3.12**
 
@@ -7515,4 +6411,5 @@ rresponding buttons and observe the change in kinetic
 
 
 
+ 
 
