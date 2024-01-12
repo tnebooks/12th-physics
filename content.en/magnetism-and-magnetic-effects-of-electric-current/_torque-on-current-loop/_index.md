@@ -1,9 +1,10 @@
 ---
 title: 'TORQUE ON A CURRENT LOOP'
 weight: 11
-extensions:
-    - katex
 ---
+
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
 
 ## TORQUE ON A CURRENT LOOP
 
@@ -11,7 +12,7 @@ The force on a current carrying wire in a magnetic field is responsible for the 
 
 ### Torque on a current loop placed in a magnetic field
 
-Consider a rectangular loop PQRS carrying current _I_ is placed in a uniform magnetic field \(\mathbf{B}\). Let \(a\) and \(b\) be the length and breadth of the rectangular loop respectively. The unit vector \(\hat{n}\) normal to the plane of the loop makes an angle \(\theta\) with the magnetic field as shown in Figure 3.57.
+Consider a rectangular loop PQRS carrying current \(I\) is placed in a uniform magnetic field \(\mathbf{B}\). Let \(a\) and \(b\) be the length and breadth of the rectangular loop respectively. The unit vector \(\hat{n}\) normal to the plane of the loop makes an angle \(\theta\) with the magnetic field as shown in Figure 3.57.
 
 ![Rectangular coil placed in a magnetic field](../3.57.png "")
 **Figure 3.57 Rectangular coil placed in a magnetic field**
@@ -22,25 +23,35 @@ The magnitude of the force on the arm QR is \(F = I bB \cos(\pi\theta/2)\) and i
 
 Since the forces \(F_{QR}\) and \(F_{SP}\) are equal, opposite, and collinear, they cancel each other. But the forces \(F_{PQ}\) and \(F_{RS}\), which are equal in magnitude and opposite in direction, do not act along the same straight line. Therefore, \(F_{PQ}\) and \(F_{RS}\) constitute a couple which exerts a torque on the loop.
 
-\[\tau_{\text{PQ}} = bIaB \sin(\theta/2)\]
+$$
+\tau_{\text{PQ}} = bIaB \sin(\theta/2)
+$$
 
 and it points in the direction of AB. The magnitude of the torque acting on the arm RS about AB is 
 
-\[\tau_{\text{RS}} = bIaB \sin(\pi/2)\]
+$$
+\tau_{\text{RS}} = bIaB \sin(\pi/2)
+$$
 
 and points also in the same direction AB as shown in Figure 3.58.
 
 The total torque acting on the entire loop about an axis AB is given by
 
-\[\tau = \frac{b}{2} F_{PQ} + \frac{b}{2} F_{RS} = \frac{b}{2} IaB \sin(\theta) + \frac{b}{2} IaB \sin(\theta) = IAB \sin(\theta)\]
+$$
+\tau = \frac{b}{2} F_{PQ} + \frac{b}{2} F_{RS} = \frac{b}{2} IaB \sin(\theta) + \frac{b}{2} IaB \sin(\theta) = IAB \sin(\theta)
+$$
 
 In vector form,
 
-\[\boldsymbol{\tau} = (\mathbf{IA}) \times \mathbf{B}\]
+$$
+\boldsymbol{\tau} = (\mathbf{IA}) \times \mathbf{B}
+$$
 
 The above equation can also be written in terms of the magnetic dipole moment,
 
-\[\boldsymbol{\tau} = \boldsymbol{\mu} \times \mathbf{B}\]
+$$
+\boldsymbol{\tau} = \boldsymbol{\mu} \times \mathbf{B}
+$$
 
 where \(\boldsymbol{\mu} = I\mathbf{A}\).
 
@@ -48,12 +59,16 @@ The tendency of the torque is to rotate the loop so as to align its normal vecto
 
 If there are \(N\) turns in the rectangular loop, then the torque is given by
 
-\[\tau = NIAB \sin(\theta)\]
+$$
+\tau = NIAB \sin(\theta)
+$$
 
 **Special cases:**
 (a) When \(\theta = 90^\circ\) or the plane of the loop is parallel to the magnetic field, the torque on the current loop is maximum.
 
-\[\tau_{\text{max}} = IAB\]
+$$
+\tau_{\text{max}} = IAB
+$$
 
 (b) When \(\theta = 0^\circ/180^\circ\) or the plane of the loop is perpendicular to the magnetic field, the torque on the current loop is zero.
 
@@ -71,26 +86,36 @@ The upper end of the rectangular coil is attached to one end of fine strip of ph
 
 For single turn, the deflecting torque is 
 
-\[\tau = bF = bBIl = (lb) BI = ABI\]
+$$
+\tau = bF = bBIl = (lb) BI = ABI
+$$
 
 since the area of the coil, \(A = lb\). For a coil with \(N\) turns, we get
 
 ![Moving coil galvanometer – its parts](../3.59.png "")
 **Figure 3.59 Moving coil galvanometer – its parts**
 
-\[ \tau = NABI \, \text{(3.69)} \]
+$$
+\tau = NABI \, \text{(3.69)}
+$$
 
 Due to this deflecting torque, the coil gets twisted and restoring torque (also known as restoring couple) is developed. Hence the moment of the restoring torque is proportional to the amount of twist \(\theta\). Thus
 
-\[ \tau = K\theta \, \text{(3.70)} \]
+$$
+\tau = K\theta \, \text{(3.70)}
+$$
 
 where \(K\) is the restoring couple per unit twist.
 
 At equilibrium, the deflecting couple must be equal to the restoring couple. Therefore we get,
 
-\[ NABI = K\theta \]
+$$
+NABI = K\theta
+$$
 
-\[ \Rightarrow I = \frac{K}{NAB} \theta \, \text{(3.71)} \]
+$$
+\Rightarrow I = \frac{K}{NAB} \theta \, \text{(3.71)}
+$$
 
 (or) \( I = G\theta \)
 
@@ -115,25 +140,37 @@ Since the suspended moving coil galvanometer is very sensitive, we have to handl
 
 **Current sensitivity:** It is defined as the deflection produced per unit current flowing through the galvanometer.
 
-\[ I_s = \frac{NAB}{K} \]
+$$
+I_s = \frac{NAB}{K}
+$$
 
-\[ \Rightarrow I_s = \frac{(5)(2 \times 10^{-2})(4 \times 10^{-2})}{4 \times 10^{-9}} = 10^6 \, \text{divisions per ampere} \]
+$$
+\Rightarrow I_s = \frac{(5)(2 \times 10^{-2})(4 \times 10^{-2})}{4 \times 10^{-9}} = 10^6 \, \text{divisions per ampere}
+$$
 
 Since \(1 \, \text{ampere} = 10^6\) microamperes:
 
-\[ I_s = 1 \, \text{div/A} \, \mu\text{A}^{-1} \]
+$$
+I_s = 1 \, \text{div/A} \, \mu\text{A}^{-1}
+$$
 
 Therefore,
 
-\[ I_s = (1 \, \text{div/A} \, \mu\text{A}^{-1})^{-1} = -10^{-6} \, \text{A}^{-1} \, \mu\text{A} \]
+$$
+I_s = (1 \, \text{div/A} \, \mu\text{A}^{-1})^{-1} = -10^{-6} \, \text{A}^{-1} \, \mu\text{A}
+$$
 
 **Voltage sensitivity:** It is defined as the deflection produced per unit voltage applied across the galvanometer.
 
-\[ V_s = \frac{I_s}{\theta} = \frac{1 \, \text{div/A} \, \mu\text{A}^{-1}}{50} = 2 \times 10^{-3} \, \text{div/(V)} \]
+$$
+V_s = \frac{I_s}{\theta} = \frac{1 \, \text{div/A} \, \mu\text{A}^{-1}}{50} = 2 \times 10^{-3} \, \text{div/(V)}
+$$
 
 **Resistance of the galvanometer:**
 
-\[ R = \frac{V}{I_g} = \frac{50 \times 10^{-3}}{10^{-6}} = 5 \times 10^4 \, \Omega \]
+$$
+R = \frac{V}{I_g} = \frac{50 \times 10^{-3}}{10^{-6}} = 5 \times 10^4 \, \Omega
+$$
 
 **Note:** In part (b), the voltage sensitivity is calculated by dividing the current sensitivity by the number of divisions (\(\theta\)) for full-scale deflection.
 
@@ -151,19 +188,27 @@ When the resistance is doubled, then the new resistance is \( R'_g = 2R_g \).
 
 Increase in current sensitivity is given by:
 
-\[ \frac{\Delta I}{I} = \frac{R'_g - R_g}{R_g} \times 100 \]
+$$
+\frac{\Delta I}{I} = \frac{R'_g - R_g}{R_g} \times 100
+$$
 
 Substitute \( R'_g = 2R_g \) into the formula:
 
-\[ \frac{\Delta I}{I} = \frac{2R_g - R_g}{R_g} \times 100 = 50\% \]
+$$
+\frac{\Delta I}{I} = \frac{2R_g - R_g}{R_g} \times 100 = 50\%
+$$
 
 The new voltage sensitivity is:
 
-\[ V' = I \cdot R'_g = I \cdot 2R_g \]
+$$
+V' = I \cdot R'_g = I \cdot 2R_g
+$$
 
 Hence, the percentage change in voltage sensitivity is:
 
-\[ \frac{\Delta V}{V} = \frac{V' - V}{V} \times 100 = \frac{I \cdot 2R_g - I \cdot R_g}{I \cdot R_g} \times 100 = 100\% \]
+$$
+\frac{\Delta V}{V} = \frac{V' - V}{V} \times 100 = \frac{I \cdot 2R_g - I \cdot R_g}{I \cdot R_g} \times 100 = 100\%
+$$
 
 **Conclusion:**
 

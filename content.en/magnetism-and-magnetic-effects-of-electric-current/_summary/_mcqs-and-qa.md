@@ -1,35 +1,37 @@
 ---
 title: 'Multiple Choice Questions and Questions'
 weight: 1
-extensions:
-    - katex
 ---
+
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}} 
+
 **I Multiple Choice Questions**
 
 1. The magnetic field at the center O of the following current loop is
 ![image](mcq1.png)
-   (a) \( \mu_0 \frac{I r}{4} \)
-   (b) \( \mu_0 \frac{I}{4r} \)
-   (c) \( \mu_0 \frac{I r}{2} \)
-   (d) \( \mu_0 \frac{I}{2r} \)
+   (a) $$ \mu_0 \frac{I r}{4} $$
+   (b) $$ \mu_0 \frac{I}{4r} $$
+   (c) $$ \mu_0 \frac{I r}{2} $$
+   (d) $$ \mu_0 \frac{I}{2r} $$
 
 **Answer: (a)**
 
-2. An electron moves in a straight line inside a charged parallel plate capacitor of uniform charge density \( \sigma \). 
+2. An electron moves in a straight line inside a charged parallel plate capacitor of uniform charge density $$ \sigma $$. 
 ![image](mcq2.png)
-The time taken by the electron to cross the parallel plate capacitor undeflected when the plates of the capacitor are kept under a constant magnetic field of induction \( B \) is
-   (a) \( \frac{\varepsilon \sigma \ell}{eBl} \)
-   (b) \( \frac{\varepsilon \sigma}{\ell Be} \)
-   (c) \( \frac{\varepsilon \sigma \ell}{Be} \)
-   (d) \( \frac{\varepsilon \sigma}{\ell Be} \)
+   The time taken by the electron to cross the parallel plate capacitor undeflected when the plates of the capacitor are kept under a constant magnetic field of induction $$ B $$ is
+   (a) $$ \frac{\varepsilon \sigma \ell}{eBl} $$
+   (b) $$ \frac{\varepsilon \sigma}{\ell Be} $$
+   (c) $$ \frac{\varepsilon \sigma \ell}{Be} $$
+   (d) $$ \frac{\varepsilon \sigma}{\ell Be} $$
 
 **Answer: (c)**
 
-3. A particle having mass \( m \) and charge \( q \) accelerated through a potential difference \( V \). Find the force experienced when it is kept under a perpendicular magnetic field \( \mathbf{B} \).
-   (a) \( \frac{2}{3} \frac{qBV}{m} \)
-   (b) \( \frac{qBV}{3m} \)
-   (c) \( \frac{2}{3} \frac{qBV}{2m} \)
-   (d) \( \frac{2}{3} \frac{qBV}{3m} \)
+3. A particle having mass $$ m $$ and charge $$ q $$ accelerated through a potential difference $$ V $$. Find the force experienced when it is kept under a perpendicular magnetic field $$ \mathbf{B} $$.
+   (a) $$ \frac{2}{3} \frac{qBV}{m} $$
+   (b) $$ \frac{qBV}{3m} $$
+   (c) $$ \frac{2}{3} \frac{qBV}{2m} $$
+   (d) $$ \frac{2}{3} \frac{qBV}{3m} $$
 
 **Answer: (c)**
 
@@ -41,7 +43,7 @@ The time taken by the electron to cross the parallel plate capacitor undeflected
 
 **Answer: (b)**
 
-5. A thin insulated wire forms a plane spiral of \( N = 100 \) tight turns carrying a current \( I = 8 \) mA. The radii of inside and outside turns are \( a = 50 \) mm and \( b = 100 \) mm respectively. The magnetic induction at the center of the spiral is
+5. A thin insulated wire forms a plane spiral of $$ N = 100 $$ tight turns carrying a current $$ I = 8 $$ mA. The radii of inside and outside turns are $$ a = 50 $$ mm and $$ b = 100 $$ mm respectively. The magnetic induction at the center of the spiral is
    (a) 5 µT
    (b) 7 µT
    (c) 8 µT
@@ -57,37 +59,37 @@ The time taken by the electron to cross the parallel plate capacitor undeflected
 
 **Answer: (a)**
 
-7. Two identical coils, each with \( N \) turns and radius \( R \), are placed coaxially at a distance \( R \) as shown in the figure. If \( I \) is the current passing through the loops in the same direction, then the magnetic field at a point P at a distance of \( R/2 \) from the center of each coil is
+7. Two identical coils, each with $$ N $$ turns and radius $$ R $$, are placed coaxially at a distance $$ R $$ as shown in the figure. If $$ I $$ is the current passing through the loops in the same direction, then the magnetic field at a point P at a distance of $$ R/2 $$ from the center of each coil is
 ![image](mcq7.png)
-   (a) \( \frac{8}{5} \frac{NIR}{\mu_0} \)
-   (b) \( \frac{5}{3} \frac{2NI}{R\mu_0} \)
-   (c) \( \frac{8}{5} \frac{NIR}{\mu_0} \)
-   (d) \( \frac{4}{5} \frac{NI}{R\mu_0} \)
+   (a) $$ \frac{8}{5} \frac{NIR}{\mu_0} $$
+   (b) $$ \frac{5}{3} \frac{2NI}{R\mu_0} $$
+   (c) $$ \frac{8}{5} \frac{NIR}{\mu_0} $$
+   (d) $$ \frac{4}{5} \frac{NI}{R\mu_0} $$
 
 **Answer: (b)**
 
-8. A wire of length \( l \) carrying a current \( I \) along the \( Y \) direction is kept in a magnetic field given by \( \mathbf{B} = \beta \mathbf{i} + \beta \mathbf{j} + \beta \mathbf{k} \) T. The magnitude of the Lorentz force acting on the wire is
-   (a) \( \frac{2}{3} \beta Il \)
-   (b) \( \frac{1}{3} \beta Il \)
-   (c) \( 2 \beta Il \)
-   (d) \( \frac{1}{2} \beta Il \)
+8. A wire of length $$ l $$ carrying a current $$ I $$ along the $$ Y $$ direction is kept in a magnetic field given by $$ \mathbf{B} = \beta \mathbf{i} + \beta \mathbf{j} + \beta \mathbf{k} $$ T. The magnitude of the Lorentz force acting on the wire is
+   (a) $$ \frac{2}{3} \beta Il $$
+   (b) $$ \frac{1}{3} \beta Il $$
+   (c) $$ 2 \beta Il $$
+   (d) $$ \frac{1}{2} \beta Il $$
 
 **Answer: (a)**
 
-9. A bar magnet of length \( l \) and magnetic moment \( m \) is bent in the form of an arc as shown in the figure. The new magnetic dipole moment will be
+9. A bar magnet of length $$ l $$ and magnetic moment $$ m $$ is bent in the form of an arc as shown in the figure. The new magnetic dipole moment will be
 ![image](mcq9.png)
-   (a) \( m \)
-   (b) \( \frac{3\pi m}{2} \)
-   (c) \( \frac{2\pi m}{3} \)
-   (d) \( \frac{m}{2} \)
+   (a) $$ m $$
+   (b) $$ \frac{3\pi m}{2} $$
+   (c) $$ \frac{2\pi m}{3} $$
+   (d) $$ \frac{m}{2} $$
 
 **Answer: (b)**
 
-10. A non-conducting charged ring carrying a charge of \( q \), mass \( m \), and radius \( r \) is rotated about its axis with constant angular speed \( \omega \). Find the ratio of its magnetic moment with angular momentum is
-   (a) \( \frac{q}{m} \)
-   (b) \( \frac{2q}{m} \)
-   (c) \( \frac{q}{2m} \)
-   (d) \( \frac{q}{4m} \)
+10. A non-conducting charged ring carrying a charge of $$ q $$, mass $$ m $$, and radius $$ r $$ is rotated about its axis with constant angular speed $$ \omega $$. Find the ratio of its magnetic moment with angular momentum is
+   (a) $$ \frac{q}{m} $$
+   (b) $$ \frac{2q}{m} $$
+   (c) $$ \frac{q}{2m} $$
+   (d) $$ \frac{q}{4m} $$
 
 **Answer: (c)**
 
@@ -100,12 +102,12 @@ The time taken by the electron to cross the parallel plate capacitor undeflected
 
 **Answer: (c)**
 
-12. Two short bar magnets have magnetic moments 1.20 Am² and 1.00 Am² respectively. They are kept on a horizontal table parallel to each other with their north poles pointing towards south. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centers is (Horizontal components of Earth’s magnetic induction is \(3.6 \times 10^{-5}\) Wb m⁻²)
+12. Two short bar magnets have magnetic moments 1.20 Am² and 1.00 Am² respectively. They are kept on a horizontal table parallel to each other with their north poles pointing towards south. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centers is (Horizontal components of Earth’s magnetic induction is $$3.6 \times 10^{-5}$$ Wb m⁻²)
 
-   (a) \(3.60 \times 10^{-5}\) Wb m⁻²
-   (b) \(3.5 \times 10^{-5}\) Wb m⁻²
-   (c) \(2.56 \times 10^{-4}\) Wb m⁻²
-   (d) \(2.2 \times 10^{-4}\) Wb m⁻²
+   (a) $$3.60 \times 10^{-5}$$ Wb m⁻²
+   (b) $$3.5 \times 10^{-5}$$ Wb m⁻²
+   (c) $$2.56 \times 10^{-4}$$ Wb m⁻²
+   (d) $$2.2 \times 10^{-4}$$ Wb m⁻²
 
 **Answer: (c)**
 
@@ -117,19 +119,19 @@ The time taken by the electron to cross the parallel plate capacitor undeflected
 
 **Answer: (b)**
 
-14. A flat dielectric disc of radius \( R \) carries an excess charge on its surface. The surface charge density is \( \sigma \). The disc rotates about an axis perpendicular to its plane passing through the center with angular velocity \( \omega \). Find the magnitude of the torque on the disc if it is placed in a uniform magnetic field whose strength is \( B \) which is directed perpendicular to the axis of rotation
-   (a) \( \frac{1}{4} \sigma \omega \pi BR \)
-   (b) \( \frac{1}{2} \sigma \omega \pi BR \)
-   (c) \( \frac{1}{4} \sigma \omega \pi BR \)
-   (d) \( \frac{1}{4} \sigma \omega \pi BR \)
+14. A flat dielectric disc of radius $$ R $$ carries an excess charge on its surface. The surface charge density is $$ \sigma $$. The disc rotates about an axis perpendicular to its plane passing through the center with angular velocity $$ \omega $$. Find the magnitude of the torque on the disc if it is placed in a uniform magnetic field whose strength is $$ B $$ which is directed perpendicular to the axis of rotation
+   (a) $$ \frac{1}{4} \sigma \omega \pi BR $$
+   (b) $$ \frac{1}{2} \sigma \omega \pi BR $$
+   (c) $$ \frac{1}{4} \sigma \omega \pi BR $$
+   (d) $$ \frac{1}{4} \sigma \omega \pi BR $$
 
 **Answer: (d)**
 
-15. The potential energy of magnetic dipole whose dipole moment is \( \vec{p} = -0.5 \vec{i} + 0.4 \vec{j} + 0.2 \vec{k} \) Am kept in uniform magnetic field \( \vec{B} = 0.2 \vec{i} \) T.
-   (a) –0.1 J
-   (b) –0.8 J
-   (c) 0.1 J
-   (d) 0.8 J
+15. The potential energy of magnetic dipole whose dipole moment is $$ \vec{p} = -0.5 \vec{i} + 0.4 \vec{j} + 0.2 \vec{k} $$ Am kept in uniform magnetic field $$ \vec{B} = 0.2 \vec{i} $$ T.
+   (a) $$ –0.1 $$ J
+   (b) $$ –0.8 $$ J
+   (c) $$ 0.1 $$ J
+   (d) $$ 0.8 $$ J
 
 **Answer: (c)**
 
@@ -177,9 +179,11 @@ The time taken by the electron to cross the parallel plate capacitor undeflected
 
 **IV. Numerical Problems**
 
-1. A bar magnet having a magnetic moment \( \vec{m} \) is cut into four pieces, i.e., first cut into two pieces along the axis of the magnet and each piece is further cut along the axis into two pieces. Compute the magnetic moment of each piece.
+1. A bar magnet having a magnetic moment $$ \vec{m} $$ is cut into four pieces, i.e., first cut into two pieces along the axis of the magnet and each piece is further cut along the axis into two pieces. Compute the magnetic moment of each piece.
 ![image](nm2.png)
-   Answer: \( \vec{m}_{\text{new}} = \frac{1}{4} \vec{m} \)
+   Answer: $$ \vec{m}_{\text{new}} = \frac{1}{4} \vec{m} $$
+
+
 
 2. A conductor of linear mass density 0.2 g m⁻1 suspended by two flexible wires as shown in the figure. Suppose the tension in the supporting wires is zero when it is kept inside the magnetic field of 1 T whose direction is into the page. Compute the current inside the conductor and also the direction of the current. Assume \( g = 10 \) m s⁻2.
    Answer: 2 mA
