@@ -1,7 +1,8 @@
 ---
 title: 'Magnetism and magnetic effects of electric current'
-weight: 1
-extensions :
+weight: 3
+extensions:
+
 - katex
 ---   
 
