@@ -528,31 +528,28 @@ and so on.
 
 But note that _E2 – E1_ ≠ 42 _eV_, _E3 – E1_ ≠ 42 _eV_, _E4 – E1_ ≠ 42 _eV_ and _E3 – E2_ ≠ 42 _eV_.
 
-For all possibilities, no difference in energy is an integer multiple of photon energy. Hence, photon A is not absorbed by this atom. But  
+For all possibilities, no difference in energy is an integer multiple of photon energy. Hence, photon A is not absorbed by this atom. But for Photon B, _E4 – E1_ \= 51 _eV_, which means, Photon B can be absorbed by this atom.
 
-for Photon B, _E4 – E1_ \= 51 _eV_, which means, Photon B can be absorbed by this atom.
-
-(d) The radius of Bohr orbit is _r a n zn_ \= ×0
-
-2
+(d) The radius of Bohr orbit is For all possibilities{{<katex>}} r_n = \frac{a_0 × n^2}{z} {{</katex>}}
 
 For _n_ = 1, _z_ = 2
 
- r_1=a_0/2
-   =0.529/2
-   =0.265 Å
+{{<katex display>}} r_1= \frac{a_0}{2} {{</katex>}}
+
+{{<katex display>}} = \frac{0.529}{2} {{</katex>}}
+
+{{<katex display>}}  =0.265 Å {{</katex>}}
+
  
 (e) Since, total energy is equal to negative of kinetic energy in Bohr atom model, we get
 
 {{< katex display >}}  KE_n = -E_n = -\left(-\frac{54.4}{n^2} \, \text{eV}\right)  {{< /katex >}}
-Simplifying, we get:
 
-{{< katex display >}}  KE_n = \frac{54.4}{n^2} \, \text{eV}  {{< /katex >}}
+{{< katex display >}}  = \frac{54.4}{n^2} \, \text{eV}  {{< /katex >}}
 Since, Potential energy is negative of twice the kinetic energy,
 {{< katex display >}}  U_n = -2KE_n = -2\left(\frac{54.4}{n^2} \, \text{eV}\right)  {{< /katex >}}
-Simplifying, we get:
 
-{{< katex display >}}  U_n = -\frac{108.8}{n^2} \, \text{eV}  {{< /katex >}}
+{{< katex display >}}  = -\frac{108.8}{n^2} \, \text{eV}  {{< /katex >}}
 For a ground state, put n =1
 
 Kinetic energy is {{< katex display >}}  KE_1 = 54.4 \, \text{eV}  {{< /katex >}}
@@ -563,28 +560,29 @@ Kinetic energy is {{< katex display >}}  KE_1 = 54.4 \, \text{eV}  {{< /katex >}
 
 Materials in the solid, liquid and gaseous states emit electromagnetic radiations when they are heated up and these emitted radiations usually exhibit continuous spectrum. For example, when white light is examined through a spectrometer, electromagnetic radiations of all wavelengths are observed which is a continuous spectrum.
 
-In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains of a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
-
-This implies that these spectra are unique to each element and can be used to identify the element of the gas (like finger print used to identify a person) – that is, it varies from one gas to another gas. This uniqueness of line spectra of elements made the scientists to determine the composition of stars, sun and also used to identify the unknown compounds.
-
-**Hydrogen spectrum** When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic radiations of certain sharply-defined characteristic wavelength (line spectrum), called hydrogen emission spectrum (Refer unit 5, volume 1 of +2 physics text book). The emission spectrum of hydrogen is shown in Figure 9.22(a).
-
-When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by all occurring light on the atoms, electrons can be excited. Once the
+In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or 
 
 <div align="center">
   <img src="9.21.png"/>
   <p> Figure 9.21 </strong>Spectrum of an atom </p>
 </div>
-electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state with those wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
+
+electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains of a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
+
+This implies that these spectra are unique to each element and can be used to identify the element of the gas (like finger print used to identify a person) – that is, it varies from one gas to another gas. This uniqueness of line spectra of elements made the scientists to determine the composition of stars, sun and also used to identify the unknown compounds.
+
+**Hydrogen spectrum** 
+
+When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic radiations of certain sharply-defined characteristic wavelength (line spectrum), called hydrogen emission spectrum (Refer unit 5, volume 1 of +2 physics text book). The emission spectrum of hydrogen is shown in Figure 9.22(a).
+
+When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by all occurring light on the atoms, electrons can be excited. Once the electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state with those wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
 
 <div align="center">
   <img src="9.22.png"/>
   <p> Figure 9.22 </strong>Hydrogen spectrum (a) emission (b) absorption</p>
 </div>
 
-**Line spectrum**
-
-Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately \(10^-8\)s by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
+Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately {{<katex>}}10^{-8}{{</katex>}}s) by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
 
 The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
 
@@ -593,40 +591,39 @@ The wavelengths of these lines can be calculated with great precision. Further, 
   <p> Figure 9.23 </strong>Spectral series – Lyman, Balmer, Paschen series</p>
 </div>
 
-Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each  
-
-series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculate using equation derived from Bohr atom model.
+Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculate using equation derived from Bohr atom model.
 
 {{< katex display >}}  \frac{1}{\lambda} = R\left(\frac{1}{n^2} - \frac{1}{m^2}\right) = \vec{v}  {{< /katex >}}
  (9.18)
 
-where _v_ **is known as wave number which is inverse of wavelength,** _R_ is known as Rydberg constant whose value is 1.09737 × 107 m-1 and _m_ and _n_ are positive integers such that _m > n_. The various spectral series are discussed below:
+where _v_ **is known as wave number which is inverse of wavelength,** _R_ is known as Rydberg constant whose value is 1.09737 × 10<sup>7</sup> m<sup>-1</sup> and _m_ and _n_ are positive integers such that _m > n_. The various spectral series are discussed below:
 
-**(a) Lyman series** For _n_ \= 1 and _m_ = 2,3,4....... in equation
+**(a) Lyman series** 
 
-(9.18), the wave numbers or wavelength of spectral lines of Lyman series which lies in ultra-violet region,
+For _n_ \= 1 and _m_ = 2,3,4....... in equation (9.18), the wave numbers or wavelength of spectral lines of Lyman series which lies in ultra-violet region,
   
 {{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{1^2} - \frac{1}{m^2}\right)  {{< /katex >}}
-**(b) Balmer series** For _n =_ 2 and _m_ = 3,4,5....... in equation
+**(b) Balmer series** 
 
-(9.18), the wave numbers or wavelength of spectral lines of Balmer series which lies in visible region,
+For _n =_ 2 and _m_ = 3,4,5....... in equation (9.18), the wave numbers or wavelength of spectral lines of Balmer series which lies in visible region,
 
 {{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{2^2} - \frac{1}{m^2}\right)  {{< /katex >}}
-**(c) Paschen series** Put _n =_ 3 and _m_ = 4,5,6....... in equation
+**(c) Paschen series** 
 
-(9.18). The wave number or wavelength of spectral lines of Paschen series which lies in infra-red region (near IR) is
+Put _n =_ 3 and _m_ = 4,5,6....... in equation (9.18). The wave number or wavelength of spectral lines of Paschen series which lies in infra-red region (near IR) is
 
 {{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{3^2} - \frac{1}{m^2}\right)  {{< /katex >}}
-**(d) Brackett series** For _n =_ 4 and _m_ = 5,6,7........ in equation
+**(d) Brackett series** 
 
-(9.18), the wave numbers or wavelength of spectral lines of Brackett series which lies in infra-red region (middle IR),
+For _n =_ 4 and _m_ = 5,6,7........ in equation (9.18), the wave numbers or wavelength of spectral lines of Brackett series which lies in infra-red region (middle IR),
 
 {{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{4^2} - \frac{1}{m^2}\right)  {{< /katex >}}
-**(e) Pfund series** For _n =_ 5 and _m_ = 6,7,8........ in equation
+**(e) Pfund series** 
 
-(9.18), the wave numbers or wavelength of spectral lines of Pfund series which lies in infra-red region (far IR),
+For _n =_ 5 and _m_ = 6,7,8........ in equation (9.18), the wave numbers or wavelength of spectral lines of Pfund series which lies in infra-red region (far IR),
 
 {{< katex display >}}  \overrightarrow{v} = \frac{1}{\lambda} = R\left(\frac{1}{5^2} - \frac{1}{m^2}\right)  {{< /katex >}}
+
 Different spectral series are listed in Table 9.2.
 
 **Table 9.2**
