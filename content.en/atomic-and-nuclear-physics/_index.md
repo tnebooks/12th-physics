@@ -5,18 +5,17 @@ extensions:
     - katex
 ---
 
-# ATOMIC AND NUCLEAR PHYSICS
 
 **U N I T 
-9**       
-**ATOMIC AND NUCLEAR PHYSICS**
+9** 
+# Atomic and Nuclear Physics
 
-**Learning Objectives**
 
-**9** ATOMIC AND NUCLEAR PHYSICS
+All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial
 
 **Learning Objectives**
 **In this unit, the students are exposed to** 
+
 • electric discharge through the gases 
 
 • determination of specific charge of by an electron J.J. Thomson experiment
@@ -47,8 +46,9 @@ extensions:
 
 • qualitative idea of elementary particles
 
-All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial
-  **9.1**  **INTRODUCTION**
+
+
+## INTRODUCTION
 
 <!-- **Atom Apple**
 

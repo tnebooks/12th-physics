@@ -1,12 +1,12 @@
 ---
-title: 'RADIOACTIVITY'
-weight: 9
+title: 'Radioactivity'
+weight: 6
 extensions:
     - katex
 ---
 
 
-**RADIOACTIVITY**
+## RADIOACTIVITY
 
 In the binding energy curve, the stability of the nucleus that has _Z_ > 82 starts to decrease and these nuclei are fairly unstable nuclei. Some of the unstable decay naturally by emitting certain particles to form a stable nucleus. The elements with atomic number _Z > 82_ and isotopes of lighter nuclei belong to the category of naturally-occurring radioactive nuclei. Each of these radioactive nuclei decays to another nucleus by the emission of
 
@@ -25,8 +25,7 @@ In the binding energy curve, the stability of the nucleus that has _Z_ > 82 star
 12_C_ is not. Radioisotopes have a variety of
 
 applications such as carbon dating, cancer treatment, etc. When a radioactive nucleus undergoes decay, the mass of the system decreases – that is, the mass of the initial nucleus before decay is always greater than the sum of the masses of the final nucleus and the emitted particle. This difference in mass ∆_m_ < 0, it appears as the energy according to Einstein’s relation _E m c_\= ∆ 2 .
-
-**9.6**  
+ 
 
 The phenomenon of radioactivity was first discovered by Henri Becquerel in 1896. Later, Marie Curie and her husband Pierre Curie did a series of experiments in detail to understand the phenomenon of radioactivity. In India, Saha Institute of Nuclear Physics (SINP), Kolkata is the premier institute pursuing active research in nuclear physics.
 
@@ -463,15 +462,15 @@ In this decay process, the daughter nucleus 12
 
 4.4 MeV
 
-![Gamma emission](9.25.png "")
+<!-- ![Gamma emission](9.25.png "") -->
+<div align="center">
+  <img src="9.25.png"/>
+  <p> Figure 9.25 </strong>Gamma emission</p>
+</div>
 
 ### Law of radioactive decay
 
 In the previous section, the decay process of a single radioactive nucleus was discussed. In practice, we have bulk material of radioactive sample which contains a vast number of the radioactive nuclei and not all the radioactive nucleus in a sample
-
-
-
-
 
 
 | B 125 |13.4 |
@@ -480,8 +479,6 @@ In the previous section, the decay process of a single radioactive nucleus was d
 | C∗12γ6C 126 |
 
 
-
-  
 
 decay at the same time. It decays over a period of time and this decay is basically a random process. It implies that we cannot predict which nucleus is going to decay or rather we can determine like probabilistic basis (like tossing a coin). We can calculate approximately how many nuclei in a sample are decayed over a period of time.
 
@@ -547,7 +544,8 @@ _N N e t_\= − 0
 
 λ (9.35)
 
-\[Note: _e e x ex y y_ln = ⇒ = \] Equation (9.35) is called the law of
+{{< katex display >}} Note: _e e x ex y y_ln = ⇒ =  {{< /katex >}}
+ Equation (9.35) is called the law of
 
 radioactive decay. Here _N_ denotes the number of undecayed nuclei present at any time _t_ and _N_0 denotes the number of nuclei present initially time _t=0_. Note that the number of atoms is decreasing exponentially over the length of time. This implies that the time taken for all the radioactive nuclei to decay will be infinite. Equation (9.35) is plotted in Figure 9.26.
 
@@ -579,7 +577,12 @@ _N_0/16
 
 2_T_1/2 3_T_1/2 4_T_1/2
 
-![Law of radioactive decay](9.26.png "")
+<!-- ![Law of radioactive decay](9.26.png "") -->
+
+<div align="center">
+  <img src="9.26.png"/>
+  <p> Figure 9.26 </strong>Law of radioactive decay</p>
+</div>
 
 We can also define another useful quantity called activity (R) or decay rate which is the number of nuclei decayed per
 
@@ -733,7 +736,8 @@ The total number of nuclei decaying in the time interval from _t_ to _t t_+∆ i
 
 Mean life
 
-t = \[ \] 0
+t = {{< katex display >}}   {{< /katex >}}
+ 0
 
 0 0
 
@@ -1163,9 +1167,10 @@ To find decay constant, we use the equation
 
 . //_T_ yr s yr
 
-\[ ∴
+{{< katex display >}}  ∴
 
-1yr = 365.25 × 24 × 60 × 60 s = 3.156 × 107 s\]
+1yr = 365.25 × 24 × 60 × 60 s = 3.156 × 107 s {{< /katex >}}
+
 
 λ= × − −3 83 10 12 1. _s_
 
