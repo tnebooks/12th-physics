@@ -13,13 +13,13 @@ An electric cell converts chemical energy into electrical energy to produce elec
 
 Several electric cells connected together form a battery. When a cell or battery is connected to a circuit, electrons flow from the negative terminal to the positive terminal through the circuit. By using chemical reactions, a battery
 
-![ Figure 2.17 Simple electric cell](../2.17.png "")
+![ Figure 2.17 Simple electric cell](2.17.png "")
 
 Figure 2.17 Simple electric cell
 
 produces potential difference across its terminals. This potential difference provides the energy to move the electrons through the circuit. Commercially available electric cells and batteries are shown in Figure 2.18.
 
-![ Figure 2.18 Electric cells and Batteries](../2.18.png "")
+![ Figure 2.18 Electric cells and Batteries](2.18.png "")
 
 Figure 2.18 Electric cells and Batteries
 
@@ -29,7 +29,7 @@ A battery or cell is called a source of electromotive force (emf). The term ‘e
 
 Electromotive force determines the amount of work a battery or cell has to do
 
-![ Figure 2.19 Measuring the emf of a cell ](../2.19.png "")
+![ Figure 2.19 Measuring the emf of a cell ](2.19.png "")
 
 Figure 2.19 Measuring the emf of a cell 
 
@@ -41,7 +41,7 @@ The circuit connections are made as shown in Figure 2.20.
 
 The emf of cell ε is measured by connecting a high resistance voltmeter across it without connecting the external resistance R as shown in Figure 2.20(a). Since the voltmeter draws very little current for deflection, the circuit may be considered as open. Hence the voltmeter reading gives the emf of the cell. Then, external resistance R is included in the circuit and current I is established in the circuit. The potential difference across
 
-![ Figure 2.20 Internal resistance of the cell ](../2.20.png "")
+![ Figure 2.20 Internal resistance of the cell ](2.20.png "")
 
 Figure 2.20 Internal resistance of the cell
 
@@ -105,7 +105,7 @@ Several cells can be connected to form a battery. In series connection, the nega
 
 Suppose _n_ cells, each of emf ε volts and internal resistance _r_ ohms are connected in series with an external resistance _R_ as shown in Figure 2.21
 
-![Figure 2.21 Cells in series](../2.21.png "")
+![Figure 2.21 Cells in series](2.21.png "")
 
 Figure 2.21 Cells in series
 
@@ -137,7 +137,7 @@ Thus series connection of cells is advantageous only when the effective internal
 
 From the given circuit,
 
-![Example 2.18](../example-2.18-image.png "")
+![Example 2.18](example-2.18-image.png "")
 
 Find
 
@@ -172,7 +172,7 @@ In parallel connection all the positive terminals of the cells are connected to 
 
 Let *n* cells be connected in parallel between the points A and B and a resistance *R* is connected between the points A and B as shown in Figure 2.22. Let *ε* be the emf and *r* the internal resistance of each cell.  
 
-![Figure 2.22 Cells in paraller](../2.22.png "")
+![Figure 2.22 Cells in paraller](2.22.png "")
 
 Figure 2.22 Cells in paraller
 
@@ -190,13 +190,13 @@ where \\(I_1\\) is the current due to a single cell \\(\frac{ε}{r}\\) when *R* 
 
 The above equation implies that current due to the whole battery is the same as that due to a single cell. Hence it is advantageous to connect cells in parallel when the external resistance is very small compared to the internal resistance of the cells.
 
-![You Know](../youknow-pg-25.png "")
+![You Know](youknow-pg-25.png "")
 
 **EXAMPLE 2.19**
 
 For the given circuit 
 
-![Example 2.19](../example-2.19-image.png "")
+![Example 2.19](example-2.19-image.png "")
 
 Find 
 

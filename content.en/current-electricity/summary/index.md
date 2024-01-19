@@ -49,3 +49,4 @@ extensions:
 
 - Joule's law of heating is H=V I t (or) \\(H=I^{2} R t\\).
 
+

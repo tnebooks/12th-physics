@@ -15,7 +15,7 @@ Ohm’s law is useful only for simple circuits. For more complex circuits, Kirch
 
 **It states that the algebraic sum of the currents at any junction of a circuit is zero.** It is a statement of law of conservation of electric charge. The charges that enter a given junction in a circuit must leave that junction since charge cannot build up or disappear at a junction. By convention, current entering the junction is taken as positive and current leaving the junction is taken as negative.
 
-![Figure 2.23 Kirchhoff ’s current rule](../2.23.png "")
+![Figure 2.23 Kirchhoff ’s current rule](2.23.png "")
 
 Figure 2.23 Kirchhoff ’s current rule
 
@@ -31,7 +31,7 @@ Applying this law to the junction A in Figure 2.23
 
 For the given circuit find the value of *I*.
 
-![Example 2.20 Image](../example-2.20-image.png)
+![Example 2.20 Image](example-2.20-image.png)
 
 ***Solution***
 
@@ -61,7 +61,7 @@ P 0.6A 0.5A
 
 **It states that in a closed circuit the algebraic sum of the products of the current and resistance of each part of the circuit is equal to the total emf included in the circuit**. This rule follows from the law of conservation of energy for an isolated system (The energy supplied by the emf sources is equal to the sum of the energy delivered to all resistors). The product of current and resistance is taken as positive when the direction of the current is followed. Suppose if the direction of current is opposite to the direction of the loop, then product of current and voltage across the resistor is negative. It is shown in Figure 2.24 (a) and (b). The emf is considered positive when proceeding from the negative to the positive terminal of the cell. It is shown in Figure 2.24 (c) and (d).
 
-![Figure 2.24 Kirchhoff voltage rule](../2.24.png)
+![Figure 2.24 Kirchhoff voltage rule](2.24.png)
 
 Figure 2.24 Kirchhoff voltage rule
 
@@ -71,7 +71,7 @@ Kirchhoff voltage rule has to be applied only when all currents in the circuit r
 
 The following figure shows a complex network of conductors which can be divided into two closed loops like EACE and ABCA. Apply Kirchhoff ’s voltage rule (KVR),
 
-![Example 2.21 image](../example-2.21-image.png)
+![Example 2.21 image](example-2.21-image.png)
 
 ***Solution*** 
 
@@ -87,11 +87,11 @@ and for the closed loop ABCA
 
 Calculate the current that flows in the 1 Ω resistor in the following circuit.
 
-![Example 2.22 image](../example-2.22-image.png)
+![Example 2.22 image](example-2.22-image.png)
 
 ***Solution***
 
-![Example 2.22 image](../example-2.22-sol-image.png)
+![Example 2.22 image](example-2.22-sol-image.png)
 
 We can denote the current that flows from 9V battery as _I1_ and it splits up into *I2* and (*I1 – I2*) at the junction E according Kirchhoff ’s current rule (KCR).
 
@@ -117,7 +117,7 @@ It implies that the current in the 1 ohm resistor flows from F to E.
 
 An important application of Kirchhoff ’s rules is the Wheatstone’s bridge. It is used to compare resistances and in determining the unknown resistance in electrical network. The bridge consists of four resistances _P, Q, R_ and _S_ connected as shown in Figure 2.25. _A_ galvanometer _G_ is connected between the points _B_ and _D_. The battery is connected between the points _A_ and _C_. The current
 
-![Figure 2.25 Wheatstone’s bridge](../2.25.png)
+![Figure 2.25 Wheatstone’s bridge](2.25.png)
 
 Figure 2.25 Wheatstone’s bridge
 
@@ -155,7 +155,7 @@ Dividing equation (2.52) by equation (2.51), we get
 
 This is the condition for bridge balance. Only under this condition, galvanometer shows null deflection. Suppose we know the values of two adjacent resistances, the other two resistances can be compared. If three of the resistances are known, the value of unknown resistance (fourth one) can be determined.
 
-![You Know Image](../youknow-p28.png)
+![You Know Image](youknow-p28.png)
 
 **EXAMPLE 2.23**
 
@@ -175,7 +175,7 @@ What is the value of **x** when the Wheatstone’s network is balanced?
 
 \\(P = 500 Ω, Q = 800 Ω, R = x + 400, S = 1000 Ω\\)
 
-![Example 2.24 Image](../example-2.24-image.png)
+![Example 2.24 Image](example-2.24-image.png)
 
 
 ***Solution*** 
@@ -198,7 +198,7 @@ The meter bridge is another form of Wheatstone’s bridge. It consists of a unif
 
 An unknown resistance *P* is connected in G1 and a standard resistance *P* is connected in G2. A jockey (conducting wire-contact maker) is connected to the terminal E on the central copper strip through a galvanometer (G) and a high resistance (HR). The exact position of jockey on the wire can be read on the scale. A Lechlanche cell and a key (K) are connected between the ends of the bridge wire.
 
-![Meter bridge](../2.26.png "")
+![Meter bridge](2.26.png "")
 
 Figure 2.26 Meter bridge
 
@@ -267,7 +267,7 @@ The principle of the potentiometer is illustrated in Figure 2.27. A steady curre
 
 The battery, key and the potentiometer wire connected in series form the primary circuit. The positive terminal of a primary cell of emf ε is connected to the point C and negative terminal is connected to the jockey through a galvanometer G and a high resistance HR. This forms the secondary circuit.
 
-![Potentiometer](../2.27.png "")
+![Potentiometer](2.27.png "")
 
 Figure 2.27 Potentiometer
 
@@ -281,7 +281,7 @@ Since *I* and *r* are constants, ε ∝ *l*. The emf of the cell is directly pro
 
 To compare the emf of two cells, the circuit connections are made as shown in Figure 2.28. Potentiometer wire CD is connected to a battery *Bt* and a key K in series. This is the primary circuit. The end C of the wire is connected to the terminal M of a DPDT (Double Pole Double Throw) switch and the other terminal N is connected to a jockey through a galvanometer G and a high resistance HR. The cells whose emf ε1 and ε2 to be compared are connected to the terminals M1,N1 and M2,N2 of the DPDT switch. The positive terminals of *Bt*, ε1 and ε2 should be connected to the same end C.
 
-![Comparison of emf of two cells](../2.28.png "")
+![Comparison of emf of two cells](2.28.png "")
 
 Figure 2.28 Comparison of emf of two 
 cells
@@ -302,7 +302,7 @@ By including a rheostat (Rh) in the primary circuit, the experiment can be repea
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key K1. This forms the primary circuit.
 
-![measurement of internal resistance](../2.29.png "")
+![measurement of internal resistance](2.29.png "")
 
 Figure 2.29 measurement of internal 
 resistance

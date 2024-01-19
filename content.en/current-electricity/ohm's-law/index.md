@@ -10,7 +10,7 @@ extensions:
 # OHM’S LAW
 The ohm’s law can be derived from the equation J = σE. Consider a segment of wire of length l and cross sectional area A as shown in Figure 2.7.
 
-![ Current through the conductor](../2.7.png "")
+![ Current through the conductor](2.7.png "")
 
 Figure 2.7 Current through the conductor
 
@@ -42,7 +42,7 @@ From the above equation, **the resistance is the ratio of potential difference a
 
 The SI unit of resistance is ohm \\( (\Omega )\\). From the equation (2.16), we infer that the graph between current versus voltage is straight line with a slope equal to the inverse of resistance *R* of the conductor. It is shown in the Figure 2.8 (a).
 
-![ Current against voltage for (a) a conductor which obeys Ohm’s law and (b) for a non-ohmic device (Diode given in XII physics, unit 9 is an example of a non-ohmic device)](../2.8.png "")
+![ Current against voltage for (a) a conductor which obeys Ohm’s law and (b) for a non-ohmic device (Diode given in XII physics, unit 9 is an example of a non-ohmic device)](2.8.png "")
 
 Figure 2.8 Current against voltage for 
 (a) a conductor which obeys Ohm’s law 
@@ -60,7 +60,7 @@ resistor?
 
 **Solution**
 
-![ Example 2.5 image](../example-2.5-image.png "")
+![ Example 2.5 image](example-2.5-image.png "")
 
 V = 12 V and R = 24 Ω 
 
@@ -151,7 +151,7 @@ increased its resistance.
 
 Consider a rectangular block of metal of height A, width B and length C as shown in the figure.
 
-![ Example 2.7 image](../example-2.7-image.png "")
+![ Example 2.7 image](example-2.7-image.png "")
 
 
 If a potential difference of V is applied between the two faces A and B of the block (figure (a)), the current \\(I_{AB}\\) is observed. Find the current that flows if the same potential difference *V* is applied between the two faces B and C of the block (figure (b)). Give your answers in terms of \\(I_{AB}\\).
@@ -175,7 +175,7 @@ To express \\(I_{BC}\\) interms of \\(I_{AB}\\), we multiply and divide equation
 
 Since C > A, the current \\(I_{BC}>I_{AB} \\)
 
-![you know](../youknow-p10.png "")
+![you know](youknow-p10.png "")
 
 ### Resistors in series and parallel
 
@@ -187,7 +187,7 @@ When two or more resistors are connected end to end, they are said to be in seri
 
 The amount of charge passing through resistor \\(R_1\\) must also pass through resistors \\(R_2\\) and \\(R_3\\) since the charges cannot accumulate nywhere in the circuit. Due to
 
-![ Figure 2.9 Resistors in series](../2.9.png "")
+![ Figure 2.9 Resistors in series](2.9.png "")
 
 Figure 2.9 Resistors in series
 
@@ -211,7 +211,7 @@ When several resistors are connected in series, the total or equivalent resistan
 
 Calculate the equivalent resistance for the circuit which is connected to 24 V battery and also find the potential difference across each resistors in the circuit.
 
-![ Example 2.8 Image](../example-2.8-image.png "")
+![ Example 2.8 Image](example-2.8-image.png "")
 
 ***Solution***
 
@@ -245,7 +245,7 @@ Substituting these values in equation (2.24),we get
 
 \\(I = \frac{V}{R_P} \\)
 
-![ Figure 2.10 Resistors in parallel](../2.10.png "")
+![ Figure 2.10 Resistors in parallel](2.10.png "")
 
 Figure 2.10 Resistors in parallel
 
@@ -261,7 +261,7 @@ House hold appliances are always connected in parallel so that even if one is sw
 
 Calculate the equivalent resistance in the following circuit and also find the values of current \\(I\\), \\(I_1\\) and \\(I_2\\) in the given circuit.
 
-![ Example 2.9 Image](../example-2.9-image.png "")
+![ Example 2.9 Image](example-2.9-image.png "")
 
 **_Solution_**
 
@@ -335,13 +335,13 @@ Substituting in equation (1)
 
 Calculate the equivalent resistance between A and B in the given circuit.
 
-![ Example 2.11 Image](../example-2.11-image-1.png "")
+![ Example 2.11 Image](example-2.11-image-1.png "")
 
 ***Solution***
 
 In all the sections, the resistors are connected in parallel.
 
-![ Example 2.11 Image](../example-2.11-image-2.png "")
+![ Example 2.11 Image](example-2.11-image-2.png "")
 
 Equivalent resistance is given by
 
@@ -351,13 +351,13 @@ Equivalent resistance is given by
 
 The circuit becomes,  
 
-![ Example 2.11 Image](../example-2.11-image-3.png "")
+![ Example 2.11 Image](example-2.11-image-3.png "")
 
 **EXAMPLE 2.12**
 
 Five resistors are connected in the configuration as shown in the figure. Calculate the equivalent resistance between the points a and b.
 
-![ Example 2.12 Image](../example-2.12-image-1.png "")
+![ Example 2.12 Image](example-2.12-image-1.png "")
 
 ***Solution***
 
@@ -365,13 +365,13 @@ Five resistors are connected in the configuration as shown in the figure. Calcul
 
 To find the equivalent resistance between the points a and b, we assume that a current is entering the junction at a. Since all the resistances in the outside loop are the same (1Ω), the current in the branches ac and ad must be equal. Hence the points C and D are at the same potential and no current through 5 Ω. It implies that the 5 Ω has no role in determining the equivalent resistance and it can be removed. So the circuit is simplified as shown in the figure.
 
-![ Example 2.12 Image](../example-2.12-image-2.png "")
+![ Example 2.12 Image](example-2.12-image-2.png "")
 
 The equivalent resistance of the circuit between a and b is \\(R_{eq}\\) = 1 Ω
 
 ### Colour code for Carbon resistors
 
-![Resistances used in laboratory](../2.11.png "")
+![Resistances used in laboratory](2.11.png "")
 
 Figure 2.11 Resistances used in laboratory
 
@@ -412,7 +412,7 @@ hold the resistor with colour
 bands to your left. Resistors 
 never start with a metallic band on the left.
 
-![Resistor colour coding](../2.12.png "")
+![Resistor colour coding](2.12.png "")
 
 Figure 2.12 Resistor colour coding
 
@@ -436,7 +436,7 @@ where \\(\Delta \rho = \rho_T - \rho_0 \\) is change in resistivity for a change
 
 Even though, the resistivity of conductors like metals varies linearly for wide range of temperatures, there also exists a non- linear region at very low temperatures. The resistivity approaches some finite value as the temperature approaches absolute zero as shown in Figure 2.13(b).
 
-![Figure 2.13 (a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](../2.13.png)
+![Figure 2.13 (a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](2.13.png)
 
 Figure 2.13 (a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature
 
@@ -458,7 +458,7 @@ where \\(\Delta R = R_T - R_0\\) is change in resistance during the change in te
 
 For semiconductors, the resistivity decreases with increase in temperature. As the temperature increases, more electrons will be liberated from their atoms (Refer unit 9 for conduction in semi conductors).
 
-![Figure 2.14 Temperature dependence of resistivity for a semiconductor](../2.14.png "")
+![Figure 2.14 Temperature dependence of resistivity for a semiconductor](2.14.png "")
 
 Hence the current increases and therefore the resistivity decreases as shown in Figure 2.14. A semiconductor with a negative temperature coefficient of resistivity is called a thermistor.
 
@@ -493,7 +493,7 @@ ii) inversely proportional to the average time between the collisions (τ).
 
 In metals, if the temperature increases, the average time between the collision (τ) decreases and *n* is independent of temperature. In semiconductors when temperature increases, *n* increases and τ decreases, but increase in *n* is dominant than decreasing τ, so that overall resistivity decreases.
 
-![You Know Image](../youknow-p17.png "")
+![You Know Image](youknow-p17.png "")
 
 **EXAMPLE 2.13**
 

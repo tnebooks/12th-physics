@@ -13,7 +13,7 @@ When a battery is connected between the ends of a conductor, a current is establ
 
 Assume that a positive charge of dQ moves from point a to b through the battery and moves from point c to d through the resistor and back to point a. When the charge
 
-![ Figure 2.15 Energy given by the battery](../2.15.png "")
+![ Figure 2.15 Energy given by the battery](2.15.png "")
 
 Figure 2.15 Energy given by the battery
 
@@ -29,7 +29,7 @@ Since the electric current \\(I=\frac{dQ}{dt}\\),the equation (2.31) can be rewr
 
 This expression gives the power delivered by the battery to any electrical system, where *I* is the current passing through it and *V* is the potential difference across it. The SI unit of electrical power is watt (1W = 1 J \\(s^{-1})\\). Commercially, the electrical bulbs used in houses come with the power and voltage rating of 5W-220V, 30W-220V, 60W-220V etc. (Figure 2.16).
 
-![Figure 2.16 Electrical bulbs with power rating](../2.16.png "")
+![Figure 2.16 Electrical bulbs with power rating](2.16.png "")
 
 Figure 2.16 Electrical bulbs with power rating
 
@@ -41,19 +41,19 @@ Using Ohm’s law, power delivered to the resistance R is expressed in other for
 
 \\(P=IV=\frac{V}{R}V=\frac{V^2}{R} &emsp;&emsp;(2.34) \\)
 
-![You Know](../youknow-p19-image1.png "")
+![You Know](youknow-p19-image1.png "")
 
 The total electrical energy used by any device is obtained by multiplying the power and duration of the time when it is ON. If the power is in watts and the time is in seconds, the energy will be in joules. In practice, electrical energy is measured in kilowatt hour (kWh). 1 kWh is known as 1 unit of electrical energy.
 
 (1 kWh = 1000 Wh = (1000 W) (3600 s) = 3.6 × 10\\(^6\\) J)  
 
-![You Know](../youknow-p19-image2.png "")
+![You Know](youknow-p19-image2.png "")
 
 **EXAMPLE 2.15**
 
 A battery of voltage V is connected to 30 W bulb and 60 W bulb as shown in the figure. (a) Identify brightest bulb (b) which bulb has greater resistance? (c) Suppose the two bulbs are connected in series, which bulb will glow brighter?
 
-![Example 2.15](../example-2.15-image.png "")
+![Example 2.15](example-2.15-image.png "")
 
 ***Solution***
 

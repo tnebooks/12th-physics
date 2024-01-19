@@ -59,7 +59,7 @@ Find the heat energy produced in a resistance of 10 Ω when 5 A current flows th
 
 toaster shown in Figure 2.30 are some of the home appliances that utilize the heating effect of current. In these appliances, the heating elements are made of nichrome, an alloy of nickel and chromium. Nichrome has a high specific resistance and can be heated to very high temperatures without oxidation.
 
-![(a) Electric Iron box, (b) electric heater (c) electric Toaster](../2.30.png "")
+![(a) Electric Iron box, (b) electric heater (c) electric Toaster](2.30.png "")
 
 Figure 2.30 (a) Electric Iron box, (b) electric heater (c) electric Toaster
 
@@ -98,13 +98,13 @@ Fuses as shown in Figure 2.31, are connected in series in a circuit to protect t
 
 The only disadvantage with the above fuses is that once fuse wire is burnt due to excessive current, they need to be replaced. Nowadays in houses, circuit breakers
 
-![ Electric Fuse](../2.31.png "")
+![ Electric Fuse](2.31.png "")
 
 Figure 2.31 Electric Fuse
 
 (trippers) are also used instead of fuses. Whenever there is an excessive current produced due to faulty wire connection, the circuit breaker switch opens. After repairing the faulty connection, we can close the circuit breaker switch. It is shown in the Figure 2.32.
 
-![circuit breakers](../2.32.png "")
+![circuit breakers](2.32.png "")
 
 Figure 2.32 circuit breakers
 
@@ -114,7 +114,7 @@ Furnaces as shown in Figure 2.33 are
 
 used to manufacture a large number of technologically important materials such as steel, silicon carbide, quartz, gallium arsenide, etc. To produce temperatures up to 1500°C, molybdenum-nichrome wire wound on a silica tube is used. Carbon arc furnaces produce temperatures up to 3000°C.
 
-![Electric furnace](../2.33.png "")
+![Electric furnace](2.33.png "")
 
 Figure 2.33 Electric furnace
 
@@ -122,7 +122,7 @@ Figure 2.33 Electric furnace
 
 It consists of a tungsten filament (melting point 33800C) kept inside a glass bulb and heated to incandescence by current. In incandescent electric lamps only about 5% of electrical energy is converted into light and the rest is wasted as heat. Electric discharge lamps, electric welding and electric arc also utilize the heating effect of current as shown in Figure 2.34.
 
-![Electric bulb, electric arc and electric welding](../2.34.png "")
+![Electric bulb, electric arc and electric welding](2.34.png "")
 
 Figure 2.34 Electric bulb, electric arc 
 and electric welding

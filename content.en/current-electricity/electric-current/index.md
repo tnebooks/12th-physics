@@ -13,13 +13,13 @@ Matter is made up of atoms. Each atom consists of a positively charged nucleus w
 
 In the XI Volume 2, unit 6, we studied, that the mass move from higher gravitational potential to lower gravitational potential. Likewise, positive charge flows from region of higher electric potential to region of lower electric potential and negative charge flows from region of lower electric potential to region of higher electric potential. So battery or electric cell simply creates potential difference across the conductor.
 
-![Water current and Electric curren](../2.1.png)
+![Water current and Electric curren](2.1.png)
 
 Figure 2.1 Water current and Electric current
 
 The electric current in a conductor is defined as the rate of flow of charges through a given cross-sectional area A. It is shown in the Figure 2.2
 
-![Charges flow across the area A](../2.2.png)
+![Charges flow across the area A](2.2.png)
 
 Figure 2.2 Charges flow across the area A
 
@@ -53,13 +53,13 @@ The current (rate of flow of charge) in the wire is
 
 ## Conventional Current
 
-![Direction of conventional current and electron flow](../2.3.png "")
+![Direction of conventional current and electron flow](2.3.png "")
 
 Figure 2.3 Direction of conventional current and electron flow
 
 In an electric circuit, arrow heads are used to indicate the direction of flow of current. By convention, this flow in the circuit should be from the positive terminal of the battery to the negative terminal. This current is called the conventional current or simply current and is in the direction in which a positive test charge would move. In typical circuits the charges that flow are actually electrons, from the negative terminal of the battery to the positive terminal. As a result, the flow of electrons and the direction of conventional current point in opposite direction as shown in Figure 2.3. Mathematically, a transfer of positive charge is the same as a transfer of negative charge in the opposite direction.
 
-![you know](../youknow-p4.png "")
+![you know](youknow-p4.png "")
 
 ### Drift velocity
 
@@ -71,7 +71,7 @@ Suppose a potential difference is set across the conductor by connecting a batte
 
 Any material is made up of neutral atoms with equal number of electrons and protons. If the outermost electrons leave the atoms, they become free electrons and are responsible for electric current. The atoms after losing their outer most electrons will have more positive charges and hence are called positive ions. These ions will not move freely within the material like the free electrons. Hence the positive ions will not give rise to current.
 
-![Zig-zag motion and drift velocity](../2.4.png)
+![Zig-zag motion and drift velocity](2.4.png)
 
 Figure 2.4 Zig-zag motion and drift velocity
 
@@ -120,7 +120,7 @@ m = 9.11 × 10\\(^{-19} \\) kg and a = ?
 
 2. We often use the phrases like ‘charging the battery in my mobile’ and ‘my mobile phone battery has no charge’ etc. These sentences are not correct. 
 
-![mobile image](../mobile-image.png)
+![mobile image](mobile-image.png)
 
 When we say ‘battery has no charge’, it means, that the battery has lost ability to provide energy or provide potential difference to the electrons in the circuit. When we say ‘mobile is charging’, it implies that the battery is receiving energy from AC power supply and not electrons. 
 
@@ -128,7 +128,7 @@ When we say ‘battery has no charge’, it means, that the battery has lost abi
 
 Consider a conductor with area of cross section A and let an electric field \\( \vec{E} \\) be applied to it from right to left. Suppose there are *n* electrons per unit volume in the conductor and assume that all the electrons move with the same drift velocity \\( \vec{v_d} \\) as shown in Figure 2.5.
 
-![ Microscopic model of current](../2.5.png)
+![ Microscopic model of current](2.5.png)
 
 Figure 2.5 Microscopic model of current
 
@@ -213,7 +213,7 @@ In general, the current I is defined as the scalar product of the current densit
 
 The current I can be positive or negative depending on the choice of the unit vector normal to the surface area A.
 
-![ Current is a scalar](../2.6.png)
+![ Current is a scalar](2.6.png)
 
 Figure 2.6 Current is a scalar
 

@@ -17,7 +17,7 @@ A thermoelectric device generates voltage when there is a temperature difference
 
 **Seebeck discovered that in a closed circuit consisting of two dissimilar metals, when the junctions are maintained at different temperatures an emf (potential difference) is developed. The current that flows due to the emf developed is called thermoelectric current. The two dissimilar metals connected to form two junctions is known as thermocouple** (Figure 2.35). 
 
-![Seebeck effect (Thermocouple)](../2.35.png)
+![Seebeck effect (Thermocouple)](2.35.png)
 
 Figure 2.35 Seebeck effect (Thermocouple)
 
@@ -37,7 +37,7 @@ The magnitude of the emf developed in a thermocouple depends on (i) the nature o
 
  In 1834, Peltier discovered that **when an electric current is passed through a circuit of a thermocouple, heat is evolved at one junction and absorbed at the other junction. This is known as Peltier effect.**
 
- ![Peltier effect: Cu – Fe thermocouple](../2.36.png)
+ ![Peltier effect: Cu – Fe thermocouple](2.36.png)
 
  Figure 2.36 Peltier effect: Cu – Fe 
 thermocouple
@@ -48,7 +48,7 @@ In the Cu-Fe thermocouple the junctions A and B are maintained at the same tempe
 
  Thomson showed that **if two points in a conductor are at different temperatures, the density of electrons at these points will differ and as a result the potential difference is created between these points. Thomson effect is also reversible.**
 
- ![(a) Positive Thomson effect (b) Negative Thomson effect](../2.37.png)
+ ![(a) Positive Thomson effect (b) Negative Thomson effect](2.37.png)
 
  Figure 2.37 (a) Positive Thomson effect 
 (b) Negative Thomson effect
