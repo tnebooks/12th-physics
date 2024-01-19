@@ -5,13 +5,13 @@ extensions:
     - katex
 ---
 
-## NUCLEI
+# NUCLEI
 
 **Introduction** 
 
 In the previous section, we have discussed about various preliminary atom models, Rutherford’s alpha particle scattering experiment and Bohr atom model. These played a vital role to understand the structure of the atom and the nucleus. In this section, the structure of the nuclei and their properties, classifications are discussed.
 
-### Composition of nucleus
+## Composition of nucleus
 
 Atoms have a nucleus surrounded by electrons. The nucleus contains protons and neutrons. The neutrons are electrically neutral (_q_ \= 0) and the protons have positive charge (_q_ \= + _e_) equal in magnitude to the charge of the electron (_q_ \= –_e_). **The number of protons in the nucleus is called the atomic number** and it is denoted by _Z_**.** The number of neutrons in the nucleus is called neutron number **(_N_)**. **The total number of neutrons and protons in the nucleus is called the mass number** and it is denoted by _A_. Hence, _A_ = _Z_+_N_**.**
 
@@ -25,7 +25,7 @@ nitrogen nucleus is represented by 15_N_7 . It implies that nitrogen nucleus con
 
 Since the nucleus is made up of positively charged protons and electrically neutral neutrons, the overall charge of the nucleus is positive and it has the value +_Ze_. But the atom is electrically neutral which implies that the number of electrons in the atom is equal to the number of protons in the nucleus.
 
-### Isotopes, isobars, and isotones
+## Isotopes, isobars, and isotones
 
 **Isotopes:** 
 
@@ -45,7 +45,7 @@ Since the chemical properties of any atom are determined only by electrons, the 
 
 **Isotones are the atoms of different elements having same number of neutrons**. {{<katex>}}_{5}^{12}\textrm{B}{{</katex>}}and {{<katex>}}_{6}^{13}\textrm{C}{{</katex>}} are examples of isotones with 7 neutrons each.
 
-### Atomic and nuclear masses
+## Atomic and nuclear masses
 
 The mass of nuclei is very small (about 10<sup>-25</sup> kg or less). Therefore, it is more convenient to express it in terms of another unit namely, the _atomic mass unit (u)._ **One atomic mass unit (_u_) is defined as the (1/12)th of the mass of the isotope of carbon {{<katex>}}_{6}^{12}\textrm{C}{{</katex>}}**which is more abundant in naturally occurring isotope of carbon.
 
@@ -68,7 +68,7 @@ The element chlorine is a mixture of 75.77% of {{<katex>}}_{17}^{35}\textrm{Cl}{
   
 In fact, the chemist uses the average atomic mass or simply called chemical atomic weight (35.453 u for chlorine) of an element. So it must be remembered that the atomic mass which is mentioned in the periodic table is basically averaged atomic mass.
 
-### Size and density of the nucleus
+## Size and density of the nucleus
 
 The alpha particle scattering experiment and many other measurements using different methods have been carried out on the nuclei of various atoms. The nuclei of atoms are found to be approximately spherical in shape. It is experimentally found that radius of nuclei for _Z_ > 10, satisfies the following empirical formula
 {{< katex display >}}  R = R_0 A^{1/3}  {{< /katex >}}(9.19)
@@ -118,7 +118,7 @@ It implies that nucleons are extremely tightly packed or compressed state in the
 
 A single teaspoon of nuclear matter would weigh about trillion tons.
 
-### Mass defect and binding energy
+## Mass defect and binding energy
 
 It is experimentally found out that the mass of any nucleus is always less than the sum of the masses of its individual constituent particles. For example, consider the carbon-12 nucleus which is made up of 6 protons and 6 neutrons.
 Mass of 6 neutrons = 6×1.00866 _u_ =6.05196_u_
@@ -191,7 +191,7 @@ _B.E = 0.03043× 931MeV = 28.33MeV_
 
 The binding energy of the {{<katex>}} ^{4}_2{He}{{</katex>}} nucleus is 28.33 MeV.
 
-### Binding energy curve
+## Binding energy curve
 
 In the previous section, the origin of the binding energy is discussed. Now we can find the average binding energy per nucleon _BE_ . It is given by
 

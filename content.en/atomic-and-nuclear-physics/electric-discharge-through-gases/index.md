@@ -3,7 +3,7 @@ title: 'Electric Discharge Through Gases'
 weight: 2
 ---
 
-## ELECTRIC DISCHARGE THROUGH GASES
+# ELECTRIC DISCHARGE THROUGH GASES
 Gases at normal atmospheric pressure are poor conductors of electricity because they do not have free electrons for conduction.But by special arrangement, one can make a gas to conduct electricity.
 
 
@@ -32,7 +32,7 @@ When the pressure reaches to around 0.01 mm of Hg, positive column disappears. A
 (5) The speed of cathode rays is up to{{<katex>}}(1/10)^{th}{{</katex>}} of the speed of light.
 
 
-### Determination of specific charge (e/m) of an electron – Thomson’s experiment
+## Determination of specific charge (e/m) of an electron – Thomson’s experiment
 
 Thomson’s experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson   made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
 
@@ -149,7 +149,7 @@ The specific charge is independent of
 (b) nature of the electrodes
 
 
-### Determination of charge of an electron – Millikan’s oil drop experiment
+## Determination of charge of an electron – Millikan’s oil drop experiment
 
 Millikan’s oil drop experiment is another important experiment in modern physics which is used to determine one of the fundamental constants of nature known as charge of an electron (Figure 9.6 (a)).
 

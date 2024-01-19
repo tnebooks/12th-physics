@@ -5,7 +5,7 @@ extensions:
     - katex
 ---
 
-## NUCLEAR FISSION
+# NUCLEAR FISSION
 
 In 1939, German scientists Otto Hahn and F. Strassman discovered that when uranium nucleus is bombarded with a slow neutron, it breaks up into two smaller nuclei of comparable masses with the release of energy. **The process of breaking up of the nucleus of a heavier atom into two smaller nuclei with the release of a large amount of energy is called nuclear fission**. The fission is accompanied by the release of neutrons. The energy that is released in the nuclear fission is of many orders of magnitude greater than the energy released in chemical reactions.
 
@@ -116,7 +116,7 @@ Usually cadmium or boron acts as control rod material and these rods are inserte
 
 **Shielding:** For a protection against harmful radiations, the nuclear reactor is surrounded by a concrete wall of thickness of about 2 to 2.5 m.
 
-**Cooling system:**The cooling system removes the heat generated in the reactor core. Ordinary water, heavy water and liquid sodium are used as coolant since they have very high specific heat capacity and have large boiling point under high pressure. This coolant passes through the fuel block and carries away the heat to the steam generator through heat exchanger as shown in Figure 9.29(a) and (b). The steam runs the turbines which produces electricity in power reactors.
+**Cooling system:** The cooling system removes the heat generated in the reactor core. Ordinary water, heavy water and liquid sodium are used as coolant since they have very high specific heat capacity and have large boiling point under high pressure. This coolant passes through the fuel block and carries away the heat to the steam generator through heat exchanger as shown in Figure 9.29(a) and (b). The steam runs the turbines which produces electricity in power reactors.
 
 
 **Note**

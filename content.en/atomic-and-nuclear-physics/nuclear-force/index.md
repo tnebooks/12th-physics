@@ -5,21 +5,21 @@ extensions:
     - katex
 ---
 
-## NUCLEAR FORCE
+# NUCLEAR FORCE
 
 Nucleus of the atoms contains protons and neutrons. From electrostatics, we learnt that like charges repel each other. In the nucleus, since the protons are separated by a distance of about a few fermi (10^-15*m*), they must exert on each other a very strong repulsive force.
 
 For example, the electrostatic repulsive force between two protons separated by a distance 10^-15 *m*
 
-{{katex display}} 
-formula 1
-{{/katex}}
+{{<katex display>}} 
+f = k  \frac{{q^2}}{{r^2}} = 9 \times 10^9  \left(\frac{{1.6 \times 10^{-19}}}{{10^{-15}}}\right)^2 \approx 230N
+{{</katex>}}
 
 The acceleration experienced by a proton due to the force of 230 N is
 
-{{katex display}} 
-formula 2
-{{/katex}}
+{{<katex display>}} 
+a = \frac{F}{m} = \frac{230 \, \text{N}}{1.67 \times 10^{-27} \, \text{kg}} \approx 1.4 \times 10^{29} \, \text{m/s}^2
+{{</katex>}}
 
 This is nearly 10^28 times greater than the acceleration due to gravity. So if the protons in the nucleus experience only the electrostatic force, then the nucleus would fly apart in an instant. Then how the protons are held together in the nucleus?
 

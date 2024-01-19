@@ -5,7 +5,7 @@ extensions:
     - katex
 ---
 
-## NUCLEAR FUSION
+# NUCLEAR FUSION
 
 **When two or more light nuclei (_A_<20) combine to form a heavier nucleus, then it is called nuclear fusion**. In the nuclear fusion, the mass of the resultant nucleus is less than the sum of the masses of original light nuclei. The mass difference appears as energy. The nuclear fusion never occurs at room temperature unlike nuclear fission. It is because when two light nuclei come closer to combine, they is strongly repelled by the coulomb repulsive force.
 
