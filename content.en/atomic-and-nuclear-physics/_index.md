@@ -1,10 +1,9 @@
 ---
 title: 'Atomic and Nuclear Physics'
-weight: 9
+weight: 8
 extensions:
     - katex
 ---
-
 
 **UNIT 9**
 # ATOMIC AND NUCLEAR PHYSICS
@@ -50,10 +49,11 @@ extensions:
 
 ## INTRODUCTION
 
-<div align="center">
-  <img src="9.1.png"/>
-  <p> Figure 9.1  </strong>Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth</p>
-</div>
+
+![fig 9.1](9.1.png "") 
+**Figure 9.1 Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth**
+
+
 
 In earlier classes, we have studied that anything which occupies space is called matter. Matter can be classified into solids, liquids and gases. In our daily life, we use water for drinking, petrol for vehicles, we inhale oxygen, stainless steel vessels for cooking, etc. Experiences tell us that behaviour of one material is not the same as that of another, which means that the physical and chemical properties are different for different materials.In order to understand this, we need to know the fundamental constituents of materials.
 

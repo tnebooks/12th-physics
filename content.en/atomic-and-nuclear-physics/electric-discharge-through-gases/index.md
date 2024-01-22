@@ -1,6 +1,6 @@
 ---
 title: 'Electric Discharge Through Gases'
-weight: 2
+weight: 1
 ---
 
 # ELECTRIC DISCHARGE THROUGH GASES
@@ -9,10 +9,8 @@ Gases at normal atmospheric pressure are poor conductors of electricity because 
 
 A simple and convenient device used to study the conduction of electricity through gases is known as gas discharge tube. The arrangement of discharge tube is shown in Figure 9.2. It consists of a long closed glass tube (of length nearly 50 cm and diameter of 4 cm) inside of which a gas in pure form is filled usually. The small opening in the tube is connected to a high vacuum pump and a low-pressure gauge. This tube is fitted with two metallic plates known as electrodes which are connected to secondary of an induction coil. The electrode connected to positive of secondary is known as anode and the electrode to the negative of the secondary is cathode. The potential of secondary is maintained at about 50 kV.
 
-<div align="center">
-  <img src="9.2.png"/>
-  <p> Figure 9.2  </strong>Discharge tube (a) real picture (b) schematic diagram</p>
-</div>
+![fig 9.2](9.2.png "") 
+**Figure 9.1 Discharge tube (a) real picture (b) schematic diagram**
  
 
 Suppose the pressure of the gas in discharge tube is reduced to around 110 mm of Hg using vacuum pump, it is observed that no discharge takes place. When the pressure is kept near 100 mm of Hg, the discharge of electricity through the tube takes place. Consequently, irregular streaks of light appear and also crackling sound is produced. When the pressure is reduced to the order of 10 mm of Hg, a luminous column known as positive column is formed from anode to cathode.
@@ -36,19 +34,15 @@ When the pressure reaches to around 0.01 mm of Hg, positive column disappears. A
 
 Thomson’s experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson   made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
 
-<div align="center">
-  <img src="9.3.png"/>
-  <p> Figure 9.3 </strong>Arrangement of J.J. Thomson experiment to determine the specific charge of an electron</p>
-</div>
+![fig 9.3](9.3.png "") 
+**Figure 9.1 Arrangement of J.J. Thomson experiment to determine the specific charge of an electron**
 
 The arrangement of J. J. Thomson’s experiment is shown in Figure 9.3. A highly evacuated discharge tube is used and cathode rays (electron beam) produced at cathode are attracted towards anode disc A. Anode disc is provided with pin hole in order to allow only a narrow beam of cathode rays. These cathode rays are now allowed to pass through the parallel metal plates which are maintained at high voltage as shown in Figure 9.3. Further, the gas discharge tube is kept in between pole pieces of magnet such that both electric and magnetic fields are acting perpendicular to each other. When the cathode rays strike the screen, they produce scintillation and hence bright spot is observed. This is achieved by coating the screen with zinc sulphide.
 
 **(i) Determination of velocity of cathode rays**
 
-<div align="center">
-  <img src="9.4.png"/>
-  <p> Figure 9.4 </strong>Electric force balancing the magnetic force – the path of electron beam is a straight line</p>
-</div>
+![fig 9.4](9.4.png "") 
+**Figure 9.1 Electric force balancing the magnetic force – the path of electron beam is a straight line**
 
 For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let _e_ be the charge of the cathode rays, then
 
@@ -97,10 +91,8 @@ Substituting equation (9.4) in equation (9.3),
 {{< katex display >}} a_e = \frac{1}{m}eE = \frac{e}{m} E 
 {{< /katex >}}
 
-<div align="center">
-  <img src="9.5.png"/>
-  <p> Figure 9.5 </strong>Deviation of path by applying uniform electric field</p>
-</div>
+![fig 9.5](9.5.png "") 
+**Figure 9.1 Deviation of path by applying uniform electric field**
 
 Let _y_ be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be _u_ = 0 before entering the parallel electric plates. Let _t_ be the time taken by the cathode rays to travel in electric field. Let _l_ be the length of one of the plates, then the time taken is
 
@@ -157,10 +149,8 @@ By adjusting electric field suitably, the motion of oil drop inside the chamber 
 
 The experimental arrangement is shown in Figure 9.6 (b). The apparatus consists of two horizontal circular metal plates A and B each with diameter around 20 cm and are separated by a small distance 1.5 cm. These two parallel 
 
-<div align="center">
-  <img src="9.6.png"/>
-  <p> Figure 9.6 </strong>Millikan’s experiment (a) real picture and schematic picture (b) Side view picture</p>
-</div>
+![fig 9.6](9.6.png "") 
+**Figure 9.1 Millikan’s experiment (a) real picture and schematic picture (b) Side view picture**
 
 plates are enclosed in a chamber with glass walls. Further, plates A and B are maintained at high potential difference around 10 _kV_ such that electric field acts vertically downward. A small hole is made at the centre of the upper plate A and an atomizer is kept exactly above the hole to spray the liquid. When a fine droplet of the highly viscous non volatile liquid (like glycerine) is sprayed using atomizer, they fall freely downward through the hole of the top plate only under the influence of gravity.
 
@@ -176,10 +166,8 @@ Let _m_ be the mass of the oil drop and _q_ be its charge. Then the forces actin
 
 (d) viscous force _F<sub>v</sub>_
 
-<div align="center">
-  <img src="9.7.png"/>
-  <p> Figure 9.7 </strong>Free body diagram of the oil drop – (a) without electric field (b) with electric field</p>
-</div>
+![fig 9.7](9.7.png "") 
+**Figure 9.1 Free body diagram of the oil drop – (a) without electric field (b) with electric field**
 
 **(a) Determination of radius of the droplet**
 

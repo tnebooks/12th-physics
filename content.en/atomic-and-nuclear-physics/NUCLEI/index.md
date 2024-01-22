@@ -1,6 +1,6 @@
 ---
 title: 'Nuclei'
-weight: 4
+weight: 3
 extensions:
     - katex
 ---
@@ -97,9 +97,7 @@ From equation (9.19), the radius of the nuclecus, {{< katex >}}  R = R_0 A^{1/3}
 {{< katex display >}}  V = \frac{4}{3} \pi R^3 = \frac{4}{3} \pi R_0^3 A  {{< /katex >}}
 By ignoring the mass difference between the proton and neutron, the total mass of the nucleus having mass number _A_ is equal to _A.m_ where _m_ is mass of the proton and is equal to 1.6726 x 10<sup>-27</sup> kg.
 
-<div align="center">
-  <img src="9.31.png"/>
-</div>
+![fig 9.31](9.31.png "") 
 
 Nuclear density,
 
@@ -201,10 +199,8 @@ In the previous section, the origin of the binding energy is discussed. Now we c
 
 **The average binding energy per nucleon is the average energy required to separate single nucleon from the particular nucleus**. When _BE_ is plotted against A of all known nuclei. We get _BE_ aveage curve as shown in Figure 9.24. 
 
-<div align="center">
-  <img src="9.24.png"/>
-  <p> Figure 9.24 </strong>Avg. binding energy of the nucleons</p>
-</div>
+![fig 9.24](9.24.png "") 
+**Figure 9.24 Avg. binding energy of the nucleons**
 
 Important inferences from of the average binding energy curve:
 

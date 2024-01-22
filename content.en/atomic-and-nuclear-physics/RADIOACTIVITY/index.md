@@ -1,6 +1,6 @@
 ---
 title: 'Radioactivity'
-weight: 6
+weight: 5
 extensions:
     - katex
 ---
@@ -139,10 +139,8 @@ It is represented by In this decay process, the daughter nucleus is in an excite
 
 4.4 MeV
 
-<div align="center">
-  <img src="9.25.png"/>
-  <p> Figure 9.25 </strong>Gamma emission</p>
-</div>
+![fig 9.25](9.25.png "") 
+**Figure 9.25 Gamma emission**
 
 ## Law of radioactive decay
 
@@ -186,12 +184,8 @@ _N<sub>N e t</sub>_\= 0  (9.35)
 **Note:**  
  Equation (9.35) is called the law of radioactive decay. Here _N_ denotes the number of undecayed nuclei present at any time _t_ and _N_0 denotes the number of nuclei present initially time _t=0_. Note that the number of atoms is decreasing exponentially over the length of time. This implies that the time taken for all the radioactive nuclei to decay will be infinite. Equation (9.35) is plotted in Figure 9.26.
 
-<!-- ![Law of radioactive decay](9.26.png "") -->
-
-<div align="center">
-  <img src="9.26.png"/>
-  <p> Figure 9.26 </strong>Law of radioactive decay</p>
-</div>
+![fig 9.26](9.26.png "") 
+**Figure 9.26 Law of radioactive decay**
 
 We can also define another useful quantity called activity (R) or decay rate which is the number of nuclei decayed per
 

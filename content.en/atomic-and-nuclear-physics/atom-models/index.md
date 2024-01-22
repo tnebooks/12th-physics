@@ -1,6 +1,6 @@
 ---
 title: 'Atom Models'
-weight: 3
+weight: 2
 extensions:
     - katex
 ---
@@ -19,10 +19,10 @@ Later, Niels Bohr who is also a student of Rutherford proposed an atomic model f
 
 In this model, the atoms are visualized as homogeneous spheres which contain uniform distribution of positively charged particles (Figure 9.8 (a)). The negatively charged particles known as electrons are embedded in it like seeds in water melon as shown in Figure 9.8 (b).
 
-<div align="center">
-  <img src="9.8.png"/>
-  <p> Figure 9.8 </strong>(a) Atom (b) Water melon</p>
-</div>
+
+
+![fig 9.8](9.8.png "") 
+**Figure 9.1 (a) Atom (b) Water melon**
 
 The atoms are electrically neutral, this implies that the total positive charge in an atom is equal to the total negative charge. According to this model, all the charges are assumed to be at rest. But from classical electrodynamics, no stable equilibrium points exist in electrostatic configuration (this is known as Earnshaw’s theorem) and hence such an atom cannot be stable. Further, it fails to explain the origin of spectral lines observed in the spectrum of hydrogen atom and other atoms.
 
@@ -32,20 +32,16 @@ In 1911, Geiger and Marsden did a remarkable experiment based on the advice of t
 
 The experimental arrangement is shown in Figure 9.9. A source of alpha particles (radioactive material, example polonium) is 
 
-<div align="center">
-  <img src="9.9.png"/>
-  <p> Figure 9.9 </strong>Schematic diagram for scattering</p>
-</div>
+![fig 9.9](9.9.png "") 
+**Figure 9.9 Schematic diagram for scattering**
 
 kept inside a thick lead box with a fine hole as seen in Figure 9.9. The alpha particles coming through the fine hole of lead box pass through another fine hole made on the lead screen. These particles are now allowed to fall on a thin gold foil and it is observed that the alpha particles passing through gold foil are scattered through different angles. A movable screen (from 0° to 180°) which is made up of zinc sulphide (ZnS) is kept on the other side of the gold foil to collect the scattered alpha particles. Whenever alpha particles strike the screen, a flash of light is observed which can be seen through a microscope.
 
 Rutherford proposed an atom model based on the results of alpha scattering
 
-<div align="center">
-  <img src="9.10.png"/>
-  <p> Figure 9.10 </strong>In alpha scattering experiment – (a) Rutherford expected (b) experiment
-result (c) The variation of alpha particles scattered N(θ) with scattering angle θ</p>
-</div>
+![fig 9.10](9.10.png "") 
+**Figure 9.10 In alpha scattering experiment – (a) Rutherford expected (b) experiment
+result (c) The variation of alpha particles scattered N(θ) with scattering angle θ**
 
 experiment. In this experiment, alpha particles (positively charged particles) were allowed to fall on the atoms of a metallic gold foil. The results of this experiment are given below and are shown in Figure 9.10, Rutherford expected the atom model to be as seen in Figure 9.10 (a) but the experiment showed the model as in Figure 9.10 (b).
 
@@ -65,10 +61,8 @@ From the experimental observations, Rutherford proposed that an atom has a lot o
 
 **(a) Distance of closest approach**
 
-<div align="center">
-  <img src="9.11.png"/>
-  <p> Figure 9.11 </strong>Distance of closest approach and impact parameter</p>
-</div>
+![fig 9.11](9.11.png "") 
+**Figure 9.11 Distance of closest approach and impact parameter**
 
 When an alpha particle moves straight towards the nucleus, it reaches a point where it comes to rest momentarily and returns back as shown in Figure 9.11. **The minimum distance between the centre of the nucleus and the alpha particle just before it gets reflected back through 180 is defined as the distance of closest approach r<sub>0</sub> (also known as contact distance)**. At this distance, all the kinetic energy of the alpha particle will be converted into electrostatic potential energy (Refer unit 1, volume 1 of +2 physics text book).
 
@@ -82,10 +76,9 @@ When an alpha particle moves straight towards the nucleus, it reaches a point wh
 where _E<sub>k</sub>_ is the kinetic energy of the alpha particle.This is used to estimate the size of the nucleus but size of the nucleus is always lesser than the distance of closest approach. Further, Rutherford calculated the radius of the nucleus for different nuclei and found that it ranges from 10<sup>–14</sup>m to 10<sup>–15</sup>m.
 
 **(b) Impact Parameter**
-<div align="center">
-  <img src="9.12.png"/>
-  <p> Figure 9.12 </strong>Impact parameter</p>
-</div>
+
+![fig 9.12](9.12.png "") 
+**Figure 9.12 Impact parameter**
 
 **The** **impact parameter** (_b_) (see Figure 9.12) **is defined as the perpendicular distance between the centre of the gold nucleus and the direction of velocity vector of alpha particle when it is at a large distance**. The relation between impact parameter and scattering angle can be shown as
 
@@ -100,10 +93,8 @@ Rutherford atom model helps in the calculation of the diameter of the nucleus an
 
 (a) This model fails to explain the distribution of electrons around the nucleus and also the stability of the atom.
 
-<div align="center">
-  <img src="9.13.png"/>
-  <p> Figure 9.13 </strong>Spiral in motion of an electron around the nucleus</p>
-</div>
+![fig 9.13](9.13.png "") 
+**Figure 9.13 Spiral in motion of an electron around the nucleus**
 
 According to classical electrodynamics, any accelerated charge should emit electromagnetic radiations continuously. Due to emission of radiations, the charge loses its energy. Hence, it can no longer sustain the circular motion. The radius of the orbit, therefore, becomes smaller and smaller (undergoes spiral motion) as shown in Figure 9.13 and finally the electron should fall into the nucleus and the atoms should disintegrate. But this does not happen. Hence, Rutherford model could not account for the stability of atoms.
 
@@ -113,11 +104,9 @@ According to classical electrodynamics, any accelerated charge should emit elect
 
 In order to overcome the limitations of the Rutherford atom model in explaining the stability and also the line spectrum observed for a hydrogen atom (Figure 9.14), Niels Bohr made modifications in Rutherford atom model. He is the first person to give better theoretical model of the structure of an atom to explain the line spectrum of hydrogen atom. The following are the assumptions (postulates) made by Bohr.
 
-<div align="center">
-  <img src="9.14.png"/>
-  <p> Figure 9.14 </strong>The line spectrum of
-hydrogen</p>
-</div>
+![fig 9.14](9.14.png "") 
+**Figure 9.13 The line spectrum of
+hydrogen**
 
 **Postulates of Bohr atom model:** 
 
@@ -136,10 +125,8 @@ This condition is known as angular momentum quantization condition.
 
 According to quantum mechanics, particles like electrons have dual nature (Refer unit 8, volume 2 of +2 physics text book). The standing wave pattern of the de Broglie wave associated with orbiting electron in a stable orbit is shown in Figure 9.15.
 
-<div align="center">
-  <img src="9.15.png"/>
-  <p> Figure 9.15 </strong>Standing wave pattern for electron in a stable orbit </p>
-</div>
+![fig 9.15](9.15.png "") 
+**Figure 9.15 Standing wave pattern for electron in a stable orbit**
 
 The circumference of an electron’s orbit of radius _r_ must be an integral multiple of de Broglie wavelength – that is,
 
@@ -164,10 +151,8 @@ For any particle of mass _m_ undergoing circular motion with radius _r_ and velo
 
 where _c_ is the speed of light and λ is the wavelength and _v_ is the frequency of the radiation emitted. Thus, the frequency of the radiation emitted is related only to change in atomic energy levels and it does not depend on frequency of orbital motion of the electron.
 
-<div align="center">
-  <img src="9.16.png"/>
-  <p> Figure 9.16 </strong>Absorption and emission of radiation</p>
-</div>
+![fig 9.16](9.16.png "") 
+**Figure 9.16 Absorption and emission of radiation**
 
 **EXAMPLE 9.1**
 
@@ -204,10 +189,8 @@ Find the (i) angular momentum (ii) velocity of the electron revolving in the 5th
 
 Consider an atom which contains the nucleus at rest and an electron revolving around the nucleus in a circular orbit of radius _rn_ as shown in Figure 9.17. Nucleus is made up of protons and neutrons. Since proton is positively charged and neutron is electrically neutral, the charge of a nucleus is entirely due to the charge of protons.
 
-<div align="center">
-  <img src="9.17.png"/>
-  <p> Figure 9.17 </strong>Electron revolving around the nucleus</p>
-</div>
+![fig 9.17](9.17.png "") 
+**Figure 9.17 Electron revolving around the nucleus**
 
 Let _Z_ be the atomic number of the atom, then +_Ze_ is the charge of the nucleus. Let –_e_ be the charge of the electron. From Coulomb’s law, the force of attraction between the nucleus and the electron is
  
@@ -250,19 +233,17 @@ Thus the radius of the orbit from centre increases with _n_, that is, {{< katex 
 Further, Bohr’s angular momentum quantization condition leads to
 {{< katex display >}}  \frac{mv_na_0n^2}{Z} = \frac{nh}{2\pi}  {{< /katex >}}
 {{< katex display >}}  \left[∴  r_n = a_0\frac{ n^2}{Z}\right]  {{< /katex >}}
-<div align="center">
-  <img src="9.18.png"/>
-  <p> Figure 9.18 </strong>Variation of radius of the orbit with principal quantum number</p>
-</div>
+
+![fig 9.18](9.18.png "") 
+**Figure 9.18 Variation of radius of the orbit with principal quantum number**
 
 {{< katex display >}}  v_n = \frac{h}{2\pi m a_0} \frac{Z}{n}  {{< /katex >}}
 in atomic physics {{< katex >}}  v_n \propto \frac{1}{n}  {{< /katex >}}
 
 Note that the velocity of electron decreases as the principal quantum number (orbit number) increases as shown in Figure 9.19. This curve is the rectangular hyperbola. This implies that the velocity of electron in ground state is maximum when compared to that in excited states.
-<div align="center">
-  <img src="9.19.png"/>
-  <p> Figure 9.19 </strong>Variation of velocity of the electron in the orbit with principal quantum number</p>
-</div>
+
+![fig 9.19](9.19.png "") 
+**Figure 9.19 Variation of velocity of the electron in the orbit with principal quantum number**
 
 **The energy of an electron in the _n_<sup>th</sup> orbit** 
 
@@ -313,10 +294,10 @@ The energy level diagram along with the shape of the orbits for increasing value
 where {{< katex >}}  a_0 = \frac{\epsilon_0 h^2}{\pi m e^2} = {{< /katex >}} Bohr radius. Substituting
 for _a<sub>0</sub>_ in _υ<sub>n</sub>_,
 
-<div align="center">
-  <img src="9.20.png"/>
-  <p> Figure 9.20 </strong>Energy levels of a hydrogen atom</p>
-</div>
+
+![fig 9.20](9.20.png "") 
+**Figure 9.20 Energy levels of a hydrogen atom**
+
 
 {{< katex display >}}  v_n = \frac{e^2}{2\epsilon_0 h} \frac{Z}{n} = c \left(\frac{e^2}{2\epsilon_0 hc}\right) \frac{Z}{n} =  \frac{\alpha cZ}{n}  {{< /katex >}}
   
@@ -361,9 +342,7 @@ The Bohr atom model is derived with the assumption that the nucleus of the atom 
 
 Let the mass of the electron be _m_ and mass of the nucleus be _M_. Since there is no external force acting on the system, the centre of mass of hydrogen atom remains at rest. Hence, both nucleus and electron move about the centre of mass as shown in figure.  
 
-<div align="center">
-  <img src="fig1.png"/>
-</div>
+![fig fig1](fig1.png "") 
 
 Let _V_ be the velocity of the nuclear motion and _υ_ be the velocity of electron motion. Since the total linear momentum of the system is zero,
 
@@ -479,10 +458,7 @@ For _n_ = 1, the ground state energy E<sub>1</sub> = –54.4 _eV_ and for _n_ = 
 
 For large value of principal quantum number – that is, _n = ∞,_ we get _E_<sub>∞</sub> = 0 _eV_.
 
-<div align="center">
-  <img src="fig2.png"/>
-</div>
-
+![fig fig2](fig2.png "") 
 (b) For a hydrogen-like atom, ground state energy is
 
 {{< katex display >}}  E_1 = -\frac{13.6}{n^2} Z^2 \, \text{eV}  {{< /katex >}}
@@ -562,10 +538,9 @@ Materials in the solid, liquid and gaseous states emit electromagnetic radiation
 
 In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or 
 
-<div align="center">
-  <img src="9.21.png"/>
-  <p> Figure 9.21 </strong>Spectrum of an atom </p>
-</div>
+![fig 9.21](9.21.png "") 
+**Figure 9.21 Spectrum of an atom**
+
 
 electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains of a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
 
@@ -577,19 +552,16 @@ When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic 
 
 When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by all occurring light on the atoms, electrons can be excited. Once the electrons get sufficient energy as given by Bohr’s postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state with those wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
 
-<div align="center">
-  <img src="9.22.png"/>
-  <p> Figure 9.22 </strong>Hydrogen spectrum (a) emission (b) absorption</p>
-</div>
+![fig 9.22](9.22.png "") 
+**Figure 9.22 Hydrogen spectrum (a) emission (b) absorption**
+
 
 Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately {{<katex>}}10^{-8}{{</katex>}}s) by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
 
 The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
 
-<div align="center">
-  <img src="9.23.png"/>
-  <p> Figure 9.23 </strong>Spectral series – Lyman, Balmer, Paschen series</p>
-</div>
+![fig 9.23](9.23.png "") 
+**Figure 9.23 Spectral series – Lyman, Balmer, Paschen series**
 
 Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculate using equation derived from Bohr atom model.
 

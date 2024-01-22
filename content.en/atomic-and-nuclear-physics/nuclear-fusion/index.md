@@ -1,6 +1,6 @@
 ---
 title: 'Nuclear Fusion'
-weight: 8
+weight: 7
 extensions:
     - katex
 ---
@@ -35,10 +35,8 @@ An atom has a nucleus surrounded by electrons and the nucleus is made up of prot
 
 According to quark model, proton is made up of two up quarks and one down quark and neutron is made up of one up quark and two down quarks as shown in the Figure 9.30.
 
-<div align="center">
-  <img src="9.30.png"/>
-  <p> Figure 9.30 </strong>Constituents of nucleons</p>
-</div>
+![fig 9.30](9.30.png "") 
+**Figure 9.30 Constituents of nucleons**
 
 The study of elementary particles is called particle physics and it is an active area of research even now. Till date, more than 20 Nobel prizes have been awarded in the field of particle physics.
 
@@ -47,3 +45,16 @@ The study of elementary particles is called particle physics and it is an active
 It is known that there exists gravitational force between two masses and it is universal in nature. Our planets are bound to the sun through gravitational force of the sun. In +2 volume 1, we have learnt that between two charges there exists electromagnetic force and it plays major role in most of our day-to- day events. In this unit, we have learnt that between two nucleons, there exists a strong nuclear force and this force is responsible for stability of the nucleus. In addition to these three forces, there exists another fundamental force of nature called the weak force. This weak force is even shorter in range than nuclear force. This force plays an important role in beta decay and energy production of stars. During the fusion of hydrogen into helium in sun, neutrinos and enormous radiations are produced through weak force. The detailed mechanism of weak force is beyond the scope of this book and for further reading, appropriate books can be referred.
 
 Gravitational, electromagnetic, strong and weak forces are called fundamental forces of nature. It is very interesting to realize that, even for our day-to-day life, we require these four fundamental forces. To put it in simple words: We live on Earth because of Earth’s gravitational attraction on our body. We are standing on the surface of the Earth because of the electromagnetic force between atoms of the surface of the Earth and atoms in our foot. The atoms in our body are stable because of strong nuclear force. Finally, the lives of species on earth depend on the solar energy from the sun and it is due to weak force which plays vital role during nuclear fusion reactions going on in the core of the sun.
+
+
+
+![fig 9.1](summaryac1.png "")
+![fig 9.1](summaryac2.png "")
+
+![fig 9.1](summary1.png "")
+![fig 9.1](summary2.png "")
+![fig 9.1](summary3.png "")
+![fig 9.1](summary4.png "")
+![fig 9.1](summary5.png "")
+![fig 9.1](summary6.png "")
+![fig 9.1](summary7.png "")

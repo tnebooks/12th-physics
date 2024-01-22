@@ -1,6 +1,6 @@
 ---
 title: 'Nuclear Fission'
-weight: 7
+weight: 6
 extensions:
     - katex
 ---
@@ -18,10 +18,8 @@ Uranium undergoes fission reaction in 90 different ways. The most common fission
 
 Here _Q_ is energy released during the fission of each uranium nucleus. When a slow neutron is absorbed by the uranium nucleus, the mass number increases by one and goes to an excited state 236_U_92* . But this excited state does not last longer than 10-12s and decay into two daughter nuclei along with the release of 2 or 3 neutrons. In each reaction, on an average, 2.5 neutrons are emitted. It is shown in Figure 9.27
 
-<div align="center">
-  <img src="9.27.png"/>
-  <p> Figure 9.27 </strong>Nuclear fission</p>
-</div>
+![fig 9.27](9.27.png "") 
+**Figure 9.1 Nuclear fission**
 
 **Energy released in fission:**
 
@@ -58,10 +56,10 @@ There are two kinds of chain reactions: (i) uncontrolled chain reaction (ii) con
 The atom bomb is an example of nuclear fission reaction in which uncontrolled chain reaction occurs. Atom bombs produce massive destruction on mankind. During World War II, on August 6 and 9 in the year 1945, USA dropped two atom bombs in two places of Japan, Hiroshima and Nagasaki. As a result, lakhs of people were killed and the two cities were completely destroyed. Even now the people who are living in those places have side effects caused by the explosion of atom bombs.
 
 It is possible to calculate the typical energy released in a chain reaction. In the first step, 
-<div align="center">
-  <img src="9.28.png"/>
-  <p> Figure 9.28 </strong>Nuclear chain reaction</p>
-</div>
+
+
+![fig 9.28](9.28.png "") 
+**Figure 9.1 Nuclear chain reaction**
 
 one neutron initiates the fission process in one nucleus by producing three neutrons and energy of about 200 MeV. In the second step, further three nuclei undergo fission, in third step nine nuclei undergo fission, in fourth step 27 nucleus undergo fission and so on. In the 100th step, the number of nuclei which undergo fission is around 2.5*10^40. The total energy released after 100th step is  2.5X10^40x200 MeV = 8x10^29 J. It is really an enormous amount of energy which is equivalent to electrical energy required in Tamilnadu for several years.
 
@@ -99,16 +97,10 @@ Nuclear reactor is a device in which the nuclear fission takes place in a self-s
 
 **Moderators:** The moderator is a material used to convert fast neutrons into slow neutrons. Usually the moderators are chosen in such a way that they must be very light nuclei having mass comparable to that of neutrons. Hence, these light nuclei undergo collision with fast neutrons and the speed of the neutron is reduced (Note that a billiard ball striking a stationary billiard ball of equal mass would itself be stopped but the same billiard ball bounces off almost with same speed when it strikes a heavier mass. This is the reason for using lighter nuclei as moderators). Most of the reactors use heavy water (D2O) and graphite as moderators. The blocks of uranium stacked together with blocks of graphite (the moderator) to form a large pile is shown in the Figure 9.29 (a) & (b).
 
-<div align="center">
-  <img src="9.29.png"/>
-  <p> Figure 9.29 </strong>(a) Block diagram of Nuclear reactor</p>
-</div>
 
-<div align="center">
-  <img src="9.29.png"/>
-  <p> Figure 9.29 </strong>(b) Schematic diagram of nuclear reactor</p>
-</div>
-  
+![fig 9.29](9.29.png "") 
+**Figure 9.1 (a) Block diagram of Nuclear reactor (b) Schematic diagram of nuclear reactor**
+
 
 **Control rods:** The control rods are used to adjust the reaction rate. During each fission, on an average 2.5 neutrons are emitted and in order to have the controlled chain reactions, only one neutron is allowed to cause another fission and the remaining neutrons are absorbed by the control rods.
 

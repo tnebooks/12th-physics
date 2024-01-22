@@ -1,6 +1,6 @@
 ---
 title: 'Nuclear Force'
-weight: 5
+weight: 4
 extensions:
     - katex
 ---
