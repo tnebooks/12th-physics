@@ -2,8 +2,11 @@
 title: 'Wave Optics'
 weight: 7
 extensions:
-    - katex
 ---
+```
+An age is called dark, not because the light fails to shine, but because people refuse to see.
+                                — James Albert Michener
+```
 
 ```
 Learning Objectives

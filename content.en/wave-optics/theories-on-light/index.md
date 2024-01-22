@@ -3,10 +3,10 @@
 title: 'THEORIES ON LIGHT'
 weight: 1
 ---
-
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
 
 # THEORIES ON LIGHT
-
 
 Light is a form of energy that is
 transferred from one place to another.
@@ -42,7 +42,7 @@ Albert Einstein (1905), endorsing the views of Max Plank (1900), was able to exp
 {{< katex display >}} E = h\nu {{< /katex >}}(7.1)
 
 Where, h is Plank’s constant 
-$$ h = 6.625 \times 10^{-34} \, \text{Js}$$
+$$ (h = 6.625 \times 10^{-34} \ \text{Js})$$
  and v is frequency of electromagnetic wave.
 
 As light has both wave as well as particle nature it is said to have dual nature. It is concluded that light propagates as a wave and interacts with matter as a particle.

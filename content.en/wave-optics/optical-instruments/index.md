@@ -2,6 +2,8 @@
 title: 'OPTICAL INSTRUMENTS'
 weight: 6
 ---
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
 # OPTICAL INSTRUMENTS
 
 There are many optical instruments we used in our daily life. We shall discuss here about microscope, telescope, spectrometer and of course the human eye.
@@ -15,23 +17,28 @@ A simple microscope is a single magnifying (convex) lens of small focal length w
 The eye is least strained when image is formed at near point, i.e. 25 cm. The near point is also called as least distance of distinct vision. This is shown in Figure 7.36. The object distance u should be less than f. The image distance is the near point D. The magnification m of this lens is given by the
 
 We can also write the equation for magnification m in terms of focal length f
-![Near point focusing](../7.36.png "")
+![Near point focusing](7.36.png "")
 
 **Normal focusing** 
 
 The eye is most relaxed when the image is formed at infinity. The focusing is called normal focusing when the image is formed at infinity. This is shown in Figure 7.37(b). To find the magnification m, if we take the   ratio of the height of image to the height of object mhh, we will not get a meaningful equation, as the image is of infinite size and it is also formed at infinity. Hence, we can practically use the angular magnification. **The angular magnification is defined as the ratio of angle θi subtended by the image with aided eye to the angle θo subtended by the object with unaided eye**.
 
-![Normal focusing](../7.37.png "")
+![Normal focusing](7.37.png "")
 
 For unaided eye shown in Figure 7.37(a),
 
-{{< katex display >}}  \tan(\theta) \approx (\theta) =\frac{h}{D} {{< /katex >}}
-
-
-
+$$ \tan\theta_0 \approx \theta_0 =\frac{h}{D} $$
 (7.62)
 
 For aided eye shown in Figure 7.37(b),
+$$ \tan\theta_{i}  \approx\theta_{i} =\frac{h}{f} $$
+(7.63)
+The angular magnification is,
+$$m = \frac{\theta_{i}}{\theta_{0}} = \frac{\frac{h}{f}}{\frac{h}{D}}$$
+
+
+
+$$ \text m =\frac{D}{f} $$  (7.64)
   
 This is the magnification for normal focusing.
 
@@ -52,20 +59,32 @@ The closest distance between the lens and the book is, u = –4.167 cm
 A microscope is used to see the details of the object under observation. Good microscope should not only magnify the object but also resolve the two points on an object which are separated by the smallest distance dmin. Actually, dmin is the resolution and its reciprocal is the resolving power.
 
 The spatial resolution (radius of central maximum) is already derived in equation
-![Resolving power of microscope](../7.38.png "")
+![Resolving power of microscope](7.38.png "")
   
 In microscope, the object distance is just more than the focal length f and the image is formed at distance v as shown in the Figure 7.38. Hence, f in equation (7.54) is replaced by v.
+$$r_{o} = \frac{1.22 \lambda v}{a} \quad   $$(7.65)
 
 If the distance between the two points on the object to be resolved is dmin, then the magnification m is,
-![formula7.65](formula7.65.PNG "") 
+$$ m = \frac{r_{o}}{d_{\text{min}}} \quad $$(7.66)
+$$d_{\text{min}} = \frac{r_{o}} m = \frac{1.22 \lambda{v}}{am} = \frac {1.22 \lambda v} a(\frac{v}{u})= \frac {1.22 \lambda u} {a} \quad \text{[assuming } m = \frac{v}{u}\text{]}$$
+
+$$d_{\text{min}} = \frac{1.22 \lambda f }{a} $$(7.67)
+on the other object side,
+$$2 \tan \beta \approx 2 \sin \beta = \frac{a}{f}   \quad :. [ a = f2\sin \beta ] $$(7.68)
+
+$$d_{\text{min}} = \frac{1.22 \lambda }{2 \sin \beta}  $$(7.69)
 To further reduce the value of dmin the optical path of the light is increased by immersing the objective of the microscope into a bath containing oil of refractive index n.
+$$d_{\text{min}} = \frac {1.22\lambda}{2n \sin B} $$ 7.70
+Such an objective is called oil immersed objective.The term  is called numerical aperture NA .
+$$d_{\text{min}} = \frac {1.22\lambda}{(2NA)} $$ 7.71
+ The resolving power $$ R_{m} $$ of microscope is,
+ $$R_{m}= \frac{1}{d_{\text{min}}}= \frac{2(NA)}{1.22 \lambda} =\frac{2n \sin B}{1.22 \lambda} $$
+ 7.72
 
-![formula7.70](formula7.70.PNG "") 
-
-## Compound microscope
+## Compound microscope 
 
 The diagram of a compound microscope is shown in Figure 7.39. The lens near the object is called as **objective**. It forms a real, inverted and magnified image of the object. This serves as the object for the lens close to the eye called as **eyepiece**. The eyepiece serves as a simple microscope that produces finally an enlarged and virtual image. The first inverted image formed by the objective is to be adjusted within the focus of the eyepiece so that the final image is formed nearly at infinity (or) at the near point. The final image is inverted with respect to the object. 
-![Compound microscope](../7.39.png "")
+![Compound microscope](7.39.png "")
 
 **Magnification in compound microscope**
 
@@ -81,7 +100,7 @@ A microscope has an objective and eyepiece of focal lengths 5 cm and 50 cm respe
 ## Astronomical telescope
 
 An astronomical telescope is used to get the magnification of distant astronomical objects like stars, planets, moon etc. The image formed by astronomical telescope will be inverted. It has an objective of long focal length and a much larger aperture than the eyepiece as shown in Figure 7.40. Light from a distant object enters the objective and a real image is formed in the tube at its focal point. The eyepiece magnifies this image producing a final inverted image.
-![Astronomical telescope](../7.40.png "")
+![Astronomical telescope](7.40.png "")
 **7.6.3.1 Magnification in astronomical telescope**
 The magnification _m_ is the ratio of the angle _β_ subtended by the image to the angle _α_ subtended by the object with the principal axis.
 Formulas 
@@ -96,11 +115,11 @@ A small telescope has an objective lens of focal length 125 cm and an eyepiece o
 ##  Terrestrial telescope
 
 A terrestrial telescope is used to see objects at a long distance on the surface of earth. Hence, image should be erect. Hence, it has an additional erecting lens to make the final image erect as shown in Figure 7.41.
-![Terrestrial telescope](../7.41.png "")
+![Terrestrial telescope](7.41.png "")
 
 **Figure 7.41 Terrestrial telescope**
 ##  Reflecting telescope
-![Reflecting telescope](../7.42.png "")
+![Reflecting telescope](7.42.png "")
 
 **Figure 7.42 Reflecting telescope**
 
@@ -110,7 +129,7 @@ Modern telescopes use concave mirrors instead of lenses for the objectives. It i
 
 used to analise the spectra of different sources of light, to measure the wavelength of different colours and to measure the refractive indices of materials of prisms. It is shown in Figure 7.43. It basically consists of three parts namely (i) collimator, (ii) prism table and (iii) telescope.
 
-![Spectrometer](../7.43.png "")
+![Spectrometer](7.43.png "")
 
 **(i) Collimator** 
 The collimator is used for producing parallel beam of light. It has a convex lens and a vertical slit of adjustable width which faces the source. The position of slit can be adjusted so that it is kept at the focus of the lens. The collimator is rigidly fixed to the base.
@@ -137,7 +156,7 @@ The following adjustments must be done in a spectrometer before doing the experi
 The preliminary adjustments of the spectrometer are done. The refractive index of the prism can be determined by measuring the angle of the prism A and the angle of minimum deviation D.
 
 **(i) Angle of the prism A**
-![alt text](../7.44.png "")
+![Angle of prism](7.44.png "")
 **Figure 7.44 Angle of prism**
 
 The prism is placed on the prism table with its refracting angle A facing the collimator as shown in Figure 7.44. The slit is illuminated by sodium light (monochromotic light). The parallel rays coming from the collimator fall on the two faces AB and AC and get reflected. The telescope is rotated to the position T1 and T2 to capture the reflected rays and the two reading are noted.
@@ -145,7 +164,7 @@ The difference between these two readings gives the angle rotated by the telesco
 
 **(ii) Angle of minimum deviation D** 
 The prism is placed on the prism table so that the light from the collimator falls on a refracting face and the refracted image is observed through the telescope as shown in Figure 7.45. The prism table alone is now rotated so that the angle of deviation decreases. A stage comes when the image stops and returns on further rotation of the prism table. This is ensured by looking through the telescope simultaneously. The reading in this position gives the minimum deviation position.
-![](../7.45.png "")
+![Angle of minimum deviation](7.45.png "")
 **Figure 7.45 Angle of minimum deviation**
 Now, the prism is removed and the telescope is turned to receive the direct ray and the reading is noted. The difference between the two readings gives the angle of minimum deviation D. The refractive index of the material of the prism n is calculated using the using the equation (6.89),
 Formulas 
@@ -154,7 +173,7 @@ Formulas
 ## The eye
 
 Eye is a natural optical instrument human beings have. As the eye lens is flexible, its focal length can be changed to some extent. When the eye is fully relaxed, its focal length is maximum and when it is strained its focal length is minimum. The image must be formed on the retina for clear vision. The diameter of eye ball for a normal adult is about 2.5 cm. Hence, the distance between eye lens and retina (image distance) is fixed always at 2.5 cm. We can just discuss the optical functioning of eye without giving importance to the refractive indices of the two liquids, aqueous humor and virtuous humor present in the eye. A person with normal vision can see objects kept at infinity in the relaxed condition with a maximum focal length fmax of the eye lens as shown in Figure 7.46(a) and in the strained condition, with a minimum focal length fmin for an object kept at near point D (25 cm) as shown in Figure 7.46(b).
-![alt text](../7.46.png "")
+![focusingofnormal light](7.46.png "")
 **Figure 7.46 Focusing of normal eye**
 Let us find _fmax_ and _fmin_ of human eye from the lens equation (6.63).  
 When the object is at infinity, _u_ = –∞, and _v_ = 2.5 cm (distance between eye lens and retina), the eye can see the object in relaxed condition with _fmax_. Substituting these values in the lens equation gives,
@@ -175,18 +194,18 @@ The focal length of the correcting lens for a myopic eye can be calculated using
 Formulas 
 Here, _u_ = –∞, _v_ = –_x_. Substituting these values in the lens equation gives,
 Focal length _f_ of the correcting lens is, The negative sign in the above result suggests that the correcting lens should be a concave lens. Basically, the concave lens slightly diverges the parallel rays from infinity and makes them fall at the retina.
-![Myopic eye and correction](../7.47.png "")
+![Myopic eye and correction](7.47.png "")
 **Figure 7.47 Myopic eye and correction**
 **7.6.7.2 Farsightedness (_hypermetropia_)** 
 
-A person suffering from _farsightedness_ (or) _hypermetropia_ (or) _hyperopia_ cannot see closer object clearly. It occurs when the eye lens has long focal length (or) shortening of the eyeball than usual. The closest distance for clear vision for these people is appreciably more than 25 cm. Thus, reading books (or) viewing smaller things held in the hands is difficult for them. This kind of farsightedness arising mainly due to aging is called _presbyopia._ The aged people cannot strain their eye more to reduce the focal length of the eye lens.
+A person suffering from farsightedness (or) hypermetropia (or) hyperopia cannot see closer object clearly. It occurs when the eye lens has long focal length (or) shortening of the eyeball than usual. The closest distance for clear vision for these people is appreciably more than 25 cm. Thus, reading books (or) viewing smaller things held in the hands is difficult for them. This kind of farsightedness arising mainly due to aging is called presbyopia. The aged people cannot strain their eye more to reduce the focal length of the eye lens.
 
-The rays coming from the object at near point get focused beyond the retina as shown in Figure 7.48(a). But, these persons can see objects which are at a distance only beyond 25 cm from the eye. Let _y_ be the minimum distance from the eye beyond which a person with farsightedness can see as shown in Figure 7.48(b). To make this person see on object at 25 cm (near point) a virtual image of the object at 25 cm should be formed at _y_ using a correcting lens as shown in Figure 7.48(c).
+The rays coming from the object at near point get focused beyond the retina as shown in Figure 7.48(a). But, these persons can see objects which are at a distance only beyond 25 cm from the eye. Let y be the minimum distance from the eye beyond which a person with farsightedness can see as shown in Figure 7.48(b). To make this person see on object at 25 cm (near point) a virtual image of the object at 25 cm should be formed at y using a correcting lens as shown in Figure 7.48(c).
 
 The focal length of the correcting lens for a hypermetropic eye can be calculated using the lens equation (6.63).
-Here, _u_ = –25 cm, _v_ = –_y_. Substituting these values in the lens equation gives,
-Simplifying the above equation for _f_ gives,
-The focal length calculated using above formula will be positive as _y_ is always greater than 25 cm. The positive sign of the focal length suggests that the correcting lens should be a convex lens. In principle, the convex lens slightly converges the rays coming from an object beyond _y_ and makes them fall at the retina.
+Here, u = –25 cm, v = –y. Substituting these values in the lens equation gives,
+Simplifying the above equation for f gives,
+The focal length calculated using above formula will be positive as y is always greater than 25 cm. The positive sign of the focal length suggests that the correcting lens should be a convex lens. In principle, the convex lens slightly converges the rays coming from an object beyond y and makes them fall at the retina.
 
 **7.6.6.3 Astigmatism** 
 
@@ -198,11 +217,11 @@ Due to aging people may develop combination of more than one defect. If it is th
 
 Calculate the power of the lens of the spectacles needed to rectify the defect of nearsightedness for a person who could see clearly up to a distance of 1.8 m.
 
-![Hypermetropic eye and correct  ](../7.48.png "")
+![Hypermetropic eye and correct  ](7.48.PNG "")
 
-**_Solution_** 
+**Solution** 
 
-The maximum distance the person could see is, _x_ = 1.8 m. The lens should have a focal length of, _f_ = –_x_ m = –1.8 m. It is a concave (or) diverging lens.
+The maximum distance the person could see is, x = 1.8 m. The lens should have a focal length of, f = –x m = –1.8 m. It is a concave (or) diverging lens.
 
 The power of the lens is,
 Formulas 
@@ -211,7 +230,7 @@ Formulas
 
 A person has farsightedness with the far distance he could see clearly is 75 cm. Calculate the power of the lens of the spectacles needed to rectify the defect.
 
-**_Solution_** 
+**Solution** 
 
 The minimum distance the person could see clearly is, y = 75 cm.
 The lens should have a focal length of,
@@ -226,7 +245,7 @@ It is a convex (or) converging lens. The power of the lens is,
 - The phenomenon of addition or superposition of two light waves which produces increase in intensity at some points and decrease in intensity at some other points is called interference of light.
 - If interfering lights have equal intensities of I 0 with phase difference ϕ, then
 FOrmulas 
-- Two light sources are said to be coherent if they produce waves which have same phase or constant phase difference, same frequency or wavelength monochromatic), same waveform and preferably same amplitude.
+- Two light sources are said to be coherent if they produce waves which have same phase or constant phase difference, same frequency or wavelength monochromatic, same waveform and preferably same amplitude.
 - Coherent sources are obtained by wavefront division, intensity division and real and virtual images of light source.
 - Young’s double slit uses wavefront division to obtain coherent sources.
 - In Young’s double slit experiment, the position of y n = th dark fringe
