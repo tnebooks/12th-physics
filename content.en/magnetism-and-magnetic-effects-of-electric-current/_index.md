@@ -2,8 +2,7 @@
 title: 'Magnetism and magnetic effects of electric current'
 weight: 12
 extensions:
-
-- katex
+    - katex
 ---   
 
 **U N I T** **3** 
