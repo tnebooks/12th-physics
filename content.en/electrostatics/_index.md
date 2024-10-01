@@ -150,7 +150,7 @@ where \\(\hat{r} _{12}\\) is the unit vector directed from charge \\(q _1\\) to 
 **(iii)** In SI units, k = \\(\dfrac{1}{4π\epsilon_{o}}\\) and its value is \\(9 × 10^9 N m^2 C^{–2}\\). Here \\(\epsilon_{o}\\) is the permittivity of free space or vacuum and its value is
 
 
-\\(\epsilon_{o} = \dfrac{1}{4πk} = 8.85×10^{−12} C^2 N^{−1}m^{−2} .\\)
+\\(\epsilon_{o} = \dfrac{1}{4πk} = 8.85×10^{−12} C^2 N^{−1}m^{−2}.\\)
 
 
 **(iv)** The magnitude of the electrostatic force between two charges each of one coulomb and separated by a distance of 1 m is calculated as follows:
