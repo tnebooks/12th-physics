@@ -1,5 +1,9 @@
-
-![](heading.png)
+---
+title: 'Electronics and communication'
+weight: 10
+extensions:
+    - katex
+---
 
 **Learning Objectives**
 
