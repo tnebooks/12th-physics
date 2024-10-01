@@ -217,8 +217,6 @@ Due to aging people may develop combination of more than one defect. If it is th
 
 Calculate the power of the lens of the spectacles needed to rectify the defect of nearsightedness for a person who could see clearly up to a distance of 1.8 m.
 
-![Hypermetropic eye and correct  ](7.48.PNG "")
-
 **Solution** 
 
 The maximum distance the person could see is, x = 1.8 m. The lens should have a focal length of, f = –x m = –1.8 m. It is a concave (or) diverging lens.
