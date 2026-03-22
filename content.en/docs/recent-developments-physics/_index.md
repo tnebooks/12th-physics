@@ -1,8 +1,7 @@
 ---
 title: 'Recent Developments in Physics'
 weight: 11
-extensions:
-    - katex
+
 ---
 
 # 11 RECENT DEVELOPMENTS IN PHYSICS
@@ -35,7 +34,7 @@ Physics is the basic building block for science, engineering and technology as d
 
 ### 11.2.1 Nanoscience
 
-Nanoscience is the study of structures and materials on the scale of nanometers. Nano means one‑billionth of a meter that is $10^{-9}\ \mathrm{m}$.
+Nanoscience is the study of structures and materials on the scale of nanometers. Nano means one‑billionth of a meter that is {{< katex display=true >}}10^{-9}\ \mathrm{m}{{< /katex >}}.
 
 If matter is divided into such small objects the mechanical, electrical, optical, magnetic and other properties change.
 
@@ -45,7 +44,7 @@ Nanotechnology is a technology involving the design, production, characterizatio
 
 ### Nanoparticles
 
-The solids are made up of particles. Each of the particle has a definite number of atoms, which might differ from material to material. If the particle of a solid is of size less than $100\ \mathrm{nm}$, it is said to be a 'nano solid'. When the particle size exceeds $100\ \mathrm{nm}$, it is a 'bulk solid'. It is to be noted that nano and bulk solids may be of the same chemical composition. For example, ZnO can be both in bulk and nano form. Though chemical composition is the same, nano form of the material shows strikingly different properties when compared to its bulk counterpart.
+The solids are made up of particles. Each of the particle has a definite number of atoms, which might differ from material to material. If the particle of a solid is of size less than {{< katex display=true >}}100\ \mathrm{nm}$, it is said to be a 'nano solid'. When the particle size exceeds $100\ \mathrm{nm}{{< /katex >}}, it is a 'bulk solid'. It is to be noted that nano and bulk solids may be of the same chemical composition. For example, ZnO can be both in bulk and nano form. Though chemical composition is the same, nano form of the material shows strikingly different properties when compared to its bulk counterpart.
 
 In the nano scale dimensions (reduced dimensions), two important phenomena govern nano properties. They are quantum confinement effects and surface effects. Students can explore these effects in higher education and the explanation is avoided at school level.
 
@@ -124,8 +123,8 @@ Most robots are composed of 3 main parts:
 1. Power conversion unit: Robots are powered by batteries, solar power, and hydraulics.
 2. Actuators: Converts energy into movement. The majority of the actuators produce rotational or linear motion.
 3. Electric motors: They are used to actuate the parts of the robots like wheels, arms, fingers, legs, sensors, camera, weapon systems etc. Different types of electric motors are used. The most often used ones are AC motor, Brushed DC motor, Brushless DC motor, Geared DC motor, etc.
-4. Pneumatic Air Muscles: They are devices that can contract and expand when air is pumped inside. It can replicate the function of a human muscle. They contract almost $40\%$ when the air is sucked inside them.
-5. Muscle wires: They are thin strands of wire made of shape memory alloys. They can contract by $5\%$ when electric current is passed through them.
+4. Pneumatic Air Muscles: They are devices that can contract and expand when air is pumped inside. It can replicate the function of a human muscle. They contract almost {{< katex display=true >}}40\%{{< /katex >}} when the air is sucked inside them.
+5. Muscle wires: They are thin strands of wire made of shape memory alloys. They can contract by {{< katex display=true >}}5\%{{< /katex >}} when electric current is passed through them.
 6. Piezo Motors and Ultrasonic Motors: Basically, we use it for industrial robots.
 7. Sensors: Generally used in task environments as it provides information of real-time knowledge.
 8. Robot locomotion: Provides the types of movements to a robot. The different types are (a) Legged (b) Wheeled (c) Combination of Legged and Wheeled Locomotion (d) Tracked slip/skid
@@ -173,7 +172,7 @@ The aim of artificial intelligence is to bring in human like behaviour in robots
 ### 11.3.5 Advantages of Robotics
 
 1. The robots are much cheaper than humans.
-2. Robots never get tired like humans. It can work for $24 \times 7$. Hence absenteeism in work place can be reduced.
+2. Robots never get tired like humans. It can work for {{< katex display=true >}}24 \times 7{{< /katex >}}. Hence absenteeism in work place can be reduced.
 3. Robots are more precise and error free in performing the task.
 4. Stronger and faster than humans.
 5. Robots can work in extreme environmental conditions: extreme hot or cold, space or underwater. In dangerous situations like bomb detection and bomb deactivation.
@@ -292,11 +291,11 @@ Many striking innovations and discoveries originate from scientific fictions. Ro
 
 - Salient physics principles (covered in the higher secondary physics) are the foundation for technology break through.
 - Physics is the basic building block for Science, Engineering, Technology and Medicine.
-- Nano science is the science of objects with typical sizes of $1–100\ \mathrm{nm}$.
-- Nano means one‑billionth of a metre that is $10^{-9}\ \mathrm{m}$.
+- Nano science is the science of objects with typical sizes of {{< katex display=true >}}1–100\ \mathrm{nm}{{< /katex >}}.
+- Nano means one‑billionth of a metre that is {{< katex display=true >}}10^{-9}\ \mathrm{m}{{< /katex >}}.
 - Nanotechnology is a technology involving the design, production, characterization, and applications of nano structural materials.
-- If the particle of a solid is of size less than $100\ \mathrm{nm}$, it is said to be a 'nano solid'.
-- When the particle size exceeds $100\ \mathrm{nm}$, it forms a 'bulk solid'.
+- If the particle of a solid is of size less than {{< katex display=true >}}100\ \mathrm{nm}{{< /katex >}}, it is said to be a 'nano solid'.
+- When the particle size exceeds {{< katex display=true >}}100\ \mathrm{nm}{{< /katex >}}, it forms a 'bulk solid'.
 - Nano form of the material shows strikingly different properties when compared to its bulk counterpart.
 - Quantum confinement effects and surface effects are the two important phenomena that govern nano properties.
 - Nanoscience and technology is the interdisciplinary area covering its applications in various fields.
