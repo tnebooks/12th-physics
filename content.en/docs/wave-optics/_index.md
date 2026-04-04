@@ -1,5 +1,7 @@
 ---
 title: 'Wave Optics'
+categories:
+    - wave-optics
 weight: 7
 extensions:
 ---

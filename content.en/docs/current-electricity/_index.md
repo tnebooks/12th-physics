@@ -1,5 +1,7 @@
 ---
 title: 'Current Electricity'
+categories:
+    - current-electricity
 weight: 2
 
 ---

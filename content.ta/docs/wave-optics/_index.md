@@ -1,5 +1,7 @@
 ---
 title: 'அலல ஒளியியல் (Wave Optics)'
+categories:
+    - wave-optics
 weight: 7
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 'மின்காந்த அலைகள்(Electromagnetic Waves)'
+categories:
+    - electromagnetic-waves
 weight: 5
 ---
 
