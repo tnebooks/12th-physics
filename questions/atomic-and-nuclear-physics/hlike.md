@@ -1,5 +1,4 @@
 ---
-
 choices:
   - "1"
   - "2"
@@ -9,4 +8,3 @@ answers:
 ---
 
 Atomic number of H-like atom with ionization potential 122.4 V for n = 1 is
-

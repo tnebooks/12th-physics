@@ -1,5 +1,4 @@
 ---
-
 choices:
   - "h"
   - "h/⫪"
@@ -9,4 +8,3 @@ answers:
 ---
 
 In a hydrogen atom, the electron revolving in the fourth orbit, has angular momentum equal to
-

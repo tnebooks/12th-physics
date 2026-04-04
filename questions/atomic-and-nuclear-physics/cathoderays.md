@@ -1,5 +1,4 @@
 ---
-
 choices:
   - "positive"
   - "neutral"
@@ -9,4 +8,3 @@ answers:
 ---
 
 The charge of cathode rays particle is
-

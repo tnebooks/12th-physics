@@ -1,5 +1,4 @@
 ---
-
 choices:
   - "1:2:3"
   - "2:4:6"
@@ -9,4 +8,3 @@ answers:
 ---
 
 The ratio between the radius of first three orbits of hydrogen atom is
-
