@@ -23,11 +23,13 @@ enableGitInfo = true
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
 [languages.en]
+title = '12th-Phyics'
 languageName = 'English'
 contentDir = 'content.en'
 weight = 1
 
 [languages.ta]
+title = '12th-பொதியியல்'
 languageName = 'தமிழ்'
 contentDir = 'content.ta'
 weight = 3

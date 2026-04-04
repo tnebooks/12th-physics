@@ -1,5 +1,7 @@
 ---
 title: 'Ray Optics'
+categories:
+    - ray-optics
 weight: 6
 
 ---

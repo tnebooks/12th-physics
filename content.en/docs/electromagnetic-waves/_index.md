@@ -1,5 +1,7 @@
 ---
 title: 'Electromagnetic Waves'
+categories:
+    - electromagnetic-waves
 weight: 5
 
 ---
