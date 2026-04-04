@@ -1,5 +1,7 @@
 ---
 title: 'Recent Developments in Physics'
+categories:
+    - recent-developments-in-physics
 weight: 11
 
 ---

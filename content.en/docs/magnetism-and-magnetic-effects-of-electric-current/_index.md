@@ -1,5 +1,7 @@
 ---
 title: 'Magnetism and magnetic effects of electric current'
+categories:
+    - magnetism-and-magnetic-effects-of-electric-current
 weight: 3
 
 ---

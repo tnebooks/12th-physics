@@ -1,5 +1,7 @@
 ---
 title: 'Electromagnetic Induction And Alternating Current'
+categories:
+    - electromagnetic-induction-and-alternating-current
 weight: 4
 
 ---

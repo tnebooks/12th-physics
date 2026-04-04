@@ -1,5 +1,7 @@
 ---
 title: 'இயற்பியலின் அண்மைக்கால வளர்ச்சிகள்(Recent Developments In Physics)'
+categories:
+    - recent-developments-in-physics
 weight: 11
 ---
 

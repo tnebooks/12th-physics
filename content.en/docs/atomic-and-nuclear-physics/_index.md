@@ -1,5 +1,7 @@
 ---
 title: 'Atomic and Nuclear Physics'
+categories:
+    - atomic-and-nuclear-physics
 weight: 9
 
 ---
