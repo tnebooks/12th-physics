@@ -5,7 +5,6 @@ categories:
 weight: 11
 ---
 
-
 # அலகு 11: இயற்பியலின் அண்மைக்கால வளர்ச்சிகள் (RECENT DEVELOPMENTS IN PHYSICS)
 
 *(Original page numbers and blank pages omitted as they contained no text)*

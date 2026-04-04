@@ -5,7 +5,6 @@ categories:
 weight: 11
 ---
 
-
 # 11 RECENT DEVELOPMENTS IN PHYSICS
 
 > "There's Plenty of Room at the Bottom: An Invitation to Enter a New Field of Physics" – Richard Feynman
