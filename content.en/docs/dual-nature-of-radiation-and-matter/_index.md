@@ -1,5 +1,7 @@
 ---
 title: 'Dual Nature of Radiation and Matter'
+categories:
+    - dual-nature-of-radiation-and-matter
 weight: 8
 
 ---

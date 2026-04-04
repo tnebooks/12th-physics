@@ -1,5 +1,7 @@
 ---
 title: 'மின்னோட்டவியல்(Current Electricity)'
+categories:
+    - current-electricity
 weight: 2
 ---
 

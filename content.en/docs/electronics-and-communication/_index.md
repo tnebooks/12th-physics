@@ -1,5 +1,7 @@
 ---
 title: 'Electronics and communication'
+categories:
+    - electronics-and-communication
 weight: 10
 
 ---

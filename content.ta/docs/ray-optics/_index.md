@@ -1,5 +1,7 @@
 ---
 title: 'கதிர் ஒளியியல் (Ray Optics)'
+categories:
+    - ray-optics
 weight: 6
 ---
 
