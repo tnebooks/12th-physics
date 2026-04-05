@@ -2,7 +2,7 @@
 choices:
   - "1 m"
   - "3 m"
-  - "6m"
+  - "6 m"
 answers:
   - "5 m"
 ---

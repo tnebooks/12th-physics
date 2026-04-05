@@ -1,9 +1,14 @@
 ---
 choices:
-  - "4 ohm"
-  - "8 ohm"
-  - "1 ohm"
+  - "A and B have the same decay rate initially"
+  - "A and B decay at the same rate always"
+  - "A will decay at faster rate than B."
 answers:
-  - "2 ohm"
+  - "B will decay at faster rate than A"
 ---
-The following graph shows current versus voltage values of some unknown conductor. What is the resistance of this conductor?
+
+The half-life period of a radioactive
+element A is same as the mean life
+time of another radioactive element B.
+Initially both have the same number of
+atoms. Then
