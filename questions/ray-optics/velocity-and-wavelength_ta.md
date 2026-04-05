@@ -1,7 +1,8 @@
 ---
 choices:
   - Vw/Va
-  - ''
+  - λw/λa
+  - Vaλa/Vwλw
 answers:
   - Va/Vw
 ---
