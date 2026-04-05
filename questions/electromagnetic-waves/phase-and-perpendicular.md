@@ -1,10 +1,11 @@
 ---
 choices:
-  - "ஒரே கட்டத்தில் இல்லை. மேலும் ஒன்றுக்கொன்று செங்குத்து இல்லை"
-  - "ஒரே கட்டத்தில் உள்ளன. மேலும் ஒன்றுக்கொன்று செங்குத்து இல்லை"
-  - "ஒரே கட்டத்தில் இல்லை. மேலும் ஒன்றுக்கொன்று செங்குத்து"
+  - "out of phase and perpendicular to each other"
+  - "in phase and not perpendicular to each other"
+  - "out of phase and not perpendicular to each other"
 answers:
-  - "ஒரே கட்டத்தில் உள்ளன. மேலும் ஒன்றுக்கொன்று செங்குத்து"
+  - "in phase and perpendicular to each other"
 ---
 
-மின்காந்த அலையின் மின்புலம் மற்றும் காந்தப்புலங்கள்
+The electric and magnetic fields of an
+electromagnetic wave are

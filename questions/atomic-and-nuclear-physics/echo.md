@@ -1,20 +1,18 @@
 ---
 choices:
-  - "17 m"
-  - "20 m"
-  - "50 m"
+  - "M(N,Z)=NMn+ZMp+B/c^2"
+  - "M(N,Z)=NMn+ZMp+Bc^2"
+  - "M(N,Z)=NMn+ZMp-Bc^2"
 answers:
-  - "25 m"
+  - "M(N,Z)=NMn+ZMp+B/c^2"
 ---
 
 
-Velocity of sound in the atmosphere of a planet is 500 ms⁻¹. The minimum distance between the sources of sound and the obstacle to hear the echo, should be:
+Mp denotes the mass of the proton
+and Mn denotes mass of a neutron.
+A given nucleus of binding energy B,
+contains Z protons and N neutrons.
+The mass M(N,Z) of the nucleus is
+given by(where c is the speed of light)
 
 
-```markdown
-To hear a distinct echo, the time interval between the original sound and the
-reflected sound must be at least 0.1 seconds (persistence of hearing). In this
-time, the sound must travel to the obstacle and back. Total distance = speed ×
-time = 500 ms⁻¹ × 0.1 s = 50 m. Since this is the round-trip distance, the
-minimum distance to the obstacle from the original sound source,
-```

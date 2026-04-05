@@ -1,10 +1,11 @@
 ---
 choices:
-  - "குறுக்கலை "
-  - "இயந்திர அலைகள் அல்ல "
-  - "முடுக்கப்பட்ட மின்துகள்களினால் உருவாக்கப்படுகின்றன"
+  - "transverse"
+  - "produced by accelerating charges"
+  - "non-mechanical waves"
 answers:
-  - "நெட்டலை"
+  - "longitudinal"
 ---
 
-மின்காந்த அலைகளைப் பொறுத்து பின்வருவனவற்றுள் எவை தவறான கூற்றுகளாகும்?
+Which of the following is false for
+electromagnetic waves
