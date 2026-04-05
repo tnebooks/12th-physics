@@ -7,4 +7,4 @@ answers:
   - "+20 V"
 ---
 
-An electric field E =10xî exists in a certain region of space. Then the potential difference V = Vo – VA, where Vo is the potential at the origin and VA is the potential at x = 2 m is:
+R ஆரமுடைய மின்கடத்துப் பொருளாலான, மெல்லிய கோளக் கூட்டின் பரப்பில் Q மின்னூட்ட அளவுள்ள மின்துகள்கள் சீராகப் பரவியுள்ளன. எனில், அதனால் ஏற்படும் நிலை மின்னழுத்தத்திற்கான சரியான வரைபடம் எது?
