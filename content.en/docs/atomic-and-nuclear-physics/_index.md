@@ -7,6 +7,7 @@ weight: 9
 ---
 
 
+
 # 9 ATOMIC AND NUCLEAR PHYSICS
 
 > All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial – Ernest Rutherford
