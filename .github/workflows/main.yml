@@ -59,8 +59,7 @@ jobs:
           export QUESTIONS_FOLDER="$PWD/questions" && export PUBLIC_FOLDER="$PWD/public" && npm i --prefix themes/design-system/
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --set "params.githuborg=${{ github.repository_owner }}"
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
           npm i --prefix themes/design-system/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
