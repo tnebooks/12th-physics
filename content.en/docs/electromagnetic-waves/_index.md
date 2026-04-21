@@ -28,7 +28,7 @@ In this unit, the student is exposed to
 
 ## 5.1 INTRODUCTION
 
-![Visible spectrum – rainbow and lightning](image-placeholder)
+![Guru](guru.jpeg)
 
 We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure and properties of various things from atom to universe. Without light, even our eyes cannot see objects. What is light? This puzzle made many physicists sleepless until middle of \(19^{\mathrm{th}}\) century. Earlier, many scientists thought that optics and electromagnetism are two different branches of physics. But from the work of James Clerk Maxwell, who actually enlightened the concept of light from his theoretical prediction that light is an electromagnetic wave which moves with the speed equal to \(3\times 10^{8}\ \mathrm{ms^{-1}}\) (in free space or vacuum). Later, it was confirmed that visible light is just only small portion of electromagnetic spectrum, which ranges from gamma rays to radio waves.
 
@@ -36,7 +36,7 @@ In unit 4, we studied that time varying magnetic field produces an electric fiel
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell's prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
 
-![(a) Cell phone tower and cell phone (b) X-ray radiograph](image-placeholder)
+![Guru](guru.jpeg)
 
 In today's digital world, cell phones have greater influence in our day to day life. It is a faster and more effective mode of transferring information from one place to another. It works on the basis that light is an electromagnetic wave. In hospitals, the location of bone fracture can be detected using X‑rays as shown, which is also an electromagnetic wave. For cooking microwave oven is used. The microwave is also an electromagnetic wave. There are plenty of applications of electromagnetic waves in engineering, medicine (example LASER surgery, etc), defence (example, RADAR signals) and also in fundamental scientific research. In this unit, basics of electromagnetic waves are discussed.
 
@@ -66,7 +66,7 @@ In order to understand how the changing electric field induces magnetic field, l
 
 Let a time‑dependent current \(i_c\) called conduction current be passed through the wire to charge the capacitor.
 
-![Applying Ampere's circuital law – loop enclosing surface](image-placeholder)
+![Guru](guru.jpeg)
 
 Ampere's circuital law can be used to find the magnetic field produced around the current carrying wire.
 
@@ -78,7 +78,7 @@ $$
 
 where \(\mu_0\) is the permeability of free space.
 
-![Applying Ampere's circuital law – loop enclosing surface \(S_2\)](image-placeholder)
+![Guru](guru.jpeg)
 
 Now, the same loop is enclosed by balloon shaped surface \(S_2\) such that boundaries of two surfaces \(S_1\) and \(S_2\) are same but the shape of the surfaces is different. As Ampere's law applied for a given closed loop does not depend on the shape of the enclosing surface, the integrals should give the same answer. But by applying Ampere's circuital law for the surface \(S_2\), we get
 
@@ -90,7 +90,7 @@ The right hand side of equation is zero because the surface \(S_2\) nowhere touc
 
 Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time‑varying electric field (or time‑varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor.
 
-![Applying Gauss's law between the plates of the capacitor](image-placeholder)
+![Guru](guru.jpeg)
 
 From Gauss's law of electrostatics, the electric flux between the plates of the capacitor is
 
@@ -122,7 +122,7 @@ where the total current enclosed by the surface becomes the sum of conduction cu
 
 Between the plates, the conduction current is zero while the displacement current is non‑zero. This displacement current or time‑varying electric field can also produce a magnetic field between the plates of the capacitor. The magnetic field at a point inside the capacitor is perpendicular to the electric field and is shown. This magnetic field can be determined using equation (5.6).
 
-![Magnetic field produced by conduction and displacement currents](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Importance of Maxwell's correction
 
@@ -246,7 +246,7 @@ If the receiver is rotated by \(90^\circ\), then no spark is observed by the rec
 2. Electromagnetic waves do not require any medium for propagation. So electromagnetic wave is a non‑mechanical wave.
 3. Electromagnetic waves are transverse in nature. The oscillating electric field vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to each other. For example, if the electric and magnetic fields are as shown, then the direction of propagation will be along x‑direction.
 
-![Electromagnetic waves – transverse wave](image-placeholder)
+![Guru](guru.jpeg)
 
 4. Electromagnetic waves travel with speed which is equal to the speed of light in vacuum or free space, \(c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} = 3\times 10^8\ \mathrm{ms^{-1}}\), where \(\epsilon_0\) is the permittivity of free space or vacuum and \(\mu_0\) is the permeability of free space or vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
 
@@ -298,7 +298,7 @@ Any stationary charge produces only electric field (refer Unit 1). When the char
 
 Any oscillatory motion is also an accelerated motion. So, when the charge oscillates (oscillating molecular dipole) about their mean position, it produces electromagnetic waves.
 
-![Oscillating charges – sources of electromagnetic waves](image-placeholder)
+![Guru](guru.jpeg)
 
 Suppose the electromagnetic field in free space propagates along \(z\)-direction and if the electric field vector points along \(x\)-axis, then the magnetic field vector will be mutually perpendicular to both electric field and the direction of wave propagation. Thus
 
@@ -340,7 +340,7 @@ $$
 
 ### 5.2.3 Electromagnetic spectrum
 
-![Electromagnetic spectrum](image-placeholder)
+![Guru](guru.jpeg)
 
 Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency.
 
@@ -400,11 +400,11 @@ This magnetic field can be easily produced with a permanent magnet. So, electrom
 
 When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddish‑orange colour and becomes white when it is hottest. The spectrum shown is usually called black body spectrum (Refer XI Physics Unit 8). It is a continuous frequency (or wavelength) curve depending on the body's temperature.
 
-![Black body radiation spectrum – variation with temperature](image-placeholder)
+![Guru](guru.jpeg)
 
 Suppose we allow a beam of white light to pass through the prism. It is split into its seven constituent colours which can be viewed on the screen as continuous spectrum. This phenomenon is known as dispersion of light and the definite pattern of colours obtained on the screen after dispersion is called as spectrum. The spectra can be broadly classified into two categories:
 
-![White light passed through prism – dispersion](image-placeholder)
+![Guru](guru.jpeg)
 
 ### (a) Emission spectra
 
@@ -414,13 +414,13 @@ When the spectrum of self luminous source is taken, we get emission spectrum. Ea
 
 If the light from incandescent lamp (filament bulb) is allowed to pass through prism (simplest spectroscope), it splits up into seven colours. Thus, it consists of wavelengths containing all the visible colours ranging from violet to red. Examples: spectrum obtained from carbon arc and incandescent solids.
 
-![Continuous emission spectra](image-placeholder)
+![Guru](guru.jpeg)
 
 #### (ii) Line emission spectrum (or line spectrum)
 
 Suppose light from hot gas is allowed to pass through prism, line spectrum is observed. Line spectra are also known as discontinuous spectra. The line spectra consists of sharp lines of definite wavelengths or frequencies. Such spectra arise due to excited atoms of elements. These lines are the characteristics of the element and are different for different elements. Examples: spectra of atomic hydrogen, helium, etc.
 
-![Line emission spectra](image-placeholder)
+![Guru](guru.jpeg)
 
 #### (iii) Band emission spectrum (or band spectrum)
 
@@ -438,7 +438,7 @@ When we pass white light through a blue glass plate, it absorbs all the colours 
 
 When light from the incandescent lamp is passed through cold gas (medium), the spectrum obtained through the dispersion due to prism is line absorption spectrum. Similarly, if the light from the carbon arc is made to pass through sodium vapour, a continuous spectrum of carbon arc with two dark lines in the yellow region are obtained.
 
-![Line absorption spectra](image-placeholder)
+![Guru](guru.jpeg)
 
 #### (iii) Band absorption spectrum
 
@@ -448,7 +448,7 @@ When white light is passed through the iodine vapour, dark bands on continuous b
 
 When the spectrum obtained from the Sun is examined, it consists of large number of dark lines (line absorption spectrum). These dark lines in the solar spectrum are known as Fraunhofer lines. The absorption spectra for various materials are compared with the Fraunhofer lines in the solar spectrum, which helps in identifying elements present in the Sun's atmosphere.
 
-![Solar spectrum – Fraunhofer lines](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 

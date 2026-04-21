@@ -83,29 +83,29 @@ So the metal selected for electron emission should have low work function. The e
 
 When a metal is heated to a high temperature, the free electrons on the surface of the metal get sufficient energy in the form of thermal energy so that they are emitted from the metallic surface (Figure 8.1). This type of emission is known as thermionic emission.
 
-![Figure 8.1 Electrons in the (a) metal (b) heated metal](image-placeholder)
+![Guru](guru.jpeg)
 
 The intensity of the thermionic emission (the number of electrons emitted) depends on the metal used and its temperature. Examples: cathode ray tubes, electron microscopes, x‑ray tubes etc (Figure 8.2).
 
-![Figure 8.2 Thermionic emission from hot filament of cathode ray tube or x‑ray tube](image-placeholder)
+![Guru](guru.jpeg)
 
 #### ii) Field emission
 
 Electric field emission occurs when a very strong electric field is applied across the metal. This strong field pulls the free electrons and helps them to overcome the surface barrier of the metal (Figure 8.3). Examples: Field emission scanning electron microscopes, Field‑emission display etc.
 
-![Figure 8.3 Field emission](image-placeholder)
+![Guru](guru.jpeg)
 
 #### iii) Photo electric emission
 
 When an electromagnetic radiation of suitable frequency is incident on the surface of the metal, the energy is transferred from the radiation to the free electrons. Hence, the free electrons get sufficient energy to cross the surface barrier and the photo electric emission takes place (Figure 8.4). The number of electrons emitted depends on the intensity of the incident radiation. Examples: Photo diodes, photo electric cells etc.
 
-![Figure 8.4 Photo electric emission](image-placeholder)
+![Guru](guru.jpeg)
 
 #### iv) Secondary emission
 
 When a beam of fast moving electrons strikes the surface of the metal, the kinetic energy of the striking electrons is transferred to the free electrons on the metal surface. Thus the free electrons get sufficient kinetic energy so that the secondary emission of electron occurs (Figure 8.5). Examples: Image intensifiers, photo multiplier tubes etc.
 
-![Figure 8.5 Secondary emission of electrons](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -135,13 +135,13 @@ A clean circular plate of zinc is mounted on an insulating stand and is attached
 
 Further, if the negatively charged zinc plate is exposed to ultraviolet light, the leaves will come closer as the charges leaked away quickly (Figure 8.6(b)). If the plate is positively charged, it becomes more positive upon UV rays irradiation and the leaves open further (Figure 8.6(c)). From these observations, it was concluded that negatively charged electrons were emitted from the zinc plate under the action of ultraviolet light.
 
-![Figure 8.6 Irradiation of ultraviolet light on (a) uncharged zinc plate (b) negatively charged plate (c) positively charged plate](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Lenard's observation
 
 In 1902, Lenard studied this electron emission phenomenon in detail. His simple experimental setup is shown in Figure 8.7. The apparatus consists of two metallic plates \(A\) and \(C\) placed in an evacuated quartz bulb. The galvanometer \(G\) and battery \(B\) are connected in the circuit.
 
-![Figure 8.7 Experimental setup of Lenard](image-placeholder)
+![Guru](guru.jpeg)
 
 When ultraviolet light is incident on the negative plate \(C\) an electric current flows in the circuit that is indicated by the deflection in the galvanometer. On other hand, if the positive plate is irradiated by the ultraviolet light, no current is observed in the circuit.
 
@@ -163,7 +163,7 @@ The necessary potential difference between \(C\) and \(A\) is provided by high t
 
 If there is no light falling on the cathode \(C\), no photoelectrons are emitted and the microammeter reads zero. When ultraviolet or visible light is allowed to fall on \(C\), the photoelectrons are liberated and are attracted towards anode. As a result, the photoelectric current is set up in the circuit which is measured using micro ammeter.
 
-![Figure 8.8 Experimental setup for the study of photoelectric effect](image-placeholder)
+![Guru](guru.jpeg)
 
 The variation of photocurrent with respect to (i) intensity of incident light (ii) the potential difference between the electrodes (iii) the nature of the material and (iv) frequency of incident light can be studied with the help of this arrangement.
 
@@ -171,7 +171,7 @@ The variation of photocurrent with respect to (i) intensity of incident light (i
 
 To study the effect of intensity of incident light on photoelectric current, the frequency of the incident light and the accelerating potential \(V\) of the anode are kept constant. Here the potential of \(A\) is kept positive with respect to that of \(C\) so that the electrons emitted from \(C\) are attracted towards \(A\). Now, the intensity of the incident light is varied and the corresponding photoelectric current is measured.
 
-![Figure 8.9 Variation of photocurrent with intensity](image-placeholder)
+![Guru](guru.jpeg)
 
 A graph is drawn between light intensity along \(x\)-axis and the photocurrent along \(y\)-axis. From the graph in Figure 8.9, it is evident that photocurrent – the number of electrons emitted per second – is directly proportional to the intensity of the incident light.
 
@@ -185,7 +185,7 @@ When a negative (retarding) potential is applied to \(A\) with respect to \(C\),
 
 When the negative (retarding) potential of \(A\) is gradually increased, the photocurrent starts to decrease because more and more photoelectrons are being repelled away from reaching the electrode \(A\). The photocurrent becomes zero at a particular negative potential \(V_0\), called stopping or cut‑off potential.
 
-![Figure 8.10 Variation of photocurrent with potential difference](image-placeholder)
+![Guru](guru.jpeg)
 
 Stopping potential is that value of the negative (retarding) potential given to the collecting electrode \(A\) which is just sufficient to stop the most energetic photoelectrons emitted and make the photocurrent zero.
 
@@ -215,11 +215,11 @@ Thus, for a given frequency of the incident light, the stopping potential is ind
 
 To study the effect of frequency of incident light on stopping potential, the intensity of the incident light is kept constant. The variation of photocurrent with the collecting electrode potential is studied for radiations of different frequencies and a graph drawn between them is shown in Figure 8.11. From the graph, it is clear that stopping potential vary over different frequencies of incident light.
 
-![Figure 8.11 Variation of photocurrent with collector electrode potential for different frequencies of the incident radiation](image-placeholder)
+![Guru](guru.jpeg)
 
 Greater the frequency of the incident radiation, larger is the corresponding stopping potential. This implies that as the frequency is increased, the photoelectrons are emitted with greater kinetic energies so that the retarding potential needed to stop the photoelectrons is also greater.
 
-![Figure 8.12 Variation of stopping potential with frequency of the incident radiation for two metals](image-placeholder)
+![Guru](guru.jpeg)
 
 Now a graph is drawn between frequency of incident radiation and the stopping potential for different metals (Figure 8.12). From this graph, it is found that stopping potential varies linearly with frequency. Below a certain frequency called threshold frequency, no electrons are emitted; hence stopping potential is zero for that reason. But as the frequency is increased above threshold value, the stopping potential varies linearly with the frequency of incident light.
 
@@ -352,7 +352,7 @@ $$
 
 where \(m\) is the mass of the electron and \(v\) its velocity. This is shown in Figure 8.13(a).
 
-![Figure 8.13 Emission of photoelectrons](image-placeholder)
+![Guru](guru.jpeg)
 
 If we reduce the frequency of the incident light, the speed or kinetic energy of photo electrons is also reduced. At some frequency \(\nu_0\) of incident radiation, the photo electrons are just ejected with almost zero kinetic energy (Figure 8.13(b)). Then the equation (8.6) becomes
 
@@ -380,13 +380,13 @@ $$
 K_{\max} = h\nu - \phi_0 \tag{8.8}
 $$
 
-![Figure 8.14 \(K_{\max}\) vs \(\nu\) graph](image-placeholder)
+![Guru](guru.jpeg)
 
 A graph between maximum kinetic energy \(K_{\max}\) of the photoelectron and frequency \(\nu\) of the incident light is a straight line as shown in Figure 8.14. The slope of the line is \(h\) and its \(y\)-intercept is \(-\phi_0\).
 
 Einstein's equation was experimentally verified by R.A. Millikan. He drew \(K_{\max}\) versus \(\nu\) graph for many metals (cesium, potassium, sodium and lithium) as shown in Figure 8.15 and found that the slope is independent of the metals.
 
-![Figure 8.15 \(K_{\max}\) vs \(\nu\) graph for different metals](image-placeholder)
+![Guru](guru.jpeg)
 
 Millikan also calculated the value of Planck's constant \((h = 6.626\times 10^{-34}\ \mathrm{Js})\) and work function of many metals (Cs, K, Na, Ca); these values are in agreement with the theoretical prediction.
 
@@ -439,7 +439,7 @@ It consists of an evacuated glass or quartz bulb in which two metallic electrode
 
 The cathode \(C\) is semi‑cylindrical in shape and is coated with a photo sensitive material. The anode \(A\) is a thin rod or wire kept along the axis of the semi‑cylindrical cathode. A potential difference is applied between the anode and the cathode through a galvanometer \(G\).
 
-![Figure 8.16 Construction of photo cell](image-placeholder)
+![Guru](guru.jpeg)
 
 **Working:**  
 When cathode is irradiated with suitable radiation, electrons are emitted from it. These electrons are attracted by anode and hence a current is produced which is measured by the galvanometer. For a given cathode, the magnitude of the current depends on i) the intensity of incident radiation and ii) the potential difference between anode and cathode.
@@ -608,11 +608,11 @@ Louis de Broglie hypothesis of matter waves was experimentally confirmed by Clin
 
 The filament \(F\) is heated by a low tension (L.T.) battery. Electrons are emitted from the hot filament by thermionic emission. They are then accelerated due to the potential difference between the filament and the anode aluminium cylinder by a high tension (H.T.) battery. Electron beam is collimated by using two thin aluminium diaphragms and is allowed to strike a single crystal of Nickel.
 
-![Figure 8.17 Experimental set up of Davisson – Germer experiment](image-placeholder)
+![Guru](guru.jpeg)
 
 The electrons scattered by Ni atoms in different directions are received by the electron detector which measures the intensity of scattered electron beam. The detector is capable of rotation in the plane of the paper so that the angle \(\theta\) between the incident beam and the scattered beam can be changed at our will. The intensity of the scattered electron beam is measured as a function of the angle \(\theta\).
 
-![Figure 8.18 Variation of intensity of diffracted electron beam with the angle \(\theta\)](image-placeholder)
+![Guru](guru.jpeg)
 
 It is to be noted that electrons are not the only particles with which wave nature can be demonstrated. The waves are associated with particles like neutrons and alpha particles also when they are in motion. They undergo diffraction when they are scattered by suitable crystals. Neutron diffraction studies are highly useful for investigating crystal structures.
 
@@ -646,10 +646,10 @@ The electrons emitted from the source are accelerated by high potentials. The be
 
 With the help of magnetic objective lens and magnetic projector lens system, the magnified image is obtained on the screen. These electron microscopes are being used in almost all branches of science.
 
-![Figure 8.19 (a) Optical microscope (b) Electron microscope (c) Photograph of electron microscope](image-placeholder)
+![Guru](guru.jpeg)
 
-![Coloured scanning electron micrograph of a common housefly (Musca domestica)](image-placeholder)
-![Needle and thread](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ---
 
@@ -745,7 +745,7 @@ X‑rays are produced in x‑ray tube which is essentially a discharge tube as s
 
 The electrons are accelerated to high speeds by the voltage applied between the filament \(F\) and the anode. The target materials like tungsten, molybdenum are embedded in the face of the solid copper anode. The face of the target is inclined at an angle of \(45^\circ\) with respect to the electron beam so that x‑rays can leave the tube through its side.
 
-![Figure 8.20 Production of x‑rays](image-placeholder)
+![Guru](guru.jpeg)
 
 When high‑speed electrons strike the target, they are decelerated suddenly and lose their kinetic energy. As a result, x‑ray photons are produced. Since most of the kinetic energy of the bombarding electrons gets converted into heat, targets made of high‑melting‑point metals and a cooling system are usually employed.
 
@@ -755,8 +755,8 @@ X‑rays are produced when fast moving electrons strike the metal target. The in
 
 The continuous spectrum consists of radiations of all possible wavelengths with a certain minimum wavelength \(\lambda_0\) which depends on the voltage across the electrodes. The peaks are characteristics of the material of the target and hence it is called characteristic spectrum. Figure 8.21(a) depicts the x‑ray spectra of tungsten at various accelerating voltages and Figure 8.21(b) shows the x‑ray spectra of tungsten and molybdenum at a particular accelerating voltage.
 
-![Figure 8.21 (a) X‑ray spectra of tungsten at various accelerating potentials](image-placeholder)
-![Figure 8.21 (b) X‑ray spectra of tungsten and molybdenum at \(35\ \mathrm{kV}\) accelerating potential](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 Though classical electromagnetic theory suggests the emission of radiations from accelerating electrons, it could not explain two features exhibited by x‑ray spectra. These features are given below.
 
@@ -769,7 +769,7 @@ But these two features could be explained on the basis of photon theory of radia
 
 When a fast moving electron penetrates and approaches a target nucleus, the interaction between the electron and the nucleus either accelerates or decelerates it which results in a change of path of the electron. The radiation produced from such decelerating electron is called Bremsstrahlung or braking radiation (Figure 8.22).
 
-![Figure 8.22 Bremsstrahlung photon from a decelerating electron](image-placeholder)
+![Guru](guru.jpeg)
 
 The energy of the photon emitted is equal to the loss of kinetic energy of the electron. Since an electron may lose part or all of its energy to the photon, the photons are emitted with all possible energies (or frequencies). The continuous x‑ray spectrum is due to such radiations.
 
@@ -798,7 +798,7 @@ From the Figure 8.23, it is evident that \(K\)-series of lines in the x‑ray sp
 
 The \(K_\alpha\) and \(K_\beta\) of the \(K\)-series of molybdenum are shown by the two peaks in its x‑ray spectrum in Figure 8.21(b).
 
-![Figure 8.23 Origin of characteristic x‑ray spectra](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Applications of x‑rays:
 

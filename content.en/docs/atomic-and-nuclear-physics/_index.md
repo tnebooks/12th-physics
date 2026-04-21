@@ -36,7 +36,9 @@ In this unit, the students are exposed to
 
 ## 9.1 INTRODUCTION
 
-![Figure 9.1 Comparison of size of an atom with that of an apple and comparison of size of an apple with that of the Earth](image-placeholder)
+![Guru](guru.jpeg)
+
+
 
 In earlier classes, we have studied that anything which occupies space is called matter. Matter can be classified into solids, liquids and gases. In our daily life, we use water for drinking, petrol for vehicles, we inhale oxygen, stainless steel vessels for cooking, etc. Experiences tell us that behaviour of one material is not the same as that of another, which means that the physical and chemical properties are different for different materials. In order to understand this, we need to know the fundamental constituents of materials.
 
@@ -58,7 +60,7 @@ But by special arrangement, one can make a gas to conduct electricity.
 
 A simple and convenient device used to study the conduction of electricity through gases is known as gas discharge tube. The arrangement of discharge tube is shown in Figure 9.2. It consists of a long closed glass tube (of length nearly \(50\ \mathrm{cm}\) and diameter of \(4\ \mathrm{cm}\)) inside of which a gas in pure form is filled usually. The small opening in the tube is connected to a high vacuum pump and a low‑pressure gauge. This tube is fitted with two metallic plates known as electrodes which are connected to secondary of an induction coil. The electrode connected to positive of secondary is known as anode and the electrode to the negative of the secondary is cathode. The potential of secondary is maintained at about \(50\ \mathrm{kV}\).
 
-![Figure 9.2 Discharge tube (a) real picture (b) schematic diagram](image-placeholder)
+![Guru](guru.jpeg)
 
 Suppose the pressure of the gas in discharge tube is reduced to around \(110\ \mathrm{mm}\) of Hg using vacuum pump, it is observed that no discharge takes place. When the pressure is kept near \(100\ \mathrm{mm}\) of Hg, the discharge of electricity through the tube takes place. Consequently, irregular streaks of light appear and also crackling sound is produced. When the pressure is reduced to the order of \(10\ \mathrm{mm}\) of Hg, a luminous column known as positive column is formed from anode to cathode.
 
@@ -80,13 +82,13 @@ When the pressure reaches to around \(0.01\ \mathrm{mm}\) of Hg, positive column
 
 Thomson's experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
 
-![Figure 9.3 Arrangement of J.J. Thomson experiment to determine the specific charge of an electron](image-placeholder)
+![Guru](guru.jpeg)
 
 The arrangement of J. J. Thomson's experiment is shown in Figure 9.3. A highly evacuated discharge tube is used and cathode rays (electron beam) produced at cathode are attracted towards anode disc A. Anode disc is provided with pin hole in order to allow only a narrow beam of cathode rays. These cathode rays are now allowed to pass through the parallel metal plates which are maintained at high voltage as shown in Figure 9.3. Further, the gas discharge tube is kept in between pole pieces of magnet such that both electric and magnetic fields are acting perpendicular to each other. When the cathode rays strike the screen, they produce scintillation and hence bright spot is observed. This is achieved by coating the screen with zinc sulphide.
 
 #### (i) Determination of velocity of cathode rays
 
-![Figure 9.4 Electric force balancing the magnetic force – the path of electron beam is a straight line](image-placeholder)
+![Guru](guru.jpeg)
 
 For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let \(e\) be the charge of the cathode rays, then
 
@@ -134,7 +136,7 @@ $$
 a_e = \frac{1}{m} eE = \frac{e}{m} E
 $$
 
-![Figure 9.5 Deviation of path by applying uniform electric field](image-placeholder)
+![Guru](guru.jpeg)
 
 Let \(y\) be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be \(u = 0\) before entering the parallel electric plates. Let \(t\) be the time taken by the cathode rays to travel in electric field. Let \(l\) be the length of one of the plates, then the time taken is
 
@@ -176,7 +178,7 @@ Substituting the values on RHS, the value of specific charge is calculated as \(
 
 Millikan's oil drop experiment is another important experiment in modern physics which is used to determine one of the fundamental constants of nature known as charge of an electron (Figure 9.6 (a)).
 
-![Figure 9.6 Millikan's experiment (a) real picture and schematic picture (b) Side view picture](image-placeholder)
+![Guru](guru.jpeg)
 
 By adjusting electric field suitably, the motion of oil drop inside the chamber can be controlled – that is, it can be made to move up or down or even kept balanced in the field of view for sufficiently long time.
 
@@ -193,7 +195,7 @@ Let \(m\) be the mass of the oil drop and \(q\) be its charge. Then the forces a
 (c) buoyant force \(F_b\)  
 (d) viscous force \(F_v\)
 
-![Figure 9.7 Free body diagram of the oil drop – (a) without electric field (b) with electric field](image-placeholder)
+![Guru](guru.jpeg)
 
 #### (a) Determination of radius of the droplet
 
@@ -293,7 +295,7 @@ Later, Niels Bohr who is also a student of Rutherford proposed an atomic model f
 
 In this model, the atoms are visualized as homogeneous spheres which contain uniform distribution of positively charged particles (Figure 9.8 (a)). The negatively charged particles known as electrons are embedded in it like seeds in water melon as shown in Figure 9.8 (b).
 
-![Figure 9.8 (a) Atom (b) Water melon](image-placeholder)
+![Guru](guru.jpeg)
 
 The atoms are electrically neutral, this implies that the total positive charge in an atom is equal to the total negative charge. According to this model, all the charges are assumed to be at rest. But from classical electrodynamics, no stable equilibrium points exist in electrostatic configuration (this is known as Earnshaw's theorem) and hence such an atom cannot be stable. Further, it fails to explain the origin of spectral lines observed in the spectrum of hydrogen atom and other atoms.
 
@@ -303,7 +305,7 @@ In 1911, Geiger and Marsden did a remarkable experiment based on the advice of t
 
 The experimental arrangement is shown in Figure 9.9. A source of alpha particles (radioactive material, example polonium) is kept inside a thick lead box with a fine hole as seen in Figure 9.9. The alpha particles coming through the fine hole of lead box pass through another fine hole made on the lead screen. These particles are now allowed to fall on a thin gold foil and it is observed that the alpha particles passing through gold foil are scattered through different angles. A movable screen (from \(0^\circ\) to \(180^\circ\)) which is made up of zinc sulphide (ZnS) is kept on the other side of the gold foil to collect the scattered alpha particles. Whenever alpha particles strike the screen, a flash of light is observed which can be seen through a microscope.
 
-![Figure 9.9 Schematic diagram for scattering of alpha particles experiment by Rutherford](image-placeholder)
+![Guru](guru.jpeg)
 
 Rutherford proposed an atom model based on the results of alpha scattering experiment. In this experiment, alpha particles (positively charged particles) were allowed to fall on the atoms of a metallic gold foil. The results of this experiment are given below and are shown in Figure 9.10. Rutherford expected the atom model to be as seen in Figure 9.10 (a) but the experiment showed the model as in Figure 9.10 (b).
 
@@ -312,7 +314,7 @@ Rutherford proposed an atom model based on the results of alpha scattering exper
 (c) A few alpha particles (one in thousand) were deflected through the angle more than \(90^\circ\)  
 (d) Very few alpha particles returned back (back scattered) – that is, deflected back by \(180^\circ\)
 
-![Figure 9.10 In alpha scattering experiment – (a) Rutherford expected (b) experiment result (c) The variation of alpha particles scattered \(N(\theta)\) with scattering angle \(\theta\)](image-placeholder)
+![Guru](guru.jpeg)
 
 In Figure 9.10 (c), the dotted points are the alpha scattering experiment data points obtained by Geiger and Marsden and the solid curve is the prediction from Rutherford's nuclear model. It is observed that the Rutherford's nuclear model is in good agreement with the experimental data.
 
@@ -350,7 +352,7 @@ Rutherford atom model helps in the calculation of the diameter of the nucleus an
 
 (a) This model fails to explain the distribution of electrons around the nucleus and also the stability of the atom.
 
-![Figure 9.13 Spiral in motion of an electron around the nucleus](image-placeholder)
+![Guru](guru.jpeg)
 
 According to classical electrodynamics, any accelerated charge should emit electromagnetic radiations continuously. Due to emission of radiations, the charge loses its energy. Hence, it can no longer sustain the circular motion. The radius of the orbit, therefore, becomes smaller and smaller (undergoes spiral motion) as shown in Figure 9.13 and finally the electron should fall into the nucleus and the atoms should disintegrate. But this does not happen. Hence, Rutherford model could not account for the stability of atoms.
 
@@ -360,7 +362,7 @@ According to classical electrodynamics, any accelerated charge should emit elect
 
 In order to overcome the limitations of the Rutherford atom model in explaining the stability and also the line spectrum observed for a hydrogen atom (Figure 9.14), Niels Bohr made modifications in Rutherford atom model. He is the first person to give better theoretical model of the structure of an atom to explain the line spectrum of hydrogen atom. The following are the assumptions (postulates) made by Bohr.
 
-![Figure 9.14 The line spectrum of hydrogen](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Postulates of Bohr atom model:
 
@@ -378,7 +380,7 @@ This condition is known as angular momentum quantization condition.
 
 According to quantum mechanics, particles like electrons have dual nature (Refer unit 8, volume 2 of \(+2\) physics text book). The standing wave pattern of the de Broglie wave associated with orbiting electron in a stable orbit is shown in Figure 9.15.
 
-![Figure 9.15 Standing wave pattern for electron in a stable orbit](image-placeholder)
+![Guru](guru.jpeg)
 
 The circumference of an electron's orbit of radius \(r\) must be an integral multiple of de Broglie wavelength – that is,
 
@@ -408,7 +410,7 @@ $$
 
 where \(c\) is the speed of light and \(\lambda\) is the wavelength and \(\nu\) is the frequency of the radiation emitted. Thus, the frequency of the radiation emitted is related only to change in atomic energy levels and it does not depend on frequency of orbital motion of the electron.
 
-![Figure 9.16 Absorption and emission of radiation](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -443,7 +445,7 @@ $$
 
 Consider an atom which contains the nucleus at rest and an electron revolving around the nucleus in a circular orbit of radius \(r_n\) as shown in Figure 9.17. Nucleus is made up of protons and neutrons. Since proton is positively charged and neutron is electrically neutral, the charge of a nucleus is entirely due to the charge of protons.
 
-![Figure 9.17 Electron revolving around the nucleus](image-placeholder)
+![Guru](guru.jpeg)
 
 Let \(Z\) be the atomic number of the atom, then \(+Ze\) is the charge of the nucleus. Let \(-e\) be the charge of the electron. From Coulomb's law, the force of attraction between the nucleus and the electron is
 
@@ -498,7 +500,7 @@ and so on.
 
 Thus the radius of the orbit from centre increases with \(n\), that is \(r_n \propto n^2\) as shown in Figure 9.18.
 
-![Figure 9.18 Variation of radius of the orbit with principal quantum number](image-placeholder)
+![Guru](guru.jpeg)
 
 Further, Bohr's angular momentum quantization condition leads to
 
@@ -508,7 +510,7 @@ $$
 
 In atomic physics, \(v_n \propto \frac{1}{n}\). Note that the velocity of electron decreases as the principal quantum number (orbit number) increases as shown in Figure 9.19. This curve is the rectangular hyperbola. This implies that the velocity of electron in ground state is maximum when compared to that in excited states.
 
-![Figure 9.19 Variation of velocity of the electron in the orbit with principal quantum number](image-placeholder)
+![Guru](guru.jpeg)
 
 #### The energy of an electron in the \(n^{\text{th}}\) orbit
 
@@ -569,7 +571,7 @@ The negative value of this energy is because of the way the zero of the potentia
 
 The energy level diagram along with the shape of the orbits for increasing values of \(n\) are shown in Figure 9.20. It shows that the energies of the excited states come closer and closer together when the principal quantum number \(n\) takes higher values.
 
-![Figure 9.20 Energy levels of a hydrogen atom](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -621,7 +623,7 @@ The Bohr atom model is derived with the assumption that the nucleus of the atom 
 **Solution**  
 Let the mass of the electron be \(m\) and the mass of the nucleus be \(M\). Since there is no external force acting on the system, the centre of mass of hydrogen atom remains at rest. Hence, both nucleus and electron move about the centre of mass as shown in figure.
 
-![Example figure](image-placeholder)
+![Guru](guru.jpeg)
 
 Let \(V\) be the velocity of the nuclear motion and \(v\) be the velocity of electron motion. Since the total linear momentum of the system is zero,
 
@@ -725,7 +727,7 @@ Suppose the energy of an electron in hydrogen‑like atom is given as \(E_n = -\
 (a) Given that \(E_n = -\frac{54.4}{n^2}\ \mathrm{eV}\).  
 For \(n=1\), \(E_1 = -54.4\ \mathrm{eV}\); \(n=2\), \(E_2 = -13.6\ \mathrm{eV}\); \(n=3\), \(E_3 = -6.04\ \mathrm{eV}\); \(n=4\), \(E_4 = -3.4\ \mathrm{eV}\); and so on. For \(n=\infty\), \(E_\infty = 0\ \mathrm{eV}\).
 
-![Energy level diagram](image-placeholder)
+![Guru](guru.jpeg)
 
 (b) For a hydrogen‑like atom, ground state energy is \(E_1 = -13.6 Z^2\ \mathrm{eV}\). Comparing, \(-13.6 Z^2 = -54.4 \Rightarrow Z^2 = 4 \Rightarrow Z = 2\) (atomic number).
 
@@ -751,7 +753,7 @@ Materials in the solid, liquid and gaseous states emit electromagnetic radiation
 
 In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains of a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
 
-![Figure 9.21 Spectrum of an atom](image-placeholder)
+![Guru](guru.jpeg)
 
 This implies that these spectra are unique to each element and can be used to identify the element of the gas (like finger print used to identify a person) – that is, it varies from one gas to another gas. This uniqueness of line spectra of elements made the scientists to determine the composition of stars, sun and also used to identify the unknown compounds.
 
@@ -759,7 +761,7 @@ This implies that these spectra are unique to each element and can be used to id
 
 When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic radiations of certain sharply‑defined characteristic wavelength (line spectrum), called hydrogen emission spectrum (Refer unit 5, volume 1 of \(+2\) physics text book). The emission spectrum of hydrogen is shown in Figure 9.22(a).
 
-![Figure 9.22 Hydrogen spectrum (a) emission (b) absorption](image-placeholder)
+![Guru](guru.jpeg)
 
 When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by allowing light on the atoms, electrons can be excited. Once the electrons get sufficient energy as given by Bohr's postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state with those wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
 
@@ -767,7 +769,7 @@ Since electrons in excited states have very small life time, these electrons jum
 
 The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
 
-![Figure 9.23 Spectral series – Lyman, Balmer, Paschen series](image-placeholder)
+![Guru](guru.jpeg)
 
 Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculated using equation derived from Bohr atom model.
 
@@ -1027,7 +1029,7 @@ $$
 
 The average binding energy per nucleon is the average energy required to separate single nucleon from the particular nucleus. When \(\overline{BE}\) is plotted against \(A\) of all known nuclei, we get \(\overline{BE}\) average curve as shown in Figure 9.24.
 
-![Figure 9.24 Avg. binding energy of the nucleons](image-placeholder)
+![Guru](guru.jpeg)
 
 Important inferences from the average binding energy curve:
 
@@ -1204,7 +1206,7 @@ It is important to note that the electron or positron which comes out from nucle
 
 **A very interesting application of alpha decay is in smoke detectors which prevent us from any hazardous fire.**
 
-![Smoke detector diagram](image-placeholder)
+![Guru](guru.jpeg)
 
 The smoke detector uses around \(0.2\ \mathrm{mg}\) of man‑made weak radioactive isotope called americium \(({}^{241}_{95}Am)\). This radioactive source is placed between two oppositely charged metal plates and \(\alpha\) radiations from \({}^{241}_{95}Am\) continuously ionize the nitrogen, oxygen molecules in the air space between the plates. As a result, there will be a continuous flow of small steady current in the circuit. If smoke enters, the radiation is being absorbed by the smoke particles rather than air molecules. As a result, the ionization and along with it the current is reduced. This drop in current is detected by the circuit and alarm starts. The radiation dosage emitted by americium is very much less than safe level, so it can be considered harmless.
 
@@ -1245,7 +1247,7 @@ $$
 {}^{12}_{5}B \rightarrow {}^{12}_{6}C + e^- + \bar{\nu} \quad \text{and} \quad {}^{12}_{6}C^* \rightarrow {}^{12}_{6}C + \gamma
 $$
 
-![Figure 9.25 Gamma emission](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 9.6.4 Law of radioactive decay
 
@@ -1303,7 +1305,7 @@ $$
 
 Equation (9.33) is called the law of radioactive decay. Here \(N\) denotes the number of undecayed nuclei present at any time \(t\) and \(N_0\) denotes the number of nuclei present initially at time \(t = 0\). Note that the number of atoms is decreasing exponentially over the length of time. This implies that the time taken for all the radioactive nuclei to decay will be infinite. Equation (9.33) is plotted in Figure 9.26.
 
-![Figure 9.26 Law of radioactive decay](image-placeholder)
+![Guru](guru.jpeg)
 
 We can also define another useful quantity called activity \((R)\) or decay rate which is the number of nuclei decayed per second and it is denoted as \(R = \left|\frac{dN}{dt}\right|\). Note that activity \(R\) is a positive quantity.
 
@@ -1509,7 +1511,7 @@ $$
 
 Here \(Q\) is energy released during the fission of each uranium nucleus. When a slow neutron is absorbed by the uranium nucleus, the mass number increases by one and goes to an excited state \({}^{236}_{92}U^*\). But this excited state does not last longer than \(10^{-12}\ \mathrm{s}\) and decay into two daughter nuclei along with the release of 2 or 3 neutrons. In each reaction, on an average, \(2.5\) neutrons are emitted. It is shown in Figure 9.27.
 
-![Figure 9.27 Nuclear fission](image-placeholder)
+![Guru](guru.jpeg)
 
 ### Energy released in fission
 
@@ -1575,8 +1577,8 @@ Nuclear reactor is a device in which the nuclear fission takes place in a self�
 
 **Moderators:** The moderator is a material used to convert fast neutrons into slow neutrons. Usually the moderators are chosen in such a way that they must be very light nuclei having mass comparable to that of neutrons. Hence, these light nuclei undergo collision with fast neutrons and the speed of the neutron is reduced (Note that a billiard ball striking a stationary billiard ball of equal mass would itself be stopped but the same billiard ball bounces off almost with same speed when it strikes a heavier mass. This is the reason for using lighter nuclei as moderators). Most of the reactors use heavy water \(\mathrm{D}_2\mathrm{O}\) and graphite as moderators. The blocks of uranium stacked together with blocks of graphite (the moderator) to form a large pile is shown in Figure 9.29 (a) & (b).
 
-![Figure 9.29 (a) Block diagram of Nuclear reactor](image-placeholder)
-![Figure 9.29 (b) Schematic diagram of nuclear reactor](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 **Control rods:** The control rods are used to adjust the reaction rate. During each fission, on an average \(2.5\) neutrons are emitted and in order to have the controlled chain reactions, only one neutron is allowed to cause another fission and the remaining neutrons are absorbed by the control rods. Usually cadmium or boron acts as control rod material and these rods are inserted into the uranium blocks as shown in the Figure 9.29 (a) and (b). Depending on the insertion depth of control rod into the uranium assembly, the average number of neutrons produced per fission is set to be equal to one or greater than one. If the average number of neutrons produced per fission is equal to one, then reactor is said to be in critical state. In fact, all the nuclear reactors are maintained in critical state by suitable adjustment of control rods. If it is greater than one, then reactor is said to be in super‑critical and it may explode sooner or may cause massive destruction.
 
@@ -1623,7 +1625,7 @@ An atom has a nucleus surrounded by electrons and the nucleus is made up of prot
 
 According to quark model, proton is made up of two up quarks and one down quark and neutron is made up of one up quark and two down quarks as shown in Figure 9.30.
 
-![Figure 9.30 Constituents of nucleons](image-placeholder)
+![Guru](guru.jpeg)
 
 The study of elementary particles is called particle physics and it is an active area of research even now. Till date, more than 20 Nobel prizes have been awarded in the field of particle physics.
 
@@ -1844,7 +1846,7 @@ In this activity you will be able to (i) experimentally demonstrate the concept 
 - Charge of drop is calculated using the equation \(q = \frac{6\pi\eta r (v_1 + v_2) d}{V}\).  
   \(r\) – radius of oil drop (can be measured using Microscope), \(\eta\) – viscosity of air \((1.81\times 10^{-5}\ \mathrm{kg\ m^{-1}\ s^{-1}})\), \(d\) is the distance between the plates.
 
-![Simulator image](image-placeholder)
+![Guru](guru.jpeg)
 
 **Note:**  
 1. One time sign up is needed to do simulation. Then login using that username and password.  

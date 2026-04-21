@@ -45,7 +45,7 @@ Note: We will soon see the greatness of 'that little child' who has now grown as
 
 ### 4.1.2 Magnetic Flux (\(\Phi_B\))
 
-![Magnetic flux](image-placeholder)
+![Guru](guru.jpeg)
 
 The magnetic flux \(\Phi_B\) through an area \(A\) in a magnetic field is defined as the number of magnetic field lines passing through that area normally and is given by the equation
 
@@ -95,7 +95,7 @@ The bar magnet is reversed i.e., the south pole now faces the coil. When the abo
 
 If the magnet is kept stationary and the coil is moved towards or away from the coil, similar results are obtained. It is concluded that whenever there is a relative motion between the coil and the magnet, there is deflection in the galvanometer, indicating the electric current setup in the coil.
 
-![Faraday's first experiment](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Second Experiment
 
@@ -111,13 +111,13 @@ When the electric current becomes zero, the galvanometer shows no deflection.
 
 From the above observations, it is concluded that whenever the electric current in the primary circuit changes, the galvanometer shows a deflection.
 
-![Faraday's second experiment](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Faraday's Law of Electromagnetic Induction
 
 From the results of his experiments, Faraday realized that whenever the magnetic flux linked with a closed coil changes, an emf (electromotive force) is induced and hence an electric current flows in the circuit. This current is called an induced current and the emf giving rise to such current is called an induced emf. This phenomenon is known as electromagnetic induction.
 
-![Explanation of Faraday's first experiment](image-placeholder)
+![Guru](guru.jpeg)
 
 Based on this idea, Faraday's experiments are understood in the following way. In the first experiment, when a bar magnet is placed close to a coil, some of the magnetic field lines of the bar magnet pass through the coil i.e., the magnetic flux is linked with the coil. When the bar magnet and the coil approach each other, the magnetic flux linked with the coil increases. So this increase in magnetic flux induces an emf and hence a transient electric current flows in the circuit in one direction.
 
@@ -131,7 +131,7 @@ However, when the primary circuit is closed, the increasing current builds up a 
 
 Similarly, when the primary circuit is broken, the decreasing primary current induces an electric current in the secondary coil, but in the opposite direction. So there is deflection in the galvanometer whenever there is a change in the primary current.
 
-![Explanation of Faraday's second experiment](image-placeholder)
+![Guru](guru.jpeg)
 
 The conclusions of Faraday's experiments are stated as two laws.
 
@@ -243,7 +243,7 @@ To understand Lenz's law, let us consider two illustrations in which we find the
 
 Consider a uniform magnetic field, with its field lines perpendicular to the plane of the paper and pointing inwards. These field lines are represented by crosses \((\times)\) as shown. A rectangular metallic frame ABCD is placed in this magnetic field, with its plane perpendicular to the field. The arm AB is movable so that it can slide towards right or left.
 
-![First illustration of Lenz's law](image-placeholder)
+![Guru](guru.jpeg)
 
 If the arm AB slides to our right side, the number of field lines (magnetic flux) passing through the frame ABCD increases and a current is induced. As suggested by Lenz's law, the induced current opposes this flux increase and it tries to reduce it by producing another magnetic field pointing outwards i.e., opposite to the existing magnetic field.
 
@@ -261,7 +261,7 @@ When the bar magnet is withdrawn, the nearer end becomes south pole which attrac
 
 Thus the direction of the induced current can be found from Lenz's law.
 
-![Second illustration of Lenz's law](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Conservation of energy
 
@@ -273,7 +273,7 @@ On the contrary to Lenz's law, let us assume that the induced current helps the 
 
 When a conductor moves in a magnetic field, the direction of motion of the conductor, the field and the induced current are given by Fleming's right hand rule and is as follows:
 
-![Fleming's right hand rule](image-placeholder)
+![Guru](guru.jpeg)
 
 The thumb, index finger and middle finger of right hand are stretched out in mutually perpendicular directions. If the index finger points the direction of the magnetic field and the thumb indicates the direction of motion of the conductor, then the middle finger will indicate the direction of the induced current.
 
@@ -284,7 +284,7 @@ Fleming's right hand rule is also known as generator rule.
 **EXAMPLE 4.6**  
 If the current \(i\) flowing in the straight conducting wire as shown in the figure decreases, find out the direction of induced current in the metallic square loop placed near it.
 
-![Example figure](image-placeholder)
+![Guru](guru.jpeg)
 
 **Solution**  
 From right hand rule, the magnetic field by the straight wire is directed into the plane of the square loop perpendicularly and its magnetic flux is decreasing. The decrease in flux is opposed by the current induced in the loop by producing a magnetic field in the same direction as the magnetic field of the wire. Again from right hand rule, for this inward magnetic field, the direction of the induced current in the loop is clockwise.
@@ -361,7 +361,7 @@ $$
 
 As this emf is produced due to the movement of the rod, it is often called as motional emf. If the ends \(A\) and \(B\) are connected by an external circuit of total resistance \(R\), then current \(i = \frac{\epsilon}{R} = \frac{Blv}{R}\) flows in it. The direction of the current is found from right-hand thumb rule.
 
-![Motional emf from Lorentz force](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -409,7 +409,7 @@ According to Faraday's law of electromagnetic induction, an emf is induced in a 
 
 Even for a conductor in the form of a sheet or plate, an emf is induced when magnetic flux linked with it changes. But the difference is that there is no definite loop or path for induced current to flow away. As a result, the induced currents flow in concentric circular paths. As these electric currents resemble eddies of water, these are known as Eddy currents. They are also called Foucault currents.
 
-![Eddy currents](image-placeholder)
+![Guru](guru.jpeg)
 
 ### Demonstration
 
@@ -421,7 +421,7 @@ When the electromagnet is switched on and the disc of the pendulum is made to os
 
 However if some slots are cut in the disc, the eddy currents are reduced. The pendulum now will execute several oscillations before coming to rest. This clearly demonstrates the production of eddy current in the disc of the pendulum.
 
-![Demonstration of eddy currents](image-placeholder)
+![Guru](guru.jpeg)
 
 ### Drawbacks of Eddy currents
 
@@ -429,8 +429,8 @@ When eddy currents flow in the conductor, a large amount of energy is dissipated
 
 The design of transformer core and electric motor armature is crucial in order to minimise the eddy current loss. To reduce these losses, the core of the transformer is made up of thin laminas insulated from one another while for electric motor the winding is made up of a group of wires insulated from one another. The insulation used does not allow huge eddy currents to flow and hence losses are minimized.
 
-![Insulated laminas of the core of a transformer](image-placeholder)
-![Insulated winding of an electric motor](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 **Example**  
 A spherical stone and a spherical metallic ball of same size and mass are dropped from the same height. Which one, a stone or a metal ball, will reach the Earth's surface first? Justify your answer. Assume that there is no air friction.
@@ -451,7 +451,7 @@ iv. Electromagnetic damping
 
 Induction stove is used to cook the food quickly and safely with less energy consumption. Below the cooking zone, there is a tightly wound coil of insulated wire. The cooking pan made of suitable material, is placed over the cooking zone. When the stove is switched on, an alternating current flowing in the coil produces high frequency alternating magnetic field which induces very strong eddy currents in the cooking pan. The eddy currents in the pan produce so much of heat due to Joule heating which is used to cook the food.
 
-![Induction stove](image-placeholder)
+![Guru](guru.jpeg)
 
 Note: The frequency of the domestic AC supply is increased from 50-60 Hz to around 20-40 KHz before giving it to the coil in order to produce high frequency alternating magnetic field.
 
@@ -461,20 +461,20 @@ This eddy current braking system is generally used in high speed trains and roll
 
 In some cases, the circular disc, connected to the wheel of the train through a common shaft, is made to rotate in between the poles of an electromagnet. When there is a relative motion between the disc and the magnet, eddy currents are induced in the disc which stop the train. This is Eddy current circular brake.
 
-![Linear Eddy current brake](image-placeholder)
-![Circular Eddy current brake](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 #### iii. Eddy current testing
 
 It is one of the simple non-destructive testing methods to find defects like surface cracks, air bubbles present in a specimen. A coil of insulated wire is given an alternating electric current so that it produces an alternating magnetic field. When this coil is brought near the test surface, eddy current is induced in the test surface. The presence of defects causes the change in phase and amplitude of the eddy current that can be detected by some other means. In this way, the defects present in the specimen are identified.
 
-![Eddy current testing](image-placeholder)
+![Guru](guru.jpeg)
 
 #### iv. Electromagnetic damping
 
 The armature of the galvanometer coil is wound on a soft iron cylinder. Once the armature is deflected, the relative motion between the soft iron cylinder and the radial magnetic field induces eddy current in the cylinder. The damping force due to the flow of eddy current brings the armature to rest immediately and then galvanometer shows a steady deflection. This is called electromagnetic damping.
 
-![Electromagnetic damping](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -486,13 +486,13 @@ Inductor is a device used to store energy in a magnetic field when an electric c
 
 Inductance is the property of inductors to generate emf due to the change in current flowing through that circuit (self-induction) or a change in current through a neighbouring circuit with which it is magnetically linked (mutual induction). We will study about self-induction and mutual induction in the next sections.
 
-![Examples for inductor](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Self-induction
 
 An electric current flowing through a coil will set up a magnetic field around it. Therefore, the magnetic flux of the magnetic field is linked with that coil itself. If this flux is changed by changing the current, an emf is induced in that same coil. This phenomenon is known as self-induction. The emf induced is called self-induced emf.
 
-![Self-Induction](image-placeholder)
+![Guru](guru.jpeg)
 
 Let \(\Phi_B\) be the magnetic flux linked with each turn of the coil of \(N\) turns, then the total flux linked with the coil \(N\Phi_B\) (flux linkage) is proportional to the current \(i\) in the coil.
 
@@ -536,7 +536,7 @@ We have learnt about inertia in XI standard. In translational motion, mass is a 
 
 The inductance plays the same role in a circuit as mass and moment of inertia play in mechanical motion. When a circuit is switched on, the increasing current induces an emf which opposes the growth of current in a circuit. Likewise, when circuit is broken, the decreasing current induces an emf in the reverse direction. This emf now opposes the decay of current.
 
-![Induced emf e opposes the changing current i](image-placeholder)
+![Guru](guru.jpeg)
 
 Thus, inductance of the coil opposes any change in current and tries to maintain the original state.
 
@@ -574,7 +574,7 @@ $$
 L = \mu n^2 A l \quad \text{or} \quad L = \mu_r \mu_0 n^2 A l
 $$
 
-![Self-inductance of a long solenoid](image-placeholder)
+![Guru](guru.jpeg)
 
 ### Energy stored in an inductor
 
@@ -694,7 +694,7 @@ $$
 
 In general, the mutual induction between two coils depends on size, shape, the number of turns of the coils, their relative orientation and permeability of the medium.
 
-![Mutual induction](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Unit of mutual-inductance
 
@@ -780,7 +780,7 @@ $$
 M = \mu n_1 n_2 A_2 l \quad \text{or} \quad M = \mu_r \mu_0 n_1 n_2 A_2 l
 $$
 
-![Mutual inductance of two long co-axial solenoids](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -873,7 +873,7 @@ Consider a conducting rod of length \(l\) moving with a velocity \(v\) towards l
 
 As the rod moves from \(AB\) to \(DC\) in a time \(dt\), the area enclosed by the loop and hence the magnetic flux through the loop decreases.
 
-![Production of induced emf by changing the area enclosed by the loop](image-placeholder)
+![Guru](guru.jpeg)
 
 The change in magnetic flux in time \(dt\) is
 
@@ -993,8 +993,8 @@ $$
 
 where \(I_m\) is the maximum value of induced current.
 
-![The coil has rotated through an angle \(\theta = \omega t\)](image-placeholder)
-![Variation of induced emf as a function of \(\omega t\)](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ---
 
@@ -1023,7 +1023,7 @@ The instantaneous emf is \(\epsilon = \epsilon_m \sin\omega t\), \(\epsilon_m = 
 
 AC generator or alternator is an energy conversion device. It converts mechanical energy used to rotate the coil or field magnet into electrical energy. Alternator produces a large scale electrical power for use in homes and industries. AC generator and its components are shown.
 
-![AC generator and its components](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 4.5.2 Principle
 
@@ -1045,7 +1045,7 @@ Armature winding is the coil, wound on slots provided in the armature core.
 
 Rotor contains magnetic field windings. The magnetic poles are magnetized by DC source. The ends of field windings are connected to a pair of slip rings, attached to a common shaft about which rotor rotates. Slip rings rotate along with rotor. To maintain connection between the DC source and field windings, two brushes are used which continuously slide over the slip rings. The 2-pole rotor is shown.
 
-![Stator core, Armature winding and 2-pole rotor](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 4.5.4 Advantages of stationary armature-rotating field alternator
 
@@ -1076,8 +1076,8 @@ The field magnet becomes again parallel to PQRS for \(270^\circ\) rotation of fi
 
 On completion of \(360^\circ\), the induced emf becomes zero and is represented by the point D. From the graph, it is clear that emf induced in PQRS is alternating in nature. Therefore, when field magnet completes one rotation, induced emf in PQRS finishes one cycle.
 
-![The loop PQRS and field magnet in its initial position](image-placeholder)
-![Variation of induced emf with respect to time angle](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ### 4.5.6 Poly-phase AC generator
 
@@ -1089,13 +1089,13 @@ If there are two alternating emfs produced in a generator, it is called two-phas
 
 In the simplified construction of three-phase AC generator, the armature core has 6 slots, cut on its inner rim. Each slot is \(60^\circ\) away from one another. Six armature conductors are mounted in these slots. The conductors 1 and 4 are joined in series to form coil 1. The conductors 3 and 6 form coil 2 while the conductors 5 and 2 form coil 3. So, these coils are rectangular in shape and are \(120^\circ\) apart from one another.
 
-![Construction of three-phase AC generator](image-placeholder)
+![Guru](guru.jpeg)
 
 The initial position of the field magnet is horizontal and field direction is perpendicular to the plane of the coil 1. As it is seen in single phase AC generator, when field magnet is rotated from that position in clockwise direction, alternating emf \(\epsilon_1\) in coil 1 begins a cycle from origin O.
 
 The corresponding cycle for alternating emf \(\epsilon_2\) in coil 2 starts at point A after field magnet has rotated through \(120^\circ\). Therefore, the phase difference between \(\epsilon_1\) and \(\epsilon_2\) is \(120^\circ\). Similarly, emf \(\epsilon_3\) in coil 3 would begin its cycle at point B after \(240^\circ\) rotation of field magnet from initial position. Thus these emfs produced in the three phase AC generator have \(120^\circ\) phase difference between one another.
 
-![Variation of emfs \(\epsilon_1, \epsilon_2\) and \(\epsilon_3\) with time angle](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 4.5.8 Advantages of three-phase alternator
 
@@ -1123,8 +1123,8 @@ The principle of transformer is the mutual induction between two coils. That is,
 
 In the simple construction of transformers, there are two coils of high mutual inductance wound over the same transformer core. The core is generally laminated and is made up of a good magnetic material like silicon steel. Coils are electrically insulated but magnetically linked via transformer core.
 
-![Construction of transformer](image-placeholder)
-![Roadside transformer](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 The coil across which alternating voltage is applied is called primary coil \(P\) and the coil from which output power is drawn out is called secondary coil \(S\). The assembled core and coils are kept in a container which is filled with suitable medium for better insulation and cooling purpose.
 
@@ -1220,7 +1220,7 @@ Since power produced is alternating in nature, there is a way out. The most impo
 
 At the transmitting point, the voltage is increased and the corresponding current is decreased by using step-up transformer. Then it is transmitted through transmission lines. This reduced current at high voltage reaches the destination without any appreciable loss. At the receiving point, the voltage is decreased and the current is increased to appropriate values by using step-down transformer and then it is given to consumers. Thus power transmission is done efficiently and economically.
 
-![Long distance power transmissions](image-placeholder)
+![Guru](guru.jpeg)
 
 **Illustration:**  
 An electric power of 2 MW is transmitted to a place through transmission lines of total resistance \(R = 40\ \Omega\) at two different voltages. One is lower voltage \((10\ \mathrm{kV})\) and the other is higher \((100\ \mathrm{kV})\). Let us now calculate and compare power losses in these two cases.
@@ -1277,7 +1277,7 @@ In section 4.5, we have seen that when the orientation of the coil with the magn
 
 In the Figure, an alternating voltage source is connected to a resistor \(R\) in which the upper terminal of the source is positive and lower terminal negative at an instant. Therefore, the current flows in clockwise direction. After a short time, the polarities of the source are reversed so that current now flows in anti-clockwise direction. This current which flows in alternate directions in the circuit is called alternating current.
 
-![Alternating voltage and the corresponding alternating current](image-placeholder)
+![Guru](guru.jpeg)
 
 #### Sinusoidal alternating voltage
 
@@ -1295,8 +1295,8 @@ $$
 
 where \(I_m\) is the maximum value (amplitude) of the alternating current. The direction of sinusoidal voltage or current is reversed after every half-cycle and its magnitude is also changing continuously.
 
-![Sinusoidal alternating voltage](image-placeholder)
-![Sinusoidal alternating current](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ### 4.7.2 Mean or Average value of AC
 
@@ -1334,7 +1334,7 @@ $$
 I_{av} = \frac{2I_m}{\pi} = 0.637 I_m \tag{4.32}
 $$
 
-![Sine wave of an alternating current](image-placeholder)
+![Guru](guru.jpeg)
 
 Hence the average value of AC is 0.637 times the maximum value \(I_m\) of the alternating current. For negative half-cycle, \(I_{av} = -0.637 I_m\).
 
@@ -1394,7 +1394,7 @@ $$
 
 For common household appliances, the voltage rating and current rating are generally specified in terms of their RMS value. The domestic AC supply is 230V, 50 Hz. It is the RMS or effective value. Its peak value will be \(V_m = \sqrt{2} V_{rms} = \sqrt{2} \times 230 = 325\ \mathrm{V}\).
 
-![Squared wave of AC](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -1447,8 +1447,8 @@ When \(\overline{OA}\) rotates about \(O\) with angular velocity \(\omega\) in a
 
 The alternating current in the same circuit may be given by the relation \(i = I_m \sin(\omega t + \phi)\) which is represented by another phasor \(\overline{OB}\). Here \(\phi\) is the phase angle between voltage and current. In this case, the current leads the voltage by phase angle \(\phi\). If the current lags behind the voltage, then we write \(i = I_m \sin(\omega t - \phi)\).
 
-![Phasor diagram for an alternating voltage \(v = V_m \sin\omega t\)](image-placeholder)
-![Phasor diagram and wave diagram say that \(i\) leads \(v\) by \(\phi\)](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ### 4.7.5 AC circuit containing only a resistor
 
@@ -1478,8 +1478,8 @@ $$
 
 where \(\frac{V_m}{R} = I_m\), the peak value of alternating current in the circuit. From equations (4.37) and (4.39), it is clear that the applied voltage and the current are in phase with each other in a resistive circuit. It means that they reach their maxima and minima simultaneously. This is indicated in the phasor diagram. The wave diagram also depicts that current is in phase with the applied voltage.
 
-![AC circuit with resistor](image-placeholder)
-![Phasor diagram and wave diagram for AC circuit with R](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ### 4.7.6 AC circuit containing only an inductor
 
@@ -1519,8 +1519,8 @@ $$
 
 where \(\frac{V_m}{\omega L} = I_m\), the peak value of the alternating current in the circuit. From equation (4.40) and (4.41), it is evident that current lags behind the applied voltage by \(\pi/2\) in an inductive circuit. This fact is depicted in the phasor diagram. In the wave diagram also, it is seen that current lags the voltage by \(90^\circ\).
 
-![AC circuit with inductor](image-placeholder)
-![Phasor diagram and wave diagram for AC circuit with L](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 #### Inductive reactance \(X_L\)
 
@@ -1569,8 +1569,8 @@ $$
 
 where \(\frac{V_m}{1/(C\omega)} = I_m\), the peak value of the alternating current. From equations (4.43) and (4.44), it is clear that current leads the applied voltage by \(\pi/2\) in a capacitive circuit. This is shown pictorially. The wave diagram for a capacitive circuit also shows that the current leads the applied voltage by \(90^\circ\).
 
-![AC circuit with capacitor](image-placeholder)
-![Phasor diagram and wave diagram for AC circuit with C](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 #### Capacitive reactance \(X_C\)
 
@@ -1657,9 +1657,9 @@ where \(Z = \sqrt{R^2 + (X_L - X_C)^2}\)
 
 \(Z\) is called impedance of the circuit which refers to the effective opposition to the current by the series RLC circuit.
 
-![AC circuit containing \(R, L\) and \(C\)](image-placeholder)
-![Phasor diagram for a series RLC-circuit when \(V_L > V_C\)](image-placeholder)
-![Voltage and impedance triangle when \(X_L > X_C\)](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 From phasor diagram, the phase angle between \(v\) and \(i\) is found out from the following relation
 
@@ -1743,7 +1743,7 @@ RLC circuits have many applications like filter circuits, oscillators, voltage m
 
 The tuning is commonly achieved by varying capacitance of a parallel plate variable capacitor, thereby changing the resonant frequency of the circuit. When resonant frequency is nearly equal to the frequency of the signal of the particular station, the amplitude of the current in the circuit is maximum. Thus the signal of that station alone is received.
 
-![Resonance curve](image-placeholder)
+![Guru](guru.jpeg)
 
 The phenomenon of electrical resonance is possible when the circuit contains both \(L\) and \(C\). Only then the voltage across \(L\) and \(C\) cancel one another when \(V_L\) and \(V_C\) are \(180^\circ\) out of phase and the circuit becomes purely resistive. This implies that resonance will not occur in \(RL\) and \(RC\) circuits.
 
@@ -1883,8 +1883,8 @@ Now, \(I_{RMS}\) is resolved into two perpendicular components, namely \(I_{RMS}
 
 The current in an AC circuit is said to be wattless current if the power consumed by it is zero. This wattless current occurs in a purely inductive or capacitive circuit.
 
-![\(V_{RMS}\) leads \(I_{RMS}\) by \(\phi\)](image-placeholder)
-![The components of \(I_{RMS}\)](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 ### 4.8.3 Power factor
 
@@ -1982,7 +1982,7 @@ As already explained, the processes are repeated in opposite direction. Finally,
 
 In the ideal LC circuit, there is no loss of energy. Therefore, the oscillations will continue indefinitely. Such oscillations are called undamped oscillations.
 
-![LC oscillations](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 4.9.2 Conservation of energy in LC oscillations
 

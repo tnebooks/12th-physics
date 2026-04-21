@@ -43,11 +43,11 @@ $$
 i = r \tag{6.1}
 $$
 
-![Reflection of light](image-placeholder)
+![Guru](guru.jpeg)
 
 The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays. If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection.
 
-![Regular and irregular reflections](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.1.3 Angle of deviation due to reflection
 
@@ -63,7 +63,7 @@ $$
 d = 2\alpha \tag{6.3}
 $$
 
-![Angle of deviation due to reflection](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -79,7 +79,7 @@ $$
 \angle R_1OR_2 = \angle N'OR_2 - \angle N'OR_1 = (i + \theta) - (i - \theta) = 2\theta
 $$
 
-![Example figure](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.1.4 Image formation in plane mirror
 
@@ -100,7 +100,7 @@ $$
 
 This shows that the image distance \(d_i\) inside the plane mirror is equal to the object distance \(d_o\) in front of the plane mirror.
 
-![Formation of image in plane mirror for point and extended objects](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.1.5 Characteristics of the image formed by plane mirror
 
@@ -118,7 +118,7 @@ This shows that the image distance \(d_i\) inside the plane mirror is equal to t
 | Odd | Symmetrical | \(n = (360/\theta - 1)\) |
 | Odd | Unsymmetrical | \(n = (360/\theta)\) |
 
-![Images formed by inclined mirrors](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -148,7 +148,7 @@ A spherical surface is a part cut from a hollow sphere. Spherical mirrors are ge
 
 We shall get familiarised with some of the terminologies pertaining to spherical mirrors.
 
-![Spherical mirrors](image-placeholder)
+![Guru](guru.jpeg)
 
 **Centre of curvature:** The centre of the sphere of which the mirror is a part is called the centre of curvature \(C\) of the mirror.
 
@@ -168,17 +168,17 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 All the above mentioned terms are shown for both concave and convex mirrors.
 
-![Representation of terminologies for concave and convex mirrors](image-placeholder)
+![Guru](guru.jpeg)
 
 The paraxial rays are the rays which travel very close to the principal axis and make small angles with it. They fall on the mirror very close to the pole. On the other hand, the marginal rays are the rays which travel far away from the principal axis and make large angles with it. They fall on the mirror far away from the pole. These two rays behave differently (get focused at different points). In this chapter, we shall restrict our studies only to paraxial rays. As the angles made by the paraxial rays are very small, we can make good approximations.
 
-![Paraxial and marginal rays](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.2.2 Relation between \(f\) and \(R\)
 
 Let \(C\) be the centre of curvature of the mirror. Consider a ray of light parallel to the principal axis is incident on the mirror at M. It passes through the principal focus F after reflection. The geometry related to this is shown. The line CM is the normal to the mirror at M. Let \(i\) be the angle of incidence and the same will be the angle of reflection.
 
-![Relation between \(f\) and \(R\)](image-placeholder)
+![Guru](guru.jpeg)
 
 If MP is the perpendicular from M to the principal axis, then
 
@@ -213,7 +213,7 @@ Equation (6.4) is the relation between \(f\) and \(R\). The construction is show
 
 The image formed by spherical mirror can be found by ray construction called image tracing. To locate an image point, a minimum of two rays must meet at that point. We can use at least any two of the following four rays.
 
-![Image tracing](image-placeholder)
+![Guru](guru.jpeg)
 
 (i) A ray parallel to the principal axis after reflection will pass (or appear to pass) through the principal focus.  
 (ii) A ray passing (or appear passing) through the principal focus, after reflection will travel parallel to the principal axis.  
@@ -231,7 +231,7 @@ While tracing the image, we would normally come across the object distance \(u\)
 (v) Heights measured upwards perpendicular to the principal axis are taken as positive.  
 (vi) Heights measured downwards perpendicular to the principal axis, are taken as negative.
 
-![Cartesian sign convention](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.2.5 Mirror equation
 
@@ -239,7 +239,7 @@ The mirror equation establishes a relation among object distance \(u\), image di
 
 An object AB is considered on the principal axis of a concave mirror beyond the centre of curvature C. The image formation is shown. Let us consider three paraxial rays from point B on the object. The first paraxial ray BD travels parallel to the principal axis. It is incident on the concave mirror at D, close to the pole P. It is reflected back through the focus F. The second paraxial ray BP is incident at the pole P. It is reflected along PB'. The third paraxial ray BC passing through centre of curvature C, falls normally on the mirror at E. It is reflected back along the same path. The three reflected rays intersect at the point B'. A perpendicular drawn as A'B' to the principal axis gives the real, inverted image.
 
-![Mirror equation](image-placeholder)
+![Guru](guru.jpeg)
 
 As per law of reflection, the angle of incidence \(\angle BPA\) is equal to the angle of reflection \(\angle B'PA'\).  
 
@@ -365,7 +365,7 @@ Given: length of object \(l = \frac{f}{3}\)
 
 For the given condition, the image formation is shown.
 
-![Example figure](image-placeholder)
+![Guru](guru.jpeg)
 
 Let \(l'\) be the length of the image, then
 
@@ -451,7 +451,7 @@ $$
 
 Fizeau had some difficulty to visually estimate the minimum intensity of the light when it is blocked by the adjacent tooth. The value of speed of light determined by him was very close to the actual value. Later on, with the same idea of Fizeau and with much sophisticated instruments, the speed of light in air was determined as \(v = 2.99792 \times 10^{8}\ \mathrm{m\ s^{-1}}\).
 
-![Fizeau's method](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.3.2 Speed of light through vacuum and different media
 
@@ -539,23 +539,23 @@ $$
 
 The law of refraction is also known as Snell's law.
 
-![Refraction of light](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.4.1 Angle of deviation due to refraction
 
 The angle between the direction of incident ray and the refracted ray is called angle of deviation due to refraction. When light travels from rarer to denser medium, it deviates towards normal. The angle of deviation in this case is \(d = i - r\).
 
-![Angle of deviation due to refraction from rarer to denser medium](image-placeholder)
+![Guru](guru.jpeg)
 
 On the other hand, if light travels from denser to rarer medium, it deviates away from normal. The angle of deviation in this case is \(d = r - i\).
 
-![Angle of deviation due to refraction from denser to rarer medium](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.4.2 Simultaneous reflection (or) refraction
 
 In any refracting surface there will also be some reflection taking place. Thus, the intensity of refracted light will be lesser than the incident light. The phenomenon in which a part of light from a source undergoing reflection and the other part of light from the same source undergoing refraction at the same surface is called simultaneous reflection (or) simultaneous refraction. Such surfaces are available as partially silvered glasses.
 
-![Simultaneous reflection (or) refraction](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.4.3 Principle of reversibility
 
@@ -720,7 +720,7 @@ The critical angle \(i_c\) depends on the refractive index \(n\) of the medium. 
 
 For example, the refractive index of glass is about 1.5. The critical angle for glass-air interface is \(i_c = \sin^{-1}(1/1.5) = 41.8^\circ\). The refractive index of water is 1.33. The critical angle for water-air interface is \(i_c = \sin^{-1}(1/1.33) = 48.6^\circ\).
 
-![Critical angle and total internal reflection](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.4.7 Effects due to total internal reflection
 
@@ -728,13 +728,13 @@ For example, the refractive index of glass is about 1.5. The critical angle for 
 
 Diamond appears dazzling because of the total internal reflection of light that happens inside the diamond. The refractive index of diamond is about 2.417. It is much greater than the refractive index of ordinary glass which is about only 1.5. The critical angle of diamond is about \(24.4^\circ\). It is much less than that of ordinary glass. A skilled diamond cutter makes use of this larger range of angle of incidence (\(24.4^\circ\) to \(90^\circ\) inside the diamond), to ensure that light entering the diamond is total internally reflected from the many cut faces before getting out. This gives a sparkling effect for diamond.
 
-![Total internal reflection in diamond](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 6.4.7.2 Mirage and looming
 
 The refractive index of air increases with its density. In hot places, air near the ground is hotter than air at a height. Hot air is less dense. Hence, in still air the refractive index of air increases with height. Because of this, the light from tall objects like a tree, try to pass through a medium whose refractive index decreases towards the ground. Hence, the ray of light successively deviates away from the normal at different layers of air and undergoes total internal reflection when the angle of incidence near the ground exceeds the critical angle. This gives an illusion as if the light comes from somewhere below the ground. Because of the shaky nature of the layers of air, the observer feels as if the object is getting reflected by a pool of water (or) wet surface beneath the object. This phenomenon is called mirage.
 
-![Mirage and looming](image-placeholder)
+![Guru](guru.jpeg)
 
 In cold places the refractive index increases towards the ground because the temperature of air close to the ground is lesser than the temperature at a height above the surface of earth. Thus, the density and refractive index of air close to the ground is greater than for air at a height. In the cold regions like glaciers and frozen lakes, the reverse effect of mirage will happen. Hence, an inverted image is formed little above the surface. This phenomenon is called looming. It is also called as superior mirage, towering and stooping.
 
@@ -742,7 +742,7 @@ In cold places the refractive index increases towards the ground because the tem
 
 Prisms can be designed to reflect light by \(90^\circ\) or by \(180^\circ\) by making use of total internal reflection.
 
-![Prisms making use of total internal reflection](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 6.4.7.4 Radius of illumination (Snell's window)
 
@@ -750,7 +750,7 @@ When a source of light like electric bulb is kept inside a water tank, the light
 
 On the other hand, when the light entering the water from outside is seen from inside the water, the view is restricted to a particular angle equal to the critical angle \(i_c\). The restricted illuminated circular area is called Snell's window. The angle of view for water animals is restricted to twice the critical angle \(2i_c\). The critical angle for water is \(48.6^\circ\). Thus the angle of view is \(97.2^\circ\). The radius R of the circular area depends on the depth \(d\) from which it is seen and also the refractive index \(n\) of the medium. The radius R of Snell's window can be deduced with the illustration.
 
-![Snell's window and angle of view for water animals](image-placeholder)
+![Guru](guru.jpeg)
 
 Light is seen from a point A at a depth \(d\). The Snell's law in product form for the refraction happening at the point B on the boundary between the two media is,
 
@@ -842,7 +842,7 @@ $$
 
 Transmitting the signals through optical fibres is possible due to the phenomenon of total internal reflection. Optical fibres consist of inner part called core and outer part called cladding (or) sleaving. The refractive index of the core must be higher than that of the cladding for total internal reflection to happen. Signal in the form of light is made to incident inside the core-cladding boundary at an angle greater than the critical angle. Hence, it advances with repeated total internal reflections inside the optical fibre without undergoing any refraction. The light travels inside the core with no appreciable loss in the intensity of the light.
 
-![Optical fibre](image-placeholder)
+![Guru](guru.jpeg)
 
 While bending the optical fibre, it is done in such a way that the condition for total internal reflection is ensured at every reflection inside the fibre.
 
@@ -850,7 +850,7 @@ While bending the optical fibre, it is done in such a way that the condition for
 
 To ensure the critical angle incidence in the core-cladding boundary inside the optical fibre, the light should be incident at a certain angle called acceptance angle at the end of the optical fibre while entering into it. It depends on the refractive indices of the core \(n_1\), cladding \(n_2\) and the outer medium \(n_3\). Assume that the light is incident at an angle called acceptance angle \(i_a\) at the outer medium-core boundary at A.
 
-![Acceptance angle and acceptance cone](image-placeholder)
+![Guru](guru.jpeg)
 
 The Snell's law in the product form for this refraction at the point A is,
 
@@ -988,7 +988,7 @@ The sign conventions are similar to that of the spherical mirrors.
 
 Let us consider two transparent media with refractive indices \(n_1\) and \(n_2\) which are separated by a spherical surface. Let C be the centre of curvature of the spherical surface. Let a point object O be in the medium \(n_1\). The line OC is the principal axis that cuts the spherical surface at the pole P. As the rays considered are paraxial rays, the perpendicular dropped from the point of incidence to the principal axis is very close to the pole (or) passes through the pole itself.
 
-![Refraction at single spherical surface](image-placeholder)
+![Guru](guru.jpeg)
 
 Light from O falls on the refracting surface at N. The normal drawn to the refracting surface at the point of incidence passes through the centre of curvature C. As \(n_2 > n_1\), light in the denser medium deviates towards the normal and meets the principal axis at I where the image is formed.
 
@@ -1109,11 +1109,11 @@ As the thin lens is formed by two surfaces, the lens may separate two different 
 
 The primary focus \(F_1\) is defined as a point where a point source kept produces a parallel emergent rays to the principal axis after passing through lens. For a converging lens, such an object is a real object and for a diverging lens, it is a virtual object. The distance \(PF_1\) is the primary focal length \(f_1\).
 
-![Primary focus](image-placeholder)
+![Guru](guru.jpeg)
 
 The secondary focus \(F_2\) is defined as a point where all the parallel rays travelling close to the principal axis converge to form an image on the principal axis after passing through lens. For a converging lens, such an image is a real image and for a diverging lens, it is a virtual image. The distance \(PF_2\) is the secondary focal length \(f_2\).
 
-![Secondary focus](image-placeholder)
+![Guru](guru.jpeg)
 
 If the media on the two sides of a thin lens have same refractive index, then the two focal lengths are equal. We will mostly be using the secondary focus \(F_2\) in our further discussions.
 
@@ -1129,7 +1129,7 @@ The other sign conventions for object distance, image distance, radius of curvat
 
 Let us consider a thin lens made up of a medium of refractive index \(n_2\) placed in a medium of refractive index \(n_1\). Let \(R_1\) and \(R_2\) be the radii of curvature of two spherical surfaces ① and ② respectively and P be the pole. Consider a point object O on the principal axis. A paraxial ray from O which falls very close to P, after refraction at the surface ① forms image at I'. Before it does so, it is again refracted by the surface ②. Therefore, the final image is formed at I.
 
-![Refraction through thin lens](image-placeholder)
+![Guru](guru.jpeg)
 
 The general equation for the refraction at a single spherical surface is given by equation (6.56),
 
@@ -1187,7 +1187,7 @@ This is the lens equation which relates object distance \(u\) and image distance
 
 Let us consider an object OO' of height \(h_1\) placed on the principal axis with its height perpendicular to the principal axis. The inverted real image II' is formed which has a height \(h_2\).
 
-![Lateral magnification in thin lens](image-placeholder)
+![Guru](guru.jpeg)
 
 The lateral (or) transverse magnification \(m\) is defined as the ratio of the height of the image to height of the object.
 
@@ -1304,7 +1304,7 @@ As the power is positive, it is a converging lens.
 
 Let us consider two lenses ① and ② of focal lengths \(f_1\) and \(f_2\) placed coaxially in contact with each other so that they have a common principal axis. For a point object placed at O beyond the focus of the lens ① on the principal axis, an image is formed by it at I'. This image I' acts as an object for the lens ② and the final image is formed at I. As these two lenses are thin, the measurements are done with respect to the common optic centre P between the two lenses.
 
-![Lenses in contact](image-placeholder)
+![Guru](guru.jpeg)
 
 For lens ①, object distance \(PO = u\), image distance \(PI' = v'\),
 For lens ②, object distance \(PI' = v'\), image distance \(PI = v\).
@@ -1431,7 +1431,7 @@ Thus, (a) final image is \(10\ \mathrm{cm}\) to the right of the second lens, (b
 
 If one of the surfaces of a lens is silvered from outside, then such a lens is said to be a silvered lens. A silvered lens is a combination of a lens and a mirror. Light can enter through the transparent front surface of the lens and get reflected by the silver coated rear surface. Hence, light travels two times through the lens.
 
-![Silvered lens](image-placeholder)
+![Guru](guru.jpeg)
 
 The power P of the silvered lens is,
 
@@ -1507,13 +1507,13 @@ So the silvered lens behaves as a concave mirror of focal length \(7.5\ \mathrm{
 
 A prism is a triangular block of transparent glass. It is bounded by the three plane faces. Its one face is rough which is called base of the prism. The other two faces are polished which are called refracting faces of the prism. The angle between the two refracting faces is called angle of the prism (or) refracting angle (or) apex angle. It is represented as \(A\).
 
-![Prism](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.7.1 Angle of deviation produced by prism
 
 Consider a prism ABC. The faces AB and AC are polished and the face BC is rough. Let light ray PQ is incident on one of the refracting faces of the prism. The angles of incidence and refraction at the first face AB are \(i_1\) and \(r_1\). The path of the light inside the prism is QR. The angles of incidence and refraction at the second face AC are \(r_2\) and \(i_2\) respectively. RS is the ray emerging from the second face. Angle \(i_2\) is also called as angle of emergence. The angle between the direction of incident ray and the emergent ray is called the angle of deviation \(d\) in a prism.
 
-![Refraction through prism](image-placeholder)
+![Guru](guru.jpeg)
 
 The angle of deviation \(d_1\) at surface AB is \(d_1 = i_1 - r_1\).  
 The angle of deviation \(d_2\) at surface AC is \(d_2 = i_2 - r_2\).  
@@ -1563,14 +1563,14 @@ Thus \(n = \frac{1}{\sin i_c} = \frac{1}{\sin 60^\circ} = \frac{2}{\sqrt{3}} \ap
 
 A graph plotted between the angle of incidence and angle of deviation shows that the angle of deviation decreases with increase in angle of incidence and reaches a minimum value D and then continues to increase.
 
-![Graph between \(i\) and \(d\)](image-placeholder)
+![Guru](guru.jpeg)
 
 The minimum value of angle of deviation is called angle of minimum deviation D. At minimum deviation,
 (i) the angle of incidence is equal to the angle of emergence, \(i_1 = i_2 = i\).
 (ii) the angle of refraction at the face one and face two are equal, \(r_1 = r_2 = r\).
 (iii) the refracted ray inside the prism is parallel to its base of the prism.
 
-![Angle of minimum deviation](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 6.7.3 Refractive index of the material of the prism
 
@@ -1603,7 +1603,7 @@ $$
 
 When white light enters a prism, an effect called dispersion takes place. Dispersion is splitting of white light into its constituent colours. This band of colours of light is called its spectrum. When a narrow beam of parallel rays of white light is incident on a prism, a band of colours is obtained in the order VIBGYOR (Violet, Indigo, Blue, Green, Yellow, Orange, Red). Violet is the most deviated colour and red is the least deviated.
 
-![Dispersion of white light into its constituent colours](image-placeholder)
+![Guru](guru.jpeg)
 
 Each colour in vacuum has a definite wavelength. Red has the longest wavelength of about \(700\ \mathrm{nm}\) while violet has the shortest wavelength of about \(400\ \mathrm{nm}\). All colours travel with the same speed in vacuum. In a medium, the red colour travels with the highest speed and violet colour with the least speed. Hence, the refractive index of the material of the prism is different for different colours. For violet, the refractive index is the highest and for red it is the least.
 
@@ -1670,7 +1670,7 @@ If light is scattered by large particles like dust and water droplets which have
 
 If earth had no atmosphere, there would be no scattering and the sky would appear dark. That is why sky appears dark for astronauts above the atmosphere.
 
-![Scattering of different types](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 

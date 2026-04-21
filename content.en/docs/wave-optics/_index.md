@@ -66,13 +66,13 @@ Wave optics deals with the wave characteristics of light. Even the law of reflec
 
 A good example for wave propagation is the spreading of circular ripples on the surface of still water from a point where a stone is dropped. The molecules (or) particles of water at a point are moving only up and down (oscillate) when a ripple passes through that point. All these particles on the circular ripple are in the same phase of vibration as they are all at the same distance from the center. The ripple represents a wavefront as shown in Figure 7.1(a). A wavefront is the locus of points which are in the same state (or) phase of vibration.
 
-![Figure 7.1 (a) Ripples on water surface (b) Wavefront and ray](image-placeholder)
+![Guru](guru.jpeg)
 
 When a wave propagates it is treated as the propagation of wavefront. The wavefront is always perpendicular to the direction of the propagation of the wave. As the direction of ray is in the direction of propagation of the wave, the wavefront is always perpendicular to the ray as shown in Figure 7.1(b).
 
 The shape of a wavefront observed at a point depends on the shape of the source and also the distance at which the source is located. A point source located at a finite distance gives spherical wavefronts. An extended (or) line source at finite distance gives cylindrical wavefronts. Any source that is located at infinity gives plane wavefront as shown in Figure 7.2.
 
-![Figure 7.2 Wavefronts](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.2.2 Huygens' Principle
 
@@ -80,7 +80,7 @@ Huygens principle is basically a geometrical construction which gives the shape 
 
 The propagation of a spherical and plane wavefront can be explained using Huygens' principle. Let AB be the wavefront at a time \(t = 0\). According to Huygens' principle, every point on AB acts as a source of secondary wavelet which travels with the speed of the wave (speed of light \(c\)). To find the position of the wavefront after a time \(t\), circles of radius equal to \(ct\) are drawn with points P, Q, R ... etc., as centers on AB. The forward envelope (or) the tangent A'B' of the small circles is the new wavefront at that instant \(t\). The wavefront A'B' will be a spherical wavefront from a point object which is at a finite distance as shown in Figure 7.3(a) and it is a plane wavefront if the source of light is at a large distance (infinity) as shown in Figure 7.3(b).
 
-![Figure 7.3 Huygens' Principle](image-placeholder)
+![Guru](guru.jpeg)
 
 There is one shortcoming in the above Huygens' construction for propagation of a wavefront. It could not explain the absence of backward wave which also arises in the above construction. According to electromagnetic wave theory, the backward wave is ruled out inherently. However, Huygens' principle is a good diagrammatic construction which explains the propagation of the wavefront.
 
@@ -88,7 +88,7 @@ There is one shortcoming in the above Huygens' construction for propagation of a
 
 Let us consider a parallel beam of light is incident on a reflecting plane surface such as a plane mirror XY as shown in Figure 7.4. The incident wavefront is AB and the reflected wavefront is A'B'. These wavefronts are perpendicular to the incident rays L, M and reflected rays L', M' respectively. By the time point A of the incident wavefront touches the reflecting surface, the point B is yet to travel a distance BB' to touch the reflecting surface at B'. When the point B touches the reflecting surface at B', the point A would have reached A'. This is applicable to all the points on the wavefront. Thus, the reflected wavefront A'B' emanates as a plane wavefront. The two normals N and N' are considered at the points where the rays L and M fall on the reflecting surface. As reflection happens in the same medium, the speed of light is same before and after the reflection. The time taken for the light to travel from B to B' and A to A' are the same. Thus, the distance BB' is equal to the distance AA'; \((AA' = BB')\).
 
-![Figure 7.4 Laws of reflection](image-placeholder)
+![Guru](guru.jpeg)
 
 (i) The incident rays, the reflected rays and the normal are in the same plane.
 
@@ -234,7 +234,7 @@ Superposition of waves refers to addition of waves. The concept of superposition
 
 Let us consider two light waves from the two sources \(S_1\) and \(S_2\) meeting at a point P as shown in Figure 7.6.
 
-![Figure 7.6 Superposition principle](image-placeholder)
+![Guru](guru.jpeg)
 
 The wave from \(S_1\) at an instant \(t\) at P is,
 
@@ -389,7 +389,7 @@ For \(\phi = \pi/3\), \(I = 4I_0 \cos^2(\pi/6) = 4I_0 \left(\frac{\sqrt{3}}{2}\r
 
 Phase is the angular position of vibration when a wave progresses, there is a relation between the phase of the vibration and the path travelled by the wave. We can express the phase in terms of path and vice versa. In the path of the wave, one wavelength \(\lambda\) corresponds to a phase of \(2\pi\) as shown in Figure 7.7. A path difference \(\delta\) corresponds to a phase difference \(\phi\) as given by the equation,
 
-![Figure 7.7 Path difference and phase difference](image-placeholder)
+![Guru](guru.jpeg)
 
 $$
 \delta = \frac{\lambda}{2\pi} \phi \quad (\text{or}) \quad \phi = \frac{2\pi}{\lambda} \delta \tag{7.23}
@@ -439,21 +439,21 @@ To obtain coherent light waves, we have the following three techniques.
 
 **(i) Wavefront division:** This is the most commonly used method for producing coherent sources. We know a point source produces spherical wavefronts. All the points on the wavefront are at the same phase. If two points are chosen on the wavefront by using a double slit, the two points will act as coherent sources as shown in Figure 7.8.
 
-![Figure 7.8 Wavefront division](image-placeholder)
+![Guru](guru.jpeg)
 
 **(ii) Intensity (or) Amplitude division:** If we allow light to pass through a partially silvered mirror (beam splitter), both reflection and refraction take place simultaneously. As the two light beams are obtained from the same light source, the two divided light beams will be coherent beams. They will be either in-phase or at constant phase difference as shown in Figure 7.9. Instruments like Michelson's interferometer, Fabray-Perot etalon work on this principle.
 
-![Figure 7.9 Intensity (or) amplitude division](image-placeholder)
+![Guru](guru.jpeg)
 
 **(iii) Source and Images:** In this method a source and its images will act as a set of coherent sources, because the source and its image will have waves in-phase (or) constant phase difference as shown in Figure 7.10. The Instrument, Fresnel's biprism uses two virtual images of the source as two coherent sources and the instrument, Lloyd's mirror uses a source and its one virtual image as two coherent sources.
 
-![Figure 7.10 Source and images as coherent sources](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.3.3 Double slit as coherent sources
 
 Double slit uses the principle of wavefront division. Two slits \(S_1\) and \(S_2\) illuminated by a single monochromatic source S act as two coherent sources. The waves from them travel in the same medium and superpose. The constructive and destructive interference formed by them are shown in Figure 7.11(a). The crests of the waves are shown by thick continuous lines and troughs are shown by broken lines in Figure 7.11(b).
 
-![Figure 7.11 Interference due to double slit](image-placeholder)
+![Guru](guru.jpeg)
 
 At points where the crest of one wave meets the crest of the other wave (or) the trough of one wave meets the trough of the other wave, the waves are in-phase. Hence, the displacement is maximum and these points appear bright as a result of this constructive interference.
 
@@ -468,12 +468,12 @@ Thomas Young, a British Physicist in 1801 used an opaque screen with two small o
 
 Wavefronts from \(S_1\) and \(S_2\) spread out and overlap on the other side of the double slit. When a screen is placed at a distance of about \(1\ \mathrm{m}\) from the slits, alternate bright and dark fringes which are equally spaced appear on the screen. These are called interference fringes (or) bands. Using an eyepiece, the fringes can be seen directly. At the center point O on the screen, the waves from \(S_1\) and \(S_2\) travel equal distances and arrive in-phase as shown in Figure 7.12. These two waves constructively interfere and a bright fringe is observed at O. This is called central bright fringe. When one of the slits is closed, the fringes disappear and there is uniform illumination on the screen. This shows clearly that the bands are due to interference.
 
-![Figure 7.12 Young's double slit experimental setup](image-placeholder)
+![Guru](guru.jpeg)
 
 **Equation for path difference**  
 The schematic diagram of the experimental setup is shown in Figure 7.13.
 
-![Figure 7.13 Young's double slit arrangement to find path difference](image-placeholder)
+![Guru](guru.jpeg)
 
 Let \(d\) be the distance between the double slits \(S_1\) and \(S_2\) which act as coherent sources of wavelength \(\lambda\). A screen is placed parallel to the double slit at a distance D from it. The mid-point of \(S_1\) and \(S_2\) is C and the mid-point of the screen O is equidistant from \(S_1\) and \(S_2\). P is any point at a distance y from O. The waves from \(S_1\) and \(S_2\) meet at P either in-phase or out-of-phase depending upon the path difference between the two waves.
 
@@ -545,11 +545,11 @@ $$
 
 This is the condition for the point P to have a dark fringe. The distance \(y_n\) is the distance of the \(n^{\text{th}}\) dark fringe from the point O. The formation of bright and dark fringes is shown in Figure 7.14.
 
-![Figure 7.14 Formation of bright and dark fringes](image-placeholder)
+![Guru](guru.jpeg)
 
 This shows that on the screen, alternate bright and dark fringes are seen on either side of the central bright fringe. The central bright is referred as \(0^{\text{th}}\) bright followed by \(1^{\text{st}}\) dark and \(1^{\text{st}}\) bright and then \(2^{\text{nd}}\) dark and \(2^{\text{nd}}\) bright and so on, on either side of O successively as shown in Figure 7.15.
 
-![Figure 7.15 Interference fringe pattern](image-placeholder)
+![Guru](guru.jpeg)
 
 **Equation for bandwidth**  
 The bandwidth \(\beta\) is defined as the distance between any two consecutive bright (or) dark fringes.
@@ -631,7 +631,7 @@ The distance from central fringe is \(y = n\frac{\lambda_1 D}{d} = 3 \times \fra
 
 A film of thickness in the order of \(1\ \mu\mathrm{m}\) is called a thin film. The brilliant colours seen in soap bubbles, oil films on water surface, and in the wing of a beetle are due to interference of light. These are examples of thin film interference. Let us consider a thin film of thickness \(d\) and refractive index \(\mu\). For simplicity, the incident light is assumed to be normal to the film as shown in Figure 7.16.
 
-![Figure 7.16 Interference in thin film](image-placeholder)
+![Guru](guru.jpeg)
 
 **For transmitted light**  
 The light wave transmitted from a point A on the top surface after refraction passes through the film and emerges out at C without any reflection. The wave transmitted from point B after two refractions and one reflection inside the film travels an extra path up to B where the splitting occurred. The extra path travelled by the wave transmitted from D is the path inside the film, BC + CD. If we approximate the incidence to be nearly normal \((i = 0)\) and the film of small thickness, then the points B and D are very close to each other. The extra distance travelled by the wave is approximately twice thickness of the film, \(BC + CD = 2d\). As this extra path is traversed inside the medium of refractive index \(\mu\), the optical path difference is \(\delta = 2\mu d\).
@@ -712,12 +712,12 @@ All the light waves coming from different points on the slit interfere at point 
 
 The basic idea is to divide the slit into even number of smaller parts. Then, add their contributions at P with the proper path difference to show that destructive interference takes place at that point to make it minimum. To explain maximum, the slit is divided into odd number of parts.
 
-![Figure 7.17 Diffraction at single slit](image-placeholder)
+![Guru](guru.jpeg)
 
 **Condition for P to be first minimum**  
 Let us divide the slit AB into two halves AC and CB. Now the width of each part is \(a/2\). We have different points on the slit which are separated by the same width \(a/2\) called as corresponding points. This is shown in Figure 7.18.
 
-![Figure 7.18 Corresponding points](image-placeholder)
+![Guru](guru.jpeg)
 
 The light waves from different corresponding points meet at point P and interfere destructively to make it a minimum. The path difference \(\delta\) between the waves from these corresponding points is \(\delta = \frac{a}{2}\sin \theta\).
 
@@ -824,7 +824,7 @@ The equation for first minimum in single slit diffraction is \(a \sin \theta = \
 
 The rectilinear propagation of light is violated as there is bending of light in diffraction. But, this bending is not seen till the diffracted ray crosses the central maximum at a distance \(z\) from the slit as shown in Figure 7.19. Hence, Fresnel's distance is the distance upto which the ray optics is obeyed and beyond which the ray optics is not obeyed; but, the wave optics becomes significant.
 
-![Figure 7.19 Fresnel's distance](image-placeholder)
+![Guru](guru.jpeg)
 
 The diffraction equation for first minimum is \(\sin \theta = \frac{\lambda}{a}\); when \(\theta\) is small, \(\theta = \frac{\lambda}{a}\).
 
@@ -868,7 +868,7 @@ It is difficult to find the difference between interference and diffraction as t
 
 A grating has multiple slits with equal widths of comparable size to the wavelength of diffracting light. A grating is a plane sheet of transparent material on which opaque rulings are made. A modern commercial grating contains about 6000 lines per centimetre. The transparent space between the rulings act as slit of width \(a\) and the rulings act as obstacles having a definite width b. The combined width of a slit and a ruling is called grating element e, \((e = a + b)\). The points on the slit separated by a distance equal to the grating element are called corresponding points.
 
-![Figure 7.20 Diffraction grating experiment](image-placeholder)
+![Guru](guru.jpeg)
 
 A plane transmission grating is represented as AB in Figure 7.20. Let a plane wavefront of monochromatic light with wavelength \(\lambda\) be incident on the grating. As the width of the slit is comparable to that of wavelength, the incident light undergoes diffraction.
 
@@ -944,7 +944,7 @@ A monochromatic light of wavelength \(500\ \mathrm{nm}\) strikes a grating and p
 
 The wavelength of a spectral line can be very accurately determined with the help of a plane transmission grating. For that we need to use an instrument called spectrometer (Refer 7.6.6). After preliminary adjustments, the slit of collimator is illuminated by a monochromatic light, whose wavelength is to be determined. The telescope is brought in line with collimator to view the image of the slit. The given grating is then mounted on the prism table with its plane perpendicular to the incident beam of light coming from the collimator. The telescope is turned to one side until the first order diffraction image of the slit is seen. The reading of the position of the telescope is noted. Similarly, the first order diffraction image on the other side is captured and the reading is noted. The difference between two readings gives \(2\theta\). Half of its value gives \(\theta\). The angle for first order maximum is shown in Figure 7.21. The wavelength of light is calculated from the equation,
 
-![Figure 7.21 Determination of wavelength using grating](image-placeholder)
+![Guru](guru.jpeg)
 
 $$
 \lambda = \frac{\sin \theta}{Nm} \tag{7.51}
@@ -956,7 +956,7 @@ Here, N is the number of rulings per metre in the grating and m is the order of 
 
 The diffraction pattern for white light consists of a white central maximum and continuous coloured diffraction pattern on its both sides. The central maximum is white as all the colours constructively meet at centre with no path difference. As \(\theta\) increases, the path difference fulfills the condition for maxima of different orders for all colours from violet to red. It produces a spectrum of diffraction pattern from violet to red on either side of central maximum as shown in Figure 7.22. By measuring the angle at which these colours appear for various orders of diffraction, the wavelength of different colours could be calculated using the formula given by equation (7.51).
 
-![Figure 7.22 Diffraction with white light](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.4.9 Resolution
 
@@ -970,7 +970,7 @@ $$
 
 Here, the numerical value 1.22 appears in the expression for central maximum (or) first minimum formed by circular slits. This involves higher level mathematics that is not shown here.
 
-![Figure 7.23 Airy's discs](image-placeholder)
+![Guru](guru.jpeg)
 
 For small angles, \(\sin \theta \approx \theta\) the above equation becomes,
 
@@ -992,7 +992,7 @@ $$
 
 For example, let two point-sources of light close to each other form image on a screen. The diffraction pattern of one point-source may overlap with another and produce a blurred image (or) unresolved image as shown in Figure 7.24(a). To obtain a quality image (or) well resolved image, the two point-sources must be kept apart in such a way that their diffraction patterns do not overlap as shown in Figure 7.24(c).
 
-![Figure 7.24 Rayleigh's criterion](image-placeholder)
+![Guru](guru.jpeg)
 
 According to Rayleigh's criterion, the two points on an image are said to be just resolved when the central maximum of one diffraction pattern coincides with the first minimum of the other and vice-versa as shown in Figure 7.24(b). In other words, the distance between the two central maxima must be at least \(r_0\). Hence, \(r_0\) is called spatial resolution given by equation (7.54) and the corresponding \(\theta\) is said to be angular resolution given by equation (7.53) respectively. It shows that for better resolution, the wavelength of light used must be as small as possible and the size of the aperture of the instrument must be as large as possible.
 
@@ -1018,11 +1018,11 @@ Both, longitudinal and transverse waves exhibit the phenomena of interference an
 
 An unpolarised light is a transverse wave which has vibrations in all directions in a plane perpendicular to the direction of propagation of wave as shown in Figure 7.25(a). All these vibrations could be resolved into two normal components as shown in Figure 7.25(b), which still represents unpolarised light. If the vibrations of a wave are present in only one direction in a plane perpendicular to the direction of propagation, then the light is said to be polarised (or) plane polarised light as shown in Figure 7.25(c) and 7.25(d).
 
-![Figure 7.25 Unpolarised and polarised light](image-placeholder)
+![Guru](guru.jpeg)
 
 The plane containing the vibrations of the electric field vector is known as the plane of vibration ABCD as shown in Figure 7.26. The plane perpendicular to the plane of vibration is known as the plane of polarisation EFGH. Both the plane of vibration and the plane of polarisation contain the direction of propagation of light.
 
-![Figure 7.26 Plane of vibration and plane of polarisation](image-placeholder)
+![Guru](guru.jpeg)
 
 The Table 7.3 consolidates few characteristics of polarised and unpolarised light.
 
@@ -1054,13 +1054,13 @@ Let us consider an unpolarised beam of light. The vibrations can be in all possi
 
 If the intensity of the unpolarised light is I then the intensity of polarised light will be \(\frac{I}{2}\). The other half of intensity is restricted by the polariser.
 
-![Figure 7.27 Polariser and analyser](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.5.3.2 Plane and partially polarised light
 
 A light is said to be plane polarised if the intensity varies from maximum to zero for every \(90^\circ\) rotation of the analyser as shown in the graph in Figure 7.28(a). This is because the vibrations are allowed in one direction and completely restricted in the perpendicular direction. On the other hand, if the intensity of light varies between maximum and minimum (not zero) for every \(90^\circ\) rotation of the analyser, the light is said to be partially polarised light as shown in the graph in Figure 7.28(b). This is because the light is not fully restricted in that particular direction which remains as a minimum intensity.
 
-![Figure 7.28 Intensity variation in (a) plane and (b) partially polarised light](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.5.3.3 Malus' law
 
@@ -1078,8 +1078,8 @@ $$
 
 where \(I_0 = k a^2\) is the maximum intensity of light transmitted through the analyser.
 
-![Figure 7.29 Malus' law](image-placeholder)
-![Figure 7.30 Malus' law](image-placeholder)
+![Guru](guru.jpeg)
+![Guru](guru.jpeg)
 
 **Special cases:**  
 Case (i) When \(\theta = 0^\circ\), \(\cos 0^\circ = 1\), \(I = I_0\).  
@@ -1123,7 +1123,7 @@ Two polaroids are kept crossed (transmission axes at \(90^\circ\)) to each other
 
 The simplest method of producing plane polarised light is by reflection. Consider a beam of unpolarised light incident on a polished glass surface XY. This light undergoes reflection as well as refraction. As it is unpolarized, it consists of vibrations which are parallel to the reflecting surface (shown as dots) and also not parallel to it (shown as arrows). It is shown in Figure 7.31. For a particular angle of incidence, the reflected light is found to be plane polarised and the refracted light is found to be partially polarised. It is because, the parallel vibrations to the surface are reflected and the other vibrations are refracted. Few parallel vibrations may also get refracted resulting in partially polarised refracted light. The angle of incidence for which the reflected light is found to be plane polarised is called polarising angle \(i_p\).
 
-![Figure 7.31 Polarisation by reflection](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.5.4.1 Brewster's Law
 
@@ -1166,7 +1166,7 @@ For water: \(\tan i_p = 1.33\), \(i_p = \tan^{-1}(1.33) = 53.1^\circ\).
 **Pile of plates**  
 Pile of plates makes use of Brewster's law to convert the partially polarised refracted light into plane polarised light. It consists of several glass plates kept one behind the other at an angle \(90^\circ - i_p\) with the horizontal surface as shown in Figure 7.32. This arrangement ensures that the parallel light falls on these plates at \(i_p\). When this unpolarised light passes successively through these plates, the few parallel vibrations to the surface which may be present in the refracted light, get a chance for further reflections at the succeeding plates. Thus, both the reflected and the refracted lights are found to be plane polarised.
 
-![Figure 7.32 Pile of plates](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -1183,7 +1183,7 @@ The inclination with the horizontal surface is \(90^\circ - i_p = 31.2^\circ\).
 
 Erasmus Bartholinus, a Danish Physicist discovered that when a ray of unpolarised light is incident on a calcite crystal, two refracted rays are produced. Hence, two images of an object are formed. This phenomenon is called double refraction (or) birefringence as shown in Figure 7.33.
 
-![Figure 7.33 Double refraction](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.5.6 Types of optically active crystals
 
@@ -1201,7 +1201,7 @@ Nicol prism is an optical device which forms a part of many optical instruments 
 
 Nicol prism is a calcite crystal which has a length three times its breadth and angles \(72^\circ\) and \(108^\circ\). It is cut into two halves along the diagonal as shown in Figure 7.34. The two halves are pasted together with a layer of canada balsam, a transparent cement.
 
-![Figure 7.34 Nicol Prism](image-placeholder)
+![Guru](guru.jpeg)
 
 Let us consider a ray of unpolarised light from a monochromatic source is incident on the Nicol prism. The double refraction takes place and the ray is split into ordinary and extraordinary rays. They travel in different directions with different velocities. For monochromatic sodium light the refractive index of the crystal for the ordinary ray is 1.658 and for extraordinary ray is 1.486. The refractive index of canada balsam is 1.523.
 
@@ -1217,7 +1217,7 @@ The ordinary ray is total internally reflected at the layer of canada balsam and
 
 When sun light gets scattered by the atmospheric molecules, the electrons of these molecules are influenced by the vibrating components of the electric field present in the sun light. As the sunlight is unpolarised, it produces these vibrations in all directions. These vibrating electrons radiate energy only in the direction perpendicular to their vibrations. When an observer views a beam of sunlight perpendicular to its direction of travel, the radiations produced by the electrons vibrating in the direction perpendicular to the direction of view will only reach the observer. Hence, the light reaching the observer is plane polarised. It is shown in Figure 7.35.
 
-![Figure 7.35 Polarisation by scattering](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -1241,7 +1241,7 @@ $$
 
 This is the magnification for near point focusing.
 
-![Figure 7.36 Near point focusing](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.6.1.2 Normal focusing
 
@@ -1263,7 +1263,7 @@ Thus angular magnification \(m = \frac{\theta_i}{\theta_0} = \frac{h/f}{h/D} = \
 
 This is the magnification for normal focusing.
 
-![Figure 7.37 Normal focusing](image-placeholder)
+![Guru](guru.jpeg)
 
 The magnification for normal focusing is one less than that of near point focusing. But, the viewing is more comfortable in normal focusing than near point focusing.
 
@@ -1342,7 +1342,7 @@ $$
 
 The diagram of a compound microscope is shown in Figure 7.39. The lens near the object is called objective. It forms a real, inverted and magnified image of the object. This serves as the object for the lens close to the eye called eyepiece. The eyepiece serves as a simple microscope that produces finally an enlarged and virtual image. The first inverted image formed by the objective is to be adjusted within the focus of the eyepiece so that the final image is formed nearly at infinity (or) at the near point. The final image is inverted with respect to the object.
 
-![Figure 7.39 Compound microscope](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.6.2.1 Magnification in compound microscope
 
@@ -1382,7 +1382,7 @@ A microscope has an objective and eyepiece of focal lengths \(5\ \mathrm{cm}\) a
 
 An astronomical telescope is used to get the magnification of distant astronomical objects like stars, planets, moon etc. The image formed by astronomical telescope will be inverted. It has an objective of long focal length and a much larger aperture than the eyepiece as shown in Figure 7.40. Light from a distant object enters the objective and a real image is formed in the tube at its focal point. The eyepiece magnifies this image producing a final inverted image.
 
-![Figure 7.40 Astronomical telescope](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.6.3.1 Magnification in astronomical telescope
 
@@ -1417,19 +1417,19 @@ A small telescope has an objective lens of focal length \(125\ \mathrm{cm}\) and
 
 A terrestrial telescope is used to see objects at a long distance on the surface of earth. Hence, image should be erect. Therefore, it has an additional erecting lens to make the final image erect as shown in Figure 7.41.
 
-![Figure 7.41 Terrestrial telescope](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.6.5 Reflecting telescope
 
 Modern telescopes use concave mirrors instead of lenses for the objectives. It is rather difficult and expensive to make lenses of large size which form images that are free from any optical defect. A telescope which has a concave mirror objective is called reflecting telescope. It has several advantages. Only one surface is to be polished and maintained for a mirror whereas it is to be done for two surfaces for a lens. Support can be given from the entire back of the mirror whereas it is given only at the rim for lens. A mirror weighs much less compared to a lens. But, the one obvious problem with a reflecting telescope is that the objective mirror would focus the light inside the telescope tube. One must have an eye piece inside the tube obstructing some light. This problem could also be overcome by introducing a secondary mirror which would take the light outside the tube for view as shown in the Figure 7.42.
 
-![Figure 7.42 Reflecting telescope](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.6.6 Spectrometer
 
 The spectrometer is an optical instrument used to analyse the spectra of different sources of light, to measure the wavelength of different colours and to measure the refractive indices of materials of prisms. It is shown in Figure 7.43. It basically consists of three parts namely (i) collimator, (ii) prism table and (iii) telescope.
 
-![Figure 7.43 Spectrometer](image-placeholder)
+![Guru](guru.jpeg)
 
 #### (i) Collimator
 
@@ -1463,7 +1463,7 @@ The preliminary adjustments of the spectrometer are done. The refractive index o
 **(i) Angle of the prism A**  
 The prism is placed on the prism table with its refracting angle A facing the collimator as shown in Figure 7.44. The slit is illuminated by sodium light (monochromatic light). The parallel rays coming from the collimator fall on the two faces AB and AC and get reflected. The telescope is rotated to the position \(T_1\) and \(T_2\) to capture the reflected rays and the two readings are noted. The difference between these two readings gives the angle rotated by the telescope, which is twice the angle of the prism. Half of this value gives the angle of the prism A.
 
-![Figure 7.44 Angle of prism](image-placeholder)
+![Guru](guru.jpeg)
 
 **(ii) Angle of minimum deviation D**  
 The prism is placed on the prism table so that the light from the collimator falls on a refracting face and the refracted image is observed through the telescope as shown in Figure 7.45. The prism table alone is now rotated so that the angle of deviation decreases. A stage comes when the image stops and returns on further rotation of the prism table. This is ensured by looking through the telescope simultaneously. The reading in this position gives the minimum deviation position.
@@ -1476,13 +1476,13 @@ $$
 
 The refractive index of a liquid may be determined in the same way by using a hollow glass prism filled with the liquid.
 
-![Figure 7.45 Angle of minimum deviation](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 7.6.7 The eye
 
 Eye is a natural optical instrument human beings have. As the eye lens is flexible, its focal length can be changed to some extent. When the eye is fully relaxed, its focal length is maximum and when it is strained its focal length is minimum. The image must be formed on the retina for clear vision. The diameter of eye ball for a normal adult is about \(2.5\ \mathrm{cm}\). Hence, the distance between eye lens and retina (image distance) is fixed always at \(2.5\ \mathrm{cm}\). We can just discuss the optical functioning of eye without giving importance to the refractive indices of the two liquids, aqueous humor and virtuous humor present in the eye. A person with normal vision can see objects kept at infinity in the relaxed condition with a maximum focal length \(f_{\max}\) of the eye lens as shown in Figure 7.46(a) and in the strained condition, with a minimum focal length \(f_{\min}\) for an object kept at near point D (25 cm) as shown in Figure 7.46(b).
 
-![Figure 7.46 Focusing of normal eye](image-placeholder)
+![Guru](guru.jpeg)
 
 Let us find \(f_{\max}\) and \(f_{\min}\) of human eye from the lens equation \(\frac{1}{f} = \frac{1}{v} - \frac{1}{u}\).  
 When object at infinity, \(u = -\infty\), \(v = 2.5\ \mathrm{cm}\) (relaxed):  
@@ -1499,7 +1499,7 @@ For them, parallel rays coming from the distant object get focused before reachi
 
 The focal length of the correcting lens for a myopic eye can be calculated using the lens equation. Here \(u = -\infty\), \(v = -x\) (virtual image). Then \(\frac{1}{f} = \frac{1}{-x} - \frac{1}{-\infty} = -\frac{1}{x}\). Thus \(f = -x\). The negative sign indicates a concave lens.
 
-![Figure 7.47 Myopic eye and correction](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.6.7.2 Farsightedness (hypermetropia)
 
@@ -1521,7 +1521,7 @@ $$
 
 Since \(y > 25\), f is positive, so the lens is convex.
 
-![Figure 7.48 Hypermetropic eye and correction](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 7.6.7.3 Astigmatism
 
