@@ -52,6 +52,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
+          HUGO_PARAMS_GITHUBORG: ${{ github.repository_owner }}
         run: |
           git submodule add -f https://github.com/gurukulams/design-system themes/design-system
           rm themes/design-system/package-lock.json
