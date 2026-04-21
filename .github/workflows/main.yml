@@ -59,7 +59,7 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --params GithubOrg="${{ github.repository_owner }}"
+            --set params.githuborg="${{ github.repository_owner }}"
           npm i --prefix themes/design-system/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
