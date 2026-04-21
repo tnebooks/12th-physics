@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.151.0
+      HUGO_VERSION: 0.153.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -59,7 +59,7 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --set params.githuborg="${{ github.repository_owner }}"
+            --set "params.githuborg=${{ github.repository_owner }}"
           npm i --prefix themes/design-system/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
