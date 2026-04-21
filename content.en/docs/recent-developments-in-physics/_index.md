@@ -29,7 +29,7 @@ In this unit the students are exposed to
 
 Physics is the basic building block for science, engineering and technology as depicted in Figure 11.1 (Refer XI Physics, 1.3). The fast developing fields like Nanoscience and Nanotechnology, Robotics and Medical diagnosis and therapy are briefly brought out for the students to appreciate the application of physics in these areas. This unit exposes the salient physics principles covered in the higher secondary physics as the foundation for technology break through. In addition, with the adequate exposure to basic physics at the school level, students are motivated to pursue higher education confidently in all fields related to science, engineering, technology and medicine.
 
-![Figure 11.1](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -37,7 +37,7 @@ Physics is the basic building block for science, engineering and technology as d
 
 ### 11.2.1 Nanoscience
 
-Nanoscience is the study of structures and materials on the scale of nanometers. Nano means one‑billionth of a meter that is {{< katex >}}10^{-9}\ \mathrm{m}{{< /katex >}}.
+Nanoscience is the study of structures and materials on the scale of nanometers. Nano means one‑billionth of a meter that is \(10^{-9}\ \mathrm{m}\).
 
 If matter is divided into such small objects the mechanical, electrical, optical, magnetic and other properties change.
 
@@ -47,19 +47,19 @@ Nanotechnology is a technology involving the design, production, characterizatio
 
 ### Nanoparticles
 
-The solids are made up of particles. Each of the particle has a definite number of atoms, which might differ from material to material. If the particle of a solid is of size less than {{< katex >}}100\ \mathrm{nm}{{< /katex >}}, it is said to be a 'nano solid'. When the particle size exceeds {{< katex >}}100\ \mathrm{nm}{{< /katex >}}, it is a 'bulk solid'. It is to be noted that nano and bulk solids may be of the same chemical composition. For example, ZnO can be both in bulk and nano form. Though chemical composition is the same, nano form of the material shows strikingly different properties when compared to its bulk counterpart.
+The solids are made up of particles. Each of the particle has a definite number of atoms, which might differ from material to material. If the particle of a solid is of size less than \(100\ \mathrm{nm}\), it is said to be a 'nano solid'. When the particle size exceeds \(100\ \mathrm{nm}\), it is a 'bulk solid'. It is to be noted that nano and bulk solids may be of the same chemical composition. For example, ZnO can be both in bulk and nano form. Though chemical composition is the same, nano form of the material shows strikingly different properties when compared to its bulk counterpart.
 
 In the nano scale dimensions (reduced dimensions), two important phenomena govern nano properties. They are quantum confinement effects and surface effects. Students can explore these effects in higher education and the explanation is avoided at school level.
 
 ### 11.2.2 Interdisciplinary nature of Nanotechnology
 
-![Interdisciplinary nature](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 11.2.3 Nano in Nature
 
 Nanoscale structures existed in nature long before scientists began studying them in laboratories.
 
-![Nano in nature](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 11.2.4 Early beginning and development (Not for examination)
 
@@ -77,15 +77,15 @@ Nanoscale structures existed in nature long before scientists began studying the
 
 The nanostructures made in the laboratory mimic some of nature's amazing nanostructures. As the nanostructures are so small, specialized methods are needed to manufacture objects in this size range. There are two ways of preparing the nanomaterials, top down and bottom up approaches.
 
-![Top down and bottom up approaches](image-placeholder)
+![Guru](guru.jpeg)
 
 Due to the vast available methods the details are avoided at this level.
 
 ### 11.2.6 Applications of Nano technology
 
-![Applications of nanotechnology](image-placeholder)
+![Guru](guru.jpeg)
 
-![More applications](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 11.2.7 Possible harmful effects of nanoparticles
 
@@ -97,7 +97,7 @@ The interaction with living systems is also affected by the dimensions of the na
 
 Researchers are trying to understand the response of living organisms to the presence of nanoparticles of varying size, shape, chemical composition and surface characteristics.
 
-![Diseases associated to nanoparticle exposure (Not for examination)](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -107,7 +107,7 @@ Researchers are trying to understand the response of living organisms to the pre
 
 Robotics is an integrated study of mechanical engineering, electronic engineering, computer engineering, and science. Robot is a mechanical device designed with electronic circuitry and programmed to perform a specific task. These automated machines are highly significant in this robotic era. They can take up the role of humans in certain dangerous environments that are hazardous to people like defusing bombs, finding survivors in unstable ruins, and exploring mines and shipwrecks.
 
-![Robotics illustration](image-placeholder)
+![Guru](guru.jpeg)
 
 In 1954, George Devol invented the first digitally operated programmable robot called Unimate. George Devol and Joseph Engelberger, the father of the modern robotics industry formed the world's first robot company in 1956. In 1961, Unimate was operated in a General Motors automobile factory for moving car parts around in New Jersey.
 
@@ -121,13 +121,13 @@ Most robots are composed of 3 main parts:
 2. Mechanical parts – motors, pistons, grippers, wheels, and gears that make the robot move, grab, turn, and lift.
 3. Sensors – to tell the robot about its surroundings. It helps to determine the sizes and shapes of the objects around, distance between the objects, and directions as well.
 
-![Robot components](image-placeholder)
+![Guru](guru.jpeg)
 
 1. Power conversion unit: Robots are powered by batteries, solar power, and hydraulics.
 2. Actuators: Converts energy into movement. The majority of the actuators produce rotational or linear motion.
 3. Electric motors: They are used to actuate the parts of the robots like wheels, arms, fingers, legs, sensors, camera, weapon systems etc. Different types of electric motors are used. The most often used ones are AC motor, Brushed DC motor, Brushless DC motor, Geared DC motor, etc.
-4. Pneumatic Air Muscles: They are devices that can contract and expand when air is pumped inside. It can replicate the function of a human muscle. They contract almost {{< katex >}}40\%{{< /katex >}} when the air is sucked inside them.
-5. Muscle wires: They are thin strands of wire made of shape memory alloys. They can contract by {{< katex >}}5\%{{< /katex >}} when electric current is passed through them.
+4. Pneumatic Air Muscles: They are devices that can contract and expand when air is pumped inside. It can replicate the function of a human muscle. They contract almost \(40\%\) when the air is sucked inside them.
+5. Muscle wires: They are thin strands of wire made of shape memory alloys. They can contract by \(5\%\) when electric current is passed through them.
 6. Piezo Motors and Ultrasonic Motors: Basically, we use it for industrial robots.
 7. Sensors: Generally used in task environments as it provides information of real-time knowledge.
 8. Robot locomotion: Provides the types of movements to a robot. The different types are (a) Legged (b) Wheeled (c) Combination of Legged and Wheeled Locomotion (d) Tracked slip/skid
@@ -138,11 +138,11 @@ Most robots are composed of 3 main parts:
 
 Certain robots are made to resemble humans in appearance and replicate the human activities like walking, lifting, and sensing, etc.
 
-![Human robot](image-placeholder)
+![Guru](guru.jpeg)
 
 **Six main types of industrial robots**
 
-![Industrial robot types](image-placeholder)
+![Guru](guru.jpeg)
 
 **Artificial Intelligence**
 
@@ -154,28 +154,28 @@ The aim of artificial intelligence is to bring in human like behaviour in robots
 4. To regulate the traffic by analyzing the density of traffic on roads
 5. Translate words from one language to another
 
-![Artificial intelligence](image-placeholder)
+![Guru](guru.jpeg)
 
 ### 11.3.4 Applications
 
 **Outer space:** Exploring stars, planets etc., investigation of the mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils.
 
-![Space robots](image-placeholder)
+![Guru](guru.jpeg)
 
 **Household robots:** Vacuum cleaners, floor cleaners, gutter cleaners, lawn mowing, pool cleaning, open and close doors.
 
-![Household robots](image-placeholder)
+![Guru](guru.jpeg)
 
 **Industrial robots:** Welding, cutting, robotic water jet cutting, robotic laser cutting, lifting, sorting, bending, manufacturing, assembling, packing, transport, handling hazardous materials like nuclear waste, weaponry, laboratory research, mass production of consumer and industrial goods.
 
-![Industrial robots](image-placeholder)
+![Guru](guru.jpeg)
 
 **Nano robots:** The size of the nano robots is reduced to microscopic level to perform a task in very small spaces. However, it is only in the developmental stage. The future prospects of it are much expected in the medical field: Nano‑robots in blood stream to perform small surgical procedures, to fight against bacteria, repairing individual cell in the body. It can travel into the body and once after the job is performed it can find its way out. Chinese scientists have created the world's first autonomous DNA robots to combat cancer tumours.
 
 ### 11.3.5 Advantages of Robotics
 
 1. The robots are much cheaper than humans.
-2. Robots never get tired like humans. It can work for {{< katex >}}24 \times 7{{< /katex >}}. Hence absenteeism in work place can be reduced.
+2. Robots never get tired like humans. It can work for \(24 \times 7\). Hence absenteeism in work place can be reduced.
 3. Robots are more precise and error free in performing the task.
 4. Stronger and faster than humans.
 5. Robots can work in extreme environmental conditions: extreme hot or cold, space or underwater. In dangerous situations like bomb detection and bomb deactivation.
@@ -217,7 +217,7 @@ Medical science very much revolves around physics principles. Medical instrument
 
 Medical virtual reality is effectively used to stop the brain from processing pain and cure soreness in the hospitalized patients. Virtual reality has enhanced surgeries by the use of 3D models by surgeons to plan operations. It helps in the treatment of Autism, Memory loss, and Mental illness.
 
-![Virtual reality](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 2. Precision medicine
 
@@ -227,7 +227,7 @@ Precision medicine is an emerging approach for disease treatment and prevention 
 
 A health wearable is a device used for tracking a wearer's vital signs or health and fitness related data, location, etc. Medical wearables with artificial intelligence and big data provide an added value to healthcare with a focus on diagnosis, treatment, patient monitoring and prevention.
 
-![Health wearables](image-placeholder)
+![Guru](guru.jpeg)
 
 > **NOTE**  
 > Big Data: Extremely large data sets that may be analysed computationally to reveal patterns, trends, and associations, especially relating to human behaviour and interactions.
@@ -240,7 +240,7 @@ An artificial organ is an engineered device or tissue that is implanted or integ
 
 Advanced 3D printer systems and materials assist physicians in a range of operations in the medical field from audiology, dentistry, orthopedics and other applications.
 
-![3D printing](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 6. Wireless brain sensors
 
@@ -250,7 +250,7 @@ Wireless brain sensors monitor intracranial pressure and temperature and then ar
 
 Robotic surgery is a type of surgical procedure that is done using robotic systems. Robotically‑assisted surgery helps to overcome the limitations of pre‑existing minimally‑invasive surgical procedures and to enhance the capabilities of surgeons performing open surgery.
 
-![Robotic surgery](image-placeholder)
+![Guru](guru.jpeg)
 
 #### 8. Smart inhalers
 
@@ -264,7 +264,7 @@ Inhalers are the main treatment option for asthma. Smart inhalers are designed w
 
 Particle physics deals with the theory of fundamental particles of nature and it is one of the active research areas in physics. Initially it was thought that atom is the fundamental entity of matter. In 1930s, it was established that atoms are made up of electrons, protons and neutrons.
 
-![Particle physics](image-placeholder)
+![Guru](guru.jpeg)
 
 In the 1960s, quarks were discovered and it was understood that proton and neutron are made up of quarks. In the meantime, the particle physics research gained momentum and has grown exponentially both in theoretical and experimental perspective. Later it was found that the quarks interact through gluons. It is the field which received more number of noble prizes. Recently in the year 2013, famous Higgs particle also known as "God" particle was discovered and for this, Peter Higgs and Englert received noble prize in physics. It is the Higgs particle which gives mass to many particles like protons, neutrons etc.
 
@@ -274,7 +274,7 @@ Cosmology is the branch that involves the origin and evolution of the universe. 
 
 Gravitational waves are the disturbances in the curvature of space‑time and it travels with speed of light. Any accelerated charge emits electromagnetic wave. Similarly any accelerated mass emits gravitational waves but these waves are very weak even for masses like earth. The strongest source of gravitational waves are black holes. The discovery of gravitational waves made it possible to study the structure of black holes since it is the strongest source of gravitational waves. In fact, the recent discoveries of gravitational waves are emitted by two black holes when they merge to a single black hole. In fact, Albert Einstein theoretically proposed the existence of gravitational waves in the year 1915. After 100 years, it is experimentally proved that his predictions are correct.
 
-![Gravitational waves](image-placeholder)
+![Guru](guru.jpeg)
 
 Black holes are end stage of stars which are highly dense massive object. Its mass ranges from 20 times mass of the sun to 1 million times mass of the sun. It has very strong gravitational force such that no particle or even light can escape from it. The existence of black holes is studied when the stars orbiting the black hole behave differently from the other stars. Every galaxy has black hole at its center. Sagittarius A* is the black hole at the center of the Milky Way galaxy.
 
@@ -282,11 +282,11 @@ Black holes are end stage of stars which are highly dense massive object. Its ma
 
 It is another fast developing research area which deals with improving the information storage using quantum computers. The present computers store information in the form of 'bits' but quantum computers store information in the form of 'qubits'. 'qubit' refers to quantum bit and it is the basic unit of quantum information. Classical bit implies either 0 or 1. But qubit not only includes 0 or 1 and also linear superposition of 0 and 1. This technology reduces the calculating time exponentially. This research field has very promising application in future.
 
-![Quantum information](image-placeholder)
+![Guru](guru.jpeg)
 
 Many striking innovations and discoveries originate from scientific fictions. Robots are also no exception to this. The word robotics was derived from the word robot. It was introduced in the play 'Rossum Universal Robots' by the Czech writer Karel Čapek in 1920. The word robot comes from the Slavic word rabota, which means labour or work. The play begins in a factory that makes artificial people called robots. They looked like creatures that can be mistaken for humans (picture shown). These characters were very similar to the modern ideas of androids.
 
-![A scene from the play Rossum Universal Robots, showing three robots](image-placeholder)
+![Guru](guru.jpeg)
 
 ---
 
@@ -294,11 +294,11 @@ Many striking innovations and discoveries originate from scientific fictions. Ro
 
 - Salient physics principles (covered in the higher secondary physics) are the foundation for technology break through.
 - Physics is the basic building block for Science, Engineering, Technology and Medicine.
-- Nano science is the science of objects with typical sizes of {{< katex >}}1–100\ \mathrm{nm}{{< /katex >}}.
-- Nano means one‑billionth of a metre that is {{< katex >}}10^{-9}\ \mathrm{m}{{< /katex >}}.
+- Nano science is the science of objects with typical sizes of \(1–100\ \mathrm{nm}\).
+- Nano means one‑billionth of a metre that is \(10^{-9}\ \mathrm{m}\).
 - Nanotechnology is a technology involving the design, production, characterization, and applications of nano structural materials.
-- If the particle of a solid is of size less than {{< katex >}}100\ \mathrm{nm}{{< /katex >}}, it is said to be a 'nano solid'.
-- When the particle size exceeds {{< katex >}}100\ \mathrm{nm}{{< /katex >}}, it forms a 'bulk solid'.
+- If the particle of a solid is of size less than \(100\ \mathrm{nm}\), it is said to be a 'nano solid'.
+- When the particle size exceeds \(100\ \mathrm{nm}\), it forms a 'bulk solid'.
 - Nano form of the material shows strikingly different properties when compared to its bulk counterpart.
 - Quantum confinement effects and surface effects are the two important phenomena that govern nano properties.
 - Nanoscience and technology is the interdisciplinary area covering its applications in various fields.
@@ -422,11 +422,10 @@ In this activity you will be able to (i) observe the changes in the nuclear spin
 - Add a tumour. Adjust the resonance frequency slightly to produce the strongest signal from the tumour. Record the tumour resonance frequency. Is there a shift?  
 - With the help of shift in resonance frequency, tumour inside the brain can be calculated.
 
-![MRI simulation](image-placeholder)
+![Guru](guru.jpeg)
 
 **Note:** Install Java application if it is not in your browser.
 
 **URL:** https://phet.colorado.edu/en/simulation/legacy/mri  
 \* Pictures are indicative only.  
 \* If browser requires, allow Flash Player or Java Script to load the page.
-```
