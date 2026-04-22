@@ -8,6 +8,11 @@ on:
 
 jobs:
   call-workflow:
+    # You must add these permissions so the called workflow can deploy
+    permissions:
+      contents: read
+      id-token: write
+      pages: write      # Required if deploying to GitHub Pages
     uses: gurukulams/design-system/.github/workflows/material-deploy.yml@main
     with:
       # Pass any required inputs here
