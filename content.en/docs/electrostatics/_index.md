@@ -17,7 +17,7 @@ categories:
 
 
 
-# Electrostatics
+# 1. Electrostatics
 
 > Electricity is really just organized lightning - George Carlin
 
