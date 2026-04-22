@@ -655,39 +655,93 @@ Substituting in equation (1)
 
 \(R_{2} = 8\Omega, \text{ i.e., } (\text{when } R_{1} = 7\Omega; R_{2} = 8\Omega)\)
 
-**Example 2.11**
 
-Calculate the equivalent resistance between a and b in the following network.
+---
 
-> [Image: A network of resistors]
+## **Example 2.11**
 
-**Solution**
+Calculate the equivalent resistance between **A** and **B** in the given circuit.
 
-The given network can be redrawn as shown in the figure.
 
-> [Image: Redrawn network]
+### **Solution**
 
-The resistors \(1\Omega\) and \(1\Omega\) are in parallel, their effective resistance \(= \frac{1}{2}\Omega\). Similarly, the other two resistors \(1\Omega\) and \(1\Omega\) are in parallel, their effective resistance \(= \frac{1}{2}\Omega\). Now these two effective resistances are in series, then their effective resistance \(= \frac{1}{2} + \frac{1}{2} = 1\Omega\).
+In all the sections, the resistors are connected in parallel.
 
-The equivalent resistance of the circuit between a and b is \(R_{eq} = 1\Omega\)
+---
 
-> [Image: Equivalent circuit]
+### **Section I**
 
-**Example 2.12**
+$$
+\frac{1}{R_{p1}} = \frac{1}{2} + \frac{1}{2}
+$$
 
-Find the equivalent resistance of the following circuit.
+$$
+\frac{1}{R_{p1}} = 1 \quad \Rightarrow \quad R_{p1} = 1\Omega
+$$
 
-> [Image: A more complex resistor network]
+---
 
-**Solution**
+### **Section II**
 
-The given network can be redrawn as shown in the figure.
+$$
+\frac{1}{R_{p2}} = \frac{1}{4} + \frac{1}{4}
+$$
 
-> [Image: Redrawn network]
+$$
+\frac{1}{R_{p2}} = \frac{1}{2} \quad \Rightarrow \quad R_{p2} = 2\Omega
+$$
 
-The resistors \(1\Omega\) and \(1\Omega\) are in series, their effective resistance \(= 2\Omega\). The resistors \(2\Omega\) and \(2\Omega\) are in parallel, their effective resistance \(= 1\Omega\). This \(1\Omega\) is in series with the other \(1\Omega\) resistor, giving \(2\Omega\). Finally, this \(2\Omega\) is in parallel with the \(2\Omega\) resistor, giving an equivalent resistance of \(1\Omega\).
+---
 
-The equivalent resistance of the circuit between a and b is \(R_{eq} = 1\Omega\)
+### **Section III**
+
+$$
+\frac{1}{R_{p3}} = \frac{1}{6} + \frac{1}{6}
+$$
+
+$$
+\frac{1}{R_{p3}} = \frac{1}{3} \quad \Rightarrow \quad R_{p3} = 3\Omega
+$$
+
+---
+
+### **Equivalent Resistance**
+
+$$
+R = R_{p1} + R_{p2} + R_{p3}
+$$
+
+$$
+R = 1\Omega + 2\Omega + 3\Omega = 6\Omega
+$$
+
+---
+
+## **Example 2.12**
+
+Five resistors are connected in the configuration as shown in the figure.
+Calculate the equivalent resistance between the points **a** and **b**.
+
+
+### **Solution**
+
+**Case (a)**
+
+To find the equivalent resistance between the points **a** and **b**, we assume that a current is entering the junction at **a**.
+
+Since all the resistances in the outside loop are the same \(1\Omega\), the current in the branches **ac** and **ad** must be equal.
+
+Hence, the points **C** and **D** are at the same potential and no current flows through \(5\Omega\). It implies that the \(5\Omega\) resistor has no role in determining the equivalent resistance and it can be removed.
+
+So, the circuit is simplified as shown in the figure.
+
+The equivalent resistance of the circuit
+between a and b is Req = \(1\Omega\)
+
+---
+
+
+
 
 ### 2.2.3 Colour code for Carbon resistors
 
@@ -896,6 +950,16 @@ The resistance of the bulb,
 
 > [Image: A diagram of bulbs in series]
 
+
+$$
+R = \frac{V^2}{P}
+$$
+
+Where:
+
+* (V) = Rated voltage
+* (P) = Rated power
+
 For 20W- 220V bulb,
 \(R_{1} = \frac{(220)^2}{20}\Omega = 2420\Omega\)
 
@@ -1103,15 +1167,21 @@ For the given circuit
 > [Image: Circuit with 4 cells in parallel]
 
 Find
+
 i) Equivalent emf
+
 ii) Equivalent internal resistance
+
 iii) Total current (I)
+
 iv) Potential difference across each cell
+
 v) Current from each cell
 
 **Solution**
 
 i) Equivalent emf \(\epsilon_{eq} = 5 \mathrm{~V}\)
+
 ii) Equivalent internal resistance,
 \(R_{eq} = \frac{r}{n} = \frac{0.5}{4} = 0.125\Omega\)
 
@@ -1268,13 +1338,19 @@ $$
 
 **EXAMPLE 2.24**
 
-In a Wheatstone's bridge, \(P = 500\Omega\), \(Q = 800\Omega\) and \(R = x + 400\Omega\). When the bridge is balanced, find the value of \(x\).
+What is the value of x when the Wheatstone’s
+network is balanced?
+
+In a Wheatstone's bridge, \(P = 500\Omega\), \(Q = 800\Omega\), \(R = x + 400\Omega\), \(S = 1000\Omega\) When the bridge is balanced.
 
 **Solution**
 
 $$
 \frac{P}{Q} = \frac{R}{S}
 $$
+
+when the network is balanced
+
 Here \(S = 1000\Omega\)
 $$
 \frac{500}{800} = \frac{x + 400}{1000}
@@ -1404,6 +1480,11 @@ $$
 \frac{\epsilon_{1}}{\epsilon_{2}} = \frac{l_{1}}{l_{2}} \quad (2.61)
 $$
 
+By including a rheostat (Rh) in the
+primary circuit, the experiment can be
+repeated several times by changing the
+current flowing through it
+
 ### 2.5.7 Measurement of internal resistance of a cell by potentiometer
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key \(\mathbf{K}_1\). This forms the primary circuit.
@@ -1469,7 +1550,9 @@ $$
 This relation was experimentally verified by Joule and is known as Joule's law of heating. It states that the heat developed in an electrical circuit due to the flow of current varies directly as
 
 (i) the square of the current
+
 (ii) the resistance of the circuit and
+
 (iii) the time of flow.
 
 **EXAMPLE 2.27**
@@ -1554,6 +1637,14 @@ It consists of a tungsten filament (melting point \(3380^{\circ}\mathrm{C}\)) ke
 
 ## 2.7 THERMOELECTRIC EFFECTS
 
+Conversion of temperature differences
+into electrical voltage and vice versa
+is known as thermoelectric effect.
+A thermoelectric device generates voltage
+when there is a temperature difference on
+each side. If a voltage is applied, it generates
+a temperature difference.
+
 ### 2.7.1 Seebeck effect
 
 Seebeck discovered that in a closed circuit consisting of two dissimilar metals, when the junctions are maintained at different temperatures an emf (potential difference) is developed. The current that flows due to the emf developed is called thermoelectric current. The two dissimilar metals connected to form two junctions is known as thermocouple (Figure 2.35).
@@ -1612,95 +1703,160 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 
 1. The following graph shows current versus voltage values of some unknown conductor. What is the resistance of this conductor?
 
-> [Image: I-V graph with points]
+        > [Image: I-V graph with points]
 
-(a) 2 ohm
-(b) 4 ohm
-(c) 8 ohm
-(d) 1 ohm
+        (a) 2 ohm
+        (b) 4 ohm
+        (c) 8 ohm
+        (d) 1 ohm
 
 2. A wire of resistance 2 ohms per meter is bent to form a circle of radius 1m. The equivalent resistance between its two diametrically opposite points, A and B as shown in the figure is
 
-> [Image: Circle with points A and B]
+    > [Image: Circle with points A and B]
 
-(a) \(\pi \Omega\) (b) \(\frac{\pi}{2}\Omega\) (c) \(2\pi \Omega\) (d) \(\frac{\pi}{4}\Omega\)
+    (a) \(\pi \Omega\)
+    
+    (b) \(\frac{\pi}{2}\Omega\)
+     
+    (c) \(2\pi \Omega\)
+      
+    (d) \(\frac{\pi}{4}\Omega\)
 
 3. A toaster operating at \(240\mathrm{V}\) has a resistance of \(120\Omega\). Its power is
 
-a) \(400\mathrm{W}\) b) \(2\mathrm{W}\) c) \(480\mathrm{W}\) d) \(240\mathrm{W}\)
+    a) \(400\mathrm{W}\)
+    
+    b) \(2\mathrm{W}\)
+     
+    c)\(480\mathrm{W}\)
+      
+    d) \(240\mathrm{W}\)
 
 4. A carbon resistor of \((47\pm 4.7)\mathrm{k}\Omega\) to be marked with rings of different colours for its identification. The colour code sequence will be
 
-a) Yellow - Green - Violet - Gold
-b) Yellow - Violet - Orange - Silver
-c) Violet - Yellow - Orange - Silver
-d) Green - Orange - Violet - Gold
+    a) Yellow - Green - Violet - Gold 
+
+    b) Yellow - Violet - Orange - Silver
+
+    c) Violet - Yellow - Orange - Silver
+
+    d) Green - Orange - Violet - Gold
 
 5. What is the value of resistance of the following resistor?
 
-> [Image: Resistor with colour bands]
+    > [Image: Resistor with colour bands]
 
-(a) \(100\mathrm{k}\Omega\) (b) \(10\mathrm{k}\Omega\) (c) \(1\mathrm{k}\Omega\) (d) \(1000\mathrm{k}\Omega\)
+    (a) \(100\mathrm{k}\Omega\)
+    
+    (b) \(10\mathrm{k}\Omega\)
+    
+    (c) \(1\mathrm{k}\Omega\)
+    
+    (d) \(1000\mathrm{k}\Omega\)
 
 6. Two wires of A and B with circular cross section are made up of the same material with equal lengths. Suppose \(R_{A} = 3R_{B}\), then what is the ratio of radius of wire A to that of B?
 
-(a) 3
-(b) \(\sqrt{3}\) (c) \(\frac{1}{\sqrt{3}}\) (d) \(\frac{1}{3}\)
+    (a) 3
+
+    (b) \(\sqrt{3}\)
+    
+    (c) \(\frac{1}{\sqrt{3}}\)
+    
+    (d) \(\frac{1}{3}\)
 
 7. A wire connected to a power supply of \(230\mathrm{V}\) has power dissipation \(P_{1}\). Suppose the wire is cut into two equal pieces and connected parallel to the same power supply. In this case power dissipation is \(P_{2}\). The ratio \(\frac{P_{2}}{P_{1}}\) is
 
-(a) 1
-(b) 2
-(c) 3
-(d) 4
+    (a) 1
+
+    (b) 2
+
+    (c) 3
+
+    (d) 4
 
 8. In India electricity is supplied for domestic use at \(220~\mathrm{V}\). It is supplied at \(110~\mathrm{V}\) in USA. If the resistance of a \(60\mathrm{W}\) bulb for use in India is \(R\), the resistance of a \(60\mathrm{W}\) bulb for use in USA will be
 
-(a) \(R\) (b) \(2R\) (c) \(\frac{R}{4}\) (d) \(\frac{R}{2}\)
+    (a) \(R\)
+    
+    (b) \(2R\)
+     
+    (c) \(\frac{R}{4}\)
+      
+    (d) \(\frac{R}{2}\)
 
 9. In a large building, there are 15 bulbs of \(40~\mathrm{W}\), 5 bulbs of \(100~\mathrm{W}\), 5 fans of \(80~\mathrm{W}\) and 1 heater of \(1\mathrm{kW}\) are connected. The voltage of electric mains is \(220~\mathrm{V}\). The maximum capacity of the main fuse of the building will be (IIT-JEE 2014)
 
-(a) 14 A
-(b) 8 A
-(c) 10 A
-(d) 12 A
+    (a) 14 A
+
+    (b) 8 A
+
+    (c) 10 A
+
+    (d) 12 A
 
 10. There is a current of \(1.0\mathrm{A}\) in the circuit shown below. What is the resistance of \(P\)?
 
-> [Image: Circuit with resistors and current]
+   > [Image: Circuit with resistors and current]
 
-a) \(1.5\Omega\) b) \(2.5\Omega\) c) \(3.5\Omega\) d) \(4.5\Omega\)
+     a) \(1.5\Omega\)
+     
+     b) \(2.5\Omega\)
+      
+     c) \(3.5\Omega\)
+       
+     d) \(4.5\Omega\)
 
 11. What is the current drawn out from the battery?
 
-> [Image: Circuit with resistors]
+    > [Image: Circuit with resistors]
 
-a) 1A
-b) 2A
-c) 3A
-d) 4A
+    a) 1A
+
+    b) 2A
+
+    c) 3A
+
+    d) 4A
 
 12. The temperature coefficient of resistance of a wire is \(0.00125\ \text{per}\ ^\circ \mathrm{C}\). At \(20^{\circ}\mathrm{C}\), its resistance is \(1\Omega\). The resistance of the wire will be \(2\Omega\) at
 
-a) \(800^{\circ}\mathrm{C}\) b) \(700^{\circ}\mathrm{C}\) c) \(850^{\circ}\mathrm{C}\) d) \(820^{\circ}\mathrm{C}\)
+    a) \(800^{\circ}\mathrm{C}\)
+    
+    b) \(700^{\circ}\mathrm{C}\)
+     
+    c) \(850^{\circ}\mathrm{C}\)
+      
+    d) \(820^{\circ}\mathrm{C}\)
 
 13. The internal resistance of a \(2.1\mathrm{V}\) cell which gives a current of \(0.2\mathrm{A}\) through a resistance of \(10\Omega\) is
 
-a) \(0.2\Omega\) b) \(0.5\Omega\) c) \(0.8\Omega\) d) \(1.0\Omega\)
+    a) \(0.2\Omega\)
+    
+    b) \(0.5\Omega\)
+     
+    c) \(0.8\Omega\)
+      
+    d) \(1.0\Omega\)
 
 14. A piece of copper and another of germanium are cooled from room temperature to \(80\mathrm{K}\). The resistance of
 
-a) each of them increases
-b) each of them decreases
-c) copper increases and germanium decreases
-d) copper decreases and germanium increases
+    a) each of them increases
+
+    b) each of them decreases
+
+    c) copper increases and germanium decreases
+
+    d) copper decreases and germanium increases
 
 15. In Joule's heating law, when \(R\) and \(t\) are constant, if the \(H\) is taken along the \(y\) axis and \(I^2\) along the \(x\) axis, the graph is
 
-a) straight line
-b) parabola
-c) circle
-d) ellipse
+    a) straight line
+
+    b) parabola
+
+    c) circle
+
+    d) ellipse
 
 **Answers**
 
