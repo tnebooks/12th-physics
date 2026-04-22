@@ -1,9 +1,7 @@
-name: Publish
-
-on:
-  push:
-    branches: [develop]
-
 jobs:
-  call-workflow-passing-data:
-    uses: gurukulams/design-system/.github/workflows/material-deploy.yml@develop
+  call-workflow:
+    uses: gurukulams/design-system/.github/workflows/material-deploy.yml@main
+    with:
+      # Pass any required inputs here
+      GithubOrg: "tnebooks" 
+    secrets: inherit # If the sub-workflow needs access to secrets
