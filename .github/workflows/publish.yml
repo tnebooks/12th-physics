@@ -14,7 +14,4 @@ jobs:
       id-token: write
       pages: write      # Required if deploying to GitHub Pages
     uses: gurukulams/design-system/.github/workflows/material-deploy.yml@main
-    with:
-      # Pass any required inputs here
-      GithubOrg: "tnebooks" 
     secrets: inherit # If the sub-workflow needs access to secrets
