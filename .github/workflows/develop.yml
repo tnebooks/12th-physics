@@ -1,0 +1,9 @@
+name: Publish
+
+on:
+  push:
+    branches: [develop]
+
+jobs:
+  call-workflow-passing-data:
+    uses: gurukulams/design-system/.github/workflows/material-deploy.yml@develop
