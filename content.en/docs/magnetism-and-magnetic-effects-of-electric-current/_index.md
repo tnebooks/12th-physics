@@ -8,7 +8,7 @@ weight: 3
 
 
 
-# MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT
+# 3. MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT
 
 > "The magnetic force is animate, or imitates a soul; in many respects it surpasses the human soul while it is united to an organic body" - William Gilbert
 

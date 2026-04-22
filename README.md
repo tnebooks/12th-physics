@@ -4,7 +4,6 @@
 
 ```sh
 git clone https://github.com/gurukulams/design-system themes/design-system
-
 hugo server --disableFastRender
 ```
 

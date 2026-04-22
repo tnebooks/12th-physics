@@ -6,6 +6,8 @@ weight: 7
 extensions:
 ---
 
+# 7. Wave Optics
+
 > An age is called dark, not because the light fails to shine, but because people refuse to see. — James Albert Michener
 
 ## LEARNING OBJECTIVES
