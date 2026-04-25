@@ -13,6 +13,7 @@ references:
 
 categories:
     - electrostatics
+summary: "This unit introduces the fundamentals of electricity and magnetism, starting with their historical development and real-life applications of electrostatic forces. It covers key concepts such as Coulomb’s law, the superposition principle, and the idea of an electric field, including how to calculate it for different charge systems."
 ---
 
 

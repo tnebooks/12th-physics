@@ -3,6 +3,7 @@ title: 'அணு மற்றும் அணுக்கரு இயற்ப
 categories:
     - atomic-and-nuclear-physics
 weight: 9
+summary: "இந்த அலகு அணுக்கள் மற்றும் அணுக்கருவின் அமைப்பை விளக்குகிறது. இதில் J.J. Thomson experiment மற்றும் Millikan’s oil drop experiment போன்ற பரிசோதனைகள் மூலம் எலக்ட்ரானின் பண்புகள் அறியப்படுகின்றன. மேலும், Rutherford model மற்றும் Bohr atom model போன்ற அணுக்கட்டமைப்பு மாதிரிகள் மற்றும் அணுக்கதிர்வீச்சு (atomic spectra) பற்றியும் இதில் விளக்கப்படுகின்றன."
 ---
 
 # அலகு 9: அணு மற்றும் அணுக்கரு இயற்பியல் (ATOMIC AND NUCLEAR PHYSICS)

@@ -3,6 +3,7 @@ title: 'Electromagnetic Induction And Alternating Current'
 categories:
     - electromagnetic-induction-and-alternating-current
 weight: 4
+summary: "This unit explains the principles of electromagnetic induction, including how induced emf is generated and its direction using Lenz’s law. It covers important concepts such as eddy currents, self and mutual induction, and different methods of producing induced emf."
 
 ---
 

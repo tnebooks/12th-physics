@@ -3,6 +3,7 @@ title: 'Dual Nature of Radiation and Matter'
 categories:
     - dual-nature-of-radiation-and-matter
 weight: 8
+summary: "This unit explains the dual nature of matter and radiation, starting with electron emission and the photoelectric effect along with its laws and early observations. It introduces the concept of energy quantization and practical devices like photocells."
 
 ---
 
