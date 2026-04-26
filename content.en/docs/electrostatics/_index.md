@@ -70,6 +70,13 @@ From these observations, the following inferences are made
 
 Therefore, two kinds of charges exist in the universe. In the \(18^{\mathrm{th}}\) century, Benjamin Franklin called one type of charge as positive \((+)\) and another type of charge as negative \((-)\). Based on Franklin's convention, rubber and amber rods are negatively charged while the glass rod is positively charged. If the net charge is zero in the object, it is said to be electrically neutral.
 
+![Figure 1.1 (a) Unlike charges attract each other (b) Like charges repel each other](A.png)
+
+
+Following the pioneering work of J. J. Thomson and E. Rutherford, in the late 19th century and in the beginning of 20th
+century, we now understand that the atom is electrically neutral and is made up of the negatively charged electrons, positively charged protons, and neutrons which have zero charge. The material objects madeup of atoms are neutral in general. When an object is rubbed with another object (for example rubber with silk cloth), some amount of charge is transferred from one object to another due to the friction between them and the object is then said to be electrically charged. Charging the objects through rubbing is called triboelectric charging.
+
+
 ### 1.1.2 Basic properties of charges
 
 #### (i) Electric charge
@@ -124,6 +131,9 @@ $$
 
 where \(\hat{r}_{12}\) is the unit vector directed from charge \(q_{1}\) to charge \(q_{2}\) and \(k\) is the proportionality constant.
 
+![Figure 1.2 Coulomb force between two positive point charges](B.png)
+
+
 ### Important aspects of Coulomb's law
 
 (i) Coulomb's law states that the electrostatic force is directly proportional to the product of the magnitude of the two point charges and is inversely proportional to the square of the distance between the two point charges.
@@ -166,9 +176,15 @@ But \(\hat{r}_{21} = -\hat{r}_{12}\)
 
 **EXAMPLE 1.2**
 
+![](C.png)
+
+
 Consider two point charges \(q_{1} = +2\mu \mathrm{C}\) and \(q_{2} = +3\mu \mathrm{C}\) placed at a distance of \(1\mathrm{m}\) from each other in vacuum. (a) Calculate the force experienced by the charge \(q_{2}\) due to the charge \(q_{1}\). (b) What is the force experienced by \(q_{1}\) due to \(q_{2}\)? (c) If these two charges are placed inside the water, how does the force change? (Take \(\epsilon_{r} = 80\) for water)
 
 **Solution**
+
+![](D.png)
+
 
 (a) Both the charges are like charges. So the force will be repulsive. The force experienced by the charge \(q_{2}\) due to \(q_{1}\) is given by
 
@@ -236,9 +252,13 @@ When common salt (NaCl) is taken in water, the electrostatic force between Na an
 
 Two small-sized identical equally charged spheres, each having mass 1 g are hanging in equilibrium as shown in the figure. The length of each string is \(10\mathrm{cm}\) and the angle \(\theta\) is \(30^{\circ}\) with the vertical. Calculate the magnitude of the charge in each sphere. (Take \(g = 10\mathrm{ms}^{-2}\))
 
+![](E.png)
+
 **Solution**
 
 If the two spheres are neutral, the angle between them will be \(0^{\circ}\) when hanged vertically. Since they are positively charged spheres, there will be a repulsive force between them and they will be at equilibrium with each other at an angle of \(30^{\circ}\) with the vertical. At equilibrium, each charge experiences zero net force in each direction. We can draw a free body diagram for one of the charged spheres and apply Newton's second law for both vertical and horizontal directions.
+
+![](F.png)
 
 In the \(x\)-direction, the acceleration of the charged sphere is zero.
 
@@ -329,6 +349,9 @@ Note that \(F_{e}\approx 10^{39}F_{G}\)
 
 The electrostatic force between a proton and an electron is enormously greater than the gravitational force between them. Thus the gravitational force is negligible when compared with the electrostatic force in many situations such as for small size objects and in the atomic domain. This is the reason why a charged comb attracts an uncharged piece of paper with greater force even though the piece of paper is attracted downward by the Earth.
 
+![Figure 1.3 Electrostatic attraction between a comb and pieces of papers](G.png)
+
+
 ### 1.2.1 Superposition principle
 
 Coulomb's law explains the interaction between two point charges. If there are more than two charges, the force on one charge due to all the other charges needs to be calculated. Coulomb's law alone does not give the answer. The superposition principle explains the interaction between multiple charges.
@@ -364,6 +387,8 @@ Both the superposition principle and Coulomb's law form fundamental principles o
 
 Consider four equal charges \(q_{1}, q_{2}, q_{3}\) and \(q_{4} = q = +1 \mu \mathrm{C}\) located at four different points on a circle of radius \(1 \mathrm{~m}\), as shown in the figure. Calculate the total force acting on the charge \(q_{1}\) due to all the other charges.
 
+![](H.png)
+
 **Solution**
 
 According to the superposition principle, the total electrostatic force on charge \(q_{1}\) is the vector sum of the forces due to the other charges,
@@ -371,6 +396,8 @@ According to the superposition principle, the total electrostatic force on charg
 $$
 \bar{F}_{1}^{\mathrm{tot}} = \bar{F}_{12} + \bar{F}_{13} + \bar{F}_{14}
 $$
+
+![](I.png)
 
 The charges \(q_{2}\) and \(q_{4}\) are equidistant from \(q_{1}\). As a result the strengths (magnitude) of the forces \(\bar{F}_{12}\) and \(\bar{F}_{14}\) are the same even though their directions are different. Therefore the vectors representing these two forces are drawn with equal lengths. But the charge \(q_{3}\) is located farther compared to \(q_{2}\) and \(q_{4}\). Since the strength of the electrostatic force decreases as distance increases, the strength of the force \(\bar{F}_{13}\) is lesser than that of forces \(\bar{F}_{12}\) and \(\bar{F}_{14}\). Hence the vector representing the force \(\bar{F}_{13}\) is drawn with smaller length compared to that for forces \(\bar{F}_{12}\) and \(\bar{F}_{14}\).
 
