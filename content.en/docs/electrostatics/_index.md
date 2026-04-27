@@ -1325,6 +1325,8 @@ $$
 
 The following figure represents the electric potential as a function of \(x\)-coordinate. Plot the corresponding electric field as a function of \(x\).
 
+![](a22.png)
+
 **Solution**
 
 In the given problem, since the potential depends only on \(x\), we can use \(\bar{E} = -\frac{dV}{dx}\hat{i}\) (the other two terms \(\frac{\partial V}{\partial y}\) and \(\frac{\partial V}{\partial z}\) are zero)
@@ -1334,6 +1336,8 @@ From 0 to 1 cm, the slope is constant and so \(\frac{dV}{dx} = 25V\mathrm{cm}^{-
 From 1 to 4 cm, the potential is constant, \(V = 25V\). It implies that \(\frac{dV}{dx} = 0\). So \(\bar{E} = 0\)
 
 From 4 to 5 cm, the slope \(\frac{dV}{dx} = -25V\mathrm{cm}^{-1}\). So \(\bar{E} = +25V\mathrm{cm}^{-1}\hat{i}\).
+
+![](a23.png)
 
 ### 1.5.6 Electrostatic potential energy for collection of point charges
 
@@ -1358,6 +1362,8 @@ $$
 The electrostatic potential energy depends only on the distance between the two point charges. In fact, the expression (1.45) is derived by assuming that \(q_{1}\) is fixed and \(q_{2}\) is brought from infinity. The equation (1.45) holds true when \(q_{2}\) is fixed and \(q_{1}\) is brought from infinity or both \(q_{1}\) and \(q_{2}\) are simultaneously brought from infinity to a distance \(r\) between them.
 
 Three charges are arranged in the following configuration. To calculate the total electrostatic potential energy, we use the following procedure. We bring all the charges one by one and arrange them according to the configuration.
+
+![Figure 1.28 Electrostatic potential energy for collection of point charges](a24.png)
 
 (i) Bringing a charge \(q_{1}\) from infinity to the point A requires no work, because there are no other charges already present in the vicinity of charge \(q_{1}\).
 
@@ -1390,6 +1396,8 @@ Note that this stored potential energy \(U\) is equal to the total external work
 Four charges are arranged at the corners of the square PQRS of side \(a\) as shown in the figure.
 (a) Find the work required to assemble these charges in the given configuration.
 (b) Suppose a charge \(q^{\prime}\) is brought to the centre of the square, by keeping the four charges fixed at the corners, how much extra work is required for this?
+
+![](a25.png)
 
 **Solution**
 
@@ -1434,6 +1442,8 @@ The potential created by the two \(+q\) charges are canceled by the potential cr
 ### 1.5.7 Electrostatic potential energy of a dipole in a uniform electric field
 
 Consider a dipole placed in the uniform electric field \(\vec{E}\) as shown. A dipole experiences a torque when kept in a uniform electric field \(\vec{E}\). This torque rotates the dipole to align it with the direction of the electric field. To rotate the dipole (at constant angular velocity) from its initial angle \(\theta^{\prime}\) to another angle \(\theta\) against the torque exerted by the electric field, an equal and opposite external torque must be applied on the dipole.
+
+![Figure 1.29 The dipole in a uniform electric field](a26.png)
 
 The work done by the external torque to rotate the dipole from angle \(\theta^{\prime}\) to \(\theta\) at constant angular velocity is
 
@@ -1506,6 +1516,8 @@ $$
 
 The number of electric field lines crossing a given area kept normal to the electric field lines is called electric flux. It is usually denoted by the Greek letter \(\Phi_{E}\) and its unit is \(\mathrm{Nm^2C^{-1}}\). Electric flux is a scalar quantity and it can be positive or negative.
 
+![Figure 1.30 Electric flux](a27.png)
+
 The electric field of a point charge is drawn. Consider two small rectangular area elements placed normal to the field at regions A and B. Even though these elements have the same area, the number of electric field lines crossing the element in region A is more than that crossing the element in region B. Therefore the electric flux in region A is more than that in region B. Since electric field strength for a point charge decreases as the distance increases, electric flux also decreases as the distance increases.
 
 ### Electric flux for uniform Electric field
@@ -1540,9 +1552,13 @@ In Figure (a), \(\theta = 0^{\circ}\). Therefore, \(\Phi_{E} = \vec{E}\cdot \vec
 
 In Figure (b), \(\theta = 90^{\circ}\). Therefore, \(\Phi_{E} = \vec{E}\cdot \vec{A} = 0\)
 
+![Figure 1.31 The electric flux for Uniform electric field](a28.png)
+
 **EXAMPLE 1.17**
 
 Calculate the electric flux through the rectangle of sides \(5\mathrm{cm}\) and \(10\mathrm{cm}\) kept in the region of a uniform electric field \(100\mathrm{NC}^{-1}\). The angle \(\theta\) is \(60^{\circ}\). If \(\theta\) becomes zero, what is the electric flux?
+
+![Figure 1.31 The electric flux for Uniform electric field](a29.png)
 
 **Solution**
 
@@ -1570,6 +1586,8 @@ Suppose the electric field is not uniform and the area \(A\) is not flat surface
 
 The electric flux for the entire area \(A\) is approximately written as
 
+![Figure 1.32 Electric flux for non-uniform electric Field](a30.png)
+
 $$
 \Phi_{E} = \sum_{i=1}^{n} \vec{E}_{i}\cdot \Delta \vec{A}_{i} \quad (1.56)
 $$
@@ -1583,6 +1601,8 @@ $$
 ### 1.6.2 Electric flux for closed surfaces
 
 Suppose a closed surface is present in the region of the non-uniform electric field. The total electric flux over this closed surface is written as
+
+![Figure 1.33 Electric flux over a closed surface](a31.png)
 
 $$
 \Phi_{E} = \oint \bar{E}\cdot d\bar{A} \quad (1.58)
@@ -1608,6 +1628,8 @@ $$
 \Phi_{E} = \oint EdA \qquad \text{since } \cos 0^{\circ} = 1 \quad (1.59)
 $$
 
+![Figure 1.34 Total electric flux of point charge](a32.png)
+
 \(E\) is uniform on the surface of the sphere,
 
 $$
@@ -1623,6 +1645,8 @@ $$
 The equation (1.61) is called as Gauss's law.
 
 The remarkable point about this result is that the equation (1.61) is equally true for any arbitrary shaped surface which encloses the charge \(Q\). It is seen that the total electric flux is the same for closed surfaces \(A_{1}, A_{2}\) and \(A_{3}\).
+
+![Figure 1.35 Gauss law for arbitrarily shaped surface](a33.png)
 
 Gauss's law states that if a charge \(Q\) is enclosed by an arbitrary closed surface, then the total electric flux \(\Phi_{E}\) through the closed surface is
 
@@ -1644,6 +1668,8 @@ where \(Q_{\mathrm{encl}}\) denotes the charges within the closed surface.
 
 **EXAMPLE 1.18**
 
+![](a34.png)
+
 (i) In figure (a), calculate the electric flux through the closed areas \(A_{1}\) and \(A_{2}\).
 (ii) In figure (b), calculate the electric flux through the cube
 
@@ -1663,6 +1689,8 @@ Consider an infinitely long straight wire having uniform linear charge density \
 
 We choose two small charge elements on the wire which are at equal distances from the point \(P\). The resultant electric field due to these two charge elements points radially away from the charged wire and the magnitude of electric field is same at all points on the circle of radius \(r\). Since the charged wire possesses a cylindrical symmetry, let us choose a cylindrical Gaussian surface of radius \(r\) and length \(L\).
 
+![Figure 1.36 Electric field due to infinite long charged wire](a35.png)
+
 The total electric flux through this closed surface is calculated as follows.
 
 $$
@@ -1678,6 +1706,8 @@ $$
 $$
 
 Since the magnitude of the electric field for the entire curved surface is constant, \(E\) is taken out of the integration and \(Q_{encl}\) is given by \(Q_{encl} = \lambda L\), where \(\lambda\) is the linear charge density.
+
+![Figure 1.37 Cylindrical Gaussian surface](a36.png)
 
 $$
 E \int_{\text{Curved}} dA = \frac{\lambda L}{\epsilon_{o}} \quad (1.65)
