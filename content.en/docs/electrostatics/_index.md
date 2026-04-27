@@ -491,11 +491,15 @@ Here \(\hat{r}\) is the unit vector pointing from \(q\) to the point of interest
 
 (i) If the charge \(q\) is positive then the electric field points away from the source charge and if \(q\) is negative, the electric field points towards the source charge \(q\).
 
+![Figure 1.4 Electric field of positive and negative charges](J.png)
+
 (ii) If the electric field at a point \(\mathrm{P}\) is \(\bar{E}\) then the force experienced by the test charge \(q_{\mathrm{o}}\) placed at the point \(\mathrm{P}\) is
 
 $$
 \bar{F} = q_0\bar{E} \quad (1.5)
 $$
+
+![Figure 1.5 Coulomb’s law in terms of electric field](J.png)
 
 This is Coulomb's law in terms of electric field.
 
@@ -503,9 +507,15 @@ This is Coulomb's law in terms of electric field.
 
 (iv) Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude. From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
 
+![Figure 1.6 (a) Electric field due to positive charge (b) Electric field due to negative charge](L.png)
+
 (v) In the definition of electric field, it is assumed that the test charge \(q_0\) is taken sufficiently small, so that bringing this test charge will not move the source charge. In other words, the test charge is made sufficiently small such that it will not modify the electric field of the source charge.
 
-(vi) There are two kinds of the electric field: uniform (constant) electric field and non-uniform electric field. Uniform electric field will have the same direction and constant magnitude at all points in space. Non-uniform electric field will have different directions or different magnitudes or both at different points in space. The electric field created by a point charge is basically a non uniform electric field. This non-uniformity arises, both in direction and magnitude, with the direction being radially outward (or inward) and the magnitude changes as distance increases.
+(vi) The expression (1.4) is valid only for point charges. For continuous and finite size charge distributions, integration techniques must be used (Refer Appendix A1.1). However, this expression can be used as an approximation for a finite-sized charge if the test point is very far away from the finite sized source charge. Note that we similarly treat the Earth as a point mass when we calculate the gravitational field of the Sun on the Earth (Refer unit 6, volume 2, XI physics).
+
+(vii) There are two kinds of the electric field: uniform (constant) electric field and non-uniform electric field. Uniform electric field will have the same direction and constant magnitude at all points in space. Non-uniform electric field will have different directions or different magnitudes or both at different points in space. The electric field created by a point charge is basically a non uniform electric field. This non-uniformity arises, both in direction and magnitude, with the direction being radially outward (or inward) and the magnitude changes as distance increases.
+
+![Figure 1.7 Uniform and non-uniform electric field](L.png)
 
 **EXAMPLE 1.6**
 
@@ -513,6 +523,8 @@ Calculate the electric field at points P, Q for the following two cases, as show
 
 (a) A positive point charge \(+1\mu \mathrm{C}\) is placed at the origin
 (b) A negative point charge \(-2\mu \mathrm{C}\) is placed at the origin
+
+![](N.png)
 
 **Solution**
 
@@ -566,6 +578,8 @@ $$
 
 At the point Q the electric field is directed along the positive \(x\)-axis.
 
+![](O.png)
+
 ### 1.3.2 Electric field due to the system of point charges
 
 Suppose a number of point charges are distributed in space. To find the electric field at some point P due to this collection of point charges, superposition principle is used. The electric field at an arbitrary point due to a collection of point charges is simply equal to the vector sum of the electric fields created by the individual point charges. This is called superposition of electric fields.
@@ -586,9 +600,13 @@ $$
 \vec{E}_{tot} = \frac{1}{4\pi\epsilon_0}\sum_{i = 1}^{n}\left(\frac{q_i}{r_{iP}^2}\hat{r}_{iP}\right) \quad (1.8)
 $$
 
+![Figure 1.8 Superposition of Electric field](P.png)
+
 **EXAMPLE 1.7**
 
 Consider the charge configuration as shown in the figure. Calculate the electric field at point A. If an electron is placed at points A, what is the acceleration experienced by this electron? (mass of the electron \(= 9.1\times 10^{-31}\) kg and charge of electron \(= -1.6\times 10^{-19}\) C)
+
+![](Q.png)
 
 **Solution**
 
@@ -615,6 +633,8 @@ $$
 
 The direction of \(\bar{E}_{\mathrm{A}}\) is given by \(\frac{\bar{E}_{\mathrm{A}}}{\left|\bar{E}_{\mathrm{A}}\right|} = \frac{2.25\times 10^{9}(\hat{i} +\hat{j})}{2.25\times\sqrt{2}\times 10^{9}} = \frac{(\hat{i} +\hat{j})}{\sqrt{2}}\) which is the unit vector along OA.
 
+![](R.png)
+
 The acceleration experienced by an electron placed at point A is
 
 $$
@@ -637,13 +657,19 @@ The electric charge is quantized microscopically. The expressions (1.2), (1.3), 
 
 A block of mass \(m\) carrying a positive charge \(q\) is placed on an insulated frictionless inclined plane as shown in the figure. A uniform electric field \(E\) is applied parallel to the inclined surface such that the block is at rest. Calculate the magnitude of the electric field \(E\).
 
+![](S.png)
+
 **Solution**
 
 There are three forces that acts on the mass \(m\):
 
 (i) The downward gravitational force exerted by the Earth \((mg)\)
+
 (ii) The normal force exerted by the inclined surface \((N)\)
+
 (iii) The Coulomb force given by uniform electric field \((qE)\)
+
+![](T.png)
 
 A convenient inertial coordinate system is located in the inclined surface. The mass \(m\) has zero net acceleration both in \(x\) and \(y\)-direction.
 
@@ -673,23 +699,41 @@ Electric field vectors are visualized by the concept of electric field lines. Th
 
 The electric field lines start from a positive charge and end at negative charges or at infinity. For a positive point charge the electric field lines point radially outward and for a negative point charge, the electric field lines point radially inward.
 
+![](U.png)
+
+![Figure 1.9 Electric field lines for isolated positive and negative charges](V.png)
+
 Note that for an isolated positive point charge the electric field line starts from the charge and ends only at infinity. For an isolated negative point charge the electric field lines start at infinity and end at the negative charge.
 
 The electric field vector at a point in space is tangential to the electric field line at that point.
 
+![Figure 1.10 Electric field at a point P](W.png)
+
 The electric field lines are denser (more closer) in a region where the electric field has larger magnitude and less dense in a region where the electric field is of smaller magnitude. In other words, the number of lines passing through a given surface area perpendicular to the lines is proportional to the magnitude of the electric field in that region.
+
+![Figure 1.11 Electric field has larger magnitude at surface A than B](X.png)
 
 Figure 1.11 shows electric field lines from a positive point charge. The magnitude of the electric field for a point charge decreases as the distance increases \(\left|\bar{E}\right|\propto \frac{1}{r^2}\). So the electric field has greater magnitude at the surface A than at B. Therefore, the number of lines crossing the surface A is greater than the number of lines crossing the surface B. Note that at surface B the electric field lines are farther apart compared to the electric field lines at the surface A.
 
 No two electric field lines intersect each other. If two lines cross at a point, then there will be two different electric field vectors at the same point. As a consequence, if some charge is placed in the intersection point, then it has to move in two different directions at the same time, which is physically impossible. Hence, electric field lines do not intersect.
 
+![Figure 1.12 Two electric field lines never intersect each other](Y.png)
+
 The number of electric field lines that emanate from the positive charge or end at a negative charge is directly proportional to the magnitude of the charges.
+
+![](Z.png)
 
 For example, the electric field lines are drawn for charges \(+q\) and \(-2q\). Note that the number of field lines emanating from \(+q\) is 8 and the number of field lines ending at \(-2q\) is 16. Since the magnitude of the second charge is twice that of the first charge, the number of field lines drawn for \(-2q\) is twice in number than that for charge \(+q\).
 
 **EXAMPLE 1.9**
 
 The following pictures depict electric field lines for various charge configurations.
+
+![](a1.png)
+
+![](a2.png)
+
+![](a3.png)
 
 (i) In figure (a) identify the signs of two charges and find the ratio \(\left|\frac{q_1}{q_2}\right|\)
 
@@ -725,6 +769,8 @@ $$
 \vec{p} = qa\hat{i} - qa(-\hat{i}) = 2qa\hat{i} \quad (1.10)
 $$
 
+![Figure 1.14 (a) Electric dipole (b) Electric field lines for the electric dipole](a4.png)
+
 The electric dipole moment vector lies along the line joining two charges and is directed from \(-q\) to \(+q\). The SI unit of dipole moment is coulomb metre (Cm). For simplicity, the two charges are placed on the \(x\)-axis. Even if the two charges are placed on \(y\) or \(z\)-axis, dipole moment will point from \(-q\) to \(+q\).
 
 The magnitude of the electric dipole moment is equal to the product of the magnitude of one of the charges and the distance between them,
@@ -745,6 +791,8 @@ where \(\bar{r}_{i}\) is the position vector of charge \(q_{i}\) from the origin
 
 Calculate the electric dipole moment for the following charge configurations.
 
+![](a5.png)
+
 **Solution**
 
 Case (a) The position vector for the \(+q\) on the positive \(x\)-axis is \(a\hat{i}\) and position vector for the \(+q\) charge the negative \(x\) axis is \(-a\hat{i}\). So the dipole moment is,
@@ -763,11 +811,15 @@ Case (d) \(\bar{p} = -2qa(-\hat{i}) + qa\hat{j} + qa(-\hat{j}) = 2qa\hat{i}\)
 
 The water molecule \(\mathrm{H}_{2}\mathrm{O}\) has this charge configuration. The water molecule has three atoms (two H atom and one O atom). The centres of positive (H) and negative (O) charges of a water molecule lie at different points, hence it possess permanent dipole moment. The electric dipole moment \(\bar{p}\) is directed from centre of negative charge to the centre of positive charge.
 
+![](a6.png)
+
 ### 1.4.2 Electric field due to a dipole
 
 **Case (i) Electric field due to an electric dipole at points on the axial line**
 
 Consider an electric dipole placed on the \(x\)-axis as shown in Figure 1.15. A point C is located at a distance of \(r\) from the midpoint O of the dipole on the axial line.
+
+![Figure 1.15 Electric field of the dipole along the axial line](a7.png)
 
 The electric field at a point C due to \(+q\) is \(\bar{E}_{+} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}\) along BC
 
@@ -806,6 +858,8 @@ $$
 
 Note that the total electric field is along \(\bar{E}_{+}\) since \(+q\) is closer to C than \(-q\).
 
+![Figure 1.16 Total electric field of the dipole on the axial line](a8.png)
+
 If the point C is very far away from the dipole \((r \gg a)\). Then under this limit the term \(\left(r^{2} - a^{2}\right)^{2} = r^{4}\). Substituting this into equation (1.16), we get
 
 $$
@@ -823,6 +877,8 @@ If the point C is chosen on the left side of the dipole, the total electric fiel
 **Case (ii) Electric field due to an electric dipole at a point on the equatorial plane**
 
 Consider a point C at a distance \(r\) from the midpoint O of the dipole on the equatorial plane as shown in Figure 1.17. Since the point C is equidistant from \(+q\) and \(-q\), the magnitude of the electric fields at C due to \(+q\) and \(-q\) are the same. The direction of \(\bar{E}_{+}\) is along BC and the direction of \(\bar{E}_{-}\) is along CA. \(\bar{E}_{+}\) and \(\bar{E}_{-}\) can be resolved into two components; one component parallel to the dipole axis and the other perpendicular to it. Since perpendicular components \(\left|\bar{E}_{+}\right|\sin \theta\) and \(\left|\bar{E}_{-}\right|\sin \theta\) are equal in magnitude and oppositely directed, they cancel each other. The magnitude of the total electric field at point C is the sum of the parallel components of \(\bar{E}_{+}\) and \(\bar{E}_{-}\) and its direction is along \(-\hat{p}\) as shown.
+
+![Figure 1.17 Electric field due to a dipole at a point on the equatorial plane](a9.png)
 
 $$
 \bar{E}_{tot} = -\left|\bar{E}_{+}\right|\cos \theta \hat{p} - \left|\bar{E}_{-}\right|\cos \theta \hat{p} \quad (1.18)
@@ -863,6 +919,8 @@ $$
 
 Consider an electric dipole of dipole moment \(\vec{p}\) placed in a uniform electric field \(\vec{E}\) whose field lines are equally spaced and point in the same direction. The charge \(+q\) will experience a force \(q\vec{E}\) in the direction of the field and charge \(-q\) will experience a force \(-q\vec{E}\) in a direction opposite to the field. Since the external field \(\vec{E}\) is uniform, the total force acting on the dipole is zero. These two forces acting at different points will constitute a couple and the dipole experience a torque. This torque tends to rotate the dipole. (Note that electric field lines of a uniform field are equally spaced and point in the same direction).
 
+![Figure 1.18 Torque on dipole](a10.png)
+
 The total torque on the dipole about the point O
 
 $$
@@ -889,6 +947,8 @@ The magnitude of this torque is \(\tau = pE\sin \theta\) and is maximum when \(\
 This torque tends to rotate the dipole and align it with the electric field \(\vec{E}\). Once \(\vec{p}\) is aligned with \(\vec{E}\), the total torque on the dipole becomes zero.
 
 If the electric field is not uniform, then the force experienced by \(+q\) is different from that experienced by \(-q\). In addition to the torque, there will be net force acting on the dipole.
+
+![Figure 1.19 The dipole in a non-uniform electric field](a11.png)
 
 **EXAMPLE 1.11**
 
@@ -918,6 +978,8 @@ In mechanics, potential energy is defined for conservative forces. Since gravita
 Consider a positive charge \(q\) kept fixed at the origin which produces an electric field \(\bar{E}\) around it. A positive test charge \(q^{\prime}\) is brought from point R to point P against the repulsive force between \(q\) and \(q^{\prime}\) as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
 
 The test charge \(q^{\prime}\) is brought from R to P with constant velocity which means that external force used to bring the test charge \(q^{\prime}\) from R to P must be equal and opposite to the coulomb force \(\left(\bar{F}_{ext} = -\bar{F}_{coulomb}\right)\). The work done is
+
+![Figure 1.20 Work done is equal to potential energy](a12.png)
 
 $$
 W = \int_{R}^{P}\bar{F}_{ext}\cdot d\bar{r} \quad (1.25)
@@ -968,6 +1030,8 @@ Consider a positive charge \(q\) kept fixed at the origin. Let P be a point at d
 
 The electric potential at the point P is
 
+![Figure 1.21 Electrostatic potential at a point P](a13.png)
+
 $$
 V = \int_{\infty}^{r}(-\bar{E})\cdot d\bar{r} = -\int_{\infty}^{r}\bar{E}\cdot d\bar{r} \quad (1.32)
 $$
@@ -1006,6 +1070,10 @@ $$
 
 (ii) From expression (1.33), it is clear that the potential due to positive charge decreases as the distance increases, but for a negative charge the potential increases as the distance is increased. At infinity \((r = \infty)\) electrostatic potential is zero \((V = 0)\).
 
+![Figure 1.22 Motion of masses in terms of gravitational potential](a14.png)
+
+![Figure 1.23 Motion of charges in terms of electric potential](a15.png)
+
 (iii) The electric potential at a point P due to a collection of charges \(q_{1}, q_{2}, q_{3}, \ldots , q_{n}\) is equal to sum of the electric potentials due to individual charges.
 
 $$
@@ -1014,10 +1082,15 @@ $$
 
 where \(r_{1}, r_{2}, r_{3}, \ldots , r_{n}\) are the distances of \(q_{1}, q_{2}, q_{3}, \ldots , q_{n}\) respectively from P.
 
+![Figure 1.24 Electrostatic potential due to collection of charges](a16.png)
+
 **EXAMPLE 1.12**
 
 (a) Calculate the electric potential at points P and Q as shown in the figure below.
 (b) Suppose the charge \(+9\mu \mathrm{C}\) is replaced by \(-9\mu \mathrm{C}\) find the electrostatic potentials at points P and Q
+
+![](a17.png)
+
 (c) Calculate the work done to bring a test charge \(+2\mu \mathrm{C}\) from infinity to the point Q. Assume the charge \(+9\mu \mathrm{C}\) is held fixed at origin and \(+2\mu \mathrm{C}\) is brought from infinity to P.
 
 **Solution**
@@ -1075,6 +1148,8 @@ According to the superposition principle, the total electric potential at a poin
 
 Consider the point at which the total potential zero is located at a distance \(x\) from the charge \(+q\).
 
+![](a18.png)
+
 Since the total electric potential at P is zero,
 
 $$
@@ -1092,6 +1167,8 @@ Hence, \(x = 3\mathrm{m}\)
 ### 1.5.3 Electrostatic potential at a point due to an electric dipole
 
 Consider two equal and opposite charges separated by a small distance \(2a\) as shown in Figure 1.25. The point P is located at a distance \(r\) from the midpoint of the dipole. Let \(\theta\) be the angle between the line OP and dipole axis AB.
+
+![Figure 1.25 Potential due to electric dipole](a19.png)
 
 Let \(r_{1}\) be the distance of point P from \(+q\) and \(r_{2}\) be the distance of point P from \(-q\)
 
@@ -1212,6 +1289,10 @@ $$
 Consider a point charge q located at some point in space and an imaginary sphere of radius r is chosen by keeping the charge q at its centre. The electric potential at all points on the surface of the given sphere is the same. Such a surface is called an equipotential surface.
 
 An equipotential surface is a surface on which all the points are at the same electric potential. For a point charge the equipotential surfaces are concentric spherical surfaces. Each spherical surface is an equipotential surface but the value of the potential is different for different spherical surfaces.
+
+![Figure 1.26 Equipotential surface of point Charge](a21.png)
+
+![Figure 1.27 Equipotential surface for uniform electric field](a20.png)
 
 For a uniform electric field, the equipotential surfaces form a set of planes normal to the electric field \(\bar{E}\).
 
