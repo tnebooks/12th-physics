@@ -1738,6 +1738,8 @@ The equation (1.67) is true only for an infinitely long charged wire. For a char
 
 Consider an infinite plane sheet of charges with uniform surface charge density \(\sigma\) (charge present per unit area). Let P be a point at a distance of r from the sheet.
 
+![Figure 1.38 Electric field due to charged infinite planar sheet](a37.png)
+
 Since the plane is infinitely large, the electric field should be same at all points equidistant from the plane and radially directed outward at all points. A cylindrical Gaussian surface of length \(2r\) and two flats surfaces each of area \(A\) is chosen such that the infinite plane sheet passes perpendicularly through the middle part of the Gaussian surface.
 
 Total electric flux linked with the cylindrical surface,
@@ -1780,6 +1782,8 @@ For a finite charged plane sheet, equation (1.71) is approximately true only in 
 
 Consider two infinitely large charged plane sheets with equal and opposite charge densities \(+\sigma\) and \(-\sigma\) which are placed parallel to each other.
 
+![Figure 1.39 Electric field due to two parallel charged sheets](a38.png)
+
 The electric field between the plates and outside the plates is found using Gauss law. The magnitude of the electric field due to an infinite charged plane sheet is \(\frac{\sigma}{2\epsilon_{0}}\) and it points perpendicularly outward if \(\sigma >0\) and points inward if \(\sigma < 0\).
 
 At the points outside the plates, the electric field due to both plates are equal in magnitude and opposite in direction. As a result, electric field at a point outside the plates is zero. But between the plates, electric fields are in the same direction i.e., towards the right and the total electric field at a point between the plates is
@@ -1797,6 +1801,8 @@ Consider a uniformly charged spherical shell of radius \(R\) carrying total char
 **Case (a) At a point outside the shell \((r > R)\)**
 
 Let us choose a point P outside the shell at a distance r from the centre. The charge is uniformly distributed on the surface of the sphere (spherical symmetry). Hence the electric field must point radially outward if \(Q > 0\) and point radially inward if \(Q < 0\). So a spherical Gaussian surface of radius \(r\) is chosen and the total charge enclosed by this Gaussian surface is \(Q\). Applying Gauss law
+
+![Figure 1.40 The electric field due to a charged spherical shell](a39.png)
 
 $$
 \oint_{\text{Gaussian}} \bar{E} \cdot d\bar{A} = \frac{Q}{\epsilon_{\circ}} \quad (1.73)
@@ -1853,6 +1859,8 @@ $$
 The electric field due to the uniformly charged spherical shell is zero at all points inside the shell.
 
 A graph is plotted between the electric field and radial distance.
+
+![Figure 1.41 Electric field versus distance for a spherical shell of radius R](a40.png)
 
 Gauss law is a powerful technique whenever a given charge configuration possesses spherical, cylindrical or planar symmetry, then the electric field due to such a charge configuration can be easily found. If there is no such symmetry, the direct method (Coulomb's law and calculus) can be used. For example, it is difficult to use Gauss law to find the electric field for a dipole since it has no spherical, cylindrical or planar symmetry.
 
