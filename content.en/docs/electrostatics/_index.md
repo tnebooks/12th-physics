@@ -1874,6 +1874,8 @@ An electrical conductor has a large number of mobile charges which are free to m
 
 This is an experimental fact. Suppose the electric field is not zero inside the metal, then there will be a force on the mobile charge carriers due to this electric field. As a result, there will be a net motion of the mobile charges, which contradicts the conductors being in electrostatic equilibrium. Thus the electric field is zero everywhere inside the conductor. We can also understand this fact by applying an external uniform electric field on the conductor.
 
+![Figure 1.42 Electric field of conductors](a41.png)
+
 Before applying the external electric field, the free electrons in the conductor are uniformly distributed in the conductor. When an electric field is applied, the free electrons accelerate to the left causing the left plate to be negatively charged and the right plate to be positively charged.
 
 Due to this realignment of free electrons, there will be an internal electric field created inside the conductor which increases until it nullifies the external electric field. Once the external electric field is nullified the conductor is said to be in electrostatic equilibrium. The time taken by a conductor to reach electrostatic equilibrium is in the order of \(10^{-16}\mathrm{s}\), which can be taken as almost instantaneous.
@@ -1882,11 +1884,17 @@ Due to this realignment of free electrons, there will be an internal electric fi
 
 We can prove this property using Gauss law. Consider an arbitrarily shaped conductor. A Gaussian surface is drawn inside the conductor such that it is very close to the surface of the conductor. Since the electric field is zero everywhere inside the conductor, the net electric flux is also zero over this Gaussian surface. From Gauss's law, this implies that there is no net charge inside the conductor. Even if some charge is introduced inside the conductor, it immediately reaches the surface of the conductor.
 
+![Figure 1.43 No net charge inside the conductor](a42.png)
+
 (iii) The electric field outside the conductor is perpendicular to the surface of the conductor and has a magnitude of \(\frac{\sigma}{\epsilon_0}\) where \(\sigma\) is the surface charge density at that point.
 
 If the electric field has components parallel to the surface of the conductor, then free electrons on the surface of the conductor would experience acceleration. This means that the conductor is not in equilibrium. Hence at equilibrium, the electric field should be perpendicular to the surface of the conductor.
 
+![Figure 1.44 (a) Electric field is along the surface (b)Electric field is perpendicular to the surface of the conductor](a43.png)
+
 We now prove that the electric field has magnitude \(\frac{\sigma}{\epsilon_0}\) just outside the conductor's surface. Consider a small cylindrical Gaussian surface. One half of this cylinder is embedded inside the conductor.
+
+![Figure 1.45 The electric field on the surface of the conductor](a44.png)
 
 Since electric field is normal to the surface of the conductor, the curved part of the cylinder has zero electric flux. Also inside the conductor, the electric field is zero. Hence the bottom flat part of the Gaussian surface has no electric flux.
 
@@ -1916,6 +1924,10 @@ Using Gauss law, we can prove that the electric field inside the charged spheric
 
 Consider a cavity inside the conductor. Whatever be the charges at the surfaces and whatever be the electrical disturbances outside, the electric field inside the cavity is zero. A sensitive electrical instrument which is to be protected from external electrical disturbance can be kept inside this cavity. This is called electrostatic shielding.
 
+![](a45.png)
+
+![Figure 1.46 (a) Electric field inside the cavity (b) Faraday cage](a46.png)
+
 Faraday cage is an instrument used to demonstrate this effect. It is made up of metal bars. If an artificial lightning jolt is created outside, the person inside is not affected.
 
 During lightning accompanied by a thunderstorm, it is always safer to sit inside a bus than in open ground or under a tree. The metal body of the bus provides electrostatic shielding, since the electric field inside is zero. During lightning, the charges flow through the body of the conductor to the ground with no effect on the person inside that bus.
@@ -1930,6 +1942,8 @@ The negative charge of the rod repels the electrons in the conductor to the oppo
 
 Before introducing the charged rod, the free electrons were distributed uniformly on the surface of the conductor and the net charge is zero. Once the charged rod is brought near the conductor, the distribution is no longer uniform with more electrons located on the farther side of the rod and positive charges are located closer to the rod. But the total charge is zero.
 
+![Figure 1.47 Various steps in electrostatic induction](a47.png)
+
 (ii) Now the conducting sphere is connected to the ground through a conducting wire. This is called grounding. Since the ground can always receive any amount of electrons, grounding removes the electron from the conducting sphere. Note that positive charges will not flow to the ground because they are attracted by the negative charges of the rod.
 
 (iii) When the grounding wire is removed from the conductor, the positive charges remain near the charged rod.
@@ -1941,6 +1955,8 @@ For an arbitrary shaped conductor, the intermediate steps and conclusion are the
 **EXAMPLE 1.19**
 
 A small ball of conducting material having a charge \(+q\) and mass m is thrown upward at an angle \(\theta\) to horizontal surface with an initial speed \(\nu_{0}\) as shown in the figure. There exists an uniform electric field \(E\) downward along with the gravitational field \(g\). Calculate the range, maximum height and time of flight in the motion of this charged ball. Neglect the effect of air and treat the ball as a point mass.
+
+![](a48.png)
 
 **Solution**
 
@@ -1964,6 +1980,8 @@ But still the acceleration \(a = \left(g + \frac{qE}{m}\right)\) is constant thr
 
 Note that the time of flight, maximum height, range are all inversely proportional to the acceleration of the object. Since \(\left(g + \frac{qE}{m}\right) > g\) for charge \(+q\), the quantities \(T\), \(h_{max}\) and \(R\) will decrease when compared to the motion of an object of mass m and zero net charge. Suppose the charge is \(-q\), then \(\left(g - \frac{qE}{m}\right) < g\), and the quantities \(T\), \(h_{max}\) and \(R\) will increase. Interestingly the trajectory is still parabolic.
 
+![](a49.png)
+
 ### 1.7.4 Dielectrics or insulators
 
 A dielectric is a non-conducting material and has no free electrons. The electrons in a dielectric are bound within the atoms. Ebonite, glass and mica are some examples of dielectrics. When an external electric field is applied, the electrons are not free to move anywhere but they are realigned in a specific way. A dielectric is made up of either polar molecules or nonpolar molecules.
@@ -1974,11 +1992,15 @@ A non-polar molecule is one in which centres of positive and negative charges co
 
 When an external electric field is applied, the centres of positive and negative charges are separated by a small distance which induces dipole moment in the direction of the external electric field. Then the dielectric is said to be polarized by an external electric field.
 
+![Figure 1.48 Non polar molecules (a) without external field (b) with the external field](a50.png)
+
 **Polar molecules**
 
 In polar molecules, the centres of the positive and negative charges are separated even in the absence of an external electric field. They have a permanent dipole moment. Due to thermal motion, the direction of each dipole moment is oriented randomly. Hence the net dipole moment is zero in the absence of an external electric field. Examples of polar molecules are \(\mathrm{H}_2\mathrm{O}\), \(\mathrm{N}_2\mathrm{O}\), HCl, \(\mathrm{NH}_3\).
 
 When an external electric field is applied, the dipoles inside the material tend to align in the direction of the electric field. Hence a net dipole moment is induced in it. Then the dielectric is said to be polarized by an external electric field.
+
+![Figure 1.49 (a) Randomly oriented polar molecules (b) Align with the external electric field](a51.png)
 
 **Polarisation**
 
@@ -1998,7 +2020,13 @@ The uniform electric field between the plates acts as an external electric field
 
 But inside the dielectric, the net charge is zero even in a small volume. So the dielectric in the external field is equivalent to two oppositely charged sheets with the surface charge densities \(+ \sigma_{b}\) and \(- \sigma_{b}\). These charges are called bound charges. They are not free to move like free electrons in conductors.
 
+![Figure 1.50 Induced electric field lines inside the dielectric](a52.png)
+
 For example, the charged balloon after rubbing sticks onto a wall. The reason is that the negatively charged balloon is brought near the wall, it polarizes opposite charges on the surface of the wall, which attracts the balloon.
+
+![Figure 1.51 (a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon](a53.png)
+
+### 1.7.6 Dielectric strength
 
 When the external electric field applied to a dielectric is very large, it tears the atoms apart so that the bound charges become free charges. Then the dielectric starts to conduct electricity. This is called dielectric breakdown. The maximum electric field the dielectric can withstand before it breakdown is called dielectric strength. For example, the dielectric strength of air is \(3 \times 10^{6} \mathrm{~V} \mathrm{~m}^{-1}\). If the applied electric field increases beyond this, a spark is produced in the air. The dielectric strengths of some dielectrics are given in the Table 1.1.
 
@@ -2020,6 +2048,8 @@ Capacitor is a device used to store electric charge and electrical energy. It co
 
 A simple capacitor consists of two parallel metal plates separated by a small distance.
 
+![Figure 1.52 (a) Parallel plate capacitor (b) Capacitor connected with a battery (c) Symbolic representation of capacitor](a54.png)
+
 When a capacitor is connected to a battery of potential difference V, the electrons are transferred from one plate to the other plate by battery so that one plate becomes negatively charged with a charge of -Q and the other plate positively charged with +Q. The potential difference between the plates is equivalent to the battery's terminal voltage. If the battery voltage is increased, the amount of charges stored in the plates also increase. In general, the charge stored in the capacitor is proportional to the potential difference between the plates.
 
 $$
@@ -2039,11 +2069,15 @@ The SI unit of capacitance is coulomb per volt or farad (F) in honor of Michael 
 
 Nowadays there are capacitors available in various shapes (cylindrical, disk) and types (tantalum, ceramic and electrolytic). These capacitors are extensively used in various kinds of electronic circuits.
 
+![Figure 1.53 Various types of capacitors](a55.png)
+
 **Capacitance of a parallel plate capacitor**
 
 Consider a capacitor with two parallel plates each of cross-sectional area \(A\) and separated by a distance \(d\).
 
 The electric field between two infinite parallel plates is uniform and is given by \(E = \frac{\sigma}{\epsilon_0}\) where \(\sigma\) is the surface charge density on either plates \(\left(\sigma = \frac{Q}{A}\right)\). If the separation distance \(d\) is very much smaller than the size of the plate \((d^2 \ll A)\), then the above result can be used even for finite-sized parallel plate capacitor.
+
+![Figure 1.54 Capacitance of a parallel plate capacitor](a56.png)
 
 The electric field between the plates is
 
@@ -2141,8 +2175,15 @@ It is important to note that the energy density depends only on the electric fie
 Capacitors are used in various electronics circuits. A few of the applications.
 
 (a) Flash capacitors are used in digital cameras for taking photographs. The flash which comes from the camera when we take photographs is due to the energy released from the capacitor, called a flash capacitor.
+
+![Figure 1.55 (a) Flash capacitor in camera ](a57.png)
+
 (b) During cardiac arrest, a device called heart defibrillator is used to give a sudden surge of a large amount of electrical energy to the patient's chest to retrieve the normal heart function.
+
+![Figure 1.55 (b) Heart defibrillator ](a58.png)
+
 (c) Capacitors are used in the ignition system of automobile engines to eliminate sparking
+
 (d) Capacitors are used to reduce power fluctuations in power supplies and to increase the efficiency of power transmission.
 
 However, capacitors have disadvantage as well. Even after the battery or power supply is removed, the capacitor stores charges and energy for some time. For example if the TV is switched off, it is always advisable to not touch the back side of the TV panel.
@@ -2160,6 +2201,8 @@ C_0 = \frac{Q_0}{V_0} \quad (1.90)
 $$
 
 The battery is then disconnected from the capacitor and the dielectric is inserted between the plates.
+
+![Figure 1.56 (a) Capacitor is charged with a battery (b) Dielectric is inserted after the battery is disconnected ](a59.png)
 
 The introduction of dielectric between the plates will decrease the electric field. Experimentally it is found that the modified electric field is given by
 
@@ -2214,6 +2257,8 @@ Since \(\epsilon_{r} > 1\) we get \(U < U_{0}\). There is a decrease in energy b
 Let us now consider what happens when the battery of voltage \(V_{0}\) remains connected to the capacitor when the dielectric is inserted into the capacitor.
 
 The potential difference \(V_{0}\) across the plates remains constant. But it is found experimentally (first shown by Faraday) that when dielectric is inserted, the charge stored in the capacitor is increased by a factor \(\epsilon_{r}\).
+
+![Figure 1.57 (a) Capacitor is charged through a battery (b) Dielectric is inserted when the battery is connected.](a60.png)
 
 $$
 Q = \epsilon_{r} Q_{o} \quad (1.97)
@@ -2327,6 +2372,8 @@ Consider three capacitors of capacitance \(C_{1}, C_{2}\) and \(C_{3}\) connecte
 
 As soon as the battery is connected to the capacitors in series, the electrons of charge \(-Q\) are transferred from negative terminal to the right plate of \(C_{3}\) which pushes the electrons of same amount \(-Q\) from left plate of \(C_{3}\) to the right plate of \(C_{2}\) due to electrostatic induction. Similarly, the left plate of \(C_{2}\) pushes the charges of \(-Q\) to the right plate of \(C_{1}\) which induces the positive charge \(+Q\) on the left plate of \(C_{1}\). At the same time, electrons of charge \(-Q\) are transferred from left plate of \(C_{1}\) to positive terminal of the battery.
 
+![Figure 1.58 (a) Capacitors connected in series (b) Equivalent capacitors CS](a61.png)
+
 By these processes, each capacitor stores the same amount of charge \(Q\). The capacitances of the capacitors are in general different, so that the voltage across each capacitor is also different and are denoted as \(V_{1}, V_{2}\) and \(V_{3}\) respectively.
 
 The sum of the voltages across the capacitor must be equal to the voltage of the battery.
@@ -2356,6 +2403,8 @@ Consider three capacitors of capacitance \(C_{1}, C_{2}\) and \(C_{3}\) connecte
 
 Since corresponding sides of the capacitors are connected to the same positive and negative terminals of the battery, the voltage across each capacitor is equal to the battery's voltage. Since capacitances of the capacitors are different, the charge stored in each capacitor is not the same. Let the charge stored in the three capacitors be \(Q_{1}, Q_{2}\) and \(Q_{3}\) respectively. According to the law of conservation of total charge, the sum of these three charges is equal to the charge \(Q\) transferred by the battery,
 
+![Figure 1.59 (a) capacitors in parallel (b) equivalent capacitance with the same total charge](a62.png)
+
 $$
 Q = Q_{1} + Q_{2} + Q_{3} \quad (1.106)
 $$
@@ -2380,6 +2429,8 @@ Thus, the equivalent capacitance of capacitors connected in parallel is equal to
 **EXAMPLE 1.22**
 
 Find the equivalent capacitance between P and Q for the configuration shown below in the figure (a).
+
+![](a63.png)
 
 **Solution**
 
@@ -2414,6 +2465,8 @@ Thus the combination of capacitances in figure (a) can be replaced by a single c
 ### 1.9.1 Distribution of charges in a conductor
 
 Consider two conducting spheres A and B of radii \(r_{1}\) and \(r_{2}\) respectively connected to each other by a thin conducting wire. The distance between the spheres is much greater than the radii of either spheres.
+
+![Figure 1.60 Two conductors are connected through conducting wire](a64.png)
 
 If a charge \(Q\) is introduced into any one of the spheres, this charge \(Q\) is redistributed into both the spheres such that the electrostatic potential is same in both the spheres. They are now uniformly charged and attain electrostatic equilibrium. Let \(q_{1}\) be the charge residing on the surface of sphere A and \(q_{2}\) is the charge residing on the surface of sphere B such that \(Q = q_{1} + q_{2}\). The charges are distributed only on the surface and there is no net charge inside the conductor.
 
@@ -2455,6 +2508,8 @@ The surface charge density \(\sigma\) is inversely proportional to the radius of
 **EXAMPLE 1.23**
 
 Two conducting spheres of radius \(r_{1} = 8 \mathrm{cm}\) and \(r_{2} = 2 \mathrm{cm}\) are separated by a distance much larger than \(8 \mathrm{cm}\) and are connected by a thin conducting wire. A total charge of \(Q = +100 \mathrm{nC}\) is placed on one of the spheres. After a fraction of a second, the charge \(Q\) is redistributed and both the spheres attain electrostatic equilibrium.
+
+![](a65.png)
 
 (a) Calculate the charge and surface charge density on each sphere.
 (b) Calculate the potential at the surface of each sphere.
@@ -2513,11 +2568,15 @@ $$
 
 ### 1.9.2 Action of points or Corona discharge
 
+![Figure 1.61 Action of points or corona discharge](a66.png)
+
 Consider a charged conductor of irregular shape. The charge density will be large where the radius of curvature is small. This implies that near the sharp edges of the conductor, the surface charge density is large. This results in a very large electric field around the sharp edges. The electric field around the sharp edges may become so large that it may ionize the surrounding air. Positive ions are repelled by the positive charges on the conductor and negative ions are attracted towards the conductor. The positive ions carry charge from the conductor to the air. Thus the charge on the conductor is reduced. This process is called action at points or corona discharge.
 
 ### 1.9.3 Lightning arrester or lightning conductor
 
 This is a device used to protect tall buildings from lightning strikes. It works on the principle of action at points or corona discharge.
+
+![Figure 1.62 (a) Schematic diagram of a lightning arrestor. (b) A house with a lightning arrestor](a67.png)
 
 This device consists of a long thick copper rod passing from top of the building to the ground. The upper end of the rod has a sharp spike or a sharp needle. The lower end of the rod is connected to copper plate which is buried deep into the ground. When a negatively charged cloud is passing above the building, it induces a positive charge on the spike. Since the induced charge density on thin sharp spike is large, it results in a corona discharge. This positive charge ionizes the surrounding air which in turn neutralizes the negative charge in the cloud. The negative charge pushed to the spikes passes through the copper rod and reaches the ground. Thus the building is protected from lightning.
 
@@ -2530,6 +2589,8 @@ A large hollow spherical conductor is fixed on the insulating stand. A pulley B 
 The comb D is maintained at a positive potential of \(10^{4}\mathrm{V}\) by a power supply. The upper comb E is connected to the inner side of the hollow metal sphere.
 
 Due to the high electric field near comb D, air between the belt and comb D gets ionized by the action of points. The positive charges are pushed towards the belt and negative charges are attracted towards the comb D. The positive charges stick to the belt and move up. When the positive charges on the belt reach the point near the comb E, the comb E acquires negative charge and the sphere acquires positive charge due to electrostatic induction. As a result, the positive charges are pushed away from the comb E and they reach the outer surface of the sphere. Since the sphere is a conductor, the positive charges are distributed uniformly on the outer surface of the hollow sphere. At the same time, the negative charges nullify the positive charges in the belt due to corona discharge before it passes over the pulley.
+
+![Figure 1.63 Van de Graaff generator](a68.png)
 
 When the belt descends, it has almost no net charge. At the bottom, it again gains a large positive charge. The belt goes up and delivers the positive charges to the outer surface of the sphere. This process continues until the outer surface produces the potential difference of the order of \(10^{7}\) which is the limiting value. We cannot store charges beyond this limit since the extra charge starts leaking to the surroundings due to ionization of air. The leakage of charges can be reduced by enclosing the machine in a gas filled steel chamber at very high pressure.
 
@@ -2599,33 +2660,50 @@ $$
 ## MULTIPLE CHOICE QUESTIONS
 
 1. Two identical point charges of magnitude \(-q\) are fixed. A third charge \(+q\) is placed midway between the two charges at the point P. Suppose this charge \(+q\) is displaced a small distance from the point P in the directions indicated by the arrows, in which direction(s) will \(+q\) be stable with respect to the displacement?
+
+![](a69.png)
+
    (a) \(A_{1}\) and \(A_{2}\) (b) \(B_{1}\) and \(B_{2}\) (c) both directions (d) No stable
 
 2. Which charge configuration produces a uniform electric field?
    (a) point charge (b) uniformly charged infinite line (c) uniformly charged infinite plane (d) uniformly charged spherical shell
 
 3. What is the ratio of the charges \(\frac{q_1}{q_2}\) for the following electric field line pattern?
+
+![](a70.png)
+
    (a) \(\frac{1}{5}\) (b) \(\frac{25}{11}\) (c) 5 (d) \(\frac{11}{25}\)
 
 4. An electric dipole is placed at an alignment angle of \(30^{\circ}\) with an electric field of \(2\times 10^{5}\mathrm{N}\mathrm{C}^{-1}\). It experiences a torque equal to \(8\mathrm{Nm}\). The charge on the dipole if the dipole length is \(1\mathrm{cm}\) is
    (a) \(4\mathrm{mC}\) (b) \(8\mathrm{mC}\) (c) \(5\mathrm{mC}\) (d) \(7\mathrm{mC}\)
 
 5. Four Gaussian surfaces are given below with charges inside each Gaussian surface. Rank the electric flux through each Gaussian surface in increasing order.
+
+![](a71.png)
+
    (a) \(D < C < B < A\) (b) \(A < B = C < D\) (c) \(C < A = B < D\) (d) \(D > C > B > A\)
 
 6. The total electric flux for the following closed surface which is kept inside water
+
+![](a72.png)
+
    (a) \(\frac{80q}{\epsilon_{o}}\) (b) \(\frac{q}{40\epsilon_{o}}\) (c) \(\frac{q}{80\epsilon_{o}}\) (d) \(\frac{q}{160\epsilon_{o}}\)
 
 7. Two identical conducting balls having positive charges \(q_{1}\) and \(q_{2}\) are separated by a centre to centre distance \(r\). If they are made to touch each other and then separated to the same distance, the force between them will be (NSEP 04-05)
    (a) less than before (b) same as before (c) more than before (d) zero
 
 8. Rank the electrostatic potential energies for the given system of charges in increasing order.
+
+![](a73.png)
+
    (a) \(1 = 4 < 2 < 3\) (b) \(2 = 4 < 3 < 1\) (c) \(2 = 3 < 1 < 4\) (d) \(3 < 1 < 2 < 4\)
 
 9. An electric field \(\vec{E} = 10x \hat{i}\) exists in a certain region of space. Then the potential difference \(V = V_{o} - V_{A}\), where \(V_{o}\) is the potential at the origin and \(V_{A}\) is the potential at \(x = 2 \mathrm{m}\) is:
    (a) \(10 \mathrm{~V}\) (b) \(-20 \mathrm{~V}\) (c) \(+20 \mathrm{~V}\) (d) \(-10 \mathrm{~V}\)
 
 10. A thin conducting spherical shell of radius \(R\) has a charge \(Q\) which is uniformly distributed on its surface. The correct plot for electrostatic potential due to this spherical shell is
+
+![](a74.png)
 
 11. Two points A and B are maintained at a potential of 7 V and -4 V respectively. The work done in moving 50 electrons from A to B is
     (a) \(8.80 \times 10^{-17} \mathrm{~J}\) (b) \(-8.80 \times 10^{-17} \mathrm{~J}\) (c) \(4.40 \times 10^{-17} \mathrm{~J}\) (d) \(5.80 \times 10^{-17} \mathrm{~J}\)
@@ -2637,6 +2715,9 @@ $$
     (a) Capacitance (b) Charge (c) Voltage (d) Energy density
 
 14. Three capacitors are connected in triangle as shown in the figure. The equivalent capacitance between the points A and C is
+
+![](a75.png)
+
     (a) \(1\mu F\) (b) \(2\mu F\) (c) \(3\mu F\) (d) \(\frac{1}{4}\mu F\)
 
 15. Two metallic spheres of radii \(1\mathrm{cm}\) and \(3\mathrm{cm}\) are given charges of \(-1\times 10^{-2}\mathrm{C}\) and \(5\times 10^{-2}\mathrm{C}\) respectively. If these are connected by a conducting wire, the final charge on the bigger sphere is (AIIPMT -2012)
@@ -2708,7 +2789,8 @@ $$
 2. The total number of electrons in the human body is typically in the order of \(10^{28}\). Suppose, due to some reason, you and your friend lost \(1\%\) of this number of electrons. Calculate the electrostatic force between you and your friend separated at a distance of \(1\mathrm{m}\). Compare this with your weight. Assume mass of each person is \(60\mathrm{kg}\) and use point charge approximation.
    **Ans:** \(F_{e} = 23 \times 10^{23} \mathrm{~N}\), \(W = 588 \mathrm{~N}\), \(\frac{F_{e}}{W} = 3.9 \times 10^{21}\)
 
-3. Five identical charges \(Q\) are placed equidistant on a semicircle as shown in the figure. Another point charge \(q\) is kept at the centre of the circle of radius \(R\). Calculate the electrostatic force experienced by the charge \(q\).
+3. Five identical charges \(Q\) are placed equidistant on a semicircle as shown in the figure. Another point charge \(q\) is kept at the centre of the circle of radius \(R\). Calculate the electrostatic force experienced by the charge \(q\)
+![](a76.png)
    **Ans:** \(\bar{F} = \frac{1}{4\pi\epsilon} \frac{qQ}{R^2} \left(1 + \sqrt{2}\right) \hat{i} \mathrm{~N}\)
 
 4. Suppose a charge \(+q\) on Earth's surface and another \(+q\) charge is placed on the surface of the Moon. (a) Calculate the value of \(q\) required to balance the gravitational attraction between Earth and Moon (b) Suppose the distance between the Moon and Earth is halved, would the charge \(q\) change?
@@ -2716,39 +2798,54 @@ $$
    **Ans:** (a) \(q \approx +5.87 \times 10^{13} \mathrm{~C}\), (b) no change
 
 5. Draw the free body diagram for the following charges as shown in the figure (a), (b) and (c).
-
+![](a77.png)
 6. Consider an electron travelling with a speed \(\upsilon_{\mathrm{o}}\) and entering into a uniform electric field \(\bar{E}\) which is perpendicular to \(\bar{\upsilon}_{\mathrm{o}}\) as shown in the Figure. Ignoring gravity, obtain the electron's acceleration, velocity and position as functions of time.
+![](a78.png)
    **Ans:** \(\bar{a} = -\frac{eE}{m} \hat{j}\), \(\bar{\upsilon} = \upsilon_{o} \hat{i} -\frac{eE}{m} t \hat{j}\), \(\bar{r} = \upsilon_{o} t \hat{i} -\frac{1}{2} \frac{eE}{m} t^{2} \hat{j}\)
 
 7. A closed triangular box is kept in an electric field of magnitude \(E = 2\times 10^{3}\mathrm{N}\mathrm{C}^{-1}\).
    Calculate the electric flux through the (a) vertical rectangular surface (b) slanted surface and (c) entire surface.
+   ![](a79.png)
    **Ans:** (a) \(-15\mathrm{Nm}^2\mathrm{C}^{-1}\) (b) \(15\mathrm{Nm}^2\mathrm{C}^{-1}\) (c) zero
 
 8. The electrostatic potential is given as a function of \(x\) in figure (i) and (ii). (a) Calculate the corresponding electric fields in regions A, B, C and D for the Figure (i). (b) Plot the electric field as a function of \(x\) for the figure (ii).
+   ![](a80.png)
    **Ans:** (a) \(E_{x} = 15\mathrm{Vm}^{-1}\) (region A), \(E_{x} = -10\mathrm{Vm}^{-1}\) (region C), \(E_{x} = 0\) (region B), \(E_{x} = 30\mathrm{Vm}^{-1}\) (region D)
+   ![](a81.png)
 
 9. A spark plug in a bike or a car is used to ignite the air-fuel mixture in the engine. It consists of two electrodes separated by a gap of around \(0.6\mathrm{mm}\) gap. To create the spark, an electric field of magnitude \(3\times 10^{6}\mathrm{Vm}^{-1}\) is required. (a) What potential difference must be applied to produce the spark? (b) If the gap is increased, does the potential difference increase, decrease or remains the same? (c) find the potential difference if the gap is \(1\mathrm{mm}\).
+   ![](a82.png)
    **Ans:** (a) \(1800\mathrm{V}\) (b) increases (c) 3000 V
 
 10. A point charge of \(+10\mu \mathrm{C}\) is placed at a distance of \(20\mathrm{cm}\) from another identical point charge of \(+10\mu \mathrm{C}\). A point charge of \(-2\mu \mathrm{C}\) is moved from point a to b as shown in the figure. Calculate the change in potential energy of the system? Interpret your result.
+   ![](a83.png)
 
 11. Calculate the resultant capacitances for each of the following combinations of capacitors.
+   ![](a84.png)
+
     **Ans:** (a) \(\frac{2}{3} C_{\circ}\) (b) \(C_{\circ}\) (c) \(3C_{\circ}\) (d) across PQ: \(\frac{C_1C_2C_3 + C_2C_3C_4 + C_1C_2C_4 + C_1C_3C_4}{(C_1 + C_3)(C_2 + C_4)}\), across RS: \(\frac{C_1C_2C_3 + C_2C_3C_4 + C_1C_2C_4 + C_1C_3C_4}{(C_1 + C_2)(C_3 + C_4)}\) (e) across PQ: \(2C_{\circ}\)
 
 12. An electron and a proton are allowed to fall through the separation between the plates of a parallel plate capacitor of voltage 5 V and separation distance \(h = 1 \mathrm{mm}\).
+   ![](a85.png)
+
     (a) Calculate the time of flight for both electron and proton
     (b) Suppose if a neutron is allowed to fall, what is the time of flight?
     (c) Among the three, which one will reach the bottom first? (Take \(m_{p} = 1.6 \times 10^{-27} \mathrm{kg}, m_{e} = 9.1 \times 10^{-31} \mathrm{kg}\) and \(g = 10 \mathrm{m} \mathrm{s}^{-2}\))
     **Ans:** (a) \(t_{e} = \sqrt{\frac{2h m_{e}}{eE}} \approx 1.5\mathrm{ns}\) (ignoring the gravity), \(t_{p} = \sqrt{\frac{2h m_{p}}{eE}} \approx 63\mathrm{ns}\) (ignoring the gravity) (b) \(t_{n} = \sqrt{\frac{2h}{g}} \approx 14.1\mathrm{ms}\) (c) electron will reach first
 
 13. During a thunder storm, the movement of water molecules within the clouds creates friction, partially causing the bottom part of the clouds to become negatively charged. This implies that the bottom of the cloud and the ground act as a parallel plate capacitor. If the electric field between the cloud and ground exceeds the dielectric breakdown of the air \((3 \times 10^{6} \mathrm{Vm}^{-1})\), lightning will occur.
+   ![](a86.png)
+
     (a) If the bottom part of the cloud is 1000 m above the ground, determine the electric potential difference that exists between the cloud and ground.
     (b) In a typical lightning phenomenon, around 25 C of electrons are transferred from cloud to ground. How much electrostatic potential energy is transferred to the ground?
     **Ans:** (a) \(V = 3 \times 10^9 \mathrm{~V}\), (b) \(U = 75 \times 10^9 \mathrm{~J}\)
 
 14. For the given capacitor configuration (a) Find the charges on each capacitor (b) potential difference across them (c) energy stored in each capacitor
+   ![](a87.png)
 
 15. Capacitors P and Q have identical cross sectional areas A and separation d. The space between the capacitors is filled with a dielectric of dielectric constant \(\epsilon_r\) as shown in the figure. Calculate the capacitance of capacitors P and Q.
+   ![](a88.png)
+
     **Ans:** \(C_p = \frac{\epsilon_r A}{2d}\left(1 + \epsilon_r\right)\), \(C_Q = \frac{2\epsilon_r A}{d}\left(\frac{\epsilon_r}{1 + \epsilon_r}\right)\)
 
 ---
