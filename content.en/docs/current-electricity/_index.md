@@ -23,11 +23,9 @@ In this unit, the student is exposed to
 - Heating effect - Joule's law - applications
 - Thermoelectric effects - Seebeck effect - Peltier effect - Thomson effect
 
-![Guru](guru.jpeg)
-
 ## INTRODUCTION
 
-![Guru](guru.jpeg)
+![](b1.png)
 
 In unit 1, we studied the properties of charges when they are at rest. In reality, the charges are always moving within the materials. For example, the electrons in a copper wire are never at rest and are continuously in random motion. Therefore it is important to analyse the behaviour of charges when they are in motion. The motion of charges constitutes 'electric current'. Current electricity is the study of flow of electric charges. It owes its origin to Alessandro Volta (1745- 1827), who invented the electric battery which produced the first steady flow of electric current. Modern world depends heavily on the use of electricity. It is used to operate machines, communication systems, electronic devices, home appliances etc., In this unit, we will study about the electric current, resistance and related phenomenon in materials.
 
@@ -35,13 +33,13 @@ In unit 1, we studied the properties of charges when they are at rest. In realit
 
 Matter is made up of atoms. Each atom consists of a positively charged nucleus with negatively charged electrons moving around the nucleus. Atoms in metals have one or more electrons which are loosely bound to the nucleus. These electrons are called free electrons and can be easily detached from the atoms. The substances which have an abundance of these free electrons are called conductors. These free electrons move randomly throughout the conductor at a given temperature. In general due to this random motion, there is no net transfer of charges from one end of the conductor to other end and hence no current in the conductor. When a potential difference is applied by the battery across the ends of the conductor, the free electrons drift towards the positive terminal of the battery, producing a net electric current. This is easily understandable from the analogy given in the Figure 2.1.
 
-![Guru](guru.jpeg)
+![Figure 2.1 Water current and Electric current](b2.png)
 
 In the XI Volume 2, unit 6, we studied, that the mass move from higher gravitational potential to lower gravitational potential. Likewise, positive charge flows from region of higher electric potential to region of lower electric potential and negative charge flows from region of lower electric potential to region of higher electric potential. So battery or electric cell simply creates potential difference across the conductor.
 
 The electric current in a conductor is defined as the rate of flow of charges through a given cross- sectional area A. It is shown in the Figure 2.2.
 
-![Guru](guru.jpeg)
+![Figure 2.2 Charges flow across the area A](b3.png)
 
 If a net charge Q passes through any cross section of a conductor in time t, then the current is defined as I = Q. But charge flow is not always constant. Hence current can more generally be defined as
 
@@ -77,11 +75,9 @@ $$
 
 ### 2.1.1 Conventional Current
 
-![Guru](guru.jpeg)
+![Figure 2.3 Direction of conventional current and electron flow](b4.png)
 
 In an electric circuit, arrow heads are used to indicate the direction of flow of current. By convention, this flow in the circuit should be from the positive terminal of the battery to the negative terminal. This current is called the conventional current or simply current and is in the direction in which a positive test charge would move. In typical circuits the charges that flow are actually electrons, from the negative terminal of the battery to the positive terminal. As a result, the flow of electrons and the direction of conventional current point in opposite direction as shown in Figure 2.3. Mathematically, a transfer of positive charge is the same as a transfer of negative charge in the opposite direction.
-
-![Guru](guru.jpeg)
 
 Electric current is not only produced by batteries. In nature, lightning bolt produces enormous electric current in a short time. During lightning, very high potential difference is created between the clouds and ground and hence charges flow between the clouds and ground.
 
@@ -89,13 +85,13 @@ Electric current is not only produced by batteries. In nature, lightning bolt pr
 
 In a conductor the charge carriers are free electrons. These electrons move freely through the conductor and collide repeatedly with the positive ions. If there is no electric field, the electrons move in random directions, and hence their velocities are also randomly oriented. On an average, the number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction. As a result, there is no net flow of electrons in any direction and hence there will not be any current.
 
+![Figure 2.4 Zig-zag motion and drift velocity](b5.png)
+
 Suppose a potential difference is set across the conductor by connecting a battery, an electric field \(\vec{E}\) is created in the conductor. This electric field exerts a force on the electrons, producing a current. The electric field accelerates the electrons, while ions scatter the electrons and change their direction of motion. Thus, we see zigzag motion of electrons. In addition to the zigzag motion due to the collisions, the electrons move slowly along the conductor in a direction opposite to that of \(\vec{E}\) as shown in the Figure 2.4.
 
 **Ions**
 
 Any material is made up of neutral atoms with equal number of electrons and protons. If the outermost electrons leave the atoms, they become free electrons and are responsible for electric current. The atoms after losing their outer most electrons will have more positive charges and hence are called positive ions. These ions will not move freely within the material like the free electrons. Hence the positive ions will not give rise to current.
-
-![Guru](guru.jpeg)
 
 This velocity is called drift velocity \(\vec{v}_{d}\). The drift velocity is the average velocity acquired by the electrons inside the conductor when is subjected to an electric field. The average time between two successive collisions is called the mean free time denoted by \(\tau\). The acceleration \(\bar{a}\) experienced by the electron in an electric field \(\bar{E}\) is given by
 
@@ -116,8 +112,6 @@ $$
 $$
 
 The SI unit of mobility is \(\mathrm{m}^2\mathrm{V}^{- 1}\mathrm{s}^{- 1}\)
-
-![Guru](guru.jpeg)
 
 The typical drift velocity of electrons in the wire is \(10^{- 4}\mathrm{ms}^{- 1}\). If an electron drifts with this speed, then the electrons leaving the battery will take hours to reach the light bulb. Then how electric bulbs glow as soon as we switch on the battery? When battery is switched on, the electrons begin to move away from the negative terminal of the battery and this electron exerts force on the nearby electrons. This process creates a propagating influence (electric field) that travels through the wire at the speed of light. In other words, the energy is transported from the battery to bulb at the speed of light through propagating influence (electric field). Due to this reason, the bulb glows as soon as the battery is switched on.
 
@@ -149,11 +143,14 @@ $$
 
 (ii) We often use the phrases like 'charging the battery in my mobile' and 'my mobile phone battery has no charge' etc. These sentences are not correct. When we say 'battery has no charge, it means, that the battery has lost ability to provide energy or provide potential difference to the electrons in the circuit. When we say 'mobile is charging, it implies that the battery is receiving energy from AC power supply and not electrons.
 
+![](b6.png)
+
+
 ### 2.1.3 Microscopic model of current
 
 Consider a conductor with area of cross section A and let an electric field \(\vec{E}\) be applied to it from right to left. Suppose there are \(n\) electrons per unit volume in the conductor and assume that all the electrons move with the same drift velocity \(\vec{v}_{d}\) as shown in Figure 2.5.
 
-![Guru](guru.jpeg)
+![Figure 2.5 Microscopic model of current](b7.png)
 
 The drift velocity of the electrons \(= v_{d}\). If the electrons move through a distance \(dx\) within a small interval of \(dt\) then
 
@@ -283,11 +280,11 @@ $$
 > $$
 > The current I can be positive or negative depending on the choice of the unit vector normal to the surface area A.
 
-![Guru](guru.jpeg)
+![Figure 2.7 Current through the conductor](b8.png)
 
 The ohm's law can be derived from the equation \(J = \sigma E\). Consider a segment of wire of length \(l\) and cross sectional area \(A\) as shown in Figure 2.7.
 
-![Guru](guru.jpeg)
+![Guru](guru.png)
 
 When a potential difference \(V\) is applied across the wire, a net electric field is created in the wire which constitutes the current in the wire. For simplicity, we assume that the electric field is uniform in the entire length of the wire, then the potential difference (voltage \(V\)) can be written as
 
@@ -329,7 +326,7 @@ $$
 
 The SI unit of resistance is ohm \((\Omega)\). From the equation (2.16), we infer that the graph between current versus voltage is straight line with a slope equal to the inverse of resistance \(R\) of the conductor. It is shown in the Figure 2.8 (a).
 
-![Guru](guru.jpeg)
+![Figure 2.8 Current against voltage for (a) a conductor which obeys Ohm’slaw and (b) for a non-ohmic device (Diode given in  XII physics, unit 10 is an example of a non-ohmic device)](b9.png)
 
 Materials for which the current versus voltage graph is a straight line through the origin, are said to obey Ohm's law and their behaviour is said to be ohmic as shown in Figure 2.8(a). Materials or devices that do not follow Ohm's law are said to be non- ohmic. These materials have more complex relationships between voltage and current. A plot of I versus V for a non- ohmic material is non- linear and they do not have a constant resistance (Figure 2.8(b)).
 
@@ -339,7 +336,7 @@ A potential difference across \(24\Omega\) resistor is \(12\mathrm{V}\). What is
 
 **Solution**
 
-![Guru](guru.jpeg)
+![](b10.png)
 
 \(V = 12\mathrm{V}\) and \(R = 24\Omega\)
 \(\mathrm{Current}, I = ?\)
@@ -440,7 +437,7 @@ Hence, stretching the length of the wire has increased its resistance.
 
 Consider a rectangular block of metal of height A, width B and length C as shown in the figure.
 
-![Guru](guru.jpeg)
+![](b11.png)
 
 If a potential difference of \(V\) is applied between the two faces A and B of the block (figure (a)), the current \(I_{AB}\) is observed. Find the current that flows if the same potential difference \(V\) is applied between the two faces B and C of the block (figure (b)). Give your answers in terms of \(I_{AB}\).
 
@@ -466,8 +463,6 @@ $$
 
 Since \(C > A\), the current \(I_{BC} > I_{AB}\)
 
-![Guru](guru.jpeg)
-
 The human body contains a large amount of water which has low resistance of around \(200\Omega\) and the dry skin has high resistance of around \(500\mathrm{k}\Omega\). But when the skin is wet, the resistance is reduced to around \(1000\Omega\). This is the reason why repairing the electrical connection with the wet skin is always dangerous.
 
 ### 2.2.2 Resistors in series and parallel
@@ -480,7 +475,7 @@ When two or more resistors are connected end to end, they are said to be in seri
 
 The amount of charge passing through resistor \(R_{1}\) must also pass through resistors \(R_{2}\) and \(R_{3}\) since the charges cannot accumulate anywhere in the circuit. Due to this reason, the current I passing through all the three resistors is the same. According to Ohm's law, if same current pass through different resistors of different values, then the potential difference across each resistor must be different. If \(V_{1}, V_{2}\) and \(V_{3}\) be the potential differences (voltage) across each of the resistors \(R_{1}\), \(R_{2}\) and \(R_{3}\) respectively, then we can write \(V_{1} = IR_{1}, V_{2} = IR_{2}\) and \(V_{3} = IR_{3}\). But the supply voltage \(V\) must be equal to the sum of voltages(potential differences) across each resistor.
 
-![Guru](guru.jpeg)
+![Figure 2.9 Resistors in series](b12.png)
 
 $$
 V = V_{1} + V_{2} + V_{3} = IR_{1} + IR_{2} + IR_{3} \quad (2.21)
@@ -505,6 +500,8 @@ Note: The value of equivalent resistance in series connection will be greater th
 **EXAMPLE 2.8**
 
 Calculate the equivalent resistance for the circuit which is connected to \(24\mathrm{V}\) battery and also find the potential difference across each resistors in the circuit.
+
+![](b13.png)
 
 **Solution**
 
@@ -548,7 +545,7 @@ $$
 I = \frac{V}{R_{p}}
 $$
 
-![Guru](guru.jpeg)
+![Figure 2.10 Resistors in parallel ](b14.png)
 
 $$
 \frac{1}{R_{p}} = \frac{1}{R_{1}} +\frac{1}{R_{2}} +\frac{1}{R_{3}} \quad (2.26)
@@ -564,7 +561,7 @@ House hold appliances are always connected in parallel so that even if one is sw
 
 Calculate the equivalent resistance in the following circuit and also find the values of current \(I, I_{1}\) and \(I_{2}\) in the given circuit.
 
-![Guru](guru.jpeg)
+![](b15.png)
 
 **Solution**
 
@@ -662,6 +659,7 @@ Substituting in equation (1)
 
 Calculate the equivalent resistance between **A** and **B** in the given circuit.
 
+![](b16.png)
 
 ### **Solution**
 
@@ -679,6 +677,7 @@ $$
 \frac{1}{R_{p1}} = 1 \quad \Rightarrow \quad R_{p1} = 1\Omega
 $$
 
+![](b17.png)
 ---
 
 ### **Section II**
@@ -690,6 +689,7 @@ $$
 $$
 \frac{1}{R_{p2}} = \frac{1}{2} \quad \Rightarrow \quad R_{p2} = 2\Omega
 $$
+![](b18.png)
 
 ---
 
@@ -714,6 +714,10 @@ $$
 $$
 R = 1\Omega + 2\Omega + 3\Omega = 6\Omega
 $$
+![](b19.png)
+
+![](b20.png)
+
 
 ---
 
@@ -721,7 +725,7 @@ $$
 
 Five resistors are connected in the configuration as shown in the figure.
 Calculate the equivalent resistance between the points **a** and **b**.
-
+![](b21.png)
 
 ### **Solution**
 
@@ -735,6 +739,8 @@ Hence, the points **C** and **D** are at the same potential and no current flows
 
 So, the circuit is simplified as shown in the figure.
 
+![](b22.png)
+
 The equivalent resistance of the circuit
 between a and b is Req = \(1\Omega\)
 
@@ -745,7 +751,7 @@ between a and b is Req = \(1\Omega\)
 
 ### 2.2.3 Colour code for Carbon resistors
 
-![Guru](guru.jpeg)
+![Figure 2.11 Resistances used in laboratory](b23.png)
 
 Carbon resistors consists of a ceramic core, on which a thin layer of crystalline carbon is deposited as shown in Figure 2.11. These resistors are inexpensive, stable and compact in size. Colour rings are used to indicate the value of the resistance according to the rules given in the Table 2.2.
 
@@ -771,7 +777,7 @@ Three coloured rings are used to indicate the values of a resistor: the first tw
 
 For the resistor shown in Figure 2.12, the first digit \(= 5\) (green), the second digit \(= 6\) (blue), decimal multiplier \(= 10^{3}\) (orange) and tolerance \(= 5\%\) (gold). The value of resistance \(= 56 \times 10^{3} \Omega\) or \(56 \mathrm{k}\Omega\) with the tolerance value \(5\%\).
 
-![Guru](guru.jpeg)
+![Figure 2.12 Resistor colour coding](b24.png)
 
 ### 2.2.4 Temperature dependence of resistivity
 
@@ -800,7 +806,7 @@ For conductors \(\alpha\) is positive. If the temperature of a conductor increas
 
 Even though, the resistivity of conductors like metals varies linearly for wide range of temperatures, there also exists a nonlinear region at very low temperatures. The resistivity approaches some finite value as the temperature approaches absolute zero as shown in Figure 2.13(b).
 
-![Guru](guru.jpeg)
+![Figure 2.13 (a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](b25.png)
 
 Using the equation \(\rho = R\frac{A}{l}\) in equation (2.27), we get the expression for the resistance of a conductor at temperature \(T^{\circ}C\) as
 
@@ -820,7 +826,7 @@ where \(\Delta R = R_{T} - R_{0}\) is change in resistance during the change in 
 
 For semiconductors, the resistivity decreases with increase in temperature. As the temperature increases, more electrons will be liberated from their atoms (Refer unit 9 for conduction in semi conductors). Hence the current increases and therefore the resistivity decreases as shown in Figure 2.14. A semiconductor with a negative temperature coefficient of resistivity is called a thermistor.
 
-![Guru](guru.jpeg)
+![Figure 2.14 Temperature dependence of resistivity for a semiconductor](b26.png)
 
 The typical values of temperature coefficients of various materials are given in table 2.3.
 
@@ -890,7 +896,7 @@ When a battery is connected between the ends of a conductor, a current is establ
 
 Assume that a positive charge of \(dQ\) moves from point \(a\) to \(b\) through the battery and moves from point \(c\) to \(d\) through the resistor and back to point \(a\). When the charge moves from point \(a\) to \(b\) it gains potential energy \(dU = V.dQ\) and the chemical potential energy of the battery decreases by the same amount. When this charge \(dQ\) passes through resistor it loses the potential energy \(dU = V.dQ\) due to collision with atoms in the resistor and again reaches the point \(a\). This process occurs continuously till the battery is connected in the circuit. The rate at which the charge loses its electrical potential energy in the resistor can be calculated.
 
-![Guru](guru.jpeg)
+![Figure 2.15 Energy given by the battery](b27.png)
 
 The electrical power \(\mathrm{P}\) is the rate at which the electrical potential energy is delivered,
 
@@ -906,7 +912,7 @@ $$
 
 This expression gives the power delivered by the battery to any electrical system, where \(I\) is the current passing through it and \(V\) is the potential difference across it. The SI unit of electrical power is watt \((1W = 1\mathrm{J}\mathrm{s}^{- 1})\). Commercially, the electrical bulbs used in houses come with the power and voltage rating of 5W- 220V, 30W- 220V, 60W- 220V etc. (Figure 2.16).
 
-![Guru](guru.jpeg)
+![Figure 2.16 Electrical bulbs with power rating](b27.png)
 
 Usually these voltage rating refers AC RMS voltages. For a given bulb, if the voltage drop across the bulb is greater than voltage rating, the bulb will fuse.
 
@@ -916,19 +922,15 @@ $$
 \begin{array}{l}P = IV = I(IR) = I^2R\\ P = IV = \frac{V}{R} V = \frac{V^2}{R} \end{array} \quad (2.34)
 $$
 
-![Guru](guru.jpeg)
-
 The total electrical energy used by any device is obtained by multiplying the power and duration of the time when it is ON. If the power is in watts and the time is in seconds, the energy will be in joules. In practice, electrical energy is measured in kilowatt hour (kWh). 1 kWh is known as 1 unit of electrical energy.
 
 (1 kWh \(= 1000\) Wh \(= (1000\) W) (3600 s) \(= 3.6\times 10^{6}\) J)
-
-![Guru](guru.jpeg)
 
 **EXAMPLE 2.15**
 
 A battery of voltage V is connected to 30 W bulb and 60 W bulb as shown in the figure. (a) Identify brightest bulb (b) which bulb has greater resistance? (c) Suppose the two bulbs are connected in series, which bulb will glow brighter?
 
-![Guru](guru.jpeg)
+![](b29.png)
 
 **Solution**
 
@@ -947,9 +949,6 @@ Two electric bulbs marked \(20\mathrm{W} - 220\mathrm{V}\) and \(100\mathrm{W} -
 To check which bulb will get fused, the voltage drop across each bulb has to be calculated.
 
 The resistance of the bulb,
-
-![Guru](guru.jpeg)
-
 
 $$
 R = \frac{V^2}{P}
@@ -986,14 +985,14 @@ An electric cell converts chemical energy into electrical energy to produce elec
 
 Several electric cells connected together form a battery. When a cell or battery is connected to a circuit, electrons flow from the negative terminal to the positive terminal through the circuit. By using chemical reactions, a battery produces potential difference across its terminals. This potential difference provides the energy to move the electrons through the circuit. Commercially available electric cells and batteries are shown in Figure 2.18.
 
-![Guru](guru.jpeg)
-![Guru](guru.jpeg)
+![Figure 2.17 Simple electric cell](b30.png)
+![Figure 2.18 Electric cells and Batteries](b31.png)
 
 ### 2.4.1 Electromotive force and internal resistance
 
 A battery or cell is called a source of electromotive force (emf). The term 'electromotive force' is a misnomer since it does not really refer to a force but describes a potential difference in volts. The emf of a battery or cell is the voltage provided by the battery when no current flows in the external circuit. It is shown in Figure 2.19.
 
-![Guru](guru.jpeg)
+![Figure 2.19 Measuring the emf of a cell](b32.png)
 
 Electromotive force determines the amount of work a battery or cell has to do to move a certain amount of charge around the circuit. It is denoted by the symbol \(\epsilon\). An ideal battery has zero internal resistance and the potential difference (terminal voltage) across the battery equals to its emf. In reality, the battery is made of electrodes and electrolyte, there is resistance to the flow of charges within the battery. This resistance is called internal resistance \(r\). For a real battery, the terminal voltage is not equal to the emf of the battery. A freshly prepared cell has low internal resistance and it increases with ageing.
 
@@ -1003,7 +1002,7 @@ The circuit connections are made as shown in Figure 2.20.
 
 The emf of cell \(\epsilon\) is measured by connecting a high resistance voltmeter across it without connecting the external resistance \(R\) as shown in Figure 2.20(a). Since the voltmeter draws very little current for deflection, the circuit may be considered as open. Hence the voltmeter reading gives the emf of the cell. Then, external resistance \(R\) is included in the circuit and current \(I\) is established in the circuit. The potential difference across R is equal to the potential difference across the cell (V) as shown in Figure 2.20(b).
 
-![Guru](guru.jpeg)
+![Figure 2.20 Internal resistance of the cell](b33.png)
 
 The potential drop across the resistor \(R\) is
 
@@ -1075,7 +1074,7 @@ Several cells can be connected to form a battery. In series connection, the nega
 
 Suppose \(n\) cells, each of emf \(\epsilon\) volts and internal resistance \(r\) ohms are connected in series with an external resistance \(R\) as shown in Figure 2.21
 
-![Guru](guru.jpeg)
+![Figure 2.21 cells in seriesCells in series](b34.png)
 
 The total emf of the battery \(= n\epsilon\)
 
@@ -1107,7 +1106,7 @@ Thus series connection of cells is advantageous only when the effective internal
 
 From the given circuit,
 
-![Guru](guru.jpeg)
+![](b35.png)
 
 Find
 i) Equivalent emf of the combination
@@ -1144,7 +1143,7 @@ In parallel connection all the positive terminals of the cells are connected to 
 
 Let \(n\) cells be connected in parallel between the points A and B and a resistance \(R\) is connected between the points A and B as shown in Figure 2.22. Let \(\epsilon\) be the emf and \(r\) the internal resistance of each cell.
 
-![Guru](guru.jpeg)
+![Figure 2.22 Cells in parallel](b36.png)
 
 The equivalent internal resistance of the battery is \(\frac{1}{r_{eq}} = \frac{1}{r} +\frac{1}{r} +\dots \frac{1}{r} (n\ \text{terms}) = \frac{n}{r}\). So \(r_{eq} = \frac{r}{n}\) and the total resistance in the circuit is \(R + \frac{r}{n}\). The total emf is the potential difference between the points A and B, which is equal to \(\epsilon\). The current in the circuit is given by
 
@@ -1158,13 +1157,11 @@ Case(b) If \(r \ll R\), \(I = \frac{\epsilon}{R} \quad (2.44)\)
 
 The above equation implies that current due to the whole battery is the same as that due to a single cell. Hence it is advantageous to connect cells in parallel when the external resistance is very small compared to the internal resistance of the cells.
 
-![Guru](guru.jpeg)
-
 **EXAMPLE 2.19**
 
 For the given circuit
 
-![Guru](guru.jpeg)
+![](b37.png)
 
 Find
 
@@ -1205,7 +1202,7 @@ Ohm's law is useful only for simple circuits. For more complex circuits, Kirchho
 
 It states that the algebraic sum of the currents at any junction of a circuit is zero. It is a statement of law of conservation of electric charge. The charges that enter a given junction in a circuit must leave that junction since charge cannot build up or disappear at a junction. By convention, current entering the junction is taken as positive and current leaving the junction is taken as negative.
 
-![Guru](guru.jpeg)
+![Figure 2.23 Kirchhoff ’s current rule](b38.png)
 
 Applying this law to the junction A in Figure 2.23
 
@@ -1217,7 +1214,7 @@ Applying this law to the junction A in Figure 2.23
 
 For the given circuit find the value of \(I\).
 
-![Guru](guru.jpeg)
+![](b39.png)
 
 **Solution**
 
@@ -1234,7 +1231,7 @@ The arrows pointing towards P are positive and away from P are negative.
 
 It states that in a closed circuit the algebraic sum of the products of the current and resistance of each part of the circuit is equal to the total emf included in the circuit. This rule follows from the law of conservation of energy for an isolated system (The energy supplied by the emf sources is equal to the sum of the energy delivered to all resistors). The product of current and resistance is taken as positive when the direction of the current is followed. Suppose if the direction of current is opposite to the direction of the loop, then product of current and voltage across the resistor is negative. It is shown in Figure 2.24 (a) and (b). The emf is considered positive when proceeding from the negative to the positive terminal of the cell. It is shown in Figure 2.24 (c) and (d).
 
-![Guru](guru.jpeg)
+![Figure 2.24 Kirchhoff voltage rule](b40.png)
 
 Kirchhoff voltage rule has to be applied only when all currents in the circuit reach a steady state condition (the current in various branches are constant).
 
@@ -1242,7 +1239,7 @@ Kirchhoff voltage rule has to be applied only when all currents in the circuit r
 
 The following figure shows a complex network of conductors which can be divided into two closed loops like EACE and ABCA. Apply Kirchhoff's voltage rule (KVR),
 
-![Guru](guru.jpeg)
+![](b41.png)
 
 **Solution**
 
@@ -1258,11 +1255,11 @@ and for the closed loop ABCA
 
 Calculate the current that flows in the 1 \(\Omega\) resistor in the following circuit.
 
-![Guru](guru.jpeg)
+![](b42.png)
 
 **Solution**
 
-![Guru](guru.jpeg)
+![](b43.png)
 
 We can denote the current that flows from 9V battery as \(I_{1}\) and it splits up into \(I_{2}\) and \((I_{1} - I_{2})\) at the junction E according Kirchhoff's current rule (KCR).
 
@@ -1286,7 +1283,7 @@ It implies that the current in the 1 ohm resistor flows from F to E.
 
 An important application of Kirchhoff's rules is the Wheatstone's bridge. It is used to compare resistances and in determining the unknown resistance in electrical network. The bridge consists of four resistances \(P\), \(Q\), \(R\) and \(S\) connected as shown in Figure 2.25. A galvanometer \(G\) is connected between the points \(B\) and \(D\). The battery is connected between the points \(A\) and \(C\). The current through the galvanometer is \(I_{G}\) and its resistance is \(G\).
 
-![Guru](guru.jpeg)
+![Figure 2.25 Wheatstone’s bridge](b44.png)
 
 Applying Kirchhoff's current rule to junction \(B\) and \(D\) respectively.
 
@@ -1319,8 +1316,6 @@ $$
 
 This is the condition for bridge balance. Only under this condition, galvanometer shows null deflection. Suppose we know the values of two adjacent resistances, the other two resistances can be compared. If three of the resistances are known, the value of unknown resistance (fourth one) can be determined.
 
-![Guru](guru.jpeg)
-
 A galvanometer is an instrument used for detecting and measuring even very small electric currents. It is extensively useful to compare the potential difference between various parts of the circuit.
 
 **EXAMPLE 2.23**
@@ -1342,6 +1337,9 @@ What is the value of x when the Wheatstone’s
 network is balanced?
 
 In a Wheatstone's bridge, \(P = 500\Omega\), \(Q = 800\Omega\), \(R = x + 400\Omega\), \(S = 1000\Omega\) When the bridge is balanced.
+
+![Figure 2.25 Wheatstone’s bridge](b45.png)
+
 
 **Solution**
 
@@ -1374,7 +1372,7 @@ The meter bridge is another form of Wheatstone's bridge. It consists of a unifor
 
 An unknown resistance \(P\) is connected in \(\mathrm{G_1}\) and a standard resistance \(Q\) is connected in \(\mathrm{G_2}\). A jockey (conducting wire- contact maker) is connected to the terminal E on the central copper strip through a galvanometer (G) and a high resistance (HR). The exact position of jockey on the wire can be read on the scale. A Lechlanche cell and a key (K) are connected between the ends of the bridge wire.
 
-![Guru](guru.jpeg)
+![Figure 2.26 Meter bridge](b46.png)
 
 The position of the jockey on the wire is adjusted so that the galvanometer shows zero deflection. Let the position of jockey at the wire be at J. The resistances corresponding to AJ and JB of the bridge wire form the resistances \(R\) and \(S\) of the Wheatstone's bridge. Then for the bridge balance
 
@@ -1452,7 +1450,7 @@ Potentiometer is used for the accurate measurement of potential differences, cur
 
 The principle of the potentiometer is illustrated in Figure 2.27. A steady current is maintained across the wire CD by a battery \(B t\). The battery, key and the potentiometer wire connected in series form the primary circuit. The positive terminal of a primary cell of emf \(\epsilon\) is connected to the point C and negative terminal is connected to the jockey through a galvanometer G and a high resistance HR. This forms the secondary circuit.
 
-![Guru](guru.jpeg)
+![Figure 2.27 Potentiometer](b47.png)
 
 Let the contact be made at any point J on the wire by jockey. If the potential difference across CJ is equal to the emf of the cell \(\epsilon\), then no current will flow through the galvanometer and it will show zero deflection. CJ is the balancing length \(l\). The potential difference across CJ is equal to \(I r l\) where \(I\) is the current flowing through the wire and \(r\) is the resistance per unit length of the wire.
 
@@ -1466,7 +1464,7 @@ Since \(I\) and \(r\) are constants, \(\epsilon \propto l\). The emf of the cell
 
 To compare the emf of two cells, the circuit connections are made as shown in Figure 2.28. Potentiometer wire CD is connected to a battery \(B t\) and a key K in series. This is the primary circuit. The end C of the wire is connected to the terminal M of a DPDT (Double Pole Double Throw) switch and the other terminal N is connected to a jockey through a galvanometer G and a high resistance HR. The cells whose emf \(\epsilon_{1}\) and \(\epsilon_{2}\) to be compared are connected to the terminals \(\mathbf{M}_{1},\mathbf{N}_{1}\) and \(\mathbf{M}_{2},\mathbf{N}_{2}\) of the DPDT switch. The positive terminals of \(B t\), \(\epsilon_{1}\) and \(\epsilon_{2}\) should be connected to the same end C.
 
-![Guru](guru.jpeg)
+![Figure 2.28 Comparison of emf of two cells](b48.png)
 
 The DPDT switch is pressed towards \(\mathbf{M}_{1}\) \(\mathbf{N}_{1}\) so that cell \(\epsilon_{1}\) is included in the secondary circuit and the balancing length \(l_{1}\) is found by adjusting the jockey for zero deflection. Then the second cell \(\epsilon_{2}\) is included in the circuit and the balancing length \(l_{2}\) is determined. Let \(r\) be the resistance per unit length of the potentiometer wire and \(I\) be the current flowing through the wire.
 
@@ -1489,7 +1487,7 @@ current flowing through it
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key \(\mathbf{K}_1\). This forms the primary circuit.
 
-![Guru](guru.jpeg)
+![Figure 2.29 measurement of internal resistance](b49.png)
 
 The positive terminal of the cell of emf \(\epsilon\) whose internal resistance is to be determined is also connected to the end C of the wire. The negative terminal of the cell \(\epsilon\) is connected to a jockey through a galvanometer and a high resistance. A resistance box R and key \(\mathbf{K}_2\) are connected across the cell \(\epsilon\). With \(\mathbf{K}_2\) open, the balancing point J is obtained and the balancing length \(\mathrm{CJ} = l_1\) is measured. Since the cell is in open circuit, its emf is
 
@@ -1584,7 +1582,7 @@ $$
 
 Electric iron, electric heater, electric toaster shown in Figure 2.30 are some of the home appliances that utilize the heating effect of current. In these appliances, the heating elements are made of nichrome, an alloy of nickel and chromium. Nichrome has a high specific resistance and can be heated to very high temperatures without oxidation.
 
-![Guru](guru.jpeg)
+![Figure 2.30 (a) Electric Iron box, (b) electric heater (c) electric Toaster](b50.png)
 
 **EXAMPLE 2.28**
 
@@ -1620,20 +1618,20 @@ Fuses as shown in Figure 2.31, are connected in series in a circuit to protect t
 
 The only disadvantage with the above fuses is that once fuse wire is burnt due to excessive current, they need to be replaced. Nowadays in houses, circuit breakers (trippers) are also used instead of fuses. Whenever there is an excessive current produced due to faulty wire connection, the circuit breaker switch opens. After repairing the faulty connection, we can close the circuit breaker switch. It is shown in the Figure 2.32.
 
-![Guru](guru.jpeg)
-![Guru](guru.jpeg)
+![Figure 2.31 Electric Fuse](b51.png)
+![Figure 2.32 circuit breakers](b52.png)
 
 **3. Electric furnace**
 
 Furnaces as shown in Figure 2.33 are used to manufacture a large number of technologically important materials such as steel, silicon carbide, quartz, gallium arsenide, etc. To produce temperatures up to \(1500^{\circ}C\), molybdenum- nichrome wire wound on a silica tube is used. Carbon arc furnaces produce temperatures up to \(3000^{\circ}C\).
 
-![Guru](guru.jpeg)
+![Figure 2.33 Electric furnace](b53.png)
 
 **4. Electrical lamp**
 
 It consists of a tungsten filament (melting point \(3380^{\circ}\mathrm{C}\)) kept inside a glass bulb and heated to incandescence by current. In incandescent electric lamps only about \(5\%\) of electrical energy is converted into light and the rest is wasted as heat. Electric discharge lamps, electric welding and electric arc also utilize the heating effect of current as shown in Figure 2.34.
 
-![Guru](guru.jpeg)
+![Figure 2.34 Electric bulb, electric arc and electric welding](b54.png)
 
 ## 2.7 THERMOELECTRIC EFFECTS
 
@@ -1649,7 +1647,7 @@ a temperature difference.
 
 Seebeck discovered that in a closed circuit consisting of two dissimilar metals, when the junctions are maintained at different temperatures an emf (potential difference) is developed. The current that flows due to the emf developed is called thermoelectric current. The two dissimilar metals connected to form two junctions is known as thermocouple (Figure 2.35).
 
-![Guru](guru.jpeg)
+![Figure 2.35 Seebeck effect (Thermocouple)](b55.png)
 
 If the hot and cold junctions are interchanged, the direction of current also reverses. Hence the effect is reversible.
 
@@ -1665,7 +1663,7 @@ The magnitude of the emf developed in a thermocouple depends on (i) the nature o
 
 In 1834, Peltier discovered that when an electric current is passed through a circuit of a thermocouple, heat is evolved at one junction and absorbed at the other junction. This is known as Peltier effect.
 
-![Guru](guru.jpeg)
+![Figure 2.36 Peltier effect: Cu – Fe thermocouple](b56.png)
 
 In the Cu- Fe thermocouple the junctions A and B are maintained at the same temperature. Let a current from a battery flow through the thermocouple (Figure 2.36 (a)). At the junction A, where the current flows from Cu to Fe, heat is absorbed and the junction A becomes cold. At the junction B, where the current flows from Fe to Cu heat is liberated and it becomes hot. When the direction of current is reversed, junction A gets heated and junction B gets cooled as shown in the Figure 2.36(b). Hence Peltier effect is reversible.
 
@@ -1673,7 +1671,7 @@ In the Cu- Fe thermocouple the junctions A and B are maintained at the same temp
 
 Thomson showed that if two points in a conductor are at different temperatures, the density of electrons at these points will differ and as a result the potential difference is created between these points. Thomson effect is also reversible.
 
-![Guru](guru.jpeg)
+![Figure 2.37 (a) Positive Thomson effect (b) Negative Thomson effect](b57.png)
 
 If current is passed through a copper bar AB which is heated at the middle point C, the point C will be at higher potential. This indicates that the heat is absorbed along AC and evolved along CB of the conductor as shown in Figure 2.37(a). Thus heat is transferred due to the current flow in the direction of the current. It is called positive Thomson effect. Similar effect is observed in metals like silver, zinc, and cadmium.
 
@@ -1702,8 +1700,7 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 ### Multiple Choice Questions
 
 1. The following graph shows current versus voltage values of some unknown conductor. What is the resistance of this conductor?
-
-        ![Guru](guru.jpeg)
+      ![](b58.png)
 
         (a) 2 ohm
         (b) 4 ohm
@@ -1712,7 +1709,7 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 
 2. A wire of resistance 2 ohms per meter is bent to form a circle of radius 1m. The equivalent resistance between its two diametrically opposite points, A and B as shown in the figure is
 
-    ![Guru](guru.jpeg)
+    ![](b59.png)
 
     (a) \(\pi \Omega\)
     
@@ -1744,7 +1741,7 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 
 5. What is the value of resistance of the following resistor?
 
-    ![Guru](guru.jpeg)
+    ![](b60.png)
 
     (a) \(100\mathrm{k}\Omega\)
     
@@ -1796,7 +1793,7 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 
 10. There is a current of \(1.0\mathrm{A}\) in the circuit shown below. What is the resistance of \(P\)?
 
-   ![Guru](guru.jpeg)
+   ![](b61.png)
 
      a) \(1.5\Omega\)
      
@@ -1808,7 +1805,7 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 
 11. What is the current drawn out from the battery?
 
-    ![Guru](guru.jpeg)
+    ![](b62.png)
 
     a) 1A
 
@@ -1915,12 +1912,12 @@ When the copper bar is replaced by an iron bar, heat is evolved along CA and abs
 
 1. The following graphs represent the current versus voltage and voltage versus current for the six conductors A,B,C,D,E and F. Which conductor has least resistance and which has maximum resistance?
 
-![Guru](guru.jpeg)
+![](b63.png)
 
 Ans: Least: \(R_{F} = 0.4\Omega\), maximum \(R_{C} = 2.5\Omega\)
 
 2. Lightning is very good example of natural current. In typical lightning, there is \(10^{9}\) J energy transfer across the potential difference of \(5\times 10^{7}\) V during a time interval of 0.2 s.
-
+![](b64.png)
 Using this information, estimate the following quantities (a) total amount of charge transferred between cloud and ground (b) the current in the lightning bolt (c) the power delivered in 0.2 s.
 
 Ans: charge \(= 20\mathrm{C}, I = 100\mathrm{A}, P = 5\mathrm{GW}\)
@@ -1938,7 +1935,7 @@ As the temperature increases the resistance of the wire also increases.
 
 5. The rod given in the figure is made up of two different materials.
 
-![Guru](guru.jpeg)
+![](b65.png)
 
 Both have square cross sections of \(3\mathrm{mm}\) side. The resistivity of the first material is \(4\times 10^{- 3}\Omega \mathrm{m}\) and that of second material has resistivity of \(5\times 10^{- 3}\Omega \mathrm{m}\). What is the resistance of rod between its ends?
 
@@ -1946,7 +1943,7 @@ Ans: \(500\Omega\)
 
 6. Three identical lamps each having a resistance \(R\) are connected to the battery of emf \(\epsilon\) as shown in the figure.
 
-![Guru](guru.jpeg)
+![](b66.png)
 
 Suddenly the switch S is closed. (a) Calculate the current in the circuit when S is open and closed (b) What happens to the intensities of the bulbs A,B and C. (c) Calculate the voltage across the three bulbs when S is open and closed (d) Calculate the power delivered to the circuit when S is opened and closed (e) Does the power delivered to the circuit decrease, increase or remain same?
 
@@ -1967,7 +1964,7 @@ Ans: Parallel combination of \(220\Omega\) and \(79\Omega\) in series with \(92\
 Ans: \(0.5\Omega\)
 
 9. Calculate the currents in the following circuit.
-![Guru](guru.jpeg)
+![](b67.png)
 Ans: \(I_{1} = 0.070\mathrm{A}\), \(I_{2} = -0.010\mathrm{A}\) and \(I_{3} = 0.080\mathrm{A}\)
 
 10. A potentiometer wire has a length of 4 m and resistance of \(20\Omega\). It is connected in series with resistance of \(2980\Omega\) and a cell of emf \(4\mathrm{V}\). Calculate the potential gradient along the wire.
@@ -1975,7 +1972,7 @@ Ans: Potential \(= 0.65\times 10^{- 2}\mathrm{V}\mathrm{m}^{- 1}\)
 
 11. Determine the current flowing through the galvanometer (G) as shown in the figure.
 
-![Guru](guru.jpeg)
+![](b68.png)
 
 Ans: \(\mathrm{I}_{\mathrm{g}} = \frac{1}{11}\mathrm{A}\)
 
@@ -1996,10 +1993,11 @@ ii) The current through \(4\Omega, I = \frac{2}{4} = 0.5\mathrm{A}\), the curren
 
 Draw the circuit diagram for these bulbs.
 
+![](b69.png)
+
+
 14. In a potentiometer arrangement, a cell of emf 1.25 V gives a balance point at \(35~\mathrm{cm}\) length of the wire. If the cell is replaced by another cell and the balance point shifts to \(63~\mathrm{cm}\), what is the emf of the second cell?
 Ans: emf of the second cell is 2.25 V
-
-![Guru](guru.jpeg)
 
 ## BOOKS FOR REFERENCE:
 
@@ -2016,7 +2014,7 @@ Ans: emf of the second cell is 2.25 V
 
 # Electric current
 
-![Guru](guru.jpeg)
+![Guru](guru.png)
 
 In this activity you will be able to (a) measure the potential difference of cells (b) measure the internal resistance of a given primary cell
 
@@ -2028,7 +2026,7 @@ In this activity you will be able to (a) measure the potential difference of cel
 - Construct the electric circuit as per the connection diagram by clicking "show circuit diagram" tab. You can connect wires between electric component by dragging the mouse between the component.
 - To check whether the connections are correct or not, drag the jockey and place it at the two end points of the wire. If the galvanometer shows opposite deflections, the connections are correct. (keep both keys on)
 
-![Guru](guru.jpeg)
+![Guru](guru.png)
 
 Find the balancing length. Calculate the internal resistance for the observed balancing lengths. Repeat the experiment for five times and take the average.
 
