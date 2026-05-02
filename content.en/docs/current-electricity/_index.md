@@ -284,7 +284,6 @@ $$
 
 The ohm's law can be derived from the equation \(J = \sigma E\). Consider a segment of wire of length \(l\) and cross sectional area \(A\) as shown in Figure 2.7.
 
-![Guru](guru.png)
 
 When a potential difference \(V\) is applied across the wire, a net electric field is created in the wire which constitutes the current in the wire. For simplicity, we assume that the electric field is uniform in the entire length of the wire, then the potential difference (voltage \(V\)) can be written as
 
@@ -2014,7 +2013,6 @@ Ans: emf of the second cell is 2.25 V
 
 # Electric current
 
-![Guru](guru.png)
 
 In this activity you will be able to (a) measure the potential difference of cells (b) measure the internal resistance of a given primary cell
 
@@ -2026,7 +2024,6 @@ In this activity you will be able to (a) measure the potential difference of cel
 - Construct the electric circuit as per the connection diagram by clicking "show circuit diagram" tab. You can connect wires between electric component by dragging the mouse between the component.
 - To check whether the connections are correct or not, drag the jockey and place it at the two end points of the wire. If the galvanometer shows opposite deflections, the connections are correct. (keep both keys on)
 
-![Guru](guru.png)
 
 Find the balancing length. Calculate the internal resistance for the observed balancing lengths. Repeat the experiment for five times and take the average.
 
