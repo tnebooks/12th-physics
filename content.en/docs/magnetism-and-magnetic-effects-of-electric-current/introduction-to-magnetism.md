@@ -3,6 +3,8 @@ title: "Introduction To Magnetism"
 weight: 1
 ---
 
+![Figure 3.3 Earth’s magnetic field](a1.png)
+
 Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open.
 
 Magnetism exists everywhere from tiny particles like electrons to the entire universe. Historically the word 'magnetism' was derived from iron ore magnetite \(\mathrm{(Fe_3O_4)}\). In olden days, magnets were used as magnetic compass for navigation, magnetic therapy for treatment and also used in magic shows.
@@ -13,7 +15,11 @@ Earlier, both electricity and magnetism were thought to be two independent branc
 
 In this unit, basics of magnets and their properties are given. Later, how a current carrying conductor (here only steady current, not time-varying current is considered) behaves like a magnet is presented.
 
+![Figure 3.2 Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](a2.png)
+
 ### 3.1.1 Earth's magnetic field and magnetic elements
+
+![Figure 3.3 Earth’s magnetic field](a3.png)
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north-south direction of the Earth.
 
@@ -28,6 +34,8 @@ There are three quantities required to specify the magnetic field of the Earth o
 (a) magnetic declination \((D)\)
 (b) magnetic dip or inclination \((I)\)
 (c) the horizontal component of the Earth's magnetic field \((B_{H})\)
+
+![Figure 3.4 Declination angle](a4.png)
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth's geographic axis is called geographic equator.
 
@@ -57,6 +65,8 @@ $$
 #### (i) At magnetic equator
 
 The Earth's magnetic field is parallel to the surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, \(I = 0^{\circ}\).
+
+![Figure 3.5 Inclination angle](a5.png)
 
 \(B_{H} = B_{E}\)
 \(B_{V} = 0\)
