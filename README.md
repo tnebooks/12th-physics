@@ -4,10 +4,7 @@
 
 ```sh
 git clone https://github.com/gurukulams/design-system ../design-system
-hugo server  --themesDir ../ --disableFastRender
 ```
-
-## Qustion Loader
 
 in Linux
 
@@ -25,4 +22,8 @@ set PUBLIC_FOLDER=%cd%\public
 cd themes\design-system
 npm i
 npm run watch
+```
+
+```bash
+hugo server  --themesDir ../ --disableFastRender
 ```
