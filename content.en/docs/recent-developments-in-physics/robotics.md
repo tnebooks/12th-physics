@@ -3,7 +3,7 @@ title: "Robotics"
 weight: 3
 ---
 
-### 11.3.1 What is robotics?
+### What is robotics?
 
 Robotics is an integrated study of mechanical engineering, electronic engineering, computer engineering, and science. Robot is a mechanical device designed with electronic circuitry and programmed to perform a specific task. These automated machines are highly significant in this robotic era. They can take up the role of humans in certain dangerous environments that are hazardous to people like defusing bombs, finding survivors in unstable ruins, and exploring mines and shipwrecks.
 
@@ -11,7 +11,7 @@ Robotics is an integrated study of mechanical engineering, electronic engineerin
 
 In 1954, George Devol invented the first digitally operated programmable robot called Unimate. George Devol and Joseph Engelberger, the father of the modern robotics industry formed the world's first robot company in 1956. In 1961, Unimate was operated in a General Motors automobile factory for moving car parts around in New Jersey.
 
-### 11.3.2 COMPONENTS OF ROBOTICS
+### COMPONENTS OF ROBOTICS
 
 The robotic system mainly consists of sensors, power supplies, control systems, manipulators and necessary software.
 
@@ -32,7 +32,7 @@ Most robots are composed of 3 main parts:
 7. Sensors: Generally used in task environments as it provides information of real-time knowledge.
 8. Robot locomotion: Provides the types of movements to a robot. The different types are (a) Legged (b) Wheeled (c) Combination of Legged and Wheeled Locomotion (d) Tracked slip/skid
 
-### 11.3.3 TYPES OF ROBOTS
+### TYPES OF ROBOTS
 
 #### HUMAN ROBOT
 
@@ -56,7 +56,7 @@ The aim of artificial intelligence is to bring in human like behaviour in robots
 
 
 
-### 11.3.4 Applications
+### Applications
 
 **Outer space:** Exploring stars, planets etc., investigation of the mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils.
 
@@ -72,7 +72,7 @@ The aim of artificial intelligence is to bring in human like behaviour in robots
 
 **Nano robots:** The size of the nano robots is reduced to microscopic level to perform a task in very small spaces. However, it is only in the developmental stage. The future prospects of it are much expected in the medical field: Nano‑robots in blood stream to perform small surgical procedures, to fight against bacteria, repairing individual cell in the body. It can travel into the body and once after the job is performed it can find its way out. Chinese scientists have created the world's first autonomous DNA robots to combat cancer tumours.
 
-### 11.3.5 Advantages of Robotics
+### Advantages of Robotics
 
 1. The robots are much cheaper than humans.
 2. Robots never get tired like humans. It can work for \(24 \times 7\). Hence absenteeism in work place can be reduced.
@@ -82,7 +82,7 @@ The aim of artificial intelligence is to bring in human like behaviour in robots
 6. In warfare, robots can save human lives.
 7. Robots are significantly used in handling materials in chemical industries especially in nuclear plants which can lead to health hazards in humans.
 
-### 11.3.6 Disadvantages of Robotics
+### Disadvantages of Robotics
 
 1. Robots have no sense of emotions or conscience.
 2. They lack empathy and hence create an emotionless workplace.

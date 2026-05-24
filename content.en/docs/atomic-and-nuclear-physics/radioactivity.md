@@ -11,7 +11,7 @@ Radioisotopes have a variety of applications such as carbon dating, cancer treat
 
 The phenomenon of radioactivity was first discovered by Henri Becquerel in 1896. Later, Marie Curie and her husband Pierre Curie did a series of experiments in detail to understand the phenomenon of radioactivity. In India, Saha Institute of Nuclear Physics (SINP), Kolkata is the premier institute pursuing active research in nuclear physics.
 
-### 9.6.1 Alpha decay
+### Alpha decay
 
 When an unstable nucleus decays by emitting an \(\alpha\)‑particle \({}^{4}He\) nucleus, it loses two protons and two neutrons. As a result, its atomic number \(Z\) decreases by 2 and the mass number decreases by 4. We write the alpha decay process symbolically in the following way
 
@@ -80,7 +80,7 @@ In fact, \(98\%\) of total kinetic energy is taken by the \(\alpha\) particle.
 
 ---
 
-### 9.6.2 Beta decay
+### Beta decay
 
 In beta decay, a radioactive nucleus emits either electron or positron. If electron \((e^-)\) is emitted, it is called \(\beta^-\) decay and if positron \((e^+)\) is emitted, it is called \(\beta^+\) decay. The positron is an anti‑particle of an electron whose mass is same as that of electron and charge is opposite to that of electron – that is, \(+e\). Both positron and electron are referred to as beta particles.
 
@@ -154,7 +154,7 @@ The neutrino has the following properties
 - Recent experiments showed that the neutrino has very small mass.  
 - It interacts very weakly with the matter. Therefore, it is very difficult to detect it. In fact, in every second, trillions of neutrinos coming from the sun are passing through our body without causing interaction.
 
-### 9.6.3 Gamma emission
+### Gamma emission
 
 In \(\alpha\) and \(\beta\) decay, the daughter nucleus is in the excited state most of the time. The typical life time of excited state is approximately \(10^{-11}\ \mathrm{s}\). So this excited state nucleus immediately returns to the ground state or lower energy state by emitting highly energetic photons called \(\gamma\) rays. In fact, when the atom is in the excited state, it returns to the ground state by emitting photons of energy in the order of few eV. But when the excited state nucleus returns to its ground state, it emits a highly energetic photon \((\gamma\) rays) of energy in the order of MeV. The gamma emission is given by
 
@@ -175,7 +175,7 @@ $$
 
 
 
-### 9.6.4 Law of radioactive decay
+### Law of radioactive decay
 
 In the previous section, the decay process of a single radioactive nucleus was discussed. In practice, we have bulk material of radioactive sample which contains a vast number of the radioactive nuclei and not all the radioactive nucleus in a sample decay at the same time. It decays over a period of time and this decay is basically a random process. It implies that we cannot predict which nucleus is going to decay or rather we can determine like probabilistic basis (like tossing a coin). We can calculate approximately how many nuclei in a sample are decayed over a period of time.
 
@@ -260,7 +260,7 @@ $$
 1\ \text{Ci} = 3.7\times 10^{10}\ \text{Bq}
 $$
 
-### 9.6.5 Half‑life
+### Half‑life
 
 It is difficult to calculate the time taken by a given sample of \(N\) atoms to decay completely. However, we can calculate the time taken by the given sample of atoms to reduce to some fraction of the initial amount.
 
@@ -353,7 +353,7 @@ Activity \(R = \lambda N_0 = 4.88\times 10^{-18} \times 2.53\times 10^{21} = 1.2
 
 ---
 
-### 9.6.6 Carbon dating
+### Carbon dating
 
 The phenomenon of radioactivity is applied in the field of archaeology to determine the age of ancient objects like rocks, minerals, fossils, wood, etc. This is possible because the ratio of \({}^{14}C\) to \({}^{12}C\) in the atmosphere remains almost constant. Carbon‑14 is a radioactive isotope of carbon with half‑life of 5730 years. It is produced in the upper atmosphere by the interaction of cosmic rays with nitrogen.
 
@@ -405,7 +405,7 @@ In fact, the excavated materials were sent to USA for carbon dating by Archeolog
 
 ---
 
-### 9.6.7 Discovery of Neutrons
+### Discovery of Neutrons
 
 In 1930, two German physicists Bothe and Becker found that when beryllium was bombarded with \(\alpha\) particles, highly penetrating radiation was emitted. This radiation was capable of penetrating the thick layer of lead and was unaffected by the electric and magnetic fields. Initially, it was thought as \(\gamma\) radiation. But in the year 1932, James Chadwick discovered that those radiations are not EM waves but they contain uncharged particles of mass little greater than the mass of the proton. He called them as neutrons. The above reaction can be written as
 

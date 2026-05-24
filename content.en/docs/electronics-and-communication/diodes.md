@@ -3,7 +3,7 @@ title: "Diodes"
 weight: 3
 ---
 
-### 10.3.1 \(P\)-\(N\) Junction formation
+### \(P\)-\(N\) Junction formation
 
 #### i) Formation of depletion layer
 
@@ -25,7 +25,7 @@ The movement of charge carriers across the junction takes place only to a certai
 
 This difference in potential across the depletion layer is called the barrier potential \((V_b)\) as shown in Figure 10.10. At \(25^\circ\mathrm{C}\) this barrier potential is approximately \(0.7\ \mathrm{V}\) for silicon and \(0.3\ \mathrm{V}\) for germanium.
 
-### 10.3.2 \(P\)-\(N\) Junction diode
+### \(P\)-\(N\) Junction diode
 
 A \(p\)-\(n\) junction diode is formed when a \(p\)-type semiconductor is fused with an \(n\)-type semiconductor. It is a device with single \(p\)-\(n\) junction as shown in Figure 10.11(a) and its circuit symbol is shown in Figure 10.11(b).
 
@@ -58,7 +58,7 @@ The reverse saturation current is independent of the applied voltage and it depe
 
 
 
-### 10.3.3 Characteristics of a junction diode
+### Characteristics of a junction diode
 
 #### i) Forward characteristics
 
@@ -126,7 +126,7 @@ $$
 
 ---
 
-### 10.3.4 Rectification
+### Rectification
 
 The process in which alternating voltage or alternating current is converted into direct voltage or direct current is known as rectification. The device used for this process is called as rectifier. In this section, we will discuss two types of rectifiers namely, half wave rectifier and full wave rectifier.
 
@@ -162,7 +162,7 @@ During both positive and negative half cycles of the input signal, the current f
 
 The efficiency \((\eta)\) of full wave rectifier is twice that of a half wave rectifier and is found to be \(81.2\%\). It is because of power losses in the winding, the diode and the load resistance.
 
-### 10.3.5 Breakdown mechanism
+### Breakdown mechanism
 
 The reverse current or the reverse saturation current due to the minority charge carriers is small. If the reverse bias applied to a \(p\)-\(n\) junction is increased beyond a point, the junction breaks down and the reverse current rises sharply. The voltage at which breakdown happens is called the breakdown voltage and it depends on the width of the depletion region, which in turn depends on the doping level.
 
@@ -182,7 +182,7 @@ Even a small further increase in reverse voltage produces a large number of char
 
 In Avalanche breakdown, the minority charge carriers gain sufficient energy from excessive reverse bias voltage to break covalent bond in order to produce new charge carriers. But Zener breakdown occurs due to the direct rupture of covalent bonds because of the existence of the strong electric field. Since depletion region is thin, Zener breakdown occurs usually at lesser reverse bias voltage compared to Avalanche breakdown voltage.
 
-### 10.3.6 Zener diode
+### Zener diode
 
 Zener diode is a heavily doped silicon diode used in reverse biased condition and is named after its inventor Clarence Melvin Zener. It is specially designed to be operated in the breakdown region. The doping level of the silicon diode can be varied to have a wide range of breakdown voltages from \(2\ \mathrm{V}\) to over \(1000\ \mathrm{V}\).
 
@@ -246,7 +246,7 @@ $$
 
 ---
 
-### 10.3.7 Optoelectronic devices
+### Optoelectronic devices
 
 Optoelectronics deals with devices which convert electrical energy into light and light into electrical energy using semiconductors. Optoelectronic device is an electronic device which utilizes light for useful applications. We will discuss some important optoelectronic devices namely, light emitting diodes, photodiodes and solar cells.
 

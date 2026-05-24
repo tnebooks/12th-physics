@@ -3,7 +3,7 @@ title: "Electromagnetic Induction"
 weight: 1
 ---
 
-### 4.1.1 Introduction
+### Introduction
 
 In the previous chapter, we have learnt that whenever an electric current flows through a conductor, it produces a magnetic field around it. This was discovered by Christian Oersted. Later, Ampere proved that a current-carrying loop behaves like a bar magnet. These are the magnetic effects produced by the electric current.
 
@@ -14,7 +14,7 @@ Michael Faraday was enormously popular for his lectures as well. In one of his l
 
 Note: We will soon see the greatness of 'that little child' who has now grown as an adult to cater to the energy needs.
 
-### 4.1.2 Magnetic Flux (\(\Phi_B\))
+### Magnetic Flux (\(\Phi_B\))
 
 
 
@@ -52,7 +52,7 @@ $$
 
 ---
 
-### 4.1.3 Faraday's Experiments on Electromagnetic Induction
+### Faraday's Experiments on Electromagnetic Induction
 
 #### First Experiment
 
@@ -192,7 +192,7 @@ Yes! An emf will be induced in the wire because it moves perpendicular to the ho
 
 ---
 
-### 4.1.4 Lenz's law
+### Lenz's law
 
 A German physicist Heinrich Lenz performed a series of experiments on electromagnetic induction and deduced a law to determine the direction of the induced current. This law is known as Lenz's law.
 
@@ -240,7 +240,7 @@ The truth of Lenz's law can be established on the basis of the law of conservati
 
 On the contrary to Lenz's law, let us assume that the induced current helps the cause responsible for its production. Now when we push the magnet little bit towards the coil, the induced current helps the movement of the magnet towards the coil. Then the magnet starts moving towards the coil without any expense of energy. This, then, becomes a perpetual motion machine. In practice, no such machine is possible. Therefore, the assumption that the induced current helps the cause is wrong. Thus Lenz's law is an excellent example of conservation of energy.
 
-### 4.1.5 Fleming's right hand rule
+### Fleming's right hand rule
 
 When a conductor moves in a magnetic field, the direction of motion of the conductor, the field and the induced current are given by Fleming's right hand rule and is as follows:
 
@@ -284,7 +284,7 @@ $$
 
 ---
 
-### 4.1.6 Motional emf from Lorentz force
+### Motional emf from Lorentz force
 
 Consider a straight conducting rod \(AB\) of length \(l\) in a uniform magnetic field \(\vec{B}\) which is directed perpendicularly into the plane of the paper. The length of the rod is normal to the magnetic field. Let the rod move with a constant velocity \(\vec{v}\) towards right side.
 

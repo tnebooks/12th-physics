@@ -3,7 +3,7 @@ title: "Alternating Current"
 weight: 7
 ---
 
-### 4.7.1 Introduction
+### Introduction
 
 In section 4.5, we have seen that when the orientation of the coil with the magnetic field is changed, an alternating emf is induced and hence an alternating current flows in the closed circuit. An alternating voltage is the voltage which changes polarity at regular intervals of time and the direction of the resulting alternating current changes accordingly.
 
@@ -30,7 +30,7 @@ where \(I_m\) is the maximum value (amplitude) of the alternating current. The d
 
 
 
-### 4.7.2 Mean or Average value of AC
+### Mean or Average value of AC
 
 The current and voltage in a DC system remain constant over a period of time so that there is no problem in specifying their magnitudes. However, an alternating current or voltage varies from time to time. Then a question arises how to express the magnitude of an alternating current or voltage. Though there are many ways of expressing it, we limit our discussion with two ways, namely mean value and RMS (Root Mean Square) value of AC.
 
@@ -70,7 +70,7 @@ $$
 
 Hence the average value of AC is 0.637 times the maximum value \(I_m\) of the alternating current. For negative half-cycle, \(I_{av} = -0.637 I_m\).
 
-### 4.7.3 RMS value of AC
+### RMS value of AC
 
 The term RMS refers to time-varying sinusoidal currents and voltages which is not used in DC systems.
 
@@ -156,7 +156,7 @@ The general equation of an alternating current is \(i = I_m \sin\omega t\). On c
 (iv) At \(t = 2\ \mathrm{ms}\), Instantaneous current, \(i = 77 \sin(314 \times 2\times 10^{-3})\)  
 \(= 77 \sin\left(314 \times 2\times 10^{-3} \times \frac{180^\circ}{3.14}\right) = 77 \sin 36^\circ = 77 \times 0.5878 = 45.26\ \mathrm{A}\)
 
-### 4.7.4 Phasor and phasor diagram
+### Phasor and phasor diagram
 
 #### Phasor
 
@@ -182,7 +182,7 @@ The alternating current in the same circuit may be given by the relation \(i = I
 
 
 
-### 4.7.5 AC circuit containing only a resistor
+### AC circuit containing only a resistor
 
 Consider a circuit containing a pure resistor of resistance \(R\) connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
@@ -213,7 +213,7 @@ where \(\frac{V_m}{R} = I_m\), the peak value of alternating current in the circ
 
 
 
-### 4.7.6 AC circuit containing only an inductor
+### AC circuit containing only an inductor
 
 Consider a circuit containing a pure inductor of inductance \(L\) connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
@@ -275,7 +275,7 @@ $$
 
 where \(f\) is the frequency of the alternating current. For a steady current, \(f = 0\). Therefore, \(X_L = 0\). Thus an ideal inductor offers no resistance to steady DC current.
 
-### 4.7.7 AC circuit containing only a capacitor
+### AC circuit containing only a capacitor
 
 Consider a circuit containing a capacitor of capacitance \(C\) connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
@@ -354,7 +354,7 @@ Therefore, \(v = 311 \sin 314t,\ i = 3.1 \sin\left(314t + \frac{\pi}{2}\right)\)
 
 ---
 
-### 4.7.8 AC circuit containing a resistor, an inductor and a capacitor in series - Series RLC circuit
+### AC circuit containing a resistor, an inductor and a capacitor in series - Series RLC circuit
 
 Consider a circuit containing a resistor of resistance \(R\), an inductor of inductance \(L\) and a capacitor of capacitance \(C\) connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
@@ -428,7 +428,7 @@ $$
 | Capacitance | \(X_C\) | \(1/\omega C\) | 90° lead | 0 |
 | R-L-C | \(Z\) | \(\sqrt{R^2+(\omega L-1/\omega C)^2}\) | Between 0° and 90° lag or lead | Between 0 and 1 |
 
-### 4.7.9 Resonance in series RLC circuit
+### Resonance in series RLC circuit
 
 When the frequency of the applied alternating source \((\omega_r)\) is equal to the natural frequency \(\left(\frac{1}{\sqrt{LC}}\right)\) of the RLC circuit, the current in the circuit reaches its maximum value. Then the circuit is said to be in electrical resonance. The frequency at which resonance takes place is called resonant frequency.
 
@@ -479,7 +479,7 @@ The tuning is commonly achieved by varying capacitance of a parallel plate varia
 
 The phenomenon of electrical resonance is possible when the circuit contains both \(L\) and \(C\). Only then the voltage across \(L\) and \(C\) cancel one another when \(V_L\) and \(V_C\) are \(180^\circ\) out of phase and the circuit becomes purely resistive. This implies that resonance will not occur in \(RL\) and \(RC\) circuits.
 
-### 4.7.10 Quality factor or Q-factor
+### Quality factor or Q-factor
 
 The current in the series RLC circuit becomes maximum at resonance. Due to the increase in current, the voltage across \(L\) and \(C\) are also increased. This magnification of voltages at series resonance is termed as Q-factor.
 

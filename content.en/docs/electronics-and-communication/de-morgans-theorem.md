@@ -3,7 +3,7 @@ title: "De Morgan's Theorem"
 weight: 7
 ---
 
-### 10.7.1 De Morgan's First Theorem
+### De Morgan's First Theorem
 
 #### Statement
 
@@ -29,7 +29,7 @@ The corresponding logic circuit diagram is shown in Figure 10.47.
 
 
 
-### 10.7.2 De Morgan's Second Theorem
+### De Morgan's Second Theorem
 
 #### Statement
 
@@ -73,7 +73,7 @@ Thus the Boolean identity is proved.
 
 ---
 
-### 10.7.3 Integrated Chips
+### Integrated Chips
 
 An integrated circuit is also referred as an IC or a chip or a microchip (Figure 10.49). It consists of thousands to millions of transistors, resistors, capacitors, etc. integrated on a small flat piece of semiconductor material that is normally silicon.
 

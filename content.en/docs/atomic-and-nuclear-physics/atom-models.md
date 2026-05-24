@@ -11,7 +11,7 @@ For instance, J. J. Thomson proposed a theoretical atom model which is based on 
 
 Later, Niels Bohr who is also a student of Rutherford proposed an atomic model for hydrogen atom which is more successful than other two models. Niels Bohr atom model could explain the stability of the atom and also the origin of line spectrum. There are other atom models, such as Sommerfeld's atom model and atom model from wave mechanics (quantum mechanics). But we will restrict ourselves only to very simple (mathematically simple) atom model in this section.
 
-### 9.3.1 J. J. Thomson's Model (Water melon model)
+### J. J. Thomson's Model (Water melon model)
 
 In this model, the atoms are visualized as homogeneous spheres which contain uniform distribution of positively charged particles (Figure 9.8 (a)). The negatively charged particles known as electrons are embedded in it like seeds in water melon as shown in Figure 9.8 (b).
 
@@ -19,7 +19,7 @@ In this model, the atoms are visualized as homogeneous spheres which contain uni
 
 The atoms are electrically neutral, this implies that the total positive charge in an atom is equal to the total negative charge. According to this model, all the charges are assumed to be at rest. But from classical electrodynamics, no stable equilibrium points exist in electrostatic configuration (this is known as Earnshaw's theorem) and hence such an atom cannot be stable. Further, it fails to explain the origin of spectral lines observed in the spectrum of hydrogen atom and other atoms.
 
-### 9.3.2 Rutherford's model
+### Rutherford's model
 
 In 1911, Geiger and Marsden did a remarkable experiment based on the advice of their teacher Rutherford, which is known as scattering of alpha particles by gold foil.
 
@@ -78,7 +78,7 @@ According to classical electrodynamics, any accelerated charge should emit elect
 
 (b) According to this model, emission of radiation must be continuous and must give continuous emission spectrum but experimentally we observe only line (discrete) emission spectrum for atoms.
 
-### 9.3.3 Bohr atom model
+### Bohr atom model
 
 In order to overcome the limitations of the Rutherford atom model in explaining the stability and also the line spectrum observed for a hydrogen atom (Figure 9.14), Niels Bohr made modifications in Rutherford atom model. He is the first person to give better theoretical model of the structure of an atom to explain the line spectrum of hydrogen atom. The following are the assumptions (postulates) made by Bohr.
 
@@ -467,7 +467,7 @@ So photon B is absorbed (transition \(n=1 \to n=4\)). Photon A is not absorbed.
 
 ---
 
-### 9.3.4 Atomic spectra
+### Atomic spectra
 
 Materials in the solid, liquid and gaseous states emit electromagnetic radiations when they are heated up and these emitted radiations usually exhibit continuous spectrum. For example, when white light is examined through a spectrometer, electromagnetic radiations of all wavelengths are observed which is a continuous spectrum.
 

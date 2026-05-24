@@ -19,7 +19,7 @@ This chapter explains how **electronic devices control current flow** and how **
 
 ---
 
-## 01. Semiconductors
+## Semiconductors
 Materials with conductivity between conductors and insulators.
 
 * Examples: Silicon, Germanium  
@@ -28,7 +28,7 @@ Materials with conductivity between conductors and insulators.
 
 ---
 
-## 02. Types of Semiconductors
+## Types of Semiconductors
 
 ### Intrinsic Semiconductor
 * Pure semiconductor  
@@ -45,7 +45,7 @@ Materials with conductivity between conductors and insulators.
 
 ---
 
-## 03. PN Junction Diode
+## PN Junction Diode
 Basic semiconductor device.
 
 * Formed by joining p-type and n-type materials  
@@ -53,7 +53,7 @@ Basic semiconductor device.
 
 ---
 
-## 04. Diode as Rectifier
+## Diode as Rectifier
 
 * Converts AC into DC  
 
@@ -65,7 +65,7 @@ Basic semiconductor device.
 
 ---
 
-## 05. Transistor
+## Transistor
 Used as amplifier and switch.
 
 * Types:
@@ -78,7 +78,7 @@ Used as amplifier and switch.
 
 ---
 
-## 06. Logic Gates
+## Logic Gates
 Basic building blocks of digital electronics.
 
 ### AND Gate
@@ -92,7 +92,7 @@ Basic building blocks of digital electronics.
 
 ---
 
-## 07. Communication System
+## Communication System
 Transfer of information from sender to receiver.
 
 * Components:
@@ -102,7 +102,7 @@ Transfer of information from sender to receiver.
 
 ---
 
-## 08. Modulation
+## Modulation
 Process of superimposing signal on carrier wave.
 
 * Types:

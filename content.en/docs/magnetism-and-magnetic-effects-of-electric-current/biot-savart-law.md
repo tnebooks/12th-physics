@@ -5,7 +5,7 @@ weight: 8
 
 Soon after Oersted's discovery, both Jean-Baptiste Biot and Felix Savart in 1819 did quantitative experiments on the force experienced by a magnet kept near current carrying wire and arrived at a mathematical expression that gives the magnetic field at some point in space in terms of the current that produces the magnetic field. This is true for any shape of the conductor.
 
-### 3.8.1 Definition and explanation of Biot-Savart law
+### Definition and explanation of Biot-Savart law
 
 Biot and Savart experimentally observed that the magnitude of magnetic field \(d\bar{B}\) at a point P at a distance \(r\) from the small elemental length taken on a conductor carrying current varies
 
@@ -63,7 +63,7 @@ Electric and magnetic fields
 
 The exponent of charge \(q\) (source) and exponent of electric field \(E\) is unity. Similarly, the exponent of current element \(I d\bar{l}\) (source) and exponent of magnetic field \(B\) is unity. In other words, electric field \(\bar{E}\) is proportional only to charge (source) and not on higher powers of charge \((q^{2},q^{3},\) etc). Similarly, magnetic field \(\bar{B}\) is proportional to current element \(I d\bar{l}\) (source) and not on square or cube or higher powers of current element. The cause and effect have linear relationship.
 
-### 3.8.2 Magnetic field due to long straight conductor carrying current
+### Magnetic field due to long straight conductor carrying current
 
 Let \(\mathrm{YY}^{\prime}\) be an infinitely long straight conductor and \(I\) be the steady current through the conductor. In order to calculate magnetic field at a point \(\mathrm{P}\) which is at a distance \(a\) from the wire, let us consider a small line element \(dl\) (segment AB).
 
@@ -137,7 +137,7 @@ $$
 \vec{B} = \frac{\mu_0 I}{4\pi a} \times 2 \hat{n} = \frac{\mu_0 I}{2\pi a} \hat{n} \quad (3.36)
 $$
 
-### 3.8.3 Magnetic field produced along the axis of the current-carrying circular coil
+### Magnetic field produced along the axis of the current-carrying circular coil
 
 Consider a current carrying circular loop of radius \(R\) and let \(I\) be the current flowing through the wire. The magnetic field at a point P on the axis of the circular coil at a distance \(z\) from the centre of the coil O is computed by taking two diametrically opposite line elements of the coil each of length \(d\bar{l}\) at C and D. Let \(\vec{r}\) be the vector joining the current element \((I d\bar{l})\) at C and the point P.
 
@@ -207,7 +207,7 @@ What is the magnetic field at the centre of the loop shown in figure?
 
 The magnetic field due to current in the upper semicircle and lower semicircle of the circular coil are equal in magnitude but opposite in direction. Hence, the net magnetic field at the centre of the loop (at point O) is zero \(\bar{B} = \bar{0}\).
 
-### 3.8.4 Tangent law and Tangent Galvanometer
+### Tangent law and Tangent Galvanometer
 
 Tangent galvanometer is a device used to detect very small currents. It is a moving magnet type galvanometer. Its working is based on tangent law.
 
@@ -287,7 +287,7 @@ $$
 I = 0.082\mathrm{A}
 $$
 
-### 3.8.5 Current loop as a magnetic dipole
+### Current loop as a magnetic dipole
 
 The magnetic field at a point on the axis of the current-carrying circular loop of radius \(R\) at a distance \(z\) from its centre is given by
 
@@ -342,7 +342,7 @@ If we curl the fingers of right hand in the direction of current in the loop, th
 | Anti-clockwise current | North Pole |
 | Clockwise current | South Pole |
 
-### 3.8.6 Magnetic dipole moment of revolving electron
+### Magnetic dipole moment of revolving electron
 
 Suppose an electron undergoes circular motion around the nucleus. The circulating electron in a loop is like current in a circular loop (since flow of charge constitutes current). The magnetic dipole moment due to current carrying circular loop is
 

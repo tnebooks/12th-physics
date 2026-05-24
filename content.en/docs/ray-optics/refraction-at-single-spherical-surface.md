@@ -11,7 +11,7 @@ The following assumptions are made while considering refraction at spherical sur
 
 The sign conventions are similar to that of the spherical mirrors.
 
-### 6.5.1 Equation for refraction at single spherical surface
+### Equation for refraction at single spherical surface
 
 Let us consider two transparent media with refractive indices \(n_1\) and \(n_2\) which are separated by a spherical surface. Let C be the centre of curvature of the spherical surface. Let a point object O be in the medium \(n_1\). The line OC is the principal axis that cuts the spherical surface at the pole P. As the rays considered are paraxial rays, the perpendicular dropped from the point of incidence to the principal axis is very close to the pole (or) passes through the pole itself.
 

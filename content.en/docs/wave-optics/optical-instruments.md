@@ -5,11 +5,11 @@ weight: 6
 
 There are many optical instruments we used in our daily life. We shall discuss here about microscope, telescope, spectrometer and of course the human eye.
 
-### 7.6.1 Simple microscope
+### Simple microscope
 
 A simple microscope is a single magnifying (convex) lens of small focal length which must produce an erect, magnified and virtual image of the object. Hence, the object must be placed within the focal length f (between the points F and P) on one side of the lens and viewed through the other side of it. The nearest point where an eye can clearly see is called the near point and the farthest point up to which an eye can clearly see is called the far point. For a healthy eye, the distance of the near point is \(25\ \mathrm{cm}\), which is denoted as D and the far point should be at infinity.
 
-#### 7.6.1.1 Near point focusing
+#### Near point focusing
 
 The eye is least strained when image is formed at near point, i.e. \(25\ \mathrm{cm}\). The near point is also called as least distance of distinct vision. This is shown in Figure 7.36. The object distance u should be less than f. The image distance is the near point D. The magnification m of this lens is given by \(m = \frac{v}{u}\). Substituting \(v = -D\) and \(u = -u\), both distances measured to the left of the lens, we get \(m = \frac{D}{u}\).
 
@@ -23,7 +23,7 @@ This is the magnification for near point focusing.
 
 
 
-#### 7.6.1.2 Normal focusing
+#### Normal focusing
 
 The eye is most relaxed when the image is formed at infinity. The focusing is called normal focusing when the image is formed at infinity. This is shown in Figure 7.37(b). To find the magnification m, we use angular magnification. The angular magnification is defined as the ratio of angle \(\theta_i\) subtended by the image with aided eye to the angle \(\theta_0\) subtended by the object with unaided eye.
 
@@ -72,7 +72,7 @@ Normal focusing: \(m = \frac{D}{f} = \frac{25}{5} = 5\).
 
 ---
 
-#### 7.6.1.3 Resolving power of microscope
+#### Resolving power of microscope
 
 A microscope is used to see the details of the object under observation. Good microscope should not only magnify the object but also resolve the two points on an object which are separated by the smallest distance \(d_{\min}\). Actually, \(d_{\min}\) is the resolution and its reciprocal is the resolving power.
 
@@ -118,13 +118,13 @@ $$
 R_{\mathrm{M}} = \frac{1}{d_{\min}} = \frac{2(\mathrm{NA})}{1.22\lambda} = \frac{2n\sin \beta}{1.22\lambda} \tag{7.72}
 $$
 
-### 7.6.2 Compound microscope
+### Compound microscope
 
 The diagram of a compound microscope is shown in Figure 7.39. The lens near the object is called objective. It forms a real, inverted and magnified image of the object. This serves as the object for the lens close to the eye called eyepiece. The eyepiece serves as a simple microscope that produces finally an enlarged and virtual image. The first inverted image formed by the objective is to be adjusted within the focus of the eyepiece so that the final image is formed nearly at infinity (or) at the near point. The final image is inverted with respect to the object.
 
 
 
-#### 7.6.2.1 Magnification in compound microscope
+#### Magnification in compound microscope
 
 The lateral magnification produced by the objective is given by \(m_o = \frac{h'}{h}\). From Figure 7.39, \(\tan \beta = \frac{h}{f_o} = \frac{h'}{L}\), so
 
@@ -158,13 +158,13 @@ A microscope has an objective and eyepiece of focal lengths \(5\ \mathrm{cm}\) a
 
 ---
 
-### 7.6.3 Astronomical telescope
+### Astronomical telescope
 
 An astronomical telescope is used to get the magnification of distant astronomical objects like stars, planets, moon etc. The image formed by astronomical telescope will be inverted. It has an objective of long focal length and a much larger aperture than the eyepiece as shown in Figure 7.40. Light from a distant object enters the objective and a real image is formed in the tube at its focal point. The eyepiece magnifies this image producing a final inverted image.
 
 
 
-#### 7.6.3.1 Magnification in astronomical telescope
+#### Magnification in astronomical telescope
 
 The magnification m is the ratio of the angle \(\beta\) subtended by the image to the angle \(\alpha\) subtended by the object with the principal axis.
 
@@ -193,19 +193,19 @@ A small telescope has an objective lens of focal length \(125\ \mathrm{cm}\) and
 
 ---
 
-### 7.6.4 Terrestrial telescope
+### Terrestrial telescope
 
 A terrestrial telescope is used to see objects at a long distance on the surface of earth. Hence, image should be erect. Therefore, it has an additional erecting lens to make the final image erect as shown in Figure 7.41.
 
 
 
-### 7.6.5 Reflecting telescope
+### Reflecting telescope
 
 Modern telescopes use concave mirrors instead of lenses for the objectives. It is rather difficult and expensive to make lenses of large size which form images that are free from any optical defect. A telescope which has a concave mirror objective is called reflecting telescope. It has several advantages. Only one surface is to be polished and maintained for a mirror whereas it is to be done for two surfaces for a lens. Support can be given from the entire back of the mirror whereas it is given only at the rim for lens. A mirror weighs much less compared to a lens. But, the one obvious problem with a reflecting telescope is that the objective mirror would focus the light inside the telescope tube. One must have an eye piece inside the tube obstructing some light. This problem could also be overcome by introducing a secondary mirror which would take the light outside the tube for view as shown in the Figure 7.42.
 
 
 
-### 7.6.6 Spectrometer
+### Spectrometer
 
 The spectrometer is an optical instrument used to analyse the spectra of different sources of light, to measure the wavelength of different colours and to measure the refractive indices of materials of prisms. It is shown in Figure 7.43. It basically consists of three parts namely (i) collimator, (ii) prism table and (iii) telescope.
 
@@ -236,7 +236,7 @@ The following adjustments must be done in a spectrometer before doing the experi
 
 (d) Levelling of the prism table: The prism table is brought to the horizontal level by adjusting the levelling screws and it is ensured by using spirit level.
 
-#### 7.6.6.1 Determination of refractive index of material of the prism
+#### Determination of refractive index of material of the prism
 
 The preliminary adjustments of the spectrometer are done. The refractive index of the prism can be determined by measuring the angle of the prism A and the angle of minimum deviation D.
 
@@ -258,7 +258,7 @@ The refractive index of a liquid may be determined in the same way by using a ho
 
 
 
-### 7.6.7 The eye
+### The eye
 
 Eye is a natural optical instrument human beings have. As the eye lens is flexible, its focal length can be changed to some extent. When the eye is fully relaxed, its focal length is maximum and when it is strained its focal length is minimum. The image must be formed on the retina for clear vision. The diameter of eye ball for a normal adult is about \(2.5\ \mathrm{cm}\). Hence, the distance between eye lens and retina (image distance) is fixed always at \(2.5\ \mathrm{cm}\). We can just discuss the optical functioning of eye without giving importance to the refractive indices of the two liquids, aqueous humor and virtuous humor present in the eye. A person with normal vision can see objects kept at infinity in the relaxed condition with a maximum focal length \(f_{\max}\) of the eye lens as shown in Figure 7.46(a) and in the strained condition, with a minimum focal length \(f_{\min}\) for an object kept at near point D (25 cm) as shown in Figure 7.46(b).
 
@@ -271,7 +271,7 @@ When object at near point, \(u = -25\ \mathrm{cm}\), \(v = 2.5\ \mathrm{cm}\) (s
 \(\frac{1}{f_{\min}} = \frac{1}{2.5} - \frac{1}{-25} = \frac{1}{2.5} + \frac{1}{25} = \frac{10+1}{25} = \frac{11}{25}\), so \(f_{\min} = \frac{25}{11} \approx 2.27\ \mathrm{cm}\).  
 Thus by varying the focal length of the eye lens by a small value of \(f_{\max} - f_{\min} = 0.23\ \mathrm{cm}\), a person can see objects from infinity to the near point.
 
-#### 7.6.7.1 Nearsightedness (myopia)
+#### Nearsightedness (myopia)
 
 A person suffering from nearsightedness (or) myopia cannot see distant objects clearly. This may be due to the short focal length of the eye lens (or) larger diameter of the eyeball than usual. These people have difficulty in relaxing their eye to the extent of what is needed. Thus, they need correcting lens.
 
@@ -281,7 +281,7 @@ The focal length of the correcting lens for a myopic eye can be calculated using
 
 
 
-#### 7.6.7.2 Farsightedness (hypermetropia)
+#### Farsightedness (hypermetropia)
 
 A person suffering from farsightedness (or) hypermetropia (or) hyperopia cannot see closer object clearly. It occurs when the eye lens has long focal length (or) shortening of the eyeball than usual. The closest distance for clear vision for these people is appreciably more than \(25\ \mathrm{cm}\). Thus, reading books (or) viewing smaller things held in the hands is difficult for them. This kind of farsightedness arising mainly due to aging is called presbyopia. The aged people cannot strain their eye more to reduce the focal length of the eye lens.
 
@@ -303,7 +303,7 @@ Since \(y > 25\), f is positive, so the lens is convex.
 
 
 
-#### 7.6.7.3 Astigmatism
+#### Astigmatism
 
 Astigmatism is the defect arising due to different curvatures along different planes in the eye lens. Astigmatic person cannot see in all the directions equally well. The defect due to astigmatism is more serious than myopia and hypermetropia. The astigmatism can be corrected using a lens which has different curvatures in different planes. In general, these specially made glasses with different curvature for different planes are called as cylindrical lenses.
 

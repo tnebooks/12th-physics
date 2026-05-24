@@ -19,14 +19,14 @@ Light exhibits **wave nature**, leading to phenomena like interference, diffract
 
 ---
 
-## 01. Huygens’ Principle
+## Huygens’ Principle
 
 * Every point on a wavefront acts as a source of secondary wavelets  
 * Explains propagation of light waves  
 
 ---
 
-## 02. Interference of Light
+## Interference of Light
 
 * Superposition of two coherent waves  
 * Produces bright and dark fringes  
@@ -43,28 +43,28 @@ Light exhibits **wave nature**, leading to phenomena like interference, diffract
 
 ---
 
-## 03. Fringe Conditions
+## Fringe Conditions
 
 * Bright fringe: path difference = nλ  
 * Dark fringe: path difference = (2n+1)λ/2  
 
 ---
 
-## 04. Diffraction of Light
+## Diffraction of Light
 
 * Bending of light around obstacles  
 * More prominent when slit size ≈ wavelength  
 
 ---
 
-## 05. Single Slit Diffraction
+## Single Slit Diffraction
 
 * Central maximum is brightest and widest  
 * Intensity decreases for higher orders  
 
 ---
 
-## 06. Polarization
+## Polarization
 
 * Restriction of light vibrations to one direction  
 * Only transverse waves can be polarized  
@@ -72,7 +72,7 @@ Light exhibits **wave nature**, leading to phenomena like interference, diffract
 
 ---
 
-## 07. Resolving Power
+## Resolving Power
 
 * Ability to distinguish two close objects  
 * Important in microscopes and telescopes  

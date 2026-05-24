@@ -7,7 +7,7 @@ Transformer is a stationary device used to transform electrical power from one c
 
 If the transformer converts an alternating current with low voltage into an alternating current with high voltage, it is called step-up transformer. On the contrary, if the transformer converts alternating current with high voltage into an alternating current with low voltage, then it is called step-down transformer.
 
-### 4.6.1 Construction and working of transformer
+### Construction and working of transformer
 
 #### Principle
 
@@ -86,7 +86,7 @@ $$
 
 Transformers are highly efficient devices having their efficiency in the range of 96 - 99%. Various energy losses in transformers will not allow them to be 100% efficient.
 
-### 4.6.2 Energy losses in a transformer
+### Energy losses in a transformer
 
 Transformers do not have any moving parts so that its efficiency is much higher than that of rotating machines like generators and motors. But there are many factors which lead to energy loss in a transformer.
 
@@ -104,7 +104,7 @@ Transformer windings have electrical resistance. When an electric current flows 
 
 Flux leakage happens when the magnetic lines of primary coil are not completely linked with secondary coil. Energy loss due to this flux leakage is minimized by winding coils one over the other.
 
-### 4.6.3 Advantages of AC in long distance power transmission
+### Advantages of AC in long distance power transmission
 
 Electric power is produced in a large scale at electric power stations with the help of AC generators. These power stations are classified based on the type of fuel used as thermal, hydro electric and nuclear power stations. Most of these stations are located at remote places. Hence the electric power generated is transmitted over long distances through transmission lines to reach towns or cities where it is actually consumed. This process is called power transmission.
 

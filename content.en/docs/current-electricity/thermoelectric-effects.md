@@ -11,7 +11,7 @@ when there is a temperature difference on
 each side. If a voltage is applied, it generates
 a temperature difference.
 
-### 2.7.1 Seebeck effect
+### Seebeck effect
 
 Seebeck discovered that in a closed circuit consisting of two dissimilar metals, when the junctions are maintained at different temperatures an emf (potential difference) is developed. The current that flows due to the emf developed is called thermoelectric current. The two dissimilar metals connected to form two junctions is known as thermocouple (Figure 2.35).
 
@@ -27,7 +27,7 @@ The magnitude of the emf developed in a thermocouple depends on (i) the nature o
 2. This effect is utilized in automobiles as automotive thermoelectric generators for increasing fuel efficiency.
 3. Seebeck effect is used in thermocouples and thermopiles to measure the temperature difference between the two objects.
 
-### 2.7.2 Peltier effect
+### Peltier effect
 
 In 1834, Peltier discovered that when an electric current is passed through a circuit of a thermocouple, heat is evolved at one junction and absorbed at the other junction. This is known as Peltier effect.
 
@@ -35,7 +35,7 @@ In 1834, Peltier discovered that when an electric current is passed through a ci
 
 In the Cu- Fe thermocouple the junctions A and B are maintained at the same temperature. Let a current from a battery flow through the thermocouple (Figure 2.36 (a)). At the junction A, where the current flows from Cu to Fe, heat is absorbed and the junction A becomes cold. At the junction B, where the current flows from Fe to Cu heat is liberated and it becomes hot. When the direction of current is reversed, junction A gets heated and junction B gets cooled as shown in the Figure 2.36(b). Hence Peltier effect is reversible.
 
-### 2.7.3 Thomson effect
+### Thomson effect
 
 Thomson showed that if two points in a conductor are at different temperatures, the density of electrons at these points will differ and as a result the potential difference is created between these points. Thomson effect is also reversible.
 

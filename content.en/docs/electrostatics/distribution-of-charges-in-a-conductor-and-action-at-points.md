@@ -3,7 +3,7 @@ title: "Distribution Of Charges In A Conductor And Action At Points"
 weight: 9
 ---
 
-### 1.9.1 Distribution of charges in a conductor
+### Distribution of charges in a conductor
 
 Consider two conducting spheres A and B of radii \(r_{1}\) and \(r_{2}\) respectively connected to each other by a thin conducting wire. The distance between the spheres is much greater than the radii of either spheres.
 
@@ -107,13 +107,13 @@ $$
 V_{A} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}}{r_{1}} = \frac{9\times 10^{9}\times 80\times 10^{-9}}{8\times 10^{-2}} = 9\mathrm{kV}
 $$
 
-### 1.9.2 Action of points or Corona discharge
+### Action of points or Corona discharge
 
 ![Figure 1.61 Action of points or corona discharge](a66.png)
 
 Consider a charged conductor of irregular shape. The charge density will be large where the radius of curvature is small. This implies that near the sharp edges of the conductor, the surface charge density is large. This results in a very large electric field around the sharp edges. The electric field around the sharp edges may become so large that it may ionize the surrounding air. Positive ions are repelled by the positive charges on the conductor and negative ions are attracted towards the conductor. The positive ions carry charge from the conductor to the air. Thus the charge on the conductor is reduced. This process is called action at points or corona discharge.
 
-### 1.9.3 Lightning arrester or lightning conductor
+### Lightning arrester or lightning conductor
 
 This is a device used to protect tall buildings from lightning strikes. It works on the principle of action at points or corona discharge.
 
@@ -121,7 +121,7 @@ This is a device used to protect tall buildings from lightning strikes. It works
 
 This device consists of a long thick copper rod passing from top of the building to the ground. The upper end of the rod has a sharp spike or a sharp needle. The lower end of the rod is connected to copper plate which is buried deep into the ground. When a negatively charged cloud is passing above the building, it induces a positive charge on the spike. Since the induced charge density on thin sharp spike is large, it results in a corona discharge. This positive charge ionizes the surrounding air which in turn neutralizes the negative charge in the cloud. The negative charge pushed to the spikes passes through the copper rod and reaches the ground. Thus the building is protected from lightning.
 
-### 1.9.4 Van de Graaff Generator
+### Van de Graaff Generator
 
 In the year 1929, Robert Van de Graaff designed a machine which produces a large amount of electrostatic potential difference, up to several million volts \((10^{7}\mathrm{V})\). This Van de Graff generator works on the principle of electrostatic induction and action at points.
 

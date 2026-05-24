@@ -3,7 +3,7 @@ title: "Methods Of Producing Induced Emf"
 weight: 4
 ---
 
-### 4.4.1 Introduction
+### Introduction
 
 Electromotive force is the characteristic of any energy source capable of driving electric charge around a circuit. We have already learnt that it is not actually a force. It is the work done in moving unit electric charge around the circuit. It is measured in \(\mathrm{J\ C^{-1}}\) or volt.
 
@@ -21,11 +21,11 @@ From the above equation, it is clear that induced emf can be produced by changin
 (ii) By changing the area \(A\) of the coil  
 (iii) By changing the relative orientation \(\theta\) of the coil with magnetic field
 
-### 4.4.2 Production of induced emf by changing the magnetic field
+### Production of induced emf by changing the magnetic field
 
 From Faraday's experiments on electromagnetic induction, it was discovered that an emf is induced in a circuit by changing the magnetic flux of the field through it. The change in flux is brought about by (i) relative motion between the circuit and the magnet (First experiment) (ii) variation in current flowing through the nearby coil (Second experiment).
 
-### 4.4.3 Production of induced emf by changing the area of the coil
+### Production of induced emf by changing the area of the coil
 
 Consider a conducting rod of length \(l\) moving with a velocity \(v\) towards left on a rectangular fixed metallic framework. The whole arrangement is placed in a uniform magnetic field \(\vec{B}\) whose magnetic lines are perpendicularly directed into the plane of the paper.
 
@@ -109,7 +109,7 @@ $$
 
 Induced current, \(i = \frac{\epsilon}{R} = \frac{0.24}{4} = 0.06\ \mathrm{A}\)
 
-### 4.4.4 Production of induced emf by changing relative orientation of the coil with the magnetic field
+### Production of induced emf by changing relative orientation of the coil with the magnetic field
 
 Emf can be induced by changing relative orientation between the coil and the magnetic field. This can be achieved either by rotating a coil in a magnetic field or by rotating a magnetic field within a stationary coil. Here rotating coil type is considered.
 

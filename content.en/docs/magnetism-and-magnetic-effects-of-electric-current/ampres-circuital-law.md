@@ -5,7 +5,7 @@ weight: 9
 
 Ampère's circuit law is used to calculate magnetic field at a point whenever there is a symmetry in the problem. This is similar to Gauss's law in electrostatics.
 
-### 3.9.1 Ampère's circuital law
+### Ampère's circuital law
 
 Ampère's law: The line integral of magnetic field over a closed loop is \(\mu_0\) times net current enclosed by the loop.
 
@@ -15,7 +15,7 @@ $$
 
 where \(I_{enclosed}\) is the net current linked by the closed loop C. Note that the line integral does not depend on the shape of the path or the position of the conductor with the magnetic field.
 
-### 3.9.2 Magnetic field due to the current carrying wire of infinite length using Ampère's law
+### Magnetic field due to the current carrying wire of infinite length using Ampère's law
 
 Consider a straight conductor of infinite length carrying current \(I\) and the direction of magnetic field lines is shown. Since the wire is geometrically cylindrical in shape and symmetrical about its axis, we construct an Amperian loop in the form of a circular shape at a distance \(r\) from the centre of the conductor. From the Ampere's law, we get
 
@@ -75,7 +75,7 @@ The current carrying solenoid is held in right hand. If the fingers curl in the 
 
 The solenoid is assumed to be long which means that the length of the solenoid is large when compared to its diameter. The winding need not to be always circular, it can also be in other shapes. We consider here only circularly wound solenoid.
 
-### 3.9.3 Magnetic field due to a long current carrying solenoid
+### Magnetic field due to a long current carrying solenoid
 
 Consider a solenoid of length \(L\) having \(N\) turns. The diameter of the solenoid is assumed to be much smaller when compared to its length and the coil is wound very closely.
 
@@ -189,7 +189,7 @@ Thus, strength of the magnetic field is increased when we pack more loops into t
 
 **MRI is Magnetic Resonance Imaging which helps the physicians to diagnose or monitor treatment for a variety of abnormal conditions happening within the head, chest, abdomen and pelvis. It is a non invasive medical test. The patient is placed in a circular opening (actually interior of a solenoid which is made up of superconducting wire) and large current is sent through the superconducting wire to produce a strong magnetic field. So, it uses more powerful magnet, radio frequency pulses and a computer to produce pictures of organs which helps the physicians to examine various parts of the body.**
 
-### 3.9.4 Toroid
+### Toroid
 
 A solenoid is bent in such a way its ends are joined together to form a closed ring shape, is called a toroid. The magnetic field has constant magnitude inside the toroid whereas in the interior region (say, at point P) and exterior region (say, at point Q), the magnetic field is zero.
 

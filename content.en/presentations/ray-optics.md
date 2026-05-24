@@ -19,7 +19,7 @@ This chapter explains the **behavior of light using rays**, including reflection
 
 ---
 
-## 01. Reflection of Light
+## Reflection of Light
 
 * Light bounces back from a surface  
 * Laws of reflection:
@@ -28,7 +28,7 @@ This chapter explains the **behavior of light using rays**, including reflection
 
 ---
 
-## 02. Spherical Mirrors
+## Spherical Mirrors
 
 ### Types
 * Concave Mirror  
@@ -42,7 +42,7 @@ This chapter explains the **behavior of light using rays**, including reflection
 
 ---
 
-## 03. Refraction of Light
+## Refraction of Light
 
 * Bending of light when it passes between media  
 
@@ -52,14 +52,14 @@ This chapter explains the **behavior of light using rays**, including reflection
 
 ---
 
-## 04. Refractive Index
+## Refractive Index
 
 * Measure of optical density  
 * Higher value → slower light speed  
 
 ---
 
-## 05. Total Internal Reflection (TIR)
+## Total Internal Reflection (TIR)
 
 * Occurs when light travels from denser to rarer medium  
 * Condition:
@@ -67,7 +67,7 @@ This chapter explains the **behavior of light using rays**, including reflection
 
 ---
 
-## 06. Lenses
+## Lenses
 
 ### Types
 * Convex Lens  
@@ -81,13 +81,13 @@ This chapter explains the **behavior of light using rays**, including reflection
 
 ---
 
-## 07. Magnification
+## Magnification
 
 :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 08. Optical Instruments
+## Optical Instruments
 
 * Human Eye  
 * Microscope  

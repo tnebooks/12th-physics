@@ -19,7 +19,7 @@ This chapter explains how **electric current can be generated using magnetic fie
 
 ---
 
-## 01. Electromagnetic Induction
+## Electromagnetic Induction
 Production of induced emf when magnetic flux changes.
 
 * Discovered by **:contentReference[oaicite:0]{index=0}**
@@ -30,7 +30,7 @@ Production of induced emf when magnetic flux changes.
 
 ---
 
-## 02. Magnetic Flux
+## Magnetic Flux
 Measure of magnetic field passing through a surface.
 
 :contentReference[oaicite:1]{index=1}
@@ -39,7 +39,7 @@ Measure of magnetic field passing through a surface.
 
 ---
 
-## 03. Faraday’s Laws of Induction
+## Faraday’s Laws of Induction
 
 * First Law: Change in magnetic flux induces emf  
 * Second Law: Magnitude of emf depends on rate of change of flux  
@@ -48,7 +48,7 @@ Measure of magnetic field passing through a surface.
 
 ---
 
-## 04. Lenz’s Law
+## Lenz’s Law
 Direction of induced current opposes the cause.
 
 * Ensures conservation of energy
@@ -56,7 +56,7 @@ Direction of induced current opposes the cause.
 
 ---
 
-## 05. Self and Mutual Induction
+## Self and Mutual Induction
 
 * **Self Induction:** emf induced in same coil  
 * **Mutual Induction:** emf induced in nearby coil  
@@ -65,7 +65,7 @@ Direction of induced current opposes the cause.
 
 ---
 
-## 06. Alternating Current (AC)
+## Alternating Current (AC)
 
 * Current that changes direction periodically  
 * Produced by AC generators  
@@ -74,7 +74,7 @@ Direction of induced current opposes the cause.
 
 ---
 
-## 07. RMS Values
+## RMS Values
 
 * Effective value of AC current and voltage  
 
@@ -82,7 +82,7 @@ Direction of induced current opposes the cause.
 
 ---
 
-## 08. AC Circuits
+## AC Circuits
 
 ### Pure Resistor
 * Current and voltage in phase  
@@ -95,7 +95,7 @@ Direction of induced current opposes the cause.
 
 ---
 
-## 09. Transformer
+## Transformer
 
 * Device used to change voltage level  
 * Works on mutual induction  

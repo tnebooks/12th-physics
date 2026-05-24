@@ -27,7 +27,7 @@ When the pressure reaches to around \(0.01\ \mathrm{mm}\) of Hg, positive column
 
 (5) The speed of cathode rays is up to \(\left(\frac{1}{10}\right)^{\text{th}}\) of the speed of light.
 
-### 9.2.1 Determination of specific charge \(\left(\frac{e}{m}\right)\) of an electron – Thomson's experiment
+### Determination of specific charge \(\left(\frac{e}{m}\right)\) of an electron – Thomson's experiment
 
 Thomson's experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
 
@@ -123,7 +123,7 @@ $$
 
 Substituting the values on RHS, the value of specific charge is calculated as \(\frac{e}{m} = 1.7\times 10^{11}\ \mathrm{C\ kg^{-1}}\).
 
-### 9.2.2 Determination of charge of an electron – Millikan's oil drop experiment
+### Determination of charge of an electron – Millikan's oil drop experiment
 
 Millikan's oil drop experiment is another important experiment in modern physics which is used to determine one of the fundamental constants of nature known as charge of an electron (Figure 9.6 (a)).
 

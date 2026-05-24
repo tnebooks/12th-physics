@@ -22,7 +22,7 @@ The law of refraction is also known as Snell's law.
 
 
 
-### 6.4.1 Angle of deviation due to refraction
+### Angle of deviation due to refraction
 
 The angle between the direction of incident ray and the refracted ray is called angle of deviation due to refraction. When light travels from rarer to denser medium, it deviates towards normal. The angle of deviation in this case is \(d = i - r\).
 
@@ -32,13 +32,13 @@ On the other hand, if light travels from denser to rarer medium, it deviates awa
 
 
 
-### 6.4.2 Simultaneous reflection (or) refraction
+### Simultaneous reflection (or) refraction
 
 In any refracting surface there will also be some reflection taking place. Thus, the intensity of refracted light will be lesser than the incident light. The phenomenon in which a part of light from a source undergoing reflection and the other part of light from the same source undergoing refraction at the same surface is called simultaneous reflection (or) simultaneous refraction. Such surfaces are available as partially silvered glasses.
 
 
 
-### 6.4.3 Principle of reversibility
+### Principle of reversibility
 
 If a ray of light travels from medium 1 to medium 2 along a certain path, it travels the same path from medium 2 to medium 1. For refraction at a boundary, using Snell's law in product form,
 
@@ -54,7 +54,7 @@ $$
 
 Thus, the path is reversible.
 
-### 6.4.4 Relative refractive index
+### Relative refractive index
 
 The refractive index of medium 2 with respect to medium 1 is defined as the ratio of refractive index of medium 2 to that of medium 1.
 
@@ -75,7 +75,7 @@ The refractive index of oil is \(n_o = 1.2\).
 
 ---
 
-### 6.4.5 Apparent depth
+### Apparent depth
 
 It is a common observation that the bottom of a tank filled with water appears to be raised when seen from air medium above. An equation could be derived for the apparent depth when viewed in the near normal direction.
 
@@ -153,7 +153,7 @@ $$
 
 ---
 
-### 6.4.6 Critical angle and total internal reflection
+### Critical angle and total internal reflection
 
 When a ray passes from an optically denser medium to an optically rarer medium, it bends away from the normal. Because of this, the angle of refraction \(r\) in the rarer medium is greater than the corresponding angle of incidence \(i\) in the denser medium. As angle of incidence \(i\) is gradually increased, \(r\) rapidly increases and at a certain stage \(r\) becomes \(90^\circ\) and the refracted ray will be gracing the boundary. The angle of incidence in the denser medium for which the angle of refraction is \(90^\circ\) (or) the refracted ray graces the boundary between the two media is called critical angle \(i_c\).
 
@@ -203,15 +203,15 @@ For example, the refractive index of glass is about 1.5. The critical angle for 
 
 
 
-### 6.4.7 Effects due to total internal reflection
+### Effects due to total internal reflection
 
-#### 6.4.7.1 Glittering of diamond
+#### Glittering of diamond
 
 Diamond appears dazzling because of the total internal reflection of light that happens inside the diamond. The refractive index of diamond is about 2.417. It is much greater than the refractive index of ordinary glass which is about only 1.5. The critical angle of diamond is about \(24.4^\circ\). It is much less than that of ordinary glass. A skilled diamond cutter makes use of this larger range of angle of incidence (\(24.4^\circ\) to \(90^\circ\) inside the diamond), to ensure that light entering the diamond is total internally reflected from the many cut faces before getting out. This gives a sparkling effect for diamond.
 
 
 
-#### 6.4.7.2 Mirage and looming
+#### Mirage and looming
 
 The refractive index of air increases with its density. In hot places, air near the ground is hotter than air at a height. Hot air is less dense. Hence, in still air the refractive index of air increases with height. Because of this, the light from tall objects like a tree, try to pass through a medium whose refractive index decreases towards the ground. Hence, the ray of light successively deviates away from the normal at different layers of air and undergoes total internal reflection when the angle of incidence near the ground exceeds the critical angle. This gives an illusion as if the light comes from somewhere below the ground. Because of the shaky nature of the layers of air, the observer feels as if the object is getting reflected by a pool of water (or) wet surface beneath the object. This phenomenon is called mirage.
 
@@ -219,13 +219,13 @@ The refractive index of air increases with its density. In hot places, air near 
 
 In cold places the refractive index increases towards the ground because the temperature of air close to the ground is lesser than the temperature at a height above the surface of earth. Thus, the density and refractive index of air close to the ground is greater than for air at a height. In the cold regions like glaciers and frozen lakes, the reverse effect of mirage will happen. Hence, an inverted image is formed little above the surface. This phenomenon is called looming. It is also called as superior mirage, towering and stooping.
 
-#### 6.4.7.3 Prisms making using of total internal reflection
+#### Prisms making using of total internal reflection
 
 Prisms can be designed to reflect light by \(90^\circ\) or by \(180^\circ\) by making use of total internal reflection.
 
 
 
-#### 6.4.7.4 Radius of illumination (Snell's window)
+#### Radius of illumination (Snell's window)
 
 When a source of light like electric bulb is kept inside a water tank, the light from the source travels in all direction inside the water. The light that is incident on the water surface at an angle less than the critical angle will undergo refraction and emerge out from the water. The light incident at an angle greater than critical angle will undergo total internal reflection. The light falling particularly at critical angle graces the surface. Thus, the entire surface of water appears illuminated when seen from outside.
 
@@ -319,7 +319,7 @@ $$
 
 ---
 
-#### 6.4.7.5 Optical fibre
+#### Optical fibre
 
 Transmitting the signals through optical fibres is possible due to the phenomenon of total internal reflection. Optical fibres consist of inner part called core and outer part called cladding (or) sleaving. The refractive index of the core must be higher than that of the cladding for total internal reflection to happen. Signal in the form of light is made to incident inside the core-cladding boundary at an angle greater than the critical angle. Hence, it advances with repeated total internal reflections inside the optical fibre without undergoing any refraction. The light travels inside the core with no appreciable loss in the intensity of the light.
 
@@ -327,7 +327,7 @@ Transmitting the signals through optical fibres is possible due to the phenomeno
 
 While bending the optical fibre, it is done in such a way that the condition for total internal reflection is ensured at every reflection inside the fibre.
 
-#### 6.4.7.6 Acceptance angle in optical fibre
+#### Acceptance angle in optical fibre
 
 To ensure the critical angle incidence in the core-cladding boundary inside the optical fibre, the light should be incident at a certain angle called acceptance angle at the end of the optical fibre while entering into it. It depends on the refractive indices of the core \(n_1\), cladding \(n_2\) and the outer medium \(n_3\). Assume that the light is incident at an angle called acceptance angle \(i_a\) at the outer medium-core boundary at A.
 
@@ -407,7 +407,7 @@ $$
 
 ---
 
-### 6.4.8 Lateral displacement in glass slab
+### Lateral displacement in glass slab
 
 When a ray of light passes through a glass slab of thickness \(t\) and refractive index \(n\), it gets laterally displaced. The lateral displacement depends upon (i) the thickness of the slab, (ii) the angle of incidence and (iii) the refractive index of the slab. The derivation for lateral displacement is as follows.
 

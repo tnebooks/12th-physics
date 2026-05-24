@@ -3,7 +3,7 @@ title: "Oscillation In Lc Circuits"
 weight: 9
 ---
 
-### 4.9.1 Energy conversion during LC oscillations
+### Energy conversion during LC oscillations
 
 We have learnt that energy can be stored in both inductors and capacitors. In inductors, the energy is stored in the form of magnetic field while in capacitors, it is stored as the electric field.
 
@@ -29,7 +29,7 @@ In the ideal LC circuit, there is no loss of energy. Therefore, the oscillations
 
 
 
-### 4.9.2 Conservation of energy in LC oscillations
+### Conservation of energy in LC oscillations
 
 During LC oscillations in LC circuits, the energy of the system oscillates between the electric field of the capacitor and the magnetic field of the inductor. Although, these two forms of energy vary with time, the total energy remains constant. It means that LC oscillations take place in accordance with the law of conservation of energy.
 
@@ -72,7 +72,7 @@ $$
 
 From above three cases, it is clear that the total energy of the system remains constant.
 
-### 4.9.3 Analogies between LC oscillations and simple harmonic oscillations
+### Analogies between LC oscillations and simple harmonic oscillations
 
 #### Qualitative treatment
 

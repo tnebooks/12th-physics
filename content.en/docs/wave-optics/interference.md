@@ -160,7 +160,7 @@ For \(\phi = \pi/3\), \(I = 4I_0 \cos^2(\pi/6) = 4I_0 \left(\frac{\sqrt{3}}{2}\r
 
 ---
 
-### 7.3.1 Phase difference and path difference
+### Phase difference and path difference
 
 Phase is the angular position of vibration when a wave progresses, there is a relation between the phase of the vibration and the path travelled by the wave. We can express the phase in terms of path and vice versa. In the path of the wave, one wavelength \(\lambda\) corresponds to a phase of \(2\pi\) as shown in Figure 7.7. A path difference \(\delta\) corresponds to a phase difference \(\phi\) as given by the equation,
 
@@ -200,7 +200,7 @@ $$
 
 ---
 
-### 7.3.2 Coherent sources
+### Coherent sources
 
 Two light sources are said to be coherent if they produce waves which have same phase or constant phase difference, same frequency or wavelength (monochromatic), same waveform and preferably same amplitude. Coherence is a property of waves that enables to obtain stationary interference patterns.
 
@@ -224,7 +224,7 @@ To obtain coherent light waves, we have the following three techniques.
 
 
 
-### 7.3.3 Double slit as coherent sources
+### Double slit as coherent sources
 
 Double slit uses the principle of wavefront division. Two slits \(S_1\) and \(S_2\) illuminated by a single monochromatic source S act as two coherent sources. The waves from them travel in the same medium and superpose. The constructive and destructive interference formed by them are shown in Figure 7.11(a). The crests of the waves are shown by thick continuous lines and troughs are shown by broken lines in Figure 7.11(b).
 
@@ -236,7 +236,7 @@ At points where the crest of one wave meets the trough of the other wave and vic
 
 On a screen the intensity of light will be alternative maximum and minimum strips i.e. bright and dark bands which are referred as interference fringes.
 
-### 7.3.4 Young's double slit experiment
+### Young's double slit experiment
 
 **Experimental setup**  
 Thomas Young, a British Physicist in 1801 used an opaque screen with two small openings called double slit \(S_1\) and \(S_2\) kept equidistance from a source S as shown in Figure 7.12. The width of each slit is about \(0.03\ \mathrm{mm}\) and they are separated by a distance of about \(0.3\ \mathrm{mm}\). As \(S_1\) and \(S_2\) are equidistant from S the same wavefront is cut by \(S_1\) and \(S_2\). The light waves at \(S_1\) and \(S_2\) are in-phase. So, \(S_1\) and \(S_2\) act as coherent sources which is the requirement for obtaining interference pattern.
@@ -376,7 +376,7 @@ Thus \(\frac{\beta'}{\beta} = \frac{\lambda'}{\lambda} = \frac{1}{\text{RI}}\) s
 
 ---
 
-### 7.3.5 Interference in white light (polychromatic light)
+### Interference in white light (polychromatic light)
 
 When a white light (polychromatic light) is used in interference experiment, coloured fringes of varied thickness will be formed on the screen. This is because, different colours have different wavelengths. However, the central fringe (or \(0^{\text{th}}\) fringe) will always be bright and white in colour, because all the colours falling at the point O will have no path difference with each other. Hence, only constructive interference is possible at O for all the colours.
 
@@ -402,7 +402,7 @@ The distance from central fringe is \(y = n\frac{\lambda_1 D}{d} = 3 \times \fra
 
 ---
 
-### 7.3.6 Interference in thin films
+### Interference in thin films
 
 A film of thickness in the order of \(1\ \mu\mathrm{m}\) is called a thin film. The brilliant colours seen in soap bubbles, oil films on water surface, and in the wing of a beetle are due to interference of light. These are examples of thin film interference. Let us consider a thin film of thickness \(d\) and refractive index \(\mu\). For simplicity, the incident light is assumed to be normal to the film as shown in Figure 7.16.
 

@@ -19,7 +19,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 01. Nanoscience and Nanotechnology
+## Nanoscience and Nanotechnology
 
 * Study of materials at nanoscale (1–100 nm)  
 * Unique properties at atomic level  
@@ -31,7 +31,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 02. Robotics
+## Robotics
 
 * Design and application of robots  
 * Combines physics, electronics, and AI  
@@ -43,7 +43,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 03. Space Science
+## Space Science
 
 * Study of universe beyond Earth  
 
@@ -56,7 +56,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 04. Particle Physics
+## Particle Physics
 
 * Study of fundamental particles  
 
@@ -68,7 +68,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 05. Medical Physics
+## Medical Physics
 
 * Application of physics in healthcare  
 
@@ -79,7 +79,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 06. Renewable Energy
+## Renewable Energy
 
 * Clean energy sources  
 
@@ -90,7 +90,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 07. Information and Communication Technology
+## Information and Communication Technology
 
 * Data transmission and processing  
 
@@ -101,7 +101,7 @@ This chapter explores how **modern physics drives technological advancements** i
 
 ---
 
-## 08. Laser Technology
+## Laser Technology
 
 * Light amplification by stimulated emission  
 

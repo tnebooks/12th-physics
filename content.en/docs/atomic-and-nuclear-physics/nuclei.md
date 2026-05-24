@@ -7,7 +7,7 @@ weight: 4
 
 In the previous section, we have discussed about various preliminary atom models, Rutherford's alpha particle scattering experiment and Bohr atom model. These played a vital role to understand the structure of the atom and the nucleus. In this section, the structure of the nuclei and their properties, classifications are discussed.
 
-### 9.4.1 Composition of nucleus
+### Composition of nucleus
 
 Atoms have a nucleus surrounded by electrons. The nucleus contains protons and neutrons. The neutrons are electrically neutral \((q = 0)\) and the protons have positive charge \((q = +e)\) equal in magnitude to the charge of the electron \((q = -e)\). The number of protons in the nucleus is called the atomic number and it is denoted by \(Z\). The number of neutrons in the nucleus is called neutron number \((N)\). The total number of neutrons and protons in the nucleus is called the mass number and it is denoted by \(A\). Hence, \(A = Z + N\).
 
@@ -23,7 +23,7 @@ where \(X\) is the chemical symbol of the element, \(A\) is the mass number and 
 
 Since the nucleus is made up of positively charged protons and electrically neutral neutrons, the overall charge of the nucleus is positive and it has the value \(+Ze\). But the atom is electrically neutral which implies that the number of electrons in the atom is equal to the number of protons in the nucleus.
 
-### 9.4.2 Isotopes, isobars, and isotones
+### Isotopes, isobars, and isotones
 
 #### Isotopes:
 
@@ -41,7 +41,7 @@ Isobars are the atoms of different elements having the same mass number \(A\), b
 
 Isotones are the atoms of different elements having same number of neutrons. \({}^{12}_{5}B\) and \({}^{13}_{6}C\) are examples of isotones with 7 neutrons each.
 
-### 9.4.3 Atomic and nuclear masses
+### Atomic and nuclear masses
 
 The mass of nuclei is very small (about \(10^{-25}\ \mathrm{kg}\) or less). Therefore, it is more convenient to express it in terms of another unit namely, the atomic mass unit \((u)\). One atomic mass unit \((u)\) is defined as the \((1/12)^{\text{th}}\) of the mass of the isotope of carbon \({}^{12}_{6}C\) which is more abundant in naturally occurring isotope of carbon.
 
@@ -69,7 +69,7 @@ In fact, the chemist uses the average atomic mass or simply called chemical atom
 
 ---
 
-### 9.4.4 Size and density of the nucleus
+### Size and density of the nucleus
 
 The alpha particle scattering experiment and many other measurements using different methods have been carried out on the nuclei of various atoms. The nuclei of atoms are found to be approximately spherical in shape. It is experimentally found that radius of nuclei for \(Z > 10\), satisfies the following empirical formula
 
@@ -120,7 +120,7 @@ It implies that nucleons are extremely tightly packed or compressed state in the
 
 ---
 
-### 9.4.5 Mass defect and binding energy
+### Mass defect and binding energy
 
 It is experimentally found out that the mass of any nucleus is always less than the sum of the masses of its individual constituent particles. For example, consider the carbon‑12 nucleus which is made up of 6 protons and 6 neutrons.  
 Mass of 6 neutrons \(= 6\times 1.00866u = 6.05196u\)  
@@ -178,7 +178,7 @@ $$
 
 ---
 
-### 9.4.6 Binding energy curve
+### Binding energy curve
 
 In the previous section, the origin of the binding energy is discussed. Now we can find the average binding energy per nucleon \(\overline{BE}\). It is given by
 
