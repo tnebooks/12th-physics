@@ -5,7 +5,7 @@ weight: 3
 
 Light travels with the highest speed in vacuum. The speed of light in vacuum is denoted as \(c\) and its value is \(c = 3\times 10^{8}\ \mathrm{ms^{-1}}\). The earliest attempt to determine the speed of light was made by a French scientist Hippolyte Fizeau (1819-1896). That paved way for the other scientists too to determine the speed of light.
 
-### 6.3.1 Fizeau's method to determine speed of light
+### Fizeau's method to determine speed of light
 
 **Apparatus:** The apparatus used by Fizeau for determining speed of light in air medium is shown. The light from the source \(S\) was first allowed to fall on a partially silvered glass plate G kept at an angle of \(45^\circ\) to the incident light. The light then was allowed to pass through a rotating toothed-wheel with N teeth and N cuts of equal widths whose speed of rotation could be varied through an external mechanism (not shown). The light passing through one cut in the wheel will get reflected by a mirror M kept at a long distance \(d\) about \(8\ \mathrm{km}\) from the toothed-wheel. If the toothed-wheel was not rotating, the light reflected back from the mirror would again pass through the same cut and reach the eyes of the observer who looks through the partially silvered glass plate.
 
@@ -53,11 +53,11 @@ Fizeau had some difficulty to visually estimate the minimum intensity of the lig
 
 
 
-### 6.3.2 Speed of light through vacuum and different media
+### Speed of light through vacuum and different media
 
 Scientists like Foucault (1819-1868) and Michelson (1852-1931) introduced different transparent media like glass, water etc., in the path of light to find the speed of light in different media. Even evacuated glass tubes were also introduced in the path of light to find the speed of light in vacuum. It was found that light travels with lesser speed in any medium than its speed in vacuum. The speed of light in vacuum was determined as \(c = 3 \times 10^{8}\ \mathrm{m\ s^{-1}}\). We could notice that the speed of light in vacuum and speed of light in air are almost same.
 
-### 6.3.3 Refractive index
+### Refractive index
 
 Refractive index of a transparent medium is defined as the ratio of speed of light in vacuum \(c\) to the speed of light in that medium \(v\).
 
@@ -65,7 +65,7 @@ $$
 \text{refractive index } n \text{ of a medium} = \frac{\text{speed of light in vacuum } (c)}{\text{speed of light in medium } (v)} \tag{6.16}
 $$
 
-### 6.3.4 Optical path
+### Optical path
 
 Optical path is defined as the equivalent distance travelled in vacuum in the same time that light takes to travel a distance \(d\) in a medium of refractive index \(n\). Let light travel with speed \(v\) in a medium of refractive index \(n\) and cover a distance \(d\) in time \(t\). Then,
 

@@ -3,17 +3,17 @@ title: "Ac Generator"
 weight: 5
 ---
 
-### 4.5.1 Introduction
+### Introduction
 
 AC generator or alternator is an energy conversion device. It converts mechanical energy used to rotate the coil or field magnet into electrical energy. Alternator produces a large scale electrical power for use in homes and industries. AC generator and its components are shown.
 
 
 
-### 4.5.2 Principle
+### Principle
 
 Alternators work on the principle of electromagnetic induction. The relative motion between a conductor and a magnetic field changes the magnetic flux linked with the conductor which in turn, induces an emf. The magnitude of the induced emf is given by Faraday's law of electromagnetic induction and its direction by Fleming's right hand rule.
 
-### 4.5.3 Construction
+### Construction
 
 Alternator consists of two major parts, namely stator and rotor. As their names suggest, stator is stationary while rotor rotates inside the stator. In any standard construction of commercial alternators, the armature winding is mounted on stator and the field magnet on rotor.
 
@@ -31,7 +31,7 @@ Rotor contains magnetic field windings. The magnetic poles are magnetized by DC 
 
 
 
-### 4.5.4 Advantages of stationary armature-rotating field alternator
+### Advantages of stationary armature-rotating field alternator
 
 Alternators are generally high current and high voltage machines. The stationary armature-rotating field construction has many advantages. A few of them include:
 
@@ -40,7 +40,7 @@ Alternators are generally high current and high voltage machines. The stationary
 3. The number of sliding contacts (slip rings) is reduced. Moreover, the sliding contacts are used for low-voltage DC Source.
 4. Armature windings can be constructed more rigidly to prevent deformation due to any mechanical stress.
 
-### 4.5.5 Single phase AC generator
+### Single phase AC generator
 
 In a single phase AC generator, the armature conductors are connected in series so as to form a single circuit which generates a single-phase alternating emf and hence it is called single-phase alternator.
 
@@ -63,13 +63,13 @@ On completion of \(360^\circ\), the induced emf becomes zero and is represented 
 
 
 
-### 4.5.6 Poly-phase AC generator
+### Poly-phase AC generator
 
 Some AC generators may have more than one coil in the armature core and each coil produces an alternating emf. In these generators, more than one emf is produced. Thus they are called poly-phase generators.
 
 If there are two alternating emfs produced in a generator, it is called two-phase generator. In some AC generators, there are three separate coils, which would give three separate emfs. Hence they are called three-phase AC generators.
 
-### 4.5.7 Three-phase AC generator
+### Three-phase AC generator
 
 In the simplified construction of three-phase AC generator, the armature core has 6 slots, cut on its inner rim. Each slot is \(60^\circ\) away from one another. Six armature conductors are mounted in these slots. The conductors 1 and 4 are joined in series to form coil 1. The conductors 3 and 6 form coil 2 while the conductors 5 and 2 form coil 3. So, these coils are rectangular in shape and are \(120^\circ\) apart from one another.
 
@@ -81,7 +81,7 @@ The corresponding cycle for alternating emf \(\epsilon_2\) in coil 2 starts at p
 
 
 
-### 4.5.8 Advantages of three-phase alternator
+### Advantages of three-phase alternator
 
 Three-phase system has many advantages over single-phase system. Let us see a few of them.
 

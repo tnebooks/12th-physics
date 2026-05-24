@@ -3,11 +3,11 @@ title: "Magnetic Effects Of Electric Current"
 weight: 7
 ---
 
-### 3.7.1 Oersted experiment
+### Oersted experiment
 
 In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor. When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory 'electromagnetism' which unifies two branches in physics namely, electricity and magnetism.
 
-### 3.7.2 Magnetic field around a straight current-carrying conductor and circular loop
+### Magnetic field around a straight current-carrying conductor and circular loop
 
 #### (a) Current carrying straight conductor:
 
@@ -21,7 +21,7 @@ Suppose we keep a magnetic compass near a current carrying circular conductor, t
 
 The strength of the magnetic field is increased if either the current in the coil or the number of turns or both are increased. The polarity (north pole or south pole) depends on the direction of current in the loop.
 
-### 3.7.3 Right hand thumb rule
+### Right hand thumb rule
 
 The right hand rule is used to find the direction of magnetic field when the direction of current in a conductor is known.
 
@@ -35,6 +35,6 @@ The magnetic field shown in the figure is due to the current carrying wire. In w
 
 Using right hand rule, current flows upwards.
 
-### 3.7.4 Maxwell's right hand cork screw rule
+### Maxwell's right hand cork screw rule
 
 This rule can also be used to find the direction of the magnetic field around the current-carrying conductor. If we rotate a right-handed screw using a screw driver, then the direction of current is same as the direction in which screw advances and the direction of rotation of the screw gives the direction of the magnetic field.

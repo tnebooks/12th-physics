@@ -3,7 +3,7 @@ title: "Self-induction"
 weight: 3
 ---
 
-### 4.3.1 Introduction
+### Introduction
 
 Inductor is a device used to store energy in a magnetic field when an electric current flows through it. The typical examples are coils, solenoids and toroids.
 
@@ -63,7 +63,7 @@ The inductance plays the same role in a circuit as mass and moment of inertia pl
 
 Thus, inductance of the coil opposes any change in current and tries to maintain the original state.
 
-### 4.3.2 Self-inductance of a long solenoid
+### Self-inductance of a long solenoid
 
 Consider a long solenoid of length \(l\) and cross-sectional area \(A\). Let \(n\) be the number of turns per unit length (or turn density) of the solenoid. When an electric current \(i\) is passed through the solenoid, a magnetic field produced inside is almost uniform and is directed along the axis of the solenoid. The magnetic field at any point inside the solenoid is given by
 
@@ -179,7 +179,7 @@ $$
 
 ---
 
-### 4.3.3 Mutual induction
+### Mutual induction
 
 When an electric current passing through a coil changes with time, an emf is induced in the neighbouring coil. This phenomenon is known as mutual induction and the emf induced is called mutually induced emf.
 
@@ -231,7 +231,7 @@ If \(\frac{di_1}{dt} = 1\ \mathrm{A\ s^{-1}}\) and \(\epsilon_2 = -1\ \mathrm{V}
 
 Therefore, the mutual inductance between two neighbouring coils is one henry if a current changing at the rate of 1 A \(\mathrm{s^{-1}}\) in one coil induces an opposing emf of 1V in neighbouring coil.
 
-### 4.3.4 Mutual inductance between two long co-axial solenoids
+### Mutual inductance between two long co-axial solenoids
 
 Consider two long co-axial solenoids of same length \(l\). The length of these solenoids is large when compared to their radii so that the magnetic field produced inside the solenoids is uniform and the fringing effect at the ends may be ignored. Let \(A_1\) and \(A_2\) be the area of cross section of the solenoids with \(A_1\) being greater than \(A_2\). The turn density of these solenoids are \(n_1\) and \(n_2\) respectively.
 

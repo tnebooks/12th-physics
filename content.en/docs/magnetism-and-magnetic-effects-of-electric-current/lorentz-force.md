@@ -11,7 +11,7 @@ $$
 
 In general, if the charge is moving in both the electric and magnetic fields, the total force experienced by the charge is given by \(\vec{F} = q(\vec{E} + \vec{v} \times \vec{B})\). It is known as Lorentz force.
 
-### 3.10.1 Force on a moving charge in a magnetic field
+### Force on a moving charge in a magnetic field
 
 When an electric charge \(q\) is moving with velocity \(\vec{v}\) in the magnetic field \(\vec{B}\), it experiences a force, called magnetic force \(\vec{F}_m\). After careful experiments, Lorentz deduced the force experienced by a moving charge in the magnetic field \(\vec{F}_m\)
 
@@ -87,7 +87,7 @@ $$
 \frac{dW}{dt} = P = 0
 $$
 
-### 3.10.2 Motion of a charged particle in a uniform magnetic field
+### Motion of a charged particle in a uniform magnetic field
 
 Consider a charged particle of charge \(q\) having mass \(m\) entering into a region of uniform magnetic field \(\bar{B}\) with velocity \(\bar{v}\) such that velocity is perpendicular to the magnetic field. As soon as the particle enters into the field, Lorentz force acts on it in a direction perpendicular to both magnetic field \(\bar{B}\) and velocity \(\bar{v}\).
 
@@ -260,7 +260,7 @@ $$
 
 Note that even though the difference between mass of two isotopes are very small, this arrangement helps us to convert this small difference into an easily measurable distance of separation. This arrangement is known as mass spectrometer. A mass spectrometer is used in many areas in sciences, especially in medicine, in space science, in geology etc. For example, in medicine, anaesthesiologists use it to measure the respiratory gases and biologist use it to determine the reaction mechanisms in photosynthesis.
 
-### 3.10.3 Motion of a charged particle under crossed electric and magnetic field (velocity selector)
+### Motion of a charged particle under crossed electric and magnetic field (velocity selector)
 
 Let us consider an experimental arrangement to illustrate velocity selector. In the region of space between the parallel plates of a capacitor which produce uniform electric field \(\vec{E}\), a uniform magnetic field \(\vec{B}\) is maintained perpendicular to the direction of electric field.
 
@@ -317,7 +317,7 @@ $$
 V = \frac{1}{2} \frac{m v^2}{e} = \frac{(9.1 \times 10^{-31}) \times (7.23 \times 10^6)^2}{2 \times (1.6 \times 10^{-19})} = 148.65 \mathrm{V}
 $$
 
-### 3.10.4 Cyclotron
+### Cyclotron
 
 Cyclotron is a device used to accelerate the charged particles to gain large kinetic energy. It is also called as high energy accelerator. It was invented by Lawrence and Livingston in 1934.
 
@@ -386,7 +386,7 @@ $$
 f = \frac{qB}{2\pi m_p} = \frac{(1.60 \times 10^{-19})(1)}{2(3.14)(1.67 \times 10^{-27})} = 15.3 \times 10^6\mathrm{Hz} = 15.3\mathrm{MHz}
 $$
 
-### 3.10.5 Force on a current carrying conductor placed in a magnetic field
+### Force on a current carrying conductor placed in a magnetic field
 
 When a current carrying conductor is placed in a magnetic field, the force experienced by the conductor is equal to the sum of Lorentz forces on the individual charge carriers in the conductor. Consider a small segment of conductor of length \(dl\), with cross-sectional area \(A\) and current \(I\). The free electrons drift opposite to the direction of current. So the relation between current \(I\) and magnitude of drift velocity \(v_d\) is
 
@@ -471,7 +471,7 @@ $$
 
 So, we need to supply current of 9.8 A to keep the metallic rod stationary.
 
-### 3.10.6 Force between two long parallel current carrying conductors
+### Force between two long parallel current carrying conductors
 
 Let two long straight parallel current carrying conductors separated by a distance \(r\) be kept in air medium. Let \(I_1\) and \(I_2\) be the electric currents passing through the conductors A and B in same direction (i.e. along z-direction) respectively. The net magnetic field at a distance \(r\) due to current \(I_1\) in conductor A is
 

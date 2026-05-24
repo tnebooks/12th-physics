@@ -3,7 +3,7 @@ title: "Types Of Semiconductors"
 weight: 2
 ---
 
-### 10.2.1 Intrinsic semiconductors
+### Intrinsic semiconductors
 
 A semiconductor in its pure form without any impurity is called an intrinsic semiconductor. Here, impurity means presence of any other foreign atom in the crystal lattice. The silicon lattice is shown in Figure 10.3(a). Each silicon atom has four electrons in the outermost orbit and is covalently bonded with four neighbouring atoms to form the lattice. The band diagram for this case is shown in Figure 10.3(b).
 
@@ -21,7 +21,7 @@ The total current \(I\) is always the sum of the electron current and the hole c
 
 An intrinsic semiconductor behaves like an insulator at \(0\ \mathrm{K}\). The increase in temperature increases the number of charge carriers (electrons and holes). The schematic diagram of the intrinsic semiconductor in band diagram is shown in Figure 10.4(b). The intrinsic carrier concentration is the number of electrons in the conduction band or the number of holes in the valence band in an intrinsic semiconductor.
 
-### 10.2.2 Extrinsic semiconductors
+### Extrinsic semiconductors
 
 The carrier concentration in an intrinsic semiconductor is not sufficient enough to develop efficient electronic devices. Another way of increasing the carrier concentration in an intrinsic semiconductor is by adding impurity atoms.
 

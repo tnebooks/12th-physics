@@ -8,6 +8,6 @@ summary: "This unit introduces the fundamentals of magnetism, starting with the 
 
 
 
-# 3. MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT
+# MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT
 
 > "The magnetic force is animate, or imitates a soul; in many respects it surpasses the human soul while it is united to an organic body" - William Gilbert

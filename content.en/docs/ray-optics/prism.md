@@ -7,7 +7,7 @@ A prism is a triangular block of transparent glass. It is bounded by the three p
 
 
 
-### 6.7.1 Angle of deviation produced by prism
+### Angle of deviation produced by prism
 
 Consider a prism ABC. The faces AB and AC are polished and the face BC is rough. Let light ray PQ is incident on one of the refracting faces of the prism. The angles of incidence and refraction at the first face AB are \(i_1\) and \(r_1\). The path of the light inside the prism is QR. The angles of incidence and refraction at the second face AC are \(r_2\) and \(i_2\) respectively. RS is the ray emerging from the second face. Angle \(i_2\) is also called as angle of emergence. The angle between the direction of incident ray and the emergent ray is called the angle of deviation \(d\) in a prism.
 
@@ -57,7 +57,7 @@ Thus \(n = \frac{1}{\sin i_c} = \frac{1}{\sin 60^\circ} = \frac{2}{\sqrt{3}} \ap
 
 ---
 
-### 6.7.2 Angle of minimum deviation
+### Angle of minimum deviation
 
 A graph plotted between the angle of incidence and angle of deviation shows that the angle of deviation decreases with increase in angle of incidence and reaches a minimum value D and then continues to increase.
 
@@ -70,7 +70,7 @@ The minimum value of angle of deviation is called angle of minimum deviation D. 
 
 
 
-### 6.7.3 Refractive index of the material of the prism
+### Refractive index of the material of the prism
 
 At minimum deviation,
 $$
@@ -97,7 +97,7 @@ $$
 
 ---
 
-### 6.7.4 Dispersion of white light through prism
+### Dispersion of white light through prism
 
 When white light enters a prism, an effect called dispersion takes place. Dispersion is splitting of white light into its constituent colours. This band of colours of light is called its spectrum. When a narrow beam of parallel rays of white light is incident on a prism, a band of colours is obtained in the order VIBGYOR (Violet, Indigo, Blue, Green, Yellow, Orange, Red). Violet is the most deviated colour and red is the least deviated.
 
@@ -114,7 +114,7 @@ Each colour in vacuum has a definite wavelength. Red has the longest wavelength 
 | Yellow | 589.3 | 1.517 | 1.627 |
 | Red | 656.3 | 1.515 | 1.622 |
 
-### 6.7.5 Dispersive Power
+### Dispersive Power
 
 Consider a beam of white light passing through a prism. If the angle of prism is small (of the order of \(10^\circ\)), the prism is said to be a small angle prism. For a small angle prism, the angle of minimum deviation also becomes small. For small angles, \(\sin \theta \approx \theta\). Then from (6.89), \(n \approx \frac{(A+D)/2}{A/2} = \frac{A+D}{A} = 1 + \frac{D}{A}\), so
 
@@ -152,7 +152,7 @@ $$
 
 ---
 
-### 6.7.6 Scattering of sunlight
+### Scattering of sunlight
 
 When sunlight enters the atmosphere of earth, the particles present in the atmosphere change the direction of the light. This process is known as scattering of light.
 

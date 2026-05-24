@@ -3,7 +3,7 @@ title: "Electric Dipole And Its Properties"
 weight: 4
 ---
 
-### 1.4.1 Electric dipole
+### Electric dipole
 
 Two equal and opposite charges separated by a small distance constitute an electric dipole. In many molecules, the centres of positive and negative charge do not coincide. Such molecules behave as permanent dipoles. Examples: CO, water, ammonia, HCl etc.
 
@@ -65,7 +65,7 @@ The water molecule \(\mathrm{H}_{2}\mathrm{O}\) has this charge configuration. T
 
 ![](a6.png)
 
-### 1.4.2 Electric field due to a dipole
+### Electric field due to a dipole
 
 **Case (i) Electric field due to an electric dipole at points on the axial line**
 
@@ -167,7 +167,7 @@ $$
 
 (ii) At very large distances, the electric field due to a dipole varies as \(\frac{1}{r^{3}}\). Note that for a point charge, the electric field varies as \(\frac{1}{r^{2}}\).
 
-### 1.4.3 Torque experienced by an electric dipole in the uniform electric field
+### Torque experienced by an electric dipole in the uniform electric field
 
 Consider an electric dipole of dipole moment \(\vec{p}\) placed in a uniform electric field \(\vec{E}\) whose field lines are equally spaced and point in the same direction. The charge \(+q\) will experience a force \(q\vec{E}\) in the direction of the field and charge \(-q\) will experience a force \(-q\vec{E}\) in a direction opposite to the field. Since the external field \(\vec{E}\) is uniform, the total force acting on the dipole is zero. These two forces acting at different points will constitute a couple and the dipole experience a torque. This torque tends to rotate the dipole. (Note that electric field lines of a uniform field are equally spaced and point in the same direction).
 

@@ -5,7 +5,7 @@ weight: 5
 
 Digital Electronics is the branch of electronics which deals with digital signals. It is increasingly used in numerous applications ranging from high end processor circuits to miniature circuits for signal processing, communication etc. Digital signals are preferred over analog signals due to their better performance, accuracy, speed, flexibility and immunity to noise.
 
-### 10.5.1 Analog and Digital Signals
+### Analog and Digital Signals
 
 There are 2 different types of signals used in Electronics. They are (i) Analog signals and (ii) Digital signals. An analog signal is a continuously varying voltage or current with respect to time. Such signals are employed in rectifying circuits and transistor amplifier circuits.
 
@@ -17,7 +17,7 @@ In digital systems, there exists two voltage levels: \(5\ \mathrm{V}\) (high) an
 
 
 
-### 10.5.2 Logic gates
+### Logic gates
 
 A logic gate is an electronic circuit whose function is based on digital signals. They are binary in nature. The logic gates are considered as the basic building blocks of most of the digital systems. They have one output with one or more inputs. There are three types of basic logic gates: AND, OR, and NOT. The other logic gates are Ex‑OR, NAND, and NOR. They can be constructed from the basic logic gates.
 

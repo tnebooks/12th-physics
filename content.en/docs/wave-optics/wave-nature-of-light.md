@@ -5,7 +5,7 @@ weight: 2
 
 Light is a transverse, electromagnetic wave. The wave nature of light was first demonstrated through experiments like interference and diffraction. The transverse nature of light is demonstrated in polarization. Like all electromagnetic waves, light can travel through vacuum.
 
-### 7.2.1 Wave optics
+### Wave optics
 
 Wave optics deals with the wave characteristics of light. Even the law of reflection and refraction are proved only with the help of wave optics. Though light propagates as a wave, its direction of propagation is still represented as a ray.
 
@@ -19,7 +19,7 @@ The shape of a wavefront observed at a point depends on the shape of the source 
 
 
 
-### 7.2.2 Huygens' Principle
+### Huygens' Principle
 
 Huygens principle is basically a geometrical construction which gives the shape of the wavefront at any time if we know its shape at \(t = 0\). According to Huygens principle, each point on the wavefront behaves as the source of secondary wavelets spreading out in all directions with the speed of the wave. These are called as secondary wavelets. The envelope to all these wavelets gives the position and shape of the new wavefront at a later time. Thus, Huygens' principle explains the propagation of a wavefront.
 
@@ -29,7 +29,7 @@ The propagation of a spherical and plane wavefront can be explained using Huygen
 
 There is one shortcoming in the above Huygens' construction for propagation of a wavefront. It could not explain the absence of backward wave which also arises in the above construction. According to electromagnetic wave theory, the backward wave is ruled out inherently. However, Huygens' principle is a good diagrammatic construction which explains the propagation of the wavefront.
 
-### 7.2.3 Proof for laws of reflection using Huygens' Principle
+### Proof for laws of reflection using Huygens' Principle
 
 Let us consider a parallel beam of light is incident on a reflecting plane surface such as a plane mirror XY as shown in Figure 7.4. The incident wavefront is AB and the reflected wavefront is A'B'. These wavefronts are perpendicular to the incident rays L, M and reflected rays L', M' respectively. By the time point A of the incident wavefront touches the reflecting surface, the point B is yet to travel a distance BB' to touch the reflecting surface at B'. When the point B touches the reflecting surface at B', the point A would have reached A'. This is applicable to all the points on the wavefront. Thus, the reflected wavefront A'B' emanates as a plane wavefront. The two normals N and N' are considered at the points where the rays L and M fall on the reflecting surface. As reflection happens in the same medium, the speed of light is same before and after the reflection. The time taken for the light to travel from B to B' and A to A' are the same. Thus, the distance BB' is equal to the distance AA'; \((AA' = BB')\).
 
@@ -57,7 +57,7 @@ $$
 
 Hence, the laws of reflection are proved.
 
-### 7.2.4 Proof for laws of refraction using Huygens' Principle
+### Proof for laws of refraction using Huygens' Principle
 
 Let us consider a parallel beam of light is incident on a refracting plane surface XY such as a glass as shown in Figure 7.5. The incident wavefront AB is in rarer medium (1) and the refracted wavefront A'B' is in denser medium (2). These wavefronts are perpendicular to the incident rays L, M and refracted rays L', M' respectively. By the time the point A of the incident wavefront touches the refracting surface, the point B is yet to travel a distance BB' to touch the refracting surface at B'. When the point B touches the refracting surface at B', the point A would have reached A' in the other medium. This is applicable to all the points on the wavefront. Thus, the refracted wavefront A'B' emanates as a plane wavefront. The two normals N and N' are considered at the points where the rays L and M fall on the refracting surface. As refraction happens from rarer medium (1) to denser medium (2), the speed of light is \(v_1\) and \(v_2\) before and after refraction and \(v_1\) is greater than \(v_2\) \((v_1 > v_2)\). But, the time taken \(t\) for the ray to travel from B to B' is the same as the time taken for the ray to travel from A to A'.
 

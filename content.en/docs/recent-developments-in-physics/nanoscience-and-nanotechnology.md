@@ -3,7 +3,7 @@ title: "Nanoscience And Nanotechnology"
 weight: 2
 ---
 
-### 11.2.1 Nanoscience
+### Nanoscience
 
 Nanoscience is the study of structures and materials on the scale of nanometers. Nano means one‑billionth of a meter that is \(10^{-9}\ \mathrm{m}\).
 
@@ -19,17 +19,17 @@ The solids are made up of particles. Each of the particle has a definite number 
 
 In the nano scale dimensions (reduced dimensions), two important phenomena govern nano properties. They are quantum confinement effects and surface effects. Students can explore these effects in higher education and the explanation is avoided at school level.
 
-### 11.2.2 Interdisciplinary nature of Nanotechnology
+### Interdisciplinary nature of Nanotechnology
 
 
 
-### 11.2.3 Nano in Nature
+### Nano in Nature
 
 Nanoscale structures existed in nature long before scientists began studying them in laboratories.
 
 
 
-### 11.2.4 Early beginning and development (Not for examination)
+### Early beginning and development (Not for examination)
 
 | Year | Event |
 |------|-------|
@@ -41,7 +41,7 @@ Nanoscale structures existed in nature long before scientists began studying the
 | 2004 | 2D material was isolated and characterized in 2004 by Andre Geim and Konstantin Novoselov at the University of Manchester. This work won the Nobel Prize in Physics in 2010. |
 | 2016 | Jean‑Pierre Sauvage, J. Fraser Stoddart, and Bernard Feringa won the Nobel Prize in Chemistry for their research in developing Nano‑scale machines including a 'nanocar' |
 
-### 11.2.5 Nano in laboratories
+### Nano in laboratories
 
 The nanostructures made in the laboratory mimic some of nature's amazing nanostructures. As the nanostructures are so small, specialized methods are needed to manufacture objects in this size range. There are two ways of preparing the nanomaterials, top down and bottom up approaches.
 
@@ -49,13 +49,13 @@ The nanostructures made in the laboratory mimic some of nature's amazing nanostr
 
 Due to the vast available methods the details are avoided at this level.
 
-### 11.2.6 Applications of Nano technology
+### Applications of Nano technology
 
 
 
 
 
-### 11.2.7 Possible harmful effects of nanoparticles
+### Possible harmful effects of nanoparticles
 
 The research on the harmful impact of application of nanotechnology is also equally important and fast developing. The major concern here is that the nanoparticles have the dimensions same as that of the biological molecules such as proteins. They may easily get absorbed onto the surface of living organisms and they might enter the tissues and fluids of the body.
 

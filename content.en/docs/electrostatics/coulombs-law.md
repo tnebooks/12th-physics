@@ -232,7 +232,7 @@ The electrostatic force between a proton and an electron is enormously greater t
 ![Figure 1.3 Electrostatic attraction between a comb and pieces of papers](G.png)
 
 
-### 1.2.1 Superposition principle
+### Superposition principle
 
 Coulomb's law explains the interaction between two point charges. If there are more than two charges, the force on one charge due to all the other charges needs to be calculated. Coulomb's law alone does not give the answer. The superposition principle explains the interaction between multiple charges.
 

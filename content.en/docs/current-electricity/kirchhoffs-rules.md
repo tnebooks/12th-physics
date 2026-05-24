@@ -5,7 +5,7 @@ weight: 5
 
 Ohm's law is useful only for simple circuits. For more complex circuits, Kirchhoff's rules can be used to find current and voltage. There are two generalized rules: i) Kirchhoff's current rule ii) Kirchhoff's voltage rule.
 
-### 2.5.1 Kirchhoff's first rule (Current rule or Junction rule)
+### Kirchhoff's first rule (Current rule or Junction rule)
 
 It states that the algebraic sum of the currents at any junction of a circuit is zero. It is a statement of law of conservation of electric charge. The charges that enter a given junction in a circuit must leave that junction since charge cannot build up or disappear at a junction. By convention, current entering the junction is taken as positive and current leaving the junction is taken as negative.
 
@@ -34,7 +34,7 @@ The arrows pointing towards P are positive and away from P are negative.
 \(0.6A - I = 0\)
 \(I = 0.6A\)
 
-### 2.5.2 Kirchhoff's Second rule (Voltage rule or Loop rule)
+### Kirchhoff's Second rule (Voltage rule or Loop rule)
 
 It states that in a closed circuit the algebraic sum of the products of the current and resistance of each part of the circuit is equal to the total emf included in the circuit. This rule follows from the law of conservation of energy for an isolated system (The energy supplied by the emf sources is equal to the sum of the energy delivered to all resistors). The product of current and resistance is taken as positive when the direction of the current is followed. Suppose if the direction of current is opposite to the direction of the loop, then product of current and voltage across the resistor is negative. It is shown in Figure 2.24 (a) and (b). The emf is considered positive when proceeding from the negative to the positive terminal of the cell. It is shown in Figure 2.24 (c) and (d).
 
@@ -86,7 +86,7 @@ Solving equation (1) and (2), we get
 
 It implies that the current in the 1 ohm resistor flows from F to E.
 
-### 2.5.3 Wheatstone's bridge
+### Wheatstone's bridge
 
 An important application of Kirchhoff's rules is the Wheatstone's bridge. It is used to compare resistances and in determining the unknown resistance in electrical network. The bridge consists of four resistances \(P\), \(Q\), \(R\) and \(S\) connected as shown in Figure 2.25. A galvanometer \(G\) is connected between the points \(B\) and \(D\). The battery is connected between the points \(A\) and \(C\). The current through the galvanometer is \(I_{G}\) and its resistance is \(G\).
 
@@ -173,7 +173,7 @@ $$
 x = 225\Omega
 $$
 
-### 2.5.4 Meter bridge
+### Meter bridge
 
 The meter bridge is another form of Wheatstone's bridge. It consists of a uniform wire of manganin AB of one meter length. This wire is stretched along a metre scale on a wooden board between two copper strips C and D. Between these two copper strips another copper strip E is mounted to enclose two gaps \(\mathrm{G_1}\) and \(\mathrm{G_2}\) as shown in Figure 2.26.
 
@@ -251,7 +251,7 @@ $$
 P = \frac{550}{45} = 12.2\Omega
 $$
 
-### 2.5.5 Potentiometer
+### Potentiometer
 
 Potentiometer is used for the accurate measurement of potential differences, current and resistances. It consists of ten meter long uniform wire of manganin or constantan stretched in parallel rows each of 1 meter length, on a wooden board. The two free ends A and B are brought to the same side and fixed to copper strips with binding screws. A meter scale is fixed parallel to the wire. A jockey is provided for making contact.
 
@@ -267,7 +267,7 @@ $$
 
 Since \(I\) and \(r\) are constants, \(\epsilon \propto l\). The emf of the cell is directly proportional to the balancing length.
 
-### 2.5.6 Comparison of emf of two cells with a potentiometer
+### Comparison of emf of two cells with a potentiometer
 
 To compare the emf of two cells, the circuit connections are made as shown in Figure 2.28. Potentiometer wire CD is connected to a battery \(B t\) and a key K in series. This is the primary circuit. The end C of the wire is connected to the terminal M of a DPDT (Double Pole Double Throw) switch and the other terminal N is connected to a jockey through a galvanometer G and a high resistance HR. The cells whose emf \(\epsilon_{1}\) and \(\epsilon_{2}\) to be compared are connected to the terminals \(\mathbf{M}_{1},\mathbf{N}_{1}\) and \(\mathbf{M}_{2},\mathbf{N}_{2}\) of the DPDT switch. The positive terminals of \(B t\), \(\epsilon_{1}\) and \(\epsilon_{2}\) should be connected to the same end C.
 
@@ -290,7 +290,7 @@ primary circuit, the experiment can be
 repeated several times by changing the
 current flowing through it
 
-### 2.5.7 Measurement of internal resistance of a cell by potentiometer
+### Measurement of internal resistance of a cell by potentiometer
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key \(\mathbf{K}_1\). This forms the primary circuit.
 

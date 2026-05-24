@@ -47,7 +47,7 @@ $$
 9\times 10^{-3} = 10^{-7}\times \frac{q_{m}^{2}}{(10\times 10^{-2})^{2}} \Rightarrow q_{m} = 30\mathrm{N T}^{-1}
 $$
 
-### 3.2.1 Magnetic field at a point along the axial line of the magnetic dipole (bar magnet)
+### Magnetic field at a point along the axial line of the magnetic dipole (bar magnet)
 
 Consider a bar magnet NS. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength \(q_{m}\) and are separated by a distance of \(2l\). The magnetic field at a point C (lies along the axis of the magnet) at a distance \(r\) from the geometrical centre O of the bar magnet can be computed by keeping unit north pole \((q_{m_{C}} = 1\) Am) at C.
 
@@ -105,7 +105,7 @@ $$
 
 where \(\vec{p}_{m} = p_{m}\hat{i}\).
 
-### 3.2.2 Magnetic field at a point along the equatorial line due to a magnetic dipole (bar magnet)
+### Magnetic field at a point along the equatorial line due to a magnetic dipole (bar magnet)
 
 Consider a bar magnet NS. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength \(q_{m}\) and separated by a distance of \(2l\). The magnetic field at a point C (lies along the equatorial line) at a distance \(r\) from the geometrical centre O of the bar magnet can be computed by keeping unit north pole \((q_{mC} = 1\mathrm{Am})\) at C.
 

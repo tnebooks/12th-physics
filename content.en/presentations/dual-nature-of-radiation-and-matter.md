@@ -19,7 +19,7 @@ This chapter introduces the idea that **radiation and matter exhibit both wave a
 
 ---
 
-## 01. Wave Nature of Light
+## Wave Nature of Light
 Light behaves like a wave.
 
 * Exhibits interference and diffraction
@@ -28,7 +28,7 @@ Light behaves like a wave.
 
 ---
 
-## 02. Particle Nature of Light
+## Particle Nature of Light
 Light behaves like particles called photons.
 
 * Each photon carries energy
@@ -38,7 +38,7 @@ Light behaves like particles called photons.
 
 ---
 
-## 03. Photoelectric Effect
+## Photoelectric Effect
 Emission of electrons from a metal surface when light falls on it.
 
 * Explained by **:contentReference[oaicite:1]{index=1}**
@@ -49,7 +49,7 @@ Emission of electrons from a metal surface when light falls on it.
 
 ---
 
-## 04. Einstein’s Photoelectric Equation
+## Einstein’s Photoelectric Equation
 
 :contentReference[oaicite:2]{index=2}
 
@@ -58,7 +58,7 @@ Emission of electrons from a metal surface when light falls on it.
 
 ---
 
-## 05. de Broglie Hypothesis
+## de Broglie Hypothesis
 Matter has wave nature.
 
 * Proposed by **:contentReference[oaicite:3]{index=3}**
@@ -68,7 +68,7 @@ Matter has wave nature.
 
 ---
 
-## 06. Davisson–Germer Experiment
+## Davisson–Germer Experiment
 Experimental proof of matter waves.
 
 * Electron diffraction observed
@@ -76,7 +76,7 @@ Experimental proof of matter waves.
 
 ---
 
-## 07. Wave-Particle Duality
+## Wave-Particle Duality
 Both light and matter show dual behavior.
 
 * Wave nature → interference, diffraction  

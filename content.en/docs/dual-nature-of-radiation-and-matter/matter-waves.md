@@ -3,7 +3,7 @@ title: "Matter Waves"
 weight: 3
 ---
 
-### 8.3.1 Introduction – Wave nature of particles
+### Introduction – Wave nature of particles
 
 So far, we learnt that the characteristics of particles and waves are different. A wave is specified by its frequency, wavelength, wave velocity, amplitude and intensity. It spreads out and occupies a relatively large region of space. A particle specified by its mass, velocity, momentum and energy occupies a definite position in space and is very small in size.
 
@@ -19,7 +19,7 @@ Greatly influenced by the symmetry in nature, de Broglie suggested that if radia
 
 According to de Broglie hypothesis, all material particles like electrons, protons, neutrons in motion are associated with waves. These waves are called de Broglie waves or matter waves.
 
-### 8.3.2 De Broglie wavelength
+### De Broglie wavelength
 
 The momentum of photon of frequency \(\nu\) is given by  
 $$
@@ -35,7 +35,7 @@ $$
 $$
 This wavelength of the matter waves is known as de Broglie wavelength. This equation relates the wave character (the wavelength \(\lambda\)) and the particle character (the momentum \(p\)) through Planck's constant.
 
-### 8.3.3 De Broglie wavelength of electrons
+### De Broglie wavelength of electrons
 
 Let an electron of mass \(m\) be accelerated through a potential difference of \(V\) volt. The kinetic energy acquired by the electron is given by  
 $$
@@ -60,7 +60,7 @@ $$
 \lambda = \frac{h}{\sqrt{2mK}} \tag{8.13}
 $$
 
-### 8.3.4 Davisson – Germer experiment
+### Davisson – Germer experiment
 
 Louis de Broglie hypothesis of matter waves was experimentally confirmed by Clinton Davisson and Lester Germer in 1927. They demonstrated that electron beams are diffracted when they fall on crystalline solids. Since crystal can act as a three‑dimensional diffraction grating for matter waves, the electron waves incident on crystals are diffracted off in certain specific directions. Figure 8.17 shows a schematic representation of the apparatus for the experiment.
 
@@ -86,7 +86,7 @@ $$
 $$
 This value agrees very well with the experimentally observed wavelength of \(1.65\ \mathrm{Å}\). Thus this experiment directly verifies de Broglie's hypothesis of the wave nature of moving particles.
 
-### 8.3.5 Electron Microscope
+### Electron Microscope
 
 #### Principle
 

@@ -19,7 +19,7 @@ This chapter deals with **magnetic fields produced by electric current** and the
 
 ---
 
-## 01. Magnetic Field
+## Magnetic Field
 Region around a magnet or current-carrying conductor where magnetic force is experienced.
 
 * Represented by magnetic field lines  
@@ -27,21 +27,21 @@ Region around a magnet or current-carrying conductor where magnetic force is exp
 
 ---
 
-## 02. Magnetic Field due to Current
+## Magnetic Field due to Current
 A current-carrying conductor produces a magnetic field.
 
 * Direction given by right-hand thumb rule  
 
 ---
 
-## 03. Biot–Savart Law
+## Biot–Savart Law
 Magnetic field due to a small current element.
 
 * Describes field variation with distance and current  
 
 ---
 
-## 04. Ampere’s Circuital Law
+## Ampere’s Circuital Law
 
 * Relates magnetic field with current  
 
@@ -49,7 +49,7 @@ Magnetic field due to a small current element.
 
 ---
 
-## 05. Magnetic Field in Special Cases
+## Magnetic Field in Special Cases
 
 ### Straight Conductor
 * Field decreases with distance  
@@ -62,14 +62,14 @@ Magnetic field due to a small current element.
 
 ---
 
-## 06. Force on Moving Charge
+## Force on Moving Charge
 A moving charge in magnetic field experiences force.
 
 :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 07. Force on Current-Carrying Conductor
+## Force on Current-Carrying Conductor
 
 :contentReference[oaicite:2]{index=2}
 
@@ -77,20 +77,20 @@ A moving charge in magnetic field experiences force.
 
 ---
 
-## 08. Torque on Current Loop
+## Torque on Current Loop
 
 :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 09. Moving Coil Galvanometer
+## Moving Coil Galvanometer
 
 * Detects small currents  
 * Works on magnetic effect of current  
 
 ---
 
-## 10. Magnetic Properties of Materials
+## Magnetic Properties of Materials
 
 * Diamagnetic  
 * Paramagnetic  

@@ -3,7 +3,7 @@ title: "Electric Field And Electric Field Lines"
 weight: 3
 ---
 
-### 1.3.1 Electric Field
+### Electric Field
 
 The interaction between two charges is determined by Coulomb's law. How does the interaction itself occur? Consider a point charge kept at a point in space. If another point charge is placed at some distance from the first point charge, it experiences either an attractive force or repulsive force. This is called 'action at a distance'. But how does the second charge know about existence of the first charge which is located at some distance away from it? To answer this question, Michael Faraday introduced the concept of field.
 
@@ -116,7 +116,7 @@ At the point Q the electric field is directed along the positive \(x\)-axis.
 
 ![](O.png)
 
-### 1.3.2 Electric field due to the system of point charges
+### Electric field due to the system of point charges
 
 Suppose a number of point charges are distributed in space. To find the electric field at some point P due to this collection of point charges, superposition principle is used. The electric field at an arbitrary point due to a collection of point charges is simply equal to the vector sum of the electric fields created by the individual point charges. This is called superposition of electric fields.
 
@@ -185,7 +185,7 @@ $$
 
 The electron is accelerated in a direction exactly opposite to \(\bar{E}_{A}\).
 
-### 1.3.3 Electric field due to continuous charge distribution
+### Electric field due to continuous charge distribution
 
 The electric charge is quantized microscopically. The expressions (1.2), (1.3), (1.4) are applicable to only point charges. While dealing with the electric field due to a charged sphere or a charged wire etc., it is very difficult to look at individual charges in these charged bodies. Therefore, it is assumed that charge is distributed continuously on the charged bodies and the discrete nature of charges is not considered here. The electric field due to such continuous charge distributions is found by invoking the method of calculus.
 
@@ -229,7 +229,7 @@ $$
 E = \frac{mg}{qL}
 $$
 
-### 1.3.4 Electric field lines
+### Electric field lines
 
 Electric field vectors are visualized by the concept of electric field lines. They form a set of continuous lines which are the visual representation of the electric field in some region of space. The following rules are followed while drawing electric field lines for charges.
 

@@ -31,7 +31,7 @@ The application of suitable DC voltages across the transistor terminals is calle
 
 **Cut‑off:** In this bias, the emitter‑base junction and collector‑base junction are reverse biased. Transistor in this mode acts an open switch.
 
-### 10.4.1 Transistor circuit configurations
+### Transistor circuit configurations
 
 There are three types of circuit connections for operating a transistor based on the terminal that is used in common to both input and output circuits.
 
@@ -53,7 +53,7 @@ Here, the collector is common to both the input and output circuits as shown in 
 
 
 
-### 10.4.2 Transistor action in the common base mode
+### Transistor action in the common base mode
 
 The operation of an NPN transistor in the common base mode is explained below. The current flow in a common base NPN transistor in the forward active mode is shown in Figure 10.29.
 
@@ -98,7 +98,7 @@ $$
 
 ---
 
-### 10.4.3 Static Characteristics of Transistor in Common Emitter Mode
+### Static Characteristics of Transistor in Common Emitter Mode
 
 The know‑how of certain parameters like the input resistance, output resistance, and current gain of a transistor are very important for the effective use of transistors in circuits. The circuit to study the static characteristics of an NPN transistor in the common emitter mode is given in Figure 10.30. The bias supply voltages \(V_{BB}\) and \(V_{CC}\) bias the base‑emitter junction and collector‑emitter junction respectively. The junction potential at the base‑emitter is represented as \(V_{BE}\) and that at the collector‑emitter as \(V_{CE}\). The rheostats \(R_1\) and \(R_2\) are used to vary the base current and collector current respectively.
 
@@ -177,7 +177,7 @@ Its value is very high and it generally ranges from 50 to 200.
 
 
 
-### 10.4.4 Relation between \(\alpha\) and \(\beta\)
+### Relation between \(\alpha\) and \(\beta\)
 
 There is a relation between current gain in the common base configuration \(\alpha\) and current gain in the common emitter configuration \(\beta\) which is given below.
 
@@ -205,7 +205,7 @@ $$
 
 ---
 
-### 10.4.5 Operating Point
+### Operating Point
 
 The operating point is a point where the transistor can be operated efficiently. A straight line drawn by joining the points \(A(V_{CC},0)\) and \(B(0, V_{CC}/R_C)\) is called the DC load line. The DC load line superimposed on the output characteristics of a transistor is used to learn the concept of operating point of the transistor as shown in Figure 10.34.
 
@@ -215,7 +215,7 @@ In Figure 10.34, the points P, Q, R are called Q points or quiescent points whic
 
 For a transistor to work as an open switch, the Q point can be chosen at the cut‑off region and to work as a closed switch, the Q point can be chosen in the saturation region.
 
-### 10.4.6 Transistor as a switch
+### Transistor as a switch
 
 A transistor in saturation region acts as a closed switch while in cut‑off region it acts as an open switch. It functions like an electronic switch that helps to turn ON or OFF a given circuit by a small control signal which keeps the transistor either in saturation region or in cut‑off region. The circuit is shown in Figure 10.35.
 
@@ -256,7 +256,7 @@ $$
 
 ---
 
-### 10.4.7 Transistor as an amplifier
+### Transistor as an amplifier
 
 A transistor operating in the active region has the capability to amplify weak signals. Amplification is the process of increasing the signal strength (increase in the amplitude). If a large amplification is required, the transistors are cascaded with coupling elements like resistors, capacitors, and transformers and they are called multistage amplifiers.
 
@@ -281,7 +281,7 @@ Input signal \((V_s)\) increases the forward voltage across the emitter‑base. 
 **During the negative half cycle**  
 Input signal \((V_s)\) decreases the forward voltage across the emitter‑base. As a result, base current \((I_B\) in \(\mu\mathrm{A})\) decreases and in turn decreases the collector current \((I_c\) in \(\mathrm{mA})\). The decrease in collector current \((I_c)\) decreases the potential drop across \(R_c\) which in turn increases the collector‑emitter voltage \((V_{CE})\). Thus, the input signal during the negative half cycle produces positive half cycle of the amplified signal at the output. Therefore, \(180^\circ\) phase reversal is observed during the negative half cycle of the input signal also as shown in Figure 10.36(b).
 
-### 10.4.8 Transistor as an oscillator
+### Transistor as an oscillator
 
 An electronic oscillator basically converts DC energy into AC energy of frequency ranging from a few Hz to several MHz. Hence, it is a source of alternating current or voltage. Unlike an amplifier, oscillator does not require any external signal source.
 

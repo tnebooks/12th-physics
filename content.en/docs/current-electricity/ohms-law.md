@@ -70,7 +70,7 @@ A potential difference across \(24\Omega\) resistor is \(12\mathrm{V}\). What is
 \(\mathrm{Current}, I = ?\)
 \(\mathrm{From\ Ohm's\ law}, I = \frac{V}{R} = \frac{12}{24} = 0.5\mathrm{A}\)
 
-### 2.2.1 Resistivity
+### Resistivity
 
 In the previous section, we have seen that the resistance \(R\) of any conductor is given by
 
@@ -193,7 +193,7 @@ Since \(C > A\), the current \(I_{BC} > I_{AB}\)
 
 The human body contains a large amount of water which has low resistance of around \(200\Omega\) and the dry skin has high resistance of around \(500\mathrm{k}\Omega\). But when the skin is wet, the resistance is reduced to around \(1000\Omega\). This is the reason why repairing the electrical connection with the wet skin is always dangerous.
 
-### 2.2.2 Resistors in series and parallel
+### Resistors in series and parallel
 
 An electric circuit may contain a number of resistors which can be connected in different ways. For each type of circuit, we can calculate the equivalent resistance produced by a group of individual resistors.
 
