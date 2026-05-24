@@ -3,8 +3,8 @@
 ## Dev
 
 ```sh
-git clone https://github.com/gurukulams/design-system themes/design-system
-hugo server --disableFastRender
+git clone https://github.com/gurukulams/design-system ../design-system
+hugo server  --themesDir ../ --disableFastRender
 ```
 
 ## Qustion Loader
