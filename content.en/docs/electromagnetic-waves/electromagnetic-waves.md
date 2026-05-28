@@ -5,7 +5,7 @@ weight: 2
 
 Electromagnetic waves are nonmechanical waves which move with speed equals to the speed of light (in vacuum). It is a transverse wave. In the following subsections, we discuss the production of electromagnetic waves and its properties, sources of electromagnetic waves and also classification of electromagnetic spectrum.
 
-### 5.2.1 Production and properties of electromagnetic waves – Hertz experiment
+### Production and properties of electromagnetic waves – Hertz experiment
 
 Maxwell's prediction was experimentally confirmed by Heinrich Rudolf Hertz in 1888. The experimental set up used is shown.
 
@@ -67,7 +67,7 @@ $$
 
 ---
 
-### 5.2.2 Sources of electromagnetic waves
+### Sources of electromagnetic waves
 
 Any stationary charge produces only electric field (refer Unit 1). When the charge moves with uniform velocity, it produces steady current which gives rise to magnetic field (not time dependent, only space dependent) around the conductor in which charge flows. If the charged particle accelerates, it produces magnetic field in addition to electric field. Both electric and magnetic fields are time varying fields. Since the electromagnetic waves are transverse waves, the direction of propagation of electromagnetic waves is perpendicular to the planes containing electric and magnetic field vectors.
 
@@ -113,7 +113,7 @@ $$
 
 ---
 
-### 5.2.3 Electromagnetic spectrum
+### Electromagnetic spectrum
 
 
 

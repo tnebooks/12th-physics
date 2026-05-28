@@ -3,7 +3,7 @@ title: "Gauss Law And Its Applications"
 weight: 6
 ---
 
-### 1.6.1 Electric Flux
+### Electric Flux
 
 The number of electric field lines crossing a given area kept normal to the electric field lines is called electric flux. It is usually denoted by the Greek letter \(\Phi_{E}\) and its unit is \(\mathrm{Nm^2C^{-1}}\). Electric flux is a scalar quantity and it can be positive or negative.
 
@@ -89,7 +89,7 @@ $$
 \Phi_{E} = \int \vec{E}\cdot d\vec{A} \quad (1.57)
 $$
 
-### 1.6.2 Electric flux for closed surfaces
+### Electric flux for closed surfaces
 
 Suppose a closed surface is present in the region of the non-uniform electric field. The total electric flux over this closed surface is written as
 
@@ -105,7 +105,7 @@ The total electric flux over a closed surface can be negative, positive or zero.
 
 In general, the electric flux is negative if the electric field lines enter the closed surface and positive if the electric field lines leave the closed surface.
 
-### 1.6.3 Gauss law
+### Gauss law
 
 A positive point charge \(Q\) is surrounded by an imaginary sphere of radius \(r\). We can calculate the total electric flux through the closed surface of the sphere using the equation (1.58).
 
@@ -170,7 +170,7 @@ where \(Q_{\mathrm{encl}}\) denotes the charges within the closed surface.
 
 (ii) In figure (b), the net charge inside the cube is \(3q\) and the total electric flux in the cube is therefore \(\Phi_{E} = \frac{3q}{\epsilon_{0}}\). Note that the charge \(-10q\) lies outside the cube and it will not contribute the total flux through the surface of the cube.
 
-### 1.6.4 Applications of Gauss law
+### Applications of Gauss law
 
 Electric field due to any arbitrary charge configuration can be calculated using Coulomb's law or Gauss law. If the charge configuration possesses some kind of symmetry, then Gauss law is a very efficient way to calculate the electric field. It is illustrated in the following cases.
 

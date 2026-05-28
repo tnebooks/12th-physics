@@ -5,7 +5,7 @@ weight: 11
 
 The force on a current carrying wire in a magnetic field is responsible for the motor operation.
 
-### 3.11.1 Torque on a current loop placed in a magnetic field
+### Torque on a current loop placed in a magnetic field
 
 Consider a rectangular loop PQRS carrying current \(I\) is placed in a uniform magnetic field \(\vec{B}\). Let \(a\) and \(b\) be the length and breadth of rectangular loop respectively. The unit vector \(\hat{n}\) normal to the plane of the loop makes an angle \(\theta\) with the magnetic field.
 
@@ -48,7 +48,7 @@ If there are \(N\) turns in the rectangular loop, then the torque is given by \(
 
 (b) When \(\theta = 0^{\circ} / 180^{\circ}\) or the plane of the loop is perpendicular to the magnetic field, the torque on the current loop is zero.
 
-### 3.11.2 Moving coil galvanometer
+### Moving coil galvanometer
 
 Moving coil galvanometer is a device which is used to detect the flow of current in an electrical circuit.
 

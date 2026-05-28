@@ -15,7 +15,7 @@ Three characteristics in the carrier signal can be modified by the baseband sign
 
 Accordingly, we have (i) amplitude modulation, (ii) frequency modulation and (iii) phase modulation.
 
-### 10.9.1 AMPLITUDE MODULATION (AM)
+### AMPLITUDE MODULATION (AM)
 
 If the amplitude of the carrier signal is modified in proportion to the instantaneous amplitude of the baseband signal, then it is called amplitude modulation. Here the frequency and the phase of the carrier signal remain constant. Amplitude modulation is used in radio and TV broadcasting.
 
@@ -33,7 +33,7 @@ i) Noise level is high
 ii) Low efficiency  
 iii) Small operating range
 
-### 10.9.2 FREQUENCY MODULATION (FM)
+### FREQUENCY MODULATION (FM)
 
 The frequency of the carrier signal is modified in proportion to the instantaneous amplitude of the baseband signal in frequency modulation. Here the amplitude and the phase of the carrier signal remain constant.
 
@@ -56,7 +56,7 @@ i) FM requires a much wider channel.
 ii) FM transmitters and receivers are more complex and costly.  
 iii) In FM reception, less area is covered compared to AM.
 
-### 10.9.3 PHASE MODULATION (PM)
+### PHASE MODULATION (PM)
 
 In phase modulation, the instantaneous amplitude of the baseband signal modifies the phase of the carrier signal keeping its amplitude and frequency constant. This modulation is used to generate frequency modulated signals. It is similar to frequency modulation except that the phase of the carrier is varied instead of varying frequency.
 

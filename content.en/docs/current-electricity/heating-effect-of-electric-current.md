@@ -5,7 +5,7 @@ weight: 6
 
 When current flows through a resistor, some of the electrical energy delivered to the resistor is converted into heat energy and it is dissipated. This heating effect of current is known as Joule's heating effect. Just as current produces thermal energy, thermal energy may also be suitably used to produce an electromotive force. This is known as thermoelectric effect.
 
-### 2.6.1 Joule's law
+### Joule's law
 
 If a current \(I\) flows through a conductor kept across a potential difference \(V\) for a time \(t\), the work done or the electric potential energy spent is
 
@@ -56,7 +56,7 @@ $$
 = 75000\mathrm{J}\ (\text{or})\ 75\mathrm{kJ}
 $$
 
-### 2.6.2 Application of Joule's heating effect
+### Application of Joule's heating effect
 
 **1. Electric heaters**
 

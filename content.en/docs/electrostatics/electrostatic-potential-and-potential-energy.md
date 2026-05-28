@@ -7,7 +7,7 @@ weight: 5
 
 In mechanics, potential energy is defined for conservative forces. Since gravitational force is a conservative force, its gravitational potential energy is defined. Since Coulomb force is an inverse-square-law force, its also a conservative force like gravitational force. Therefore, we can define potential energy for charge configurations.
 
-### 1.5.1 Electrostatic Potential energy and Electrostatic potential
+### Electrostatic Potential energy and Electrostatic potential
 
 Consider a positive charge \(q\) kept fixed at the origin which produces an electric field \(\bar{E}\) around it. A positive test charge \(q^{\prime}\) is brought from point R to point P against the repulsive force between \(q\) and \(q^{\prime}\) as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
 
@@ -58,7 +58,7 @@ $$
 
 **Note: In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower gravitational potential. Similarly a positive charge moves from a point of higher electrostatic potential to a point of lower electrostatic potential. However a negative charge moves from lower electrostatic potential to higher electrostatic potential.**
 
-### 1.5.2 Electric potential due to a point charge
+### Electric potential due to a point charge
 
 Consider a positive charge \(q\) kept fixed at the origin. Let P be a point at distance r from the charge \(q\).
 
@@ -198,7 +198,7 @@ $$
 
 Hence, \(x = 3\mathrm{m}\)
 
-### 1.5.3 Electrostatic potential at a point due to an electric dipole
+### Electrostatic potential at a point due to an electric dipole
 
 Consider two equal and opposite charges separated by a small distance \(2a\) as shown in Figure 1.25. The point P is located at a distance \(r\) from the midpoint of the dipole. Let \(\theta\) be the angle between the line OP and dipole axis AB.
 
@@ -318,7 +318,7 @@ $$
 
 **Note: The potential due to an electric dipole falls as \(\frac{1}{r^2}\) and the potential due to a single point charge falls as \(\frac{1}{r}\). Thus the potential due to the dipole falls faster than that due to a monopole (point charge). As the distance increases from electric dipole, the effects of positive and negative charges nullify each other.**
 
-### 1.5.4 Equi-potential Surface
+### Equi-potential Surface
 
 Consider a point charge q located at some point in space and an imaginary sphere of radius r is chosen by keeping the charge q at its centre. The electric potential at all points on the surface of the given sphere is the same. Such a surface is called an equipotential surface.
 
@@ -335,7 +335,7 @@ For a uniform electric field, the equipotential surfaces form a set of planes no
 (i) The work done to move a charge q between any two points A and B, \(W = q(V_{B} - V_{A})\). If the points A and B lie on the same equipotential surface, work done is zero because \(V_{A} = V_{B}\).
 (ii) The electric field is normal to an equipotential surface. If it is not normal, then there is a component of the field parallel to the surface. Then work must be done to move a charge between two points on the same surface. This is a contradiction. Therefore the electric field must always be normal to equipotential surface.
 
-### 1.5.5 Relation between electric field and potential
+### Relation between electric field and potential
 
 Consider a positive charge \(q\) kept fixed at the origin. To move a unit positive charge by a small distance \(dx\) towards \(q\) in the electric field \(E\), the work done is given by \(dW = -E dx\). The minus sign implies that work is done against the electric field. This work done is equal to electric potential difference. Therefore,
 
@@ -373,7 +373,7 @@ From 4 to 5 cm, the slope \(\frac{dV}{dx} = -25V\mathrm{cm}^{-1}\). So \(\bar{E}
 
 ![](a23.png)
 
-### 1.5.6 Electrostatic potential energy for collection of point charges
+### Electrostatic potential energy for collection of point charges
 
 The electric potential at a point at a distance \(r\) from point charge \(q_{1}\) is given by
 
@@ -473,7 +473,7 @@ $$
 
 The potential created by the two \(+q\) charges are canceled by the potential created by the \(-q\) charges which are located in the opposite corners. Therefore the net electric potential at the centre O due to all the charges in the corners is zero.
 
-### 1.5.7 Electrostatic potential energy of a dipole in a uniform electric field
+### Electrostatic potential energy of a dipole in a uniform electric field
 
 Consider a dipole placed in the uniform electric field \(\vec{E}\) as shown. A dipole experiences a torque when kept in a uniform electric field \(\vec{E}\). This torque rotates the dipole to align it with the direction of the electric field. To rotate the dipole (at constant angular velocity) from its initial angle \(\theta^{\prime}\) to another angle \(\theta\) against the torque exerted by the electric field, an equal and opposite external torque must be applied on the dipole.
 

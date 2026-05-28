@@ -3,7 +3,7 @@ title: "Photo Electric Effect"
 weight: 2
 ---
 
-### 8.2.1 Hertz, Hallwachs and Lenard's observation
+### Hertz, Hallwachs and Lenard's observation
 
 #### Hertz observation
 
@@ -45,7 +45,7 @@ The ejection of electrons from a metal plate when illuminated by light or any ot
 
 Metals like cadmium, zinc, magnesium etc show photoelectric emission with ultraviolet light while some alkali metals lithium, sodium, caesium respond well even to larger wavelength radiation like visible light. The materials which eject photoelectrons upon irradiation of electromagnetic wave of suitable wavelength are called photosensitive materials.
 
-### 8.2.2 Effect of intensity of incident light on photoelectric current
+### Effect of intensity of incident light on photoelectric current
 
 #### Experimental setup
 
@@ -67,7 +67,7 @@ To study the effect of intensity of incident light on photoelectric current, the
 
 A graph is drawn between light intensity along \(x\)-axis and the photocurrent along \(y\)-axis. From the graph in Figure 8.9, it is evident that photocurrent – the number of electrons emitted per second – is directly proportional to the intensity of the incident light.
 
-### 8.2.3 Effect of potential difference on photoelectric current
+### Effect of potential difference on photoelectric current
 
 To study the effect of potential difference \(V\) between the electrodes on photoelectric current, the frequency and intensity of the incident light are kept constant. Initially the potential of \(A\) is kept positive with respect to \(C\) and the cathode is irradiated with the given light.
 
@@ -103,7 +103,7 @@ From the Figure 8.10, when the intensity of the incident light alone is increase
 
 Thus, for a given frequency of the incident light, the stopping potential is independent of intensity of the incident light. This also implies that the maximum kinetic energy of the photoelectrons is independent of intensity of the incident light.
 
-### 8.2.4 Effect of frequency of incident light on stopping potential
+### Effect of frequency of incident light on stopping potential
 
 To study the effect of frequency of incident light on stopping potential, the intensity of the incident light is kept constant. The variation of photocurrent with the collecting electrode potential is studied for radiations of different frequencies and a graph drawn between them is shown in Figure 8.11. From the graph, it is clear that stopping potential vary over different frequencies of incident light.
 
@@ -115,7 +115,7 @@ Greater the frequency of the incident radiation, larger is the corresponding sto
 
 Now a graph is drawn between frequency of incident radiation and the stopping potential for different metals (Figure 8.12). From this graph, it is found that stopping potential varies linearly with frequency. Below a certain frequency called threshold frequency, no electrons are emitted; hence stopping potential is zero for that reason. But as the frequency is increased above threshold value, the stopping potential varies linearly with the frequency of incident light.
 
-### 8.2.5 Laws of photoelectric effect
+### Laws of photoelectric effect
 
 The above detailed experimental investigations of photoelectric effect revealed the following results:
 
@@ -131,7 +131,7 @@ v) There is no time lag between incidence of light and ejection of photoelectron
 
 Once photoelectric phenomenon has been thoroughly examined through various experiments, the attempts were made to explain it on the basis of wave theory of light.
 
-### 8.2.6 Concept of quantization of energy
+### Concept of quantization of energy
 
 #### Failures of classical wave theory
 
@@ -206,7 +206,7 @@ ii) The oscillators emit or absorb energy in small packets or quanta and the ene
 
 This implies that the energy of the oscillator is quantized – that is, energy is not continuous as believed in the wave picture. This is called quantization of energy.
 
-### 8.2.7 Particle nature of light: Einstein's explanation
+### Particle nature of light: Einstein's explanation
 
 Einstein extended Planck's quantum concept to explain the photoelectric effect in 1905. According to Einstein, the energy in light is not spread out over wavefronts but is concentrated in small packets or energy quanta. Therefore, light (or any other electromagnetic waves) of frequency \(\nu\) from any source can be considered as a stream of quanta and the energy of each light quantum is given by \(E = h\nu\).
 
@@ -312,7 +312,7 @@ Einstein once wrote a letter to his friend Michel Besso in 1954 expressing his f
 
 > "All these fifty years of conscious brooding have brought me no closer to answer the question, 'What are light quanta?' Of course today everyone thinks he knows the answer, but he is deluding himself".
 
-### 8.2.8 Photo electric cells and their applications
+### Photo electric cells and their applications
 
 #### Photo cell
 

@@ -53,7 +53,7 @@ It converts the electrical signal back to its original form such as sound, music
 
 
 
-### 10.10.1 BASIC DEFINITIONS IN ELECTRONIC COMMUNICATION SYSTEM
+### BASIC DEFINITIONS IN ELECTRONIC COMMUNICATION SYSTEM
 
 For better understanding of the communication systems, it is essential to know about the following terms.
 

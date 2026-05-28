@@ -55,7 +55,7 @@ It is because Earth's magnetic field is locally (physics laboratory) uniform.
 
 It will undergo translatory motion (net force) and rotational motion (torque).
 
-### 3.3.1 Potential energy of a bar magnet in a uniform magnetic field
+### Potential energy of a bar magnet in a uniform magnetic field
 
 When a bar magnet (magnetic dipole) of dipole moment \(\vec{p}_m\) is held at an angle \(\theta\) with the direction of a uniform magnetic field \(\vec{B}\), the magnitude of the torque acting on the dipole is
 

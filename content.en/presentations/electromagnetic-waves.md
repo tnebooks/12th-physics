@@ -19,7 +19,7 @@ This chapter explains how **changing electric and magnetic fields produce waves*
 
 ---
 
-## 01. Maxwell’s Theory
+## Maxwell’s Theory
 Electromagnetic waves were predicted by **:contentReference[oaicite:0]{index=0}**.
 
 * Oscillating electric and magnetic fields
@@ -28,7 +28,7 @@ Electromagnetic waves were predicted by **:contentReference[oaicite:0]{index=0}*
 
 ---
 
-## 02. Nature of EM Waves
+## Nature of EM Waves
 
 * Transverse waves  
 * Electric field (E) ⟂ Magnetic field (B)  
@@ -36,7 +36,7 @@ Electromagnetic waves were predicted by **:contentReference[oaicite:0]{index=0}*
 
 ---
 
-## 03. Speed of EM Waves
+## Speed of EM Waves
 
 :contentReference[oaicite:1]{index=1}
 
@@ -44,7 +44,7 @@ Electromagnetic waves were predicted by **:contentReference[oaicite:0]{index=0}*
 
 ---
 
-## 04. Electromagnetic Spectrum
+## Electromagnetic Spectrum
 
 Different types of EM waves arranged by wavelength/frequency:
 
@@ -58,7 +58,7 @@ Different types of EM waves arranged by wavelength/frequency:
 
 ---
 
-## 05. Properties of EM Waves
+## Properties of EM Waves
 
 * Travel in vacuum  
 * Exhibit reflection, refraction, diffraction  
@@ -67,7 +67,7 @@ Different types of EM waves arranged by wavelength/frequency:
 
 ---
 
-## 06. Uses of Electromagnetic Waves
+## Uses of Electromagnetic Waves
 
 ### Radio Waves
 * Communication (TV, radio)
@@ -92,7 +92,7 @@ Different types of EM waves arranged by wavelength/frequency:
 
 ---
 
-## 07. Energy of EM Waves
+## Energy of EM Waves
 
 :contentReference[oaicite:2]{index=2}
 

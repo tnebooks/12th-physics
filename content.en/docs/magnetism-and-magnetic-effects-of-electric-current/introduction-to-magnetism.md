@@ -17,7 +17,7 @@ In this unit, basics of magnets and their properties are given. Later, how a cur
 
 ![Figure 3.2 Uses of magnets in modern world – (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop](a2.png)
 
-### 3.1.1 Earth's magnetic field and magnetic elements
+### Earth's magnetic field and magnetic elements
 
 ![Figure 3.3 Earth’s magnetic field](a3.png)
 
@@ -104,7 +104,7 @@ $$
 
 People living at high latitude regions (near Arctic or Antarctic) might experience dazzling coloured natural lights across the night sky. This ethereal display on the sky is known as aurora borealis (northern lights) or aurora australis (southern lights). These lights are often called as polar lights. The lights are seen above the magnetic poles of the northern and southern hemispheres. They are called as "Aurora borealis" in the north and "Aurora australis" in the south. This occurs as a result of interaction between the gaseous particles in the Earth's atmosphere with highly charged particles released from the Sun's atmosphere through solar wind. These particles emit light due to collision and variations in colour are due to the type of the gas particles that take part in the collisions. A pale yellowish – green colour is produced when the ionized oxygen takes part in the collision and a blue or purplish – red aurora is produced due to ionized nitrogen molecules.
 
-### 3.1.2 Basic properties of magnets
+### Basic properties of magnets
 
 Some basic terminologies and properties used in describing bar magnet.
 

@@ -3,7 +3,7 @@ title: "Capacitors And Capacitance"
 weight: 8
 ---
 
-### 1.8.1 Capacitors
+### Capacitors
 
 Capacitor is a device used to store electric charge and electrical energy. It consists of two conducting objects (usually plates or sheets) separated by some distance. Capacitors are widely used in many electronic circuits and have applications in many areas of science and technology.
 
@@ -88,7 +88,7 @@ $$
 Q = 22.12\times 10^{-12}\times 10 = 221.2\times 10^{-12}\mathrm{C} = 221.2\mathrm{pC}
 $$
 
-### 1.8.2 Energy stored in the capacitor
+### Energy stored in the capacitor
 
 Capacitor not only stores the charge but also it stores energy. When a battery is connected to the capacitor, electrons of total charge -Q are transferred from one plate to the other plate. To transfer the charge, work is done by the battery. This work done is stored as electrostatic potential energy in the capacitor.
 
@@ -131,7 +131,7 @@ From equation (1.89), we infer that the energy is stored in the electric field e
 
 It is important to note that the energy density depends only on the electric field and not on the size of the plates of the capacitor. In fact, expression (1.89) is true for the electric field due to any type of charge configuration.
 
-### 1.8.3 Applications of capacitors
+### Applications of capacitors
 
 Capacitors are used in various electronics circuits. A few of the applications.
 
@@ -149,7 +149,7 @@ Capacitors are used in various electronics circuits. A few of the applications.
 
 However, capacitors have disadvantage as well. Even after the battery or power supply is removed, the capacitor stores charges and energy for some time. For example if the TV is switched off, it is always advisable to not touch the back side of the TV panel.
 
-### 1.8.4 Effect of dielectrics in capacitors
+### Effect of dielectrics in capacitors
 
 In earlier discussions, we assumed that the space between the parallel plates of a capacitor is either empty or filled with air. Suppose dielectrics like mica, glass or paper are introduced between the plates, then the capacitance of the capacitor is altered. The dielectric can be inserted into the plates in two different ways. (i) when the capacitor is disconnected from the battery. (ii) when the capacitor is connected to the battery.
 
@@ -325,7 +325,7 @@ $$
 
 When the dielectric is removed, it experiences an inward pulling force due to the plates. To remove the dielectric, an external agency has to do work on the dielectric which is stored as additional energy. This is the source for the extra energy \(8.84\times 10^{-10}\mathrm{J}\).
 
-### 1.8.5 Capacitor in series and parallel
+### Capacitor in series and parallel
 
 **(i) Capacitor in series**
 

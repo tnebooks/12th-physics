@@ -3,7 +3,7 @@ title: "Electrostatics Of Conductors And Dielectrics"
 weight: 7
 ---
 
-### 1.7.1 Conductors at electrostatic equilibrium
+### Conductors at electrostatic equilibrium
 
 An electrical conductor has a large number of mobile charges which are free to move in the material. In a metallic conductor, these mobile charges are free electrons which are not bound to any atom and therefore are free to move on the surface of the conductor. When there is no external electric field, the free electrons are in continuous random motion in all directions. As a result, there is no net motion of electrons along any particular direction which implies that the conductor is in electrostatic equilibrium. Thus at electrostatic equilibrium, there is no net current in the conductor. A conductor at electrostatic equilibrium has the following properties.
 
@@ -55,7 +55,7 @@ We know that the conductor has no parallel electric component on the surface whi
 
 Since the electric field is zero inside the conductor, the potential is the same as the surface of the conductor. Thus at electrostatic equilibrium, the conductor is always at equipotential.
 
-### 1.7.2 Electrostatic shielding
+### Electrostatic shielding
 
 Using Gauss law, we can prove that the electric field inside the charged spherical shell is zero. Further, we can show that the electric field inside both hollow and solid conductors is zero. It is a very interesting property which has an important consequence.
 
@@ -69,7 +69,7 @@ Faraday cage is an instrument used to demonstrate this effect. It is made up of 
 
 During lightning accompanied by a thunderstorm, it is always safer to sit inside a bus than in open ground or under a tree. The metal body of the bus provides electrostatic shielding, since the electric field inside is zero. During lightning, the charges flow through the body of the conductor to the ground with no effect on the person inside that bus.
 
-### 1.7.3 Electrostatic induction
+### Electrostatic induction
 
 In section 1.1, we have learnt that an object can be charged by rubbing using an appropriate material. Whenever a charged rod is touched by another conductor, charges start to flow from charged rod to the conductor. Is it possible to charge a conductor without any contact? The answer is yes. This type of charging without actual contact is called electrostatic induction.
 
@@ -119,7 +119,7 @@ Note that the time of flight, maximum height, range are all inversely proportion
 
 ![](a49.png)
 
-### 1.7.4 Dielectrics or insulators
+### Dielectrics or insulators
 
 A dielectric is a non-conducting material and has no free electrons. The electrons in a dielectric are bound within the atoms. Ebonite, glass and mica are some examples of dielectrics. When an external electric field is applied, the electrons are not free to move anywhere but they are realigned in a specific way. A dielectric is made up of either polar molecules or nonpolar molecules.
 
@@ -149,7 +149,7 @@ $$
 
 where \(\chi_{e}\) is a constant called the electric susceptibility which is a characteristic of each dielectric.
 
-### 1.7.5 Induced Electric field inside the dielectric
+### Induced Electric field inside the dielectric
 
 When an external electric field is applied on a conductor, the charges are aligned in such a way that an internal electric field is created which tends to cancel the external electric field. But in the case of a dielectric, which has no free electrons, the external electric field only realigns the charges so that an internal electric field is produced. The magnitude of the internal electric field is smaller than that of external electric field. Therefore the net electric field inside the dielectric is not zero but is parallel to an external electric field with magnitude less than that of the external electric field. For example, let us consider a rectangular dielectric slab placed between two oppositely charged plates (capacitor).
 
@@ -163,7 +163,7 @@ For example, the charged balloon after rubbing sticks onto a wall. The reason is
 
 ![Figure 1.51 (a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon](a53.png)
 
-### 1.7.6 Dielectric strength
+### Dielectric strength
 
 When the external electric field applied to a dielectric is very large, it tears the atoms apart so that the bound charges become free charges. Then the dielectric starts to conduct electricity. This is called dielectric breakdown. The maximum electric field the dielectric can withstand before it breakdown is called dielectric strength. For example, the dielectric strength of air is \(3 \times 10^{6} \mathrm{~V} \mathrm{~m}^{-1}\). If the applied electric field increases beyond this, a spark is produced in the air. The dielectric strengths of some dielectrics are given in the Table 1.1.
 

@@ -7,7 +7,7 @@ Diffraction is a characteristic of all waves, including sound waves. Diffraction
 
 This is a violation to the rectilinear propagation of light we have studied in ray optics. But, the diffraction is prominent only when the size of the obstacle is comparable to the wavelength of light. This is the reason why sound waves get diffracted prominently by obstacles like doors, windows, buildings etc. The wavelength of sound wave is large and comparable to the geometry of these obstacles. But the diffraction in light is more pronounced when the obstacle size is of the order of wavelength of light.
 
-### 7.4.1 Fresnel and Fraunhofer diffractions
+### Fresnel and Fraunhofer diffractions
 
 Based on the type of wavefront which undergoes diffraction, it could be classified as Fresnel and Fraunhofer diffractions. The differences between Fresnel and Fraunhofer diffractions are shown in Table 7.1.
 
@@ -20,7 +20,7 @@ Based on the type of wavefront which undergoes diffraction, it could be classifi
 | 3 | Convex lenses need not be used for laboratory conditions | Convex lenses are to be used in laboratory conditions |
 | 4 | Difficult to observe and analyse | Easy to observe and analyse |
 
-### 7.4.2 Diffraction in single slit
+### Diffraction in single slit
 
 Let a parallel beam of light (plane wavefront) fall normally on a single slit AB of width \(a\) as shown in Figure 7.17. The diffracted beam falls on a screen kept at a distance D from the slit. The center of the slit is C. A straight line through C perpendicular to the plane of slit meets the center of the screen at O. Consider any point P on the screen. All the light reaching the point P from different points on the slit make an angle \(\theta\) with the normal CO.
 
@@ -127,7 +127,7 @@ From the figure (not provided), the first minimum occurs at an angle such that t
 
 ---
 
-### 7.4.3 Discussion on first minimum
+### Discussion on first minimum
 
 The equation for first minimum in single slit diffraction is \(a \sin \theta = \lambda\). The angular spread for its first minimum in the diffraction pattern is \(\sin \theta = \frac{\lambda}{a}\). The central maximum is found in between these first minima that occur on both the sides. We can discuss the following cases on the central maximum.
 
@@ -136,7 +136,7 @@ The equation for first minimum in single slit diffraction is \(a \sin \theta = \
 (iii) If \(a > \lambda\) and also comparable to \(\lambda\), say \(a = 2\lambda\), then \(\sin \theta = \frac{1}{2}\) or \(\theta = 30^\circ\). The diffraction is observed with a measurable spread. Hence, it is concluded that for observing the diffraction pattern, essentially the width of the slit a must be just few times greater than the wavelength of light \(\lambda\).  
 (iv) If \(a \gg \lambda\), then \(\sin \theta \ll 1\) i.e. the first minimum falls within the width space of the slit itself. Hence, the phenomenon of diffraction is not observed at all.
 
-### 7.4.4 Fresnel's distance
+### Fresnel's distance
 
 The rectilinear propagation of light is violated as there is bending of light in diffraction. But, this bending is not seen till the diffracted ray crosses the central maximum at a distance \(z\) from the slit as shown in Figure 7.19. Hence, Fresnel's distance is the distance upto which the ray optics is obeyed and beyond which the ray optics is not obeyed; but, the wave optics becomes significant.
 
@@ -168,7 +168,7 @@ $$
 
 ---
 
-### 7.4.5 Difference between interference and diffraction
+### Difference between interference and diffraction
 
 It is difficult to find the difference between interference and diffraction as they both exhibit the wave nature of light. In both the phenomena, interference of light only produces maxima and minima on the screen and the diffraction of light only spreads light in the geometrically shadowed region. Nevertheless, in interference, the superposition is given importance and in diffraction, the bending of light is given importance. The difference between interference and diffraction is given in Table 7.2.
 
@@ -180,7 +180,7 @@ It is difficult to find the difference between interference and diffraction as t
 | 2 | Equal intensity for all bright fringes | Intensity falls rapidly for higher order fringes |
 | 3 | Large number of fringes are obtained | Less number of fringes are obtained |
 
-### 7.4.6 Diffraction in grating
+### Diffraction in grating
 
 A grating has multiple slits with equal widths of comparable size to the wavelength of diffracting light. A grating is a plane sheet of transparent material on which opaque rulings are made. A modern commercial grating contains about 6000 lines per centimetre. The transparent space between the rulings act as slit of width \(a\) and the rulings act as obstacles having a definite width b. The combined width of a slit and a ruling is called grating element e, \((e = a + b)\). The points on the slit separated by a distance equal to the grating element are called corresponding points.
 
@@ -256,7 +256,7 @@ A monochromatic light of wavelength \(500\ \mathrm{nm}\) strikes a grating and p
 
 ---
 
-### 7.4.7 Experiment to determine the wavelength of monochromatic light
+### Experiment to determine the wavelength of monochromatic light
 
 The wavelength of a spectral line can be very accurately determined with the help of a plane transmission grating. For that we need to use an instrument called spectrometer (Refer 7.6.6). After preliminary adjustments, the slit of collimator is illuminated by a monochromatic light, whose wavelength is to be determined. The telescope is brought in line with collimator to view the image of the slit. The given grating is then mounted on the prism table with its plane perpendicular to the incident beam of light coming from the collimator. The telescope is turned to one side until the first order diffraction image of the slit is seen. The reading of the position of the telescope is noted. Similarly, the first order diffraction image on the other side is captured and the reading is noted. The difference between two readings gives \(2\theta\). Half of its value gives \(\theta\). The angle for first order maximum is shown in Figure 7.21. The wavelength of light is calculated from the equation,
 
@@ -268,13 +268,13 @@ $$
 
 Here, N is the number of rulings per metre in the grating and m is the order of the diffraction image.
 
-### 7.4.8 Determination of wavelength of different colours
+### Determination of wavelength of different colours
 
 The diffraction pattern for white light consists of a white central maximum and continuous coloured diffraction pattern on its both sides. The central maximum is white as all the colours constructively meet at centre with no path difference. As \(\theta\) increases, the path difference fulfills the condition for maxima of different orders for all colours from violet to red. It produces a spectrum of diffraction pattern from violet to red on either side of central maximum as shown in Figure 7.22. By measuring the angle at which these colours appear for various orders of diffraction, the wavelength of different colours could be calculated using the formula given by equation (7.51).
 
 
 
-### 7.4.9 Resolution
+### Resolution
 
 The effect of diffraction has an adverse effect in the sharpness of the image formed. There is always a spread of central maximum in the image for every point of the object, for every point of the object acts as a point source. The condition for central maximum (or first minimum) produced by rectangular slit is given by equation (7.37) \(a\sin \theta = \lambda\).
 

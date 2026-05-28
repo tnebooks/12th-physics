@@ -3,7 +3,7 @@ title: "Power In Ac Circuits"
 weight: 8
 ---
 
-### 4.8.1 Introduction of power in AC circuits
+### Introduction of power in AC circuits
 
 Power of a circuit is defined as the rate of consumption of electric energy in that circuit. It is given by the product of the voltage and current. In an AC circuit, the voltage and current vary continuously with time. Let us first calculate the power at an instant and then it is averaged over a complete cycle.
 
@@ -33,7 +33,7 @@ $$
 
 where \(V_{RMS} I_{RMS}\) is called apparent power and \(\cos\phi\) is power factor. The average power of an AC circuit is also known as the true power of the circuit.
 
-### 4.8.2 Wattless current
+### Wattless current
 
 Consider an AC circuit in which there is a phase angle of \(\phi\) between \(V_{RMS}\) and \(I_{RMS}\) and voltage is assumed to be leading the current by \(\phi\) as shown in the phasor diagram.
 
@@ -48,7 +48,7 @@ The current in an AC circuit is said to be wattless current if the power consume
 
 
 
-### 4.8.3 Power factor
+### Power factor
 
 The power factor of a circuit is defined in one of the following ways:
 
@@ -64,7 +64,7 @@ Some examples for power factors:
 
 (iii) Power factor lies between 0 and 1 for a circuit having \(R\), \(L\) and \(C\) in varying proportions.
 
-### 4.8.4 Advantages and disadvantages of AC over DC
+### Advantages and disadvantages of AC over DC
 
 There are many advantages and disadvantages of AC system over DC system.
 

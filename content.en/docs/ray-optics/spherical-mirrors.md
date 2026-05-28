@@ -19,7 +19,7 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 **Principal axis:** The line joining the pole \(P\) and the centre of curvature \(C\) is called the principal axis of the mirror. The light ray travelling along the principal axis towards the mirror after reflection travels back along the same principal axis. It is also called optical axis.
 
-### 6.2.1 Paraxial Rays and Marginal Rays
+### Paraxial Rays and Marginal Rays
 
 **Focus (or) Focal point:** Light rays travelling parallel and close to the principal axis when incident on a spherical mirror, converge at a point for concave mirror (or) appear to diverge from a point for convex mirror on the principal axis. This point is called the focus (or) focal point \(F\) of the mirror.
 
@@ -35,7 +35,7 @@ The paraxial rays are the rays which travel very close to the principal axis and
 
 
 
-### 6.2.2 Relation between \(f\) and \(R\)
+### Relation between \(f\) and \(R\)
 
 Let \(C\) be the centre of curvature of the mirror. Consider a ray of light parallel to the principal axis is incident on the mirror at M. It passes through the principal focus F after reflection. The geometry related to this is shown. The line CM is the normal to the mirror at M. Let \(i\) be the angle of incidence and the same will be the angle of reflection.
 
@@ -70,7 +70,7 @@ $$
 
 Equation (6.4) is the relation between \(f\) and \(R\). The construction is shown for convex mirror as well.
 
-### 6.2.3 Image formation in spherical mirrors
+### Image formation in spherical mirrors
 
 The image formed by spherical mirror can be found by ray construction called image tracing. To locate an image point, a minimum of two rays must meet at that point. We can use at least any two of the following four rays.
 
@@ -81,7 +81,7 @@ The image formed by spherical mirror can be found by ray construction called ima
 (iii) A ray passing through the centre of curvature retraces its path after reflection as it is a normal incidence.  
 (iv) A ray falling on the pole will get reflected as per law of reflection keeping principal axis as the normal.
 
-### 6.2.4 Cartesian sign convention
+### Cartesian sign convention
 
 While tracing the image, we would normally come across the object distance \(u\), the image distance \(v\), the object height \(h\), the image height \(h'\), the focal length \(f\) and the radius of curvature \(R\). A system of signs for these quantities must be followed so that the relations connecting them are consistent in all types of physical situations. We shall follow the Cartesian sign convention which is now widely used. It is given below and also shown.
 
@@ -94,7 +94,7 @@ While tracing the image, we would normally come across the object distance \(u\)
 
 
 
-### 6.2.5 Mirror equation
+### Mirror equation
 
 The mirror equation establishes a relation among object distance \(u\), image distance \(v\) and focal length \(f\) for a spherical mirror.
 
@@ -150,7 +150,7 @@ $$
 
 The equation (6.9) is called the mirror equation.
 
-### 6.2.6 Lateral magnification in spherical mirrors
+### Lateral magnification in spherical mirrors
 
 The lateral or transverse magnification \(m\) is defined as the ratio of the height of the image \(h'\) to the height of the object \(h\).
 

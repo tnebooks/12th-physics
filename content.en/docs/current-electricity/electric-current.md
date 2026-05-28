@@ -45,7 +45,7 @@ $$
 I = \frac{Q}{t} = \frac{120}{60} = 2A
 $$
 
-### 2.1.1 Conventional Current
+### Conventional Current
 
 ![Figure 2.3 Direction of conventional current and electron flow](b4.png)
 
@@ -53,7 +53,7 @@ In an electric circuit, arrow heads are used to indicate the direction of flow o
 
 Electric current is not only produced by batteries. In nature, lightning bolt produces enormous electric current in a short time. During lightning, very high potential difference is created between the clouds and ground and hence charges flow between the clouds and ground.
 
-### 2.1.2 Drift velocity
+### Drift velocity
 
 In a conductor the charge carriers are free electrons. These electrons move freely through the conductor and collide repeatedly with the positive ions. If there is no electric field, the electrons move in random directions, and hence their velocities are also randomly oriented. On an average, the number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction. As a result, there is no net flow of electrons in any direction and hence there will not be any current.
 
@@ -118,7 +118,7 @@ $$
 ![](b6.png)
 
 
-### 2.1.3 Microscopic model of current
+### Microscopic model of current
 
 Consider a conductor with area of cross section A and let an electric field \(\vec{E}\) be applied to it from right to left. Suppose there are \(n\) electrons per unit volume in the conductor and assume that all the electrons move with the same drift velocity \(\vec{v}_{d}\) as shown in Figure 2.5.
 

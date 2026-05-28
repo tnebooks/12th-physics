@@ -19,7 +19,7 @@ This chapter explains the **structure of atoms and nuclei**, and the principles 
 
 ---
 
-## 01. Atomic Models
+## Atomic Models
 Development of atomic structure theories.
 
 * **:contentReference[oaicite:0]{index=0} Model:** Atom as a positive sphere with embedded electrons.
@@ -28,7 +28,7 @@ Development of atomic structure theories.
 
 ---
 
-## 02. Photoelectric Effect
+## Photoelectric Effect
 Emission of electrons when light falls on metal surface.
 
 * Explained by **:contentReference[oaicite:3]{index=3}**
@@ -37,7 +37,7 @@ Emission of electrons when light falls on metal surface.
 
 ---
 
-## 03. Bohr’s Theory
+## Bohr’s Theory
 Explains hydrogen spectrum.
 
 * Electrons move in quantized orbits
@@ -48,7 +48,7 @@ Explains hydrogen spectrum.
 
 ---
 
-## 04. Dual Nature of Matter
+## Dual Nature of Matter
 Matter shows both wave and particle nature.
 
 * Proposed by **:contentReference[oaicite:5]{index=5}**
@@ -58,7 +58,7 @@ Matter shows both wave and particle nature.
 
 ---
 
-## 05. Nuclear Structure
+## Nuclear Structure
 Study of nucleus and its properties.
 
 * Contains protons and neutrons
@@ -67,7 +67,7 @@ Study of nucleus and its properties.
 
 ---
 
-## 06. Radioactivity
+## Radioactivity
 Spontaneous emission of radiation.
 
 * Discovered by **:contentReference[oaicite:7]{index=7}**
@@ -78,7 +78,7 @@ Spontaneous emission of radiation.
 
 ---
 
-## 07. Half-Life
+## Half-Life
 Time taken for half of the radioactive substance to decay.
 
 
@@ -90,7 +90,7 @@ Time taken for half of the radioactive substance to decay.
 
 ---
 
-## 08. Nuclear Fission & Fusion
+## Nuclear Fission & Fusion
 
 ### Nuclear Fission
 * Splitting of heavy nucleus into smaller nuclei

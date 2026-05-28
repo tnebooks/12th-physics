@@ -5,7 +5,7 @@ weight: 6
 
 A lens is formed by a transparent material bounded between two spherical surfaces (or) one plane and another spherical surface. In a thin lens, the distance between the surfaces is very small. For two spherical surfaces, there will be two centres of curvature \(C_1\) and \(C_2\) and correspondingly two radii of curvature \(R_1\) and \(R_2\). For a plane surface, the centre of curvature C is at infinity and its radius of curvature R is infinity \((R = \infty)\). The terminologies of spherical mirrors hold good very much for thin lenses except for the focal length.
 
-### 6.6.1 Primary and secondary focus
+### Primary and secondary focus
 
 As the thin lens is formed by two surfaces, the lens may separate two different media. i.e. the media to the left and right of the lens may be different. Hence, we have two focal lengths.
 
@@ -19,7 +19,7 @@ The secondary focus \(F_2\) is defined as a point where all the parallel rays tr
 
 If the media on the two sides of a thin lens have same refractive index, then the two focal lengths are equal. We will mostly be using the secondary focus \(F_2\) in our further discussions.
 
-### 6.6.2 Sign conventions on focal length for lens
+### Sign conventions on focal length for lens
 
 The sign conventions for thin lenses differ only in the signs followed for focal lengths.
 (i) The sign of focal length is not decided on the direction of measurement of the focal length from the pole of the lens as they have two focal lengths, one to the left and another to the right.
@@ -27,7 +27,7 @@ The sign conventions for thin lenses differ only in the signs followed for focal
 
 The other sign conventions for object distance, image distance, radius of curvature, object height and image height (except for the focal lengths as mentioned above) remain the same for thin lenses as that of spherical mirrors.
 
-### 6.6.3 Lens maker's formula and lens equation
+### Lens maker's formula and lens equation
 
 Let us consider a thin lens made up of a medium of refractive index \(n_2\) placed in a medium of refractive index \(n_1\). Let \(R_1\) and \(R_2\) be the radii of curvature of two spherical surfaces ① and ② respectively and P be the pole. Consider a point object O on the principal axis. A paraxial ray from O which falls very close to P, after refraction at the surface ① forms image at I'. Before it does so, it is again refracted by the surface ②. Therefore, the final image is formed at I.
 
@@ -85,7 +85,7 @@ $$
 
 This is the lens equation which relates object distance \(u\) and image distance \(v\) with the focal length \(f\) of the lens.
 
-### 6.6.4 Lateral magnification in thin lens
+### Lateral magnification in thin lens
 
 Let us consider an object OO' of height \(h_1\) placed on the principal axis with its height perpendicular to the principal axis. The inverted real image II' is formed which has a height \(h_2\).
 
@@ -168,7 +168,7 @@ As the focal length is positive, the lens is converging.
 
 ---
 
-### 6.6.5 Power of a lens
+### Power of a lens
 
 The power of a lens is a measure of its deviating ability on an incident light. When a ray is incident on a lens then the degree with which the lens deviates the ray is determined by the power of the lens. Power of the lens is inversely proportional to the focal length i.e., greater the power of lens, smaller will be the focal length. In other words, the power of a lens is a measure of the degree of convergence (or) divergence the lens produces on the light falling on it.
 
@@ -202,7 +202,7 @@ As the power is positive, it is a converging lens.
 
 ---
 
-### 6.6.6 Focal length of lenses in contact
+### Focal length of lenses in contact
 
 Let us consider two lenses ① and ② of focal lengths \(f_1\) and \(f_2\) placed coaxially in contact with each other so that they have a common principal axis. For a point object placed at O beyond the focus of the lens ① on the principal axis, an image is formed by it at I'. This image I' acts as an object for the lens ② and the final image is formed at I. As these two lenses are thin, the measurements are done with respect to the common optic centre P between the two lenses.
 
@@ -329,7 +329,7 @@ Thus, (a) final image is \(10\ \mathrm{cm}\) to the right of the second lens, (b
 
 ---
 
-### 6.6.7 Silvered lenses
+### Silvered lenses
 
 If one of the surfaces of a lens is silvered from outside, then such a lens is said to be a silvered lens. A silvered lens is a combination of a lens and a mirror. Light can enter through the transparent front surface of the lens and get reflected by the silver coated rear surface. Hence, light travels two times through the lens.
 

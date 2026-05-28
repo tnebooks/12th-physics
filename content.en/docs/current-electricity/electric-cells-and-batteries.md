@@ -10,7 +10,7 @@ Several electric cells connected together form a battery. When a cell or battery
 ![Figure 2.17 Simple electric cell](b30.png)
 ![Figure 2.18 Electric cells and Batteries](b31.png)
 
-### 2.4.1 Electromotive force and internal resistance
+### Electromotive force and internal resistance
 
 A battery or cell is called a source of electromotive force (emf). The term 'electromotive force' is a misnomer since it does not really refer to a force but describes a potential difference in volts. The emf of a battery or cell is the voltage provided by the battery when no current flows in the external circuit. It is shown in Figure 2.19.
 
@@ -18,7 +18,7 @@ A battery or cell is called a source of electromotive force (emf). The term 'ele
 
 Electromotive force determines the amount of work a battery or cell has to do to move a certain amount of charge around the circuit. It is denoted by the symbol \(\epsilon\). An ideal battery has zero internal resistance and the potential difference (terminal voltage) across the battery equals to its emf. In reality, the battery is made of electrodes and electrolyte, there is resistance to the flow of charges within the battery. This resistance is called internal resistance \(r\). For a real battery, the terminal voltage is not equal to the emf of the battery. A freshly prepared cell has low internal resistance and it increases with ageing.
 
-### 2.4.2 Determination of internal resistance
+### Determination of internal resistance
 
 The circuit connections are made as shown in Figure 2.20.
 
@@ -90,7 +90,7 @@ The power delivered to the resistor \(= I^{2}R = 46.3\mathrm{W}\)
 
 The remaining power \(P = (47.1 - 46.3) = 0.8\mathrm{W}\) is delivered to the internal resistance and cannot be used to do useful work. (It is equal to \(I^{2}r\))
 
-### 2.4.3 Cells in series
+### Cells in series
 
 Several cells can be connected to form a battery. In series connection, the negative terminal of one cell is connected to the positive terminal of the second cell, the negative terminal of second cell is connected to the positive terminal of the third cell and so on. The free positive terminal of the first cell and the free negative terminal of the last cell become the terminals of the battery.
 
@@ -159,7 +159,7 @@ iv) Potential difference across external resistance \(V = IR = 3.46\times 10 = 3
 
 v) Potential difference across each cell \(\frac{V}{n} = \frac{34.6}{4} = 8.65\mathrm{V}\)
 
-### 2.4.4 Cells in parallel
+### Cells in parallel
 
 In parallel connection all the positive terminals of the cells are connected to one point and all the negative terminals to a second point. These two points form the positive and negative terminals of the battery.
 

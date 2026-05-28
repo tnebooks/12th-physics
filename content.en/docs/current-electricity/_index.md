@@ -7,6 +7,6 @@ summary: "This unit explains the behavior of electric current in conductors, inc
 ---
 
 
-# 2. CURRENT ELECTRICITY
+# CURRENT ELECTRICITY
 
 > We will make electricity so cheap that only the rich will burn candles - Thomas A. Edison

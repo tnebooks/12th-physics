@@ -19,7 +19,7 @@ This chapter deals with the **flow of electric charge in conductors**.
 
 ---
 
-## 01. Electric Current
+## Electric Current
 Flow of electric charge per unit time.
 
 * Direction: From positive to negative (conventional)  
@@ -29,7 +29,7 @@ Flow of electric charge per unit time.
 
 ---
 
-## 02. Drift Velocity
+## Drift Velocity
 Average velocity of free electrons in a conductor.
 
 * Caused by applied electric field  
@@ -39,7 +39,7 @@ Average velocity of free electrons in a conductor.
 
 ---
 
-## 03. Ohm’s Law
+## Ohm’s Law
 Relation between voltage, current, and resistance.
 
 * Proposed by **:contentReference[oaicite:2]{index=2}**  
@@ -51,7 +51,7 @@ Relation between voltage, current, and resistance.
 
 ---
 
-## 04. Resistance
+## Resistance
 Opposition to the flow of current.
 
 * Depends on:
@@ -63,14 +63,14 @@ Opposition to the flow of current.
 
 ---
 
-## 05. Temperature Dependence
+## Temperature Dependence
 
 * Resistance increases with temperature (metals)  
 * Resistance decreases (semiconductors)  
 
 ---
 
-## 06. Combination of Resistors
+## Combination of Resistors
 
 ### Series Combination
 * Same current  
@@ -90,7 +90,7 @@ Opposition to the flow of current.
 
 ---
 
-## 07. Electrical Energy & Power
+## Electrical Energy & Power
 
 * Electrical energy = work done  
 * Power = rate of energy usage  
@@ -102,7 +102,7 @@ Opposition to the flow of current.
 
 ---
 
-## 08. Heating Effect of Current
+## Heating Effect of Current
 
 * Electrical energy converted into heat  
 
@@ -112,7 +112,7 @@ Opposition to the flow of current.
 
 ---
 
-## 09. Kirchhoff’s Laws
+## Kirchhoff’s Laws
 
 ### Kirchhoff’s Current Law (KCL)
 * Sum of currents at a junction = 0  

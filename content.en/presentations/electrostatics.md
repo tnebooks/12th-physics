@@ -19,7 +19,7 @@ This chapter deals with **electric charges at rest and the forces between them**
 
 ---
 
-## 01. Electric Charge
+## Electric Charge
 
 * Two types:
   - Positive charge  
@@ -29,7 +29,7 @@ This chapter deals with **electric charges at rest and the forces between them**
 
 ---
 
-## 02. Coulomb’s Law
+## Coulomb’s Law
 Force between two point charges.
 
 * Proposed by **:contentReference[oaicite:0]{index=0}**
@@ -38,7 +38,7 @@ Force between two point charges.
 
 ---
 
-## 03. Electric Field
+## Electric Field
 Region around a charge where force is experienced.
 
 * Electric field intensity:
@@ -49,13 +49,13 @@ Region around a charge where force is experienced.
 
 ---
 
-## 04. Electric Field due to Point Charge
+## Electric Field due to Point Charge
 
 :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 05. Electric Potential
+## Electric Potential
 Work done to bring unit charge from infinity.
 
 :contentReference[oaicite:4]{index=4}
@@ -64,13 +64,13 @@ Work done to bring unit charge from infinity.
 
 ---
 
-## 06. Potential due to Point Charge
+## Potential due to Point Charge
 
 :contentReference[oaicite:5]{index=5}
 
 ---
 
-## 07. Capacitor
+## Capacitor
 Device used to store electric charge.
 
 * Consists of two conducting plates  
@@ -78,7 +78,7 @@ Device used to store electric charge.
 
 ---
 
-## 08. Capacitance
+## Capacitance
 
 :contentReference[oaicite:6]{index=6}
 
@@ -86,13 +86,13 @@ Device used to store electric charge.
 
 ---
 
-## 09. Energy Stored in Capacitor
+## Energy Stored in Capacitor
 
 :contentReference[oaicite:7]{index=7}
 
 ---
 
-## 10. Capacitors in Series and Parallel
+## Capacitors in Series and Parallel
 
 ### Series Combination
 * Capacitance decreases  
