@@ -158,10 +158,10 @@ The uniform electric field between the plates acts as an external electric field
 But inside the dielectric, the net charge is zero even in a small volume. So the dielectric in the external field is equivalent to two oppositely charged sheets with the surface charge densities \(+ \sigma_{b}\) and \(- \sigma_{b}\). These charges are called bound charges. They are not free to move like free electrons in conductors.
 
 ![Figure 1.50 Induced electric field lines inside the dielectric](a52.png)
-
+****
 For example, the charged balloon after rubbing sticks onto a wall. The reason is that the negatively charged balloon is brought near the wall, it polarizes opposite charges on the surface of the wall, which attracts the balloon.
 
-![Figure 1.51 (a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon](a53.png)
+![Figure 1.51 (a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon](a53.png "youtube:o0lZz3lXo0A")
 
 ### Dielectric strength
 
