@@ -165,7 +165,9 @@ $$
 
 (i) From equations (1.17) and (1.21), it is inferred that for very large distances, the magnitude of the electric field at point on the dipole axis is twice the magnitude of the electric field at the point at the same distance on the equatorial plane. The direction of the electric field at points on the dipole axis is directed along the direction of dipole moment vector \(\bar{p}\) but at points on the equatorial plane it is directed opposite to the dipole moment vector, that is along \(-\bar{p}\).
 
-(ii) At very large distances, the electric field due to a dipole varies as \(\frac{1}{r^{3}}\). Note that for a point charge, the electric field varies as \(\frac{1}{r^{2}}\).
+(ii) At very large distances, the electric field due to a dipole varies as \(\frac{1}{r^{3}}\). Note that for a point charge, the electric field varies as \(\frac{1}{r^{2}}\).This implies that the electric field due to a dipole at very large distances goes to zero faster than the electric field due to a point charge. The reason for this behavior is that at very large distance, the two charges appear to be close to each other and neutralize each other.
+
+(iii) The equations (1.17) and (1.21) are valid only at very large distances (r>>a). Suppose the distance 2a approaches zero and q approaches infinity such that the product of 2aq = p is finite, then the dipole is called a point dipole. For such point dipoles, equations (1.17) and (1.21) are exact and hold true for any r.
 
 ### Torque experienced by an electric dipole in the uniform electric field
 
@@ -178,6 +180,9 @@ The total torque on the dipole about the point O
 $$
 \vec{\tau} = \overline{OA}\times (-q\vec{E}) + \overline{OB}\times q\vec{E} \quad (1.22)
 $$
+
+Using right-hand corkscrew rule (Refer XI, volume 1, unit 2), it is found that total torque is perpendicular to the plane of the
+paper and is directed into it.
 
 The magnitude of the total torque
 

@@ -9,7 +9,7 @@ The interaction between two charges is determined by Coulomb's law. How does the
 
 According to Faraday, every charge in the universe creates an electric field in the surrounding space, and if another charge is brought into its field, it will interact with the electric field at that point and will experience a force. It may be recalled that the interaction of two masses is similarly explained using the concept of gravitational field. Both the electric and gravitational forces are non-contact forces, hence the field concept is required to explain action at a distance.
 
-Consider a source point charge \(q\) located at a point in space. Another point charge \(q_{0}\) (test charge) is placed at some point P which is at a distance \(r\) from the charge \(q\). The electrostatic force experienced by the charge \(q_{0}\) due to \(q\) is given by Coulomb's law.
+Consider a source point charge \(q\) located at a point in space. Another point charge \(q*{0}\) (test charge) is placed at some point P which is at a distance \(r\) from the charge \(q\). The electrostatic force experienced by the charge \(q*{0}\) due to \(q\) is given by Coulomb's law.
 
 $$
 \bar{F} = \frac{kq q_{0}}{r^{2}}\hat{r} = \frac{1}{4\pi\epsilon_{0}}\frac{q q_{0}}{r^{2}}\hat{r} \quad \text{where } k = \frac{1}{4\pi\epsilon_{0}}
@@ -29,7 +29,7 @@ Here \(\hat{r}\) is the unit vector pointing from \(q\) to the point of interest
 
 ![Figure 1.4 Electric field of positive and negative charges](J.png)
 
-(ii) If the electric field at a point \(\mathrm{P}\) is \(\bar{E}\) then the force experienced by the test charge \(q_{\mathrm{o}}\) placed at the point \(\mathrm{P}\) is
+(ii) If the electric field at a point \(\mathrm{P}\) is \(\bar{E}\) then the force experienced by the test charge \(q\_{\mathrm{o}}\) placed at the point \(\mathrm{P}\) is
 
 $$
 \bar{F} = q_0\bar{E} \quad (1.5)
@@ -39,9 +39,11 @@ $$
 
 This is Coulomb's law in terms of electric field.
 
-(iii) The equation (1.4) implies that the electric field is independent of the test charge \(q_{\mathrm{o}}\) and it depends only on the source charge \(q\).
+(iii) The equation (1.4) implies that the electric field is independent of the test charge \(q\_{\mathrm{o}}\) and it depends only on the source charge \(q\).
 
 (iv) Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude. From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
+
+Note that in Figures 1.6 (a) and (b) the length of the electric field vector is shown for three different points. The strength or magnitude of the electric field at point P is stronger than at the points Q and R because the point P is closer to the source charge.
 
 ![Figure 1.6 (a) Electric field due to positive charge (b) Electric field due to negative charge](L.png)
 
@@ -51,13 +53,14 @@ This is Coulomb's law in terms of electric field.
 
 (vii) There are two kinds of the electric field: uniform (constant) electric field and non-uniform electric field. Uniform electric field will have the same direction and constant magnitude at all points in space. Non-uniform electric field will have different directions or different magnitudes or both at different points in space. The electric field created by a point charge is basically a non uniform electric field. This non-uniformity arises, both in direction and magnitude, with the direction being radially outward (or inward) and the magnitude changes as distance increases.
 
-![Figure 1.7 Uniform and non-uniform electric field](L.png)
+![Figure 1.7 Uniform and non-uniform electric field](M.png)
 
 **EXAMPLE 1.6**
 
 Calculate the electric field at points P, Q for the following two cases, as shown in the figure.
 
 (a) A positive point charge \(+1\mu \mathrm{C}\) is placed at the origin
+
 (b) A negative point charge \(-2\mu \mathrm{C}\) is placed at the origin
 
 ![](N.png)
@@ -71,6 +74,7 @@ The magnitude of the electric field at point P is
 $$
 E_{p} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{r^{2}} = \frac{9\times 10^{9}\times 1\times 10^{-6}}{4}
 $$
+
 $$
 = 2.25\times 10^{3}\mathrm{NC}^{-1}
 $$
@@ -87,7 +91,7 @@ $$
 \left|\vec{E}_{Q}\right| = \frac{9\times 10^{9}\times 1\times 10^{-6}}{16} = 0.56\times 10^{3}\mathrm{NC}^{-1}
 $$
 
-Hence \(\vec{E}_{Q} = 0.56\times 10^{3}\hat{\imath}\mathrm{NC}^{-1}\)
+Hence \(\vec{E}\_{Q} = 0.56\times 10^{3}\hat{\imath}\mathrm{NC}^{-1}\)
 
 **Case (b)**
 
@@ -96,6 +100,7 @@ The magnitude of the electric field at point P
 $$
 \left|\vec{E}_{P}\right| = \frac{kq}{r^{2}} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{r^{2}} = \frac{9\times 10^{9}\times 2\times 10^{-6}}{4}
 $$
+
 $$
 = 4.5\times 10^{3}\mathrm{NC}^{-1}
 $$
@@ -106,7 +111,7 @@ $$
 \vec{E}_{p} = -4.5\times 10^{3}\hat{\imath}\mathrm{NC}^{-1}
 $$
 
-For the point Q, \(\left|\vec{E}_{Q}\right| = \frac{9\times 10^{9}\times 2\times 10^{-6}}{36} = 0.5\times 10^{3}\mathrm{NC}^{-1}\)
+For the point Q, \(\left|\vec{E}\_{Q}\right| = \frac{9\times 10^{9}\times 2\times 10^{-6}}{36} = 0.5\times 10^{3}\mathrm{NC}^{-1}\)
 
 $$
 \vec{E}_{Q} = 0.5\times 10^{3}\hat{\imath}\mathrm{NC}^{-1}
@@ -120,7 +125,7 @@ At the point Q the electric field is directed along the positive \(x\)-axis.
 
 Suppose a number of point charges are distributed in space. To find the electric field at some point P due to this collection of point charges, superposition principle is used. The electric field at an arbitrary point due to a collection of point charges is simply equal to the vector sum of the electric fields created by the individual point charges. This is called superposition of electric fields.
 
-Consider a collection of point charges \(q_{1},q_{2},q_{3},\dots q_{n}\) located at various points in space. The total electric field at some point P due to all these \(n\) charges is given by
+Consider a collection of point charges \(q*{1},q*{2},q*{3},\dots q*{n}\) located at various points in space. The total electric field at some point P due to all these \(n\) charges is given by
 
 $$
 \vec{E}_{tot} = \vec{E}_1 + \vec{E}_2 + \vec{E}_3 + \dots + \vec{E}_n \quad (1.6)
@@ -130,11 +135,14 @@ $$
 \vec{E}_{tot} = \frac{1}{4\pi\epsilon_0}\left\{\frac{q_1}{r_{1P}^2}\hat{r}_{1P} + \frac{q_2}{r_{2P}^2}\hat{r}_{2P} + \frac{q_3}{r_{3P}^2}\hat{r}_{3P} + \dots + \frac{q_n}{r_{nP}^2}\hat{r}_{nP}\right\} \quad (1.7)
 $$
 
-where \(r_{1P},r_{2P},r_{3P},\dots r_{nP}\) are the distance of the charges \(q_{1},q_{2},q_{3},\dots q_{n}\) from the point P respectively. Also \(\hat{r}_{1P},\hat{r}_{2P},\hat{r}_{3P},\dots \hat{r}_{nP}\) are the corresponding unit vectors directed from \(q_{1},q_{2},q_{3},\dots q_{n}\) to P. Equation (1.7) can be re-written as,
+where \(r*{1P},r*{2P},r*{3P},\dots r*{nP}\) are the distance of the charges \(q*{1},q*{2},q*{3},\dots q*{n}\) from the point P respectively. Also \(\hat{r}_{1P},\hat{r}_{2P},\hat{r}_{3P},\dots \hat{r}_{nP}\) are the corresponding unit vectors directed from \(q*{1},q*{2},q*{3},\dots q*{n}\) to P. Equation (1.7) can be re-written as,
 
 $$
 \vec{E}_{tot} = \frac{1}{4\pi\epsilon_0}\sum_{i = 1}^{n}\left(\frac{q_i}{r_{iP}^2}\hat{r}_{iP}\right) \quad (1.8)
 $$
+
+For example in Figure 1.8, the resultant electric field due to three point charges q q q1 2 3, , at point P is shown.
+Note that the relative lengths of the electric field vectors for the charges depend on relative distances of the charges to the point P.
 
 ![Figure 1.8 Superposition of Electric field](P.png)
 
@@ -152,11 +160,12 @@ $$
 \vec{E}_A = \frac{1}{4\pi\epsilon_0}\frac{q_1}{r_{1A}^2}\hat{r}_{1A} + \frac{1}{4\pi\epsilon_0}\frac{q_2}{r_{2A}^2}\hat{r}_{2A}
 $$
 
-where \(r_{1A}\) and \(r_{2A}\) are the distances of point A from the two charges respectively.
+where \(r*{1A}\) and \(r*{2A}\) are the distances of point A from the two charges respectively.
 
 $$
 \vec{E}_A = \frac{9\times 10^9\times 1\times 10^{-6}}{(2\times 10^{-3})^2}\hat{j} + \frac{9\times 10^9\times 1\times 10^{-6}}{(2\times 10^{-3})^2}\hat{i}
 $$
+
 $$
 = 2.25\times 10^9\hat{j} + 2.25\times 10^9\hat{i} = 2.25\times 10^9(\hat{i}+\hat{j})
 $$
@@ -167,7 +176,7 @@ $$
 |\vec{E}_A| = 2.25\times 10^9\sqrt{2} = 3.18\times 10^9 \mathrm{NC}^{-1}
 $$
 
-The direction of \(\bar{E}_{\mathrm{A}}\) is given by \(\frac{\bar{E}_{\mathrm{A}}}{\left|\bar{E}_{\mathrm{A}}\right|} = \frac{2.25\times 10^{9}(\hat{i} +\hat{j})}{2.25\times\sqrt{2}\times 10^{9}} = \frac{(\hat{i} +\hat{j})}{\sqrt{2}}\) which is the unit vector along OA.
+The direction of \(\bar{E}_{\mathrm{A}}\) is given by \(\frac{\bar{E}_{\mathrm{A}}}{\left|\bar{E}\_{\mathrm{A}}\right|} = \frac{2.25\times 10^{9}(\hat{i} +\hat{j})}{2.25\times\sqrt{2}\times 10^{9}} = \frac{(\hat{i} +\hat{j})}{\sqrt{2}}\) which is the unit vector along OA.
 
 ![](R.png)
 
@@ -176,14 +185,16 @@ The acceleration experienced by an electron placed at point A is
 $$
 \bar{a}_{A} = \frac{\bar{F}}{m} = \frac{q\bar{E}_{A}}{m}
 $$
+
 $$
 = \frac{(-1.6\times 10^{-19})\times (2.25\times 10^{9})(\hat{i} +\hat{j})}{9.1\times 10^{-31}}
 $$
+
 $$
 = -3.95\times 10^{20}(\hat{i} +\hat{j})\mathrm{N}\mathrm{kg}^{-1}
 $$
 
-The electron is accelerated in a direction exactly opposite to \(\bar{E}_{A}\).
+The electron is accelerated in a direction exactly opposite to \(\bar{E}\_{A}\).
 
 ### Electric field due to continuous charge distribution
 
@@ -197,6 +208,8 @@ A block of mass \(m\) carrying a positive charge \(q\) is placed on an insulated
 
 **Solution**
 
+Note: A similar problem is solved in XIth Physics volume I, unit 3 section 3.3.2.
+
 There are three forces that acts on the mass \(m\):
 
 (i) The downward gravitational force exerted by the Earth \((mg)\)
@@ -204,6 +217,8 @@ There are three forces that acts on the mass \(m\):
 (ii) The normal force exerted by the inclined surface \((N)\)
 
 (iii) The Coulomb force given by uniform electric field \((qE)\)
+
+The free body diagram for the mass m is drawn below.
 
 ![](T.png)
 
@@ -214,9 +229,11 @@ Along \(x\)-direction, applying Newton's second law, we have
 $$
 mg\sin \theta \hat{i} - qE\hat{i} = 0
 $$
+
 $$
 mg\sin \theta - qE = 0
 $$
+
 $$
 E = \frac{mg\sin\theta}{q}
 $$
@@ -275,12 +292,12 @@ The following pictures depict electric field lines for various charge configurat
 
 (ii) In figure (b), calculate the ratio of two positive charges and identify the strength of the electric field at three points A, B, and C
 
-(iii) Figure (c) represents the electric field lines for three charges. If \(q_{2} = -20 \mathrm{nC}\), then calculate the values of \(q_{1}\) and \(q_{3}\)
+(iii) Figure (c) represents the electric field lines for three charges. If \(q*{2} = -20 \mathrm{nC}\), then calculate the values of \(q*{1}\) and \(q\_{3}\)
 
 **Solution**
 
-(i) The electric field lines start at \(q_{2}\) and end at \(q_{1}\). In figure (a), \(q_{2}\) is positive and \(q_{1}\) is negative. The number of lines starting from \(q_{2}\) is 18 and number of the lines ending at \(q_{1}\) is 6. So \(q_{2}\) has greater magnitude. The ratio of \(\left|\frac{q_1}{q_2}\right| = \frac{N_1}{N_2} = \frac{6}{18} = \frac{1}{3}\). It implies that \(|q_{2}| = 3|q_{1}|\)
+(i) The electric field lines start at \(q*{2}\) and end at \(q*{1}\). In figure (a), \(q*{2}\) is positive and \(q*{1}\) is negative. The number of lines starting from \(q*{2}\) is 18 and number of the lines ending at \(q*{1}\) is 6. So \(q*{2}\) has greater magnitude. The ratio of \(\left|\frac{q_1}{q_2}\right| = \frac{N_1}{N_2} = \frac{6}{18} = \frac{1}{3}\). It implies that \(|q*{2}| = 3|q\_{1}|\)
 
 (ii) In figure (b), the number of field lines emanating from both positive charges are equal (N=18). So the charges are equal. At point A, the electric field lines are denser compared to the lines at point B. So the electric field at point A is greater in magnitude compared to the field at point B. Further, no electric field line passes through C, which implies that the resultant electric field at C due to these two charges is zero.
 
-(iii) In the figure (c), the electric field lines start at \(q_{1}\) and \(q_{3}\) and end at \(q_{2}\). This implies that \(q_{1}\) and \(q_{3}\) are positive charges. The ratio of the number of field lines is \(\left|\frac{q_1}{q_2}\right| = \frac{8}{16} = \left|\frac{q_3}{q_2}\right| = \frac{1}{2}\), implying that \(q_{1}\) and \(q_{3}\) are half of the magnitude of \(q_{2}\). So \(q_{1} = q_{3} = +10 \mathrm{nC}\).
+(iii) In the figure (c), the electric field lines start at \(q*{1}\) and \(q*{3}\) and end at \(q*{2}\). This implies that \(q*{1}\) and \(q*{3}\) are positive charges. The ratio of the number of field lines is \(\left|\frac{q_1}{q_2}\right| = \frac{8}{16} = \left|\frac{q_3}{q_2}\right| = \frac{1}{2}\), implying that \(q*{1}\) and \(q*{3}\) are half of the magnitude of \(q*{2}\). So \(q*{1} = q*{3} = +10 \mathrm{nC}\).

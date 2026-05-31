@@ -102,11 +102,13 @@ $$
 
 (i) If the source charge \(q\) is positive, \(V > 0\). If \(q\) is negative, then \(V\) is negative and equal to \(V = -\frac{1}{4\pi\epsilon_0} \frac{q}{r}\)
 
-(ii) From expression (1.33), it is clear that the potential due to positive charge decreases as the distance increases, but for a negative charge the potential increases as the distance is increased. At infinity \((r = \infty)\) electrostatic potential is zero \((V = 0)\).
+(ii) From expression (1.33), it is clear that the potential due to positive charge decreases as the distance increases, but for a negative charge the potential increases as the distance is increased. At infinity \((r = \infty)\) electrostatic potential is zero \((V = 0)\). In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower
 
 ![Figure 1.22 Motion of masses in terms of gravitational potential](a14.png)
 
 ![Figure 1.23 Motion of charges in terms of electric potential](a15.png)
+
+gravitational potential (Figure 1.22). Similarly a positive charge moves from a point of higher electrostatic potential to a point of lower electrostatic potential. However a negative charge moves from lower electrostatic potential to higher electrostatic potential. This comparison is shown in Figure 1.23.
 
 (iii) The electric potential at a point P due to a collection of charges \(q_{1}, q_{2}, q_{3}, \ldots , q_{n}\) is equal to sum of the electric potentials due to individual charges.
 

@@ -5,11 +5,11 @@ weight: 6
 
 ### Electric Flux
 
-The number of electric field lines crossing a given area kept normal to the electric field lines is called electric flux. It is usually denoted by the Greek letter \(\Phi_{E}\) and its unit is \(\mathrm{Nm^2C^{-1}}\). Electric flux is a scalar quantity and it can be positive or negative.
+The number of electric field lines crossing a given area kept normal to the electric field lines is called electric flux. It is usually denoted by the Greek letter \(\Phi_{E}\) and its unit is \(\mathrm{Nm^2C^{-1}}\). Electric flux is a scalar quantity and it can be positive or negative. For a simpler understanding of electric flux, the following Figure 1.30 is useful.
 
 ![Figure 1.30 Electric flux](a27.png)
 
-The electric field of a point charge is drawn. Consider two small rectangular area elements placed normal to the field at regions A and B. Even though these elements have the same area, the number of electric field lines crossing the element in region A is more than that crossing the element in region B. Therefore the electric flux in region A is more than that in region B. Since electric field strength for a point charge decreases as the distance increases, electric flux also decreases as the distance increases.
+The electric field of a point charge is drawn. Consider two small rectangular area elements placed normal to the field at regions A and B. Even though these elements have the same area, the number of electric field lines crossing the element in region A is more than that crossing the element in region B. Therefore the electric flux in region A is more than that in region B. Since electric field strength for a point charge decreases as the distance increases, electric flux also decreases as the distance increases. The above discussion gives a qualitative idea of electric flux. However a precise definition of electric flux is needed.
 
 ### Electric flux for uniform Electric field
 
@@ -83,17 +83,21 @@ $$
 \Phi_{E} = \sum_{i=1}^{n} \vec{E}_{i}\cdot \Delta \vec{A}_{i} \quad (1.56)
 $$
 
-By taking the limit \(\Delta \vec{A}_i \to 0\) (for each area element), the summation becomes integration. Then the electric flux for the entire area \(A\) is
+By taking the limit \(\Delta \vec{A}_i \to 0\) (for each area element), the summation becomes integration. Then the electric flux for the entire area \(A\) is given by
 
 $$
 \Phi_{E} = \int \vec{E}\cdot d\vec{A} \quad (1.57)
 $$
 
+From Equation (1.57), it is clear that the electric flux for a given surface depends on both the electric field pattern on the surface area and orientation of the surface with respect to the electric field.
+
 ### Electric flux for closed surfaces
 
-Suppose a closed surface is present in the region of the non-uniform electric field. The total electric flux over this closed surface is written as
+In the previous section, the electric flux for any arbitrary curved surface is discussed. Suppose a closed surface is present in the region of the non-uniform electric field as shown in Figure 1.33 (a).
 
 ![Figure 1.33 Electric flux over a closed surface](a31.png)
+
+The total electric flux over this closed surface is written as
 
 $$
 \Phi_{E} = \oint \bar{E}\cdot d\bar{A} \quad (1.58)
