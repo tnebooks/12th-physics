@@ -23,16 +23,14 @@ In this unit, basics of magnets and their properties are given. Later, how a cur
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north-south direction of the Earth.
 
-William Gilbert in 1600 proposed that Earth itself behaves like a gigantic powerful bar magnet. But this theory is not successful because the temperature inside the Earth is very high and so it will not be possible for a magnet to retain its magnetism.
-
-Gover suggested that the Earth's magnetic field is due to hot rays coming out from the Sun. These rays will heat up the air near equatorial region. Once air becomes hotter, it rises above and will move towards northern and southern hemispheres and get electrified. This may be responsible to magnetize the ferromagnetic materials near the Earth's surface. Till date, so many theories have been proposed. But none of the theory completely explains the cause for the Earth's magnetism.
-
 The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole. Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north-pole of the Earth which is near the geographic south pole. The branch of physics which deals with the Earth's magnetic field is called Geomagnetism or Terrestrial magnetism.
 
 There are three quantities required to specify the magnetic field of the Earth on its surface, which are often called as the elements of the Earth's magnetic field. They are
 
 (a) magnetic declination \((D)\)
+
 (b) magnetic dip or inclination \((I)\)
+
 (c) the horizontal component of the Earth's magnetic field \((B_{H})\)
 
 ![Figure 3.4 Declination angle](a4.png)
@@ -58,6 +56,8 @@ $$
 
 Dividing equation (3.2) and (3.1), we get
 
+![Figure 3.5 Inclination angle](a5.png)
+
 $$
 \tan I = \frac{B_{V}}{B_{H}} \quad (3.3)
 $$
@@ -65,8 +65,6 @@ $$
 #### (i) At magnetic equator
 
 The Earth's magnetic field is parallel to the surface of the Earth (i.e., horizontal) which implies that the needle of magnetic compass rests horizontally at an angle of dip, \(I = 0^{\circ}\).
-
-![Figure 3.5 Inclination angle](a5.png)
 
 \(B_{H} = B_{E}\)
 \(B_{V} = 0\)
@@ -100,10 +98,6 @@ $$
 B = \sqrt{B_{H}^{2} + B_{V}^{2}} = 0.3\mathrm{G}
 $$
 
-**Aurora Borealis and Aurora Australis**
-
-People living at high latitude regions (near Arctic or Antarctic) might experience dazzling coloured natural lights across the night sky. This ethereal display on the sky is known as aurora borealis (northern lights) or aurora australis (southern lights). These lights are often called as polar lights. The lights are seen above the magnetic poles of the northern and southern hemispheres. They are called as "Aurora borealis" in the north and "Aurora australis" in the south. This occurs as a result of interaction between the gaseous particles in the Earth's atmosphere with highly charged particles released from the Sun's atmosphere through solar wind. These particles emit light due to collision and variations in colour are due to the type of the gas particles that take part in the collisions. A pale yellowish – green colour is produced when the ionized oxygen takes part in the collision and a blue or purplish – red aurora is produced due to ionized nitrogen molecules.
-
 ### Basic properties of magnets
 
 Some basic terminologies and properties used in describing bar magnet.
@@ -111,6 +105,8 @@ Some basic terminologies and properties used in describing bar magnet.
 #### (a) Magnetic dipole moment
 
 Consider a bar magnet. Let \(q_{m}\) be the pole strength of the magnetic pole and let \(l\) be the distance between the geometrical centre of bar magnet O and one end of the pole. The magnetic dipole moment is defined as the product of its pole strength and magnetic length. It is a vector quantity, denoted by \(\vec{p}_{m}\).
+
+![Figure 3.6 A bar magnet](image4.png)
 
 $$
 \vec{p}_{m} = q_{m}\vec{d} \quad (3.4)
