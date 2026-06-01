@@ -3,16 +3,10 @@ title: "Ohm's Law"
 weight: 2
 ---
 
-> Why current density is a vector but current is a scalar? In general, the current I is defined as the scalar product of the current density and area vector in which the charges cross.
-> $$
-> I = \vec{J}\cdot \vec{A}
-> $$
-> The current I can be positive or negative depending on the choice of the unit vector normal to the surface area A.
-
-![Figure 2.7 Current through the conductor](b8.png)
 
 The ohm's law can be derived from the equation \(J = \sigma E\). Consider a segment of wire of length \(l\) and cross sectional area \(A\) as shown in Figure 2.7.
 
+![Figure 2.7 Current through the conductor](b8.png)
 
 When a potential difference \(V\) is applied across the wire, a net electric field is created in the wire which constitutes the current in the wire. For simplicity, we assume that the electric field is uniform in the entire length of the wire, then the potential difference (voltage \(V\)) can be written as
 
@@ -380,5 +374,259 @@ Substituting in equation (1)
 
 \(R_{2} = 8\Omega, \text{ i.e., } (\text{when } R_{1} = 7\Omega; R_{2} = 8\Omega)\)
 
+## EXAMPLE 2.11
+
+Calculate the equivalent resistance between A and B in the given circuit.
+
+![](img2.11.1.png)
+
+### Solution
+
+In all the sections, the resistors are connected in parallel.
+
+**Section 1**
+
+$$
+\frac{1}{R_p} = \frac{1}{R_1} + \frac{1}{R_2}
+$$
+
+$$
+\frac{1}{R_p} = \frac{1}{2} + \frac{1}{2} = \frac{2}{2} \quad R_p = 1\Omega
+$$
+
+![](sec1.png)
+
+**Section II**
+
+$$
+\frac{1}{R_p} = \frac{1}{4} + \frac{1}{4} = \frac{2}{4} \quad R_p = \frac{2}{2} \quad R_p = 2\Omega
+$$
+
+![](sec2.png)
+
+**Section III**
+
+$$
+\frac{1}{R_p} = \frac{1}{6} + \frac{1}{6} = \frac{2}{6}
+$$
+
+$$
+\frac{1}{R_p} = \frac{1}{3} \quad R_p = 3\Omega
+$$
+
+**Equivalent resistance** is given by
+
+$$
+R = R_p + R_p + R_p
+$$
+
+$$
+R = 1\Omega + 2\Omega + 3\Omega = 6\Omega
+$$
+
+The circuit becomes,
+
+![](sec3.png)
+
+Equivalent resistance between A and B is
+
+![](sec4.png)
+
+## EXAMPLE 2.12
+
+Five resistors are connected in the configuration as shown in the figure. Calculate the equivalent resistance between the points \( a \) and \( b \).
+
+![](img2.12.1.png)
+
+### Solution
+
+**Case (a)**
+
+To find the equivalent resistance between the points \( a \) and \( b \), we assume that a current is entering the junction at \( a \). Since all the resistances in the outside loop are the same (\( 1\Omega \)), the current in the branches \( ac \) and \( ad \) must be equal. Hence the points \( C \) and \( D \) are at the same potential and no current through \( 5\Omega \). It implies that the \( 5\Omega \) has no role in determining the equivalent resistance and it can be removed. So the circuit is simplified as shown in the figure.
+
+![](img2.12.2.png)
+
+The equivalent resistance of the circuit between a and b is Req = 1 Ω
+
+### 2.2.3 Colour code for Carbon resistors
+
+![Figure 2.11 Resistances used in laboratory](image1.png)
+
+Carbon resistors consists of a ceramic core, on which a thin layer of crystalline carbon is deposited as shown in Figure 2.11. These resistors are inexpensive, stable and compact in size. Colour rings are used to indicate the value of the resistance according to the rules given in the Table 2.2.
+
+Three coloured rings are used to indicate the values of a resistor: the first two rings are significant figures of resistances, the third ring indicates the decimal multiplier after them. The fourth colour, silver or gold, shows the tolerance of the resistor at \( 10\% \) or \( 5\% \) as shown in the Figure 2.12. If there is no fourth ring, the tolerance is \( 20\% \).
 
 ---
+
+#### Table 2.2
+**Colour Coding for Resistors**
+
+| Colour | Number | Multiplier | Tolerance |
+|---|---|---|---|
+| Black  | 0    | 1    | \( 20\% \) |
+| Brown  | 1    | \( 10^1 \) | \( 1\% \) |
+| Red    | 2    | \( 10^2 \) | \( 2\% \) |
+| Orange | 3    | \( 10^3 \) | \( 0.05\% \) |
+| Yellow | 4    | \( 10^4 \) | \( 0.02\% \) |
+| Green  | 5    | \( 10^5 \) | \( 0.5\% \) |
+| Blue   | 6    | \( 10^6 \) | \( 0.25\% \) |
+| Violet | 7    | \( 10^7 \) | \( 0.1\% \) |
+| Gray   | 8    | \( 10^8 \) | \( 0.01\% \) |
+| White  | 9    | \( 10^9 \) | \( 0.01\% \) |
+| Gold   | –    | \( 10^{-1} \) | \( 5\% \) |
+| Silver | –    | \( 10^{-2} \) | \( 10\% \) |
+| Colourless | – | – | \( 20\% \) |
+
+---
+
+For the resistor shown in Figure 2.12, the first digit = 5 (green), the second digit = 6 (blue), decimal multiplier = 103 (orange)
+and tolerance = 5% (gold). The value of resistance = 56 × 103 Ω or 56 kΩ with the tolerance value 5%.
+
+![Figure 2.12 Resistor colour coding](imag2.png)
+
+### 2.2.4 Temperature dependence of resistivity
+
+The resistivity of a material is dependent on temperature. It is experimentally found that for a wide range of temperatures, the resistivity of a conductor increases with increase in temperature according to the expression,
+
+$$
+\rho_T = \rho_0 \left[ 1 + \alpha (T - T_0) \right] \tag{2.27}
+$$
+
+where \( \rho_T \) is the resistivity of a conductor at \( T^\circ C \), \( \rho_0 \) is the resistivity of the conductor at some reference temperature \( T_0 \) (usually at \( 20^\circ C \)) and \( \alpha \) is the temperature coefficient of resistivity. It is defined as the ratio of increase in resistivity per degree rise in temperature to its resistivity at \( T_0 \).
+
+From the equation (2.27), we can write
+
+$$
+\rho_T - \rho_0 = \alpha \rho_0 (T - T_0)
+$$
+
+$$
+\alpha = \frac{\rho_T - \rho_0}{\rho_0 (T - T_0)} = \frac{\Delta \rho}{\rho_0 \Delta T}
+$$
+
+where \( \Delta \rho = \rho_T - \rho_0 \) is change in resistivity for a change in temperature \( \Delta T = T - T_0 \). Its unit is per \( ^\circ C \).
+
+#### \( \alpha \) of conductors
+
+For conductors \( \alpha \) is positive. If the temperature of a conductor increases, the average kinetic energy of electrons in the conductor increases. This results in more frequent collisions and hence the resistivity increases. The graph of the equation (2.27) is shown in Figure 2.13.
+
+Even though, the resistivity of conductors like metals varies linearly for wide range of temperatures, there also exists a non-linear region at very low temperatures. The resistivity approaches some finite value as the temperature approaches absolute zero as shown in Figure 2.13(b).
+
+---
+
+![Figure 2.13 (a) Temperature dependence of resistivity for a conductor (b) Non linear region at low temperature](ima1.png)
+
+Using the equation \( \rho = R \frac{A}{l} \) in equation (2.27), we get the expression for the resistance of a conductor at temperature \( T^\circ C \) as
+
+$$
+R_T = R_0 \left[ 1 + \alpha (T - T_0) \right] \tag{2.28}
+$$
+
+The temperature coefficient of resistivity can also be obtained from the equation (2.28).
+
+$$
+R_T - R_0 = \alpha R_0 (T - T_0)
+$$
+
+$$
+\alpha = \frac{R_T - R_0}{R_0 (T - T_0)}
+$$
+
+$$
+\alpha = \frac{1}{R_0} \frac{\Delta R}{\Delta T} \tag{2.29}
+$$
+
+where \( \Delta R = R_T - R_0 \) is change in resistance during the change in temperature \( \Delta T = T - T_0 \).
+
+#### \( \alpha \) of semiconductors
+
+For semiconductors, the resistivity decreases with increase in temperature. As the temperature increases, more electrons will be liberated from their atoms (Refer unit 9 for conduction in semiconductors).
+
+![](image3.png)
+
+Hence the current increases and therefore the resistivity decreases as shown in Figure 2.14. A semiconductor with a negative
+temperature coefficient of resistivity is called a thermistor. The typical values of temperature coefficients of various materials are given in table 2.3.
+
+
+---
+
+### Table 2.3
+
+| Material    | Temperature Coefficient of resistivity \( \alpha \) [\( ^\circ C^{-1} \)] |
+|---|---|
+| Silver    | \( 3.8 \times 10^{-3} \)    |
+| Copper    | \( 3.9 \times 10^{-3} \)    |
+| Gold      | \( 3.4 \times 10^{-3} \)    |
+| Aluminum  | \( 3.9 \times 10^{-3} \)    |
+| Tungsten  | \( 4.5 \times 10^{-3} \)    |
+| Iron      | \( 5.0 \times 10^{-3} \)    |
+| Platinum  | \( 3.92 \times 10^{-3} \)   |
+| Lead      | \( 3.9 \times 10^{-3} \)    |
+| Nichrome  | \( 0.4 \times 10^{-3} \)    |
+| Carbon    | \( -0.5 \times 10^{-3} \)   |
+| Germanium | \( -48 \times 10^{-3} \)    |
+| Silicon   | \( -75 \times 10^{-3} \)    |
+
+---
+
+We can understand the temperature dependence of resistivity in the following way. In section 2.1.3, we have shown that the electrical conductivity, \( \sigma = \frac{n e^2 \tau}{m} \). As the resistivity is inverse of \( \sigma \), it can be written as
+
+$$
+\rho = \frac{m}{n e^2 \tau} \tag{2.30}
+$$
+
+The resistivity of materials is  
+1) inversely proportional to the number density (\( n \)) of the electrons  
+2) inversely proportional to the average time between the collisions (\( \tau \)).
+
+In metals, if the temperature increases, the average time between the collision (\( \tau \)) decreases and \( n \) is independent of temperature. In semiconductors when temperature increases, \( n \) increases and \( \tau \) decreases, but increase in \( n \) is dominant than decreasing \( \tau \), so that overall resistivity decreases.
+
+### EXAMPLE 2.13
+
+If the resistance of a cell is \( 3 \, \Omega \) at \( 20^\circ C \) and \( \alpha = 0.004/^\circ C \), then determine its resistance at \( 100^\circ C \).
+
+**Solution**
+
+$$
+R_0 = 3 \, \Omega, \quad T = 100^\circ C, \quad T_0 = 20^\circ C
+$$
+
+$$
+\alpha = 0.004 / ^\circ C, \quad R_T = ?
+$$
+
+$$
+R_T = R_0 (1 + \alpha (T - T_0))
+$$
+
+$$
+R_{100} = 3 (1 + 0.004 \times 80)
+$$
+
+$$
+R_{100} = 3.96 \, \Omega
+$$
+
+---
+
+**EXAMPLE 2.14**
+
+Resistance of a material at \( 20^\circ C \) and \( 40^\circ C \) are \( 45 \, \Omega \) and \( 85 \, \Omega \) respectively. Find its temperature coefficient of resistivity.
+
+**Solution**
+
+$$
+T_0 = 20 \, ^\circ C, \quad T = 40 \, ^\circ C, \quad R_0 = 45 \, \Omega, \quad R = 85 \, \Omega
+$$
+
+$$
+\alpha = \frac{1}{R_0} \frac{\Delta R}{\Delta T}
+$$
+
+$$
+\alpha = \frac{1}{45} \left( \frac{85 - 45}{40 - 20} \right) = \frac{1}{45} (2)
+$$
+
+$$
+\alpha = 0.044 \, \text{per} \, ^\circ C
+$$

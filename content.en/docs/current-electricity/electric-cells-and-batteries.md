@@ -148,9 +148,11 @@ iii) Total current \(I = \frac{n\epsilon}{R + nr}\)
 $$
 = \frac{4\times 9}{10 + (4\times 0.1)}
 $$
+
 $$
 = \frac{4\times 9}{10 + 0.4} = \frac{36}{10.4}
 $$
+
 $$
 I = 3.46\mathrm{A}
 $$

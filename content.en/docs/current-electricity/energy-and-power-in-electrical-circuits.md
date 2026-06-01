@@ -23,7 +23,7 @@ $$
 
 This expression gives the power delivered by the battery to any electrical system, where \(I\) is the current passing through it and \(V\) is the potential difference across it. The SI unit of electrical power is watt \((1W = 1\mathrm{J}\mathrm{s}^{- 1})\). Commercially, the electrical bulbs used in houses come with the power and voltage rating of 5W- 220V, 30W- 220V, 60W- 220V etc. (Figure 2.16).
 
-![Figure 2.16 Electrical bulbs with power rating](b27.png)
+![Figure 2.16 Electrical bulbs with power rating](image2.3.png)
 
 Usually these voltage rating refers AC RMS voltages. For a given bulb, if the voltage drop across the bulb is greater than voltage rating, the bulb will fuse.
 
@@ -79,7 +79,9 @@ For 100W- 220V bulb,
 Both the bulbs are connected in series. So same current will pass through both the bulbs. The current that passes through the circuit, \(I = \frac{V}{R_{tot}}\).
 
 \(R_{tot} = (R_{1} + R_{2})\)
+
 \(R_{tot} = (484 + 2420)\Omega = 2904\Omega\)
+
 \(I = \frac{440V}{2904\Omega}\approx 0.151\mathrm{A}\)
 
 The voltage drop across the 20W bulb is
