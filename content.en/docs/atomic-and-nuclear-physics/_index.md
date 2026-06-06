@@ -3,6 +3,11 @@ title: 'Atomic and Nuclear Physics'
 categories:
     - atomic-and-nuclear-physics
 weight: 9
+references:
+    videos:
+        - 
+    links:
+        - "[Atomic and Nuclear Physics](https://phet.colorado.edu/en/simulations/nuclear-fission)"
 summary: "This unit explains the structure of atoms and nuclei, beginning with experiments like J.J. Thomson experiment and Millikan’s oil drop experiment to determine properties of the electron. It covers atomic models such as Rutherford model and the Bohr atom model, along with atomic spectra."
 
 ---

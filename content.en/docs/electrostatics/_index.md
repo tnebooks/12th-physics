@@ -5,7 +5,7 @@ references:
     videos:
         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
     links:
-        - http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
+        - "[Electrostatics](https://www.falstad.com/emstatic)"
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson

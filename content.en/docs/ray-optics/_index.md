@@ -3,6 +3,11 @@ title: 'Ray Optics'
 categories:
     - ray-optics
 weight: 6
+references:
+    videos:
+        - 
+    links:
+        - "[Ray Optics](https://www.physics.wisc.edu/instructional/phys208/ray-optics/)"
 summary: "This unit introduces the ray nature of light and explains how light behaves through reflection and refraction. It covers the measurement of the speed of light and the principles behind optical devices like mirrors, lenses, and prisms. The unit also discusses important phenomena such as dispersion and scattering of light."
 ---
 
