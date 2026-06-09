@@ -19,7 +19,7 @@ the displacement current Maxwell's correction to Ampere's circuital law Maxwell'
 
 # 5.1 INTRODUCTION
 
-<center>Figure 5.1 Visible spectrum - rainbow and lightning </center>
+![](5.1.png)
 
 We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure
 
@@ -29,11 +29,10 @@ In unit 4, we studied that time varying magnetic field produces an electric fiel
 
  the following question, "when the time varying magnetic field produces an electric field, why not the time varying electric field produce a magnetic field?"
 
-<center>Symmetry in nature </center>
+![](image 1.png)
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell's prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
-
-<center>Figure 5.2 (a) Cell phone tower and cell phone (b) X-ray radiograph </center>
+![](5.2.png)
 
 In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in our day to day life. It is a faster and more effective mode of transferring information from one place to another. It works on the basis that light is an electromagnetic wave. In hospitals, the location of bone fracture can be detected using X- rays as shown in Figure 5.2 (b), which is also an electromagnetic wave. For cooking microwave oven is used. The microwave is also an electromagnetic wave. There are plenty of applications of electromagnetic waves in engineering, medicine (example LASER surgery, etc), defence (example, RADAR signals) and also in fundamental scientific research. In this unit, basics of electromagnetic waves are discussed.
 
@@ -59,7 +58,7 @@ In order to understand how the changing electric field induces magnetic field, l
 
 Let a time- dependent current $i_{c}$ called conduction current be passed through the wire to charge the capacitor.
 
-<center>Figure 5.3 Applying Ampere's circuital law - loop enclosing surface </center>
+![](5.3.png)
 
 Ampere's circuital law can be used to find the magnetic field produced around the current carrying wire.
 
@@ -69,7 +68,7 @@ $$\oint_{\mathrm{enclosing} S_{1}}\vec{B}\cdot d\vec{l} = \mu_{0}i_{c} \quad (5.
 
 where $\mu_{0}$ is the permeability of free space.
 
-<center>Figure 5.4 Applying Ampere's circuital law - loop enclosing surface $S_{2}$ </center>
+![](5.4.png)
 
 Now, the same loop is enclosed by balloon shaped surface $S_{2}$ such that boundaries of two surfaces $S_{1}$ and $S_{2}$ are same but the shape of the surfaces is different (Figure 5.4). As Ampere's law applied for a given closed loop does not depend on the shape of the enclosing surface, the integrals should give the same answer. But by applying Ampere's circuital law for the surface $S_{2}$ , we get
 
@@ -81,7 +80,7 @@ The right hand side of equation is zero because the surface $S_{2}$ nowhere touc
 
 Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time- varying electric field (or time- varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor (Figure 5.5).
 
-<center>Figure 5.5 Applying Gauss's law between the plates of the capacitor </center>
+![](5.5.png)
 
 From Gauss's law of electrostatics, the electric flux between the plates of the capacitor is
 
@@ -103,7 +102,7 @@ where the total current enclosed by the surface becomes the sum of conduction cu
 
 Between the plates, the conduction current is zero while the displacement current is non- zero. This displacement current or time- varying electric field can also produce a magnetic field between the plates of the capacitor. The magnetic field at a point inside the capacitor is perpendicular to the electric field and is shown in Figure 5.6. This magnetic field can be determined using equation (5.6).
 
-<center>Figure 5.6 Magnetic field produced by conduction and displacement currents </center>
+![](5.6.png)
 
 ## Importance of Maxwell's correction:
 
@@ -179,6 +178,8 @@ where $\vec{B}$ is the magnetic field. This equation shows that both conduction 
 
 These four equations are known as Maxwell's equations in electrodynamics. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
 
+![](5.7.png)
+
 5.2 ELECTROMAGNETIC WAVES
 
 Electromagnetic waves are nonmechanical waves which move with speed equals to the speed of light (in vacuum). It is a transverse wave. In the following subsections, we discuss the production of electromagnetic waves and its properties, sources of electromagnetic waves and also classification of electromagnetic spectrum.
@@ -200,6 +201,8 @@ If the receiver is rotated by $90^{\circ}$ , then no spark is observed by the re
 1. Electromagnetic waves are produced by any accelerated charge.
 2. Electromagnetic waves do not require any medium for propagation. So electromagnetic wave is a non-mechanical wave.
 3. Electromagnetic waves are transverse in nature. The oscillating electric field vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to
+
+![](5.8.png)
 
  each other.
 4. Electromagnetic waves obey the principle of superposition.
@@ -244,7 +247,7 @@ $$E_{x} = E_{0}\sin (kz - \omega t)$$ $$B_{y} = B_{0}\sin (kz - \omega t)$$
 
 where $E_{\mathrm{o}}$ and $B_{\mathrm{o}}$ are amplitudes of oscillating electric and magnetic field, $k$ is a wave number, $\omega$ is the angular frequency of the
 
-<center>Figure 5.9 Oscillating charges - sources of electromagnetic waves </center>
+![](5.9.png)
 
  wave and $\hat{k}$ (unit vector, here it is called propagation vector) denotes the direction of propagation of electromagnetic wave.
 
@@ -272,7 +275,7 @@ The amplitude of the magnetic field, $B_{o} = 2\times 10^{- 4}\mathrm{T}$ . Ther
 
 $$v = \frac{3\times 10^{4}}{2\times 10^{-4}} = 1.5\times 10^{8}m s^{-1}$$
 
-<center>Figure 5.10 Electromagnetic spectrum </center>
+![](5.10.png)
 
 Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency (Figure 5.10).
 
@@ -358,13 +361,12 @@ When an object burns, it emits radiations. That is, it emits electromagnetic rad
 
 red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
 
-<center>Figure 5.11 Black body radiation spectrum - variation with temperature </center>
-
+![](5.11.png)
  is called black body spectrum (Refer XI Physics Unit 8). It is a continuous frequency (or wavelength) curve depending on the body's temperature.
 
 Suppose we allow a beam of white light to pass through the prism (as shown in Figure 5.12). It is split into its seven constituent colours which can be viewed on the screen as continuous spectrum. This phenomenon is known as dispersion of light and the definite pattern of colours obtained on the screen after dispersion is called as spectrum. The spectra can be broadly classified into two categories:
 
-<center>Figure 5.12 White light passed through prism - dispersion </center>
+![](5.12.png)
 
 ### (a)Emission spectra
 
@@ -384,9 +386,10 @@ Suppose light from hot gas is allowed to pass through prism, line spectrum is ob
 
 Band spectrum consists of several number of very closely spaced spectral lines which overlap together forming specific
 
-<center>Figure 5.13 continuous emission spectra </center>
+![](5.13.png)
 
-<center>Figure 5.14 line emission spectra </center>
+
+![](5.14.png)
 
  bands which are separated by dark spaces. This spectrum has a sharp edge at one end and fades out at the other end. Such spectra arise when the molecules are excited. Band spectrum is the characteristic of the molecule and hence the structure of the molecules can be studied using their band spectra. Example: spectra of ammonia gas in the discharge tube etc.
 
@@ -406,7 +409,7 @@ When light from the incandescent lamp is passed through cold gas (medium), the s
 
 When white light is passed through the iodine vapour, dark bands on continuous bright background is obtained. This type of band is also obtained when white light is passed through diluted solution of blood or chlorophyll or through certain solutions of organic and inorganic compounds.
 
-<center>Figure 5.15 line absorption spectra </center>
+![](5.15.png)
 
 ## Fraunhofer lines
 
@@ -414,8 +417,7 @@ When the spectrum obtained from the Sun is examined, it consists of large number
 
 known as Fraunhofer lines (Figure 5.16). The absorption spectra for various materials are compared with the Fraunhofer lines in the solar spectrum, which helps in identifying elements present in the Sun's atmosphere.
 
-<center>Figure 5.16 Solar spectrum - Fraunhofer lines </center>
-
+![](5.16.png)
 ---
 
 # SUMMARY
