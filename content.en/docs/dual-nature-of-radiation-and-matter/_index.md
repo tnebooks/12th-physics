@@ -1,13 +1,11 @@
+---
+title: 'Dual Nature of Radiation and Matter'
+categories:
+    - dual-nature-of-radiation-and-matter
+weight: 8
+summary: "This unit explains the dual nature of matter and radiation, starting with electron emission and the photoelectric effect along with its laws and early observations. It introduces the concept of energy quantization and practical devices like photocells."
 
-# 8 DUAL NATURE OF RADIATION AND MATTER
-
-> If quantum mechanics has not profoundly shocked you, you have not understood it yet - Neils Bohr
-
-## In this unit, the students are exposed to
-
-In this unit, the students are exposed to- the phenomenon of electron emission and its types- the observations of Hertz, Hallwachs and Lenard- photoelectric effect and its laws- the concept of quantization of energy- photo cell and its applications- particle nature of radiation- the wave nature of matter- de Broglie equation and de Broglie wavelength of electron- the construction and working of electron microscope- Davisson and Germer experiment- X- rays and its production- X- rays spectra and its types
-
-## 8.1 INTRODUCTION
+---
 
 We are familiar with the concepts of particle and wave in our everyday experience. Marble balls, grains of sand, atoms, electrons and so on are some examples of particles while the examples of waves are sea waves, ripples in a pond, sound waves and light waves.
 
