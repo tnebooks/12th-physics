@@ -112,6 +112,7 @@ $$\bar{F}_{21} = k\frac{q_1q_2}{r^2}\hat{r}_{12} \quad (1.2)$$
 
 where $\hat{r}_{12}$ is the unit vector directed from charge $q_{1}$ to charge $q_{2}$ and $k$ is the proportionality constant.
 
+1[](B.png)
 <center>Figure 1.2 Coulomb force between two positive point charges </center>
 
 ## Important aspects of Coulomb's law
@@ -254,6 +255,7 @@ The electrostatic force between a proton and an electron is enormously greater t
 
 uncharged piece of paper with greater force even though the piece of paper is attracted downward by the Earth. This is shown in Figure 1.3
 
+![](G.png)
 <center>Figure 1.3 Electrostatic attraction between a comb and pieces of papers </center>
 
 Coulomb's law explains the interaction between two point charges. If there are more than two charges, the force on one charge due to all the other charges needs to be calculated. Coulomb's law alone does not give the answer. The superposition principle explains the interaction between multiple charges.
@@ -338,6 +340,7 @@ Here $\hat{r}$ is the unit vector pointing from $q$ to the point of interest $\m
 
 (i) If the charge $q$ is positive then the electric field points away from the source charge and if $q$ is negative, the electric field points towards the source charge $q$ . This is shown in the Figure 1.4.
 
+![](J.png)
 <center>Figure 1.4 Electric field of positive and negative charges </center>
 
 (ii) If the electric field at a point $\mathbf{P}$ is $\bar{E}$ then the force experienced by the test charge $q_{\mathrm{o}}$ placed at the point $\mathbf{P}$ is
@@ -346,6 +349,7 @@ $$\bar{F} = q_{\mathrm{o}}\bar{E} \quad (1.5)$$
 
 This is Coulomb's law in terms of electric field. This is shown in Figure 1.5
 
+![](k.png)
 <center>Figure 1.5 Coulomb's law in terms of electric field </center>
 
 (iii) The equation (1.4) implies that the electric field is independent of the test charge $q_{\mathrm{o}}$ and it depends only on the source charge $q$ .
@@ -356,12 +360,14 @@ Note that in Figures 1.6 (a) and (b) the length of the electric field vector is 
 
  (vii) There are two kinds of the electric field: uniform (constant) electric field and non- uniform electric field. Uniform electric field will have the same direction and constant magnitude at all points in space. Non- uniform electric field will have different directions or different magnitudes or both at different points in space. The electric field created by a point charge is basically a non uniform electric field. This non- uniformity arises, both in direction and magnitude, with the direction being radially outward (or inward) and the magnitude changes as distance increases. These are shown in Figure 1.7.
 
+![](L.png)
 <center>Figure 1.6 (a) Electric field due to positive charge (b) Electric field due to negative charge </center>
 
 (v) In the definition of electric field, it is assumed that the test charge $q_0$ is taken sufficiently small, so that bringing this test charge will not move the source charge. In other words, the test charge is made sufficiently small such that it will not modify the electric field of the source charge.
 
 (vi) The expression (1.4) is valid only for point charges. For continuous and finite size charge distributions, integration techniques must be used (Refer Appendix A1.1). However, this expression can be used as an approximation for a finite-sized charge if the test point is very far away from the finite sized source charge. Note that we similarly treat the Earth as a point mass when we calculate the gravitational field of the Sun on the Earth (Refer unit 6, volume 2, XI physics).
 
+![](M.png)
 <center>Figure 1.7 Uniform and non-uniform electric field </center>
 
 ## EXAMPLE 1.6
@@ -422,6 +428,7 @@ For example in Figure 1.8, the resultant electric field due to three point charg
 
 Note that the relative lengths of the electric field vectors for the charges depend on relative distances of the charges to the point P.
 
+![](P.png)
 <center>Figure 1.8 Superposition of Electric field </center>
 
 ## EXAMPLE 1.7
@@ -470,8 +477,10 @@ Note: A similar problem is solved in $\mathrm{XI}^{\mathrm{th}}$ Physics volume 
 
 The free body diagram for the mass $m$ is drawn below.
 
+![](S.png)
 <center>Forces acting on the mass m </center>
 
+![](T.png)
 <center>Free body diagram </center>
 
 A convenient inertial coordinate system is located in the inclined surface as shown in the figure. The mass \(m\) has zero net acceleration both in \(x\) and \(y\) - direction.
@@ -494,24 +503,29 @@ Electric field vectors are visualized by the concept of electric field lines. Th
 
 The electric field lines start from a positive charge and end at negative charges or at infinity. For a positive point charge the electric field lines point radially outward and for a negative point charge, the electric field lines point radially inward. These are shown in Figure 1.9 (a) and (b).
 
+![](U.png)
+![](V.png)
 <center>Figure 1.9 Electric field lines for isolated positive and negative charges </center>
 
 Note that for an isolated positive point charge the electric field line starts from the charge and ends only at infinity. For an isolated negative point charge the electric field lines start at infinity and end at the negative charge.
 
 The electric field vector at a point in space is tangential to the electric field line at that point. This is shown in Figure 1.10
 
+![](W.png)
 <center>Figure 1.10 Electric field at a point P </center>
 
 The electric field lines are denser (more closer) in a region where the electric field has larger magnitude and less dense in a region where the electric field is of smaller magnitude. In other words, the number of lines passing through a given surface area perpendicular to the lines is proportional to the magnitude of the electric field in that region. This is shown in Figure 1.11
 
 the electric field in that region. This is shown in Figure 1.11
 
+![](X.png)
 <center>Figure 1.11 Electric field has larger magnitude at surface A than B </center>
 
 Figure 1.11 shows electric field lines from a positive point charge. The magnitude of the electric field for a point charge decreases as the distance increases $\left|\bar{E}\right|\propto \frac{1}{r^2}$ . So the electric field has greater magnitude at the surface A than at B. Therefore, the number of lines crossing the surface A is greater than the number of lines crossing the surface B. Note that at surface B the electric field lines are farther apart compared to the electric field lines at the surface A.
 
 No two electric field lines intersect each other. If two lines cross at a point, then there will be two different electric field vectors at the same point, as shown in Figure 1.12.
 
+![](Y.png)
 <center>Figure 1.12 Two electric field lines never intersect each other </center>
 
  As a consequence, if some charge is placed in the intersection point, then it has to move in two different directions at the same time, which is physically impossible. Hence, electric field lines do not intersect.
@@ -520,6 +534,7 @@ The number of electric field lines that emanate from the positive charge or end 
 
 For example in the Figure 1.13, the electric field lines are drawn for charges $+q$ and $- 2q$ . Note that the number of field lines emanating from $+q$ is 8 and the number of field lines ending at $- 2q$ is 16. Since the magnitude of the second charge is twice that of the first charge,
 
+![](Z.png)
 <center>Figure 1.13 Electric field lines and magnitude of the charge </center>
 
 the number of field lines drawn for $- 2q$ is twice in number than that for charge $+q$ .
@@ -561,6 +576,7 @@ The electric dipole moment is defined as
 $$\vec{p} = q\vec{r}_+ +(-q)\vec{r}_- \quad (1.9)$$
 
 where $\vec{r}_+$ is the position vector of $+q$ from the origin and $\vec{r}_-$ is the position vector of $- q$ from the origin. Then, from Figure 1.14 (a),
+
 
 <center>Figure 1.14 (a) Electric dipole (b) Electric field lines for the electric dipole </center>
 
@@ -606,6 +622,7 @@ Case (i) Electric field due to an electric dipole at points on the axial line
 
 Consider an electric dipole placed on the $x$ - axis as shown in Figure 1.15. A point C is located at a distance of $r$ from the midpoint O of the dipole on the axial line.
 
+![](a7.png)
 <center>Figure 1.15 Electric field of the dipole along the axial line </center>
 
 The electric field at a point C due to $+q$ is $\bar{E}_{+} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}$ along BC
@@ -632,6 +649,7 @@ $$\bar{E}_{tot} = \frac{1}{4\pi\epsilon_{0}} q\left(\frac{4ra}{\left(r^{2} - a^{
 
 Note that the total electric field is along $\bar{E}_{+}$ since $+q$ is closer to C than $- q$ . The direction of $\bar{E}_{tot}$ is shown in Figure 1.16.
 
+1[](a8.png)
 <center>Figure 1.16 Total electric field of the dipole on the axial line </center>
 
 If the point C is very far away from the dipole $(r > > a)$ . Then under this limit the term $\left(r^{2} - a^{2}\right)^{2} = r^{4}$ . Substituting this into equation (1.16), we get
@@ -673,7 +691,7 @@ $$\bar{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{\bar{p}}{r^{3}} \qquad (r > >
 Consider an electric dipole of dipole moment $\vec{p}$ placed in a uniform electric field $\vec{E}$ whose field lines are equally spaced and point in the same direction. The charge $+q$ will experience a force $q\vec{E}$ in the direction of the field and charge $- q$ will experience a force $- q\vec{E}$ in a direction opposite to the field. Since the external field $\vec{E}$ is uniform, the total force acting on the dipole is zero. These two forces acting at different points will constitute a couple and the dipole experience a torque as shown in Figure 1.18. This torque tends to rotate the dipole. (Note that electric field lines of a uniform field are equally spaced and point in the same direction).
 
 The total torque on the dipole about the point O
-
+ ![](a10.png)
 <center>Figure 1.18 Torque on dipole </center>
 
 $$\vec{\tau} = \overline{OA}\times (-q\vec{E}) + \overline{OB}\times q\vec{E} \quad (1.22)$$
@@ -696,6 +714,7 @@ This torque tends to rotate the dipole and align it with the electric field $\ve
 
 If the electric field is not uniform, then the force experienced by $+q$ is different from that experienced by $- q$ . In addition to the torque, there will be net force acting on the dipole. This is shown in Figure 1.19.
 
+![](a11.png)
 <center>Figure 1.19 The dipole in a non-uniform electric field </center>
 
 ## EXAMPLE 1.11
@@ -718,6 +737,7 @@ Consider a positive charge $q$ kept fixed at the origin which produces an electr
 
 Microwave oven works on the principle of torque acting on an electric dipole. The food we consume has water molecules which are permanent electric dipoles. Oven produces microwaves that are oscillating electromagnetic fields and produce torque on the water molecules. Due to this torque on each water molecule, the molecules rotate very fast and produce thermal energy. Thus, heat generated is used to heat the food.
 
+![](a12.png)
 <center>Figure 1.20 Work done is equal to potential energy </center>
 
 The test charge $q^{\prime}$ is brought from R to P with constant velocity which means that external force used to bring the test charge $q^{\prime}$ from R to P must be equal and opposite to the coulomb force $\left(\bar{F}_{ext} = -\bar{F}_{coulomb}\right)$ . The work done is
@@ -758,6 +778,7 @@ simpler than that using the concept of field.
 
 Consider a positive charge $q$ kept fixed at the origin. Let P be a point at distance r from the charge $q$ . This is shown in Figure 1.21.
 
+![](a13.png)
 <center>Figure 1.21 Electrostatic potential at a point P </center>
 
 The electric potential at the point P is
@@ -788,6 +809,7 @@ $$V = \frac{1}{4\pi\epsilon_0}\frac{q}{r} \quad (1.33)$$
 
 In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower
 
+![](a14.png)
 <center>Figure 1.22 Motion of masses in terms of gravitational potential </center>
 
 图1.23 Motion of charges in terms of electric potential
@@ -800,6 +822,7 @@ $$V_{tot} = \frac{kq_1}{r_1} +\frac{kq_2}{r_2} +\frac{kq_3}{r_3} + \ldots \\ \ld
 
 where $r_{1}, r_{2}, r_{3}, \ldots , r_{n}$ are the distances of $q_{1}, q_{2}, q_{3}, \ldots , q_{n}$ respectively from P (Figure 1.24).
 
+![](a16.png)
 <center>Figure 1.24 Electrostatic potential due to collection of charges </center>
 
 ## EXAMPLE 1.12
@@ -862,6 +885,7 @@ Hence, $x = 3\mathrm{m}$
 
 Consider two equal and opposite charges separated by a small distance $2a$ as shown in Figure 1.25. The point P is located at a distance $r$ from the midpoint of the dipole. Let $\theta$ be the angle between the line OP and dipole axis AB.
 
+![](a19.png)
 <center>Figure 1.25 Potential due to electric dipole </center>
 
 Let $r_{1}$ be the distance of point P from $+q$ and $r_{2}$ be the distance of point P from $- q$
@@ -936,8 +960,10 @@ Consider a point charge $q$ located at some point in space and an imaginary sphe
 
 An equipotential surface is a surface on which all the points are at the same electric potential. For a point charge the equipotential surfaces are concentric spherical surfaces as shown in Figure 1.26(b). Each spherical surface is an equipotential surface but the
 
+![](a21.png)
 <center>Figure 1.26 Equipotential surface of point Charge </center>
 
+![](a20.png)
 <center>Figure 1.27 Equipotential surface for uniform electric field </center>
 
 value of the potential is different for different spherical surfaces.
@@ -992,6 +1018,7 @@ Three charges are arranged in the following configuration as shown in Figure 1.2
 
 To calculate the total electrostatic potential energy, we use the following procedure. We bring all the charges one by one and arrange them according to the configuration as shown in Figure 1.28.
 
+![](a24.png)
 <center>Figure 1.28 Electrostatic potential energy for collection of point charges </center>
 
 (i) Bringing a charge $q_{1}$ from infinity to the point A requires no work, because there are no other charges already present in the vicinity of charge $q_{1}$ .
@@ -1046,6 +1073,7 @@ The potential created by the two $+q$ charges are canceled by the potential crea
 
 Consider a dipole placed in the uniform electric field $\bar{E}$ as shown in the Figure 1.29. A dipole experiences a torque when kept in a uniform electric field $\bar{E}$ . This torque rotates the dipole to align it with the direction of the electric field. To rotate the dipole (at constant angular velocity) from its initial angle $\theta^{\prime}$ to another angle $\theta$ against the torque exerted by the electric field, an equal and opposite external torque must be applied on the dipole.
 
+![](a26.png)
 <center>Figure 1.29 The dipole in a uniform electric field </center>
 
 The work done by the external torque to rotate the dipole from angle $\theta^{\prime}$ to $\theta$ at constant angular velocity is
@@ -1162,12 +1190,14 @@ By taking the limit $\Delta \vec{A}_i \rightarrow 0$ (for each area element) and
 
 $$\Phi_{E} = \int \vec{E} \cdot d\vec{A} \quad (1.57)$$
 
+![](a30.png)
 <center>Figure 1.32 Electric flux for nonuniform electric Field </center>
 
 1.6.2 Electric flux for closed surfaces
 
 In the previous section, the electric flux for any arbitrary curved surface is discussed. Suppose a closed surface is present in the region of the non- uniform electric field as shown in Figure 1.33 (a).
 
+![](a31.png)
 <center>Figure 1.33 Electric flux over a closed surface </center>
 
 The total electric flux over this closed surface is written as
@@ -1190,8 +1220,10 @@ The electric field of the point charge is directed radially outward at all point
 
 $$\Phi_{E} = \oint EdA \qquad \text{since} \cos 0^{\circ} = 1 \quad (1.59)$$
 
+![](a32.png)
 <center>Figure 1.34 Total electric flux of point charge </center>
 
+![](a33.png)
 <center>Figure 1.35 Gauss law for arbitrarily shaped surface </center>
 
 $E$ is uniform on the surface of the sphere,
@@ -1282,6 +1314,7 @@ The equation (1.67) is true only for an infinitely long charged wire. For a char
 
 Consider an infinite plane sheet of charges with uniform surface charge density $\sigma$ (charge present per unit area). Let P be a point at a distance of r from the sheet as shown in the Figure 1.38.
 
+![](a37.png)
 <center>Figure 1.38 Electric field due to charged infinite planar sheet </center>
 
 Since the plane is infinitely large, the electric field should be same at all points equidistant from the plane and radially directed outward at all points. A cylindrical Gaussian surface of length $2r$ and two flats surfaces each of area $A$ is chosen such that the infinite plane sheet passes perpendicularly through the middle part of the Gaussian surface.
@@ -1308,6 +1341,7 @@ For a finite charged plane sheet, equation (1.71) is approximately true only in 
 
 Consider two infinitely large charged plane sheets with equal and opposite charge
 
+![](a38.png)
 <center>Figure 1.39 Electric field due to two parallel charged sheets </center>
 
 densities $+\sigma$ and $-\sigma$ which are placed parallel to each other as shown in the Figure 1.39.
@@ -1370,6 +1404,7 @@ The electric field due to the uniformly charged spherical shell is zero at all p
 
 A graph is plotted between the electric field and radial distance. This is shown in Figure 1.41.
 
+![](a40.png)
 <center>Figure 1.41 Electric field versus distance for a spherical shell of radius $R$ </center>
 
 Gauss law is a powerful technique whenever a given charge configuration possesses spherical, cylindrical or planar symmetry, then the electric field due to such a charge configuration can be easily found. If there is no such symmetry, the direct method (Coulomb's law and calculus) can be used. For example, it is difficult to use Gauss law to find the electric field for a dipole since it has no spherical, cylindrical or planar symmetry.
@@ -1382,6 +1417,7 @@ An electrical conductor has a large number of mobile charges which are free to m
 
 This is an experimental fact. Suppose the electric field is not zero inside the metal, then there will be a force on the mobile charge carriers due to this electric field. As a result, there will be a net motion of the mobile charges, which contradicts the conductors being in electrostatic equilibrium. Thus the electric field is zero everywhere inside the conductor. We can also understand this fact by applying an external uniform electric field on the conductor. This is shown in Figure 1.42.
 
+![](a41.png)
 <center>Figure 1.42 Electric field of conductors </center>
 
 Before applying the external electric field, the free electrons in the conductor are uniformly distributed in the conductor. When an electric field is applied, the free electrons accelerate to the left causing the left plate to be negatively charged and the right plate to be positively charged as shown in Figure 1.42.
@@ -1394,6 +1430,7 @@ We can prove this property using Gauss law. Consider an arbitrarily shaped condu
 
 A Gaussian surface is drawn inside the conductor such that it is very close to the surface of the conductor. Since the electric field is zero everywhere inside the conductor, the net electric flux is also zero over this Gaussian surface. From Gauss's law, this implies that there is no net charge inside the conductor. Even if some charge is introduced inside the conductor, it immediately reaches the surface of the conductor.
 
+![](a42.png)
 <center>Figure 1.43 No net charge inside the conductor </center>
 
 inside the conductor, it immediately reaches the surface of the conductor.
@@ -1402,12 +1439,14 @@ inside the conductor, it immediately reaches the surface of the conductor.
 
 If the electric field has components parallel to the surface of the conductor, then free electrons on the surface of the conductor would experience acceleration (Figure 1.44(a)). This means that the
 
+![](a43.png)
 <center>Figure 1.44 (a) Electric field is along the surface (b) Electric field is perpendicular to the surface of the conductor </center>
 
  conductor is not in equilibrium. Therefore at electrostatic equilibrium, the electric field must be perpendicular to the surface of the conductor. This is shown in Figure 1.44 (b).
 
 We now prove that the electric field has magnitude $\frac{\sigma}{\epsilon}$ just outside the conductor's surface. Consider a small cylindrical Gaussian surface, as shown in the Figure 1.45. One half of this cylinder is embedded inside the conductor.
 
+![](a44.png)
 <center>Figure 1.45 The electric field on the surface of the conductor </center>
 
 Since electric field is normal to the surface of the conductor, the curved part of the cylinder has zero electric flux. Also inside the conductor, the electric field is zero. Hence the bottom flat part of the Gaussian surface has no electric flux.
@@ -1434,6 +1473,8 @@ Using Gauss law, we can prove that the electric field inside the charged spheric
 
 Consider a cavity inside the conductor as shown in Figure 1.46 (a). Whatever be the charges at the surfaces and whatever be the electrical disturbances outside, the electric field inside the cavity is zero. A sensitive electrical instrument which is to be protected from external electrical disturbance can be kept inside this cavity. This is called electrostatic shielding.
 
+![](a45.png)
+![](a46.png)
 <center>Figure 1.46 (a) Electric field inside the cavity (b) Faraday cage </center>
 
 Faraday cage is an instrument used to demonstrate this effect. It is made up of metal bars as shown in Figure1.46 (b). If an artificial lightning jolt is created outside, the person inside is not affected.
@@ -1450,6 +1491,7 @@ The negative charge of the rod repels the electrons in the conductor to the oppo
 
 Before introducing the charged rod, the free electrons were distributed uniformly on the surface of the conductor and the net charge is zero. Once the charged rod is brought near the conductor, the distribution is no longer uniform with more electrons located on the farther side of the rod and positive charges are located closer to the rod. But the total charge is zero.
 
+![](a47.png)
 <center>Figure 1.47 Various steps in electrostatic induction </center>
 
  (ii) Now the conducting sphere is connected to the ground through a conducting wire. This is called grounding. Since the ground can always receive any amount of electrons, grounding removes the electron from the conducting sphere. Note that positive charges will not flow to the ground because they are attracted by the negative charges of the rod (Figure 1.47(b)).
@@ -1506,6 +1548,7 @@ In polar molecules, the centres of the positive and negative charges are separat
 
 When an external electric field is applied, the dipoles inside the material tend to align in the direction of the electric field. Hence a net dipole moment is induced in it. Then the dielectric is said to be polarized by an external electric field (Figure 1.49(b)).
 
+![](a51.png)
 <center>Figure 1.49 (a) Randomly oriented polar molecules (b) Align with the external electric field </center>
 
 ## Polarisation
@@ -1524,12 +1567,14 @@ The uniform electric field between the plates acts as an external electric field
 
 But inside the dielectric, the net charge is zero even in a small volume. So the dielectric in the external field is equivalent to two oppositely charged sheets with the surface charge densities $+ \sigma_{b}$ and $- \sigma_{b}$ . These charges are called bound charges. They are not free to move like free electrons in
 
+![](a52.png)
 <center>Figure 1.50 Induced electric field lines inside the dielectric </center>
 
 conductors. This is shown in the Figure 1.50.
 
 For example, the charged balloon after rubbing sticks onto a wall. The reason is that the negatively charged balloon is brought near the wall, it polarizes opposite charges on the surface of the wall, which attracts the balloon. This is shown in Figure 1.51.
 
+1[](a53.png)
 <center>Figure 1.51 (a) Balloon sticks to the wall (b) Polarisation of wall due to the electric field created by the balloon </center>
 
 When the external electric field applied to a dielectric is very large, it tears the atoms apart so that the bound charges become free charges. Then the dielectric starts to conduct electricity. This is called dielectric breakdown. The maximum electric field the dielectric can withstand before it breakdown is called dielectric strength. For example, the dielectric strength of air is $3 \times 10^{6} \mathrm{~V} \mathrm{~m}^{- 1}$ . If the applied electric field increases beyond this, a spark is produced in the air. The dielectric strengths of some dielectrics are given in the Table 1.1.
@@ -1550,7 +1595,7 @@ When the external electric field applied to a dielectric is very large, it tears
 
 Capacitor is a device used to store electric charge and electrical energy. It consists of two conducting objects (usually plates or sheets) separated by some distance. Capacitors are widely used in many electronic circuits and have applications in many areas of science and technology.
 
-
+![](a59.png)
 <center>Figure 1.57 (a) Capacitor is charged through a battery (b) Dielectric is inserted when the battery is connected. </center>
 
 $$Q = \epsilon_{r}Q_{o} \quad (1.97)$$
@@ -1645,7 +1690,7 @@ Consider three capacitors of capacitance $C_{1}, C_{2}$ and $C_{3}$ connected in
 
 As soon as the battery is connected to the capacitors in series, the electrons of charge
 
-
+![](a61.png)
 <center>Figure 1.58 (a) Capacitors connected in series (b) Equivalent capacitors $C_{s}$ </center>
 
 $- Q$ are transferred from negative terminal to the right plate of $C_{3}$ which pushes the electrons of same amount $- Q$ from left plate of $C_{3}$ to the right plate of $C_{2}$ due to electrostatic induction. Similarly, the left plate of $C_{2}$ pushes the charges of $- Q$ to the right plate of $C_{1}$ which induces the positive charge $+Q$ on the left plate of $C_{1}$ . At the same time, electrons of charge $- Q$ are transferred from left plate of $C_{1}$ to positive terminal of the battery.
@@ -1670,7 +1715,7 @@ Consider three capacitors of capacitance $C_{1}, C_{2}$ and $C_{3}$ connected in
 
 Since corresponding sides of the capacitors are connected to the same positive and negative terminals of the battery, the voltage across each capacitor is equal to the battery's voltage. Since capacitances of the capacitors are different,
 
-
+![](a62.png)
 <center>Figure 1.59 (a) capacitors in parallel (b) equivalent capacitance with the same total charge </center>
 
 the charge stored in each capacitor is not the same. Let the charge stored in the three capacitors be $Q_{1}$ , $Q_{2}$ , and $Q_{3}$ respectively. According to the law of conservation of total charge, the sum of these three charges is equal to the charge $Q$ transferred by the battery,
@@ -1784,6 +1829,7 @@ as shown in the Figure 1.60. The distance
 between the spheres is much greater than 
 the radii of either spheres.
 
+![](a64.png)
 <center>Figure 1.60 Two conductors are connected through conducting wire</center>
 
 Thus the surface charge density $\sigma$ is inversely proportional to the radius of the sphere. For a smaller radius, the charge density will be larger and vice versa.
@@ -1846,6 +1892,7 @@ This is a device used to protect tall buildings from lightning strikes. It works
 
 This device consists of a long thick copper rod passing from top of the building to the ground. The upper end of the rod has a sharp spike or a sharp needle as shown in Figure 1.62 (a) and (b).
 
+![](a67.png)
 <center>Figure 1.62 (a) Schematic diagram of a lightning arrestor. (b) A house with a lightning arrestor </center>
 
 The lower end of the rod is connected to copper plate which is buried deep into the ground. When a negatively charged cloud is passing above the building, it induces a positive charge on the spike. Since the induced charge density on thin sharp spike is large, it results in a corona discharge. This positive charge ionizes the surrounding air which in turn neutralizes the negative charge in the cloud. The negative charge pushed to the spikes passes through the copper rod and
@@ -1861,6 +1908,7 @@ The comb D is maintained at a positive potential of $10^{4}\mathrm{V}$ by a powe
 
 Due to the high electric field near comb D, air between the belt and comb D gets ionized by the action of points. The positive charges are pushed towards the belt and negative charges are attracted towards the comb D. The positive charges stick to the belt and move up. When the positive charges on the belt reach the point near the comb E, the comb E acquires negative charge and the sphere acquires positive charge due to electrostatic induction. As a result, the positive charges are pushed away from the comb E and they reach the outer surface of the sphere. Since the sphere is a conductor, the positive charges are distributed uniformly on the outer surface of the hollow sphere. At the same time, the negative charges nullify the positive charges in the belt due to corona discharge before it passes over the pulley.
 
+![](a68.png)
 <center>Figure 1.63 Van de Graaff generator </center>
 
 the positive charges are distributed uniformly on the outer surface of the hollow sphere. At the same time, the negative charges nullify the positive charges in the belt due to corona discharge before it passes over the pulley.
