@@ -1,3 +1,12 @@
+---
+title: 'Wave Optics'
+categories:
+    - wave-optics
+weight: 8
+summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
+
+---
+
 # 7 WAVE OPTICS
 
 An age is called dark, not because the light fails to shine, but because people refuse to see. — James Albert Michener

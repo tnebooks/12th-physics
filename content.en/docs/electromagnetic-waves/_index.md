@@ -1,3 +1,12 @@
+---
+title: 'Electromagnetic Waves'
+categories:
+    - electromagnetic-waves
+weight: 5
+summary: "This unit explains the nature and production of electromagnetic waves, describing how oscillating electric and magnetic fields propagate through space. It covers the properties of electromagnetic waves, their spectrum ranging from radio waves to gamma rays, and their various applications in science and technology."
+
+---
+
 # 5 ELECTROMAGNETIC WAVES
 
 "One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein

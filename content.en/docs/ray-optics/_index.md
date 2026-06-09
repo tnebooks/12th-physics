@@ -1,3 +1,13 @@
+---
+title: 'Ray Optics'
+categories:
+    - ray-optics
+weight: 6
+summary: "This unit explains the behavior of light using the ray model, including reflection and refraction at different surfaces. It covers mirrors, lenses, optical instruments, and the formation of images based on geometrical optics principles."
+
+---
+
+
 # RAY OPTICS
 
 There are two ways of spreading light: to be the candle or the mirror that reflects it. — Edith Wharton
