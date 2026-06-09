@@ -39,7 +39,16 @@ The bouncing back of light into the same medium when it encounters a reflecting 
 
 $$ i = r \tag{6.1} $$
 
+
+![](6.1.png)
+
+
 The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays. If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection.
+
+![](6.2(a).png)
+
+
+![](6.2(b).png)
 
 #### 6.1.3 Angle of deviation due to reflection
 
@@ -51,7 +60,8 @@ The angle of deviation can also be measured in terms of the glancing angle $\alp
 
 $$ d = 2\alpha \tag{6.3} $$
 
-### 6.1.4 Image formation in plane mirror
+![](6.3.png)
+
 
 #### EXAMPLE 6.1
 
@@ -63,7 +73,14 @@ $AB$ is the reflecting surface. Both the incident ray $IO$ and the reflected ray
 
 Now, in the tilted system, the angle of incidence, $\angle N'OI = i + \theta$ and the angle of reflection, $\angle N'OR_2 = i + \theta$ are the same. The angle between $ON'$ and $OR_1$ is $\angle N'OR_1 = i - \theta$. The angle tilted on the reflected light is the angle between $OR_1$ and $OR_2$ which is $\angle R_1OR_2$.
 
+![](EX-6.1.png)
+
+### 6.1.4 Image formation in plane mirror
+
+
 Let us consider a point object $A$ placed in front of a plane mirror. The point of incidence is $O$ on the mirror. Light ray $AO$ from the point object is incident on the mirror and it is reflected along $OB$. The normal is $ON$. The angle of incidence $\angle AON =$ angle of reflection $\angle BON$.
+
+![](6.4.png)
 
 Another ray $AD$ incident normally on the mirror at $D$ is reflected back along $DA$. When $BO$ and $AD$ are extended backwards, they meet at a point $A'$. Thus, the rays appear to come from a point $A'$ which is behind the plane mirror. The object and its image are at equal perpendicular distances from the plane mirror which can be shown by the following explanation.
 
@@ -85,14 +102,9 @@ This shows that the image distance $d_i$ inside the plane mirror is equal to the
 (iii) The image distance behind the mirror is equal to the object distance in front of the mirror.  
 (iv) If an object is placed between two plane mirrors inclined at an angle $\theta$, then the number of images $n$ formed is given in Table 6.1.
 
-**Table 6.1 Image by inclined mirrors**
+![](Table-6.1.png)
 
-| $\left(\frac{360}{\theta}\right)$ | Position of object placed | Number of images $n$ |
-|-----------------------------------|---------------------------|----------------------|
-| Even                              | Symmetrical               | $n = \left(\frac{360}{\theta} - 1\right)$ |
-| Even                              | Unsymmetrical             | $n = \left(\frac{360}{\theta} - 1\right)$ |
-| Odd                               | Symmetrical               | $n = \left(\frac{360}{\theta} - 1\right)$ |
-| Odd                               | Unsymmetrical             | $n = \left(\frac{360}{\theta}\right)$ |
+![](6.5.png)
 
 #### EXAMPLE 6.2
 
@@ -101,6 +113,8 @@ What is the height of the mirror needed for a person to see his/her image fully 
 **Solution**
 
 Let us assume a person of height $h$ is standing in front of a vertical plane mirror. The person could see his/her head when light from the head falls on the mirror and gets reflected to the eyes. Same way, light from the feet falls on the mirror and gets reflected to the eyes.
+
+![](EX-6.2.png)
 
 If the distance between his head $H$ and eye $E$ is $h_1$ and distance between his feet $F$ and eye $E$ is $h_2$. The person's total height is $h$. Here, $h = h_1 + h_2$
 
@@ -118,6 +132,8 @@ A spherical surface is a part cut from a hollow sphere. Spherical mirrors are ge
 
 We shall get familiarised with some of the terminologies pertaining to spherical mirrors.
 
+![](6.6.png)
+
 **Centre of curvature:** The centre of the sphere of which the mirror is a part is called the centre of curvature $C$ of the mirror.
 
 **Radius of curvature:** The radius of the sphere of which the spherical mirror is a part is called the radius of curvature $R$ of the mirror.
@@ -126,19 +142,25 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 **Principal axis:** The line joining the pole $P$ and the centre of curvature $C$ is called the principal axis of the mirror. The light ray travelling along the principal axis towards the mirror after reflection travels back along the same principal axis. It is also called optical axis.
 
-#### 6.2.1 Paraxial Rays and Marginal Rays
-
 **Focus (or) Focal point:** Light rays travelling parallel and close to the principal axis when incident on a spherical mirror, converge at a point for concave mirror (or) appear to diverge from a point for convex mirror on the principal axis. This point is called the focus (or) focal point $F$ of the mirror.
 
 **Focal length:** The distance between the pole $P$ and the focus $F$ is called the focal length $f$ of the mirror.
 
 **Focal plane:** The plane through the focus and perpendicular to the principal axis is called the focal plane of the mirror.
 
+![](6.7.png)
+
+#### 6.2.1 Paraxial Rays and Marginal Rays
+
 The paraxial rays are the rays which travel very close to the principal axis and make small angles with it. They fall on the mirror very close to the pole. On the other hand, the marginal rays are the rays which travel far away from the principal axis and make large angles with it. They fall on the mirror far away from the pole. These two rays behave differently (get focused at different points). In this chapter, we shall restrict our studies only to paraxial rays. As the angles made by the paraxial rays are very small, we can make good approximations.
+
+![](6.8.png)
 
 #### 6.2.2 Relation between $f$ and $R$
 
 Let $C$ be the centre of curvature of the mirror. Consider a ray of light parallel to the principal axis is incident on the mirror at $M$. It passes through the principal focus $F$ after reflection. The line $CM$ is the normal to the mirror at $M$. Let $i$ be the angle of incidence and the same will be the angle of reflection.
+
+![](6.9.png)
 
 If $MP$ is the perpendicular from $M$ to the principal axis, then
 
@@ -165,6 +187,8 @@ Equation (6.4) is the relation between $f$ and $R$.
 
 The image formed by spherical mirror can be found by ray construction called image tracing. To locate an image point, a minimum of two rays must meet at that point. We can use at least any two of the following four rays:
 
+![](6.10.png)
+
 (i) A ray parallel to the principal axis after reflection will pass (or appear to pass) through the principal focus.  
 (ii) A ray passing (or appear passing) through the principal focus, after reflection will travel parallel to the principal axis.  
 (iii) A ray passing through the centre of curvature retraces its path after reflection as it is a normal incidence.  
@@ -181,11 +205,15 @@ While tracing the image, we would normally come across the object distance $u$, 
 (v) Heights measured upwards perpendicular to the principal axis are taken as positive.  
 (vi) Heights measured downwards perpendicular to the principal axis are taken as negative.
 
+![](6.11.png)
+
 #### 6.2.5 Mirror equation
 
 The mirror equation establishes a relation among object distance $u$, image distance $v$ and focal length $f$ for a spherical mirror.
 
 An object $AB$ is considered on the principal axis of a concave mirror beyond the centre of curvature $C$. Let us consider three paraxial rays from point $B$ on the object. The first paraxial ray $BD$ travels parallel to the principal axis. It is incident on the concave mirror at $D$, close to the pole $P$. It is reflected back through the focus $F$. The second paraxial ray $BP$ is incident at the pole $P$. It is reflected along $PB'$. The third paraxial ray $BC$ passing through centre of curvature $C$, falls normally on the mirror at $E$. It is reflected back along the same path. The three reflected rays intersect at the point $B'$. A perpendicular drawn as $A'B'$ to the principal axis gives the real, inverted image.
+
+![](6.12.png)
 
 As per law of reflection, the angle of incidence $\angle BPA$ is equal to the angle of reflection $\angle B'PA'$.
 
@@ -276,6 +304,8 @@ Longitudinal magnification $m_l = \frac{\text{length of image } (l')}{\text{leng
 
 Given: length of object, $l = \frac{f}{3}$
 
+![](EX-6.4.png)
+
 Let $l'$ be the length of the image, then
 
 $$ m_l = \frac{l'}{l} = \frac{l'}{f/3} \quad \text{or} \quad l' = \frac{m_l f}{3} $$
@@ -305,6 +335,8 @@ Light travels with the highest speed in vacuum. The speed of light in vacuum is 
 #### 6.3.1 Fizeau's method to determine speed of light
 
 **Apparatus:** The light from the source $S$ was first allowed to fall on a partially silvered glass plate $G$ kept at an angle of $45^\circ$ to the incident light. The light then was allowed to pass through a rotating toothed-wheel with $N$ teeth and $N$ cuts of equal widths whose speed of rotation could be varied through an external mechanism. The light passing through one cut in the wheel will get reflected by a mirror $M$ kept at a long distance $d$, about $8 \, \text{km}$ from the toothed-wheel. If the toothed-wheel was not rotating, the light reflected back from the mirror would again pass through the same cut and reach the eyes of the observer who looks through the partially silvered glass plate.
+
+![](6.13.png)
 
 **Working:** The angular speed of rotation of the toothed-wheel was increased from zero to a value $\omega$ until the light passing through one cut would completely be blocked by the adjacent tooth. This is ensured by the disappearance of the light while looking through the partially silvered glass plate.
 
@@ -366,27 +398,7 @@ Light travels with a speed of $2.26 \times 10^8 \, \text{m s}^{-1}$ through pure
 
 Refractive index does not have a unit. The smallest value of refractive index is for vacuum, which is 1. For any other medium refractive index is greater than 1. Refractive index is also called as optical density of the medium. Higher the refractive index of a medium, lesser is the speed of light through it and vice-versa. (Note: optical density should not be confused with mass density of the material of the medium. They two are different entities.)
 
-**Table 6.2 Refractive index of media**
-
-| Media | Refractive index |
-|-------|------------------|
-| Vacuum | 1.00 |
-| Air | 1.0003 |
-| Carbon dioxide gas | 1.0005 |
-| Ice | 1.31 |
-| Pure water | 1.33 |
-| Ethyl alcohol | 1.36 |
-| Quartz | 1.46 |
-| Vegetable oil | 1.47 |
-| Olive oil | 1.48 |
-| Acrylic | 1.49 |
-| Table salt | 1.51 |
-| Glass | 1.52 |
-| Sapphire | 1.77 |
-| Zircon | 1.92 |
-| Cubic zirconia | 2.16 |
-| Diamond | 2.42 |
-| Gallium phosphide | 3.50 |
+![](Table-6.2.png)
 
 #### 6.3.4 Optical path
 
@@ -397,6 +409,8 @@ Let us consider a medium of refractive index $n$ and thickness $d$. Light travel
 $$ v = \frac{d}{t} \quad \Rightarrow \quad t = \frac{d}{v} $$
 
 In the same time $t$ light can cover a longer distance $d'$ in vacuum as it travels with greater speed $c$ in vacuum.
+
+![](6.14.png)
 
 $$ c = \frac{d'}{t} \quad \Rightarrow \quad t = \frac{d'}{c} $$
 
@@ -455,23 +469,33 @@ $$ n_1 \sin i = n_2 \sin r \tag{6.19} $$
 
 The law of refraction is also known as **Snell's law**.
 
+![](6.15.png)
+
 #### 6.4.1 Angle of deviation due to refraction
 
 The angle between the direction of incident ray and the refracted ray is called angle of deviation due to refraction. When light travels from rarer to denser medium, it deviates towards normal. The angle of deviation in this case is:
 
 $$ d = i - r \tag{6.20} $$
 
+![](6.16.png)
+
 On the other hand, if light travels from denser to rarer medium, it deviates away from normal. The angle of deviation in this case is:
 
 $$ d = r - i \tag{6.21} $$
+
+![](6.17.png)
 
 #### 6.4.2 Simultaneous reflection (or) refraction
 
 In any refracting surface there will also be some reflection taking place. Thus, the intensity of refracted light will be lesser than the incident light. The phenomenon in which a part of light from a source undergoing reflection and the other part of light from the same source undergoing refraction at the same surface is called simultaneous reflection (or) simultaneous refraction. Such surfaces are available as partially silvered glasses.
 
+![](6.18.png)
+
 #### 6.4.3 Principle of reversibility
 
 The principle of reversibility states that light will follow exactly the same path if its direction of travel is reversed. This is true for both reflection and refraction.
+
+![](6.19.png)
 
 #### 6.4.4 Relative refractive index
 
@@ -510,6 +534,8 @@ The refractive index of oil is $n_o = 1.2$.
 It is a common observation that the bottom of a tank filled with water appears to be raised when seen from air medium above. An equation could be derived for the apparent depth when viewed in the near normal direction.
 
 Light from the object $O$ at the bottom of the tank passes from denser medium (water) to rarer medium (air) to reach our eyes for viewing the object. It deviates away from the normal in the rarer medium at the point of incidence $B$. The refractive index of the denser medium is $n_1$ and that of rarer medium is $n_2$. Here, $n_1 > n_2$. The angle of incidence in the denser medium is $i$ and the angle of refraction in the rarer medium is $r$. The lines $NN'$ and $OD$ are parallel. Thus, the angle $\angle DIB$ is also $r$. The angles $i$ and $r$ are very small as the diverging light from $O$ entering the eye is very narrow. Snell's law in product form for this refraction from equation (6.19) is:
+
+![](6.20.png)
 
 $$ n_1 \sin i = n_2 \sin r $$
 
@@ -571,6 +597,8 @@ A coin is at the bottom of a trough containing three immiscible liquids of refra
 
 When seen from (air medium) on top, the coin will still appear to be at the bottom with each medium appearing to have shrunk with respect to the air medium outside.
 
+![](EX-6.8.png)
+
 The equations for apparent depth for each medium are:
 
 $$ d_1' = \frac{d_1}{n_1}, \quad d_2' = \frac{d_2}{n_2}, \quad d_3' = \frac{d_3}{n_3} $$
@@ -608,19 +636,9 @@ $$ \sin i_c = \frac{1}{n} \quad \text{or} \quad i_c = \sin^{-1}\left(\frac{1}{n}
 
 The critical angle $i_c$ depends on the refractive index $n$ of the medium.
 
-**Table 6.3 Refractive index and critical angle for different media**
+![](6.21.png)
 
-| Material | Refractive index | Critical Angle |
-|----------|------------------|----------------|
-| Ice | 1.310 | 49.8° |
-| Water | 1.333 | 48.6° |
-| Fused Quartz | 1.458 | 43.3° |
-| Crown Glass | 1.541 | 40.5° |
-| Flint Glass | 1.890 | 31.9° |
-| Calcite | 1.658 | 37.0° |
-| Strontium Titanate | 2.394 | 24.7° |
-| Diamond | 2.417 | 24.4° |
-| Rutile | 2.621 | 22.4° |
+![](Table-6.3.png)
 
 For example, the refractive index of glass is about $1.5$. The critical angle for glass-air interface is $i_c = \sin^{-1}\left(\frac{1}{1.5}\right) = 41.8^\circ$. The refractive index of water is $1.33$. The critical angle for water-air interface is $i_c = \sin^{-1}\left(\frac{1}{1.33}\right) = 48.6^\circ$.
 
@@ -630,9 +648,13 @@ For example, the refractive index of glass is about $1.5$. The critical angle fo
 
 Diamond appears dazzling because of the total internal reflection of light that happens inside the diamond. The refractive index of diamond is about $2.417$. It is much greater than the refractive index of ordinary glass which is about only $1.5$. The critical angle of diamond is about $24.4^\circ$. It is much less than that of ordinary glass. A skilled diamond cutter makes use of this larger range of angle of incidence ($24.4^\circ$ to $90^\circ$ inside the diamond), to ensure that light entering the diamond is totally internally reflected from the many cut faces before getting out. This gives a sparkling effect for diamond.
 
+![](6.22.png)
+
 ##### 6.4.7.2 Mirage and looming
 
 The refractive index of air increases with its density. In hot places, air near the ground is hotter than air at a height. Hot air is less dense. Hence, in still air the refractive index of air increases with height. Because of this, the light from tall objects like a tree tries to pass through a medium whose refractive index decreases towards the ground. Hence, the ray of light successively deviates away from the normal at different layers of air and undergoes total internal reflection when the angle of incidence near the ground exceeds the critical angle. This gives an illusion as if the light comes from somewhere below the ground. Because of the shaky nature of the layers of air, the observer feels as if the object is getting reflected by a pool of water (or) wet surface beneath the object. This phenomenon is called **mirage**.
+
+![](6.23.png)
 
 In cold places, the refractive index increases towards the ground because the temperature of air close to the ground is lesser than the temperature at a height above the surface of earth. Thus, the density and refractive index of air close to the ground is greater than for air at a height. In cold regions like glaciers and frozen lakes, the reverse effect of mirage will happen. Hence, an inverted image is formed a little above the surface. This phenomenon is called **looming**. It is also called superior mirage, towering and stooping.
 
@@ -640,13 +662,21 @@ In cold places, the refractive index increases towards the ground because the te
 
 Prisms can be designed to reflect light by $90^\circ$ or by $180^\circ$ by making use of total internal reflection. In the first two cases, the critical angle $i_c$ for the material of the prism must be less than $45^\circ$. Prism that inverts the object on the same side. Prism that inverts the object on the other side.
 
+![](6.24.png)
+
 ##### 6.4.7.4 Radius of illumination (Snell's window)
 
+![](6.25.png)
+
 When a source of light like an electric bulb is kept inside a water tank, the light from the source travels in all directions inside the water. The light that is incident on the water surface at an angle less than the critical angle will undergo refraction and emerge out from the water. The light incident at an angle greater than critical angle will undergo total internal reflection. The light falling particularly at critical angle grazes the surface. Thus, the entire surface of water appears illuminated when seen from outside.
+
+![](6.26.png)
 
 On the other hand, when the light entering the water from outside is seen from inside the water, the view is restricted to a particular angle equal to the critical angle $i_c$. The restricted illuminated circular area is called **Snell's window**.
 
 The angle of view for water animals is restricted to twice the critical angle $2i_c$. The critical angle for water is $48.6^\circ$. Thus the angle of view is $97.2^\circ$. The radius $R$ of the circular area depends on the depth $d$ from which it is seen and also the refractive index $n$ of the medium.
+
+![](6.27.png)
 
 Light is seen from a point $A$ at a depth $d$. Snell's law in product form, equation (6.19), for the refraction happening at the point $B$ on the boundary between the two media is:
 
@@ -722,9 +752,13 @@ $$ 2i_c = 2 \times 48.6^\circ = 97.2^\circ $$
 
 Transmitting signals through optical fibres is possible due to the phenomenon of total internal reflection. Optical fibres consist of an inner part called **core** and an outer part called **cladding** (or sleeving). The refractive index of the core must be higher than that of the cladding for total internal reflection to happen. Signal in the form of light is made to incident inside the core-cladding boundary at an angle greater than the critical angle. Hence, it advances with repeated total internal reflections inside the optical fibre without undergoing any refraction. The light travels inside the core with no appreciable loss in the intensity of the light. While bending the optical fibre, it is done in such a way that the condition for total internal reflection is ensured at every reflection inside the fibre.
 
+![](6.28.png)
+
 ##### 6.4.7.6 Acceptance angle in optical fibre
 
 To ensure the critical angle incidence at the core-cladding boundary inside the optical fibre, the light should be incident at a certain angle called **acceptance angle** at the end of the optical fibre while entering into it. It depends on the refractive indices of the core $n_1$, cladding $n_2$ and the outer medium $n_3$. Assume that the light is incident at an angle called acceptance angle $i_a$ at the outer medium-core boundary at $A$.
+
+![](6.29.png)
 
 Snell's law in the product form, equation (6.19), for this refraction at the point $A$ is:
 
@@ -812,6 +846,8 @@ Hence, in air (no cladding) the refractive index $n_1$ of the core should be $n_
 
 When a ray of light enters a slab it travels from rarer medium (air) to denser medium (glass). This results in deviation of the ray towards the normal. When the light ray leaves the slab it travels from denser medium (glass) to rarer medium (air) resulting in deviation of the ray away from the normal. After the two refractions, the light ray emerges in the same direction as that of the incident ray on the glass slab with a **lateral displacement** (or shift) $L$, i.e., there is no change in the direction of the ray but the path of the incident ray and refracted ray are parallel to each other with a shift $L$.
 
+![](6.30.png)
+
 Consider a glass slab of thickness $t$ and refractive index $n$ kept in air medium. If the path of the light is $ABCD$, the refractions occur at two points $B$ and $C$ in the glass slab. The angles of incidence $i$ and refraction $r$ are measured with respect to the normal $N_1$ and $N_2$ at the two points $B$ and $C$ respectively. The lateral displacement $L$ is the perpendicular distance $CE$ drawn between the paths of the deviated light and the undeviated light at point $C$.
 
 In the right angle triangle $\Delta BCE$:
@@ -868,6 +904,8 @@ The sign conventions are similar to those of spherical mirrors.
 #### 6.5.1 Equation for refraction at single spherical surface
 
 Let us consider two transparent media with refractive indices $n_1$ and $n_2$ which are separated by a spherical surface. Let $C$ be the centre of curvature of the spherical surface. Let a point object $O$ be in the medium $n_1$. The line $OC$ is the principal axis that cuts the spherical surface at the pole $P$. As the rays considered are paraxial rays, the perpendicular dropped from the point of incidence to the principal axis is very close to the pole (or passes through the pole itself).
+
+![](6.31.png)
 
 Light from $O$ falls on the refracting surface at $N$. The normal drawn to the refracting surface at the point of incidence passes through the centre of curvature $C$. As $n_2 > n_1$, light in the denser medium deviates towards the normal and meets the principal axis at $I$ where the image is formed.
 
@@ -941,7 +979,11 @@ The points $F_1$ and $F_2$ are the two focal points of a lens. As the media on t
 
 The **primary focus** $F_1$ is defined as a point where a point source kept produces parallel emergent rays to the principal axis after passing through the lens. For a converging lens, such an object is a real object and for a diverging lens, it is a virtual object. The distance $PF_1$ is the primary focal length $f_1$.
 
+![](6.32.png)
+
 The **secondary focus** $F_2$ is defined as a point where all the parallel rays travelling close to the principal axis converge to form an image on the principal axis after passing through the lens. For a converging lens, such an image is a real image and for a diverging lens, it is a virtual image. The distance $PF_2$ is the secondary focal length $f_2$.
+
+![](6.33.png)
 
 If the media on the two sides of a thin lens have the same refractive index, then the two focal lengths are equal. We will mostly be using the secondary focus $F_2$ in our further discussions.
 
@@ -957,6 +999,8 @@ The other sign conventions for object distance, image distance, radius of curvat
 #### 6.6.3 Lens maker's formula and lens equation
 
 Let us consider a thin lens made up of a medium of refractive index $n_2$ placed in a medium of refractive index $n_1$. Let $R_1$ and $R_2$ be the radii of curvature of the two spherical surfaces ① and ② respectively and $P$ be the pole. Consider a point object $O$ on the principal axis. A paraxial ray from $O$ which falls very close to $P$, after refraction at surface ① forms an image at $I'$. Before it does so, it is again refracted by surface ②. Therefore, the final image is formed at $I$.
+
+![](6.34.png)
 
 For refraction at surface ①, using equation (6.56):
 
@@ -1040,6 +1084,8 @@ The above equation is known as the **lens equation** which relates the object di
 
 Let us consider an object $OO'$ of height $h_1$ placed on the principal axis with its height perpendicular to the principal axis. The inverted real image $II'$ is formed which has a height $h_2$.
 
+![](6.35.png)
+
 The lateral (or transverse) magnification $m$ is defined as the ratio of the height of the image to the height of the object:
 
 $$ m = \frac{II'}{OO'} \tag{6.64} $$
@@ -1077,6 +1123,8 @@ A biconvex lens has radii of curvature $20~\text{cm}$ and $15~\text{cm}$ for the
 
 For a biconvex lens, the radius of curvature of the first surface is positive and that of the second surface is negative.
 
+![](EX-6.13(i).png)
+
 Given, $n = 1.5$, $R_1 = 20~\text{cm}$ and $R_2 = -15~\text{cm}$
 
 (a) Lens maker's formula: $\frac{1}{f} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right)$
@@ -1091,7 +1139,9 @@ $$ f = \frac{120}{7} = 17.14~\text{cm} $$
 
 As the focal length is positive, the lens is a converging lens.
 
-(b) When the lens is flipped by the side, $R_1 = 15~\text{cm}$ and $R_2 = -20~\text{cm}$. Substituting in the lens maker's formula:
+(b) ![](EX-6.13(ii).png)
+
+When the lens is flipped by the side, $R_1 = 15~\text{cm}$ and $R_2 = -20~\text{cm}$. Substituting in the lens maker's formula:
 
 $$ \frac{1}{f} = (1.5 - 1)\left(\frac{1}{15} - \frac{1}{-20}\right) = (0.5)\left(\frac{1}{15} + \frac{1}{20}\right) $$
 
@@ -1100,6 +1150,8 @@ This will also result in $f = 17.14~\text{cm}$. Thus, it is concluded that the f
 #### EXAMPLE 6.14
 
 Determine the focal length of the lens made up of a material of refractive index $1.52$ as shown in the diagram. (Points $C_1$ and $C_2$ are the centers of curvature of the first and second surfaces respectively.)
+
+![](EX-6.14.png)
 
 **Solution**
 
@@ -1123,6 +1175,8 @@ As the focal length is positive, the lens is a converging lens.
 
 The power of a lens is a measure of its deviating ability on an incident light. When a ray is incident on a lens, the degree with which the lens deviates the ray is determined by the power of the lens. Power of the lens is inversely proportional to the focal length, i.e., greater the power of the lens, smaller will be the focal length.
 
+![](6.36.png)
+
 In other words, the power of a lens is a measure of the degree of convergence (or divergence) the lens produces on the light falling on it. The power of a lens $P$ is the reciprocal of its focal length in meters.
 
 $$ P = \frac{1}{f} \tag{6.68} $$
@@ -1138,6 +1192,8 @@ The outcome of this equation for power is that for a given geometry of the lens,
 ### 6.6.6 Focal length of lenses in contact
 
 Let us consider two lenses ① and ② of focal lengths $f_1$ and $f_2$ placed coaxially in contact with each other so that they have a common principal axis. For a point object placed at $O$ beyond the focus of lens ① on the principal axis, an image is formed by it at $I'$. This image $I'$ acts as an object for lens ② and the final image is formed at $I$. As these two lenses are thin, the measurements are done with respect to the common optic centre $P$ between the two lenses.
+
+![](6.37.png)
 
 For lens ①, the object distance $PO$ is $u$ and the image distance $PI'$ is $v'$. For lens ②, the object distance $PI'$ is $v'$ and the image distance $PI$ is $v$.
 
@@ -1199,9 +1255,16 @@ The power of the combination is:
 
 $$ P = \frac{1}{f} = \frac{1}{-1.3125~\text{m}} = -0.76~\text{D} $$
 
+
+![](P-TO-P(1).png)
+
+![](P-TO-P(2).png)
+
 A system of combination of lenses is commonly used in designing lenses for cameras, microscopes, telescopes and other optical instruments. They produce better magnification and sharpness of the image.
 
 #### EXAMPLE 6.17
+
+![](EX-6.17.png)
 
 An object of $5~\text{mm}$ height is placed at a distance of $15~\text{cm}$ from a convex lens of focal length $10~\text{cm}$. A second lens of focal length $5~\text{cm}$ is placed $40~\text{cm}$ from the first lens and $55~\text{cm}$ from the object. Find (a) the position of the final image, (b) its nature and (c) its size.
 
@@ -1255,6 +1318,8 @@ As the final height is positive, the image is erect relative to the original obj
 
 If one of the surfaces of a lens is silvered from outside, then such a lens is said to be a **silvered lens**. A silvered lens is a combination of a lens and a mirror. Light can enter through the transparent front surface of the lens and get reflected by the silver-coated rear surface. Hence, light travels two times through the lens.
 
+![](6.38.png)
+
 The power $P$ of the silvered lens is:
 
 $$ P = P_l + P_m + P_l $$
@@ -1280,6 +1345,8 @@ $$ \frac{1}{v} + \frac{1}{u} = \frac{1}{f} $$
 A thin biconvex lens is made up of glass of refractive index $1.5$. The two surfaces have equal radii of curvature of $30~\text{cm}$ each. One of its surfaces is made reflecting by silvering it from outside. (a) What is the focal length and power of this silvered lens? (b) Where should an object be placed in front of this lens so that the image is formed on the object itself?
 
 **Solution**
+
+![](6.18.png)
 
 Given, $n = 1.5$, $R_1 = 30~\text{cm}$, $R_2 = -30~\text{cm}$.
 
@@ -1331,9 +1398,13 @@ The object is to be placed $15~\text{cm}$ to the left of the silvered lens.
 
 A prism is a triangular block of transparent glass. It is bounded by three plane faces. One face is rough which is called the **base** of the prism. The other two faces are polished which are called **refracting faces** of the prism. The angle between the two refracting faces is called the **angle of the prism** (or refracting angle or apex angle). It is represented as $A$.
 
+![](6.39.png)
+
 #### 6.7.1 Angle of deviation produced by prism
 
 Consider a prism $ABC$. The faces $AB$ and $AC$ are polished and the face $BC$ is rough. Let light ray $PQ$ be incident on one of the refracting faces of the prism. The angles of incidence and refraction at the first face $AB$ are $i_1$ and $r_1$. The path of the light inside the prism is $QR$. The angles of incidence and refraction at the second face $AC$ are $r_2$ and $i_2$ respectively. $RS$ is the ray emerging from the second face. Angle $i_2$ is also called the **angle of emergence**. The angle between the direction of the incident ray and the emergent ray is called the **angle of deviation** $d$ in a prism. The two normals drawn at the point of incidence $Q$ and at the point of emergence $R$ meet at point $N$. The extended incident ray and the emergent ray meet at point $M$.
+
+![](6.40.png)
 
 The angle of deviation $d_1$ at surface $AB$ is:
 
@@ -1402,6 +1473,8 @@ Light ray falls at normal incidence on the first face and emerges grazing the se
 
 **Solution**
 
+![](EX-6.20.png)
+
 Given, $A = 60^\circ$, $i_1 = 0^\circ$, $i_2 = 90^\circ$.
 
 (a) Equation for angle of deviation: $d = i_1 + i_2 - A$
@@ -1426,10 +1499,15 @@ The refractive index of the material of the prism is $n = 1.15$.
 
 A graph plotted between the angle of incidence and the angle of deviation shows that the angle of deviation decreases with an increase in the angle of incidence and reaches a minimum value $D$, then continues to increase.
 
+![](6.41.png)
+
 The minimum value of the angle of deviation is called the **angle of minimum deviation** $D$. At minimum deviation:
 
 (i) the angle of incidence is equal to the angle of emergence: $i_1 = i_2$
 (ii) the angles of refraction at the two faces are equal: $r_1 = r_2$
+
+![](6.42.png)
+
 (iii) the refracted ray inside the prism is parallel to the base of the prism
 
 #### 6.7.3 Refractive index of the material of the prism
@@ -1472,24 +1550,25 @@ $$ \sin 48.5^\circ \approx 0.7480 \quad \Rightarrow \quad n = \frac{0.7480}{0.5}
 
 The angle of deviation produced by a prism has so far been discussed only for monochromatic light (i.e., light of a single colour). When white light enters a prism, an effect called **dispersion** takes place. **Dispersion** is the splitting of white light into its constituent colours. This band of colours of light is called its **spectrum**. When a narrow beam of parallel rays of white light is incident on a prism and the refracted beam is received on a white screen, a band of colours is obtained in the order remembered by the word **VIBGYOR**: Violet, Indigo, Blue, Green, Yellow, Orange, and Red. Violet is the most deviated colour and red is the least deviated colour.
 
+![](6.43.png)
+
 The colours obtained in a spectrum depend on the nature of the light source. Each colour in vacuum has a definite wavelength. Red colour has the longest wavelength of $700~\text{nm}$ while violet colour has the shortest wavelength of $400~\text{nm}$ in vacuum. Though all the colours have different wavelengths, they all travel with the same speed in vacuum. The speed of light is independent of wavelength in vacuum. Therefore, vacuum is a **nondispersive medium**.
 
-**Points to Ponder:** Sir Isaac Newton demonstrated through a classic experiment that white light can be recombined by passing all the colours of VIBGYOR through another inverted prism to get white light.
+**Points to Ponder:** 
+
+![](P-TO-P(3).png)
+
+Sir Isaac Newton demonstrated through a classic experiment that white light can be recombined by passing all the colours of VIBGYOR through another inverted prism to get white light.
 
 But when white light enters a medium, red light travels with the highest speed and violet light travels with the least speed. Hence, the wavelengths of colours in a medium are no longer the same as they are in vacuum. Dispersion takes place in a medium because of the difference in speed for different colours in that medium. In other words, the refractive index of the material of the prism is different for different colours. For violet colour, the refractive index is the highest, and for red colour, the refractive index is the least.
 
-**Table 6.4 Refractive indices for different wavelengths**
-
-| Colour | Wavelength in vacuum (nm) | Crown glass | Flint glass |
-|--------|---------------------------|-------------|-------------|
-| Violet | 396.9 | 1.533 | 1.663 |
-| Blue | 486.1 | 1.523 | 1.639 |
-| Yellow | 589.3 | 1.517 | 1.627 |
-| Red | 656.3 | 1.515 | 1.622 |
+![](Table-6.4.png)
 
 #### 6.7.5 Dispersive Power
 
 Consider a beam of white light passing through a prism. It gets dispersed into its constituent colours. If the angle of the prism is small (of the order of $10^\circ$), the prism is said to be a **small angle prism**. When rays of light pass through such prisms, the angle of minimum deviation also becomes small. Let $A$ be the angle of a small angle prism and $\delta$ be its angle of minimum deviation. Then equation (6.89) becomes:
+
+![](6.44.png)
 
 For small angles of $A$ and $\delta$:
 
@@ -1560,6 +1639,8 @@ $$ I \propto \frac{1}{\lambda^4} \tag{6.98} $$
 According to equation (6.98), during daytime, violet colour which has the shortest wavelength gets scattered more than the other colours. The next scattered colour is blue. As our eyes are more sensitive to blue colour than violet colour, the sky appears blue during daytime. But during sunrise and sunset, the light from the sun travels a greater distance through the atmosphere. Hence, the blue light which has a shorter wavelength is scattered away and the red light which has a longer wavelength and is less scattered manages to reach our eye. This is the reason for the reddish appearance of the sky during sunrise and sunset.
 
 If light is scattered by large particles like dust and water droplets present in the atmosphere which have size $a$ greater than the wavelength $\lambda$ of light $(a \gg \lambda)$, the intensity of scattering is equal for all colours. This non-Rayleigh scattering is independent of wavelength. It happens in clouds which contain large amounts of dust and water droplets. Thus, in clouds all the colours get equally scattered. This is the reason for the whitish appearance of clouds. However, rain clouds appear dark because of the condensation of water droplets on dust particles that makes the cloud opaque.
+
+![](6.45.png )
 
 If the earth had no atmosphere, there would not have been any scattering and the sky would appear dark. That is why the sky appears dark for astronauts who can see the sky from above the atmosphere.
 

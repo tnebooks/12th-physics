@@ -7,7 +7,7 @@ summary: "This unit explains the nature and production of electromagnetic waves,
 
 ---
 
-# 5 ELECTROMAGNETIC WAVES
+# ELECTROMAGNETIC WAVES
 
 "One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
 
