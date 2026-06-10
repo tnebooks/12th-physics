@@ -23,20 +23,20 @@ $$
 
 ![Figure 1.14 (a) Electric dipole (b) Electric field lines for the electric dipole](a4.png)
 
-The electric dipole moment vector lies along the line joining two charges and is directed from \(-q\) to \(+q\). The SI unit of dipole moment is coulomb metre (Cm). For simplicity, the two charges are placed on the \(x\)-axis. Even if the two charges are placed on \(y\) or \(z\)-axis, dipole moment will point from \(-q\) to \(+q\).
+The electric dipole moment vector lies along the line joining two charges and is directed from \(-q\) to \(+q\). The SI unit of dipole moment is coulomb metre (Cm).
 
-The magnitude of the electric dipole moment is equal to the product of the magnitude of one of the charges and the distance between them,
+1.  For simplicity, the two charges are placed on the \(x\)-axis. Even if the two charges are placed on \(y\) or \(z\)-axis, dipole moment will point from \(-q\) to \(+q\).
+2. The magnitude of the electric dipole moment is equal to the product of the magnitude of one of the charges and the distance between them,
 
 $$
 |\vec{p}| = 2qa \quad (1.11)
 $$
 
-Though the electric dipole moment for two equal and opposite charges is defined, it is possible to define and calculate the electric dipole moment for a collection of point charges. The electric dipole moment for a collection of \(n\) point charges is given by
+3. Though the electric dipole moment for two equal and opposite charges is defined, it is possible to define and calculate the electric dipole moment for a collection of point charges. The electric dipole moment for a collection of \(n\) point charges is given by
 
 $$
 \bar{p} = \sum_{i = 1}^{n}q_{i}\bar{r}_{i} \quad (1.12)
 $$
-
 where \(\bar{r}_{i}\) is the position vector of charge \(q_{i}\) from the origin.
 
 **EXAMPLE 1.10**
