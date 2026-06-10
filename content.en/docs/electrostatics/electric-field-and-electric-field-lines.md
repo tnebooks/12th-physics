@@ -35,8 +35,6 @@ $$
 \bar{F} = q_0\bar{E} \quad (1.5)
 $$
 
-![Figure 1.5 Coulomb’s law in terms of electric field](J.png)
-
 This is Coulomb's law in terms of electric field.
 
 (iii) The equation (1.4) implies that the electric field is independent of the test charge \(q\_{\mathrm{o}}\) and it depends only on the source charge \(q\).
