@@ -15,84 +15,63 @@ Learning Objectives In this unit the students are exposed to
 
 Importance of physics for the development in all spheres Physics as the basic building block for engineering and technology Nanoscience and nanotechnology Physics in robotics Principles of physics in medical diagnosis and therapy Realise that the foundation to explore recent developments is covered in higher secondary physics Students are equipped to face challenges in higher education comfortably and confidently
 
-image[[714, 337, 831, 429]]
-
 ## 11.1 Introduction
 
 Physics is the basic building block for science, engineering and technology as depicted in Figure 11.1 (Refer XI Physics,1.3). The fast developing fields like Nanoscience and Nanotechnology, Robotics and Medical diagnosis and therapy are briefly brought out for the students to appreciate the application of physics in these areas. This unit exposes the salient physics principles covered in the higher secondary physics as the foundation for technology break through. In addition, with the adequate exposure to basic physics at the school level, students are motivated to pursue higher education confidently in all fields related to science, engineering, technology and medicine.
 
-===== Page 2 [text layer] =====
+![](1.png)
 
-Unit 11 Recent developments in physics
-254
-XII_Physics_Vol-2_UNIT-11_EM.indd 254
-XII_Physics_Vol-2_UNIT-11_EM.indd 254
-26-12-2022 15:49:12
-26-12-2022 15:49:12
-
-
-11.2 Nanoscience and Nanotechnology
+## 11.2 Nanoscience and Nanotechnology
 
 ## 11.2.1
 
-Nanoscience
+# Nanoscience
 
 Nanoscience is the study of structures and materials on the scale of nanometers. Nano means one- billionth of a meter that is $10^{- 9}$ m.
 
 If matter is divided into such small objects the mechanical, electrical, optical, magnetic and other properties change.
 
-Nanotechnology
+# Nanotechnology
 
 Nanotechnology is a technology involving the design, production, characterization, and applications of nano structured materials.
 
-Nanoparticles
+# Nanoparticles
 
 The solids are made up of particles. Each of the particle has a definite number of atoms, which might differ from material to material. If the particle of a solid is of size less than $100~\mathrm{nm}$ , it is said to be a 'nano solid'. When the particle size exceeds $100~\mathrm{nm}$ , it is a 'bulk solid'. It is to be noted that nano and bulk solids may be of the same chemical composition. For example, ZnO can be both in bulk and nano form. Though chemical composition is the same, nano form of the material shows strikingly different properties when compared to its bulk counterpart.
 
 In the nano scale dimensions (reduced dimensions), two important phenomena govern nano properties. They are quantum confinement effects and surface effects. Students can explore these effects in higher education and the explanation is avoided at school level.
 
-11.2.2 Interdisciplinary nature of Nanotechnology
-![alt text](image-3.png)
+## 11.2.2 Interdisciplinary nature of Nanotechnology
 
-11.2.3 Nano in Nature
-![alt text](image-4.png)
+![](image-2.png)
+
+## 11.2.3 Nano in Nature
+
 Nanoscale structures existed in nature long before scientists began studying them in laboratories.
-![alt text](image-5.png)
 
-11.2.4 Early beginning and development (Not for examination)
-![alt text](image-6.png)
+![](image-4.png)
 
-# 2016
+![](image-5.png)
 
-Jean- Pierre Sauvage, J. Fraser Stoddart, and Bernard Feringa won the Nobel Prize in Chemistry for their research in developing Nano- scale machines including a 'nanocar'
+## 11.2.4 Early beginning and development (Not for examination)
 
-2004 2D material was isolated and characterized in 2004 by Andre Geim and Konstantin Novoselov at the University of Manchester. This work won the Nobel Prize in Physics in 2010.
+![](image-6.png)
 
-1990's - 2000's Research groups and committees were formed to drive nano- related research. Consumers products making use of nanotechnology began appearing in the marketplace.
-
-1981 Gerd Binning and Heinrich Rohrer developed the scanning tunnelling microscope (STM), that modern nanotechnology began. The STM allowed researchers to view atoms on the surface of materials for the first time ever, and since then nanotechnology began its gradual growth.
-
-1989 Don Eigler and Erhard Schweizer at IBM's Almaden Research Center manipulated 35 individual xenon atoms to spell out the IBM logo. This demonstration of the ability to precisely manipulate atoms ushered in the applied use of nanotechnology.
-
-1974 While working on the development of ultra- precision machines, Professor Norio Taniguchi coined the term nanotechnology.
-
-1959 The ideas that define nanoscience and nanotechnology were mentioned long before the terms were coined, in a lecture by American physicist Richard Feynman "There's plenty of Room at the Bottom" in 1959. Feynman described processes that would allow scientists to manipulate and control individual atoms and molecules.
-
-
-11.2.5 Nano in laboratories
+## 11.2.5 Nano in laboratories
 
 The nanostructures made in the laboratory mimic some of nature's amazing nanostructures. As the nanostructures are so small, specialized methods are needed to manufacture objects in this size range. There are two ways of preparing the nanomaterials, top down and bottom up approaches.
-![alt text](image-7.png)
 
-Due to the vast available methods the details are avoided at this level.
+![](image-7.png)
 
+## 11.2.6 Applications of Nano technology
 
-11.2.6 Applications of Nano technology
+![](image-8.png)
 
-![alt text](image-8.png)
-![alt text](image-9.png)
+    Applications of nanomaterial based products in different areas4
 
-![alt text](image-10.png)
+![](image-9.png)
+
+![](image-10.png)
 
 ## 11.2.7 Possible harmful effects of nanoparticles
 
@@ -103,96 +82,32 @@ The adsorbing nature depends on the surface of the nanoparticle. Indeed, it is p
 The interaction with living systems is also affected by the dimensions of the nanoparticles. For instance, nanoparticles of a few nanometers size may reach well inside biomolecules, which is not possible for larger nanoparticles. Nanoparticles can also cross cell membranes. It is also possible for the inhaled nanoparticles to reach the blood, to reach other sites such as the liver, heart or blood cells.
 
 Researchers are trying to understand the response of living organisms to the presence of nanoparticles of varying size, shape, chemical composition and surface characteristics.
-![alt text](image-11.png)
 
-===== Page 10 [text layer] =====
+![](image-11.png)
 
-Unit 11 Recent developments in physics
-262
-NANOPARTICLES
-INTERNALIZED
-IN CELLS
-Mitochondrion
-Nucleus
-Cytoplasm
-Membrane
-Lipid vesicle
-Nanoparticles
-ingestion
-Gastro-Intestinal
-System
-Crohn’s disease
-Colon cancer
-Orthopedic implant
-wear debris
-Auto-immune diseases
-Dermatitis
-Urticaria
-Vasculitis
-Brain
-Nanoparticle inhalation
-Lungs
-Circulatory
-system
-Asthma
-Bronchitis
-Emphysema
-Cancer
-Heart
-Arrythmia
-Heart disease
-Death
-Other organs
-Diseases of
-unknown
-etiology in
-kidneys, liver
-Lymphatic
-system
-Podoconiosis
-Kaposi’s sarcoma
-Skin
-Auto-immune
- diseases
-dermatitis
-Neurological diseases:
-Parkinson’s disease
-Alzheimer’s disease
-DISEASES ASSOCIATED TO NANOPARTICLE EXPOSURE
-(Not for examination)
-XII_Physics_Vol-2_UNIT-11_EM.indd 262
-XII_Physics_Vol-2_UNIT-11_EM.indd 262
-26-12-2022 15:49:18
-26-12-2022 15:49:18
+## 11.3 Robotics
 
-
-11.3 Robotics
-![alt text](image-12.png)
 ## 11.3.1 What is robotics?
 
 Robotics is an integrated study of mechanical engineering, electronic engineering, computer engineering, and science. Robot is a mechanical device designed with electronic circuitry and programmed to perform a specific task. These automated machines are highly significant in this robotic era. They can take up the role of humans in certain dangerous environments that are hazardous to people like defusing bombs, finding survivors in unstable ruins, and exploring mines and shipwrecks.
 
+![](image-12.png)
+
 In 1954, George Devol invented the first digitally operated programmable robot called Unimate. George Devol and Joseph Engelberger, the father of the modern robotics industry formed the world's first robot company in 1956. In 1961, Unimate, was operated in a General Motors automobile factory for moving car parts around in New Jersey.
 
-
-11.3.2 COMPONENTS OF ROBOTICS
-![alt text](image-13.png)
+## 11.3.2 COMPONENTS OF ROBOTICS
 
 The robotic system mainly consists of sensors, power supplies, control systems, manipulators and necessary software.
 
-Most robots are composed of 3 main parts:
-
-1. The Controller - also known as the "brain" which is run by a computer program. It gives commands for the moving parts to perform the job.
-2. Mechanical parts - motors, pistons, grippers, wheels, and gears that make the robot move, grab, turn, and lift.
-3. Sensors - to tell the robot about its surroundings. It helps to determine the sizes and shapes of the objects around, distance between the objects, and directions as well.
+![](2.png)
 
 ## 11.3.3 TYPES OF ROBOTS
-![alt text](image-13.png)
+
+![](image-13.png)
+
 ## HUMAN ROBOT
 
 Certain robots are made to resemble humans in appearance and replicate the human activities like walking, lifting, and sensing, etc.
-
-image[[595, 441, 821, 629]]
 
 1. Power conversion unit: Robots are powered by batteries, solar power, and hydraulics.
 
@@ -208,27 +123,39 @@ image[[595, 441, 821, 629]]
 
 7. Sensors: Generally used in task environments as it provides information of real-time knowledge.
 
-8. Robot locomotion: Provides the types of movements to a robot. The different types are
-
+8. Robot locomotion: Provides the types of movements to a robot. The different types are:
 (a) Legged
 (b) Wheeled
 (c) Combination of Legged and Wheeled Locomotion
 (d) Tracked slip/skid
-![alt text](image-14.png)
 
-1. Face recognition2. Providing response to player's actions in computer games3. Taking decisions based on previous actions4. To regulate the traffic by analyzing the density of traffic on roads.5. Translate words from one language to another
+![](image-14.png)
 
+1. Face recognition
+2. Providing response to player's actions in computer games
+3. Taking decisions based on previous actions
+4. To regulate the traffic by analyzing the density of traffic on roads.
+5. Translate words from one language to another
 
-11.3.4 Applications
-Outer space: Exploring stars, planets etc., investigation of the mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils.
+## 11.3.4 Applications
 
-![alt text](image-16.png)
+![](image-16.png)
 
-![alt text](image-17.png)
-The size of the nano robots is reduced to microscopic level to perform a task in very small spaces. However, it is only in the developmental stage. The future prospects of it are much expected in the medical field: Nano- robots in blood stream to perform small surgical procedures, to fight against bacteria, repairing individual cell in the body. It can travel into the body and once after the job is performed it can find its way out. Chinese scientists have created the world's first autonomous DNA robots to combat cancer tumours.
+![](image-17.png)
 
+## Material used to make robots
 
-1. The robots are much cheaper than humans. 2. Robots never get tired like humans. It can work for 24 x 7. Hence absenteeism in work place can be reduced. 3. Robots are more precise and error free in performing the task. 4. Stronger and faster than humans. 5. Robots can work in extreme environmental conditions: extreme hot or cold, space or underwater. In dangerous situations like bomb detection and bomb deactivation. 6. In warfare, robots can save human lives. 7. Robots are significantly used in handling materials in chemical industries especially in nuclear plants which can lead to health hazards in humans.
+For robots, aluminum and steel are the most common metals. Aluminium is a softer metal and is therefore easier to work with, but steel is several times stronger. In any case, beacuse of the inherent strength of metal. robot bodies are made using sheet, bar, rod, channel, and other shapes.
+
+## 11.3.5 Advantages of Robotics
+
+1. The robots are much cheaper than humans.
+2. Robots never get tired like humans. It can work for 24 x 7. Hence        absenteeism in work place can be reduced. 
+3. Robots are more precise and error free in performing the task. 
+4. Stronger and faster than humans. 
+5. Robots can work in extreme environmental conditions: extreme hot or cold, space or underwater. In dangerous situations like bomb detection and bomb deactivation. 
+6. In warfare, robots can save human lives. 
+7. Robots are significantly used in handling materials in chemical industries especially in nuclear plants which can lead to health hazards in humans.
 
 ## 11.3.6 Disadvantages of Robotics
 
@@ -242,84 +169,68 @@ The size of the nano robots is reduced to microscopic level to perform a task in
 8. Humans cannot be replaced by robots in decision making.
 9. Till the robot reaches the level of human intelligence, the humans in work place will exit.
 
-
-11.4 Physics in medical diagnosis and therapy
+## 11.4 Physics in medical diagnosis and therapy
 
 Medical science very much revolves around physics principles. Medical instrumentation has widened the life span due to the technology integrated diagnosis and treatment of most of the diseases. This modernisation in all fields is possible due to efficient application of fundamental physics.
 
-11.4.1 The development in medical field has been proportional to the evolution of physics as indicated below (Not for examination)
+## 11.4.1 The development in medical field has been proportional to the evolution of physics as indicated below (Not for examination)
 
-| Year | Invention in physics (Inventors) | Technique used in medicine | Image |
-|------|--------------------------------|----------------------------|-------|
-| 1 | X-rays (Wilhelm Conrad-Röntgen) | Radiology-Xray imaging | ![ ](image-18.png)|
-| 2 | Theory of Radioactivity (Antonie Henri Becquerel, Pierre Curie and Marie Curie) | Radioisotope imaging Nuclear Medicine |![alt text](image-19.png) |
-| 3  | Artificial Radioactivity (Joliot and Irene Curie) | Scintigraphy | ![alt text](image-20.png)|
-| 4  | Echography & Sonography | Ecography | ![alt text](image-21.png)|
-| 5  | X-ray computed tomography (Cormack and Hounsfield) | Computed Tomography (CT) | ![alt text](image-22.png)|
-| 6  | Nuclear Magnetic Resonance (NMR) (Felix Bloch and Edward Purcell) | Magnetic Resonance Imaging (MRI) |![alt text](image-23.png) |
+![](3.png)
+![](4.png)
 
+## 11.4. 2 The recent advancement in medical technology includes
 
-11.4. 2 The recent advancement in medical technology includes
+![](image-24.png)
 
-![alt text](image-24.png)
+The innovation in medical diagnosis has taken leaps and bounds due to the integration of technology and basic physics, A few of such advancsments sre discussed.
 
-1. Virtual reality
-Medical virtual reality is effectively used to stop the brain from processing pain and cure soreness in the hospitalized patients. Virtual reality has enhanced surgeries by the use of 3D models by surgeons to plan operations. It helps in the treatment of Autism, Memory loss, and Mental illness.
-![alt text](image-25.png)
+## 1. Virtual reality
+
+![](image-25.png)
 
 ## 2. Precision medicine
-Precision medicine is an emerging approach for disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person. In this medical model it is possible to customise healthcare, with medical decisions, treatments, practices, or products which are tailored to the individual patient.
-![alt text](image-26.png)
 
+![](image-26.png)
 
-3. Health wearables
-![alt text](image-27.png)
+## 3. Health wearables
 
 A health wearable is a device used for tracking a wearer's vital signs or health and fitness related data, location, etc. Medical wearables with artificial intelligence and big data provide an added value to healthcare with a focus on diagnosis, treatment, patient monitoring and prevention.
-
-
-## NOTE
-
-Big Data: Extremely large data sets that may be analysed computationally to reveal patterns,trends,and associations,especially relating to human behaviour and interactions.
+![](image-27.png)
 
 ## 4.Artificial organs
-![alt text](image-28.png)
+
 An artificial organ is an engineered device or tissue that is implanted or integrated into a human. It is possible to interface it with living tissue or to replace a natural organ. It duplicates or augments a specific function or functions of human organs so that the patient may return to a normal life as soon as possible.
+![](image-28.png)
 
-
-
-5. 3D printing
+## 5. 3D printing
 
 Advanced 3D printer systems and materials assist physicians in a range of operations in the medical field from audiology, dentistry, orthopedics and other applications.
-![alt text](image-29.png)
+![](image-29.png)
 
 ## 6. Wireless brain sensors
+
 Wireless brain sensors monitor intracranial pressure and temperature and then are absorbed by the body. Hence there is no need for surgery to remove these devices.
-![alt text](image-30.png)
+![](image-30.png)
 
-
-7. Robotic surgery
+## 7. Robotic surgery
 
 Robotic surgery is a type of surgical procedure that is done using robotic systems. Robotically- assisted surgery helps to overcome the limitations of pre- existing minimally- invasive surgical procedures and to enhance the capabilities of surgeons performing open surgery.
-
-![alt text](image-31.png)
+![](image-31.png)
 
 ## 8. Smart inhalers
 
 Inhalers are the main treatment option for asthma. Smart inhalers are designed with health systems and patients in mind so that they can offer maximum benefit. Smart inhalers use bluetooth technology to detect inhaler use, remind patients when to take their medication and gather data to help guide care.
-![alt text](image-32.png)
-
+![](image-32.png)
 
 # Other recent developments in physics
 
 ## Particle Physics
 
 Particle physics deals with the theory of fundamental particles of nature and it is one of the active research areas in physics. Initially it was thought that atom is the fundamental entity of matter. In 1930s, it was established that atoms are made up of electrons, protons and neutrons.
-![alt text](image-33.png)
 
+![](image-33.png)
 
 In the 1960s, quarks were discovered and it was understood that proton and neutron are made up of quarks. In the meantime, the particle physics research gained momentum and has grown exponentially both in theoretical and experimental perspective. Later it was found that the quarks interact through gluons. It is the field which received more number of noble prizes. Recently in the year 2013, famous 'Higgs particles' also known as "God" particles were discovered and for this, Peter Higgs and Englert received noble prize in physics. It is the 'Higgs particle' which gives mass to many particles like protons, neutrons etc.
-
 
 ## Cosmology
 
@@ -327,29 +238,30 @@ Cosmology is the branch that involves the origin and evolution of the universe. 
 
 Gravitational waves are the disturbances in the curvature of space-time and it travels with speed of light. Any accelerated charge emits electromagnetic wave. Similarly any accelerated mass emits gravitational waves but these waves are very weak even for masses like earth. The strongest source of gravitational waves are black holes. The discovery of gravitational waves made it possible to study the structure of black holes since it is the strongest source of gravitational waves. In fact, the recent discoveries of gravitational waves are emitted by two black holes when they merge to a single black hole. In fact, Albert Einstein theoretically proposed the existence of 'gravitational waves' in the year 1915. After 100 years, it is experimentally proved that his predictions are correct.
 
-![alt text](image-34.png)
+![](image-34.png)
 
 Black holes are end stage of stars which are highly dense massive object. Its mass ranges from 20 times mass of the sun to 1 million times mass of the sun. It has very strong gravitational force such that no particle or even light can escape from it. The existence of black holes is studied when the stars orbiting the black hole behave differently from the other stars. Every galaxy has black hole at its center. Sagittarius A* is the black hole at the center of the Milky Way galaxy.
 
 ![](image-35.png)
 
-![alt text](image-36.png)
+The famous physicist Stephen Hawking worked in the field of black hole.
+
+![](image-36.png)
+
+Super computers and eight telescopes stationed on five continets (EVENT HORIZON TELESCOPE)were used to develope a hude data to accomplish this. It has once again confirmed the Einstein's theory of general relativity.
 
 ## Quantum information theory (Not for examination)
 
 It is another fast developing research area which deals with improving the information storage using quantum computers. The present computers store information in the form of 'bits' but quantum computers store information in the form of 'qubits'. 'qubit' refers to quantum bit and it is the basic unit of quantum information. Classical bit implies either 0 or 1. But qubit not only includes 0 or 1 and also linear superposition of 0 and 1. This technology reduces the calculating time exponentially. This research field has very promising application in future.
-
-![alt text](image.png)
-
+![](image.png)
 
 Many striking innovations and discoveries originate from scientific fictions. Robots are also no exception to this. The word robotics was derived from the word robot. It was introduced in the play 'Rossum Universal Robots' by the Zech writer Karel Capek in 1920. The word robot comes from the Slavic word rabota, which means labour or work. The play begins in a factory that makes artificial people called robots. They looked like creatures that can be mistaken for humans (picture shown). These characters were very similar to the modern ideas of androids.
-![alt text](image-1.png)
 
-<center>(A scene from the play Rossum Universal Robots, showing three robots) </center>
+![](image-1.png)
 
 ## Summary
 
- Salient physics principles (covered in the higher secondary physics) are the foundation 
+Salient physics principles (covered in the higher secondary physics) are the foundation 
 for technology break through.
  Physics is the basic building block for Science, Engineering, Technology and 
 Medicine. Nano science is the science of objects with typical sizes of 1–100 nm. 
@@ -362,8 +274,6 @@ and applications of nano structural materials.
 its bulk counterpart.
 * Quantum confinement effects and surface effects are the two important phenomena 
 that govern nano properties. 
-
-![alt text](image-2.png)
 * Nanoscience and technology is the interdisciplinary area covering its applications in 
 various fields. 
 * Nano scale structures existed in nature long before scientists began studying them in 
@@ -406,7 +316,7 @@ manipulators and necessary software.
 * Accelerated mass emits gravitational waves which are very weak. 
 * Black holes are the strongest source of gravitational waves.
 ## Concept map
-![alt text](image-37.png)
+![](image-37.png)
 
 ## Evaluation
 
