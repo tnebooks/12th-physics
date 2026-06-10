@@ -16,7 +16,7 @@ In this unit, the students are exposed to- electric discharge through the gases-
 
 ## 9.1 INTRODUCTION
 
-<center>Figure 9.1 Comparison of size of an atom with that of an apple and comparison of size of an apple with that of the Earth </center>
+![](9.1.png)
 
 In earlier classes, we have studied that anything which occupies space is called matter. Matter can be classified into solids, liquids and gases. In our daily life, we use water for drinking, petrol for vehicles, we inhale oxygen, stainless steel vessels for cooking, etc. Experiences tell us that behaviour of one material is not the same as that of another, which means that the physical and chemical properties are different for different materials. In order to understand this, we need to know the fundamental constituents of materials.
 
@@ -36,7 +36,7 @@ But by special arrangement, one can make a gas to conduct electricity.
 
 A simple and convenient device used to study the conduction of electricity through gases is known as gas discharge tube. The arrangement of discharge tube is shown in Figure 9.2. It consists of a long closed glass tube (of length nearly $50~\mathrm{cm}$ and diameter of $4\mathrm{cm}$ inside of which a gas in pure form is filled usually. The small opening in the tube is connected to a high vacuum pump and a low- pressure gauge. This tube is fitted with two metallic plates known as electrodes which are connected to secondary of an induction coil. The electrode connected to positive of secondary is known as anode and the electrode to the negative of the secondary is cathode. The potential of secondary is maintained at about $50~\mathrm{kV}$.
 
-<center>Figure 9.2 Discharge tube (a) real picture (b) schematic diagram </center>
+![](9.2.png)
 
 Suppose the pressure of the gas in discharge tube is reduced to around $110\mathrm{mm}$ of Hg using vacuum pump, it is observed that no discharge takes place. When the pressure is kept near $100\mathrm{mm}$ of Hg, the discharge of electricity through the tube takes place. Consequently, irregular streaks of light appear and also crackling sound is produced. When the pressure is reduced to the order of 10 mm of Hg, a luminous column known as positive column is formed from anode to cathode.
 
@@ -58,13 +58,13 @@ When the pressure reaches to around $0.01\mathrm{mm}$ of Hg, positive column dis
 
 Thomson's experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
 
-<center>Figure 9.3 Arrangement of J.J. Thomson experiment to determine the specific charge of an electron </center>
+![](9.3.png)
 
 The arrangement of J. J. Thomson's experiment is shown in Figure 9.3. A highly evacuated discharge tube is used and cathode rays (electron beam) produced at cathode are attracted towards anode disc A. Anode disc is provided with pin hole in order to allow only a narrow beam of cathode rays. These cathode rays are now allowed to pass through the parallel metal plates which are maintained at high voltage as shown in Figure 9.3. Further, the gas discharge tube is kept in between pole pieces of magnet such that both electric and magnetic fields are acting perpendicular to each other. When the cathode rays strike the screen, they produce scintillation and hence bright spot is observed. This is achieved by coating the screen with zinc sulphide.
 
 #### (i) Determination of velocity of cathode rays
 
-<center>Figure 9.4 Electric force balancing the magnetic force - the path of electron beam is a straight line </center>
+![](9.4.png)
 
 For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let $e$ be the charge of the cathode rays, then
 
@@ -104,6 +104,8 @@ Figure 9.5 Deviation of path by applying uniform electric field
 
 Let $y$ be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be $u = 0$ before entering the parallel electric plates. Let $t$ be the time taken by the cathode rays to travel in electric field. Let $l$ be the length of one of the plates, then the time taken is
 
+![](9.5.png)
+
 $$t = \frac{l}{v} \quad (9.5)$$
 
 Hence, the deflection $y^{\prime}$ of cathode rays is (note: $u = 0$ and $a_{e} = \frac{e}{m} E$)
@@ -117,6 +119,8 @@ Therefore, the deflection $y$ on the screen is
 $$y\propto y^{\prime}\Rightarrow y = Cy^{\prime}$$
 
 where C is proportionality constant which depends on the geometry of the discharge tube and substituting $y^{\prime}$ value in equation 9.6, we get
+
+![](9.6.png)
 
 $$y = C\frac{1}{2}\frac{e}{m}\frac{l^{2}B^{2}}{E} \quad (9.7)$$
 
@@ -144,7 +148,7 @@ Let $m$ be the mass of the oil drop and $q$ be its charge. Then the forces actin
 
 (a) gravitational force $F_{g} = mg$ (b) electric force $F_{e} = qE$ (c) buoyant force $F_{b}$ (d) viscous force $F_{v}$
 
-<center>Figure 9.7 Free body diagram of the oil drop - (a) without electric field (b) with electric field </center>
+![](9.7.png)
 
 #### (a) Determination of radius of the droplet
 
@@ -214,13 +218,15 @@ Later, Niels Bohr who is also a student of Rutherford proposed an atomic model f
 
 In this model, the atoms are visualized as homogeneous spheres which contain uniform distribution of positively charged particles (Figure 9.8 (a)). The negatively charged particles known as electrons are embedded in it like seeds in water melon as shown in Figure 9.8 (b).
 
-<center>Figure 9.8 (a) Atom (b) Water melon </center>
+![](9.8.png)
 
 The atoms are electrically neutral, this implies that the total positive charge in an atom is equal to the total negative charge. According to this model, all the charges are assumed to be at rest. But from classical electrodynamics, no stable equilibrium points exist in electrostatic configuration (this is known as Earnshaw's theorem) and hence such an atom cannot be stable. Further, it fails to explain the origin of spectral lines observed in the spectrum of hydrogen atom and other atoms.
 
 ### 9.3.2 Rutherford's model
 
 In 1911, Geiger and Marsden did a remarkable experiment based on the advice of their teacher Rutherford, which is known as scattering of alpha particles by gold foil.
+
+![](9.9.png)
 
 The experimental arrangement is shown in Figure 9.9. A source of alpha particles (radioactive material, example polonium) is kept inside a thick lead box with a fine hole as seen in Figure 9.9. The alpha particles coming through the fine hole of lead box pass through another fine hole made on the lead screen. These particles are now allowed to fall on a thin gold foil and it is observed that the alpha particles passing through gold foil are scattered through different angles. A movable screen (from $0^{\circ}$ to $180^{\circ}$) which is made up of zinc sulphide (ZnS) is kept on the other side of the gold foil to collect the scattered alpha particles. Whenever alpha particles strike the screen, a flash of light is observed which can be seen through a microscope.
 
@@ -231,13 +237,15 @@ Rutherford proposed an atom model based on the results of alpha scattering exper
 (c) A few alpha particles (one in thousand) were deflected through the angle more than $90^{\circ}$
 (d) Very few alpha particles returned back (back scattered) - that is, deflected back by $180^{\circ}$
 
+![](9.10.png)
+
 In Figure 9.10 (c), the dotted points are the alpha scattering experiment data points obtained by Geiger and Marsden and the solid curve is the prediction from Rutherford's nuclear model. It is observed that the Rutherford's nuclear model is in good agreement with the experimental data.
 
 ## Conclusion made by Rutherford based on the above observation
 
 From the experimental observations, Rutherford proposed that an atom has a lot of empty space and contains a tiny matter at its centre known as nucleus whose size is of the order of $10^{- 14}\mathrm{m}$. The nucleus is positively charged and most of the mass of the atom is concentrated in the nucleus. The nucleus is surrounded by negatively charged electrons. Since static charge distribution cannot be in a stable equilibrium, he suggested that the electrons are not at rest and they revolve around the nucleus in circular orbits like planets revolving around the sun.
 
-<center>(a) Distance of closest approach </center>
+![](9.11.png)
 
 When an alpha particle moves straight towards the nucleus, it reaches a point where it comes to rest momentarily and returns back as shown in Figure 9.11. The minimum distance between the centre of the nucleus and the alpha particle just before it gets reflected back through $180^{\circ}$ is defined as the distance of closest approach $\mathbf{r}_0$ (also known as contact distance). At this distance, all the kinetic energy of the alpha particle will be converted into electrostatic potential energy (Refer unit 1, volume 1 of $+2$ physics text book).
 
@@ -247,7 +255,7 @@ $$\Rightarrow r_0 = \frac{1}{4\pi\epsilon_0}\frac{2Ze^2}{\left(\frac{1}{2}m\nu_0
 
 where $E_{k}$ is the kinetic energy of the alpha particle. This is used to estimate the size of the nucleus but size of the nucleus is always lesser than the distance of closest approach. Further, Rutherford calculated the radius of the nucleus for different nuclei and found that it ranges from $10^{- 14}\mathrm{m}$ to $10^{- 15}\mathrm{m}$.
 
-<center>(b) Impact parameter </center>
+![](9.12.png)
 
 The impact parameter $(b)$ (see Figure 9.12) is defined as the perpendicular distance between the centre of the gold nucleus and the direction of velocity vector of alpha particle when it is at a large distance. The relation between impact parameter and scattering angle can be shown as
 
@@ -261,7 +269,7 @@ Rutherford atom model helps in the calculation of the diameter of the nucleus an
 
 (a) This model fails to explain the distribution of electrons around the nucleus and also the stability of the atom.
 
-<center>Figure 9.13 Spiral in motion of an electron around the nucleus </center>
+![](9.13.png)
 
 According to classical electrodynamics, any accelerated charge should emit electromagnetic radiations continuously. Due to emission of radiations, the charge loses its energy. Hence, it can no longer sustain the circular motion. The radius of the orbit, therefore, becomes smaller and smaller (undergoes spiral motion) as shown in Figure 9.13 and finally the electron should fall into the nucleus and the atoms should disintegrate. But this does not happen.
 
@@ -273,7 +281,7 @@ Hence, Rutherford model could not account for the stability of atoms.
 
 In order to overcome the limitations of the Rutherford atom model in explaining the stability and also the line spectrum observed for a hydrogen atom (Figure 9.14), Niels Bohr made modifications in Rutherford atom model. He is the first person to give better theoretical model of the structure of an atom to explain the line spectrum of hydrogen atom. The following are the assumptions (postulates) made by Bohr.
 
-<center>Figure 9.14 The line spectrum of hydrogen </center>
+![](9.14.png)
 
 ## Postulates of Bohr atom model:
 
@@ -289,7 +297,7 @@ This condition is known as angular momentum quantization condition.
 
 According to quantum mechanics, particles like electrons have dual nature (Refer unit 8, volume 2 of $+2$ physics text book). The standing wave pattern of the de Broglie wave associated with orbiting electron in a stable orbit is shown in Figure 9.15.
 
-<center>Figure 9.15 Standing wave pattern for electron in a stable orbit </center>
+![](9.15.png)
 
 The circumference of an electron's orbit of radius $r$ must be an integral multiple of de Broglie wavelength - that is,
 
@@ -309,7 +317,7 @@ $$\Delta E = E_{final} - E_{initial} = h\nu = h\frac{c}{\lambda}$$
 
 where $c$ is the speed of light and $\lambda$ is the wavelength and $\nu$ is the frequency of the radiation emitted. Thus, the frequency of the radiation emitted is related only to change in atomic energy levels and it does not depend on frequency of orbital motion of the electron.
 
-<center>Figure 9.16 Absorption and emission of radiation </center>
+![](9.16.png)
 
 ## EXAMPLE 9.1
 
@@ -339,7 +347,7 @@ $$\mathrm{Velocity}\ u = \frac{l}{mr}$$ $$\displaystyle = \frac{(5.25\times 10^{
 
 Consider an atom which contains the nucleus at rest and an electron revolving around the nucleus in a circular orbit of radius $r_{n}$ as shown in Figure 9.17. Nucleus is made up of protons and neutrons. Since proton is positively charged and neutron is electrically neutral, the charge of a nucleus is entirely due to the charge of protons.
 
-<center>Figure 9.17 Electron revolving around the nucleus </center>
+![](9.17.png)
 
 Let $Z$ be the atomic number of the atom, then $+Ze$ is the charge of the nucleus. Let $- e$ be the charge of the electron. From Coulomb's law, the force of attraction between the nucleus and the electron is
 
@@ -393,7 +401,7 @@ Further, Bohr's angular momentum quantization condition leads to
 
 $$\frac{mv_{n}a_{0}n^{2}}{Z} = n\frac{h}{2\pi}\left[\therefore r_{n} = a_{0}\frac{n^{2}}{Z}\right]$$
 
-<center>Figure 9.18 Variation of radius of the orbit with principal quantum number </center>
+![](9.18.png)
 
 $$v_{n} = \frac{h}{2\pi m a_{0}n}$$
 
@@ -401,7 +409,7 @@ in atomic physics $v_{n}\propto \frac{1}{n}$
 
 Note that the velocity of electron decreases as the principal quantum number (orbit number) increases as shown in Figure 9.19. This curve is the rectangular hyperbola. This implies that the velocity of electron in ground state is maximum when compared to that in excited states.
 
-<center>Figure 9.19 Variation of velocity of the electron in the orbit with principal quantum number </center>
+![](9.19.png)
 
 Since the electrostatic force is a conservative force, the potential energy for the $n^{\mathrm{th}}$ orbit is
 
@@ -442,7 +450,7 @@ The energy level diagram along with the shape of the orbits for increasing value
 
 (a) The velocity of an electron in $n^{\mathrm{th}}$ orbit is $\nu_{n} = \frac{h}{2\pi m a_{0}}\frac{Z}{n}$ where $a_{0} = \frac{\epsilon_{0}h^{2}}{\pi m e^{2}} =$ Bohr radius. Substituting for $a_{0}$ in $\nu_{n}$
 
-<center>Figure 9.20 Energy levels of a hydrogen atom </center>
+![](9.20.png)
 
 $$\nu_{n} = \frac{e^{2}}{2\epsilon_{0}h}\frac{Z}{n} = c\left(\frac{e^{2}}{2\epsilon_{0}hc}\right)\frac{Z}{n} = \frac{\alpha cZ}{n}$$
 
@@ -483,6 +491,8 @@ The Bohr atom model is derived with the assumption that the nucleus of the atom 
 ## Solution
 
 Let the mass of the electron be $m$ and mass of the nucleus be $M$. Since there is no external force acting on the system, the centre of mass of hydrogen atom remains at rest. Hence, both nucleus and electron move about the centre of mass as shown in figure.
+
+![](EX-9.4.png)
 
 Let $V$ be the velocity of the nuclear motion and $\nu$ be the velocity of electron motion. Since the total linear momentum of the system is zero,
 
@@ -540,6 +550,8 @@ Similarly, second excitation potential is,
 
 $$V_{II} = \frac{1}{e} E_{II} = 12.1 \mathrm{volt} \ \text{and} \ \text{so} \ \text{on}.$$
 
+![](Table-9.1.png)
+
 ## Ionization energy and ionization potential
 
 An atom is said to be ionized when an electron is completely removed from the atom - that is, it reaches the state with energy $E_{n\to \infty}$. The minimum energy required to remove an electron from an atom in the ground state is known as binding energy or ionization energy.
@@ -553,6 +565,8 @@ When an electron is in $n^{\mathrm{th}}$ state of an atom, the energy required t
 $$E_{\mathrm{ionization}} = E_{\infty} - E_{n} = 0 - \left(-\frac{13.6}{n^{2}} Z^{2} eV\right)$$ $$= \frac{13.6}{n^{2}} Z^{2} eV$$
 
 At normal room temperature, the electron in a hydrogen atom $(Z = 1)$ spends most of its time in the ground state. The amount of decay at the same time. The total number of nuclei decaying at any instant depends on the total number of nuclei present at that instant. This is known as the law of radioactive decay. The law states that the rate of decay of radioactive nuclei is directly proportional to the number of radioactive nuclei present at that instant.
+
+#### 9.6.4 Law of radioactive decay
 
 Let $N$ be the number of radioactive nuclei present at any instant $t$. Then, from the law,
 
@@ -578,7 +592,7 @@ $$N = N_0 e^{-\lambda t} \quad (9.33)$$
 
 Here $N_0$ is the number of radioactive nuclei present at initial time $t=0$. This equation is called the law of radioactive decay. It shows that the number of radioactive nuclei decreases exponentially with time, as shown in Figure 9.26.
 
-<center>Figure 9.26 Exponential decay of a radioactive nucleus </center>
+![](9.26.png)
 
 From equation (9.33), we can also calculate the half-life $T_{1/2}$ and mean life $\tau$ of a radioactive nucleus.
 
@@ -696,9 +710,17 @@ The energy released in a single fission event is about $200 \mathrm{MeV}$, which
 
 In a fission reaction, two or three neutrons are emitted along with the fission fragments. These neutrons can cause further fission of other heavy nuclei, leading to a self-sustaining chain reaction, as shown in Figure 9.27.
 
-<center>Figure 9.27 Chain reaction in nuclear fission </center>
+![](9.27.png)
 
 If the number of neutrons available for further fission is controlled, the chain reaction can be sustained at a steady rate (controlled chain reaction). If the number of neutrons increases uncontrollably, the chain reaction becomes explosive (uncontrolled chain reaction).
+
+
+#### Chain reaction:
+
+There are two kinds of chain reactions: (i) uncontrolled chain reaction (ii) controlled chain reaction. In an uncontrolled chain reaction, the number of neutrons multiply indefinitely and the entire amount of energy is released in a fraction of second.The atom bomb is an example of nuclear fission reaction in which uncontrolled chain reaction occurs. Atom bombs produce massive destruction on mankind. During World War II, on August 6 and 9 in the year 1945, USA dropped two atom bombs in two places of Japan, Hiroshima and Nagasaki. As a result, lakhs of people were killed and the two cities were completely destroyed. Even now the people who are living in those places have side effects caused by the explosion of atom bombs.
+It is possible to calculate the typical energy released in a chain reaction. In the first step,one neutron initiates the fission process in one nucleus by producing three neutrons and energy of about 200 MeV.  
+
+![](9.28.png)
 
 ### 9.7.2 Nuclear reactor
 
@@ -707,6 +729,10 @@ A nuclear reactor is a device in which a controlled chain reaction is maintained
 (1) **Nuclear fuel**: The fissile material that undergoes fission. Common fuels are $^{235}U$, $^{239}Pu$, and $^{233}U$.
 
 (2) **Moderator**: A material that slows down fast neutrons produced in fission to thermal energies to increase the probability of further fission. Common moderators are ordinary water (H$_2$O), heavy water (D$_2$O), and graphite.
+
+![](9.29(a).png
+
+![](9.29(b).png))
 
 (3) **Control rods**: Rods made of neutron-absorbing materials (like cadmium, boron, or hafnium) that control the rate of fission by absorbing excess neutrons.
 
@@ -753,6 +779,8 @@ International collaborative projects like ITER (International Thermonuclear Expe
 ## 9.9 ELEMENTARY PARTICLES
 
 Elementary particles are the fundamental building blocks of matter that cannot be further subdivided. Over the years, physicists have discovered a large number of particles, and the current understanding is summarized in the Standard Model of particle physics.
+
+![](9.30.png)
 
 ### 9.9.1 Classification of elementary particles
 
