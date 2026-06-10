@@ -1899,7 +1899,7 @@ Thus the force between two parallel current carrying conductors is attractive if
 
 The force between two parallel current carrying conductors is repulsive if they carry current in opposite directions (Figure 3.56).
 
-![Two parallel conductors carrying current in opposite direction experience a repulsive force](img3.56)
+![Two parallel conductors carrying current in opposite direction experience a repulsive force](img3.56.png)
 
 **Definition of ampere**
 
