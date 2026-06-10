@@ -2,7 +2,7 @@
 title: 'Wave Optics'
 categories:
     - wave-optics
-weight: 8
+weight: 7
 summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
 
 ---
@@ -61,11 +61,10 @@ A good example for wave propagation is the spreading of circular ripples on the 
 
 When a wave propagates it is treated as the propagation of wavefront. The wavefront is always perpendicular to the direction of the propagation of the wave. As the direction of ray is in the direction of propagation of the wave, the wavefront is always perpendicular to the ray as shown in Figure 7.1(b).
 
-<center>Figure 7.1 (a) Ripples on water surface (b) Wavefront and ray </center>
-
+![](7.1.png)
 The shape of a wavefront observed at a point depends on the shape of the source and also the distance at which the source is located. A point source located at a finite distance gives spherical wavefronts. An extended (or) line source at finite distance gives cylindrical wavefronts. Any source that is located at infinity gives plane wavefront as shown in Figure 7.2.
 
-<center>Figure 7.2 Wavefronts </center>
+![](7.2.png)
 
 #### 7.2.2 Huygens' Principle
 
@@ -73,7 +72,7 @@ Huygens principle is basically a geometrical construction which gives the shape 
 
 The propagation of a spherical and plane wavefront can be explained using Huygens' principle. Let, \(AB\) be the wavefront at a time, \(t = 0\) . According to Huygens' principle, every point on \(AB\) acts as a source of secondary wavelet which travels with the speed of the wave (speed of light \(c\) ). To find the position of the wavefront after a time \(t\) , circles of radius equal to \(ct\) are drawn with points \(P\) , \(Q\) , \(R\) ... etc., as centers on \(AB\) . The forward envelope (or) the tangent \(A'B'\) of the small circles is the new wavefront at that instant \(t\) . The wavefront \(A'B'\) will be a spherical wavefront from a point object which is at a finite distance as shown in Figure 7.3(a) and it is a plane wavefront if the source of light is at a large distance (infinity) as shown in Figure 7.3(b).
 
-<center>Figure 7.3 Huygens' Principle </center>
+![](7.3.png)
 
 #### 7.2.3 Proof for laws of reflection using Huygens' Principle
 
@@ -83,7 +82,7 @@ There is one shortcoming in the above Huygens' construction for propagation of a
 
 Let us consider a parallel beam of light is incident on a reflecting plane surface such as a plane mirror XY as shown in Figure 7.4. The incident wavefront is \(AB\) and the reflected wavefront is \(A^{\prime}B^{\prime}\) . These wavefronts are perpendicular to the incident rays \(L\) \(M\) and reflected rays \(L^{\prime}\) \(M^{\prime}\) respectively. By the time point \(A\) of the incident wavefront touches the reflecting surface, the point \(B\) is yet to travel a distance \(BB^{\prime}\) to touch the reflecting surface at \(B^{\prime}\) . When the point \(B\) touches the reflecting surface at \(B^{\prime}\) , the point \(A\) would have reached \(A^{\prime}\) . This is applicable to all the points on the wavefront. Thus, the reflected wavefront \(A^{\prime}B^{\prime}\) emanates as a plane wavefront. The two normals \(N\) and \(N^{\prime}\) are considered at the points where the rays \(L\) and \(M\) fall on the reflecting surface. As reflection happens in the same medium, the speed of light is same before and after
 
-<center>Figure 7.4 Laws of reflection </center>
+![](7.4.png)
 
 the reflection. The time taken for the light to travel from \(B\) to \(B^{\prime}\) and \(A\) to \(A^{\prime}\) are the same. Thus, the distance \(BB^{\prime}\) is equal to the distance \(AA^{\prime}\) ; \((AA^{\prime} = BB^{\prime})\) .
 
@@ -107,7 +106,7 @@ Hence, the laws of reflection are proved.
 
 Let us consider a parallel beam of light is incident on a refracting plane surface \(XY\) such as a glass as shown in Figure 7.5. The incident wavefront \(AB\) is in rarer medium (1) and the refracted wavefront \(A^{\prime}B^{\prime}\) is in denser medium (2). These wavefronts are perpendicular to the incident rays \(L\) \(M\) and refracted rays \(L^{\prime},M^{\prime}\) respectively. By the time the point \(A\) of the incident wavefront touches the refracting surface, the point \(B\) is yet to travel a distance \(BB^{\prime}\) to touch the refracting surface at \(B^{\prime}\) . When the point \(B\) touches the refracting surface at \(B^{\prime}\) , the point \(A\) would have reached \(A^{\prime}\) in the other medium. This is applicable
 
-<center>Figure 7.5 Law of refraction </center>
+![](7.5.png)
 
 to all the points on the wavefront. Thus, the refracted wavefront \(A^{\prime}B^{\prime}\) emanates as a plane wavefront. The two normals \(N\) and \(N^{\prime}\) are considered at the points where the rays \(L\) and \(M\) fall on the refracting surface. As refraction happens from rarer medium (1) to denser medium (2), the speed of light is \(\nu_{1}\) and \(\nu_{2}\) before and after refraction and \(\nu_{1}\) is greater than \(\nu_{2}\) ( \(\nu_{1} > \nu_{2}\) ). But, the time taken \(t\) for the ray to travel from \(B\) to \(B^{\prime}\) is the same as the time taken for the ray to travel from \(A\) to \(A^{\prime}\) .
 
@@ -211,7 +210,7 @@ Superposition of waves refers to addition of waves. The concept of superposition
 
 Let us consider two light waves from the two sources \(S_{1}\) and \(S_{2}\) meeting at a point \(P\) as shown in Figure 7.6.
 
-<center>Figure 7.6 Superposition principle </center>
+![](7.6.png)
 
 The wave from \(S_{1}\) at an instant \(t\) at \(P\) is,
 
@@ -352,7 +351,7 @@ Resultant intensity when, \(\phi = \pi /3\) , is
 
 Phase is the angular position of vibration when a wave is progresses, there is a relation between the phase of the vibration and the path travelled by the wave. We can express the phase in terms of path and vice versa. In the path of the wave, one wavelength \(\lambda\) corresponds to a phase of \(2\pi\) as shown in Figure 7.7. A path difference \(\delta\) corresponds to a phase difference \(\phi\) as given by the equation,
 
-<center>Figure 7.7 Path difference and phase difference </center>
+![](7.7.png)
 
 \[\delta = \frac{\lambda}{2\pi}\times \phi \ \ (\mathrm{or})\ \ \phi = \frac{2\pi}{\lambda}\times \delta \quad (7.23)\]
 
@@ -395,15 +394,15 @@ To obtain coherent light waves, we have the following three techniques.
 
 (i) Wavefront division: This is the most commonly used method for producing coherent sources. We know a point source produces spherical wavefronts. All the points on the wavefront are at the same phase. If two points are chosen on the wavefront by using a double slit, the two points will act as coherent sources as shown in Figure 7.8.
 
-<center>Figure 7.8 Wavefront division </center>
+![](7.8.png)
 
 (ii) Intensity (or) Amplitude division: If we allow light to pass through a partially silvered mirror (beam splitter), both reflection and refraction take place simultaneously. As the two light beams are obtained from the same light source, the two divided light beams will be coherent beams. They will be either in- phase or at constant phase difference as shown in Figure 7.9. Instruments like Michelson's interferometer, Fabray- Perrot etalon work on this principle.
 
-<center>Figure 7.9 Intensity (or) amplitude division </center>
+![](7.9.png)
 
 (iii) Source and Images: In this method a source and its images will act as a set of coherent sources, because the source and its image will have waves in- phase (or) constant phase difference as shown in Figure 7.10. The Instrument, Fresnel's biprism uses two virtual images of the source as two coherent sources and the instrument, Lloyd's mirror uses a source and its one virtual image as two coherent sources.
 
-<center>Figure 7.10 Source and images as coherent sources </center>
+![](7.10.png)
 
 #### 7.3.3 Double slit as coherent sources
 
@@ -413,6 +412,8 @@ At points where the crest of one wave meets the crest of the other wave (or) the
 
 At points where the crest of one wave meets the trough of the other wave and vice- versa, the waves are out- of- phase. Hence, the displacement is minimum and these points appear dark as a result of this destructive interference.
 
+![](7.11.png)
+
 On a screen the intensity of light will be alternative maximum and minimum strips i.e. bright and dark bands which are referred as interference fringes.
 
 #### 7.3.4 Young's double slit experiment
@@ -421,7 +422,7 @@ Experimental setup
 
 Thomas Young, a British Physicist in 1801 used an opaque screen with two small openings called double slit \(S_{1}\) and \(S_{2}\) kept equidistance from a source \(S\) as shown in Figure 7.12. The width of each slit is about \(0.03\mathrm{mm}\) and they are separated by a distance of about \(0.3\mathrm{mm}\) . As \(S_{1}\) and \(S_{2}\) are equidistant from \(S\) the same wavefront is cut by \(S_{1}\) and \(S_{2}\) . The light waves at \(S_{1}\) and \(S_{2}\) are in- phase. So, \(S_{1}\) and \(S_{2}\) act as coherent sources which is the requirement for obtaining interference pattern.
 
-<center>Figure 7.12 Young's double slit experimental setup </center>
+![](7.12.png)
 
 Wavefronts from \(S_{1}\) and \(S_{2}\) spread out and overlap on the other side of the double slit. When a screen is placed at a distance of about \(1\mathrm{m}\) from the slits, alternate bright and dark fringes which are equally spaced appear on the screen. These are called interference fringes (or) bands. Using an eyepiece, the fringes can be seen directly. At the center point O on the screen, the waves from \(S_{1}\) and \(S_{2}\) travel equal distances and arrive in- phase as shown in Figure 7.12. These two waves constructively interfere and a bright fringe is observed at O. This is called central bright fringe. When one of the slits is closed, the fringes disappear and there is uniform illumination on the screen. This shows clearly that the bands are due to interference.
 
@@ -431,7 +432,7 @@ The schematic diagram of the experimental setup is shown in Figure 7.13.
 
 Let d be the distance between the double slits \(S_{1}\) and \(S_{2}\) which act as coherent sources of wavelength \(\lambda\) . A screen is placed parallel to the double slit at a distance \(D\) from it. The mid- point of \(S_{1}\) and \(S_{2}\) is \(C\) and the mid- point of the screen \(O\) is equidistant from \(S_{1}\) and \(S_{2}\) . \(P\) is any point at a distance \(y\) from \(O\) . The waves from \(S_{1}\) and \(S_{2}\) meet at \(P\) either in- phase or out- of- phase depending upon the path difference between the two waves.
 
-<center>Figure 7.13 Young's double slit arrangement to find path difference </center>
+![](7.13.png)
 
 The path difference \(\delta\) between the light waves from \(S_{1}\) and \(S_{2}\) to the point \(P\) is, \(\delta = S_{2}P - S_{1}P\)
 
@@ -483,11 +484,11 @@ The condition for the point \(P\) to have a destructive interference (or) be a d
 
 This is the condition for the point P to have a dark fringe. The distance \(y_{n}\) is the distance of the \(n^{\mathrm{th}}\) dark fringe from the point O. The formation of bright and dark fringes is shown in Figure 7.14.
 
-<center>Figure 7.14 Formation of bright and dark fringes </center>
+![](7.14.png)
 
 This shows that on the screen, alternate bright and dark fringes are seen on either side of the central bright fringe. The central bright is referred as \(0^{\mathrm{th}}\) bright followed by \(1^{\mathrm{st}}\) dark and \(1^{\mathrm{st}}\) bright and then \(2^{\mathrm{nd}}\) dark and \(2^{\mathrm{nd}}\) bright and so on, on either side of \(O\) successively as shown in Figure 7.15.
 
-<center>Figure 7.15 Interference fringe pattern </center>
+![](7.15.png)
 
 ## Equation for bandwidth
 
@@ -611,7 +612,7 @@ An important example of interference effects in light is the beautiful colours s
 
 Consider a thin film of thickness \(d\) and refractive index \(\mu\) . A ray of light from source \(S\) is partially reflected at the top surface \(A\) and partially refracted. The refracted ray travels inside the film and gets reflected at \(B\) and transmitted at \(C\) as shown in Figure 7.16. The ray \(AE\) is the one reflected from the top surface. The ray \(CF\) is the one transmitted from the bottom surface. Both rays \(AE\) and \(CF\) are derived from the same incident ray. Hence, they are coherent.
 
-<center>Figure 7.16 Interference in thin films </center>
+![](7.16.png)
 
 Let us consider the path difference between the rays \(AE\) and \(CF\) . The ray \(CF\) travels from \(A\) to \(B\) to \(C\) up to \(B\) where the splitting occurred. The extra path travelled by the wave transmitted from \(C\) is the path inside the film, \(AB + BC\) . If we approximate the incidence to be nearly normal \((i = 0)\) and the film of small thickness, then the points \(B\) and \(C\) are very close to each other. The extra distance travelled by the wave is approximately twice thickness of the film, \(AB + BC = 2d\) . As this extra path is traversed inside the medium of refractive index \(\mu\) , the optical path difference is, \(\delta = 2\mu d\) .
 
@@ -673,20 +674,71 @@ This is a violation to the rectilinear propagation of light we have studied in r
 
 Based on the type of wavefront which undergoes diffraction, it could be classified as Fresnel and Fraunhofer diffractions. The differences between Fresnel and Fraunhofer diffractions are shown in Table 7.1.
 
-| S.No. | Fresnel diffraction | Fraunhofer diffraction |
-| :--- | :--- | :--- |
-| 1 | Spherical (or) cylindrical wavefront undergoes diffraction | Plane wavefront undergoes diffraction |
-| 2 | Light wave is from a source at finite distance | Light wave is from a source at infinity |
-| 3 | Convex lenses need not be used for laboratory conditions | Convex lenses are to be used in laboratory conditions |
-| 4 | Difficult to observe and analyse | Easy to observe and analyse |
+![](Table-7.1.png)
 
-One of the rays obeys the laws of refraction (i.e. $\frac{\sin i}{\sin r} = \text{constant}$). This ray is called ordinary ray (O-ray). The second ray does not obey the laws of refraction (i.e. $\frac{\sin i}{\sin r}$ is not a constant). This ray is called extraordinary ray (E-ray). The O-ray travels with same velocity in all directions inside the crystal. But the E-ray travels with different velocities along different directions inside the crystal. The O-ray and E-ray are found to be plane polarised with their vibrations perpendicular to each other.
+As Fraunhofer diffraction is easy to observe and analyse, let us take it up for further discussions.
 
-<center>Figure 7.33 Double refraction </center>
+#### 7.4.2 Diffraction in single slit
 
-#### 7.5.6 Polarisation by scattering
+Let a parallel beam of light (plane wavefront) fall normally on a single slit AB of width a as shown in Figure 7.17. The diffracted beam falls on a screen kept at a distance D from the slit. The center of the slit is C. A straight line through C perpendicular to the plane of slit meets the center of the screen at O. Consider any point P on the screen. All the light reaching the point P from different points on the slit make an angle θ with the normal CO. All the light waves coming from different points on the slit interfere at point P (and other points) on the screen to give the resultant intensities. The point P is in the geometrically shadowedregion, up to which the central maximum is spread due to diffraction as shown Figure 7.17. We need to give the condition for the point P to be of various minima. 
+
+![](7.17.png)
+
+The basic idea is to divide the slit into even number of smaller parts. Then, add their contributions at P with the proper path difference to show that destructive interference takes place at that point to make it minimum. To explain maximum, the slit is divided into odd number of parts.
+
+Condition for P to be first minimum
+    Let us divide the slit AB into two halves AC and CB. Now the width of each part is a/2. We have different points on the slit which are separatedby the same width a/2 called as corresponding points. This is shown in Figure 7.18
+
+![](7.18.png)
+
+
+#### 7.4.3 Discussion on first minimum
+
+The equation for first minimum in single slit diffraction is, a sin θ = λ. The angular spread for its first minimum in the diffraction pattern is, sin θ = λ/a. The central maximum is found in between these first minima that occur on both the sides. 
+We can discuss the following cases on the central maximum. 
+
+(i) If a < λ, then sin θ > 1 which is not possible. Hence, diffraction does not take place.
+(ii) If a = λ, then sin θ = 1 i.e. θ = 90 degree. The first minimum is at 90 degree. Hence, the central maximum spreads fully into the geometrically shadowed region leading to the bending of the diffracted light by 90 degree . 
+(iii) If a > λ and also comparable to λ, saya = 2λ, then sin θ =1/2 (or) θ = 30 degree. The diffraction is observed with a measurable spread. Hence, it is concluded that for observing the diffraction pattern, essentially the width of the slit a must be just few times greater than the wavelength of light λ.
+(iv) If a >> λ, then sin θ << 1 i.e. The first minimum falls within the width space of the slit itself. Hence, the phenomenon of diffraction is not observed at all.
+
+#### 7.4.4 Fresnel’s distance
+
+The rectilinear propagation of light is violated as there is bending of light in diffraction. But, this bending is not seen till the diffracted ray crosses the central maximum at a distance z from the slit as shown in Figure 7.19.Hence, Fresnel’s distance is the distance upto which the ray optics is obeyed and beyond which the ray optics is not obeyed; but, the wave optics becomes significant.
+
+![](7.19.png)
+
+#### 7.4.5 Difference between interference and diffraction
+
+![](Table-7.2.png)
+
+#### 7.4.6 Diffraction in grating
+
+A  grating has multiple slits with equal widths of comparable size to the wavelength of diffracting light. A grating is a plane sheet of transparent material on which opaque rulings are made. A modern commercial grating contains about 6000 lines per centimetre. The transparent space between the rulings act as slit of width a and the rulings act as obstacles having a definite width b.  The combined width of a slit and a ruling is called grating element e,  (e = a + b). The points on the slit separated by a distance equal to the grating element are called corresponding points. 
+
+![](7.20.png)
+
+#### 7.4.7 Experiment to determine the wavelength of monochromatic light
+
+The wavelength of a spectral line can be very accurately determined with the help of a plane transmission grating. For that we need to use an 
+instrument called spectrometer (Refer 7.6.6). After preliminary adjustments, the slit of collimator is illuminated by a monochromatic light, whose wavelength is to be determined. The telescope is brought in line with collimator to view the image of the slit. The given grating is then mounted on the prism table with its plane perpendicular to the incident beam of light coming from the collimator. The telescope is turned to one side until the first order diffraction image of the slit is seen. The reading of the position of the telescope is noted.
+Similarly, the first order diffraction image on the other side is captured and the eading is noted. The difference between two readings gives 2θ. Half of its value gives θ. The angle for first order maximum is shown in Figure 7.21.
+
+
+![](7.21.png)
+
+#### 7.4.8 Determination of wavelenght of different colours
+
+The diffraction pattern for white light consists of a white central maximum and continuous coloured diffraction pattern on its both sides. The central maximum is white as all the colours constructively meet at centre  with no path difference. As θ increases, the path difference fullfills the 
+condition for maxima of different orders for all colours from violet to red. It produces a spectrum of diffraction pattern from violet to red on either side of central maximum as shown in Figure 7.22.
+
+![](7.22.png)
+
+#### 7.5.8 Polarisation by scattering
 
 When a beam of unpolarised light is made to fall on a substance containing small particles whose size is smaller than the wavelength of light, the light gets absorbed by the particles and re-radiated. This phenomenon is called scattering of light. In the scattered light, the vibrations are confined to one direction. Hence, the scattered light is said to be polarised. For example, the blue colour of the sky is due to the scattering of sunlight by the dust particles present in the atmosphere. The scattered sunlight is found to be partially polarised. With a polaroid, one can check this.
+
+![](7.35.png)
 
 ### 7.6 OPTICAL INSTRUMENTS
 
@@ -694,9 +746,9 @@ Optical instruments use visible light and lenses to produce magnified images of 
 
 #### 7.6.1 Simple microscope
 
-A simple microscope is a single convex lens (or) a combination of convex lenses which produces magnified virtual image of an object. It is also called magnifying glass (or) simply a magnifier. It is used to see very small objects. Figure 7.34(a) shows the object within the focal length of a convex lens forming a virtual, erect and magnified image at the near point (point of distinct vision). Figure 7.34(b) shows the object within the focal length of a convex lens forming a virtual, erect and magnified image at infinity. The object is kept at the focus of the convex lens.
+A simple microscope is a single convex lens (or) a combination of convex lenses which produces magnified virtual image of an object. It is also called magnifying glass (or) simply a magnifier. It is used to see very small objects. Figure 7.37(a) shows the object within the focal length of a convex lens forming a virtual, erect and magnified image at the near point (point of distinct vision). Figure 7.37(b) shows the object within the focal length of a convex lens forming a virtual, erect and magnified image at infinity. The object is kept at the focus of the convex lens.
 
-<center>Figure 7.34 Simple microscope </center>
+![](7.37.png)
 
 The magnification of a simple microscope is given by,
 
@@ -738,7 +790,7 @@ When the image is at infinity,
 
 where, $L$ is the tube length (the distance between the objective and the eyepiece), $f_0$ is the focal length of the objective, $f_e$ is the focal length of the eyepiece and $D$ is the distance of distinct vision.
 
-<center>Figure 7.35 Compound microscope </center>
+![](7.39.png)
 
 ## EXAMPLE 7.20
 
@@ -778,11 +830,13 @@ When the image is at the near point, the magnification $m$ is,
 
 where, $f_0$ is the focal length of the objective, $f_e$ is the focal length of the eyepiece and $D$ is the distance of distinct vision.
 
-<center>Figure 7.36 Astronomical telescope </center>
+![](7.40.png)
 
 #### 7.6.4 Terrestrial telescope
 
 The astronomical telescope produces inverted images. For viewing objects on the earth, an erect image is needed. For this purpose, a terrestrial telescope uses an additional convex lens of focal length $f$ called erecting lens. The erecting lens is placed between the objective and the eyepiece at a distance $2f$ from both the lenses. This lens erects the inverted image formed by the objective, without additional magnification.
+
+![](7.41.png)
 
 #### 7.6.5 Resolving power of optical instruments
 
@@ -797,6 +851,8 @@ For a microscope, the resolving power $R$ is given by,
 \[R = \frac{2\mu \sin \theta}{\lambda} \quad (7.66)\]
 
 where, $\mu$ is the refractive index of the medium between the object and the objective, $\theta$ is the half-angle of the cone of light entering the objective and $\lambda$ is the wavelength of light used.
+
+![](7.38.png)
 
 ## EXAMPLE 7.21
 
@@ -813,6 +869,8 @@ Substituting, $R = \frac{2.5}{1.22 \times 589 \times 10^{-9}} = \frac{2.5}{7.185
 #### 7.6.6 Spectrometer
 
 A spectrometer is an optical instrument used to study the spectra of different sources of light. It is also used to determine the wavelength of light. It consists of three main parts:
+
+![](7.43.png)
 
 1.  **Collimator**: It produces a parallel beam of light. It consists of a convex lens and an adjustable slit at its focus.
 2.  **Prism table**: It holds the prism or grating. It can be rotated and its position can be read using a vernier scale.
