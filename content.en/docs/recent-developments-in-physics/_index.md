@@ -52,23 +52,15 @@ The solids are made up of particles. Each of the particle has a definite number 
 In the nano scale dimensions (reduced dimensions), two important phenomena govern nano properties. They are quantum confinement effects and surface effects. Students can explore these effects in higher education and the explanation is avoided at school level.
 
 11.2.2 Interdisciplinary nature of Nanotechnology
-
-
+![alt text](image-3.png)
 
 11.2.3 Nano in Nature
-
+![alt text](image-4.png)
 Nanoscale structures existed in nature long before scientists began studying them in laboratories.
-
-
-
-1
-
+![alt text](image-5.png)
 
 11.2.4 Early beginning and development (Not for examination)
-
-image[[0, 0, 999, 35]]
-
-image[[0, 0, 999, 35]]
+![alt text](image-6.png)
 
 # 2016
 
@@ -90,21 +82,17 @@ Jean- Pierre Sauvage, J. Fraser Stoddart, and Bernard Feringa won the Nobel Priz
 11.2.5 Nano in laboratories
 
 The nanostructures made in the laboratory mimic some of nature's amazing nanostructures. As the nanostructures are so small, specialized methods are needed to manufacture objects in this size range. There are two ways of preparing the nanomaterials, top down and bottom up approaches.
-
-image[[172, 301, 856, 842]]
+![alt text](image-7.png)
 
 Due to the vast available methods the details are avoided at this level.
 
 
 11.2.6 Applications of Nano technology
 
-image[[129, 175, 817, 455]]
+![alt text](image-8.png)
+![alt text](image-9.png)
 
-
-
-1
-
-image[[171, 138, 825, 461]]
+![alt text](image-10.png)
 
 ## 11.2.7 Possible harmful effects of nanoparticles
 
@@ -115,6 +103,7 @@ The adsorbing nature depends on the surface of the nanoparticle. Indeed, it is p
 The interaction with living systems is also affected by the dimensions of the nanoparticles. For instance, nanoparticles of a few nanometers size may reach well inside biomolecules, which is not possible for larger nanoparticles. Nanoparticles can also cross cell membranes. It is also possible for the inhaled nanoparticles to reach the blood, to reach other sites such as the liver, heart or blood cells.
 
 Researchers are trying to understand the response of living organisms to the presence of nanoparticles of varying size, shape, chemical composition and surface characteristics.
+![alt text](image-11.png)
 
 ===== Page 10 [text layer] =====
 
@@ -178,17 +167,16 @@ XII_Physics_Vol-2_UNIT-11_EM.indd 262
 
 
 11.3 Robotics
-
+![alt text](image-12.png)
 ## 11.3.1 What is robotics?
 
 Robotics is an integrated study of mechanical engineering, electronic engineering, computer engineering, and science. Robot is a mechanical device designed with electronic circuitry and programmed to perform a specific task. These automated machines are highly significant in this robotic era. They can take up the role of humans in certain dangerous environments that are hazardous to people like defusing bombs, finding survivors in unstable ruins, and exploring mines and shipwrecks.
-
-image[[170, 351, 831, 659]]
 
 In 1954, George Devol invented the first digitally operated programmable robot called Unimate. George Devol and Joseph Engelberger, the father of the modern robotics industry formed the world's first robot company in 1956. In 1961, Unimate, was operated in a General Motors automobile factory for moving car parts around in New Jersey.
 
 
 11.3.2 COMPONENTS OF ROBOTICS
+![alt text](image-13.png)
 
 The robotic system mainly consists of sensors, power supplies, control systems, manipulators and necessary software.
 
@@ -198,10 +186,8 @@ Most robots are composed of 3 main parts:
 2. Mechanical parts - motors, pistons, grippers, wheels, and gears that make the robot move, grab, turn, and lift.
 3. Sensors - to tell the robot about its surroundings. It helps to determine the sizes and shapes of the objects around, distance between the objects, and directions as well.
 
-image[[500, 192, 819, 394]]
-
 ## 11.3.3 TYPES OF ROBOTS
-
+![alt text](image-13.png)
 ## HUMAN ROBOT
 
 Certain robots are made to resemble humans in appearance and replicate the human activities like walking, lifting, and sensing, etc.
@@ -228,21 +214,17 @@ image[[595, 441, 821, 629]]
 (b) Wheeled
 (c) Combination of Legged and Wheeled Locomotion
 (d) Tracked slip/skid
-
+![alt text](image-14.png)
 
 1. Face recognition2. Providing response to player's actions in computer games3. Taking decisions based on previous actions4. To regulate the traffic by analyzing the density of traffic on roads.5. Translate words from one language to another
 
 
 11.3.4 Applications
-
 Outer space: Exploring stars, planets etc., investigation of the mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils.
 
-image[[231, 233, 773, 372]]
+![alt text](image-16.png)
 
-image[[171, 397, 815, 718]]
-
-image[[171, 735, 330, 866]]
-
+![alt text](image-17.png)
 The size of the nano robots is reduced to microscopic level to perform a task in very small spaces. However, it is only in the developmental stage. The future prospects of it are much expected in the medical field: Nano- robots in blood stream to perform small surgical procedures, to fight against bacteria, repairing individual cell in the body. It can travel into the body and once after the job is performed it can find its way out. Chinese scientists have created the world's first autonomous DNA robots to combat cancer tumours.
 
 
@@ -269,38 +251,29 @@ Medical science very much revolves around physics principles. Medical instrument
 
 | Year | Invention in physics (Inventors) | Technique used in medicine | Image |
 |------|--------------------------------|----------------------------|-------|
-| 1 | X-rays (Wilhelm Conrad-Röntgen) | Radiology-Xray imaging | |
-| 2 | Theory of Radioactivity (Antonie Henri Becquerel, Pierre Curie and Marie Curie) | Radioisotope imaging Nuclear Medicine | |
-| 3 | 1934 | Artificial Radioactivity (Joliot and Irene Curie) | Scintigraphy | |
-| 4 | 1950 | Echography & Sonography | Ecography | |
-| 5 | 1979 | X-ray computed tomography (Cormack and Hounsfield) | Computed Tomography (CT) | |
-| 6 | 1952 | Nuclear Magnetic Resonance (NMR) (Felix Bloch and Edward Purcell) | Magnetic Resonance Imaging (MRI) | |
-
-[file content end]
-
-[file name]: 11_p2.pdf
-[file content begin]
-
-1 1 1 1 1 1 1 1 1 1 11 1 1 1 1 1 1 1 1 1 12 1 1 1 1 1 1 1 1 1 1 13 1 1 1 1 1 1 1 1 1 14 1 1 1 1 1 1 1 1 1 15 1 1 1 1 1 1 1 1 1 16 1 1 1 1 1 1 1 1 1 17 1 1 1 1 1 1 1 1 1 18 1 1 1 1 1 1 1 1 1 19 1 1 1 1 1 1 1 1 1 20 1 1 1 1 1 1 1 1 1 21 1 1 1 1 1 1 1 1 1 22 1 1 1 1 1 1 1 1 1 23 1 1 1 1 1 1 1 1 1 24 1 1 1 1 1 1 1 1 1 25 1 1 1 1 1 1 1 1 1 26 1 1 1 1 1 1 1 1 1 27 1 1 1 1 1 1 1 1 1 28 1 1 1 1 1 1 1 1 1 29 1 1 1 1 1 1 1 1 1 30 1 1 1 1 1 1 1 1 1 31 1 1 1 1 1 1 1 1 1 32 1 1 1 1 1 1 1 1 1 33 1 1 1 1 1 1 1 1 1 34 1 1 1 1 1 1 1 1 1 35 1 1 1 1 1 1 1 1 1 36 1 1 1 1 1 1 1 1 1 37 1 1 1 1 1 1 1 1 1 38 1 1 1 1 1 1 1 1 1 39 1 1 1 1 1 1 1 1 1 40 1 1 1 1 1 1 1 1 1 41 1 1 1 1 1 1 1 1 1 42 1 1 1 1 1 1 1 1 1 43 1 1 1 1 1 1 1 1 1 44 1 1 1 1 1 1 1 1 1 45 1 1 1 1 1 1 1 1 1 46 1 1 1 1 1 1 1 1 1 47 1 1 1 1 1 1 1 1 1 48 1 1 1 1 1 1 1 1 1 49 1 1 1 1 1 1 1 1 1 50 1 1 1 1 1 1 1 1 1 51 1 1 1 1 1 1 1 1 1 52 1 1 1 1 1 1 1 1 1 53 1 1 1 1 1 1 1 1 1 54 1 1 1 1 1 1 1 1 1 55 1 1 1 1 1 1 1 1 1 56 1 1 1 1 1 1 1 1 1 57 1 1 1 1 1 1 1 1 1 58 1 1 1 1 1 1 1 1 1 59 1 1 1 1 1 1 1 1 1 60 1 1 1 1 1 1 1 1 1 61 1 1 1 1 1 1 1 1 1 62 1 1 1 1 1 1 1 1 1 63 1 1 1 1 1 1 1 1 1 64 1 1 1 1 1 1 1 1 1 65 1 1 1 1 1 1 1 1 1 66 1 1 1 1 1 1 1 1 1 67 1 1 1 1 1 1 1 1 1 68 1 1 1 1 1 1 1 1 1 69 1 1 1 1 1 1 1 1 1 70 1 1 1 1 1 1 1 1 1 71 1 1 1 1 1 1 1 1 1 72 1 1 1 1 1 1 1 1 1 73 1 1 1 1 1 1 1 1 1 74 1 1 1 1 1 1 1 1 1 75 1 1 1 1 1 1 1 1 1 76 1 1 1 1 1 1 1 1 1 77 1 1 1 1 1 1 1 1 1 78 1 1 1 1 1 1 1 1 1 79 1 1 1 1 1 1 1 1 1 80 1 1 1 1 1 1 1 1 1 81 1 1 1 1 1 1 1 1 1 82 1 1 1 1 1 1 1 1 1 83 1 1 1 1 1 1 1 1 1 84 1 1 1 1 1 1 1 1 1 85 1 1 1 1 1 1 1 1 1 86 1 1 1 1 1 1 1 1 1 87 1 1 1 1 1 1 1 1 1 88 1 1 1 1 1 1 1 1 1 89 1 1 1 1 1 1 1 1 1 90 1 1 1 1 1 1 1 1 1 91 1 1 1 1 1 1 1 1 1 92 1 1 1 1 1 1 1 1 1 93 1 1 1 1 1 1 1 1 1 94 1 1 1 1 1 1 1 1 1 95 1 1 1 1 1 1 1 1 1 96 1 1 1 1 1 1 1 1 1 97 1 1 1 1 1 1 1 1 1 98 1 1 1 1 1 1 1 1 1 99 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 101 1 1 1 1 1 1 1 1 1 102 1 1 1 1 1 1 1 1 1 103 1 1 1 1 1 1 1 1 1 104 1 1 1 1 1 1 1 1 1 105 1 1 1 1 1 1 1 1 1 106 1 1 1 1 1 1 1 1 1 107 1 1 1 1 1 1 1 1 1 108 1 1 1 1 1 1 1 1 1 109 1 1 1 1 1 1 1 1 1 110 1 1 1 1 1 1 1 1 1 111 1 1 1 1 1 1 1 1 1 112 1 1 1 1 1 1 1 1 1 113 1 1 1 1 1 1 1 1 1 114 1 1 1 1 1 1 1 1 1 115 1 1 1 1 1 1 1 1 1 116 1 1 1 1 1 1 1 1 1 117 1 1 1 1 1 1 1 1 1 118 1 1 1 1 1 1 1 1 1 119 1 1 1 1 1 1 1 1 1 120 1 1 1 1 1 1 1 1 1 121 1 1 1 1 1 1 1 1 1 122 1 1 1 1 1 1 1 1 1 123 1 1 1 1 1 1 1 1 1 124 1 1 1 1 1 1 1 1 1 125 1 1 1 1 1 1 1 1 1 126 1 1 1 1 1 1 1 1 1 127 1 1 1 1 1 1 1 1 1 128 1 1 1 1 1 1 1 1 1 129 1 1 1 1 1 1 1 1 1 130 1 1 1 1 1 1 1 1 1 131 1 1 1 1 1 1 1 1 1 132 1 1 1 1 1 1 1 1 1 133 1 1 1 1 1 1 1 1 1 134 1 1 1 1 1 1 1 1 1 135 1 1 1 1 1 1 1 1 1 136 1 1 1 1 1 1 1 1 1 137 1 1 1 1 1 1 1 1 1 138 1 1 1 1 1 1 1 1 1 139 1 1 1 1 1 1 1 1 1 140 1 1 1 1 1 1 1 1 1 141 1 1 1 1 1 1 1 1 1 142 1 1 1 1 1 1 1 1 1 143 1 1 1 1 1 1 1 1 1 144 1 1 1 1 1 1 1 1 1 145 1 1 1 1 1 1 1 1 1 146 1 1 1 1 1 1 1 1 1 147 1 1 1 1 1 1 1 1 1 148 1 1 1 1 1 1 1 1 1 149 1 1 1 1 1 1 1 1 1 150 1 1 1 1 1 1 1 1 1 151 1 1 1 1 1 1 1 1 1 152 1 1 1 1 1 1 1 1 1 153 1 1 1 1 1 1 1 1 1 154 1 1 1 1 1 1 1 1 1 155 1 1 1 1 1 1 1 1 1 156 1 1 1 1 1 1 1 1 1 157 1 1 1 1 1 1 1 1 1 158 1 1 1 1 1 1 1 1 1 159 1 1 1 1 1 1 1 1 1 160 1 1 1 1 1 1 1 1 1 161 1 1 1 1 1 1 1 1 1 162 1 1 1 1 1 1 1 1 1 163 1 1 1 1
+| 1 | X-rays (Wilhelm Conrad-Röntgen) | Radiology-Xray imaging | ![ ](image-18.png)|
+| 2 | Theory of Radioactivity (Antonie Henri Becquerel, Pierre Curie and Marie Curie) | Radioisotope imaging Nuclear Medicine |![alt text](image-19.png) |
+| 3  | Artificial Radioactivity (Joliot and Irene Curie) | Scintigraphy | ![alt text](image-20.png)|
+| 4  | Echography & Sonography | Ecography | ![alt text](image-21.png)|
+| 5  | X-ray computed tomography (Cormack and Hounsfield) | Computed Tomography (CT) | ![alt text](image-22.png)|
+| 6  | Nuclear Magnetic Resonance (NMR) (Felix Bloch and Edward Purcell) | Magnetic Resonance Imaging (MRI) |![alt text](image-23.png) |
 
 
 11.4. 2 The recent advancement in medical technology includes
 
-
+![alt text](image-24.png)
 
 1. Virtual reality
-
-image[[196, 240, 473, 487]]
-
 Medical virtual reality is effectively used to stop the brain from processing pain and cure soreness in the hospitalized patients. Virtual reality has enhanced surgeries by the use of 3D models by surgeons to plan operations. It helps in the treatment of Autism, Memory loss, and Mental illness.
+![alt text](image-25.png)
 
 ## 2. Precision medicine
-
 Precision medicine is an emerging approach for disease treatment and prevention that takes into account individual variability in genes, environment, and lifestyle for each person. In this medical model it is possible to customise healthcare, with medical decisions, treatments, practices, or products which are tailored to the individual patient.
-
+![alt text](image-26.png)
 
 
 3. Health wearables
+![alt text](image-27.png)
 
 A health wearable is a device used for tracking a wearer's vital signs or health and fitness related data, location, etc. Medical wearables with artificial intelligence and big data provide an added value to healthcare with a focus on diagnosis, treatment, patient monitoring and prevention.
 
@@ -310,7 +283,7 @@ A health wearable is a device used for tracking a wearer's vital signs or health
 Big Data: Extremely large data sets that may be analysed computationally to reveal patterns,trends,and associations,especially relating to human behaviour and interactions.
 
 ## 4.Artificial organs
-
+![alt text](image-28.png)
 An artificial organ is an engineered device or tissue that is implanted or integrated into a human. It is possible to interface it with living tissue or to replace a natural organ. It duplicates or augments a specific function or functions of human organs so that the patient may return to a normal life as soon as possible.
 
 
@@ -318,41 +291,35 @@ An artificial organ is an engineered device or tissue that is implanted or integ
 5. 3D printing
 
 Advanced 3D printer systems and materials assist physicians in a range of operations in the medical field from audiology, dentistry, orthopedics and other applications.
-
-image[[256, 249, 753, 455]]
+![alt text](image-29.png)
 
 ## 6. Wireless brain sensors
-
 Wireless brain sensors monitor intracranial pressure and temperature and then are absorbed by the body. Hence there is no need for surgery to remove these devices.
-
+![alt text](image-30.png)
 
 
 7. Robotic surgery
 
 Robotic surgery is a type of surgical procedure that is done using robotic systems. Robotically- assisted surgery helps to overcome the limitations of pre- existing minimally- invasive surgical procedures and to enhance the capabilities of surgeons performing open surgery.
 
-image[[304, 256, 707, 452]]
+![alt text](image-31.png)
 
 ## 8. Smart inhalers
 
 Inhalers are the main treatment option for asthma. Smart inhalers are designed with health systems and patients in mind so that they can offer maximum benefit. Smart inhalers use bluetooth technology to detect inhaler use, remind patients when to take their medication and gather data to help guide care.
+![alt text](image-32.png)
 
-
-
-1
 
 # Other recent developments in physics
 
 ## Particle Physics
 
 Particle physics deals with the theory of fundamental particles of nature and it is one of the active research areas in physics. Initially it was thought that atom is the fundamental entity of matter. In 1930s, it was established that atoms are made up of electrons, protons and neutrons.
+![alt text](image-33.png)
 
 
 In the 1960s, quarks were discovered and it was understood that proton and neutron are made up of quarks. In the meantime, the particle physics research gained momentum and has grown exponentially both in theoretical and experimental perspective. Later it was found that the quarks interact through gluons. It is the field which received more number of noble prizes. Recently in the year 2013, famous 'Higgs particles' also known as "God" particles were discovered and for this, Peter Higgs and Englert received noble prize in physics. It is the 'Higgs particle' which gives mass to many particles like protons, neutrons etc.
 
-
-
-1
 
 ## Cosmology
 
@@ -360,89 +327,96 @@ Cosmology is the branch that involves the origin and evolution of the universe. 
 
 Gravitational waves are the disturbances in the curvature of space-time and it travels with speed of light. Any accelerated charge emits electromagnetic wave. Similarly any accelerated mass emits gravitational waves but these waves are very weak even for masses like earth. The strongest source of gravitational waves are black holes. The discovery of gravitational waves made it possible to study the structure of black holes since it is the strongest source of gravitational waves. In fact, the recent discoveries of gravitational waves are emitted by two black holes when they merge to a single black hole. In fact, Albert Einstein theoretically proposed the existence of 'gravitational waves' in the year 1915. After 100 years, it is experimentally proved that his predictions are correct.
 
-
+![alt text](image-34.png)
 
 Black holes are end stage of stars which are highly dense massive object. Its mass ranges from 20 times mass of the sun to 1 million times mass of the sun. It has very strong gravitational force such that no particle or even light can escape from it. The existence of black holes is studied when the stars orbiting the black hole behave differently from the other stars. Every galaxy has black hole at its center. Sagittarius A* is the black hole at the center of the Milky Way galaxy.
 
+![](image-35.png)
 
-1
-
-
-1
+![alt text](image-36.png)
 
 ## Quantum information theory (Not for examination)
 
 It is another fast developing research area which deals with improving the information storage using quantum computers. The present computers store information in the form of 'bits' but quantum computers store information in the form of 'qubits'. 'qubit' refers to quantum bit and it is the basic unit of quantum information. Classical bit implies either 0 or 1. But qubit not only includes 0 or 1 and also linear superposition of 0 and 1. This technology reduces the calculating time exponentially. This research field has very promising application in future.
 
-image[[226, 287, 763, 476]]
+![alt text](image.png)
+
 
 Many striking innovations and discoveries originate from scientific fictions. Robots are also no exception to this. The word robotics was derived from the word robot. It was introduced in the play 'Rossum Universal Robots' by the Zech writer Karel Capek in 1920. The word robot comes from the Slavic word rabota, which means labour or work. The play begins in a factory that makes artificial people called robots. They looked like creatures that can be mistaken for humans (picture shown). These characters were very similar to the modern ideas of androids.
+![alt text](image-1.png)
 
 <center>(A scene from the play Rossum Universal Robots, showing three robots) </center>
 
-===== Page 11 [text layer] =====
+## Summary
 
-Unit 11 Recent developments in physics
-279
-� Salient physics principles (covered in the higher secondary physics) are the foundation 
+ Salient physics principles (covered in the higher secondary physics) are the foundation 
 for technology break through.
-� Physics is the basic building block for Science, Engineering, Technology and 
+ Physics is the basic building block for Science, Engineering, Technology and 
 Medicine. Nano science is the science of objects with typical sizes of 1–100 nm. 
-� Nano means one-billionth of a metre that is $10^{-9}$ m. 
-� Nanotechnology is a technology involving the design, production, characterization, 
+* Nano means one-billionth of a metre that is $10^{-9}$ m. 
+* Nanotechnology is a technology involving the design, production, characterization, 
 and applications of nano structural materials.
-� If the particle of a solid is of size less than 100 nm, it is said to be a ‘nano solid’. 
-� When the particle size exceeds 100 nm, it forms a ‘bulk solid’. 
-� Nano form of the material shows strikingly different properties when compared to 
+* If the particle of a solid is of size less than 100 nm, it is said to be a ‘nano solid’. 
+* When the particle size exceeds 100 nm, it forms a ‘bulk solid’. 
+* Nano form of the material shows strikingly different properties when compared to 
 its bulk counterpart.
-� Quantum confinement effects and surface effects are the two important phenomena 
+* Quantum confinement effects and surface effects are the two important phenomena 
 that govern nano properties. 
-� Nanoscience and technology is the interdisciplinary area covering its applications in 
+
+![alt text](image-2.png)
+* Nanoscience and technology is the interdisciplinary area covering its applications in 
 various fields. 
-� Nano scale structures existed in nature long before scientists began studying them in 
+* Nano scale structures existed in nature long before scientists began studying them in 
 laboratories. 
-� There are two ways of preparing the nanomaterials, top down and bottom up 
+* There are two ways of preparing the nanomaterials, top down and bottom up 
 approaches. 
-� Nanotechnology applications cover various fields. 
-� The major concern with nano application is that the nanoparticles have the dimensions 
+* Nanotechnology applications cover various fields. 
+* The major concern with nano application is that the nanoparticles have the dimensions 
 same as that of the biological molecules such as proteins.
-� Nano particles can easily get absorbed onto the surface of living organisms and they 
+* Nano particles can easily get absorbed onto the surface of living organisms and they 
 might enter the tissues and fluids of the body. 
-� The adsorbing nature depends on the surface of the nanoparticle.
-� It is possible to deliver a drug directly to a specific cell in the body by designing the 
+* The adsorbing nature depends on the surface of the nanoparticle.
+* It is possible to deliver a drug directly to a specific cell in the body by designing the 
 surface of a nanoparticle.
-� Nanoparticles of a few nanometers size may reach well inside biomolecules, which is 
+* Nanoparticles of a few nanometers size may reach well inside biomolecules, which is 
 not possible for larger nanoparticles. 
-� Nanoparticles can also cross cell membranes.
-� The inhaled nanoparticles reach the blood and that may also reach other sites such as 
+* Nanoparticles can also cross cell membranes.
+* The inhaled nanoparticles reach the blood and that may also reach other sites such as 
 the liver, heart or blood cells. 
-� Robotics is an integrated study of mechanical engineering, electronic engineering, 
+* Robotics is an integrated study of mechanical engineering, electronic engineering, 
 computer engineering, and science.
-� Robot is a mechanical device designed with electronic circuitry and programmed to 
+* Robot is a mechanical device designed with electronic circuitry and programmed to 
 perform a specific task. 
-� The robotic system mainly consists of sensors, power supplies, control systems, 
+* The robotic system mainly consists of sensors, power supplies, control systems, 
 manipulators and necessary software. 
-SUM MA R Y 
-XII_Physics_Vol-2_UNIT-11_EM.indd 279
-XII_Physics_Vol-2_UNIT-11_EM.indd 279
-26-12-2022 15:49:24
-26-12-2022 15:49:24
 
+* The key components of a robot are Power conversion unit, Actuators, Electric motors, Pneumatic Air Muscles, Muscle wires, Piezo Motors and Ultrasonic Motors, Sensors, and Robot locomotion. 
+* Six main types of industrial robots are Cartesian, SCARA, Cylindrical, Delta, Polar and Vertically articulated robot. 
+* Six- axis robots are ideal for Arc Welding, Spot Welding, Material Handling, Machine Tending. Five major fields of robotics: Human- robot interface, Mobility, Manipulation, 
+* Programming and Sensors. The aim of artificial intelligence is to bring in human like behavior in robots.
+* Artificial intelligence works on face recognition, providing response to players' actions in computer games, taking decisions based on previous actions, regulating the traffic by analyzing the density of traffic on roads and translate words from one language to another. 
+* Materials used to make robots: aluminum and steel are the most common metals. Aluminum is a softer metal and is therefore easier to work with. Steel is several times stronger. 
+* Due to the inherent strength of metal, robot bodies can be made using sheet, bar, rod, channel, and other shapes. Robots have many advantages in various applications but also have several disadvantages. 
+* In outer space robots are used for exploring stars, planets etc., investigation of the mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils. 
+* Household robots are used as vacuum cleaners, floor cleaners, gutter cleaners, lawn mowing, pool cleaning, and to open and close doors. Industrial Robots are used for welding, cutting, robotic water jet cutting, robotic laser cutting, lifting, sorting, bending, manufacturing, assembling, packing, transport, handling hazardous materials like nuclear waste, weaponry, laboratory research, mass production of consumer and industrial goods. 
+* Nano- robots are being developed to be in the blood stream to perform small surgical procedures, to fight against bacteria, repairing individual cell in the body. * The development in medical field has been proportional to the evolution of physics. 
+* The recent medical technology includes virtual reality, precision medicine, health wearables, artificial organs, 3D printing, wireless brain sensors, robotic surgery, smart inhalers. 
+* Particle physics deals with fundamental particles of nature. Protons and neutrons are made of quarks. 
+* Cosmology is the branch that involves the origin and evolution of the universe.
+* Accelerated mass emits gravitational waves which are very weak. 
+* Black holes are the strongest source of gravitational waves.
+## Concept map
+![alt text](image-37.png)
 
-1 The key components of a robot are Power conversion unit, Actuators, Electric motors, Pneumatic Air Muscles, Muscle wires, Piezo Motors and Ultrasonic Motors, Sensors, and Robot locomotion. Six main types of industrial robots are Cartesian, SCARA, Cylindrical, Delta, Polar and Vertically articulated robot. Six- axis robots are ideal for Arc Welding, Spot Welding, Material Handling, Machine Tending. Five major fields of robotics: Human- robot interface, Mobility, Manipulation, Programming and Sensors. The aim of artificial intelligence is to bring in human like behavior in robots. Artificial intelligence works on face recognition, providing response to players' actions in computer games, taking decisions based on previous actions, regulating the traffic by analyzing the density of traffic on roads and translate words from one language to another. Materials used to make robots: aluminum and steel are the most common metals. Aluminum is a softer metal and is therefore easier to work with. Steel is several times stronger. Due to the inherent strength of metal, robot bodies can be made using sheet, bar, rod, channel, and other shapes. Robots have many advantages in various applications but also have several disadvantages. In outer space robots are used for exploring stars, planets etc., investigation of the mineralogy of the rocks and soils on Mars, analysis of elements found in rocks and soils. Household robots are used as vacuum cleaners, floor cleaners, gutter cleaners, lawn mowing, pool cleaning, and to open and close doors. Industrial Robots are used for welding, cutting, robotic water jet cutting, robotic laser cutting, lifting, sorting, bending, manufacturing, assembling, packing, transport, handling hazardous materials like nuclear waste, weaponry, laboratory research, mass production of consumer and industrial goods. Nano- robots are being developed to be in the blood stream to perform small surgical procedures, to fight against bacteria, repairing individual cell in the body. The development in medical field has been proportional to the evolution of physics. The recent medical technology includes virtual reality, precision medicine, health wearables, artificial organs, 3D printing, wireless brain sensors, robotic surgery, smart inhalers. Particle physics deals with fundamental particles of nature. Protons and neutrons are made of quarks. Cosmology is the branch that involves the origin and evolution of the universe. Accelerated mass emits gravitational waves which are very weak. Black holes are the strongest source of gravitational waves.
-
-
-1
-
+## Evaluation
 
 1. The particle size of ZnO material is 30 nm. Based on the dimension it is classified as a) Bulk material b) Nanomaterial c) Soft material d) Magnetic material
 
 2. Which one of the following is the natural nanomaterial.
-
-a) Peacock feather
-b) Peacock beak
-c) Grain of sand
-d) Skin of the Whale
+a) Peacock feather <br>
+b) Peacock beak <br>
+c) Grain of sand <br>
+d) Skin of the Whale <br>
 
 3. The blue print for making ultra durable synthetic material is mimicked from
 
