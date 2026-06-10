@@ -43,6 +43,8 @@ In this unit, the student is exposed to
 
 ## 3.1 INTRODUCTION TO MAGNETISM
 
+![Magnetic levitation](img3.1.png)
+
 
 Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open.
 
@@ -54,11 +56,15 @@ Earlier, both electricity and magnetism were thought to be two independent branc
 
 In this unit, basics of magnets and their properties are given. Later, how a current carrying conductor (here only steady current, not time-varying current is considered) behaves like a magnet is presented.
 
-**Figure 3.2 Uses of magnets in modern world - (a) speakers (b) head phones (c) MRI scan (d) Hard disc of laptop**
+
+![Uses of magnets in modern 
+world – (a) speakers (b) head phones 
+(c) MRI scan (d) Hard disc of laptop](img3.2.png)
 
 ### 3.1.1 Earth's magnetic field and magnetic elements
 
-**Figure 3.3 Earth's magnetic field**
+![Earth’s magnetic field](img3.3.png)
+
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north-south direction of the Earth.
 
@@ -74,7 +80,7 @@ There are three quantities required to specify the magnetic field of the Earth o
 (b) magnetic dip or inclination $(I)$
 (c) the horizontal component of the Earth's magnetic field $(B_{H})$
 
-**Figure 3.4 Declination angle**
+![Declination angle](img3.4.png)
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth's geographic axis is called geographic equator.
 
@@ -86,7 +92,7 @@ The angle subtended by the Earth's total magnetic field $\vec{B}$ with the horiz
 
 Let $B_{E}$ be the net Earth's magnetic field at any point on the surface of the Earth. $B_{E}$ can be resolved into two perpendicular components.
 
-**Figure 3.5 Inclination angle**
+![Inclination angle](img3.5.png)
 
 $$ \text{Horizontal component } B_{H} = B_{E}\cos I \quad (3.1) $$
 $$ \text{Vertical component } B_{V} = B_{E}\sin I \quad (3.2) $$
@@ -139,7 +145,7 @@ Some basic terminologies and properties used in describing bar magnet.
 
 Consider a bar magnet as shown in Figure 3.6. Let $q_{m}$ be the pole strength of the magnetic pole and let $l$ be the distance between the geometrical centre of bar magnet O and one end of the pole. The magnetic dipole moment is defined as the product of its pole strength and magnetic length. It is a vector quantity, denoted by $\vec{p}_{m}$.
 
-**Figure 3.6 A bar magnet**
+![ A bar magnet](img3.6.PNG)
 
 $$ \vec{p}_{m} = q_{m}\vec{d} \quad (3.4) $$
 
@@ -173,7 +179,7 @@ The following are the properties of bar magnet:
 
 $$ \frac{\text{Magnetic length}}{\text{Geometrical length}} = \frac{5}{6} = 0.833 $$
 
-**Figure 3.7 Properties of bar magnet**
+![Properties of bar magnet](img3.7.png)
 
 ## EXAMPLE 3.2
 
@@ -235,7 +241,7 @@ $$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
 
 where $\theta$ is the angle between $\vec{B}$ and $\vec{A}$ as shown in Figure 3.8.
 
-**Figure 3.8 Magnetic flux**
+![Magnetic flux](img3.8.png)
 
 **Special cases:**
 
@@ -257,11 +263,11 @@ The magnetic flux density is defined as the number of magnetic field lines cross
 
 **Uniform magnetic field:** Magnetic field is said to be uniform if it has same magnitude and direction at all the points in a given region. Example: locally Earth's magnetic field is uniform.
 
-**Figure 3.9 Uniform magnetic field**
+![Uniform magnetic field](img3.9.png)
 
 **Non-uniform magnetic field:** Magnetic field is said to be non-uniform if the magnitude or direction or both vary at different points in a region. Example: magnetic field of a bar magnet
 
-**Figure 3.10 Non-uniform magnetic field (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet**
+![Non-uniform magnetic field (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet](img3.10.png)
 
 ## EXAMPLE 3.4
 
@@ -285,7 +291,7 @@ Consider two bar magnets A and B as shown in Figure 3.11. When the north pole of
 
 On the other hand, when the north pole of magnet A and the south pole of magnet B or the south pole of magnet A and the north pole of magnet B are brought closer, their poles attract each other.
 
-**Figure 3.11: Magnetic poles behave like electric charges - like poles repel and unlike poles attract**
+![Magnetic poles behave like electric charges - like poles repel and unlike poles attract](img3.11.png)
 
 This looks similar to Coulomb's law for static charges studied in Unit I (opposite charges attract and like charges repel each other). So analogous to Coulomb's law in electrostatics, we can state Coulomb's law for magnetism (Figure 3.12) as follows:
 
@@ -303,7 +309,7 @@ In magnitude, $F = k\frac{q_{m_A} q_{m_B}}{r^2}$
 
 where $k$ is a proportionality constant whose value depends on the surrounding medium. In SI unit, the value of $k$ for free space is $k = \frac{\mu_0}{4\pi} \approx 10^{-7} \text{ H m}^{-1}$, where $\mu_0$ is the absolute permeability of free space (air or vacuum) and H stands for henry.
 
-**Figure 3.12 Coulomb's law - force between two magnetic poles**
+![Coulomb's law - force between two magnetic poles](img3.12.png)
 
 ## EXAMPLE 3.5
 
@@ -325,7 +331,7 @@ $$ 9 \times 10^{-3} = 10^{-7} \times \frac{q_m^2}{(10 \times 10^{-2})^2} \Righta
 
 Consider a bar magnet NS as shown in Figure 3.13. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength $q_{m}$ and are separated by a distance of $2l$. The magnetic field at a point C (lies along the axis of the magnet) at a distance $r$ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole $(q_{m_C} = 1 \text{ A m})$ at C.
 
-**Figure 3.13 Magnetic field at a point along the axial line due to magnetic dipole**
+![ Magnetic field at a point along the axial line due to magnetic dipole](img3.13.png)
 
 The magnetic field at C due to the north pole is
 
@@ -367,7 +373,7 @@ where $\vec{p}_{m} = p_{m} \hat{i}$.
 
 Consider a bar magnet NS as shown in Figure 3.14. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength $q_{m}$ and separated by a distance of $2l$. The magnetic field at a point C (lies along the equatorial line) at a distance $r$ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole $(q_{mC} = 1 \text{ A m})$ at C.
 
-**Figure 3.14 Magnetic field at a point along the equatorial line due to a magnetic dipole**
+![Magnetic field at a point along the equatorial line due to a magnetic dipole](img3.14.png)
 
 The magnetic field at C due to the north pole is
 
@@ -375,7 +381,7 @@ $$ \vec{B}_N = -B_N\cos \theta \hat{i} + B_N\sin \theta \hat{j} \quad (3.15) $$
 
 where $B_N = \frac{\mu_0}{4\pi} \frac{q_m}{r^{\prime 2}}$ and $r^{\prime} = (r^2 + l^2)^{\frac{1}{2}}$
 
-**Figure 3.15 Components of magnetic field**
+![Components of magnetic field](img3.15.png)
 
 The magnetic field at C due to the south pole is
 
@@ -443,7 +449,7 @@ Note that magnitude of $B_{\text{axial}}$ is twice that of magnitude of $B_{\tex
 
 Consider a magnet of length $2l$ and pole strength $q_{m}$ kept in a uniform magnetic field $\vec{B}$ as shown in Figure 3.16. Each pole experiences a force of magnitude $q_{m}B$ but acting in opposite directions. Therefore, the net force exerted on the magnet is zero and hence, there is no translatory motion. These two equal and opposite forces constitute a couple (about midpoint of bar magnet) tend to align the magnet in the direction of the magnetic field $\vec{B}$.
 
-**Figure 3.16 Magnetic dipole kept in a uniform magnetic field**
+![Magnetic dipole kept in a uniform magnetic field](img3.16.png)
 
 The force experienced by north pole,
 
@@ -479,7 +485,7 @@ $$ \tau = p_m B \sin \theta \qquad (\because q_m \times 2l = p_m) \quad (3.25) $
 
 ### 3.3.1 Potential energy of a bar magnet in a uniform magnetic field
 
-**Figure 3.17: A bar magnet (magnetic dipole) in a uniform magnetic field**
+![A bar magnet (magnetic dipole) in a uniform magnetic field](img3.17.png)
 
 When a bar magnet (magnetic dipole) of dipole moment $\vec{p}_m$ is held at an angle $\theta$ with the direction of a uniform magnetic field $\vec{B}$ as shown in Figure 3.17, the magnitude of the torque acting on the dipole is
 
@@ -684,7 +690,7 @@ ii) Relative permeability is slightly less than unity.
 iii) The magnetic field lines are repelled or expelled by diamagnetic materials when placed in a magnetic field.
 iv) Susceptibility is nearly temperature independent.
 
-**Figure 3.18 Meissner effect - superconductors behave like perfect diamagnetic materials below transition temperature $T_c$**
+![Meissner effect - superconductors behave like perfect diamagnetic materials below transition temperature $T_c$](img3.18.png)
 
 ### (b) Paramagnetic materials
 
@@ -717,13 +723,13 @@ $$ \chi_m \propto \frac{1}{T} \text{ or } \chi_m = \frac{C}{T} $$
 
 This relation is called Curie's law. Here $C$ is called Curie constant and temperature $T$ is in kelvin. The graph drawn between magnetic susceptibility and temperature is shown in Figure 3.19, which is a rectangular hyperbola.
 
-**Figure 3.19 Curie's law - susceptibility vs temperature**
+![Curie's law - susceptibility vs temperature](img3.19.png)
 
 ### (c) Ferromagnetic materials
 
 An atom or molecule in a ferromagnetic material possesses net magnetic dipole moment as in a paramagnetic material. A ferromagnetic material is made up of smaller regions, called ferromagnetic domains (Figure 3.20). Within each domain, the magnetic moments are spontaneously aligned in a direction. This alignment is caused by strong interaction arising from electron spin which depends on the inter-atomic distance. Each domain has net magnetisation in a direction. However the direction of magnetisation varies from domain to domain and thus net magnetisation of the specimen is zero.
 
-**Figure 3.20 Magnetic domains - ferromagnetic materials**
+![Magnetic domains - ferromagnetic materials](img3.20.png)
 
 In the presence of external magnetic field, two processes take place:
 
@@ -732,7 +738,7 @@ In the presence of external magnetic field, two processes take place:
 
 As a result of these mechanisms, there is a strong net magnetisation of the material in the direction of the applied field (Figure 3.21).
 
-**Figure 3.21 Processes of domain magnetization**
+![Processes of domain magnetization](img3.21.png)
 
 When placed in a non-uniform magnetic field, the ferromagnetic materials will have a strong tendency to move from weaker to stronger part of the field. Materials which exhibit strong magnetism in the direction of applied field are called ferromagnetic materials. Examples: Iron, Nickel and Cobalt.
 
@@ -759,7 +765,7 @@ $$ \chi_m = \frac{C}{T - T_c} $$
 
 This relation is called Curie-Weiss law. The constant $C$ is called Curie constant and temperature $T$ is in kelvin scale. A plot of magnetic susceptibility with temperature is as shown in Figure 3.22.
 
-**Figure 3.22 Curie-Weiss law - susceptibility vs temperature**
+![Curie-Weiss law - susceptibility vs temperature*](img3.22.png)
 
 ### Spin
 
@@ -773,7 +779,7 @@ When a ferromagnetic material is kept in a magnetising field, the material gets 
 
 A ferromagnetic material (example, Iron) is magnetised slowly by a magnetising field $\vec{H}$. The magnetic induction $\vec{B}$ of the material increases from point A with the magnitude of the magnetising field and then attains a saturation level.
 
-**Figure 3.23 Hysteresis - plot for $B$ vs $H$**
+![Hysteresis - plot for $B$ vs $H$](img3.23.png)
 
 This response of the material is depicted by the path AC as shown in Figure 3.23. Saturation magnetization is defined as the maximum point up to which the material can be magnetised by applying the magnetising field.
 
@@ -793,7 +799,7 @@ During the magnetisation of the specimen through a cycle, there is loss of energ
 
 Based on the shape and size of the hysteresis loop, ferromagnetic materials are classified as soft magnetic materials with smaller area and hard magnetic materials with larger area. The comparison of the hysteresis loops for two magnetic materials is shown in Figure 3.24. Properties of soft and hard magnetic materials are compared in Table 3.2.
 
-**Figure 3.24 Comparison of two ferromagnetic materials based on hysteresis loop**
+![Comparison of two ferromagnetic materials based on hysteresis loo](img3.24.png)
 
 **Table 3.2 Differences between soft and hard ferromagnetic materials**
 
@@ -834,7 +840,7 @@ $$ \chi_m = \frac{M}{H} $$
 
 ## 3.7 MAGNETIC EFFECTS OF ELECTRIC CURRENT
 
-**Figure 3.25 Oersted's experiment - current carrying wire and deflection of magnetic needle**
+![Oersted's experiment - current carrying wire and deflection of magnetic needle](img3.25.png)
 
 ### 3.7.1 Oersted experiment
 
@@ -846,7 +852,7 @@ In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noti
 
 Suppose we keep a magnetic compass near a current-carrying straight conductor, then the needle of the magnetic compass experiences a torque and deflects to align in the direction of the magnetic field at that point. Tracing out the direction shown by magnetic needle, we can draw the magnetic field lines at a distance. For a straight current-carrying conductor, the nature of magnetic field is like concentric circles having their common centre on the axis of the conductor as shown in Figure 3.26 (a).
 
-**Figure 3.26 Magnetic field lines around straight, long wire carrying current**
+![Magnetic field lines around straight, long wire carrying current](img3.26.png)
 
 The direction of circular magnetic field lines will be clockwise or anticlockwise depending on the direction of current in the conductor. If the strength (or magnitude) of the current is increased then the density of the magnetic field will also increase. The strength of the magnetic field $(B)$ decreases as the distance $(r)$ from the conductor increases (Figure 3.26 (b)).
 
@@ -856,7 +862,7 @@ Suppose we keep a magnetic compass near a current carrying circular conductor, t
 
 The strength of the magnetic field is increased if either the current in the coil or the number of turns or both are increased. The polarity (north pole or south pole) depends on the direction of current in the loop.
 
-**Figure 3.27 The magnetic field lines curling around the circular coil carrying current.**
+![The magnetic field lines curling around the circular coil carrying current.](img3.27.png)
 
 ### 3.7.3 Right hand thumb rule
 
@@ -866,13 +872,13 @@ Assume that we hold the current carrying conductor in our right hand such that t
 
 The Figure 3.28 shows the right hand rule for current carrying straight conductor and circular coil.
 
-**Figure 3.28 Right hand rule - straight conductor and circular loop**
+![Right hand rule - straight conductor and circular loop](img3.28.png)
 
 ### 3.7.4 Maxwell's right hand cork screw rule
 
 This rule can also be used to find the direction of the magnetic field around the current-carrying conductor. If we rotate a right-handed screw using a screw driver, then the direction of current is same as the direction in which screw advances and the direction of rotation of the screw gives the direction of the magnetic field. (Figure 3.29)
 
-**Figure 3.29 Maxwell's right hand cork screw rule**
+![Maxwell's right hand cork screw rule](img3.29.png)
 
 ### EXAMPLE 3.12
 
@@ -888,7 +894,7 @@ Soon after Oersted's discovery, both Jean-Baptiste Biot and Felix Savart in 1819
 
 ### 3.8.1 Definition and explanation of Biot-Savart law
 
-**Figure 3.30 Magnetic field at a point P due to current carrying conductor**
+![Magnetic field at a point P due to current carrying conductor](img3.30.png)
 
 Biot and Savart experimentally observed that the magnitude of magnetic field $d\vec{B}$ at a point P (Figure 3.30) at a distance $r$ from the small elemental length taken on a conductor carrying current varies
 
@@ -911,7 +917,7 @@ $$ d\vec{B} = \frac{\mu}{4\pi} \frac{I \, d\vec{l} \times \hat{r}}{r^2} \quad (3
 
 Here vector $d\vec{B}$ is perpendicular to both $I \, d\vec{l}$ (pointing the direction of current flow) and the unit vector $\hat{r}$ directed from $d\vec{l}$ toward point P (Figure 3.31).
 
-**Figure 3.31 The direction of magnetic field using right hand rule**
+![The direction of magnetic field using right hand rule](img3.31.png)
 
 The equation (3.34) is used to compute the magnetic field only due to a small elemental length $dl$ of the conductor. The net magnetic field at P due to the conductor is obtained from principle of superposition by considering the contribution from all current elements $I \, d\vec{l}$. Hence integrating equation (3.34), we get
 
@@ -943,7 +949,7 @@ The exponent of charge $q$ (source) and exponent of electric field $E$ is unity.
 
 ### 3.8.2 Magnetic field due to long straight conductor carrying current
 
-**Figure 3.32 Magnetic field due to a long straight current carrying conductor**
+![Magnetic field due to a long straight current carrying conductor](img3.32.png)
 
 Let $YY'$ be an infinitely long straight conductor and $I$ be the steady current through the conductor as shown in Figure 3.32. In order to calculate magnetic field at a point P which is at a distance $a$ from the wire, let us consider a small line element $dl$ (segment AB).
 
@@ -1001,7 +1007,7 @@ Consider a current carrying circular loop of radius $R$ and let $I$ be the curre
 
 The magnetic field at a point P on the axis of the circular coil at a distance $z$ from the centre of the coil O is computed by taking two diametrically opposite line elements of the coil each of length $d\vec{l}$ at C and D. Let $\vec{r}$ be the vector joining the current element $(I\,d\vec{l})$ at C and the point P.
 
-**Figure 3.33 Magnetic field due to current-carrying circular loop**
+![ Magnetic field due to current-carrying circular loop](img3.33.png)
 
 According to Biot-Savart's law, the magnetic field at P due to the current element at C is
 
@@ -1055,7 +1061,7 @@ The magnetic field due to current in the upper semicircle and lower semicircle o
 
 Tangent galvanometer is a device used to detect very small currents. It is a moving magnet type galvanometer. Its working is based on tangent law (Figure 3.34).
 
-**Figure 3.34 Tangent Galvanometer**
+![Tangent Galvanometer](img3.34.png)
 
 #### Tangent law
 
@@ -1080,7 +1086,7 @@ At the centre of turn table, there is a small upright projection on which a comp
 
 #### Theory
 
-**Figure 3.35 Resultant position of pivoted needle**
+![Resultant position of pivoted needle](img3.35.png)
 
 In the tangent galvanometer experiment, when no current is passed through the coil, the small magnetic needle lies along horizontal component of Earth's magnetic field. When the circuit is closed, the electric current will pass through the circular coil and produce magnetic field at the centre of the coil. Now there are two fields which are acting mutually perpendicular to each other. They are:
 
@@ -1170,7 +1176,7 @@ Suppose an electron undergoes circular motion around the nucleus as shown in Fig
 
 $$ \vec{\mu}_L = I \vec{A} \quad (3.45) $$
 
-**Figure 3.36 (a) Electron revolving in a circular orbit (b) Direction of magnetic dipole moment vector and orbital angular momentum vector are opposite**
+![(a) Electron revolving in a circular orbit (b) Direction of magnetic dipole moment vector and orbital angular momentum vector are opposite](img3.36.png)
 
 In magnitude,
 
@@ -1244,7 +1250,7 @@ where $I_{\text{enclosed}}$ is the net current linked by the closed loop C. Note
 
 ### 3.9.2 Magnetic field due to the current carrying wire of infinite length using Ampère's law
 
-**Figure 3.37 Ampèrian loop for current carrying straight wire**
+![Ampèrian loop for current carrying straight wire](img3.37.png)
 
 Consider a straight conductor of infinite length carrying current $I$ and the direction of magnetic field lines is shown in Figure 3.37. Since the wire is geometrically cylindrical in shape and symmetrical about its axis, we construct an Amperian loop in the form of a circular shape at a distance $r$ from the centre of the conductor as shown in Figure 3.37. From the Ampere's law, we get
 
@@ -1288,13 +1294,13 @@ A solenoid is a long coil of wire closely wound in the form of helix as shown in
 
 Inside the solenoid, the magnetic field is nearly uniform and parallel to its axis whereas, outside the solenoid the field is negligibly small. Based on the direction of the current, one end of the solenoid behaves like North Pole and the other end behaves like South Pole.
 
-**Figure 3.38 Solenoid**
+![Solenoid](img3.38.png)
 
-**Figure 3.39 Solenoid as a bar magnet**
+![Solenoid as a bar magnet](img3.39.png)
 
 The current carrying solenoid is held in right hand. If the fingers curl in the direction of current, then extended thumb gives the direction of magnetic field of current carrying solenoid. It is shown in Figure 3.39. Hence, the magnetic field of a solenoid looks like the magnetic field of a bar magnet.
 
-**Figure 3.40 The direction of magnetic field of solenoid**
+![The direction of magnetic field of solenoid](img3.40.png)
 
 The solenoid is assumed to be long which means that the length of the solenoid is large when compared to its diameter. The winding need not to be always circular, it can also be in other shapes. We consider here only circularly wound solenoid as shown in Figure 3.40.
 
@@ -1302,7 +1308,7 @@ The solenoid is assumed to be long which means that the length of the solenoid i
 
 Consider a solenoid of length $L$ having $N$ turns. The diameter of the solenoid is assumed to be much smaller when compared to its length and the coil is wound very closely.
 
-**Figure 3.41 Amperian loop for solenoid**
+![Amperian loop for solenoid](img3.41.png)
 
 In order to calculate the magnetic field at any point inside the solenoid, we use Ampere's circuital law. Consider a rectangular loop abcd as shown in Figure 3.41. Then from Ampere's circuital law,
 
@@ -1390,9 +1396,9 @@ Thus, strength of the magnetic field is increased when we pack more loops into t
 
 A solenoid is bent in such a way its ends are joined together to form a closed ring shape, is called a toroid which is shown in Figure 3.42. The magnetic field has constant magnitude inside the toroid whereas in the interior region (say, at point P) and exterior region (say, at point Q), the magnetic field is zero.
 
-**Figure 3.42 Toroid**
+![Toroid](img3.42.png)
 
-**Figure 3.43 Toroid - Amperian loop**
+![Toroid - Amperian loop](img3.43.png)
 
 #### (a) Open space interior to the toroid
 
@@ -1480,7 +1486,7 @@ The equations (3.56) and (3.57) imply
 4. $\vec{F}_m$ is directly proportional to the magnitude of the charge $q$
 5. The direction of $\vec{F}_m$ is always perpendicular to $\vec{v}$ and $\vec{B}$ as $\vec{F}_m$ is the cross product of $\vec{v}$ and $\vec{B}$
 
-**Figure 3.44 Direction of the Lorentz force on (a) positive charge (b) negative charge**
+![Direction of the Lorentz force on (a) positive charge (b) negative charge](img3.44.png)
 
 6. The direction of $\vec{F}_m$ on negative charge is opposite to the direction of $\vec{F}_m$ on positive charge provided other factors are identical as shown Figure 3.44 (b)
 7. If velocity $\vec{v}$ of the charge $q$ is along magnetic field $\vec{B}$ then, $\vec{F}_m$ is zero
@@ -1545,7 +1551,7 @@ So the power delivered by the Lorentz force is zero.
 
 ### 3.10.2 Motion of a charged particle in a uniform magnetic field
 
-**Figure 3.45 Circular motion of a charged particle in a perpendicular uniform magnetic field**
+![Circular motion of a charged particle in a perpendicular uniform magnetic field](img3.45.png)
 
 Consider a charged particle of charge $q$ having mass $m$ entering into a region of uniform magnetic field $\vec{B}$ with velocity $\vec{v}$ such that velocity is perpendicular to the magnetic field. As soon as the particle enters into the field, Lorentz force acts on it in a direction perpendicular to both magnetic field $\vec{B}$ and velocity $\vec{v}$.
 
@@ -1587,11 +1593,11 @@ From equations (3.59), (3.60) and (3.61), we infer that time period and frequenc
 
 If a charged particle moves in a region of uniform magnetic field such that its velocity is not perpendicular to the magnetic field, then the velocity of the particle is split up into two components; one component is parallel to the field while the other component perpendicular to the field. The component of velocity parallel to field remains unchanged and the component perpendicular to the field keeps changing due to Lorentz force. Hence the path of the particle is not a circle; it is a helical around the field lines as shown in Figure 3.46.
 
-**Figure 3.46 Helical path of the electron in a uniform magnetic field**
+![Helical path of the electron in a uniform magnetic field](img3.46.png)
 
 For an example, the helical path of an electron when it moves in a magnetic field is shown in Figure 3.47. Inside the particle detector called cloud chamber, the path is made visible by the condensation of water droplets.
 
-**Figure 3.47 Helical path of the electron inside the cloud chamber**
+![Helical path of the electron inside the cloud chamber](img3.47.png)
 
 ### EXAMPLE 3.19
 
@@ -1700,7 +1706,7 @@ Note that even though the difference between mass of two isotopes are very small
 
 ### 3.10.3 Motion of a charged particle under crossed electric and magnetic field (velocity selector)
 
-**Figure 3.48 Velocity selector**
+![Velocity selector](img3.48.png)
 
 Let us consider an experimental arrangement to illustrate velocity selector as shown in Figure 3.48. In the region of space between the parallel plates of a capacitor which produce uniform electric field $\vec{E}$, a uniform magnetic field $\vec{B}$ is maintained perpendicular to the direction of electric field.
 
@@ -1748,9 +1754,9 @@ Cyclotron (Figure 3.49) is a device used to accelerate the charged particles to 
 
 **Principle:** When a charged particle moves perpendicular to the magnetic field, it experiences magnetic Lorentz force.
 
-**Figure 3.49 Cyclotron invented by Lawrence and Livingston**
+![Cyclotron invented by Lawrence and Livingston](img3.49.png)
 
-**Figure 3.50 Working of cyclotron**
+![](img3.50.png)
 
 **Construction**
 
@@ -1790,7 +1796,7 @@ When a current carrying conductor is placed in a magnetic field, the force exper
 
 $$ I = neAv_d \quad (3.65) $$
 
-**Figure 3.51 Current carrying conductor in a magnetic field**
+![Current carrying conductor in a magnetic field](img3.51.png)
 
 If the conductor is kept in a magnetic field $\vec{B}$, then average force experienced by the charge (electron) in the conductor is
 
@@ -1825,7 +1831,7 @@ $$ F_{\text{total}} = BIl \sin\theta $$
 
 When a current carrying conductor is placed in a magnetic field, the direction of the force experienced by it is given by Fleming's Left Hand Rule (FLHR) as shown in Figure 3.52.
 
-**Figure 3.52 Fleming's Left Hand Rule (FLHR)**
+![Fleming's Left Hand Rule (FLHR)](img3.52.png)
 
 Stretch out forefinger, the middle finger and the thumb of the left hand such that they are in three mutually perpendicular directions. If the forefinger points in the direction of magnetic field, the middle finger in the direction of the electric current, then thumb will point in the direction of the force experienced by the conductor.
 
@@ -1859,7 +1865,7 @@ Let two long straight parallel current carrying conductors separated by a distan
 
 $$ \vec{B}_1 = \frac{\mu_0 I_1}{2\pi r} (-\hat{i}) = -\frac{\mu_0 I_1}{2\pi r} \hat{i} $$
 
-**Figure 3.53 Two long straight parallel wires**
+![Two long straight parallel wires](img3.53.png)
 
 From thumb rule, the direction of magnetic field is perpendicular to the plane of the paper and inwards (arrow into the page $\otimes$) i.e. along negative $\hat{i}$ direction.
 
@@ -1881,7 +1887,7 @@ $$ d\vec{F} = (I_1\,d\vec{l} \times \vec{B}_2) = I_1\,dl \frac{\mu_0 I_2}{2\pi r
 
 Therefore the force on $dl$ of conductor A is directed towards the conductor B. So the length $dl$ is attracted towards the conductor B as shown in Figure (3.54).
 
-**Figure 3.54 Current in both the conductors are in the same direction - attracts each other**
+![Current in both the conductors are in the same direction - attracts each other](img3.54.png)
 
 The force acting per unit length of the conductor A due to the current in conductor B is
 
@@ -1889,11 +1895,11 @@ $$ \frac{\vec{F}}{l} = \frac{\mu_0 I_1 I_2}{2\pi r} \hat{j} $$
 
 Thus the force between two parallel current carrying conductors is attractive if they carry current in the same direction. (Figure 3.55)
 
-**Figure 3.55 Two parallel conductors carrying current in same direction experience an attractive force**
+![Two parallel conductors carrying current in same direction experience an attractive force](img3.55.png)
 
 The force between two parallel current carrying conductors is repulsive if they carry current in opposite directions (Figure 3.56).
 
-**Figure 3.56 Two parallel conductors carrying current in opposite direction experience a repulsive force**
+![Two parallel conductors carrying current in opposite direction experience a repulsive force](img3.56)
 
 **Definition of ampere**
 
@@ -1907,7 +1913,7 @@ The force on a current carrying wire in a magnetic field is responsible for the 
 
 Consider a rectangular loop PQRS carrying current $I$ is placed in a uniform magnetic field $\vec{B}$. Let $a$ and $b$ be the length and breadth of rectangular loop respectively. The unit vector $\hat{n}$ normal to the plane of the loop makes an angle $\theta$ with the magnetic field as shown in Figure 3.57.
 
-**Figure 3.57 Rectangular coil placed in a magnetic field**
+![Rectangular coil placed in a magnetic field](img3.57.png)
 
 The magnitude of the magnetic force acting on the current-carrying arm PQ is $F_{\text{PQ}} = IaB \sin\left(\frac{\pi}{2}\right) = IaB$. The direction of the force is found using right hand cork screw rule and its direction is upwards.
 
@@ -1919,7 +1925,7 @@ The magnitude of the force acting on the arm SP is $F_{\text{SP}} = IbB \sin\lef
 
 Since the forces $F_{\text{QR}}$ and $F_{\text{SP}}$ are equal, opposite and collinear, they cancel each other. But the forces $F_{\text{PQ}}$ and $F_{\text{RS}}$, which are equal in magnitude and opposite in direction, are not acting along same straight line. Therefore, $F_{\text{PQ}}$ and $F_{\text{RS}}$ constitute a couple which exerts a torque on the loop.
 
-**Figure 3.58 Side view of current loop**
+![Side view of current loop](img3.58.png)
 
 The magnitude of torque acting on the arm PQ about AB is $\tau_{\text{PQ}} = \left(\frac{b}{2}\sin\theta\right) IaB$ and it points in the direction of AB. The magnitude of the torque acting on the arm RS about AB is $\tau_{\text{RS}} = \left(\frac{b}{2}\sin\theta\right) IaB$ and points also in the same direction AB as shown in Figure 3.58.
 
@@ -1959,13 +1965,13 @@ A moving coil galvanometer consists of a rectangular coil PQRS of insulated thin
 
 The upper end of the rectangular coil is attached to one end of fine strip of phosphor bronze and the lower end of the coil is connected to a hair spring which is also made up of phosphor bronze. In a fine suspension strip, a small plane mirror is attached in order to measure the deflection of the coil with the help of lamp and scale arrangement. The other end of the mirror is connected to a torsion head. In order to pass electric current through the galvanometer, the suspension strip and the spring are connected to terminals.
 
-**Figure 3.59 Moving coil galvanometer - its parts**
+![Moving coil galvanometer - its parts](img3.59.png)
 
 **Working**
 
 Consider a single turn of the rectangular coil PQRS whose length is $l$ and breadth $b$. $\text{PQ} = \text{RS} = l$ and $\text{QR} = \text{SP} = b$. Let $I$ be the electric current flowing through the rectangular coil PQRS as shown in Figure 3.60. The horse-shoe magnet has hemispherical magnetic poles which produces a radial magnetic field. Due to this radial field, the sides QR and SP are always parallel to the magnetic field $B$ and experience no force. The sides PQ and RS are always perpendicular to the magnetic field and experience equal forces in opposite directions. Due to this, torque is produced.
 
-**Figure 3.60 Force acting on current carrying coil**
+![Force acting on current carrying coil](img3.60.png)
 
 For single turn, the deflecting torque is
 
@@ -2022,119 +2028,3 @@ $$ V_s = \frac{\theta}{V} = \frac{\theta}{I R_g} = \frac{NAB}{K R_g} \quad \text
 
 where $R_g$ is the resistance of galvanometer.
 
-[file name]: 04_p2.pdf
-[file content begin]
-
-1 is changed by changing the current, an emf is induced in that same coil (Figure 4.18). This phenomenon is known as self- induction. The emf induced is called self- induced emf.
-
-<center>Figure 4.18 Self-Induction </center>
-
-Let $\Phi_{B}$ be the magnetic flux linked with each turn of the coil of N turns, then the total flux linked with the coil $N\Phi_{B}$ (flux linkage) is proportional to the current $i$ in the coil.
-
-$$\begin{array}{l}N\Phi_{B}\propto i\\ N\Phi_{B} = Li\\ (or)L = \frac{N\Phi_{B}}{i} \end{array} \quad (4.8)$$
-
-The constant of proportionality $L$ is called self- inductance or coefficient of self- induction of the coil.
-
-If $i = 1\mathrm{A}$ , then $L = N\Phi_{B}$ . Self- inductance or simply inductance of a coil is defined as the flux linkage with the coil when 1A current flows through it.
-
-When the current $i$ changes with time, an emf is induced in it. From Faraday's law of electromagnetic induction, this self- induced emf in the coil is given by
-
-$$\begin{array}{l}\epsilon = -\frac{d(N\Phi_B)}{dt}\\ = -\frac{d(Li)}{dt} \end{array} \quad (\text{using equation 4.8})$$
-
-$$\therefore \epsilon = -L\frac{di}{dt} \quad (4.9)$$
-
-The negative sign in the above equation implies that the self- induced emf always opposes the change in current with respect to time. If $\frac{di}{dt} = 1\mathrm{As}^{- 1}$ , then $L = - \epsilon$ . Inductance of a coil is also defined as the opposing emf induced in the coil when the rate of change of current through the coil is $1 \mathrm{A} \mathrm{s}^{-1}$ .
-
-## Unit of inductance
-
-Inductance is a scalar and its unit is $\mathrm{WbA}^{- 1}$ or $\mathrm{VsA}^{- 1}$ . It is also measured in henry (H).
-
-$$1\mathrm{H} = 1\mathrm{WbA}^{-1} = 1\mathrm{VsA}^{-1}$$
-
-The dimensional formula of inductance is $M L^{2} T^{- 2} A^{- 2}$ .
-
-If $i = 1$ A and $N\Phi_{B} = 1$ Wb turns, then $L = 1\mathrm{H}$ .
-
-Therefore, the inductance of the coil is said to be one henry if a current of 1 A produces unit flux linkage in the coil.
-
-$$L = 1\mathrm{H}.\frac{di}{dt} = 1\mathrm{As}^{-1}\text{ and }\epsilon = -1\mathrm{V},\text{ then}$$
-
-Therefore, the inductance of the coil is one henry if a current changing at the rate of $1 \mathrm{A} \mathrm{s}^{-1}$ induces an opposing emf of 1 V in it. Physical significance of inductance
-
-We have learnt about inertia in XI standard. In translational motion, mass is a measure of linear inertia; in the same way, for rotational motion, moment of inertia is a measure of rotational inertia (Refer sections 3.2.1 and 5.4 of XI physics text book). Generally, inertia means opposition to change its state.
-
-
-4.3.2 Self- inductance of a long solenoid
-
-<center>Figure 4.19 Induced emf $\epsilon$ opposes the changing current $i$ </center>
-
-The inductance plays the same role in a circuit as mass and moment of inertia play in mechanical motion. When a circuit is switched on, the increasing current induces an emf which opposes the growth of current in a circuit (Figure 4.19(a)). Likewise, when circuit is broken, the decreasing current induces an emf in the reverse direction. This emf now opposes the decay of current (Figure 4.19(b)).
-
-Thus, inductance of the coil opposes any change in current and tries to maintain the original state.
-
-### 4.3.2 Self- inductance of a long solenoid
-
-Consider a long solenoid of length $l$ and cross- sectional area $A$ . Let $n$ be the number of turns per unit length (or turn density) of the solenoid. When an electric current $i$ is passed through the solenoid, a magnetic
-
-<center>Figure 4.20 Self-inductance of a long solenoid </center>
-
-field produced inside is almost uniform and is directed along the axis of the solenoid as shown in Figure 4.20. The magnetic field at any point inside the solenoid is given by (Refer section 3.9.3)
-
-$$B = \mu_{0} n i$$
-
-As this magnetic field passes through the solenoid, the windings of the solenoid are linked by the field lines. The magnetic flux passing through each turn is
-
-$$\Phi_{B} = \int_{A}\overline{B\cdot dA} = BA\cos \theta$$ $$= BA$$ $$= (\mu_{0} n i)A$$
-
-The total magnetic flux linked or flux linkage of the solenoid with $N$ turns (the total number of turns $N$ is given by $N = n l$ ) is
-
-$$N\Phi_{B} = (n l)(\mu_{0} n i)A$$ $$N\Phi_{B} = (\mu_{0} n^{2}A l)i$$
-
-We know that
-
-$$N\Phi_{B} = Li$$
-
-
-Comparing the above equations, we get
-
-$$L = \mu_0 n^2 A l \quad (4.10)$$
-
-From the above equation, it is clear that inductance depends on the geometry of the solenoid (turn density $n$ , cross- sectional area $A$ , length $l$ ) and the medium present inside the solenoid. If the solenoid is filled with a dielectric medium of relative permeability $\mu_r$ , then
-
-$$L = \mu n^2 A l \text{ or } L = \mu_r \mu_0 n^2 A l$$
-
-## Energy stored in an inductor
-
-Whenever a current is established in the circuit, the inductance opposes the growth of the current. In order to establish a current in the circuit, work is done against this opposition by some external agency. This work done is stored as magnetic potential energy.
-
-Let us assume that electrical resistance of the inductor is negligible and inductor effect alone is considered. The induced emf $\epsilon$ at any instant $t$ is
-
-$$\epsilon = -L\frac{di}{dt}$$
-
-Let $dW$ be work done in moving a charge $dq$ in a time $dt$ against the opposition, then
-
-$$dW = -\epsilon dq$$ $$= -\epsilon i dt\qquad \because dq = i dt$$
-
-Substituting for $\epsilon$ from equation (4.9),
-
-$$dW = -(-L\frac{di}{dt}) i dt = L i di$$
-
-Total work done in establishing the current $i$ is
-
-$$W = \int dW = \int_{0}^{i} L i di = \frac{1}{2} L i^2$$
-
-This work done is stored as magnetic potential energy.
-
-$$\therefore U_B = \frac{1}{2} L i^2 \quad (4.11)$$
-
-The energy density is the energy stored per unit volume of the space and is given by
-
-$$u_{B} = \frac{U_{B}}{Al}\quad \because \text{Volume of the solenoid} = Al$$ $$u_{B} = \frac{Li^{2}}{2Al} = \frac{\left(\mu_{0}n^{2}Al\right)i^{2}}{2Al}\quad \because L = \mu_{0}n^{2}Al$$ $$= \frac{\mu_{0}n^{2}i^{2}}{2}$$ $$u_{B} = \frac{B^{2}}{2\mu_{0}}\qquad \because B = \mu_{0}ni$$
-
-## EXAMPLE 4.10
-
-A solenoid of 500 turns is wound on an iron core of relative permeability 800. The length and radius of the solenoid are 40 cm and $3\mathrm{cm}$ respectively. Calculate the average emf induced in the solenoid if the current in it changes from 0 to 3 A in 0.4 second.
-
-## Solution
-
-$$N = 500\mathrm{turns};\quad \mu_r = 800;$$ $$l = 40\mathrm{cm} = 0.4\mathrm{m}; r = 3\mathrm{cm} = 0.03\mathrm{m};$$ $$di = 3 - 0 = 3\mathrm{A}; dt
