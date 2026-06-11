@@ -3,7 +3,6 @@ title: "Electrostatic Potential And Potential Energy"
 weight: 5
 ---
 
-### Introduction
 
 In mechanics, potential energy is defined for conservative forces. Since gravitational force is a conservative force, its gravitational potential energy is defined. Since Coulomb force is an inverse-square-law force, its also a conservative force like gravitational force. Therefore, we can define potential energy for charge configurations.
 
@@ -53,7 +52,6 @@ $$
 ### Important points
 
 1. Electric potential at point P depends only on the electric field which is due to the source charge \(q\) and not on the test charge \(q^{\prime}\). Unit positive charge is brought from infinity to the point P with constant velocity because external agency should not impart any kinetic energy to the test charge.
-
 2. From equation (1.29), the unit of electric potential is Joule per coulomb. The practical unit is volt (V) named after Alessandro Volta (1745-1827) who invented the electrical battery. The potential difference between two points is expressed in terms of volt.
 
 **Note: In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower gravitational potential. Similarly a positive charge moves from a point of higher electrostatic potential to a point of lower electrostatic potential. However a negative charge moves from lower electrostatic potential to higher electrostatic potential.**
@@ -102,11 +100,13 @@ $$
 
 (i) If the source charge \(q\) is positive, \(V > 0\). If \(q\) is negative, then \(V\) is negative and equal to \(V = -\frac{1}{4\pi\epsilon_0} \frac{q}{r}\)
 
-(ii) From expression (1.33), it is clear that the potential due to positive charge decreases as the distance increases, but for a negative charge the potential increases as the distance is increased. At infinity \((r = \infty)\) electrostatic potential is zero \((V = 0)\).
+(ii) From expression (1.33), it is clear that the potential due to positive charge decreases as the distance increases, but for a negative charge the potential increases as the distance is increased. At infinity \((r = \infty)\) electrostatic potential is zero \((V = 0)\). In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower
 
 ![Figure 1.22 Motion of masses in terms of gravitational potential](a14.png)
 
 ![Figure 1.23 Motion of charges in terms of electric potential](a15.png)
+
+gravitational potential (Figure 1.22). Similarly a positive charge moves from a point of higher electrostatic potential to a point of lower electrostatic potential. However a negative charge moves from lower electrostatic potential to higher electrostatic potential. This comparison is shown in Figure 1.23.
 
 (iii) The electric potential at a point P due to a collection of charges \(q_{1}, q_{2}, q_{3}, \ldots , q_{n}\) is equal to sum of the electric potentials due to individual charges.
 
@@ -121,6 +121,7 @@ where \(r_{1}, r_{2}, r_{3}, \ldots , r_{n}\) are the distances of \(q_{1}, q_{2
 **EXAMPLE 1.12**
 
 (a) Calculate the electric potential at points P and Q as shown in the figure below.
+
 (b) Suppose the charge \(+9\mu \mathrm{C}\) is replaced by \(-9\mu \mathrm{C}\) find the electrostatic potentials at points P and Q
 
 ![](a17.png)

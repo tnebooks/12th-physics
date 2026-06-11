@@ -54,6 +54,8 @@ Here \(\hat{r}_{21}\) is the unit vector from charge \(q_{2}\) to \(q_{1}\).
 
 But \(\hat{r}_{21} = -\hat{r}_{12}\)
 
+(viii) The expression for Coulomb force is true only for point charges. But the point charge is an ideal concept. However we can apply Coulomb’s law for two charged objects whose sizes are very much smaller than the distance between them. In fact, Coulomb discovered his law by considering the charged spheres in the torsion balance as point charges. The distance between the two charged spheres is much greater than the radii of the spheres.
+
 **EXAMPLE 1.2**
 
 ![](C.png)
@@ -137,6 +139,8 @@ Two small-sized identical equally charged spheres, each having mass 1 g are hang
 **Solution**
 
 If the two spheres are neutral, the angle between them will be \(0^{\circ}\) when hanged vertically. Since they are positively charged spheres, there will be a repulsive force between them and they will be at equilibrium with each other at an angle of \(30^{\circ}\) with the vertical. At equilibrium, each charge experiences zero net force in each direction. We can draw a free body diagram for one of the charged spheres and apply Newton's second law for both vertical and horizontal directions.
+
+The free body diagram is shown below.
 
 ![](F.png)
 
