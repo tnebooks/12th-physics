@@ -4,8 +4,6 @@ weight: 1
 references:
     videos:
         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
-    links:
-        - "[Capacitor Lab](https://phet.colorado.edu/sims/cheerpj/capacitor-lab/latest/capacitor-lab.html?simulation=capacitor-lab)"
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
