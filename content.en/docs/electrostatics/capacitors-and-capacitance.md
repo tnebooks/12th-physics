@@ -1,6 +1,10 @@
 ---
 title: "Capacitors And Capacitance"
 weight: 8
+references:
+    links:
+        - "[Capacitor Lab](https://phet.colorado.edu/sims/cheerpj/capacitor-lab/latest/capacitor-lab.html?simulation=capacitor-lab)"
+
 ---
 
 ### Capacitors

@@ -35,8 +35,6 @@ $$
 \bar{F} = q_0\bar{E} \quad (1.5)
 $$
 
-![Figure 1.5 Coulomb’s law in terms of electric field](J.png)
-
 This is Coulomb's law in terms of electric field.
 
 (iii) The equation (1.4) implies that the electric field is independent of the test charge \(q\_{\mathrm{o}}\) and it depends only on the source charge \(q\).
@@ -194,7 +192,7 @@ $$
 = -3.95\times 10^{20}(\hat{i} +\hat{j})\mathrm{N}\mathrm{kg}^{-1}
 $$
 
-The electron is accelerated in a direction exactly opposite to \(\bar{E}\_{A}\).
+The electron is accelerated in a direction exactly opposite to $\overline{E}_A$.
 
 ### Electric field due to continuous charge distribution
 
@@ -292,12 +290,12 @@ The following pictures depict electric field lines for various charge configurat
 
 (ii) In figure (b), calculate the ratio of two positive charges and identify the strength of the electric field at three points A, B, and C
 
-(iii) Figure (c) represents the electric field lines for three charges. If \(q*{2} = -20 \mathrm{nC}\), then calculate the values of \(q*{1}\) and \(q\_{3}\)
+(iii) Figure (c) represents the electric field lines for three charges. If \(q_{2} = -20 \mathrm{nC}\), then calculate the values of \(q_{1}\) and \(q_{3}\)
 
 **Solution**
 
-(i) The electric field lines start at \(q*{2}\) and end at \(q*{1}\). In figure (a), \(q*{2}\) is positive and \(q*{1}\) is negative. The number of lines starting from \(q*{2}\) is 18 and number of the lines ending at \(q*{1}\) is 6. So \(q*{2}\) has greater magnitude. The ratio of \(\left|\frac{q_1}{q_2}\right| = \frac{N_1}{N_2} = \frac{6}{18} = \frac{1}{3}\). It implies that \(|q*{2}| = 3|q\_{1}|\)
+(i) The electric field lines start at \(q_{2}\) and end at \(q_{1}\). In figure (a), \(q_{2}\) is positive and \(q_{1}\) is negative. The number of lines starting from \(q_{2}\) is 18 and number of the lines ending at \(q_{1}\) is 6. So \(q_{2}\) has greater magnitude. The ratio of \(\left|\frac{q_1}{q_2}\right| = \frac{N_1}{N_2} = \frac{6}{18} = \frac{1}{3}\). It implies that \(|q_{2}| = 3|q_{1}|\)
 
 (ii) In figure (b), the number of field lines emanating from both positive charges are equal (N=18). So the charges are equal. At point A, the electric field lines are denser compared to the lines at point B. So the electric field at point A is greater in magnitude compared to the field at point B. Further, no electric field line passes through C, which implies that the resultant electric field at C due to these two charges is zero.
 
-(iii) In the figure (c), the electric field lines start at \(q*{1}\) and \(q*{3}\) and end at \(q*{2}\). This implies that \(q*{1}\) and \(q*{3}\) are positive charges. The ratio of the number of field lines is \(\left|\frac{q_1}{q_2}\right| = \frac{8}{16} = \left|\frac{q_3}{q_2}\right| = \frac{1}{2}\), implying that \(q*{1}\) and \(q*{3}\) are half of the magnitude of \(q*{2}\). So \(q*{1} = q*{3} = +10 \mathrm{nC}\).
+(iii) In the figure (c), the electric field lines start at \(q_{1}\) and \(q_{3}\) and end at \(q_{2}\). This implies that \(q_{1}\) and \(q_{3}\) are positive charges. The ratio of the number of field lines is \(\left|\frac{q_1}{q_2}\right| = \frac{8}{16} = \left|\frac{q_3}{q_2}\right| = \frac{1}{2}\), implying that \(q_{1}\) and \(q_{3}\) are half of the magnitude of \(q_{2}\). So \(q_{1} = q_{3} = +10 \mathrm{nC}\).
