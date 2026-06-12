@@ -21,15 +21,11 @@ the displacement current Maxwell's correction to Ampere's circuital law Maxwell'
 
 ![](5.1.png)
 
-We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure
+We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure and properties of various things from atom to universe. Without light, even our eyes cannot see objects. What is light?. This puzzle made many physicists sleepless until middle of \(19^{\mathrm{th}}\) century. Earlier, many scientists thought that optics and electromagnetism are two different branches of physics. But from the work of James Clerk Maxwell, who actually enlightened the concept of light from his theoretical prediction that light is an electromagnetic wave which moves with the speed equal to \(3\times 10^{8}\mathrm{ms}^{- 1}\) (in free space or vacuum). Later, it was confirmed that visible light is just only small portion of electromagnetic spectrum, which ranges from gamma rays to radio waves.
 
-and properties of various things from atom to universe. Without light, even our eyes cannot see objects. What is light?. This puzzle made many physicists sleepless until middle of \(19^{\mathrm{th}}\) century. Earlier, many scientists thought that optics and electromagnetism are two different branches of physics. But from the work of James Clerk Maxwell, who actually enlightened the concept of light from his theoretical prediction that light is an electromagnetic wave which moves with the speed equal to \(3\times 10^{8}\mathrm{ms}^{- 1}\) (in free space or vacuum). Later, it was confirmed that visible light is just only small portion of electromagnetic spectrum, which ranges from gamma rays to radio waves.
+In unit 4, we studied that time varying magnetic field produces an electric field (Faraday's law of electromagnetic induction). Maxwell strongly believed that nature must possess symmetry and he asked the following question, "when the time varying magnetic field produces an electric field, why not the time varying electric field produce a magnetic field?"
 
-In unit 4, we studied that time varying magnetic field produces an electric field (Faraday's law of electromagnetic induction). Maxwell strongly believed that nature must possess symmetry and he asked
-
- the following question, "when the time varying magnetic field produces an electric field, why not the time varying electric field produce a magnetic field?"
-
-![](image 1.png)
+![](img_1.png)
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell's prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
 ![](5.2.png)
@@ -42,7 +38,7 @@ In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in
 
 Faraday's law of electromagnetic induction states that the change in magnetic field produces an electric field. Mathematically, it is written as
 
-$$ \oint_{l}\vec{E}\cdot \vec{dl} = -\frac{d}{dt}\oint_{S}\vec{B}\cdot \vec{dA} $$
+$$ \oint_{l}\vec{E}\cdot \vec{dl} = -\frac{d}{dt}\Phi_{B} = -\frac{d}{dt}\oint_{S}\vec{B}\cdot \vec{dA} \quad (5.1)$$
 
 where $\Phi_{\mathrm{B}}$ is the magnetic flux and $\frac{d}{dt}$ is the total derivative with respect to time. Equation (5.1) means that the electric field $\bar{E}$ is induced along a closed loop by the changing magnetic flux $\Phi_{\mathrm{B}}$ in the region encircled by the loop.
 
@@ -74,9 +70,7 @@ Now, the same loop is enclosed by balloon shaped surface $S_{2}$ such that bound
 
 $$\oint_{\mathrm{enclosing} S_{2}}\vec{B}\cdot d\vec{l} = 0 \quad (5.4)$$
 
-The right hand side of equation is zero because the surface $S_{2}$ nowhere touches the wire carrying conduction current and further, there is no current flowing between
-
- the plates of the capacitor (gap between the plates). So the magnetic field at a point $P$ is zero. Hence there is an inconsistency between equations (5.3) and (5.4).
+The right hand side of equation is zero because the surface $S_{2}$ nowhere touches the wire carrying conduction current and further, there is no current flowing between the plates of the capacitor (gap between the plates). So the magnetic field at a point $P$ is zero. Hence there is an inconsistency between equations (5.3) and (5.4).
 
 Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time- varying electric field (or time- varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor (Figure 5.5).
 
@@ -134,9 +128,7 @@ $$\begin{array}{rl} & {\therefore i_{d} = \frac{\epsilon_{0}A}{d}\left|\frac{dV}
 
 #### 5.1.2 Maxwell's equations in integral form
 
-Electrodynamics can be summarized in four basic equations, known as Maxwell's equations. These equations are analogous to Newton's equations in mechanics. Maxwell's equations completely explain the behaviour of charges, currents and properties of electric and magnetic fields. These equations can be written in integral form (or integration form) or derivative form (or differential form). The
-
-differential form of Maxwell's equation is beyond higher secondary level. So we focus only the integral form of Maxwell's equations.
+Electrodynamics can be summarized in four basic equations, known as Maxwell's equations. These equations are analogous to Newton's equations in mechanics. Maxwell's equations completely explain the behaviour of charges, currents and properties of electric and magnetic fields. These equations can be written in integral form (or integration form) or derivative form (or differential form). The  differential form of Maxwell's equation is beyond higher secondary level. So we focus only the integral form of Maxwell's equations.
 
 ## First equation
 
@@ -180,7 +172,7 @@ These four equations are known as Maxwell's equations in electrodynamics. This e
 
 ![](5.7.png)
 
-5.2 ELECTROMAGNETIC WAVES
+### 5.2 ELECTROMAGNETIC WAVES
 
 Electromagnetic waves are nonmechanical waves which move with speed equals to the speed of light (in vacuum). It is a transverse wave. In the following subsections, we discuss the production of electromagnetic waves and its properties, sources of electromagnetic waves and also classification of electromagnetic spectrum.
 
@@ -200,24 +192,25 @@ If the receiver is rotated by $90^{\circ}$ , then no spark is observed by the re
 
 1. Electromagnetic waves are produced by any accelerated charge.
 2. Electromagnetic waves do not require any medium for propagation. So electromagnetic wave is a non-mechanical wave.
-3. Electromagnetic waves are transverse in nature. The oscillating electric field vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to
+3. Electromagnetic waves are transverse in nature. The oscillating electric field vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to each other.For example, if the electric and magnetic fields are as shown in Figure 5.8, then the direction of propagation will be along x-direction.
 
 ![](5.8.png)
 
- each other.
-4. Electromagnetic waves obey the principle of superposition.
-5. Electric field vector and magnetic field vector are perpendicular to each other.
-6. The velocity of electromagnetic waves in free space or vacuum is given by
-   $$c = \frac{1}{\sqrt{\mu_0 \epsilon_0}}$$
-   where $\mu_0$ is the permeability and $\epsilon_0$ is the permittivity of free space.
-7. The velocity of electromagnetic waves in a medium is given by
-   $$v = \frac{1}{\sqrt{\mu \epsilon}}$$
-   where $\mu$ is the permeability and $\epsilon$ is the permittivity of the medium.
-8. If the electric field vector oscillates along the x-direction and the magnetic field vector oscillates along the y-direction, then the direction of propagation of electromagnetic waves is along the z-direction.
-9. The speed of electromagnetic waves in a medium is less than that in vacuum. The ratio of the speed of light in vacuum to the speed of light in a medium is called the refractive index of that medium. It is given by
-   $$n = \frac{c}{v} = \sqrt{\frac{\mu \epsilon}{\mu_0 \epsilon_0}} = \sqrt{\mu_r \epsilon_r}$$
-   where $\mu_r$ is the relative permeability and $\epsilon_r$ is the relative permittivity of the medium.
-10. The energy of electromagnetic waves is equally distributed between the electric and magnetic fields.
+4. Electromagnetic waves travel with speed which is equal to the speed of light in vacuum or free space,$$c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} = 3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1}$$, where $\epsilon_0$ is the permittivity of free space or vacuum and $\mu_0$ is the permeability of free space or vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
+5. In a medium with permittivity ε and permeability μ, the speed of electromagnetic wave v is less than that in free space or vacuum (v < c).
+In a medium of refractive index,
+$$
+n = \frac{c}{\nu} = \frac{\frac{1}{\sqrt{\epsilon_0 \mu_0}}}{\frac{1}{\sqrt{\epsilon \mu}}} \quad \therefore n = \sqrt{\epsilon_r \mu_r}
+$$
+where \( \epsilon_r \) is the relative permittivity of the medium (also known as dielectric constant) and \( \mu_r \) is the relative permeability of the medium.
+6. Electromagnetic waves are not deflected by electric field or magnetic field.
+7. Electromagnetic waves can exhibit interference, diffraction and polarization.
+8. Like other waves, electromagnetic waves also carry energy, linear momentum and angular momentum.
+9. If the electromagnetic wave incident on a material surface is completely absorbed, then the energy delivered is \( U \) and momentum imparted on the surface is \( p = \frac{U}{c} \).
+10. If the incident electromagnetic wave of energy \( U \) is totally reflected from the surface, then the momentum delivered to the surface is
+$$
+\Delta p = \frac{U}{c} - \left( -\frac{U}{c} \right) = 2 \frac{U}{c}.
+$$
 
 ## EXAMPLE 5.2
 
@@ -235,9 +228,7 @@ $$n = \sqrt{\epsilon_{\mathrm{r}}\mu_{\mathrm{r}}} = \sqrt{2.25\times 2.5} = 2.3
 
 #### 5.2.2 Sources of electromagnetic waves
 
-Any stationary charge produces only electric field (refer Unit 1). When the charge moves with uniform velocity, it produces steady current which gives rise to magnetic field (not time dependent, only space dependent) around the conductor in which charge flows. If the charged
-
-particle accelerates, it produces magnetic field in addition to electric field. Both electric and magnetic fields are time varying fields. Since the electromagnetic waves are transverse waves, the direction of propagation of electromagnetic waves is perpendicular to the planes containing electric and magnetic field vectors.
+Any stationary charge produces only electric field (refer Unit 1). When the charge moves with uniform velocity, it produces steady current which gives rise to magnetic field (not time dependent, only space dependent) around the conductor in which charge flows. If the charged particle accelerates, it produces magnetic field in addition to electric field. Both electric and magnetic fields are time varying fields. Since the electromagnetic waves are transverse waves, the direction of propagation of electromagnetic waves is perpendicular to the planes containing electric and magnetic field vectors.
 
 Any oscillatory motion is also an accelerated motion. So, when the charge oscillates (oscillating molecular dipole) about their mean position (Figure 5.9), it produces electromagnetic waves.
 
@@ -275,27 +266,29 @@ The amplitude of the magnetic field, $B_{o} = 2\times 10^{- 4}\mathrm{T}$ . Ther
 
 $$v = \frac{3\times 10^{4}}{2\times 10^{-4}} = 1.5\times 10^{8}m s^{-1}$$
 
+#### 5.2.3 Electromagnetic spectrum
+
 ![](5.10.png)
 
 Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency (Figure 5.10).
 
-## Radio waves
+##### Radio waves
 
 They are produced by accelerated motion of charges in conducting wires. The frequency range is from a few $\mathrm{Hz}$ to $10^{9}\mathrm{Hz}$ . They show reflection and diffraction.
 
 They are used in radio and television communication systems and also in calibrations to transmit voice communication in the ultra high frequency band.
 
-## Microwaves
+##### Microwaves
 
 It is produced by special vacuum tubes such as klystron, magnetron and gunndiode. The frequency range of microwaves is $10^{9}\mathrm{Hz}$ to $10^{11}\mathrm{Hz}$ . These waves undergo reflection and can be polarised.
 
 It is used in radar system for aircraft navigation, speed of the vehicle, microwave oven for cooking and very long distance wireless communication through satellites.
 
-## Infrared radiation
+##### Infrared radiation
 
 It is produced by hot bodies (also known as heat waves) and also by when the molecules undergoing rotational and vibrational transitions. The frequency range is $10^{11}\mathrm{Hz}$ to $4\times 10^{14}\mathrm{Hz}$ .
 
-It provides electrical energy to satellites by means of solar cells. It is used to produce
+It provides electrical energy to satellites by means of solar cells. It is used to produce dehydrated fruits, in green houses to keep the plants warm, heat therapy for muscular pain or sprain, TV remote as a signal carrier, to look through haze fog or mist and used in night vision or infrared photography.
 
 # ACTIVITY
 
@@ -305,21 +298,20 @@ Nowadays the microwave oven is very commonly used to heat the food items. Micro 
 
 We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero and at antinodes point, the amplitude is maximum. In other words, the maximal energy of microwaves is located at antinode points. When we keep some food items like chappathi or chocolate (after removing the rotating platform) inside the oven, we can notice that at antinode locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) and (d). The distance between two successive burnt spots will give the half wavelength of microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength and frequency of microwaves, using the formula $v\lambda = c$ , we can calculate the speed of light c.
 
-dehydrated fruits, in green houses to keep the plants warm, heat therapy for muscular pain or sprain, TV remote as a signal carrier, to look through haze fog or mist and used in night vision or infrared photography.
 
-## Visible light
+##### Visible light
 
 It is produced by incandescent bodies and also it is radiated by excited atoms in gases. The frequency range is from $4 \times 10^{14}\mathrm{Hz}$ to $8 \times 10^{14}\mathrm{Hz}$ .
 
 It obeys the laws of reflection and refraction. It undergoes interference, diffraction and can be polarised. It exhibits photo-electric effect also. It can be used to study the structure of molecules, arrangement of electrons in external shells of atoms. It causes sensation of vision.
 
-## Ultraviolet radiation
+##### Ultraviolet radiation
 
 It is produced by Sun, arc and ionized gases. Its frequency range is from $8 \times 10^{14}\mathrm{Hz}$ to $10^{17}\mathrm{Hz}$ .
 
 It has less penetrating power. It can be absorbed by atmospheric ozone and is harmful to human body. It is used to destroy bacteria in sterilizing the surgical instruments, burglar alarm, to detect the invisible writing, finger prints and also in the study of atomic structure.
 
-## X-rays
+##### X-rays
 
 It is produced when there is sudden stopping of high speed electrons at high atomic number target, and also by electronic transitions among the innermost orbits of atoms. The frequency range of X-rays is from $10^{17}\mathrm{Hz}$ to $10^{19}\mathrm{Hz}$ .
 
@@ -327,7 +319,7 @@ X-rays have more penetrating power than ultraviolet radiation. X-rays are used e
 
  observing the progress of healing bones. Further, in a finished metal product, it is used to detect faults, cracks, flaws and holes.
 
-## Gamma rays
+##### Gamma rays
 
 It is produced by transitions of radioactive nuclei and decay of certain elementary particles. They produce chemical reactions on photographic plates, fluorescence, ionisation, diffraction. The frequency range is $10^{18}$ Hz and above.
 
@@ -357,9 +349,7 @@ This magnetic field can be easily produced with a permanent magnet. So, electrom
 
 # TYPES OF SPECTRUM-EMISSION AND ABSORPTION SPECTRUM- FRAUNHOFER LINES
 
-When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in
-
-red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
+When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
 
 ![](5.11.png)
  is called black body spectrum (Refer XI Physics Unit 8). It is a continuous frequency (or wavelength) curve depending on the body's temperature.
@@ -418,6 +408,7 @@ When the spectrum obtained from the Sun is examined, it consists of large number
 known as Fraunhofer lines (Figure 5.16). The absorption spectra for various materials are compared with the Fraunhofer lines in the solar spectrum, which helps in identifying elements present in the Sun's atmosphere.
 
 ![](5.16.png)
+
 ---
 
 # SUMMARY
