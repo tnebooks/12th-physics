@@ -6,6 +6,9 @@ weight: 8
 summary: "This unit explains the dual nature of matter and radiation, starting with electron emission and the photoelectric effect along with its laws and early observations. It introduces the concept of energy quantization and practical devices like photocells."
 
 ---
+# CHAPTER 8 DUAL NATURE OF RADIATION AND MATTER
+
+## 8.1 INTRODUCTION
 
 We are familiar with the concepts of particle and wave in our everyday experience. Marble balls, grains of sand, atoms, electrons and so on are some examples of particles while the examples of waves are sea waves, ripples in a pond, sound waves and light waves.
 
@@ -45,7 +48,7 @@ The work function is different for different metals and is a typical property of
 
 So the metal selected for electron emission should have low work function. The electron emission is categorized into different types depending upon the form of energy being utilized. There are mainly four types of electron emission which are given below.
 
-#### i) Thermionic emission
+##### i) Thermionic emission
 
 When a metal is heated to a high temperature, the free electrons on the surface of the metal get sufficient energy in the form of thermal energy so that they are emitted from the metallic surface (Figure 8.1). This type of emission is known as thermionic emission.
 
@@ -55,27 +58,27 @@ The intensity of the thermionic emission (the number of electrons emitted) depen
 
 ![](8.2.png)
 
-#### ii) Field emission
+##### ii) Field emission
 
 Electric field emission occurs when a very strong electric field is applied across the metal. This strong field pulls the free electrons and helps them to overcome the surface barrier of the metal (Figure 8.3). Examples: Field emission scanning electron microscopes, Field- emission display etc.
 
 ![](8.3.png)
 
-#### iii) Photo electric emission
+##### iii) Photo electric emission
 
 When an electromagnetic radiation of suitable frequency is incident on the surface of the metal, the energy is transferred from the radiation to the free electrons. Hence, the free electrons get sufficient energy to cross the surface barrier and the photo electric emission takes place (Figure 8.4). The number of electrons emitted depends on the intensity of the incident radiation. Examples: Photo diodes, photo electric cells etc.
 
 ![](8.4.png)
 
-#### iv) Secondary emission
+##### iv) Secondary emission
 
 When a beam of fast moving electrons strikes the surface of the metal, the kinetic energy of the striking electrons is transferred to the free electrons on the metal surface. Thus the free electrons get sufficient kinetic energy so that the secondary emission of electron occurs (Figure 8.5). Examples: Image intensifiers, photo multiplier tubes etc.
 
 ![](8.5.png)
 
-### 8.2 PHOTO ELECTRIC EFFECT
+## 8.2 PHOTO ELECTRIC EFFECT
 
-#### 8.2.1 Hertz, Hallwachs and Lenard's observation
+### 8.2.1 Hertz, Hallwachs and Lenard's observation
 
 ##### Hertz observation
 
@@ -119,7 +122,7 @@ Metals like cadmium, zinc, magnesium etc show photoelectric emission with ultrav
 
 ### 8.2.2 Effect of intensity of incident light on photoelectric current
 
-#### Experimental setup
+##### Experimental setup
 
 The apparatus shown in Figure 8.8 is employed to study the phenomenon of photoelectric effect in detail. $S$ is a source of electromagnetic waves of known and variable frequency $\nu$ and intensity $I$. $C$ is the cathode (negative electrode) made up of photosensitive material and is used to emit electrons. The anode (positive electrode) $A$ collects the electrons emitted from $C$. These electrodes are kept in an evacuated glass envelope with a quartz window that permits the passage of ultraviolet and visible light.
 
@@ -131,7 +134,7 @@ If there is no light falling on the cathode $C$, no photoelectrons are emitted a
 
 The variation of photocurrent with respect to (i) intensity of incident light (ii) the potential difference between the electrodes (iii) the nature of the material and (iv) frequency of incident light can be studied with the help of this arrangement.
 
-#### Effect of intensity of incident light on photoelectric current
+##### Effect of intensity of incident light on photoelectric current
 
 To study the effect of intensity of incident light on photoelectric current, the frequency of the incident light and the accelerating potential $V$ of the anode are kept constant. Here the potential of $A$ is kept positive with respect to that of $C$ so that the electrons emitted from $C$ are attracted towards $A$. Now, the intensity of the incident light is varied and the corresponding photoelectric current is measured.
 
@@ -211,7 +214,7 @@ v) There is no time lag between incidence of light and ejection of photoelectron
 
 Once photoelectric phenomenon has been thoroughly examined through various experiments, the attempts were made to explain it on the basis of wave theory of light.
 
-#### 8.2.6 Concept of quantization of energy
+### 8.2.6 Concept of quantization of energy
 
 ##### Failures of classical wave theory
 
@@ -225,7 +228,7 @@ iii) Since the energy of light is spread across the entire wavefront, the electr
 
 Thus, the experimental observations of photoelectric emission could not be explained on the basis of the wave theory of light.
 
-##### EXAMPLE 8.1
+## EXAMPLE 8.1
 
 For the photoelectric emission from cesium, show that wave theory predicts that
 
@@ -243,7 +246,7 @@ c) Each atom gives this energy to one of the electrons.
 
 Given : The work function for cesium is $2.14\mathrm{eV}$ and the power absorbed per unit area is $1.60\times 10^{-6}\mathrm{Wm}^{-2}$ which produces a measurable photocurrent in cesium.)
 
-**Solution**
+## Solution
 
 i) According to wave theory, the energy in a light wave is spread out uniformly and continuously over the wavefront.
 
@@ -311,7 +314,7 @@ Einstein extended Planck's quantum concept to explain the photoelectric effect i
 
 He also proposed that a quantum of light has linear momentum and the magnitude of that linear momentum is $p = \frac{h\nu}{c}$. The individual light quantum of definite energy and momentum can be associated with a particle. The light quantum can behave as a particle and this is called photon. Therefore, photon is nothing but particle manifestation of light.
 
-#### Characteristics of photons:
+##### Characteristics of photons:
 
 According to particle nature of light, photons are the basic constituents of any radiation and possess the following characteristic properties:
 
@@ -335,7 +338,7 @@ v) When a photon interacts with matter (photon- electron collision), the total e
 
 **Note** According to quantum concept, intensity of light of given wavelength is defined as the number of energy quanta or photons incident per unit area per unit time, with each photon having same energy. Its unit is $\mathrm{Wm}^{-2}$.
 
-#### Einstein's explanation of photoelectric equation
+##### Einstein's explanation of photoelectric equation
 
 When a photon of energy $h\nu$ is incident on a metal surface, it is completely absorbed by a single electron and the electron is ejected. In this process, a part of the photon energy is used in overcoming the potential barrier of the metal surface (photoelectric work function $\phi_0$) and the remaining energy as the kinetic energy of the ejected electron. From the law of conservation of energy,
 
@@ -383,7 +386,7 @@ Einstein's equation was experimentally verified by R.A. Millikan. He drew $K_{\m
 
 Millikan also calculated the value of Planck's constant $(h = 6.626\times 10^{-34}\mathrm{Js})$ and work function of many metals (Cs, K, Na, Ca); these values are in agreement with the theoretical prediction.
 
-#### Explanation for the photoelectric effect:
+##### Explanation for the photoelectric effect:
 
 The experimentally observed facts of photoelectric effect can be explained with the help of Einstein's photoelectric equation.
 
@@ -397,7 +400,7 @@ iv) According to quantum concept, the transfer of photon energy to the electrons
 
 Thus, the photoelectric effect is explained on the basis of quantum concept of light.
 
-#### The nature of light: wave - particle duality
+##### The nature of light: wave - particle duality
 
 We have learnt that wave nature of light explains phenomena such as interference, diffraction and polarization. Certain phenomena like black body radiation, photoelectric effect can be explained by assigning particle nature to light. Therefore, both theories have enough experimental evidences.
 
@@ -415,7 +418,7 @@ In other words, light behaves as a wave during its propagation and behaves as a 
 
 ### 8.2.8 Photo electric cells and their applications
 
-#### Photo cell
+##### Photo cell
 
 Photo electric cell or photo cell is a device which converts light energy into electrical energy. It works on the principle of photo electric effect. When light is incident on the photosensitive materials, their electric properties will get affected, based on which photo cells are classified into three types. They are
 
@@ -445,11 +448,11 @@ Photo cells have many applications, especially as switches and sensors. Automati
 
 Photo cells are used for reproduction of sound in motion pictures and are used as timers to measure the speeds of athletes during a race. Photo cells of exposure meters in photography are used to measure the intensity of the given light and to calculate the exact time of exposure.
 
-#### EXAMPLE 8.2
+## EXAMPLE 8.2
 
 A radiation of wavelength $300\mathrm{nm}$ is incident on a silver surface. Will photoelectrons be observed? [work function of silver $= 4.7\mathrm{eV}$]
 
-**Solution:**
+## Solution:
 
 Energy of the incident photon is
 
@@ -473,11 +476,11 @@ $$
 
 The work function of silver $= 4.7\mathrm{eV}$. Since the energy of the incident photon is less than the work function of silver, photoelectrons are not observed in this case.
 
-#### EXAMPLE 8.3
+## EXAMPLE 8.3
 
 When light of wavelength $2200\mathrm{\AA}$ falls on Cu, photo electrons are emitted from it. Find (i) the threshold wavelength and (ii) the stopping potential. Given: the work function for Cu is $\phi_0 = 4.65\mathrm{eV}$.
 
-**Solution:**
+## Solution:
 
 i) The threshold wavelength is given by
 
@@ -505,11 +508,11 @@ $$
 
 Therefore, stopping potential $= 1\mathrm{V}$
 
-#### EXAMPLE 8.4
+## EXAMPLE 8.4
 
 The work function of potassium is $2.30\mathrm{eV}$. UV light of wavelength $3000\mathrm{\AA}$ and intensity $2\mathrm{Wm}^{-2}$ is incident on the potassium surface. i) Determine the maximum kinetic energy of the photo electrons ii) If $40\%$ of incident photons produce photo electrons, how many electrons are emitted per second if the area of the potassium surface is $2\mathrm{cm}^2$?
 
-**Solution**
+## Solution:
 
 i) The energy of the incident photon is
 
@@ -535,11 +538,11 @@ $$
 = (0.40)n_p = 0.4\times 6.04\times 10^{14} = 2.416\times 10^{14} \text{ photoelectrons / sec}
 $$
 
-#### EXAMPLE 8.5
+## EXAMPLE 8.5
 
 Light of wavelength $390\mathrm{nm}$ is directed at a metal electrode. To find the energy of electrons ejected, an opposing potential difference is established between it and another electrode. The current of photoelectrons from one to the other is stopped completely when the potential difference is $1.10\mathrm{V}$. Determine i) the work function of the metal and ii) the maximum wavelength of light that can eject electrons from this metal.
 
-**Solution**
+## Solution:
 
 i) The work function is given by
 
@@ -693,7 +696,7 @@ With the help of magnetic objective lens and magnetic projector lens system, the
 
 ![](1.png)
 
-#### EXAMPLE 8.6
+## EXAMPLE 8.6
 
 Calculate the momentum and the de Broglie wavelength in the following cases:
 
@@ -703,7 +706,7 @@ iii) a $4000\mathrm{kg}$ car moving along the highways at $50~\mathrm{m / s}$
 
 Hence show that the wave nature of matter is important at the atomic level but is not really relevant at macroscopic level.
 
-**Solution:**
+## Solution:
 
 i) Momentum of the electron is
 
@@ -743,11 +746,11 @@ $$
 
 From these calculations, we notice that electron has significant value of de Broglie wavelength $(\approx 10^{-9}\mathrm{m})$ which can be measured from diffraction studies but moving bullet and car have negligibly small de Broglie wavelengths associated with them $(\approx 10^{-33}\mathrm{m}$ and $10^{-39}\mathrm{m})$ respectively, which are not measurable by any experiment. This implies that the wave nature of matter is important at the atomic level but it is not really relevant at the macroscopic level.
 
-#### EXAMPLE 8.7
+## EXAMPLE 8.7
 
 Find the de Broglie wavelength associated with an alpha particle which is accelerated through a potential difference of $400\mathrm{V}$. Given that the mass of the proton is $1.67\times 10^{-27}\mathrm{kg}$.
 
-**Solution**
+## Solution:
 
 An alpha particle contains 2 protons and 2 neutrons. Therefore, the mass $M$ of the alpha particle is 4 times that of a proton $(m_p)$ (or a neutron) and its charge $q$ is twice that of a proton $(+2e)$.
 
@@ -763,11 +766,11 @@ $$
 = \frac{6.626\times 10^{-34}}{4\times 20\times 10^{-23}\sqrt{1.67\times 1.6}} = 0.00507 \text{ Å}
 $$
 
-#### EXAMPLE 8.8
+## EXAMPLE 8.8
 
 A proton and an electron have same de Broglie wavelength. Which of them moves faster and which possesses more kinetic energy?
 
-**Solution**
+## Solution:
 
 We know that $\lambda = \frac{h}{\sqrt{2mK}}$. Since proton and electron have same de Broglie wavelength, we get
 
@@ -879,11 +882,11 @@ X- rays are used to check for flaws in welded joints, motor tyres, tennis balls 
 
 X- ray diffraction is important tool to study the structure of the crystalline materials - that is, the arrangement of atoms and molecules in crystals.
 
-#### EXAMPLE 8.9
+## EXAMPLE 8.9
 
 Calculate the cut- off wavelength and cutoff frequency of x- rays from an x- ray tube of accelerating potential 20,000 V.
 
-**Solution**
+## Solution:
 
 The cut- off wavelength of the x- rays in the continuous spectrum is given by
 
@@ -899,7 +902,7 @@ $$
 
 ---
 
-### Summary
+## Summary
 
 - $1 \mathrm{eV}$ is equal to $1.602\times 10^{-19}\mathrm{J}$.
 - The emission of electrons by supplying thermal energy is known as thermionic emission.
@@ -925,7 +928,7 @@ $$
 
 ---
 
-### Multiple Choice Questions
+## Multiple Choice Questions
 
 1. The wavelength $\lambda_{e}$ of an electron and $\lambda_{p}$ of a photon of same energy $E$ are related by (NEET 2013)
    a) $\lambda_{p}\propto \lambda_{e}$
@@ -1132,7 +1135,7 @@ $$
 
 ---
 
-### References
+## References
 
 1. Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited.
 2. H.S. Mani and G.K. Mehta, Introduction to Modern Physics, Affiliated East-West Press Pvt. Ltd.
@@ -1157,6 +1160,8 @@ In this activity you will be able to visualize how light knocks electrons off a 
 - Adjust the value of voltage from the battery and analyse the effect of potential difference on the photoelectric current.
 - Change the material of the target and analyse how it will affect the current and the energy of electrons.
 - Study the photo electric current - voltage graph and Photo electric current - intensity graph obtained from this experiment.
+
+![](7.png)
 
 **Note:** Install Java application if it is not in your browser. You can download all the phet simulation and works in off line from https://phet.colorado.edu/en/offline-access.
 
