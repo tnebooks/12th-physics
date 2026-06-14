@@ -10,35 +10,6 @@ summary: "This unit introduces the fundamentals of magnetism, starting with the 
 
 > "The magnetic force is animate, or imitates a soul; in many respects it surpasses the human soul while it is united to an organic body" - William Gilbert
 
-## LEARNING OBJECTIVES
-
-In this unit, the student is exposed to
-
-- Earth's magnetic field and magnetic elements
-- Basic properties of magnets
-- Statement of Coulomb inverse square law of magnetism
-- Magnetic dipole
-- Magnetic field due to a dipole along axial line and equatorial line
-- Torque acting on a bar magnet in a uniform magnetic field
-- Potential energy of a bar magnet placed in a uniform magnetic field
-- Magnetic properties - permeability, susceptibility etc
-- Classification of magnetic materials - dia, para and ferro magnetic materials
-- Concept of Hysteresis
-- Magnetic effects of electric current - long straight conductor and circular coil
-- Right hand thumb rule and Maxwell's right hand cork screw rule
-- Biot-Savart's law - applications
-- Tangent law and Tangent Galvanometer
-- Current loop as a magnetic dipole
-- Magnetic dipole moment of revolving electron
-- Ampère's circuital law - applications
-- Solenoid and toroid
-- Lorentz force - charged particle moving in an electromagnetic field
-- Cyclotron
-- Force on a current carrying conductor in a magnetic field
-- Force between two long parallel current carrying conductor
-- Torque on a current loop in a magnetic field
-- Moving Coil Galvanometer
-
 ## 3.1 INTRODUCTION TO MAGNETISM
 
 ![Magnetic levitation](img3.1.png)
@@ -65,6 +36,8 @@ world – (a) speakers (b) head phones
 
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north-south direction of the Earth.
+
+### Do You Know
 
 > William Gilbert in 1600 proposed that Earth itself behaves like a gigantic powerful bar magnet. But this theory is not successful because the temperature inside the Earth is very high and so it will not be possible for a magnet to retain its magnetism.
 
@@ -681,8 +654,6 @@ $$ M = \frac{\text{Magnetic moment}}{\text{Volume}} = \frac{2}{25 \times 10^{-6}
 
 $$ M = 0.8 \times 10^{5} \text{ A m}^{-1} $$
 
-## 3.5 CLASSIFICATION OF MAGNETIC MATERIALS
-
 ### EXAMPLE 3.9
 
 Using the relation $\vec{B} = \mu_0(\vec{H} + \vec{M})$, show that $\chi_m = \mu_r - 1$.
@@ -716,6 +687,9 @@ The susceptibility of material Y is
 $$ \chi_{m,Y} = \frac{|\vec{M}|}{|\vec{H}|} = \frac{2000}{1000} = 2 $$
 
 Since susceptibility of material Y is greater than that of material X, which implies that material Y can be easily magnetized.
+
+
+## 3.5 CLASSIFICATION OF MAGNETIC MATERIALS
 
 The magnetic materials are generally classified into three types based on their behaviour in a magnetising field. They are diamagnetic, paramagnetic and ferromagnetic materials.
 
