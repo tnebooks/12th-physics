@@ -1,8 +1,8 @@
- 
 ---
 title: "Electric Current"
 weight: 1
 ---
+
 2.1 ELECTRIC CURRENT
 
 Matter is made up of atoms. Each atom consists of a positively charged nucleus with negatively charged electrons moving around the nucleus. Atoms in metals have one or more electrons which are loosely bound to the nucleus. These electrons are called free electrons and can be easily detached from the atoms. The substances which have an abundance of these free electrons are called conductors. These free electrons move randomly throughout the conductor at a given temperature. In general due to this random motion, there is no net transfer of charges from one end of the conductor to other end and hence no current in the conductor. When a potential difference is applied by the battery across the ends of the conductor, the free electrons drift towards the positive terminal of the battery, producing a net electric current. This is easily understandable from the analogy given in the Figure 2.1.
@@ -12,11 +12,13 @@ conductor to other end and hence no current in the conductor. When a potential d
 In the XI Volume 2, unit 6, we studied, that the mass move from higher gravitational potential to lower gravitational potential. Likewise, positive charge flows from region of higher electric potential to region of lower electric potential and negative charge flows from region of lower electric potential to region of higher electric potential. So battery or electric cell simply creates potential difference across the conductor.
 
 ![](b2.png)
+
 <center>Figure 2.1 Water current and Electric current </center>
 
 The electric current in a conductor is defined as the rate of flow of charges through a given cross- sectional area A. It is shown in the Figure 2.2.
 
 ![](b3.png)
+
 <center>Figure 2.2 Charges flow across the area A </center>
 
 If a net charge Q passes through any cross section of a conductor in time t, then the current is defined as $I = Q$. But charge flow is not always constant. Hence current can more generally be defined as
@@ -46,11 +48,12 @@ $$I = \frac{Q}{t} = \frac{120}{60} = 2A$$
 ### 2.1.1 Conventional Current
 
 ![](b4.png)
+
 <center>Figure 2.3 Direction of conventional current and electron flow </center>
 
-In an electric circuit, arrow heads are used to indicate the direction of flow of current. By convention, this flow in the circuit should be from the positive terminal of the battery to the negative terminal. This current is called the conventional current or simply current and is in the direction in which a positive test charge would move. In typical circuits the charges that flow are actually electrons, from the negative terminal of the battery to the positive terminal. As a result, the flow of electrons and the direction of conventional current point in opposite direction as shown in Figure 2.3. Mathematically, a transfer of positive charge is the
+In an electric circuit, arrow heads are used to indicate the direction of flow of current. By convention, this flow in the circuit should be from the positive terminal of the battery to the negative terminal. This current is called the conventional current or simply current and is in the direction in which a positive test charge would move. In typical circuits the charges that flow are actually electrons, from the negative terminal of the battery to the positive terminal. As a result, the flow of electrons and the direction of conventional current point in opposite direction as shown in Figure 2.3. Mathematically, a transfer of positive charge is the same as a transfer of negative charge in the opposite direction.
 
-same as a transfer of negative charge in the opposite direction.
+![](imageduk.png)
 
 Electric current is not only produced by batteries. In nature, lightning bolt produces enormous electric current in a short time. During lightning, very high potential difference is created between the clouds and ground and hence charges flow between the clouds and ground.
 
@@ -58,9 +61,7 @@ Electric current is not only produced by batteries. In nature, lightning bolt pr
 
 In a conductor the charge carriers are free electrons. These electrons move freely through the conductor and collide repeatedly with the positive ions. If there is no electric field, the electrons move in random directions, and hence their velocities are also randomly oriented. On an average, the number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction. As a result, there is no net flow of electrons in any direction and hence there will not be any current.
 
-Suppose a potential difference is set across the conductor by connecting a battery, an electric field $\vec{E}$ is created in the conductor. This electric field exerts a force on the electrons, producing a current. The
-
-electric field accelerates the electrons, while ions scatter the electrons and change their direction of motion. Thus, we see zigzag motion of electrons. In addition to the zigzag motion due to the collisions, the electrons move slowly along the conductor in a direction opposite to that of $\vec{E}$ as shown in the Figure 2.4.
+Suppose a potential difference is set across the conductor by connecting a battery, an electric field $\vec{E}$ is created in the conductor. This electric field exerts a force on the electrons, producing a current. The electric field accelerates the electrons, while ions scatter the electrons and change their direction of motion. Thus, we see zigzag motion of electrons. In addition to the zigzag motion due to the collisions, the electrons move slowly along the conductor in a direction opposite to that of $\vec{E}$ as shown in the Figure 2.4.
 
 ## Ions
 
@@ -69,9 +70,7 @@ Any material is made up of neutral atoms with equal number of electrons and prot
 ![](b5.png)
 <center>Figure 2.4 Zig-zag motion and drift velocity </center>
 
-This velocity is called drift velocity $\vec{v}_{d}$ . The drift velocity is the average velocity acquired by the electrons inside the conductor when
-
-is subjected to an electric field. The average time between two successive collisions is called the mean free time denoted by $\tau$ . The acceleration $\bar{a}$ experienced by the electron in an electric field $\bar{E}$ is given by
+This velocity is called drift velocity $\vec{v}_{d}$ . The drift velocity is the average velocity acquired by the electrons inside the conductor when is subjected to an electric field. The average time between two successive collisions is called the mean free time denoted by $\tau$ . The acceleration $\bar{a}$ experienced by the electron in an electric field $\bar{E}$ is given by
 
 $$\bar{a} = \frac{-e\bar{E}}{m}\qquad (\mathrm{since}\bar{F} = -e\bar{E}) \quad (2.3)$$
 
@@ -79,15 +78,19 @@ The drift velocity $\bar{\nu}_{d}$ is given by
 
 $$\begin{array}{l}\bar{\nu}_{d} = \bar{a}\tau \\ \bar{\nu}_{d} = -\frac{e\tau}{m}\bar{E} \end{array} \quad (2.4)$$
 
+$$
+\vec{U}_d = -\mu \vec{E} \tag{2.5}
+$$
+
 Here $\mu = \frac{e\tau}{m}$ is the mobility of the electron and it is defined as the magnitude of the drift velocity per unit electric field.
 
 $$\mu = \frac{|\bar{\nu}_{d}|}{|\bar{E}|} \quad (2.6)$$
 
 The SI unit of mobility is $\mathrm{m}^2\mathrm{V}^{- 1}\mathrm{s}^{- 1}$
 
-The typical drift velocity of electrons in the wire is $10^{- 4}\mathrm{ms}^{- 1}$ . If an electron drifts with this speed, then the electrons leaving the battery will take hours to reach the light bulb. Then how electric bulbs glow as soon as we switch on the battery? When battery is switched on, the electrons begin to move away from the negative terminal of the battery and this electron exerts force on the nearby electrons. This process creates a propagating influence (electric field) that travels through the wire at the speed of light. In other words, the energy is transported from the battery to bulb at the speed of light through propagating influence (electric field). Due to this reason, the bulb glows as soon as the battery is switched on.
+## Note
 
-the light bulb. Then how electric bulbs glow as soon as we switch on the battery? When battery is switched on, the electrons begin to move away from the negative terminal of the battery and this electron exerts force on the nearby electrons. This process creates a propagating influence (electric field) that travels through the wire at the speed of light. In other words, the energy is transported from the battery to bulb at the speed of light through propagating influence (electric field). Due to this reason, the bulb glows as soon as the battery is switched on.
+The typical drift velocity of electrons in the wire is $10^{- 4}\mathrm{ms}^{- 1}$ . If an electron drifts with this speed, then the electrons leaving the battery will take hours to reach the light bulb. Then how electric bulbs glow as soon as we switch on the battery? When battery is switched on, the electrons begin to move away from the negative terminal of the battery and this electron exerts force on the nearby electrons. This process creates a propagating influence (electric field) that travels through the wire at the speed of light. In other words, the energy is transported from the battery to bulb at the speed of light through propagating influence (electric field). Due to this reason, the bulb glows as soon as the battery is switched on.
 
 ## EXAMPLE 2.2
 
@@ -193,3 +196,22 @@ Charge of an electron, $\mathrm{e} = 1.6\times 10^{- 19}\mathrm{C}$
 The number of electrons flowing per second, $\mathrm{n} = ?$
 
 $$I = \frac{q}{t} = \frac{ne}{t}$$ $$n = \frac{It}{e}$$ $$n = \frac{32\times 1}{1.6\times 10^{-19}\mathrm{C}}$$ $$n = 20\times 10^{19} = 2\times 10^{20}\mathrm{electrons}$$
+
+
+
+# Note
+
+Why current density is a vector but current is a scalar?
+
+In general, the current \( I \) is defined as the scalar product of the current density and area vector in which the charges cross.
+
+$$
+I = \vec{J} \cdot \vec{A}
+$$
+
+The current \( I \) can be positive or negative depending on the choice of the unit vector normal to the surface area \( A \).
+
+![](note.png)
+
+**Figure 2.6 Current is a scalar**
+

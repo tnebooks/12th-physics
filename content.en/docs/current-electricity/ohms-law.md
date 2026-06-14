@@ -8,17 +8,6 @@ weight: 2
 
 ## OHM'S LAW
 
-Why current density is a vector but current is a scalar? In general, the current I is defined as the scalar product of the current density and area vector in which the charges cross.
-
-defined as the scalar product of the current density and area vector in which the charges cross.
-
-$$I = \vec{J}\cdot \vec{A}$$
-
-The current I can be positive or negative depending on the choice of the unit vector normal to the surface area A.
-
-![]()
-<center>Figure 2.6 Current is a scalar </center>
-
 The ohm's law can be derived from the equation $J = \sigma E$ . Consider a segment of wire of length $l$ and cross sectional area $A$ as shown in Figure 2.7.
 
 ![](b8.png)
@@ -319,6 +308,8 @@ Calculate the equivalent resistance between A and B in the given circuit.
 
 Circuit Diagram
 
+![](b16.png)
+
 ## Solution
 
 In all the sections, the resistors are connected in parallel.
@@ -516,6 +507,8 @@ The resistivity of materials is
 i) inversely proportional to the number density $(n)$ of the electrons ii) inversely proportional to the average time between the collisions $(\tau)$
 
 In metals, if the temperature increases, the average time between the collision $(\tau)$ decreases and $n$ is independent of temperature. In semiconductors when temperature increases, $n$ increases and $\tau$ decreases, but increase in $n$ is dominant than decreasing $\tau$ so that overall resistivity decreases.
+
+## Do You Know
 
 The resistance of certain materials become zero below certain temperature $T_{c}$ . This temperature is known as critical temperature or transition temperature. The materials which exhibit this property are known as superconductors. This phenomenon was first observed by Kammerlingh Onnes in 1911. He found that mercury exhibits superconductor behaviour at 4.2 K. Since $R = 0$ , current once induced in a superconductor persists without any potential difference.
 
