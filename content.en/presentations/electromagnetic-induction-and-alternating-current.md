@@ -8,6 +8,29 @@ summary: "Covers electromagnetic induction, Faraday’s laws, Lenz’s law, alte
 
 # Electromagnetic Induction and Alternating Current
 ### Class 12 – Tamil Nadu State Board
+
+---
+
+## LEARNING OBJECTIVES
+### In this unit, the student is exposed to
+
+- the phenomenon of electromagnetic induction
+- the application of Lenz's law to find the direction of induced emf
+- the concept of Eddy current and its uses
+- the phenomenon of self-induction and mutual-induction
+
+---
+- the various methods of producing induced emfs
+- the construction and working of AC generators
+- the principle of transformers and its role in long distance power communication
+- the notion of root mean square value of alternating current
+
+---
+
+- the idea of phasors and phase relationships in different AC circuits
+- the insight about power in an AC circuit and wattless current
+- the understanding of energy conservation during LC oscillations
+
 ---
 
 ## Core Concept
