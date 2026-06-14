@@ -290,6 +290,8 @@ It provides electrical energy to satellites by means of solar cells. It is used 
 
 Nowadays the microwave oven is very commonly used to heat the food items. Micro waves of wavelengths $1 \mathrm{mm}$ to $30 \mathrm{cm}$ are produced in these ovens. Such waves form the standing waves between the interior walls of the oven. It is interesting to note that the speed of light can be measured using micro wave oven.
 
+![](Activity.png)
+
 We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero and at antinodes point, the amplitude is maximum. In other words, the maximal energy of microwaves is located at antinode points. When we keep some food items like chappathi or chocolate (after removing the rotating platform) inside the oven, we can notice that at antinode locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) and (d). The distance between two successive burnt spots will give the half wavelength of microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength and frequency of microwaves, using the formula $v\lambda = c$ , we can calculate the speed of light c.
 
 
