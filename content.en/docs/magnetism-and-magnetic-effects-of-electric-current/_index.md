@@ -1977,6 +1977,8 @@ Stretch out forefinger, the middle finger and the thumb of the left hand such th
 
 A metallic rod of linear density $0.25 \text{ kg m}^{-1}$ is lying horizontally on a smooth inclined plane which makes an angle of $45^{\circ}$ with the horizontal. The rod is not allowed to slide down by flowing a current through it when a magnetic field of strength 0.25 T is acting on it in the vertical direction. Calculate the electric current flowing in the rod to keep it stationary.
 
+![](fig3.e.24.1.png)
+
 **Solution**
 
 The linear density of the rod i.e., mass per unit length of the rod is $0.25 \text{ kg m}^{-1}$
@@ -1984,6 +1986,8 @@ The linear density of the rod i.e., mass per unit length of the rod is $0.25 \te
 $$ \Rightarrow \frac{m}{l} = 0.25 \text{ kg m}^{-1} $$
 
 Let $I$ be the current flowing in the metallic rod. The direction of electric current is into the plane of the paper. The direction of magnetic force $IBl$ is given by Fleming's left hand rule.
+
+![](fig3.e.24.2.png)
 
 For equilibrium of the rod,
 
