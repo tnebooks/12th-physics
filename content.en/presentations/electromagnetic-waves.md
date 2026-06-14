@@ -10,6 +10,19 @@ summary: "Explains the nature, properties, and applications of electromagnetic w
 ### Class 12 – Tamil Nadu State Board
 ---
 
+## LEARNING OBJECTIVES
+
+# In this unit, the student is exposed to
+
+* the displacement current
+* Maxwell's correction to Ampere's circuital law
+* Maxwell's equation in integral form
+* production and properties of electromagnetic waves - Hertz's experiment
+* sources of electromagnetic waves
+* electromagnetic spectrum
+
+---
+
 ## Core Concept
 This chapter explains how **changing electric and magnetic fields produce waves** that can travel through space.
 

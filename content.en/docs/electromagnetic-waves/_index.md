@@ -11,12 +11,6 @@ summary: "This unit explains the nature and production of electromagnetic waves,
 
 "One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
 
-## LEARNING OBJECTIVES
-
-# In this unit, the student is exposed to
-
-the displacement current Maxwell's correction to Ampere's circuital law Maxwell's equation in integral form production and properties of electromagnetic waves - Hertz's experiment sources of electromagnetic waves electromagnetic spectrum
-
 # 5.1 INTRODUCTION
 
 ![](5.1.png)
