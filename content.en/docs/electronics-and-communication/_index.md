@@ -935,3 +935,913 @@ The possible combinations of inputs and the corresponding output are given in th
 The circuit symbol of a two input AND gate is shown in Figure 10.41(a). \(A\) and \(B\) are inputs and \(Y\) is the output. It is a logic gate and hence \(A,B\) and \(Y\) can have the value of either 1 or 0.
 
 ![](10.41.png)
+
+#### Boolean Equation
+
+\[ Y = A.B \]
+
+This performs logical multiplication and is different from arithmetic multiplication.
+
+#### Logic Operation
+
+The output of AND gate is high (1) only when all inputs are high (1). In other cases, the output is low (0). This is shown in the truth table (Figure 10.41 (b)).
+
+### OR Gate
+
+#### Circuit Symbol
+The circuit symbol of a two-input OR gate is shown in Figure 10.42 (a). A and B are inputs and Y is the output.
+
+**(அ)**
+
+| Inputs | Output |
+|---|---|---|
+| A | B | Y = A + B |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 1 |
+
+**(ஆ)**
+
+**Figure 10.42 (a) Two-input OR Gate (b) Truth Table**
+
+#### Boolean Equation
+
+\[ Y = A + B \]
+
+This performs logical addition and is different from arithmetic addition.
+
+#### Logic Operation
+
+The output of OR gate is high (logic level 1) when any one or both of the inputs are high. The truth table of OR gate is shown in Figure 10.42 (b).
+
+### NOT Gate
+
+#### Circuit Symbol
+The circuit symbol of NOT gate is shown in Figure 10.43 (a). A is the input and Y is the output.
+
+**(அ)**
+
+| Input | Output |
+|---|---|
+| A | Y = \overline{A} |
+| 0 | 1 |
+| 1 | 0 |
+
+**(ஆ)**
+
+**Figure 10.43 (a) NOT Gate (b) Truth Table**
+
+#### Boolean Equation
+
+\[ Y = \overline{A} \]
+
+#### Logic Operation
+
+The output is the complement of the input. This is denoted by an overline. It is also called an inverter. When input A is 0, output Y is 1, i.e., it is inverted. This is shown in the truth table of NOT gate in Figure 10.43 (b).
+
+### NAND Gate
+
+#### Circuit Symbol
+The circuit symbol of NAND gate is shown in Figure 10.44 (a). A and B are inputs and Y is the output.
+
+**(அ)**
+
+| Inputs | Output (AND) | Output (NAND) |
+|---|---|---|---|
+| A | B | Z = A.B | Y = \overline{A.B} |
+| 0 | 0 | 0 | 1 |
+| 0 | 1 | 0 | 1 |
+| 1 | 0 | 0 | 1 |
+| 1 | 1 | 1 | 0 |
+
+**(ஆ)**
+
+**Figure 10.44 (a) Two-input NAND Gate (b) Truth Table**
+
+#### Boolean Equation
+
+\[ Y = \overline{A.B} \]
+
+#### Logic Operation
+
+Output Y is the complement of AND operation. The circuit consists of an AND gate followed by a NOT gate. Hence it is referred to as NAND. Only when all inputs are high, the output is at logic level 0. For other cases, the output is high (logic level 1). The truth table of NAND gate is shown in Figure 10.44 (b).
+
+### NOR Gate
+
+#### Circuit Symbol
+
+**(அ)**
+
+| Inputs | Output (OR) | Output (NOR) |
+|---|---|---|---|
+| A | B | Z = A+B | Y = \overline{A+B} |
+| 0 | 0 | 0 | 1 |
+| 0 | 1 | 1 | 0 |
+| 1 | 0 | 1 | 0 |
+| 1 | 1 | 1 | 0 |
+
+**(ஆ)**
+
+**Figure 10.45 (a) NOR Gate (b) Truth Table**
+
+#### Boolean Equation
+
+\[ Y = \overline{A+B} \]
+
+#### Logic Operation
+
+Output Y is the complement of OR operation (A OR B). The circuit consists of an OR gate followed by a NOT gate. This is referred to as NOR. When all inputs are low, the output is high. For other combinations of inputs, the output is low. The truth table of NOR gate is shown in Figure 10.45 (b).
+
+### EX-OR Gate
+
+#### Circuit Symbol
+
+The circuit symbol of EX-OR gate is shown in Figure 10.46 (a). A and B are inputs and Y is the output. EX-OR operation is denoted by \( \oplus \).
+
+**(அ)**
+
+| Inputs | Output (EX-OR) |
+|---|---|---|
+| A | B | Y = A \oplus B |
+| 0 | 0 | 0 |
+| 0 | 1 | 1 |
+| 1 | 0 | 1 |
+| 1 | 1 | 0 |
+
+**(ஆ)**
+
+**Figure 10.46 (a) EX-OR Gate (b) Truth Table**
+
+#### Boolean Equation
+
+\[ Y = A \oplus B = A.\overline{B} + \overline{A}.B \]
+
+#### Logic Operation
+
+If any one of the two inputs is high, the output is high. For more than two inputs in an EX-OR gate, the output is high when an odd number of inputs are high. The truth table of EX-OR gate is shown in Figure 10.46 (b).
+
+### Example 10.9
+
+In the following circuit, if all three inputs A, B and C are initially 0 and then 1, what is the output Y?
+
+#### Solution
+
+| A | B | C | X = A.B | Y = X.C |
+|---|---|---|---|---|
+| 0 | 0 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 1 | 1 |
+
+### Example 10.10
+
+Write the Boolean equation for output Y for the combination of logic gates given below with inputs A and B.
+
+#### Solution
+
+1st AND gate output: \( A.B \)
+
+2nd AND gate output: \( \overline{A}.\overline{B} \)
+
+OR gate output: \( Y = A.B + \overline{A}.\overline{B} \)
+
+## 10.6 Boolean Algebra
+
+Boolean algebra is basically a choice between two states: (i) true or false (ii) high or low. In Boolean algebra, these two states are represented by binary numbers 0 or 1. This is an ancient concept developed by George Bool in 1854 that connects logic and mathematics. Later, the importance of Boolean algebra was realized in designing computer circuits. Today we are in a digital world and most of the facilities we enjoy are based on Boolean algebra.
+
+### Laws of Boolean Algebra
+
+The NOT, OR and AND operations discussed in section 10.5.2 are Boolean operations. The results of these operations can be summarized as follows.
+
+#### Complement Law
+
+| A | Y = \overline{A} |
+|---|---|
+| 0 | Y = \overline{0} = 1 |
+| 1 | Y = \overline{1} = 0 |
+
+The complement law can also be stated as: \( \overline{\overline{A}} = A \).
+
+#### OR Laws
+
+| A | B | Y = A+B |
+|---|---|---|
+| 0 | 0 | Y = 0+0 = 0 |
+| 0 | 1 | Y = 0+1 = 1 |
+| 1 | 0 | Y = 1+0 = 1 |
+| 1 | 1 | Y = 1+1 = 1 |
+
+The OR laws can be stated as:
+
+| First law | \( A + 0 = A \) |
+|---|---|
+| Second law | \( A + 1 = 1 \) |
+| Third law | \( A + A = A \) |
+| Fourth law | \( A + \overline{A} = 1 \) |
+
+#### AND Laws
+
+| A | B | Y = A.B |
+|---|---|---|
+| 0 | 0 | Y = 0.0 = 0 |
+| 0 | 1 | Y = 0.1 = 0 |
+| 1 | 0 | Y = 1.0 = 0 |
+| 1 | 1 | Y = 1.1 = 1 |
+
+The AND laws can be stated as:
+
+| First law | \( A.0 = 0 \) |
+|---|---|
+| Second law | \( A.1 = A \) |
+| Third law | \( A.A = A \) |
+| Fourth law | \( A.\overline{A} = 0 \) |
+
+Boolean operations follow the following laws.
+
+#### Commutative Laws
+
+\[ A + B = B + A \]
+\[ A.B = B.A \]
+
+#### Associative Laws
+
+\[ A + (B + C) = (A + B) + C \]
+\[ A.(B.C) = (A.B).C \]
+
+#### Distributive Laws
+
+\[ A(B + C) = AB + AC \]
+\[ A + BC = (A + B)(A + C) \]
+
+The above laws are used to simplify complex equations and simplify logic circuits.
+
+## 10.7 De Morgan's Theorems
+
+### 10.7.1 De Morgan's First Theorem
+
+The statement of the first theorem is: The complement of the sum of two logic inputs is equal to the product of their complements.
+
+#### Proof
+
+The Boolean equation for NOR gate is:
+
+\[ Y = \overline{A + B} \]
+
+The Boolean equation for bubbled AND gate is:
+
+\[ Y = \overline{A}.\overline{B} \]
+
+For equivalent inputs, both cases produce the same output. This can be verified using the following truth table.
+
+| A | B | A+B | \overline{A+B} | \overline{A} | \overline{B} | \overline{A}.\overline{B} |
+|---|---|---|---|---|---|---|
+| 0 | 0 | 0 | 1 | 1 | 1 | 1 |
+| 0 | 1 | 1 | 0 | 1 | 0 | 0 |
+| 1 | 0 | 1 | 0 | 0 | 1 | 0 |
+| 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+
+From the above truth table, we can conclude:
+
+\[ \overline{A + B} = \overline{A}.\overline{B} \]
+
+Thus, De Morgan's first theorem is proved. This implies that a NOR gate is equivalent to a bubbled AND gate.
+
+The related logic circuit is shown in Figure 10.47.
+
+**Figure 10.47 NOR gate is equivalent to bubbled AND gate**
+
+### 10.7.2 De Morgan's Second Theorem
+
+The statement of the second theorem is: The complement of the product of two inputs is equal to the sum of their complements.
+
+#### Proof
+
+The Boolean equation for NAND gate is:
+
+\[ Y = \overline{A.B} \]
+
+The Boolean equation for bubbled OR gate is:
+
+\[ Y = \overline{A} + \overline{B} \]
+
+A and B are inputs and Y is the output. For equivalent inputs, both equations produce the same output. This can be verified using the following truth table.
+
+| A | B | A.B | \overline{A.B} | \overline{A} | \overline{B} | \overline{A} + \overline{B} |
+|---|---|---|---|---|---|---|
+| 0 | 0 | 0 | 1 | 1 | 1 | 1 |
+| 0 | 1 | 0 | 1 | 1 | 0 | 1 |
+| 1 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+
+From the above truth table, we can conclude:
+
+\[ \overline{A.B} = \overline{A} + \overline{B} \]
+
+Thus, De Morgan's second theorem is proved. This implies that a NAND gate is equivalent to a bubbled OR gate.
+
+The related logic circuit is shown in Figure 10.48.
+
+**Figure 10.48 NAND gate is equivalent to bubbled OR gate**
+
+### Example 10.11
+
+Prove the following Boolean expression: \( AC + ABC = AC \). Also draw the circuit diagram.
+
+#### Solution
+
+Step 1: \( AC(1 + B) = AC.1 \) (OR law - 2)
+
+Step 2: \( AC.1 = AC \) (AND law - 2)
+
+Therefore, \( AC + ABC = AC \)
+
+Thus, the given Boolean expression is proved.
+
+### 10.7.3 Integrated Chips
+
+An integrated circuit is also referred to as IC or chip or microchip (Figure 10.49). It consists of several thousand to millions of transistors, resistors, capacitors integrated on a small piece of semiconductor like silicon.
+
+Integrated circuits (ICs) are a milestone in modern electronics. Due to technological advancement and the advent of VLSI (Very Large Scale Integration) era, it is possible to create a very large number of transistors on a single integrated chip.
+
+Compared to ordinary circuits, integrated circuits have two main advantages: cost and performance. Due to technological advancement, the size, speed and capacity of chips have been greatly improved. Nowadays, computers, mobile phones and other household digital devices have become smaller and cheaper due to integrated circuits. Integrated circuits can function as amplifiers, oscillators, timing circuits, microprocessors and computer memory.
+
+**Figure 10.49 Circuits with integrated chips**
+
+These tiny integrated circuits perform calculations and store data using digital or analog technology. Digital ICs use logic gates that operate with values of one and zero. A low signal to a digital IC produces value 0, and a high signal produces value 1.
+
+Digital ICs are used in computers, networking equipment and most consumer electronic devices.
+
+Analog ICs or linear ICs operate with continuous values. This means that a component of an analog IC can take any value and produce an output of another value. Linear ICs are used especially in audio and radio frequency amplification.
+
+## 10.8 Communication Systems
+
+### Introduction
+
+Communication is a process of exchanging information by speaking, writing or through any other medium.
+
+Communication has existed since the beginning of life on this world. Scientific and technological development has effectively eliminated geographical limitations. Information can be exchanged from anyone anywhere on this planet to another. Due to research conducted in communication by eminent scientists like J.C. Bose, G. Marconi and Alexander Graham Bell, communication has seen unprecedented growth. The communication industry is vast and also very old as communication started centuries ago through telegram (1844), telephone (1876), and radio (1887).
+
+Intensive research conducted in the mid and late nineteenth century led to the development of short-distance transmission in a short period. However, the twentieth century saw rapid growth in communication to meet the need for speed and secure data transfer. In this section, we will learn the basic concepts of electronic communication, some important communication systems and their applications.
+
+## 10.9 Modulation
+
+For short distances, no complex techniques are required to transmit information. The energy of the information signal is sufficient to transmit directly. However, if information in the audio frequency range (20 to 20,000 Hz) is to be transmitted over long distances around the world, some techniques are required to transmit the information without any loss. For long-distance transmission, the low-frequency baseband signal (input signal) is superimposed on a high-frequency radio signal through a process called modulation.
+
+Therefore, in the modulation process, a high-frequency carrier signal (radio signal) is used to carry the baseband signal. Since the frequency of the carrier signal is very high, it can be transmitted over long distances with less attenuation. Typically, the carrier signal is a sine wave signal.
+
+A sinusoidal carrier wave can be represented as \( e_c = E_c \sin (2\pi \nu_c t + \phi) \), where \( E_c \) is the amplitude, \( \nu_c \) is the frequency, and \( \phi \) is the initial phase of the carrier wave at time t.
+
+The three characteristics of the carrier signal can be modified by the baseband signal during the modulation process: amplitude, frequency, and phase of the carrier signal. Accordingly, we get:
+
+(i) Amplitude Modulation
+
+(ii) Frequency Modulation
+
+(iii) Phase Modulation
+
+### 10.9.1 Amplitude Modulation (AM)
+
+If the amplitude of the carrier signal is varied according to the instantaneous amplitude of the baseband signal, it is called amplitude modulation. Here, the frequency and phase of the carrier signal remain unchanged. Amplitude modulation is used in radio and television broadcasting.
+
+Figure 10.50(a) shows the baseband signal carrying information. Figure 10.50(b) shows the high-frequency carrier signal, and Figure 10.50(c) shows the amplitude modulated signal.
+
+We can see that the amplitude of the carrier wave changes according to the voltage of the baseband signal.
+
+**(அ) Baseband signal**
+
+**(ஆ) Carrier signal**
+
+**(இ) Amplitude modulated signal**
+
+**Figure 10.50 Amplitude Modulation (a) Baseband signal (b) Carrier signal (c) Amplitude modulated signal**
+
+#### Advantages of Amplitude Modulation
+
+i) Easy transmission and reception
+
+ii) Less bandwidth requirement
+
+iii) Low cost
+
+#### Limitations of Amplitude Modulation
+
+i) High noise level
+
+ii) Low efficiency
+
+iii) Less operating range
+
+### 10.9.2 Frequency Modulation (FM)
+
+In frequency modulation, the frequency of the carrier signal changes according to the instantaneous amplitude of the baseband signal. Here, the amplitude and phase of the carrier signal remain unchanged.
+
+The increase in voltage of the baseband signal increases the frequency of the carrier signal and vice versa. As shown in Figure 10.51, this causes compressions and rarefactions in the frequency spectrum of the modulated wave. Loud signals create compressions and weak signals create rarefactions.
+
+When the voltage of the baseband signal is zero (when there is no input signal), there is no change in the frequency of the carrier wave. It is at its normal frequency. This is called the centre or resting frequency. In practice, this is the frequency allocated for FM broadcasting.
+
+**Figure 10.51 Frequency Modulation (a) Baseband signal (b) Carrier signal (c) Frequency modulated signal**
+
+#### Advantages of Frequency Modulation
+
+i) In FM, noise is very low, which increases the signal-to-noise ratio.
+
+ii) Efficiency and range are very high.
+
+iii) Since the entire transmitted power is useful, the transmission efficiency is very high.
+
+iv) FM bandwidth covers the entire audible frequency range. Therefore, FM radio has better quality compared to AM radio.
+
+#### Limitations of Frequency Modulation
+
+i) Frequency modulation requires very wide bandwidth.
+
+ii) FM transmitters and receivers are very complex and expensive.
+
+iii) Compared to AM, the reception range is less in FM.
+
+### 10.9.3 Phase Modulation (PM)
+
+In phase modulation, the instantaneous amplitude of the baseband signal changes the phase of the carrier signal, while the amplitude and frequency of the carrier wave do not change. This modulation is used to generate frequency modulated signals. It is similar to frequency modulation, but instead of changing the frequency of the carrier wave, the phase of the carrier wave is changed.
+
+## 10.10 Elements of Electronic Communication System
+
+Electronics plays a major role in communication. Electronic communication is the transmission of audio, text, images or data through a medium. Long-distance transmission uses space as the medium.
+
+The elements of a basic communication system are explained through the block diagram shown in Figure 10.52.
+
+i) Information (Baseband or Input Signal)
+
+Information can be in the form of speech, music, images or computer data. This information is given as input to the input transducer.
+
+ii) Input Transducer
+
+In a communication system, the transducer converts information in the form of sound, music, images or computer data into corresponding electrical signals. The electrical equivalent of the original information is called the baseband signal. A microphone that converts sound energy into electrical energy is a good example of a transducer.
+
+iii) Transmitter
+
+The transmitter delivers the electrical signal from the transducer to the communication channel. It consists of circuits such as amplifiers, oscillators, modulators and power amplifiers. The transmitter is located at the broadcasting station.
+
+Amplifier: Since the output of the transducer is very weak, it is amplified by an amplifier.
+
+Oscillator: For long-distance transmission in space, it generates high-frequency carrier waves (sine waves). Since the energy of a wave is directly proportional to its frequency, the carrier wave has very high energy.
+
+Modulator: It superimposes the baseband signal on the carrier signal to create the modulated signal.
+
+Power Amplifier: It increases the power level of the electrical signal to travel over long distances.
+
+iv) Transmitting Antenna
+
+It transmits radio signals in all directions in space. It travels at the speed of light in the form of electromagnetic waves.
+
+v) Communication Channel
+
+The communication channel helps to transmit electrical signals from the transmitter to the receiver with less noise or loss. Wired communication uses media such as wires, cables and optical fibres. Wireless communication uses space as the communication medium.
+
+vi) Receiver
+
+The signals transmitted through the communication channel are received by a receiving antenna, which converts the electromagnetic waves into radio frequency signals and delivers them to the receiver.
+
+The receiver consists of electronic circuits such as demodulator and amplifier. The demodulator extracts the baseband signal from the modulated wave. The baseband signal is separated and amplified using amplifiers. Finally, it is delivered to the output transducer.
+
+vii) Repeaters
+
+Repeaters are used to increase the range or distance over which signals are transmitted. This is a combination of transmitter and receiver. Signals are received, amplified and retransmitted to the destination using a carrier signal of a different frequency. A communication satellite in space is a good example.
+
+viii) Output Transducer
+
+It converts the electrical signal back into its original form: sound, music, images or data. Speakers, picture tubes, and computer monitors are examples of output transducers.
+
+**Figure 10.52 Block diagram of voice signal transmission and reception**
+
+### 10.10.1 Basic Definitions in Electronic Communication System
+
+To understand electronic communication systems well, it is necessary to understand the following basic definitions.
+
+#### i) Range
+
+This is the maximum distance between the transmitting end and the place where the signal arrives with sufficient strength.
+
+#### ii) Noise
+
+This is an unwanted electrical signal that interferes with the transmitted signal. Noise reduces the quality of the transmitted signal. It can be man-made (automobiles, combustion engines, electric motors) or natural phenomena (lightning, radiation from the sun and stars, and environmental effects). Noise cannot be completely eliminated. However, it can be reduced using various techniques.
+
+#### iii) Attenuation
+
+Attenuation is the loss of signal strength when it is transmitted through a medium.
+
+#### iv) Bandwidth
+
+The frequency range of baseband signals or information signals such as voice, music, image is called bandwidth. If \( \nu_1 \) and \( \nu_2 \) are the lower and upper frequency limits of a signal, then bandwidth = \( \nu_2 - \nu_1 \).
+
+#### v) Bandwidth of transmission system
+
+The range of frequencies required to transmit a specific information portion in a given circuit is called the channel bandwidth or the bandwidth of the transmission system.
+
+## 10.11 Propagation of Electromagnetic Waves
+
+The electromagnetic waves transmitted by the transmitter travel in three different ways depending on their frequency range:
+
+- Ground wave propagation (or) Surface wave propagation (approximately 2 kHz to 2 MHz)
+- Sky wave propagation (or) Ionospheric propagation (approximately 3 MHz to 30 MHz)
+- Space wave propagation (approximately 30 MHz to 400 GHz)
+
+#### i) Ground wave propagation (or) surface wave propagation
+
+When electromagnetic waves transmitted by the transmitter travel along the earth's surface to reach the receiver, this propagation is called ground wave propagation. The corresponding waves are called ground waves or surface waves. Its illustration is shown in Figure 10.53 (a). Here, both the transmitting and receiving antennas must be close to the earth.
+
+This is mainly used in local broadcasting, radio-assisted maritime navigation, ship-to-ship and ship-to-shore communication, and mobile phone communication.
+
+#### ii) Sky wave propagation (or) ionospheric propagation
+
+Electromagnetic waves transmitted from an antenna at a high angle upwards are reflected back to the earth by the ionosphere. This type of propagation is called sky wave propagation or ionospheric propagation. The corresponding waves are called sky waves (Figure 10.53 (b)).
+
+The ionosphere acts as a reflecting surface. It starts approximately at 50 km and extends up to 400 km above the earth's surface. Due to the absorption of high-energy radiation such as ultraviolet rays from the sun, cosmic rays and \( \alpha, \beta \) rays, the air molecules in the ionosphere are ionized. This creates charged ions, and those ions create a medium that reflects radio waves or communication waves (in the permitted frequency range) back to the earth. The phenomenon of radio waves returning to the earth is total internal reflection.
+
+**Figure 10.53 Propagation of electromagnetic waves (a) Ground wave (b) Sky wave (c) Space wave**
+
+As the angle of incidence in the ionosphere increases, the sky wave reaches the ground area far from the transmitter. As this angle of incidence decreases, the sky wave begins to approach the ground area near the transmitter. As the angle of incidence decreases further, the radio waves penetrate the ionosphere and escape. For a specific angle of incidence, the receiving point (B) is found at a minimum distance from the transmitter. The minimum distance between the transmitter and the point where the sky wave reaches the ground is called the skip distance.
+
+As we move away from the transmitter, the reception of the ground wave begins to decrease. At a certain point (A), there is no reception of the ground wave. A specific zone (between points A and B) where neither ground wave nor sky wave electromagnetic waves are received is called the skip zone or skip region. This is shown in Figure 10.53 (b).
+
+#### iii) Space wave propagation
+
+The process of transmitting and receiving information signals through space is called space wave propagation (Figure 10.53 (c)). Electromagnetic waves with very high frequencies above 30 MHz are called space waves. These waves travel in a straight line from the transmitter to the receiver. Hence, this is used for line-of-sight (LOS) communication.
+
+Television broadcasting, satellite communication and radar communication systems are based on space wave propagation.
+
+The range or distance of propagation (d) depends on the height of the antenna (h). The equation is:
+
+\[ d = \sqrt{2Rh} \qquad (10.9) \]
+
+where R is the radius of the earth. The propagation distance is illustrated in Figure 10.54.
+
+**Figure 10.54 Propagation distance**
+
+### Example 10.12
+
+The height of a transmitting antenna is 40 m and the height of a receiving antenna is 30 m. What is the maximum line-of-sight communication distance between them? The radius of the earth is \( 6.4 \times 10^6 \ \mathrm{m} \).
+
+#### Solution:
+
+The total distance d between the transmitting and receiving antennas is equal to the sum of the individual propagation distances.
+
+## 10.12 Some Important Communication Systems
+
+Various types of communication systems exist in practice according to requirements. Here, some important communication systems are introduced and their applications are briefly discussed.
+
+**Figure 10.55 Satellite communication system**
+
+### 10.12.1 Satellite and Satellite Communication
+
+i) Weather satellite: These are used to monitor the earth's weather and surface temperature. By measuring the mass of clouds, these satellites help us predict rain, dangerous cyclones and storms.
+
+Satellite communication is a type of communication that exchanges signals between transmitter and receiver via satellite. The information signal is transmitted from the ground station to the satellite in space through uplink (frequency band 6 GHz). Then it is received by a device called transponder there and retransmitted to another ground station through downlink (frequency band 4 GHz) (Figure 10.55).
+
+#### Applications
+
+Satellites are divided into various types based on their applications.
+
+ii) Communication satellite: These are used to broadcast television, radio, and internet signals. Several satellites are used to broadcast worldwide television.
+
+iii) Navigation satellite: These engage in locating the geographic position of ships, aircraft or any other object.
+
+### 10.12.2 Fibre Optic Communication
+
+Fibre optic communication is the method of transmitting information through optical fibres from one place to another using light pulses. It operates on the principle of total internal reflection.
+
+**Figure 10.56 Optical fibres**
+
+#### Applications
+
+Optical fibre system has various applications: international communication, intercity communication, data links, factory and traffic control, and military applications.
+
+#### Advantages
+
+i) Optical fibres are very cheap. They are lighter than copper wires.
+
+ii) This system has very high bandwidth, meaning it has high information-carrying capacity.
+
+iii) Optical fibre system is not affected by electrical interference.
+
+iv) Optical fibre is cheaper than copper wires.
+
+#### Disadvantages
+
+i) Optical fibre wires are more fragile compared to copper wires.
+
+ii) Its technology is expensive.
+
+### 10.12.3 Radar and Applications
+
+RADAR is an acronym for RAdio Detection And Ranging. It is one of the important applications of communication systems. It is used to detect distant objects such as vehicles, ships, spacecraft and to know their location. Radar helps us detect the angle, distance and direction of objects that are not visible to our eyes.
+
+Radar uses electromagnetic waves for communication. First, the electromagnetic signal is transmitted in all directions in space through an antenna. The signal that hits a specific target is reflected and retransmitted in all directions. This reflected signal (echo) is received by the radar antenna and delivered to the receiver.
+
+Then it is processed and amplified to determine the geographic statistics of the object. The distance of the targets is determined from the time taken for the signal to go from the radar to the target and return.
+
+#### Applications
+
+Radars are used in many fields:
+
+i) In the military, they are used to locate and detect targets.
+
+ii) They are used in navigation systems such as sea search, air search and missile guidance systems by ship.
+
+iii) Radar is used in weather monitoring to measure rainfall rate and wind speed.
+
+iv) In emergency situations, it helps locate and rescue people.
+
+### 10.12.4 Mobile Communication
+
+Mobile communication helps people in different places to communicate without any connections like wires or cables. It allows transmission over a large area without connection. It allows us to communicate with others from anywhere, not just from a specific place like home or office. It also provides communication facilities to distant places.
+
+**Figure 10.57 Mobile communication**
+
+It provides roaming facility, meaning the user can move from one place to another without communication interruption. The cost of establishing and maintaining this communication network is low.
+
+iv) In education, it is used in modern classrooms with facilities, availability of lesson notes on the internet, and monitoring student activities.
+
+### 10.12.5 Internet
+
+Internet is a technology that is growing with diverse tools in the communication system. It provides new ways to communicate with people. The internet is a worldwide recognized huge computer network that connects millions of people via computers. It has numerous applications in all walks of life.
+
+#### Applications
+
+i) It is used for personal communication and provides high-speed voice and data connection to mobile phones.
+
+ii) News can be broadcast worldwide within seconds.
+
+iii) Through the Internet of Things (IoT), it is possible to control various devices through one device. Example: Using a mobile phone, all household appliances can be operated.
+
+i) Search engine: An internet service that helps to search for information on global websites is called a search engine.
+
+ii) Communication: The internet helps millions of people connect and communicate through e-mail, instant messaging services and social networking sites.
+
+iii) E-commerce: The internet is used for buying and selling goods, availing services and financial transactions through electronic websites.
+
+### Summary
+
+- Based on energy bands in solids, they are classified as conductors, insulators and semiconductors.
+- In n-type semiconductor, electrons are majority carriers and holes are minority carriers.
+- In p-type semiconductor, holes are majority carriers and electrons are minority carriers.
+- The thin region near the junction devoid of charges (free electrons and holes) is called the depletion region.
+- When a PN junction diode is forward biased, the width of the depletion region decreases and it conducts current.
+- When a PN junction diode is reverse biased, it acts as an open switch and does not conduct current. The width of the depletion region increases.
+- A forward biased PN junction diode acts as a rectifier. The process of converting alternating voltage or alternating current into direct voltage or direct current is called rectification.
+- Half wave rectifier rectifies only the half cycle of the input signal and produces pulsating DC output.
+- Full wave rectifier rectifies both half cycles of the input.
+- When a very strong electric field is applied, Zener breakdown occurs in a highly doped PN junction diode.
+- Avalanche breakdown occurs in a lightly doped and very wide depletion region. This occurs when the covalent bond is broken by thermally generated minority carriers.
+- Zener diode is a highly doped pn junction diode that operates in reverse bias.
+- Light Emitting Diode is a forward biased semiconductor device that emits visible or invisible light. When majority carriers recombine with minority carriers entering their region, energy is emitted in the form of photons.
+- A PN junction diode that converts light signals into electrical signals is called a photodiode.
+- When a sufficiently energetic photon strikes the diode, it creates an electron-hole pair. Before these electrons and holes recombine, they are moved across the junction by the electric field created by the reverse bias, thereby producing photocurrent.
+- Solar cell is a device that directly converts light energy into electrical energy. It operates on the principle of photovoltaic effect.
+- Bipolar Junction Transistor (BJT) is a semiconductor device. There are two types: NPN and PNP.
+- A BJT has three configurations: common base, common emitter and common collector.
+- In common base configuration, current gain \( \alpha \) is the ratio of collector current to emitter current.
+- In common emitter configuration, current gain \( \beta \) is the ratio of collector current to base current.
+- A transistor in common emitter configuration acts as a switch.
+- A transistor in common emitter configuration acts as an amplifier. Moreover, there is a \( 180^\circ \) phase difference between the amplified output signal and the input signal.
+- A transistor amplifier with voltage divider and feedback network acts as an oscillator.
+- Logic gates are logic circuits that provide output according to combinations of inputs.
+- According to De Morgan's first theorem, the complement of the sum of logic inputs is equal to the product of their complements.
+- According to De Morgan's second theorem, the complement of the product of inputs is equal to the sum of their complements.
+- The basic elements required to transmit and receive a signal using electromagnetic waves over long distance are: transducer, amplifier, carrier signal, modulator, power amplifier, transmission medium, transmitting and receiving antenna, demodulator, separator.
+- For long distance transmission, the baseband signal is modulated with the carrier wave.
+- If the amplitude of the carrier signal is varied according to the instantaneous amplitude of the baseband signal, it is called amplitude modulation.
+- In frequency modulation, the frequency of the carrier signal changes according to the instantaneous amplitude of the baseband signal.
+- In phase modulation, the instantaneous amplitude of the baseband signal changes the phase of the carrier signal, while the amplitude and frequency of the carrier wave do not change.
+- When electromagnetic waves transmitted by the transmitter travel along the earth's surface to reach the receiver, this propagation is called ground wave propagation.
+- Electromagnetic waves transmitted from an antenna at a high angle upwards are reflected back to the earth by the ionosphere. This type of propagation is called sky wave propagation.
+- The process of transmitting and receiving information signals through space is called space wave propagation.
+- Satellite communication is a type of communication that exchanges signals between transmitter and receiver via satellite.
+- Fibre optic communication is the method of transmitting information through optical fibres from one place to another using light pulses.
+- RADAR is an acronym for RAdio Detection And Ranging. It is one of the important applications of communication systems.
+- Mobile communication helps people in different places to communicate without any connections like wires or cables.
+
+### Concept Map
+
+## Evaluation
+
+### I. Choose the correct answer
+
+1. The voltage barrier of a silicon diode is (approximately)
+
+a) 0.7 V b) 0.3V c) 2.0 V d) 2.2V
+
+2. When a small amount of antimony (Sb) is added to germanium crystal (AIPMT 2011)
+
+a) it becomes p-type semiconductor
+
+b) antimony becomes an acceptor atom
+
+c) there will be more free electrons than holes in the semiconductor
+
+d) its resistance increases
+
+3. In an unbiased p-n junction, the majority charge carriers (i.e., holes) in the p-region diffuse to the n-region because
+
+a) of the voltage difference across the p-n junction
+
+b) of higher hole concentration in p-region than in n-region
+
+c) of attraction of free electrons in n-region
+
+d) all of the above
+
+4. In a half wave rectifier, the rectified voltage is applied to a load resistor, during which part of the input signal variation does the load current flow?
+
+a) \( 0^\circ-90^\circ \) b) \( 90^\circ-180^\circ \) c) \( 0^\circ-180^\circ \) d) \( 0^\circ-360^\circ \)
+
+5. What is the main application of Zener diode?
+
+a) Rectifier b) Amplifier c) Oscillator d) Voltage regulator
+
+6. Solar cell operates on the principle of
+
+a) diffusion b) recombination c) photovoltaic effect d) carrier flow
+
+7. Light is emitted in Light Emitting Diode due to
+
+a) recombination of charge carriers b) light reflection due to operation of lenses c) amplification of light on the junction d) very high current conductivity
+
+8. The voltage barrier in a p-n junction depends on
+
+i) type of semiconductor material
+
+ii) amount of doping
+
+iii) temperature
+
+Which of the following is correct? (NEET)
+
+a) (i) and (ii) b) (ii) only c) (ii) and (iii) d) (i), (ii) and (iii)
+
+9. For continuous oscillations in an oscillator
+
+a) positive feedback must be present
+
+b) feedback gain must be unity
+
+c) phase shift must be zero or \( 2\pi \)
+
+d) all of the above
+
+10. If the input of a NOT gate is A = 1011, then its output is
+
+a) 0100 b) 1000 c) 1100 d) 0011
+
+11. Which of the following represents a forward biased diode? (NEET)
+
+### Answers
+
+1. a 2. c 3. b 4. c 5. d 6. c 7. a 8. d 9. d 10. a 11. a 12. c 13. a 14. b 15. c
+
+### II. Short answer questions
+
+1. Define forbidden energy gap.
+
+2. Why does the temperature coefficient of resistance of a semiconductor have a negative sign?
+
+3. What is meant by doping?
+
+4. Distinguish between intrinsic and extrinsic semiconductors.
+
+5. Why is a diode called a "unidirectional device"?
+
+6. What is meant by leakage current in a diode?
+
+7. Draw the input and output waveforms of a full wave rectifier.
+
+8. Distinguish between avalanche breakdown and Zener breakdown.
+
+9. State the Barkhausen conditions for oscillations.
+
+10. Explain current flow in an NPN transistor.
+
+11. What are logic gates?
+
+12. Explain the need for a feedback circuit in a transistor amplifier.
+
+13. Write a short note on diffusion current across a PN junction.
+
+14. What is biasing? What are its types?
+
+15. Even though a transistor is made of the same type of semiconductor material, why can't the emitter and collector be interchanged?
+
+16. Why are NOR and NAND gates called universal gates?
+
+17. Define voltage barrier.
+
+18. What is rectification?
+
+19. List the applications of Light Emitting Diode.
+
+20. State the principle of solar cells.
+
+21. What are integrated circuits?
+
+22. Define modulation.
+
+23. Define the bandwidth of a transmission system.
+
+24. Define skip distance.
+
+25. State the uses of radar.
+
+26. What is mobile communication?
+
+27. Explain centre frequency or resting frequency in frequency modulation.
+
+28. What does RADAR stand for?
+
+29. Prove that optical fibre communication is better among various types of communication.
+
+### III. Long answer questions
+
+1. Write in detail about the formation of n-type extrinsic semiconductors.
+
+2. Explain the formation of depletion region and voltage barrier in a PN junction diode.
+
+3. Draw the circuit diagram of a half wave rectifier and explain its operation.
+
+4. Explain the construction and working of a full wave rectifier.
+
+5. What is Light Emitting Diode? Explain its working principle with a diagram.
+
+6. Write a note on photodiode.
+
+7. Describe the working principle of a solar cell. Mention its applications.
+
+8. Draw the common emitter transistor characteristics and give the important points of input and output characteristics.
+
+9. Explain how a transistor acts as a switch.
+
+10. Explain how a transistor acts as an amplifier with a clear circuit diagram. Draw the input and output waveforms.
+
+11. For the following logic gates, give the circuit symbol, logic operation, truth table and Boolean equation: i) AND gate ii) OR gate iii) NOT gate iv) NAND gate v) NOR gate vi) EX-OR gate.
+
+12. State and prove De Morgan's first and second theorems.
+
+13. Explain amplitude modulation with necessary diagrams.
+
+14. Describe the basic elements of a communication system with a necessary block diagram.
+
+15. Explain ground wave propagation and space wave propagation of electromagnetic waves through space.
+
+16. List the advantages and disadvantages of frequency modulation.
+
+17. What is satellite communication? What are its applications?
+
+### IV. Numerical problems
+
+1. Calculate the current flowing through the resistor \( R_1 \) in the given circuit with two ideal diodes connected as shown in the figure. [Answer: 2.5 A]
+
+2. In the following figure, four silicon diodes and a 10 \( \Omega \) resistor are connected. If each diode has a resistance of 1 \( \Omega \), calculate the current flowing through the 10 \( \Omega \) resistor. [Answer: 0.13 A]
+
+3. If \( V_{CEsat} = 0.2 \ \mathrm{V} \) and \( \beta = 50 \), calculate the minimum base current (\( I_B \)) required to drive the transistor in the figure to saturation. [Answer: 56 \( \mu A \)]
+
+4. For the BJT in the circuit shown in the figure, current gain \( \beta = 50 \). For an emitter-base voltage difference of \( V_{EB} = 600 \ \mathrm{mV} \), calculate the emitter-collector voltage difference \( V_{EC} \) in volts. [Answer: 2 V]
+
+5. Find the currents flowing through the 3 \( \Omega \) and 4 \( \Omega \) resistors in the following circuit. Assume \( D_1 \) and \( D_2 \) are ideal diodes. [Answer: 0 and 2A]
+
+6. Prove the following Boolean equations using laws and theorems of Boolean algebra.
+
+i) \( (A+B)(A+B) = A \)
+
+ii) \( A(A+B) = AB \)
+
+iii) \( (A+B)(A+C) = A+BC \)
+
+7. Verify the given Boolean equation using truth table: \( A + AB = A + B \).
+
+8. In the following voltage regulator circuit, a Zener diode with breakdown voltage 15 V is used. Find the current through the load resistor, total current, and current through the diode. Assume ideal diode. [Answer: 5mA; 20 mA; 15 mA]
+
+9. For the given circuit, give the Boolean equation for output Y and its truth table. [Answer: \( Y = (AB)+(A+B) \)]
+
+### Internet Activity
+
+**Subject:** Electronics and Communication Systems
+
+**Objective:** Through this activity, students will (i) create logic gates (ii) verify the truth tables of AND, OR, NOT, EX-OR, NAND and NOR gates.
+
+**Title:** Logic Gates
+
+**Procedure:**
+
+- Open the browser and type "circuitverse.org/simulator" in the address bar.
+- From circuit elements, click the 'Gates' tab. Select the gate you want to verify and drag it to the workspace using the mouse.
+- Create the necessary connecting wires for the circuit by dragging the nodes of the logic gate using the mouse.
+- Click the 'input' tab and drag the 'input tool' from there and place it on the two inputs.
+- Click the 'output' tab and drag the 'output tool' or 'digital LED' from there and place it on the output terminal.
+- Change the inputs by clicking the 'input tool'. Verify the truth tables of AND, OR, NOT, EX-OR, NAND and NOR gates. You can also verify De Morgan's two laws if you wish.
+
+**Note:**
+
+If you wish to save the circuits you create online, login using your email address.
+
+**Link:** https://circuitverse.org/simulator
+
+*For practice only.*
+
+*Requires Flash Player or Java Script if necessary.*

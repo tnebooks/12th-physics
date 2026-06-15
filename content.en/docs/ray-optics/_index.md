@@ -41,9 +41,10 @@ $$ i = r \tag{6.1} $$
 
 
 ![](6.1.png)
+**Figure** Reflection of light
 
 
-The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays. If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection.
+The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays. If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection as shown in figure 6.3(b).
 
 ![](6.2(a).png)
 
@@ -148,6 +149,8 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 **Focal plane:** The plane through the focus and perpendicular to the principal axis is called the focal plane of the mirror.
 
+All the above mentioned terms are shown in Figure 6.7 for both concave and convex mirrors.
+
 ![](6.7.png)
 
 #### 6.2.1 Paraxial Rays and Marginal Rays
@@ -181,7 +184,8 @@ $PF$ is focal length $f$ and $PC$ is the radius of curvature $R$.
 
 $$ 2f = R \quad \text{(or)} \quad f = \frac{R}{2} \tag{6.4} $$
 
-Equation (6.4) is the relation between $f$ and $R$.
+Equation (6.4) is the relation between $f$ and $R$.The construction is shown for convex
+mirror in figure 6.9(b)
 
 #### 6.2.3 Image formation in spherical mirrors
 
@@ -454,9 +458,10 @@ $$ v = \frac{3 \times 10^8}{1.33} = 2.26 \times 10^8 \, \text{m s}^{-1} $$
 
 Light travels with a speed of $2.26 \times 10^8 \, \text{m s}^{-1}$ through pure water.
 
-Refractive index does not have a unit. The smallest value of refractive index is for vacuum, which is 1. For any other medium refractive index is greater than 1. Refractive index is also called as optical density of the medium. Higher the refractive index of a medium, lesser is the speed of light through it and vice-versa. (Note: optical density should not be confused with mass density of the material of the medium. They two are different entities.)
+Refractive index does not have a unit. The smallest value of refractive index is for vacuum, which is 1. For any other medium refractive index is greater than 1. Refractive index is also called as optical density of the medium. Higher the refractive index of a medium, lesser is the speed of light through it and vice-versa. (Note: optical density should not be confused with mass density of the material of the medium. They two are different entities).The Table 6.2 shows the refractive indices of different transparent media.
 
 ![](Table-6.2.png)
+![](6ch.png)
 
 #### 6.3.4 Optical path
 
@@ -548,6 +553,8 @@ $$ d = r - i \tag{6.21} $$
 In any refracting surface there will also be some reflection taking place. Thus, the intensity of refracted light will be lesser than the incident light. The phenomenon in which a part of light from a source undergoing reflection and the other part of light from the same source undergoing refraction at the same surface is called simultaneous reflection (or) simultaneous refraction. Such surfaces are available as partially silvered glasses.
 
 ![](6.18.png)
+
+![](doyouknow.png)
 
 #### 6.4.3 Principle of reversibility
 
@@ -646,6 +653,8 @@ $$ d - d' = d \left(1 - \frac{1}{n}\right) \tag{6.28} $$
 **Atmospheric refraction:** Due to refraction of light through different layers of atmosphere which vary in refractive index, the path of light deviates continuously when it passes through the atmosphere. For example, the Sun is visible a little before the actual sunrise and also until a little after the actual sunset due to refraction of light through the atmosphere. What we mean by actual sunrise is the actual crossing of the sun at the horizon. The apparent shift in the direction of the sun is around half a degree and the corresponding time difference between the actual and apparent positions is about 2 minutes. Sun appears flattened (oval shaped) during sunrise and sunset due to the same phenomenon.
 
 The same is also applicable for the positions of stars. Actually, the stars do not twinkle. They appear twinkling because of the movement of the atmospheric layers with varying refractive indices which is clearly seen in the night sky.
+
+![](doyouknow1.png)
 
 #### EXAMPLE 6.8
 
@@ -1057,6 +1066,8 @@ u = -10 \, \text{cm}, \quad R = 15 \, \text{cm}
 
 [a virtual image is formed 60 cm, to the left of the surface]
 
+![](6ch2.png)
+
 ---
 
 Case ii)
@@ -1080,6 +1091,8 @@ u = -30 \, \text{cm}, \quad R = 15 \, \text{cm}
 \]
 
 [a real image is formed 60 cm, to the right of the surface]
+
+![](6ch3.png)
 
 ---
 
@@ -1685,6 +1698,8 @@ But when white light enters a medium, red light travels with the highest speed a
 Consider a beam of white light passing through a prism. It gets dispersed into its constituent colours. If the angle of the prism is small (of the order of $10^\circ$), the prism is said to be a **small angle prism**. When rays of light pass through such prisms, the angle of minimum deviation also becomes small. Let $A$ be the angle of a small angle prism and $\delta$ be its angle of minimum deviation. Then equation (6.89) becomes:
 
 ![](6.44.png)
+
+![](doyouknow2.png)
 
 \[
 n = \frac{\sin\left(\frac{A + \delta}{2}\right)}{\sin\left(\frac{A}{2}\right)} \tag{6.90}

@@ -609,6 +609,8 @@ The least distance from the central fringe, \(y = n \frac{\lambda_1 D}{d}\)
 
 Substituting, \(y = 3 \times \frac{560 \times 10^{-9} \times 1}{3 \times 10^{-3}} = 560 \times 10^{-6} \mathrm{m} = 0.560 \mathrm{mm}\)
 
+![](doyouknow.png)
+
 ## 7.3.6 Interference in thin films
 
 Let us consider a thin film of transparent material of refractive index µ (here refractive index is not represented as n, not to confuse with order of fringe n) and thickness d. A parallel beam of light is incident on the film at an angle i as shown in Figure 7.16. The wave is divided into two parts at the point of incidence, as reflected and refracted lights. The refracted part, which enters into the film, again gets divided at he lower surface into two parts; one is transmitted out of the film and the other is reflected back into the film. The reflected as well as refracted parts are further formed as multiple reflections take place inside the film. The interference occurs in both the reflected and transmitted light.
@@ -803,6 +805,8 @@ Note: The above calculation shows that the diffraction pattern produced by a sin
 ## EXAMPLE 7.10
 
 **Problem:** A monochromatic light of wavelength $5000 \text{ Å}$ passes through a single slit producing diffraction pattern for the central maximum as shown in the figure. Determine the width of the slit.
+
+![](2.png)
 
 **Given:**
 - Wavelength, $\lambda = 5000 \text{ Å} = 5000 \times 10^{-10} \text{ m} = 5 \times 10^{-7} \text{ m}$
@@ -1268,7 +1272,7 @@ This is the magnification for near point focusing.
 
 The eye is most relaxed when the image is formed at infinity. The focusing is called normal focusing when the image is formed at infinity. This is shown in Figure 7.37(b). To find the magnification \(m\), if we take the ratio of the height of image to the height of object \(\left(m = \frac{h'}{h}\right)\), we will not get a meaningful equation, as the image is of infinite size and it is also formed at infinity. Hence, we can practically use the angular magnification. The angular magnification is defined as the ratio of angle \(\theta_{i}\) subtended by the image with aided eye to the angle \(\theta_{0}\) subtended by the object with unaided eye.
 
-[](7.37.png)
+![](3.png)
 
 For unaided eye shown in Figure 7.37(a),
 
@@ -1458,35 +1462,6 @@ Substituting, \(\theta_{i} = 62.5 \times 1' = 62.5' = \frac{62.5}{60} = 1.04^{\c
 A terrestrial telescope is used to see objects at a long distance on the surface of earth. Hence, image should be erect. Hence, it has an additional erecting lens to make the final image erect as shown in Figure 7.41.
 
 ![](7.41.png)
-
-### 7.6.5 Resolving power of optical instruments
-
-The resolving power of an optical instrument is defined as the reciprocal of the angular resolution. It is the ability of the instrument to distinguish two closely spaced point objects as separate entities. For a telescope, the resolving power $R$ is given by,
-
-\[R = \frac{1}{\theta} = \frac{a}{1.22\lambda} \quad (7.65)\]
-
-where, $a$ is the diameter of the objective lens and $\lambda$ is the wavelength of light used.
-
-For a microscope, the resolving power $R$ is given by,
-
-\[R = \frac{2\mu \sin \theta}{\lambda} \quad (7.66)\]
-
-where, $\mu$ is the refractive index of the medium between the object and the objective, $\theta$ is the half-angle of the cone of light entering the objective and $\lambda$ is the wavelength of light used.
-
-![](7.38.png)
-
-## EXAMPLE 7.21
-
-Calculate the resolving power of a telescope whose objective has a diameter of 2.5 m. The wavelength of light used is 589 nm.
-
-## Solution
-
-$a = 2.5 \text{m}$, $\lambda = 589 \text{nm} = 589 \times 10^{-9} \text{m}$
-
-Resolving power, $R = \frac{a}{1.22\lambda}$
-
-Substituting, $R = \frac{2.5}{1.22 \times 589 \times 10^{-9}} = \frac{2.5}{7.1858 \times 10^{-7}} = 3.48 \times 10^{6}$
-
 
 ### 7.6.5 Reflecting telescope
 
@@ -1749,7 +1724,8 @@ $$P = \frac{1}{0.375\mathrm{m}} = 2.67\mathrm{D}$$
 7. A ray of light strikes a glass plate at an angle \(60^{\circ}\). If the reflected and refracted rays are perpendicular to each other, the refractive index of the glass is
    (a) \(\sqrt{3}\) (b) \(\frac{3}{2}\) (c) \(\sqrt{\frac{3}{2}}\) (d) 2
 
-8. One of the slits of Young's double slit is covered with a glass plate. The position of central maximum will
+8. One of the slits of Young's double slit is covered with a glass plate. The position of central maximum will,
+![](4.png)
    (a) get shifted downwards (b) get shifted upwards (c) will remain the same (d) data insufficient to conclude
 
 9. Light transmitted by Nicol prism is
