@@ -129,12 +129,10 @@ Rearranging equation (9.7) as
 $$\frac{e}{m} = \frac{2yE}{Cl^{2}B^{2}} \quad (9.8)$$
 
 Substituting the values on RHS, the value of specific charge is calculated as $\frac{e}{m} = 1.7 \times 10^{11} \mathrm{Ckg}^{- 1}$.
-
+![](image.png)
 #### 9.2.2 Determination of charge of an electron - Millikan's oil drop experiment
 
 Millikan's oil drop experiment is another important experiment in modern physics which is used to determine one of the fundamental constants of nature known as charge of an electron (Figure 9.6 (a)).
-
-of nature known as charge of an electron (Figure 9.6 (a)).
 
 By adjusting electric field suitably, the motion of oil drop inside the chamber can be controlled - that is, it can be made to move up or down or even kept balanced in the field of view for sufficiently long time.
 
@@ -411,6 +409,8 @@ Note that the velocity of electron decreases as the principal quantum number (or
 
 ![](9.19.png)
 
+**The energy of an electron in the nth orbit**
+
 Since the electrostatic force is a conservative force, the potential energy for the $n^{\mathrm{th}}$ orbit is
 
 $$U_{n} = \frac{1}{4\pi\epsilon_{0}}\frac{(+Ze)(-e)}{r_{n}} = -\frac{1}{4\pi\epsilon_{0}}\frac{Ze^{2}}{r_{n}}$$ $$\qquad = -\frac{1}{4\epsilon_{0}^{2}}\frac{Z^{2}me^{4}}{h^{2}n^{2}}\left(\because r_{n} = \frac{\epsilon_{0}h^{2}}{\pi m e^{2}}\frac{n^{2}}{Z}\right)$$
@@ -520,16 +520,6 @@ On calculating wavelength or wave number difference between the faint and bright
 
 The difference between hydrogen atom and deuterium is in the number of neutron. Hydrogen atom contains an electron and a proton, whereas deuterium has an electron, a proton and a neutron.
 
-# Unit 9: ATOMIC AND NUCLEAR PHYSICS (Continued)
-
-In 1931, H.C. Urey and co-workers noticed that in the shorter wavelength region of the hydrogen spectrum lines, faint companion lines are observed. From the isotope displacement effect (isotope shift), the isotope of the same element can produce slightly different spectral lines. The presence of these faint lines confirmed the existence of isotopes of hydrogen atom (which is named as Deuterium).
-
-On calculating wavelength or wave number difference between the faint and bright spectral lines, atomic mass of deuterium is measured to be twice that of atomic mass of hydrogen atom. Bohr atom model could not explain this isotopic shift. Thus by considering nuclear motion (although the movement of the nucleus is much smaller) into account in the Bohr atom model, the wave number or wavelength difference between the lines produced by the hydrogen atom and deuterium is theoretically calculated which perfectly agreed with the spectroscopic measured values.
-
-The difference between hydrogen atom and deuterium is in the number of neutron. Hydrogen atom contains an electron and a proton, whereas deuterium has an electron, a proton and a neutron.
-
-> **Note**
-
 ### Excitation energy and excitation potential
 
 The energy required to excite an electron from lower energy state to any higher energy state is known as excitation energy.
@@ -635,7 +625,7 @@ $$
 For \( n = 1 \), the ground state energy \( E_1 = -54.4 \ \text{eV} \) and for \( n = 2 \), \( E_2 = -13.6 \ \text{eV} \). Similarly, \( E_3 = -6.04 \ \text{eV} \), \( E_4 = -3.4 \ \text{eV} \) and so on.
 
 For large value of principal quantum number - that is, \( n = \infty \), we get \( E_{\infty} = 0 \ \text{eV} \).
-
+![](image-2.png)
 (b) For a hydrogen-like atom, ground state energy is
 
 $$
@@ -741,11 +731,11 @@ This implies that these spectra are unique to each element and can be used to id
 When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic radiations of certain sharply-defined characteristic wavelength (line spectrum), called hydrogen emission spectrum (Refer unit 5, volume 1 of +2 physics text book). The emission spectrum of hydrogen is shown in Figure 9.22(a).
 
 When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by allowing light to fall on the atoms, electrons can be excited. Once the electrons get sufficient energy as given by Bohr's postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state. The wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
-
+![](image-3.png)
 Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately \( 10^{-8} \ \text{s} \)) by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
 
 The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
-
+![](image-5.png)
 Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculated using equation derived from Bohr atom model.
 
 $$
@@ -841,15 +831,15 @@ Since the nucleus is made up of positively charged protons and electrically neut
 
 #### Isotopes:
 
-In nature, there are atoms of a particular element whose nuclei have same number of protons but different number of neutrons. These kinds of atoms are called isotopes. In other words, isotopes are atoms of the same element having same atomic number \( Z \), but different mass number \( A \). For example, hydrogen has three isotopes and they are represented as \( ^{1}H \) (hydrogen), \( ^{2}H \) (deuterium), and \( ^{3}H \) (tritium). Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
+In nature, there are atoms of a particular element whose nuclei have same number of protons but different number of neutrons. These kinds of atoms are called isotopes. In other words, isotopes are atoms of the same element having same atomic number \( Z \), but different mass number \( A \). For example, hydrogen has three isotopes and they are represented as \( ^{1}_{1}H \) (hydrogen), \( ^{2}_{1}H \) (deuterium), and \( ^{3}_{1}H \) (tritium). Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
 
-The number of isotopes for the particular element and their relative abundances (percentage) vary with each element. For example, carbon has four main isotopes: \( ^{11}C \), \( ^{12}C \), \( ^{13}C \) and \( ^{14}C \). But in nature, the percentage of \( ^{12}C \) is approximately \( 98.9\% \), that of \( ^{13}C \) is \( 1.1\% \) and that of \( ^{14}C \) is \( 0.0001\% \). The other carbon isotope \( ^{11}C \), does not occur naturally and it can be produced only in nuclear reactions in the laboratory or by cosmic rays.
+The number of isotopes for the particular element and their relative abundances (percentage) vary with each element. For example, carbon has four main isotopes: \( ^{11}_{6}C \), \( ^{12}_{6}C \), \( ^{13}_{6}C \) and \( ^{14}_{6}C \). But in nature, the percentage of \( ^{12}_{6}C \) is approximately \( 98.9\% \), that of \( ^{13}_{6}C \) is \( 1.1\% \) and that of \( ^{14}_{6}C \) is \( 0.0001\% \). The other carbon isotope \( ^{11}_{6}C \), does not occur naturally and it can be produced only in nuclear reactions in the laboratory or by cosmic rays.
 
 Since the chemical properties of any atom are determined only by electrons, the isotopes of any element have same electronic structure and same chemical properties. So the isotopes of the same element are placed in the same location in the periodic table.
 
 #### Isobars:
 
-Isobars are the atoms of different elements having the same mass number \( A \), but different atomic number \( Z \). In other words, isobars are the atoms of different chemical elements which have same number of nucleons. For example \( ^{40}S \), \( ^{40}Cl \), \( ^{40}Ar \), \( ^{40}K \) and \( ^{40}Ca \) are isobars having same mass number 40 but different atomic numbers. Unlike isotopes, isobars are chemically different elements. They have different physical and chemical properties.
+Isobars are the atoms of different elements having the same mass number \( A \), but different atomic number \( Z \). In other words, isobars are the atoms of different chemical elements which have same number of nucleons. For example \( ^{40}_{16}S \), \( ^{40}_{17}Cl \), \( ^{40}_{18}Ar \), \( ^{40}_{19}K \) and \( ^{40}_{20}Ca \) are isobars having same mass number 40 but different atomic numbers. Unlike isotopes, isobars are chemically different elements. They have different physical and chemical properties.
 
 #### Isotones:
 
@@ -984,7 +974,7 @@ Finally, the binding energy in terms of the atomic masses is given by
 $$
 BE = [Z m_H + N m_n - M_A] c^{2} \quad (9.24)
 $$
-
+> Using Einstein’s mass-energy equivalence, the energy equivalent of one atomic mass unit 1u=1.66x10^-27 X (3x10^8)^2=14.94x10^-11 J = 931MeV
 ## EXAMPLE 9.9
 
 Compute the binding energy of \( ^{4}_{2}He \) nucleus using the following data: Atomic mass of Helium atom, \( M_A(He) = 4.00260u \) and that of hydrogen atom, \( m_H = 1.00785u \).
@@ -1022,7 +1012,7 @@ $$
 $$
 
 The average binding energy per nucleon is the average energy required to separate single nucleon from the particular nucleus. When \( \overline{BE} \) is plotted against A of all known nuclei, we get \( \overline{BE} \) average curve as shown in Figure 9.24.
-
+![](image-6.png)
 #### Important inferences from the average binding energy curve:
 
 (1) The value of \( \overline{BE} \) rises as the mass number increases until it reaches a maximum value of \( 8.8 \ \text{MeV} \) for \( A = 56 \) (iron) and then it slowly decreases.
@@ -1067,6 +1057,7 @@ From this observation, it was concluded that there must be a strong attractive f
 
 (ii) The nuclear force is attractive and acts with an equal strength between proton-proton, proton-neutron, and neutron-neutron.
 
+(iii) Nuclear force does not act on the electrons. So it does not alter the chemical properties of the atom.
 ## 9.6 RADIOACTIVITY
 
 In the binding energy curve, the stability of the nucleus that has \( Z > 82 \) starts to decrease and these nuclei are fairly unstable nuclei. Some of the unstable nuclei decay naturally by emitting certain particles to form a stable nucleus. The elements with atomic number \( Z > 82 \) and isotopes of lighter nuclei belong to the category of naturally-occurring radioactive nuclei. Each of these radioactive nuclei decays to another nucleus by the emission of \( ^{4}_{2}He \) nucleus \( (\alpha \text{-decay}) \) or electron or positron \( (\beta \text{-decay}) \) or gamma rays \( (\gamma \text{-decay}) \)
@@ -1076,7 +1067,7 @@ The phenomenon of spontaneous emission of highly penetrating radiations such as 
 Radioisotopes have a variety of applications such as carbon dating, cancer treatment, etc. When a radioactive nucleus undergoes decay, the mass of the system decreases - that is, the mass of the initial nucleus before decay is always greater than the sum of the masses of the final nucleus and the emitted particle. This difference in mass \( \Delta m \) appears as the energy according to Einstein's relation \( E = |\Delta m| c^{2} \).
 
 The phenomenon of radioactivity was first discovered by Henri Becquerel in 1896. Later, Marie Curie and her husband Pierre Curie did a series of experiments in detail to understand the phenomenon of radioactivity. In India, Saha Institute of Nuclear Physics (SINP), Kolkata is the premier institute pursuing active research in nuclear physics.
-
+>During early days of nuclear physics research,the term ‘radiation’ was used to denote the emanations from radioactive nuclei.Now we know that α rays are in fact $$_{4}^{2}He$$ nuclei and β rays are electrons or positrons. Certainly, they are not electromagnetic radiation. The γ ray alone is electromagnetic radiation.
 ### 9.6.1 Alpha decay
 
 When an unstable nucleus decays by emitting an \( \alpha \)-particle \( (^{4}_{2}He \ \text{nucleus}) \), it loses two protons and two neutrons. As a result, its atomic number \( Z \) decreases by 2 and the mass number decreases by 4. We write the alpha decay process symbolically in the following way
@@ -1101,7 +1092,7 @@ $$
 
 Note that for spontaneous decay (natural radioactivity) \( Q > 0 \). In alpha decay process, the disintegration energy is certainly positive \( (Q > 0) \). In fact, the disintegration energy \( Q \) is also the net kinetic energy gained in the decay process or if the parent nucleus is at rest, \( Q \) is the total kinetic energy of daughter nucleus and the \( ^{4}He \) nucleus. Suppose \( Q < 0 \), then the decay process cannot occur spontaneously and energy must be supplied to induce the decay.
 
-In alpha decay, why does the unstable nucleus emit \( ^{4}He \) nucleus? Why does it not emit four separate nucleons? After all \( ^{4}He \) consists of two protons and two neutrons. For example, if \( ^{238}U \) nucleus decays into \( ^{234}Th \) by emitting four separate nucleons (two protons and two neutrons), then the disintegration energy \( Q \) for this process turns out to be negative. It implies that the total mass of products is greater than that of parent \( (^{238}U) \) nucleus. This kind of process cannot occur in nature because it would violate conservation of energy. In any decay process, the conservation of energy, laws of linear momentum and laws of angular momentum must be obeyed.
+>In alpha decay, why does the unstable nucleus emit \( ^{4}He \) nucleus? Why does it not emit four separate nucleons? After all \( ^{4}He \) consists of two protons and two neutrons. For example, if \( ^{238}U \) nucleus decays into \( ^{234}Th \) by emitting four separate nucleons (two protons and two neutrons), then the disintegration energy \( Q \) for this process turns out to be negative. It implies that the total mass of products is greater than that of parent \( (^{238}U) \) nucleus. This kind of process cannot occur in nature because it would violate conservation of energy. In any decay process, the conservation of energy, laws of linear momentum and laws of angular momentum must be obeyed.
 
 ## EXAMPLE 9.11
 
@@ -1275,7 +1266,7 @@ $$
 $$
 ^{12}_{6}C^{*} \rightarrow ^{12}_{6}C + \gamma
 $$
-
+![](image-7.png)
 ### 9.6.4 Law of radioactive decay
 
 In the previous section, the decay process of a single radioactive nucleus was discussed. In practice, we have bulk material of radioactive sample which contains a vast number of the radioactive nuclei and not all the radioactive nucleus in a sample decay at the same time. It decays over a period of time and this decay is basically a random process. It implies that we cannot predict which nucleus is going to decay; rather we can determine on a probabilistic basis (like tossing a coin). We can calculate approximately how many nuclei in a sample are decayed over a period of time.

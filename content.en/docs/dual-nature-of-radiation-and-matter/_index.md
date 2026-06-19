@@ -779,7 +779,7 @@ $$
 $$
 
 Since $m_e < m_p$, $K_p < K_e$; the electron has more kinetic energy than the proton.
-
+![](image.png)
 Since $m_e < m_p$, $v_p < v_e$; the electron moves faster than the proton.
 
 ## 8.4 X-RAYS

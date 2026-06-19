@@ -129,7 +129,7 @@ Does the height depend on the distance between the person and the mirror?
 
 We shall now study about the reflections that take place in spherical surfaces.
 
-A spherical surface is a part cut from a hollow sphere. Spherical mirrors are generally constructed using glass. One surface of the glass is silvered. The reflection takes place at the other surface which is polished. If the polished surface of the mirror is concave it is called a concave mirror. If the polished surface of the mirror is convex it is called a convex mirror.
+A spherical surface is a part cut from a hollow sphere. Spherical mirrors are generally constructed using glass. One surface of the glass is silvered. The reflection takes place at the other surface which is polished. If the polished surface of the mirror is convex it is called a convex mirror.
 
 We shall get familiarised with some of the terminologies pertaining to spherical mirrors.
 
@@ -320,7 +320,7 @@ Using mirror equation, we can further write the magnification as,
 \[
 m = \frac{h'}{h} = \frac{f - v}{f} = \frac{f}{f - u} \tag{6.11}
 \] 
-
+![](image.png)
 #### EXAMPLE 6.3
 
 An object is placed at a distance of $20.0 \, \text{cm}$ from a concave mirror of focal length $15.0 \, \text{cm}$.
@@ -330,7 +330,7 @@ An object is placed at a distance of $20.0 \, \text{cm}$ from a concave mirror o
 
 **Solution**
 
-Given, $f = -15 \, \text{cm}$, $u = -20 \, \text{cm}$
+Given, $f = -15 \, \text{cm}$, $u = -20 \ \text{cm}$
 
 (a) Mirror equation, $\frac{1}{v} + \frac{1}{u} = \frac{1}{f}$
 
@@ -344,7 +344,7 @@ $$ \frac{1}{v} = \frac{1}{-15} - \frac{1}{-20} $$
 
 $$ \frac{1}{v} = \frac{-20 - (-15)}{300} = \frac{-5}{300} = \frac{-1}{60} $$
 
-$$ v = -60 \, \text{cm} $$
+$$ v = -60.0 \, \text{cm} $$
 
 The screen is to be placed at distance $60.0 \, \text{cm}$ to the left of the concave mirror.
 
@@ -433,7 +433,7 @@ After rearranging:
 $$ v = \frac{2d N \omega}{\pi} \tag{6.15} $$
 
 Fizeau had some difficulty to visually estimate the minimum intensity of the light when it is blocked by the adjacent tooth. The value of speed of light determined by him was very close to the actual value. Later on, with the same idea of Fizeau and with much sophisticated instruments, the speed of light in air was determined as $v = 2.99792 \times 10^8 \, \text{m s}^{-1}$.
-
+![](image-1.png)
 #### 6.3.2 Speed of light through vacuum and different media
 
 Scientists like Foucault (1819-1868) and Michelson (1852-1931) introduced different transparent media like glass, water etc., in the path of light to find the speed of light in different media. Even evacuated glass tubes were also introduced in the path of light to find the speed of light in vacuum. It was found that light travels with lesser speed in any medium than its speed in vacuum. The speed of light in vacuum was determined as $c = 3 \times 10^8 \, \text{m s}^{-1}$. We could notice that the speed of light in vacuum and speed of light in air are almost same.
@@ -442,8 +442,8 @@ Scientists like Foucault (1819-1868) and Michelson (1852-1931) introduced differ
 
 Refractive index of a transparent medium is defined as the ratio of speed of light in vacuum $c$ to the speed of light in that medium $v$.
 
-$$ \text{refractive index } n \text{ of a medium} = \frac{\text{speed of light in vacuum } (c)}{\text{speed of light in medium } (v)} \tag{6.16} $$
-
+$$ \text{refractive index } n \text{ of a medium} = \frac{\text{speed of light in vacuum } (c)}{\text{speed of light in medium } (v)} $$
+$$ n = \frac{c}{v}  \tag{6.16}$$
 Refractive index of a transparent medium gives an idea about the speed of light in that medium.
 
 #### EXAMPLE 6.5
@@ -533,7 +533,7 @@ $$ n_1 \sin i = n_2 \sin r \tag{6.19} $$
 The law of refraction is also known as **Snell's law**.
 
 ![](6.15.png)
-
+![](image-2.png)
 #### 6.4.1 Angle of deviation due to refraction
 
 The angle between the direction of incident ray and the refracted ray is called angle of deviation due to refraction. When light travels from rarer to denser medium, it deviates towards normal. The angle of deviation in this case is:
@@ -893,7 +893,7 @@ $$ i_a = 60^\circ $$
 
 If there is no cladding then $n_2 = 1$:
 
-$$ i_a = \sin^{-1}\left(\sqrt{n_1^2 - 1}\right) $$
+Acceptance angle, $$ i_a = \sin^{-1}\left(\sqrt{n_1^2 - 1}\right) $$
 
 $$ i_a = \sin^{-1}\left(\sqrt{(1.68)^2 - 1}\right) = \sin^{-1}(1.35) $$
 
@@ -908,7 +908,7 @@ Here, as per mathematical rule, $(n_1^2 - 1) \leq 1$ or $n_1^2 \leq 2$
 $$ \text{or} \qquad n_1 \leq \sqrt{2} $$
 
 Hence, in air (no cladding) the refractive index $n_1$ of the core should be $n_1 \leq 1.414$.
-
+![](image-3.png)
 #### 6.4.8 Refraction in glass slab
 
 When a ray of light enters a slab it travels from rarer medium (air) to denser medium (glass). This results in deviation of the ray towards the normal. When the light ray leaves the slab it travels from denser medium (glass) to rarer medium (air) resulting in deviation of the ray away from the normal. After the two refractions, the light ray emerges in the same direction as that of the incident ray on the glass slab with a **lateral displacement** (or shift) $L$, i.e., there is no change in the direction of the ray but the path of the incident ray and refracted ray are parallel to each other with a shift $L$.
@@ -980,7 +980,7 @@ Snell's law in product form for the refraction at the point $N$ can be written f
 
 $$ n_1 \sin i = n_2 \sin r $$
 
-As the angles are small, the sines of angles could be approximated to the angles themselves:
+As the angles are small, the sines of angles could be approximated to the angles itself:
 
 $$ n_1 i = n_2 r \tag{6.51} $$
 
@@ -1035,7 +1035,7 @@ Equation (6.56) gives the relation among the object distance $u$, image distance
 If the first medium is air, then $n_1 = 1$ and for the second medium $n_2 = n$, then the equation reduces to:
 
 $$ \frac{n}{v} - \frac{1}{u} = \frac{n - 1}{R} \tag{6.57} $$
-
+![alt text](image-4.png)
 # EXAMPLE 6.12
 
 Find the position of the image of a point object O in the two cases given. Take the radius of curvature of the surface R as 15 cm, \( n_1 = 1 \) and \( n_2 = 2 \).  
@@ -1098,11 +1098,13 @@ u = -30 \, \text{cm}, \quad R = 15 \, \text{cm}
 
 ### 6.6 THIN LENSES
 
-A lens is a transparent medium bounded by two refracting surfaces such that at least one of them is curved (spherical). If the two surfaces have the same radius of curvature, the lens is called **equi-convex** or **equi-concave**. If the two surfaces have different radii of curvature, we call them **convexo-concave** or **concavo-convex** depending upon the nature of the surfaces.
+A lens is formed by a transparent materialbounded between two sphericalsurfaces (or)one plane and another spherical surface. In a
+thin lens, the distance between the surfaces is very small. For two spherical surfaces, therewill be two centres of curvature C1 and C2 and correspondingly two radii of curvature R1 and R2.For a plane surface, the centre of curvature C is at infinity and its radius of curvature R is infinity (R = ∞). The terminologies of
+spherical mirrors hold good very much for thin lenses except for the focal length.
 
-#### 6.6.1 Focal points of thin lenses
+#### 6.6.1 Primary and secondary focus
 
-The points $F_1$ and $F_2$ are the two focal points of a lens. As the media on the two sides of a lens may not be the same, the focal lengths on either side of the lens may be different. Hence, we have two focal lengths.
+As the thin lens is formed by two surfaces, the lens may separate two different media. i.e. the media to the left and right of the lens may be different. Hence, we have two focal lengths.
 
 The **primary focus** $F_1$ is defined as a point where a point source kept produces parallel emergent rays to the principal axis after passing through the lens. For a converging lens, such an object is a real object and for a diverging lens, it is a virtual object. The distance $PF_1$ is the primary focal length $f_1$.
 
@@ -1248,7 +1250,7 @@ As the focal length is positive, the lens is a converging lens.
 
 (b) ![](EX-6.13(ii).png)
 
-When the lens is flipped by the side, $R_1 = 15~\text{cm}$ and $R_2 = -20~\text{cm}$. Substituting in the lens maker's formula:
+When the lens is flipped by the side,Now, n=1.5, $R_1 = 15~\text{cm}$ and $R_2 = -20~\text{cm}$. Substituting in the lens maker's formula:
 
 $$ \frac{1}{f} = (1.5 - 1)\left(\frac{1}{15} - \frac{1}{-20}\right) = (0.5)\left(\frac{1}{15} + \frac{1}{20}\right) $$
 
@@ -1733,12 +1735,12 @@ For Violet colour, \( \delta_{V} = (n_{V} - 1) A \)                         (6.9
 
 For Red colour, \( \delta_{R} = (n_{R} - 1) A \)                            (6.93) 
 
-As, angle of minimum deviation for violet colour \( \delta_{v'} \) is greater than angle of minimum deviation for red colour \( \delta_{R'} \), the refractive index for violet colour \( n_{v'} \) is greater than the refractive index for red colour \( n_{R'} \).
+As, angle of minimum deviation for violet colour \( \delta_{v} \) is greater than angle of minimum deviation for red colour \( \delta_{R} \), the refractive index for violet colour \( n_{v} \) is greater than the refractive index for red colour \( n_{R} \).
 
-Subtracting \( \delta_{R'} \) from \( \delta_{v'} \), we get,
+Subtracting \( \delta_{R} \) from \( \delta_{v} \), we get,
 
 \[
-\delta_{v'} - \delta_{R'} = (n_{v'} - n_{R'})A \tag{6.94}
+\delta_{v} - \delta_{R} = (n_{v} - n_{R'})A \tag{6.94}
 \]
 
 The angular separation between the two extreme colours (violet and red) in the spectrum (\( \delta_{v} - \delta_{R} \)) is called the angular dispersion.
@@ -1976,7 +1978,7 @@ If the earth had no atmosphere, there would not have been any scattering and the
 
 2. An object is placed in front of a concave mirror of focal length $20~\text{cm}$. The image formed is three times the size of the object. Calculate two possible distances of the object from the mirror.
 
-   **Ans:** with $+m$: $u = -\frac{40}{3}~\text{cm}$, with $-m$: $u = -\frac{80}{3}~\text{cm}$
+   Ans: With \(+m\): \(u=-\frac{40}{3}\,\text{cm}\), with \(-m\): \(u=-\frac{80}{3}\,\text{cm}\).
 
 3. A beam of light consisting of red, green and blue is incident on a right-angled prism as shown in the figure. The refractive indices of the material of the prism for red, green and blue colours are $1.39$, $1.44$ and $1.47$ respectively. Which colours suffer total internal reflection?
 

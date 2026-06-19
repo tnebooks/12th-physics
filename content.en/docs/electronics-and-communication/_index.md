@@ -61,6 +61,7 @@ A simple pictorial representation of the valence band and conduction band is sho
 
 ![](10.2.png)
 
+>The energy of the orbiting electrons is measured in electron volts (eV).
 
 10.1.2 Classification of materials
 
@@ -80,7 +81,7 @@ In semiconductors, there exists a narrow forbidden energy gap \(\left(E_{g}< 3eV
 
 (Figure 10.2(d)). At a finite temperature, thermal agitations in the solid can break the covalent bond between the atoms (covalent bond is formed due to the sharing of electrons to attain stable electronic configuration). This releases some electrons from valence band to conduction band. Since free electrons are small in number, the conductivity of the semiconductors is not as high as that of the conductors. The resistivity value of semiconductors is from \(10^{- 5}\Omega \mathrm{m}\) to \(10^{6}\Omega \mathrm{m}\) .
 
-image[[518, 311, 870, 415]]
+>In semiconductors, electrons in the valence band are bound electrons which cannot move.Hence, they cannot contribute for conduction.
 
 When the temperature is increased further, more number of electrons are promoted to the conduction band and they increase the conduction. Thus, we can say that the electrical conduction increases with the increase in temperature. In other words, resistance decreases with increase in temperature. Hence, semiconductors are said to have negative temperature coefficient of resistance. The most important commonly used elemental semiconducting materials are silicon (Si) and germanium (Ge). The values of forbidden energy gap for Si and Ge at room temperature are \(1.1\mathrm{eV}\) and \(0.7\mathrm{eV}\) respectively.
 
@@ -105,8 +106,7 @@ electrons as shown in Figure 10.4(b). The vacancies produced in the valence band
 
 In intrinsic semiconductors, the number of electrons in the conduction band is equal to the number of holes in the valence band. The electrical conduction is due to the electrons in the conduction band and holes in the valence band. The corresponding currents are represented as \(I_{e}\) and \(I_{h}\) respectively.
 
-
-1) n- type semiconductor 2) p- type semiconductor
+>Definition of a hole: When an electron is excited, covalent bond is broken. Now octet rule will not be satisfied. Thus each excited electron leaves a vacancy to complete bonding. This ‘deficiency’ of electron is termed as a ‘hole’
 
 The total current \(I\) is always the sum of the electron current and the hole current. That is, \(I = I_{e} + I_{h}\) .
 
@@ -120,13 +120,12 @@ The process of adding impurities to the intrinsic semiconductor is called doping
 
 On the basis of the type of impurity added, extrinsic semiconductors are classified into:
 
+1) n- type semiconductor 2) p- type semiconductor
 ## i) n-type semiconductor
 
 A n- type semiconductor is obtained by doping a pure silicon (or germanium) crystal with pentavalent impurity atoms (from V group of periodic table) such as phosphorus, arsenic and antimony as shown in Figure 10.5(a). The dopant has five valence electrons while the silicon atom has four valence electrons. During the process of doping, a few of the silicon atoms are replaced by pentavalent
 
 ![](10.5.png)
-
-1
 
 dopants. Four of the five valence electrons of the impurity atom form covalent bonds with four silicon atoms. The fifth valence electron of the impurity atom is loosely attached with the nucleus as it is not used in the formation of the covalent bond.
 
@@ -136,7 +135,6 @@ The energy level of the loosely attached fifth electron from the dopant is found
 
 It is important to note that the energy required for an electron to jump from the valence band to the conduction band in an intrinsic semiconductor is \(0.7\mathrm{eV}\) for Ge and \(1.1\mathrm{eV}\) for Si, while the energy required to set free a donor electron is only \(0.01\mathrm{eV}\) for Ge and \(0.05\mathrm{eV}\) for Si.
 
-text[[128, 848, 478, 903], [518, 95, 868, 284]]
 The V group pentavalent impurity atoms donate electrons to the conduction band and are called donor impurities. Therefore, each impurity atom provides one extra electron to the conduction band in addition to the thermally generated electrons. These thermally generated electrons leave holes in valence band. Hence, the majority carriers of current in an \(n\) - type semiconductor are electrons and the minority carriers are holes. Such a semiconductor doped with a pentavalent impurity is called an \(n\) - type semiconductor.
 
 ## ii) \(p\) -type semiconductor
@@ -147,14 +145,11 @@ To make complete covalent bonding with all four neighbouring atoms, the dopant i
 
 For each acceptor atom, there will be a hole in the valence band; this is in addition to the holes left by the thermally generated electrons. In such an extrinsic semiconductor, holes are the majority carriers and thermally generated electrons are minority carriers as shown in Figure 10.8. The extrinsic semiconductor thus formed is called a \(p\) - type semiconductor.
 
-
-202 UNIT 10 ELECTRONICS AND COMMUNICATION
-
 ![](10.7.png)
 
 ![](10.8.png)
 
-The \(n\) - type and \(p\) - type semiconductors are neutral because only neutral atoms are doped to the intrinsic semiconductors.
+>The \(n\) - type and \(p\) - type semiconductors are neutral because only neutral atoms are doped to the intrinsic semiconductors.
 
 ## 10.3
 
@@ -167,9 +162,6 @@ The \(n\) - type and \(p\) - type semiconductors are neutral because only neutra
 A single piece of semiconductor crystal is suitably doped such that its one side is \(p\) - type semiconductor and the other side is \(n\) - type semiconductor. The contact surface between the two sides is called \(p\) - \(n\) junction. Whenever \(p\) - \(n\) junction is formed, some of the free electrons diffuse from the \(n\) - side to the \(p\) - side while the holes from the \(p\) - side to the \(n\) - side. The diffusion of charge carriers happens due to the fact that the \(n\) - side has higher electron concentration and the \(p\) - side has higher hole concentration. The diffusion of the majority charge carriers across the junction gives rise to an electric current, called diffusion current.
 
 When an electron leaves the \(n\) - side, a pentavalent atom in the \(n\) - side becomes a positive ion. The free electron migrating into \(p\) - side recombines with a hole present in a trivalent atom near the junction and the trivalent atom becomes a negative ion. Since such ions are bonded to the neighbouring atoms in the crystal lattice, they are unable to move. As the diffusion process continues, a layer of positive ions and a layer of negative ions are created on either side of the junction accordingly. The thin region near
-
-
-1
 
 ![](10.9.png)
 
@@ -193,9 +185,6 @@ This difference in potential across the depletion layer is called the barrier po
 
 A \(p - n\) junction diode is formed when a \(p\) - type semiconductor is fused with an \(n\) - type semiconductor. It is a device with single \(p - n\) junction as shown in Figure 10.11(a) and its circuit symbol is shown in Figure 10.11(b).
 
-
-Figure 10.11 \(p\) - \(n\) junction diode (a) Schematic representation (b) Circuit symbol
-
 ![](10.11.png)
 
 ## Biasing a diode
@@ -208,7 +197,6 @@ i) Forward bias ii) Reverse bias
 
 If the positive terminal of the external voltage source is connected to the \(p\) - side and the negative terminal to the \(n\) - side, it is called forward bias as shown in Figure 10.12. The application of a forward bias potential pushes electrons in the \(n\) - side and the holes in the \(p\) - side towards the junction. This initiates the recombination with the ions near the junction which in turn reduces the width of the depletion region and hence the barrier potential.
 
-text[[127, 846, 479, 902], [517, 93, 870, 323]]
 The electron from the \(n\) - side is now accelerated towards the \(p\) - side as it experiences a reduced barrier potential at the junction. In addition, the accelerated electrons experience a strong attraction by the positive potential applied to the \(p\) - side. This results in the movement of electrons in the \(n\) - side towards the \(p\) - side and similarly, holes in the \(p\) - side towards the \(n\) - side. When the applied voltage is increased, the width of the depletion region and hence the barrier potential are further reduced. This results in a large number of electrons passing through the junction resulting in an exponential rise in current through the junction.
 
 ![](10.12.png)
@@ -228,7 +216,7 @@ Yet, a small current flows across the junction due to the minority charge carrie
 
 The reverse saturation current is independent of the applied voltage and it depends only on the concentration of the thermally generated minority charge carriers. Even a small voltage is sufficient enough to drive the minority charge carriers across the junction.
 
-image[[128, 586, 479, 661]]
+>The reverse saturation current of a silicon diode doubles for every 10°C rise in temperature.
 
 ## 10.3.3 Characteristics of a junction diode
 
@@ -265,12 +253,9 @@ A graph drawn between the reverse bias voltage and the current across the juncti
 
 current in \(\mu \mathrm{A}\) flows across the junction. This is due to the flow of the minority charge carriers and is called the leakage current or reverse saturation current. This reverse current is independent of the voltage up to a certain voltage, known as breakdown voltage.
 
-image[[521, 668, 863, 824]]
+>Ideal diode: It acts like a conductor when it is forward biased. When it is reverse biased, it acts like an insulator. For ideal diodes, the forward resistance is zero and barrier potential is considered negligible.
 
 The forward and reverse characteristics are given in one graph as shown in Figure 10.16.
-
-
-1
 
 ![](10.16.png)
 
@@ -327,7 +312,7 @@ The output of the half wave rectifier is not a steady DC voltage but a pulsating
 
 Efficiency \((\eta)\) is the ratio of the output DC power to the AC input power supplied to the circuit. Its value for half wave rectifier is \(40.6\%\) .
 
-
+>If the direction of the diode is reversed, the negative half of the AC signal is passed through and the positive half is blocked.
 ## ii) Full wave rectifier
 
 The positive and negative half cycles of the AC input signal are rectified in this circuit and hence it is called the full wave rectifier. The circuit is shown in Figure 10.18(a). It consists of two \(p - n\) junction diodes, a centre tap transformer and a load resistor \(R_{\mathrm{L}}\) . The centre is usually taken as the ground or zero voltage reference point. With the help of the centre tap transformer, each diode rectifies one half of the total secondary voltage.
@@ -340,9 +325,6 @@ When the positive half cycle of the AC input signal passes through the circuit, 
 
 When the negative half cycle of the AC input signal passes through the circuit, terminal \(N\) becomes positive, \(C\) is at zero
 
-
-1
-
 ![](10.18.png)
 
 potential and \(M\) is at negative potential. This forward biases diode \(D_{2}\) and reverse biases diode \(D_{1}\) . Hence, being forward biased, diode \(D_{2}\) conducts and current flows along the path \(ND_{2}ABC\) .
@@ -351,7 +333,7 @@ During both postive and negative half cycles of the input signal, the current fl
 
 The efficiency \((\eta)\) of full wave rectifier is twice that of a half wave rectifier and is found to be \(81.2\%\) . It is because of power losses in the winding, the diode and the load resistance.
 
-
+>Centre tap transformer: There is a facility to tap at halfway point in the secondary windings. This helps to measure the induced voltage from one end of the secondary to the centre point. If the centre tap point is grounded, then the voltage across the secondary will be divided into two halves. For example, if the voltage across the secondary is 240 V, then the voltage across one end and the centre tap point is +120 V and at the other end it is –120V.
 ## 10.3.5 Breakdown mechanism
 
 The reverse current or the reverse saturation current due to the minority charge carriers is small. If the reverse bias applied to a \(p - n\) junction is increased beyond a point, the junction breaks down and the reverse current rises sharply. The voltage at which breakdown happens is called the breakdown voltage and it depends on the width of the depletion region, which in turn depends on the doping level.
@@ -361,9 +343,6 @@ A normal \(p - n\) junction diode gets damaged at this point. Specially designed
 ## i) Avalanche breakdown
 
 Avalanche breakdown occurs in a lightly doped junctions which have wide depletion region. When reverse bias voltage exceeds a certain value, the minority charge carriers are accelerated by reverse voltage and their kinetic energy increases. These charge carriers collide
-
-
-10.3.6 Zener diode
 
 with semiconductor atoms while passing through the depletion region. This leads to the breaking up of covalent bonds and this results in the generation of electron - hole pairs.
 
@@ -375,9 +354,9 @@ Heavily doped \(p - n\) junctions have narrow depletion layers whose width is of
 
 Even a small further increase in reverse voltage produces a large number of charge carriers which move across the junction through the thin depletion region. This process gives rise to a large amount reverse current or breakdown current and this breakdown is called Zener breakdown.
 
-In Avalanche breakdown, the minority charge carriers gain sufficient energy from excessive reverse bias voltage to
+>In Avalanche breakdown, the minority charge carriers gain sufficient energy from excessive reverse bias voltage to break covalent bond in order to produce new charge carriers. But Zener breakdown occurs due to the direct rupture of covalent bonds because of the existence of the strong electric field. Since depletion region is thin, Zener breakdown occurs usually at lesser reverse bias voltage compared to Avalanche breakdown voltage.
 
-break covalent bond in order to produce new charge carriers. But Zener breakdown occurs due to the direct rupture of covalent bonds because of the existence of the strong electric field. Since depletion region is thin, Zener breakdown occurs usually at lesser reverse bias voltage compared to Avalanche breakdown voltage.
+## 10.3.6 Zener diode
 
 Zener diode is a heavily doped silicon diode used in reverse biased condition and is named after its inventor Clarence Melvin Zener. It is specially designed to be operated in the breakdown region. The doping level of the silicon diode can be varied to have a wide range of breakdown voltages from 2 V to over 1000 V.
 
@@ -389,16 +368,10 @@ It looks like an ordinary \(p - n\) junction diode except that \(n\) - side lead
 
 ## V-I Characteristics of Zener diode
 
-The circuit to study the forward and reverse characteristics of a Zener diode is shown in Figure 10.20(a) and Figure 10.20 (b). The V- I characteristics of a Zener diode is shown in Figure 10.20(c). The forward characteristic of a Zener diode is similar to that of an ordinary \(p - n\) junction diode. It starts conducting approximately around 0.7 V. However, the reverse characteristics is highly significant in Zener diode. The increase in reverse voltage
+The circuit to study the forward and reverse characteristics of a Zener diode is shown in Figure 10.20(a) and Figure 10.20 (b). The V- I characteristics of a Zener diode is shown in Figure 10.20(c). The forward characteristic of a Zener diode is similar to that of an ordinary \(p - n\) junction diode. It starts conducting approximately around 0.7 V. However, the reverse characteristics is highly significant in Zener diode. The increase in reverse voltage normally generates very small reverse current. While in Zener diode, when the reverse voltage is increased to the breakdown voltage \((V_{z})\) , the increase in current is very sharp. The voltage remains almost constant throughout the breakdown region. In Figure 10.20(c), \(I_{Z(\mathrm{max})}\) represents the maximum reverse current. If the reverse current is increased further, the diode will be damaged. The important parameters of the reverse characteristics are
 
-[file content end]
-
-[file name]: 10_p2.pdf
-[file content begin]
-
-normally generates very small reverse current. While in Zener diode, when the reverse voltage is increased to the breakdown voltage \((V_{z})\) , the increase in current is very sharp. The voltage remains almost constant throughout the breakdown region. In Figure 10.20(c), \(I_{Z(\mathrm{max})}\) represents the maximum reverse current. If the reverse current is increased further, the diode will be damaged. The important parameters of the reverse characteristics are
-
-Zener breakdown voltage, \(V_{z}\) Minimum current to sustain breakdown, \(I_{Z(\mathrm{min})}\)
+Zener breakdown voltage, \(V_{z}\)
+Minimum current to sustain breakdown, \(I_{Z(\mathrm{min})}\)
 
 ![](10.20.png)
 
@@ -406,12 +379,15 @@ Maximum current limited by maximum power dissipation, \(I_{Z(\mathrm{max})}\)
 
 The Zener diode is operated in the reverse bias condition with the voltage greater than \(V_{z}\) and current less than \(I_{Z(\mathrm{max})}\) . The reverse characteristic is not exactly vertical which means that the diode possesses some small resistance called Zener dynamic impedance. Zener resistance is the inverse of the slope of the curve in the breakdown region. It means an increase in the Zener current produces only a very small increase in the reverse voltage. However this can be neglected. The voltage of an ideal Zener diode does not change once it goes into breakdown. In other words, \(V_{z}\) remains almost constant even when \(I_{z}\) increases considerably.
 
-
+>The maximum reverse bias that can be applied before entering into the Zener region is called the peak inverse voltage, commercially referred as PIV rating.
 ## Applications
 
 The zener diode can be used
 
-as voltage regulator for calibrating voltages to provide fixed reference voltage in a network for biasing to protect of any gadget against damage from accidental application of excessive voltage.
+as voltage regulator
+for calibrating voltages
+to provide fixed reference voltage in a network for biasing 
+to protect of any gadget against damage from accidental application of excessive voltage.
 
 ## Zener diode as a voltage regulator
 
@@ -469,7 +445,10 @@ The colour of the light is determined by the energy band gap of the material. Th
 
 ## Applications
 
-The light emitting diodes are used in indicator lamps on the front panel of the scientific and laboratory equipments. seven- segment displays. traffic signals, emergency vehicle lighting etc. remote control of television, airconditioner etc.
+The light emitting diodes are used in 
+indicator lamps on the front panel of the scientific and laboratory equipments. 
+seven- segment displays. 
+traffic signals, emergency vehicle lighting etc. remote control of television, airconditioner etc.
 
 ## EXAMPLE 10.4
 
@@ -508,7 +487,12 @@ This reverse current in the absence of any incident light is called dark current
 
 ## Applications
 
-ApplicationsThe photodiodes are used in- alarm system- count items on a conveyor belt- photoconductors- compact disc players, smoke detectors- medical applications such as detectors for computed tomography etc.
+ApplicationsThe photodiodes are used in- 
+alarm system
+count items on a conveyor belt
+photoconductors
+compact disc players, smoke detectors
+medical applications such as detectors for computed tomography etc.
 
 ## iii) Solar cell
 
@@ -525,7 +509,9 @@ Many solar cells are connected together either in series or in parallel combinat
 
 ## Applications:
 
-i) Solar cells are widely used in calculators, watches, toys, portable power supplies, etc. ii) Solar cells are used in satellites and space applications. iii) Solar panels are used for commercial production of electricity.
+i) Solar cells are widely used in calculators, watches, toys, portable power supplies, etc. 
+ii) Solar cells are used in satellites and space applications. 
+iii) Solar panels are used for commercial production of electricity.
 
 ## 10.4
 
@@ -558,6 +544,7 @@ Base is very thin \((10^{- 6}\mathrm{m})\) and very lightly doped region when co
 
 The main function of collector is to collect the majority charge carriers supplied by the emitter through the base. Hence, collector is made physically larger than the other two as it has to dissipate more power. It is moderately doped.
 
+>Because of the differing size and the amount of doping, the emitter and collector cannot be interchanged.
 ## Transistor Biasing
 
 The application of suitable DC voltages across the transistor terminals is called biasing. The transistor biasing is done differently for different uses. The different modes of transistor biasing are given below.
@@ -574,7 +561,7 @@ Here, the emitter- base junction and collector- base junction are forward biased
 
 In this bias, the emitter- base junction and collector- base junction are reverse biased. Transistor in this mode acts an open switch.
 
-image[[521, 98, 856, 244]]
+>In a PNP transistor, base and collector will be negative with respect to emitter indicated by the middle letter N whereas base and collector will be positive in an NPN transistor indicated by the middle letter P.
 
 ## 10.4.1 Transistor circuit configurations
 
@@ -587,14 +574,15 @@ The base is common to both the input and output circuits. The schematic and circ
 ![](10.26.png)
 
 
-2) Common-Emitter (CE) configurationIn this configuration, the emitter is common to both the input and output circuits as shown in Figure 10.27. The base current \(I_{\mathrm{B}}\) is the input current and the collector current \(I_{\mathrm{c}}\) is the output current. The input signal is applied between emitter and base while the output is measured between collector and emitter.
+2) Common-Emitter (CE) configuration
+In this configuration, the emitter is common to both the input and output circuits as shown in Figure 10.27. The base current \(I_{\mathrm{B}}\) is the input current and the collector current \(I_{\mathrm{c}}\) is the output current. The input signal is applied between emitter and base while the output is measured between collector and emitter.
 
 ![](10.27.png)
 
 ## iii) Common-Collector (CC) configuration
 
 Here, the collector is common to both the input and output circuits as shown in Figure 10.28. The base current \(I_{\mathrm{B}}\) is the input current and the emitter current \(I_{\mathrm{E}}\) is the output current. The input signal is applied between base and collector while the output is measured between emitter and collector.
-
+>As the output is taken from the emitter in common collector configuration, it is called an emitter follower.
 ![](10.28.png)
 
 ## 10.4.2 Transistor action in the common base mode
@@ -604,7 +592,6 @@ The operation of an NPN transistor in the common base mode is explained below. T
 ![](10.29.png)
 
 Basically, a BJT can be considered as two \(p\) - \(n\) junction diodes connected back- to- back. In the forward active bias of the
-
 
 NPN transistor, the emitter- base junction is forward biased and the collector- base junction is reverse biased. The application of the forward bias voltage on the emitter- base junction causes the electrons to flow from the emitter to the base. As the base is made up of \(p\) - type material, the electrons (minority carriers) in the base region are attracted by the positive terminal of the forward bias supply and move towards the base terminal to constitute base current. However, the base is very thin and lightly doped, so only a small percentage (2-5%) of the electrons recombine with holes in the base region. The remaining electrons (95-98%) will diffuse across the base region to reach the collector- base junction.
 
@@ -646,7 +633,9 @@ of an NPN transistor in the common emitter mode is given in Figure 10.30. The bi
 
 The static characteristics of the BJT are
 
-i) Input characteristics ii) Output characteristics iii) Transfer characteristics
+i) Input characteristics 
+ii) Output characteristics 
+iii) Transfer characteristics
 
 ## i) Input characteristics
 
@@ -727,7 +716,7 @@ There is a relation between current gain in the common base configuration \(\alp
 
 \[\alpha = \frac{\beta}{1 + \beta} (\mathrm{or}) \beta = \frac{\alpha}{1 - \alpha} \quad (10.6)\]
 
-image[[518, 712, 868, 796]]
+>The collector current is independent of the collector-emitter voltage in the active region.
 
 ## EXAMPLE 10.6
 
@@ -819,7 +808,6 @@ An electronic oscillator basically converts DC energy into AC energy of frequenc
 
 Basically, there are two types of oscillators: Sinusoidal and non- sinusoidal. Sinusoidal oscillators generate oscillations in the form of sine waves at constant amplitude and
 
-
 frequency as shown in Figure 10.37(a). Nonsinusoidal oscillators generate complex, non- sinusoidal waveforms like squarewave, triangular- wave and sawtooth- wave as shown in Figure 10.36 (b), (c), (d).
 
 ![](10.37.png)
@@ -848,10 +836,7 @@ The circuit used to feed a portion of the output back to the input is called the
 
 ## Working
 
-The tank circuit generates electrical oscillations and acts as the AC input source to the transistor amplifier. Amplifier amplifies
-
-
-the input AC signal. In practical oscillator circuits, there is loss of some energy in inductor coils and capacitors due to electrical resistance. A small amount of energy is used up in overcoming these losses during every cycle of charging and discharging of the capacitor. Due to this, the amplitude of the oscillations decreases gradually. Hence, the tank circuit produces damped electrical oscillations.
+The tank circuit generates electrical oscillations and acts as the AC input source to the transistor amplifier. Amplifier amplifies the input AC signal. In practical oscillator circuits, there is loss of some energy in inductor coils and capacitors due to electrical resistance. A small amount of energy is used up in overcoming these losses during every cycle of charging and discharging of the capacitor. Due to this, the amplitude of the oscillations decreases gradually. Hence, the tank circuit produces damped electrical oscillations.
 
 In order to produce undamped oscillations, a positive feedback is provided from output to input by feedback network. This compensates energy loss in tank circuit. The frequency of oscillations is determined by the values of L and C and is given by
 
@@ -861,7 +846,9 @@ In order to produce undamped oscillations, a positive feedback is provided from 
 
 The following conditions called Barkhausen conditions should be satisfied for sustained oscillations in the oscillator.
 
-There should be positive feedback. The loop phase shift must be \(0^{\circ}\) or integral multiples of \(2\pi\) The loop gain must be unity. That is, \(\left|AB\right| = 1\)
+There should be positive feedback. 
+The loop phase shift must be \(0^{\circ}\) or integral multiples of \(2\pi\)
+The loop gain must be unity. That is, \(\left|AB\right| = 1\)
 
 Here, \(A\) is the voltage gain of the amplifier, \(\beta\) is the feedback ratio (the fraction of the output that is fed back to the input).
 
@@ -869,9 +856,12 @@ There are different types of oscillator circuits based on the different types of
 
 ## Applications of oscillators
 
-Transistor oscillators are used to generate periodic sinusoidal or non sinusoidal wave forms to generate RF carriers
-
-to generate audio tones to generate clock signal in digital circuits as sweep circuits in TV sets and CRO
+Transistor oscillators are used 
+to generate periodic sinusoidal or non sinusoidal wave forms 
+to generate RF carriers
+to generate audio tones 
+to generate clock signal in digital circuits 
+as sweep circuits in TV sets and CRO
 
 ## EXAMPLE 10.8
 
@@ -950,8 +940,8 @@ The output of AND gate is high (1) only when all inputs are high (1). In other c
 
 #### Circuit Symbol
 The circuit symbol of a two-input OR gate is shown in Figure 10.42 (a). A and B are inputs and Y is the output.
-
-**(அ)**
+![](image.png)
+**(a)**
 
 | Inputs | Output |
 |---|---|---|
@@ -961,7 +951,7 @@ The circuit symbol of a two-input OR gate is shown in Figure 10.42 (a). A and B 
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-**(ஆ)**
+**(b)**
 
 **Figure 10.42 (a) Two-input OR Gate (b) Truth Table**
 
@@ -979,16 +969,16 @@ The output of OR gate is high (logic level 1) when any one or both of the inputs
 
 #### Circuit Symbol
 The circuit symbol of NOT gate is shown in Figure 10.43 (a). A is the input and Y is the output.
-
-**(அ)**
+![](image-1.png)
+**(a)**
 
 | Input | Output |
 |---|---|
-| A | Y = \overline{A} |
+| A | \(Y = \overline{A} \)|
 | 0 | 1 |
 | 1 | 0 |
 
-**(ஆ)**
+**(b)**
 
 **Figure 10.43 (a) NOT Gate (b) Truth Table**
 
@@ -1004,18 +994,18 @@ The output is the complement of the input. This is denoted by an overline. It is
 
 #### Circuit Symbol
 The circuit symbol of NAND gate is shown in Figure 10.44 (a). A and B are inputs and Y is the output.
-
-**(அ)**
+![](image-2.png)
+**(a)**
 
 | Inputs | Output (AND) | Output (NAND) |
 |---|---|---|---|
-| A | B | Z = A.B | Y = \overline{A.B} |
+| A | B | Z = A.B | \(Y = \overline{A.B}\) |
 | 0 | 0 | 0 | 1 |
 | 0 | 1 | 0 | 1 |
 | 1 | 0 | 0 | 1 |
 | 1 | 1 | 1 | 0 |
 
-**(ஆ)**
+**(b)**
 
 **Figure 10.44 (a) Two-input NAND Gate (b) Truth Table**
 
@@ -1030,18 +1020,18 @@ Output Y is the complement of AND operation. The circuit consists of an AND gate
 ### NOR Gate
 
 #### Circuit Symbol
-
-**(அ)**
+![](image-3.png)
+**(a)**
 
 | Inputs | Output (OR) | Output (NOR) |
 |---|---|---|---|
-| A | B | Z = A+B | Y = \overline{A+B} |
+| A | B | Z = A+B |\( Y = \overline{A+B}\) |
 | 0 | 0 | 0 | 1 |
 | 0 | 1 | 1 | 0 |
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 1 | 0 |
 
-**(ஆ)**
+**(b)**
 
 **Figure 10.45 (a) NOR Gate (b) Truth Table**
 
@@ -1058,18 +1048,18 @@ Output Y is the complement of OR operation (A OR B). The circuit consists of an 
 #### Circuit Symbol
 
 The circuit symbol of EX-OR gate is shown in Figure 10.46 (a). A and B are inputs and Y is the output. EX-OR operation is denoted by \( \oplus \).
-
-**(அ)**
+![](image-4.png)
+**(a)**
 
 | Inputs | Output (EX-OR) |
 |---|---|---|
-| A | B | Y = A \oplus B |
+| A | B | \(Y = A \oplus B\) |
 | 0 | 0 | 0 |
 | 0 | 1 | 1 |
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-**(ஆ)**
+**(b)**
 
 **Figure 10.46 (a) EX-OR Gate (b) Truth Table**
 
@@ -1080,14 +1070,14 @@ The circuit symbol of EX-OR gate is shown in Figure 10.46 (a). A and B are input
 #### Logic Operation
 
 If any one of the two inputs is high, the output is high. For more than two inputs in an EX-OR gate, the output is high when an odd number of inputs are high. The truth table of EX-OR gate is shown in Figure 10.46 (b).
-
+>NAND and NOR gates are known as universal gates because any other logic gate can be made from NAND or NOR gates.
 ### Example 10.9
 
 In the following circuit, if all three inputs A, B and C are initially 0 and then 1, what is the output Y?
-
+![](image-8.png)
 #### Solution
 
-| A | B | C | X = A.B | Y = X.C |
+| A | B | C | X = A.B |\( y=\overline{X}.\overline{C}\)|
 |---|---|---|---|---|
 | 0 | 0 | 0 | 0 | 0 |
 | 1 | 1 | 1 | 1 | 1 |
@@ -1095,29 +1085,29 @@ In the following circuit, if all three inputs A, B and C are initially 0 and the
 ### Example 10.10
 
 Write the Boolean equation for output Y for the combination of logic gates given below with inputs A and B.
-
+![](image-5.png)
 #### Solution
 
-1st AND gate output: \( A.B \)
+1st AND gate output: \( A.\overline{B} \)
 
-2nd AND gate output: \( \overline{A}.\overline{B} \)
+2nd AND gate output: \( \overline{A}.B \)
 
-OR gate output: \( Y = A.B + \overline{A}.\overline{B} \)
+OR gate output: \( Y = A.\overline{B} + \overline{A}.B \)
 
 ## 10.6 Boolean Algebra
 
 Boolean algebra is basically a choice between two states: (i) true or false (ii) high or low. In Boolean algebra, these two states are represented by binary numbers 0 or 1. This is an ancient concept developed by George Bool in 1854 that connects logic and mathematics. Later, the importance of Boolean algebra was realized in designing computer circuits. Today we are in a digital world and most of the facilities we enjoy are based on Boolean algebra.
-
+![](image-6.png)
 ### Laws of Boolean Algebra
 
 The NOT, OR and AND operations discussed in section 10.5.2 are Boolean operations. The results of these operations can be summarized as follows.
 
 #### Complement Law
 
-| A | Y = \overline{A} |
+| A | \( Y = \overline{A} \) |
 |---|---|
-| 0 | Y = \overline{0} = 1 |
-| 1 | Y = \overline{1} = 0 |
+| 0 | \( Y = \overline{0} = 1\) |
+| 1 | \( Y = \overline{1} = 0\) |
 
 The complement law can also be stated as: \( \overline{\overline{A}} = A \).
 
@@ -1192,7 +1182,7 @@ The Boolean equation for bubbled AND gate is:
 
 For equivalent inputs, both cases produce the same output. This can be verified using the following truth table.
 
-| A | B | A+B | \overline{A+B} | \overline{A} | \overline{B} | \overline{A}.\overline{B} |
+| A | B | A+B |\(  \overline{A+b} \)  | \( \overline{A}\) | \(\overline{B}\) | \(\overline{A}.\overline{B}\) |
 |---|---|---|---|---|---|---|
 | 0 | 0 | 0 | 1 | 1 | 1 | 1 |
 | 0 | 1 | 1 | 0 | 1 | 0 | 0 |
@@ -1206,7 +1196,7 @@ From the above truth table, we can conclude:
 Thus, De Morgan's first theorem is proved. This implies that a NOR gate is equivalent to a bubbled AND gate.
 
 The related logic circuit is shown in Figure 10.47.
-
+![](image-7.png)
 **Figure 10.47 NOR gate is equivalent to bubbled AND gate**
 
 ### 10.7.2 De Morgan's Second Theorem
@@ -1225,7 +1215,7 @@ The Boolean equation for bubbled OR gate is:
 
 A and B are inputs and Y is the output. For equivalent inputs, both equations produce the same output. This can be verified using the following truth table.
 
-| A | B | A.B | \overline{A.B} | \overline{A} | \overline{B} | \overline{A} + \overline{B} |
+| A | B | A.B | \(\overline{A.B}\) | \(\overline{A}\) | \(\overline{B}\) | \(\overline{A} + \overline{B} \)|
 |---|---|---|---|---|---|---|
 | 0 | 0 | 0 | 1 | 1 | 1 | 1 |
 | 0 | 1 | 0 | 1 | 1 | 0 | 1 |
@@ -1239,7 +1229,7 @@ From the above truth table, we can conclude:
 Thus, De Morgan's second theorem is proved. This implies that a NAND gate is equivalent to a bubbled OR gate.
 
 The related logic circuit is shown in Figure 10.48.
-
+![](image-11.png)
 **Figure 10.48 NAND gate is equivalent to bubbled OR gate**
 
 ### Example 10.11
@@ -1263,7 +1253,7 @@ An integrated circuit is also referred to as IC or chip or microchip (Figure 10.
 Integrated circuits (ICs) are a milestone in modern electronics. Due to technological advancement and the advent of VLSI (Very Large Scale Integration) era, it is possible to create a very large number of transistors on a single integrated chip.
 
 Compared to ordinary circuits, integrated circuits have two main advantages: cost and performance. Due to technological advancement, the size, speed and capacity of chips have been greatly improved. Nowadays, computers, mobile phones and other household digital devices have become smaller and cheaper due to integrated circuits. Integrated circuits can function as amplifiers, oscillators, timing circuits, microprocessors and computer memory.
-
+![](image-12.png)
 **Figure 10.49 Circuits with integrated chips**
 
 These tiny integrated circuits perform calculations and store data using digital or analog technology. Digital ICs use logic gates that operate with values of one and zero. A low signal to a digital IC produces value 0, and a high signal produces value 1.
@@ -1306,12 +1296,12 @@ Figure 10.50(a) shows the baseband signal carrying information. Figure 10.50(b) 
 
 We can see that the amplitude of the carrier wave changes according to the voltage of the baseband signal.
 
-**(அ) Baseband signal**
+**(a) Baseband signal**
 
-**(ஆ) Carrier signal**
+**(b) Carrier signal**
 
-**(இ) Amplitude modulated signal**
-
+**(c) Amplitude modulated signal**
+![](image-13.png)
 **Figure 10.50 Amplitude Modulation (a) Baseband signal (b) Carrier signal (c) Amplitude modulated signal**
 
 #### Advantages of Amplitude Modulation
@@ -1337,7 +1327,7 @@ In frequency modulation, the frequency of the carrier signal changes according t
 The increase in voltage of the baseband signal increases the frequency of the carrier signal and vice versa. As shown in Figure 10.51, this causes compressions and rarefactions in the frequency spectrum of the modulated wave. Loud signals create compressions and weak signals create rarefactions.
 
 When the voltage of the baseband signal is zero (when there is no input signal), there is no change in the frequency of the carrier wave. It is at its normal frequency. This is called the centre or resting frequency. In practice, this is the frequency allocated for FM broadcasting.
-
+![](image-14.png)
 **Figure 10.51 Frequency Modulation (a) Baseband signal (b) Carrier signal (c) Frequency modulated signal**
 
 #### Advantages of Frequency Modulation
@@ -1409,7 +1399,7 @@ Repeaters are used to increase the range or distance over which signals are tran
 viii) Output Transducer
 
 It converts the electrical signal back into its original form: sound, music, images or data. Speakers, picture tubes, and computer monitors are examples of output transducers.
-
+![](image-16.png)
 **Figure 10.52 Block diagram of voice signal transmission and reception**
 
 ### 10.10.1 Basic Definitions in Electronic Communication System
@@ -1455,7 +1445,7 @@ This is mainly used in local broadcasting, radio-assisted maritime navigation, s
 Electromagnetic waves transmitted from an antenna at a high angle upwards are reflected back to the earth by the ionosphere. This type of propagation is called sky wave propagation or ionospheric propagation. The corresponding waves are called sky waves (Figure 10.53 (b)).
 
 The ionosphere acts as a reflecting surface. It starts approximately at 50 km and extends up to 400 km above the earth's surface. Due to the absorption of high-energy radiation such as ultraviolet rays from the sun, cosmic rays and \( \alpha, \beta \) rays, the air molecules in the ionosphere are ionized. This creates charged ions, and those ions create a medium that reflects radio waves or communication waves (in the permitted frequency range) back to the earth. The phenomenon of radio waves returning to the earth is total internal reflection.
-
+![](image-15.png)
 **Figure 10.53 Propagation of electromagnetic waves (a) Ground wave (b) Sky wave (c) Space wave**
 
 As the angle of incidence in the ionosphere increases, the sky wave reaches the ground area far from the transmitter. As this angle of incidence decreases, the sky wave begins to approach the ground area near the transmitter. As the angle of incidence decreases further, the radio waves penetrate the ionosphere and escape. For a specific angle of incidence, the receiving point (B) is found at a minimum distance from the transmitter. The minimum distance between the transmitter and the point where the sky wave reaches the ground is called the skip distance.
@@ -1473,32 +1463,31 @@ The range or distance of propagation (d) depends on the height of the antenna (h
 \[ d = \sqrt{2Rh} \qquad (10.9) \]
 
 where R is the radius of the earth. The propagation distance is illustrated in Figure 10.54.
-
+![](image-17.png)
 **Figure 10.54 Propagation distance**
 
 ### Example 10.12
 
 The height of a transmitting antenna is 40 m and the height of a receiving antenna is 30 m. What is the maximum line-of-sight communication distance between them? The radius of the earth is \( 6.4 \times 10^6 \ \mathrm{m} \).
-
+![](image-18.png)
 #### Solution:
 
 The total distance d between the transmitting and receiving antennas is equal to the sum of the individual propagation distances.
-
+![](image-19.png)
 ## 10.12 Some Important Communication Systems
 
 Various types of communication systems exist in practice according to requirements. Here, some important communication systems are introduced and their applications are briefly discussed.
-
+![](image-20.png)
 **Figure 10.55 Satellite communication system**
 
 ### 10.12.1 Satellite and Satellite Communication
-
-i) Weather satellite: These are used to monitor the earth's weather and surface temperature. By measuring the mass of clouds, these satellites help us predict rain, dangerous cyclones and storms.
 
 Satellite communication is a type of communication that exchanges signals between transmitter and receiver via satellite. The information signal is transmitted from the ground station to the satellite in space through uplink (frequency band 6 GHz). Then it is received by a device called transponder there and retransmitted to another ground station through downlink (frequency band 4 GHz) (Figure 10.55).
 
 #### Applications
 
 Satellites are divided into various types based on their applications.
+i) Weather satellite: These are used to monitor the earth's weather and surface temperature. By measuring the mass of clouds, these satellites help us predict rain, dangerous cyclones and storms.
 
 ii) Communication satellite: These are used to broadcast television, radio, and internet signals. Several satellites are used to broadcast worldwide television.
 
@@ -1507,7 +1496,7 @@ iii) Navigation satellite: These engage in locating the geographic position of s
 ### 10.12.2 Fibre Optic Communication
 
 Fibre optic communication is the method of transmitting information through optical fibres from one place to another using light pulses. It operates on the principle of total internal reflection.
-
+![](image-21.png)
 **Figure 10.56 Optical fibres**
 
 #### Applications
@@ -1532,7 +1521,7 @@ ii) Its technology is expensive.
 
 ### 10.12.3 Radar and Applications
 
-RADAR is an acronym for RAdio Detection And Ranging. It is one of the important applications of communication systems. It is used to detect distant objects such as vehicles, ships, spacecraft and to know their location. Radar helps us detect the angle, distance and direction of objects that are not visible to our eyes.
+RADAR is an acronym for Radio Detection And Ranging. It is one of the important applications of communication systems. It is used to detect distant objects such as vehicles, ships, spacecraft and to know their location. Radar helps us detect the angle, distance and direction of objects that are not visible to our eyes.
 
 Radar uses electromagnetic waves for communication. First, the electromagnetic signal is transmitted in all directions in space through an antenna. The signal that hits a specific target is reflected and retransmitted in all directions. This reflected signal (echo) is received by the radar antenna and delivered to the receiver.
 
@@ -1553,11 +1542,13 @@ iv) In emergency situations, it helps locate and rescue people.
 ### 10.12.4 Mobile Communication
 
 Mobile communication helps people in different places to communicate without any connections like wires or cables. It allows transmission over a large area without connection. It allows us to communicate with others from anywhere, not just from a specific place like home or office. It also provides communication facilities to distant places.
-
+![](image-22.png)
 **Figure 10.57 Mobile communication**
 
 It provides roaming facility, meaning the user can move from one place to another without communication interruption. The cost of establishing and maintaining this communication network is low.
-
+i) It is used for personal communication and cellular phones offer voice and data connectivity with high speed.
+ii) Transmission of news across the globe is done within a few seconds.
+iii) Using Internet of Things (IoT), it is made possible to control various devices from a single device. Example: home automation using a mobile phone.
 iv) In education, it is used in modern classrooms with facilities, availability of lesson notes on the internet, and monitoring student activities.
 
 ### 10.12.5 Internet
@@ -1565,12 +1556,6 @@ iv) In education, it is used in modern classrooms with facilities, availability 
 Internet is a technology that is growing with diverse tools in the communication system. It provides new ways to communicate with people. The internet is a worldwide recognized huge computer network that connects millions of people via computers. It has numerous applications in all walks of life.
 
 #### Applications
-
-i) It is used for personal communication and provides high-speed voice and data connection to mobile phones.
-
-ii) News can be broadcast worldwide within seconds.
-
-iii) Through the Internet of Things (IoT), it is possible to control various devices through one device. Example: Using a mobile phone, all household appliances can be operated.
 
 i) Search engine: An internet service that helps to search for information on global websites is called a search engine.
 
@@ -1625,7 +1610,7 @@ iii) E-commerce: The internet is used for buying and selling goods, availing ser
 
 ### I. Choose the correct answer
 
-1. The voltage barrier of a silicon diode is (approximately)
+1. The barrier potential of a silicon diode is approximately,
 
 a) 0.7 V b) 0.3V c) 2.0 V d) 2.2V
 
@@ -1641,15 +1626,15 @@ d) its resistance increases
 
 3. In an unbiased p-n junction, the majority charge carriers (i.e., holes) in the p-region diffuse to the n-region because
 
-a) of the voltage difference across the p-n junction
+a) of the potential difference across the p-n junction
 
-b) of higher hole concentration in p-region than in n-region
+b) the higher hole concentration in p-region than in n-region
 
-c) of attraction of free electrons in n-region
+c) the attraction of free electrons in n-region
 
 d) all of the above
 
-4. In a half wave rectifier, the rectified voltage is applied to a load resistor, during which part of the input signal variation does the load current flow?
+4. In a positive half wave rectifier, the rectified voltage is applied to a load resistor, during which part of the input signal variation does the load current flow?
 
 a) \( 0^\circ-90^\circ \) b) \( 90^\circ-180^\circ \) c) \( 0^\circ-180^\circ \) d) \( 0^\circ-360^\circ \)
 
@@ -1692,6 +1677,30 @@ d) all of the above
 a) 0100 b) 1000 c) 1100 d) 0011
 
 11. Which of the following represents a forward biased diode? (NEET)
+![](image-23.png)
+
+12. The given electrical network is equivalent to
+![](image-24.png)
+
+a) AND gate b) OR gate
+c) NOR gate d) NOT gate
+
+13. The output of the following circuit is 1 when the input ABC is
+![](image-25.png)
+a) 101 b) 100
+c) 110 d) 010
+
+14. The variation of frequency of carrier wave with respect to the amplitude of the modulating signal is called
+a) Amplitude modulation
+b) Frequency modulation
+c) Phase modulation
+d) Pulse width modulation
+
+15. The frequency range of 3 MHz to 30 MHz is used for
+a) Ground wave propagation
+b) Space wave propagation
+c) Sky wave propagation
+d) Satellite communication
 
 ### Answers
 
