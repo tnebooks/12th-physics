@@ -1,6 +1,9 @@
 ---
 title: "ENERGY AND POWER IN ELECTRICAL CIRCUITS"
 weight: 3
+references:
+    links:
+        - https://phet.colorado.edu/en/simulation/circuit-construction-kit-dc?utm_source=chatgpt.com
 ---
 
 ### ENERGY AND POWER IN ELECTRICAL CIRCUITS
@@ -10,6 +13,8 @@ When a battery is connected between the ends of a conductor, a current is establ
 ![](b27.png)
 
 <center>Figure 2.15 Energy given by the battery </center>
+
+#
 
 moves from point $a$ to $b$ it gains potential energy $dU = V.dQ$ and the chemical potential energy of the battery decreases by the same amount. When this charge $dQ$ passes through resistor it loses the potential energy $dU = V.dQ$ due to collision with atoms in the resistor and again reaches the point $a$ . This process occurs continuously till the battery is connected in the circuit. The rate at which the charge loses its electrical potential energy in the resistor can be calculated.
 
@@ -30,6 +35,8 @@ This expression gives the power delivered by the battery to any electrical syste
 ![](b28.png)
 <center>Figure 2.16 Electrical bulbs with power rating </center>
 
+#
+
 Usually these voltage rating refers AC RMS voltages. For a given bulb, if the voltage drop across the bulb is greater than voltage rating, the bulb will fuse.
 
 Using Ohm's law, power delivered to the resistance R is expressed in other forms
@@ -40,13 +47,13 @@ The total electrical energy used by any device is obtained by multiplying the po
 
 (1 kWh $= 1000$ Wh $= (1000$ W) (3600 s) $= 3.6\times 10^{6}$ J)
 
-## EXAMPLE 2.15
+### EXAMPLE 2.15
 
 A battery of voltage V is connected to 30 W bulb and 60 W bulb as shown in the figure. (a) Identify brightest bulb (b) which bulb has greater resistance? (c) Suppose the two bulbs are connected in series, which bulb will glow brighter?
 
 ![](b29.png)
 
-## Solution
+### Solution
 
  The power delivered by the battery $P = VI$ . Since the bulbs are connected in parallel, the voltage drop across each bulb is the same. If the voltage is kept fixed, then the power is directly proportional to current $(P \propto I)$ . So 60 W bulb draws twice as much as current as 30 W and it will glow brighter than 30 W bulb.
 
@@ -54,12 +61,12 @@ A battery of voltage V is connected to 30 W bulb and 60 W bulb as shown in the f
 
 (c) When the bulbs are connected in series, the current passing through each bulb is the same. It is equivalent to two resistors connected in series. The bulb which has higher resistance has higher voltage drop. So 30W bulb will glow brighter than 60W bulb. So the higher power rating does not always imply more brightness and it depends whether bulbs are connected in series or parallel.
 
-## EXAMPLE 2.16
+### EXAMPLE 2.16
 
 Two electric bulbs marked $20\mathrm{W} - 220\mathrm{V}$ and $100\mathrm{W} - 220\mathrm{V}$ are connected in series to $440\mathrm{V}$ supply. Which bulb will get fused?
 
 
-## Solution
+### Solution
 
 To check which bulb will get fused, the voltage drop across each bulb has to be calculated.
 
