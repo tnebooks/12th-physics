@@ -43,13 +43,16 @@ From the activities performed in lower classes, you might have noticed that the 
 
 > Gover suggested that the Earth's magnetic field is due to hot rays coming out from the Sun. These rays will heat up the air near equatorial region. Once air becomes hotter, it rises above and will move towards northern and southern hemispheres and get electrified. This may be responsible to magnetize the ferromagnetic materials near the Earth's surface. Till date, so many theories have been proposed. But none of the theories completely explains the cause for the Earth's magnetism.
 
-The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole. Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north pole of the Earth which is near the geographic south pole. The branch of physics which deals with the Earth's magnetic field is called Geomagnetism or Terrestrial magnetism.
+The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole. Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north pole of the Earth which is near the geographic south pole.**The branch of physics which deals with the Earth's magnetic field is called Geomagnetism or Terrestrial magnetism.**
 
 There are three quantities required to specify the magnetic field of the Earth on its surface, which are often called as the elements of the Earth's magnetic field. They are:
 
 (a) magnetic declination $(D)$
+
 (b) magnetic dip or inclination $(I)$
+
 (c) the horizontal component of the Earth's magnetic field $(B_{H})$
+
 
 ![Declination angle](img3.4.png)
 
@@ -59,12 +62,9 @@ The straight line which connects magnetic poles of Earth is known as magnetic ax
 
 When a magnetic needle is freely suspended, the alignment of the magnet does not exactly lie along the geographic meridian as shown in Figure 3.4. The angle between magnetic meridian at a point and geographical meridian is called the declination or magnetic declination $(D)$. At higher latitudes, the declination is greater whereas near the equator, the declination is smaller. In India, declination angle is very small and for Chennai, magnetic declination angle is $-1^{\circ}16'$ (which is negative (west)).
 
-The angle subtended by the Earth's total magnetic field $\vec{B}$ with the horizontal direction in the magnetic meridian is called dip or magnetic inclination $(I)$ at that point. For Chennai, inclination angle is $14^{\circ}28'$. The component of Earth's magnetic field along the horizontal direction in the magnetic meridian is called horizontal component of Earth's magnetic field, denoted by $B_{H}$.
+**The angle subtended by the Earth's total magnetic field $\vec{B}$ with the horizontal direction in the magnetic meridian is called dip or magnetic inclination $(I)$ at that point.** For Chennai, inclination angle is $14^{\circ}28'$. The component of Earth's magnetic field along the horizontal direction in the magnetic meridian is called horizontal component of Earth's magnetic field, denoted by $B_{H}$.
 
-Let $B_{E}$ be the net Earth's magnetic field at any point on the surface of the Earth. $B_{E}$ can be resolved into two perpendicu
-
-
-lar components.
+Let $B_{E}$ be the net Earth's magnetic field at any point on the surface of the Earth. $B_{E}$ can be resolved into two perpendicular components.
 
 ![Inclination angle](img3.5.png)
 
@@ -170,7 +170,9 @@ When the bar magnet is cut along the axis into two pieces, new magnetic pole str
 $$ p_{m}^{\prime} = q_{m}^{\prime} \cdot 2l $$
 $$ p_{m}^{\prime} = \frac{q_{m}}{2} \cdot 2l = \frac{1}{2} (q_{m} \cdot 2l) = \frac{1}{2} p_{m} $$
 
-In vector notation, $\vec{p}_{m}^{\prime} = \frac{1}{2}\vec{p}_{m}$
+In vector notation, 
+$\vec{p}'_m = \frac{1}{2}\vec{p}_m$
+
 
 (b) A bar magnet cut into two pieces perpendicular to the axis:
 
@@ -196,6 +198,8 @@ Geometrical length of the bar magnet is $12\mathrm{cm}$
 $$ \text{Magnetic length} = \frac{5}{6} \times (\text{geometrical length}) $$
 $$ = \frac{5}{6} \times 12 = 10\mathrm{cm} $$
 
+In this figure, the dot implies the pole points.
+
 ![](fig3.e.3.1.png)
 
 > **Important Notes:**
@@ -215,9 +219,9 @@ $$ = \frac{5}{6} \times 12 = 10\mathrm{cm} $$
 
 **(d) Magnetic flux**
 
-The number of magnetic field lines crossing any area normally is defined as magnetic flux $\Phi_{B}$ through the area. Mathematically, the magnetic flux through a surface of area $\vec{A}$ in a uniform magnetic field $\vec{B}$ is defined as
+**The number of magnetic field lines crossing any area normally is defined as magnetic flux $\Phi_{B}$ through the area.** Mathematically, the magnetic flux through a surface of area $\vec{A}$ in a uniform magnetic field $\vec{B}$ is defined as
 
-$$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
+>$$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
 
 where $\theta$ is the angle between $\vec{B}$ and $\vec{A}$ as shown in Figure 3.8.
 
@@ -460,7 +464,9 @@ $$
 
 $$ \tau = l \times q_m B \sin \theta + l \times q_m B \sin \theta $$
 $$ \tau = 2l \times q_m B \sin \theta $$
-$$ \tau = p_m B \sin \theta \qquad (\because q_m \times 2l = p_m) \quad (3.25) $$
+$$ \tau = p_m B \sin \theta \qquad (\because q_m \times 2l = p_m)  $$
+
+In vector notation,  $\vec{\tau} = \vec{p}_{m} \times \vec{B} \quad$ (3.25)
 
 **Important Questions:**
 
@@ -603,6 +609,9 @@ $$ \vec{M} = \frac{\text{Magnetic moment}}{\text{Volume}} = \frac{q_m \vec{2l}}{
 In magnitude, equation (3.31) is
 
 $$ |\vec{M}| = M = \frac{q_m \times 2l}{2l \times A} \Rightarrow M = \frac{q_m}{A} $$
+
+This means, **for a bar magnet the intensity of magnetisation can be defined as the pole strength per unit area (face area).**
+
 **(d) Magnetic induction or total magnetic field**
 
 When a substance like soft iron bar is placed in a uniform magnetising field $\vec{H}$, the substance gets magnetised. The magnetic induction (total magnetic field) inside the specimen $\vec{B}$ is equal to the sum of the magnetic field $\vec{B}_o$ produced in vacuum due to the magnetising field and the magnetic field $\vec{B}_m$ due to the induced magnetism of the substance.
