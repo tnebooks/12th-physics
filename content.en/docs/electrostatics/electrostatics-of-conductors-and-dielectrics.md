@@ -13,7 +13,7 @@ This is an experimental fact. Suppose the electric field is not zero inside the 
 
 ![Figure 1.42 Electric field of conductors](a41.png)
 
-Before applying the external electric field, the free electrons in the conductor are uniformly distributed in the conductor. When an electric field is applied, the free electrons accelerate to the left causing the left plate to be negatively charged and the right plate to be positively charged.
+Before applying the external electric field, the free electrons in the conductor are uniformly distributed in the conductor. When an electric field is applied, the free electrons accelerate to the left causing the left plate to be negatively charged and the right plate to be positively charged as shown in Figure 1.42.
 
 Due to this realignment of free electrons, there will be an internal electric field created inside the conductor which increases until it nullifies the external electric field. Once the external electric field is nullified the conductor is said to be in electrostatic equilibrium. The time taken by a conductor to reach electrostatic equilibrium is in the order of \(10^{-16}\mathrm{s}\), which can be taken as almost instantaneous.
 
@@ -65,7 +65,7 @@ Consider a cavity inside the conductor. Whatever be the charges at the surfaces 
 
 ![Figure 1.46 (a) Electric field inside the cavity (b) Faraday cage](a46.png)
 
-Faraday cage is an instrument used to demonstrate this effect. It is made up of metal bars. If an artificial lightning jolt is created outside, the person inside is not affected.
+Faraday cage is an instrument used to demonstrate this effect. It is made up of metal . If an artificial lightning jolt is created outside, the person inside is not affected.
 
 During lightning accompanied by a thunderstorm, it is always safer to sit inside a bus than in open ground or under a tree. The metal body of the bus provides electrostatic shielding, since the electric field inside is zero. During lightning, the charges flow through the body of the conductor to the ground with no effect on the person inside that bus.
 
@@ -115,7 +115,7 @@ But still the acceleration \(a = \left(g + \frac{qE}{m}\right)\) is constant thr
 | Maximum height h_max | \(\frac{v_0^2 \sin^2\theta}{2g}\) | \(\frac{v_0^2 \sin^2\theta}{2(g + qE/m)}\) |
 | Range R | \(\frac{v_0^2 \sin 2\theta}{g}\) | \(\frac{v_0^2 \sin 2\theta}{g + qE/m}\) |
 
-Note that the time of flight, maximum height, range are all inversely proportional to the acceleration of the object. Since \(\left(g + \frac{qE}{m}\right) > g\) for charge \(+q\), the quantities \(T\), \(h_{max}\) and \(R\) will decrease when compared to the motion of an object of mass m and zero net charge. Suppose the charge is \(-q\), then \(\left(g - \frac{qE}{m}\right) < g\), and the quantities \(T\), \(h_{max}\) and \(R\) will increase. Interestingly the trajectory is still parabolic.
+Note that the time of flight, maximum height, range are all inversely proportional to the acceleration of the object. Since \(\left(g + \frac{qE}{m}\right) > g\) for charge \(+q\), the quantities \(T\), \(h_{max}\) and \(R\) will decrease when compared to the motion of an object of mass m and zero net charge. Suppose the charge is \(-q\), then \(\left(g - \frac{qE}{m}\right) < g\), and the quantities \(T\), \(h_{max}\) and \(R\) will increase. Interestingly the trajectory is still parabolic as shown in the figure.
 
 ![](a49.png)
 
@@ -151,7 +151,7 @@ where \(\chi_{e}\) is a constant called the electric susceptibility which is a c
 
 ### Induced Electric field inside the dielectric
 
-When an external electric field is applied on a conductor, the charges are aligned in such a way that an internal electric field is created which tends to cancel the external electric field. But in the case of a dielectric, which has no free electrons, the external electric field only realigns the charges so that an internal electric field is produced. The magnitude of the internal electric field is smaller than that of external electric field. Therefore the net electric field inside the dielectric is not zero but is parallel to an external electric field with magnitude less than that of the external electric field. For example, let us consider a rectangular dielectric slab placed between two oppositely charged plates (capacitor).
+When an external electric field is applied on a conductor, the charges are aligned in such a way that an internal electric field is created which tends to cancel the external electric field. But in the case of a dielectric, which has no free electrons, the external electric field only realigns the charges so that an internal electric field is produced. The magnitude of the internal electric field is smaller than that of external electric field. Therefore the net electric field inside the dielectric is not zero but is parallel to an external electric field with magnitude less than that of the external electric field. For example, let us consider a rectangular dielectric slab placed between two oppositely charged plates (capacitor) as shown in the figure 1.50.
 
 The uniform electric field between the plates acts as an external electric field \(\vec{E}_{\mathrm{ext}}\) which polarizes the dielectric placed between plates. The positive charges are induced on one side surface and negative charges are induced on the other side of surface.
 

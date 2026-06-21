@@ -43,6 +43,9 @@ Thus unlike charges attract each other.
 
 Therefore, two kinds of charges exist in the universe. In the $18^{\mathrm{th}}$ century, Benjamin Franklin called one type of charge as positive $(+)$ and another type of charge as negative $(-)$ . Based on Franklin's convention, rubber and amber rods are negatively charged while the glass rod is positively charged. If the net charge is zero in the object, it is said to be electrically neutral.
 
+
+Following the pioneering work of J. J. Thomson and E. Rutherford, in the late 19th century and in the beginning of 20th century, we now understand that the atom is electrically neutral and is made up of the negatively charged electrons, positively charged protons, and neutrons which have zero charge. The material objects made up of atoms are neutral in general. When an object is rubbed with another object (for example rubber with silk cloth), some amount of charge is transferred from one object to another due to the friction between them and the object is then said to be electrically charged. Charging the objects through rubbing is called triboelectric charging.
+
 # Basic properties of charges
 
 ## (i) Electric charge
@@ -59,7 +62,7 @@ The total electric charge in the universe is constant and charge can neither be 
 
 ## (iii) Quantisation of charges
 
-What is the smallest amount of charge that can be found in nature? Experiments show that the charge on an electron is $-e$ and the charge on a proton is $+e$. Here, $e$ denotes the fundamental unit of charge. The charge $q$ on any object is equal to an integral multiple of this fundamental unit of charge.
+What is the smallest amount of charge that can be found in nature? Experiments show that the charge on an electron is $-e$ and the charge on a proton is $+e$. Here, $e$ denotes the fundamental unit of charge. The charge $q$ on any object is equal to an integral multiple of this fundamental unit of charge e.
 
 $$
 q = ne \qquad (1.1)
@@ -67,7 +70,7 @@ $$
 
 Here $n$ is any integer $(0,\ \pm1,\ \pm2,\ \pm3,\ \pm4,\ldots)$. This is called quantisation of electric charge.
 
-Robert Millikan in his famous experiment found that the value of $e$ is $1.6 \times 10^{-19}\,\text{C}$. The charge of an electron is $-1.6 \times 10^{-19}\,\text{C}$ and the charge of a proton is $+1.6 \times 10^{-19}\,\text{C}$.
+Robert Millikan in his famous experiment found that the value of $e$ =   $1.6 \times 10^{-19}\,\text{C}$. The charge of an electron is $-1.6 \times 10^{-19}\,\text{C}$ and the charge of a proton is $+1.6 \times 10^{-19}\,\text{C}$.
 
 When a glass rod is rubbed with silk cloth, the number of charges transferred is usually very large, typically of the order of $10^{18}$. So the charge quantisation is not appreciable at the macroscopic level. Hence, the charges are treated to be continuous (not discrete). But at the microscopic level, quantisation of charge plays a vital role.
 
@@ -83,9 +86,7 @@ $$
 q = ne
 $$
 
-Here $q = 1\,\text{C}$.
-
-So the number of electrons in $1$ coulomb of charge is
+Here $q = 1\,\text{C}$. So the number of electrons in $1$ coulomb of charge is
 
 $$
 n = \frac{q}{e}
