@@ -100,12 +100,12 @@ In the previous section, the electric flux for any arbitrary curved surface is d
 The total electric flux over this closed surface is written as
 
 $$
-\Phi_{E} = \oint \bar{E}\cdot d\bar{A} \quad (1.58)
+\Phi_{E} = \oint \vec{E}\cdot d\vec{A} \quad (1.58)
 $$
 
-Note the difference between equations (1.57) and (1.58). The integration in equation (1.58) is a closed surface integration and for each areal element, the outward normal is the direction of \(d\bar{A}\).
+Note the difference between equations (1.57) and (1.58). The integration in equation (1.58) is a closed surface integration and for each areal element, the outward normal is the direction of \(d\vec{A}\).
 
-The total electric flux over a closed surface can be negative, positive or zero. In one area element, the angle between \(d\bar{A}\) and \(\bar{E}\) is less than \(90^{\circ}\), then the electric flux is positive and in another areal element, the angle between \(d\bar{A}\) and \(\bar{E}\) is greater than \(90^{\circ}\), then the electric flux is negative.
+The total electric flux over a closed surface can be negative, positive or zero. In one area element, the angle between \(d\vec{A}\) and \(\vec{E}\) is less than \(90^{\circ}\), then the electric flux is positive and in another areal element, the angle between \(d\vec{A}\) and \(\vec{E}\) is greater than \(90^{\circ}\), then the electric flux is negative.
 
 In general, the electric flux is negative if the electric field lines enter the closed surface and positive if the electric field lines leave the closed surface.
 
@@ -114,10 +114,10 @@ In general, the electric flux is negative if the electric field lines enter the 
 A positive point charge \(Q\) is surrounded by an imaginary sphere of radius \(r\). We can calculate the total electric flux through the closed surface of the sphere using the equation (1.58).
 
 $$
-\Phi_{E} = \oint \bar{E}\cdot d\bar{A} = \oint EdA\cos \theta
+\Phi_{E} = \oint \vec{E}\cdot d\vec{A} = \oint EdA\cos \theta
 $$
 
-The electric field of the point charge is directed radially outward at all points on the surface of the sphere. Therefore, the direction of the area element \(d\bar{A}\) is along the electric field \(\bar{E}\) and \(\theta = 0^{\circ}\).
+The electric field of the point charge is directed radially outward at all points on the surface of the sphere. Therefore, the direction of the area element \(d\vec{A}\) is along the electric field \(\vec{E}\) and \(\theta = 0^{\circ}\).
 
 $$
 \Phi_{E} = \oint EdA \qquad \text{since } \cos 0^{\circ} = 1 \quad (1.59)
@@ -220,12 +220,12 @@ $$
 In vector form,
 
 $$
-\bar{E} = \frac{1}{2\pi\epsilon_{\circ}}\frac{\lambda}{r}\hat{r} \quad (1.67)
+\vec{E} = \frac{1}{2\pi\epsilon_{\circ}}\frac{\lambda}{r}\hat{r} \quad (1.67)
 $$
 
 The electric field due to the infinite charged wire depends on \(\frac{1}{r}\) rather than \(\frac{1}{r^2}\) which is for a point charge.
 
-Equation (1.67) indicates that the electric field is always along the perpendicular direction \((\hat{r})\) to wire. In fact, if \(\lambda >0\) then \(\bar{E}\) points perpendicularly outward \((\hat{r})\) from the wire and if \(\lambda < 0\) then \(\bar{E}\) points perpendicularly inward \((-\hat{r})\)
+Equation (1.67) indicates that the electric field is always along the perpendicular direction \((\hat{r})\) to wire. In fact, if \(\lambda >0\) then \(\vec{E}\) points perpendicularly outward \((\hat{r})\) from the wire and if \(\lambda < 0\) then \(\vec{E}\) points perpendicularly inward \((-\hat{r})\)
 
 The equation (1.67) is true only for an infinitely long charged wire. For a charged wire of finite length, the electric field need not be radial at all points. However, equation (1.67) for such a wire is taken approximately true around the mid-point of the wire and far away from the both ends of the wire.
 
@@ -240,7 +240,7 @@ Since the plane is infinitely large, the electric field should be same at all po
 Total electric flux linked with the cylindrical surface,
 
 $$
-\Phi_{E} = \oint \bar{E}\cdot d\bar{A} = \int_{\text{Curved}} \bar{E}\cdot d\bar{A} + \int_{P} \bar{E}\cdot d\bar{A} + \int_{P^{\prime}} \bar{E}\cdot d\bar{A} = \frac{Q_{encl}}{\epsilon_{0}}
+\Phi_{E} = \oint \vec{E}\cdot d\vec{A} = \int_{\text{Curved}} \vec{E}\cdot d\vec{A} + \int_{P} \vec{E}\cdot d\vec{A} + \int_{P^{\prime}} \vec{E}\cdot d\vec{A} = \frac{Q_{encl}}{\epsilon_{0}}
 $$
 
 The electric field is perpendicular to the area element at all points on the curved surface and is parallel to the surface areas at P and \(P^{\prime}\). Then, applying Gauss' law,
@@ -300,10 +300,10 @@ Let us choose a point P outside the shell at a distance r from the centre. The c
 ![Figure 1.40 The electric field due to a charged spherical shell](a39.png)
 
 $$
-\oint_{\text{Gaussian}} \bar{E} \cdot d\bar{A} = \frac{Q}{\epsilon_{\circ}} \quad (1.73)
+\oint_{\text{Gaussian}} \vec{E} \cdot d\vec{A} = \frac{Q}{\epsilon_{\circ}} \quad (1.73)
 $$
 
-The electric field \(\bar{E}\) and \(d\bar{A}\) point in the same direction (outward normal) at all the points on the Gaussian surface. The magnitude of \(\bar{E}\) is also the same at all points due to the spherical symmetry of the charge distribution.
+The electric field \(\vec{E}\) and \(d\vec{A}\) point in the same direction (outward normal) at all the points on the Gaussian surface. The magnitude of \(\vec{E}\) is also the same at all points due to the spherical symmetry of the charge distribution.
 
 $$
 \text{Hence } E \oint_{\text{Gaussian}} dA = \frac{Q}{\epsilon_{\circ}} \quad (1.74)
@@ -321,7 +321,7 @@ $$
 In vector form,
 
 $$
-\bar{E} = \frac{1}{4\pi\epsilon_{\circ}}\frac{Q}{r^2}\hat{r} \quad (1.75)
+\vec{E} = \frac{1}{4\pi\epsilon_{\circ}}\frac{Q}{r^2}\hat{r} \quad (1.75)
 $$
 
 The electric field is radially outward if \(Q > 0\) and radially inward if \(Q < 0\). From equation (1.75), we infer that the electric field at a point outside the shell will be the same as if the entire charge \(Q\) is concentrated at the centre of the spherical shell. (A similar result is observed in gravitation, for gravitational force due to a spherical shell with mass \(M\))
@@ -331,7 +331,7 @@ The electric field is radially outward if \(Q > 0\) and radially inward if \(Q <
 The electrical field at points on the spherical shell \((r = R)\) is given by
 
 $$
-\bar{E} = \frac{Q}{4\pi\epsilon_{\circ}R^2}\hat{r} \quad (1.76)
+\vec{E} = \frac{Q}{4\pi\epsilon_{\circ}R^2}\hat{r} \quad (1.76)
 $$
 
 **Case (c): At a point inside the spherical shell \((r < R)\)**

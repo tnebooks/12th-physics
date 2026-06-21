@@ -8,45 +8,45 @@ In mechanics, potential energy is defined for conservative forces. Since gravita
 
 ### Electrostatic Potential energy and Electrostatic potential
 
-Consider a positive charge \(q\) kept fixed at the origin which produces an electric field \(\bar{E}\) around it. A positive test charge \(q^{\prime}\) is brought from point R to point P against the repulsive force between \(q\) and \(q^{\prime}\) as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
+Consider a positive charge \(q\) kept fixed at the origin which produces an electric field \(\vec{E}\) around it. A positive test charge \(q^{\prime}\) is brought from point R to point P against the repulsive force between \(q\) and \(q^{\prime}\) as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
 
-The test charge \(q^{\prime}\) is brought from R to P with constant velocity which means that external force used to bring the test charge \(q^{\prime}\) from R to P must be equal and opposite to the coulomb force \(\left(\bar{F}_{ext} = -\bar{F}_{coulomb}\right)\). The work done is
+The test charge \(q^{\prime}\) is brought from R to P with constant velocity which means that external force used to bring the test charge \(q^{\prime}\) from R to P must be equal and opposite to the coulomb force \(\left(\vec{F}_{ext} = -\vec{F}_{coulomb}\right)\). The work done is
 
 ![Figure 1.20 Work done is equal to potential energy](a12.png)
 
 $$
-W = \int_{R}^{P}\bar{F}_{ext}\cdot d\bar{r} \quad (1.25)
+W = \int_{R}^{P}\vec{F}_{ext}\cdot d\vec{r} \quad (1.25)
 $$
 
 Since coulomb force is conservative, work done is independent of the path and it depends only on the initial and final positions of the test charge. If potential energy associated with \(q^{\prime}\) at P is \(U_{\mathrm{p}}\) and that at R is \(U_{\mathrm{R}}\), then difference in potential energy is defined as the work done to bring a test charge \(q^{\prime}\) from point R to P and is given as \(U_{\mathrm{p}} - U_{\mathrm{R}} = W = \Delta U\)
 
 $$
-\Delta U = \int_{R}^{P}\bar{F}_{ext}\cdot d\bar{r}
+\Delta U = \int_{R}^{P}\vec{F}_{ext}\cdot d\vec{r}
 $$
 $$
-\text{Since } \bar{F}_{ext} = -\bar{F}_{coulomb} = -q^{\prime}\bar{E} \quad (1.27)
+\text{Since } \vec{F}_{ext} = -\vec{F}_{coulomb} = -q^{\prime}\vec{E} \quad (1.27)
 $$
 
 The potential energy difference per unit charge is given by
 
 $$
-\frac{\Delta U}{q^{\prime}} = \frac{q^{\prime}\int_{R}^{P}(-\bar{E})\cdot d\bar{r}}{q^{\prime}} = -\int_{R}^{P}\bar{E}\cdot d\bar{r} \quad (1.29)
+\frac{\Delta U}{q^{\prime}} = \frac{q^{\prime}\int_{R}^{P}(-\vec{E})\cdot d\vec{r}}{q^{\prime}} = -\int_{R}^{P}\vec{E}\cdot d\vec{r} \quad (1.29)
 $$
 
-The above equation (1.29) is independent of \(q^{\prime}\). The quantity \(\frac{\Delta U}{q^{\prime}} = -\int_{R}^{P}\bar{E}\cdot d\bar{r}\) is called electric potential difference between P and R and is denoted as \(V_{\mathrm{p}} - V_{\mathrm{R}} = \Delta V\).
+The above equation (1.29) is independent of \(q^{\prime}\). The quantity \(\frac{\Delta U}{q^{\prime}} = -\int_{R}^{P}\vec{E}\cdot d\vec{r}\) is called electric potential difference between P and R and is denoted as \(V_{\mathrm{p}} - V_{\mathrm{R}} = \Delta V\).
 
 In other words, the electric potential difference is defined as the work done by an external force to bring unit positive charge from point R to point P.
 
 $$
-V_{p} - V_{R} = \Delta V = \int_{R}^{P} -\bar{E}\cdot d\bar{r} \quad (1.30)
+V_{p} - V_{R} = \Delta V = \int_{R}^{P} -\vec{E}\cdot d\vec{r} \quad (1.30)
 $$
 
 The electric potential energy difference can be written as \(\Delta U = q^{\prime}\Delta V\). Physically potential difference between two points is a meaningful quantity. The value of the potential itself at one point is not meaningful. Therefore the point R is taken to infinity and the potential at infinity is considered as zero \((V_{\infty} = 0)\).
 
-Then the electric potential at a point P is equal to the work done by an external force to bring a unit positive charge with constant velocity from infinity to the point P in the region of the external electric field \(\bar{E}\). Mathematically this is written as
+Then the electric potential at a point P is equal to the work done by an external force to bring a unit positive charge with constant velocity from infinity to the point P in the region of the external electric field \(\vec{E}\). Mathematically this is written as
 
 $$
-V_{p} = -\int_{\infty}^{P}\bar{E}\cdot d\bar{r} \quad (1.31)
+V_{p} = -\int_{\infty}^{P}\vec{E}\cdot d\vec{r} \quad (1.31)
 $$
 
 ### Important points
@@ -65,20 +65,20 @@ The electric potential at the point P is
 ![Figure 1.21 Electrostatic potential at a point P](a13.png)
 
 $$
-V = \int_{\infty}^{r}(-\bar{E})\cdot d\bar{r} = -\int_{\infty}^{r}\bar{E}\cdot d\bar{r} \quad (1.32)
+V = \int_{\infty}^{r}(-\vec{E})\cdot d\vec{r} = -\int_{\infty}^{r}\vec{E}\cdot d\vec{r} \quad (1.32)
 $$
 
 Electric field due to positive point charge \(q\) is
 
 $$
-\bar{E} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}
+\vec{E} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r}
 $$
 
 $$
-V = -\frac{1}{4\pi\epsilon_0}\int_{\infty}^{r}\frac{q}{r^2}\hat{r}\cdot d\bar{r}
+V = -\frac{1}{4\pi\epsilon_0}\int_{\infty}^{r}\frac{q}{r^2}\hat{r}\cdot d\vec{r}
 $$
 
-The infinitesimal displacement vector, \(d\bar{r} = d\bar{r}\) and using \(\hat{r}\cdot\hat{r} = 1\) we have
+The infinitesimal displacement vector, \(d\vec{r} = d\vec{r}\) and using \(\hat{r}\cdot\hat{r} = 1\) we have
 
 $$
 V = -\frac{1}{4\pi\epsilon_0}\int_{\infty}^{r}\frac{q}{r^2} dr
@@ -329,7 +329,7 @@ An equipotential surface is a surface on which all the points are at the same el
 
 ![Figure 1.27 Equipotential surface for uniform electric field](a20.png)
 
-For a uniform electric field, the equipotential surfaces form a set of planes normal to the electric field \(\bar{E}\).
+For a uniform electric field, the equipotential surfaces form a set of planes normal to the electric field \(\vec{E}\).
 
 ### Properties of equipotential surfaces
 
@@ -353,7 +353,7 @@ $$
 The electric field is the negative gradient of the electric potential. In vector form,
 
 $$
-\bar{E} = -\left(\frac{\partial V}{\partial x}\hat{i} + \frac{\partial V}{\partial y}\hat{j} + \frac{\partial V}{\partial z}\hat{k}\right) \quad (1.44)
+\vec{E} = -\left(\frac{\partial V}{\partial x}\hat{i} + \frac{\partial V}{\partial y}\hat{j} + \frac{\partial V}{\partial z}\hat{k}\right) \quad (1.44)
 $$
 
 **EXAMPLE 1.14**
@@ -364,13 +364,13 @@ The following figure represents the electric potential as a function of \(x\)-co
 
 **Solution**
 
-In the given problem, since the potential depends only on \(x\), we can use \(\bar{E} = -\frac{dV}{dx}\hat{i}\) (the other two terms \(\frac{\partial V}{\partial y}\) and \(\frac{\partial V}{\partial z}\) are zero)
+In the given problem, since the potential depends only on \(x\), we can use \(\vec{E} = -\frac{dV}{dx}\hat{i}\) (the other two terms \(\frac{\partial V}{\partial y}\) and \(\frac{\partial V}{\partial z}\) are zero)
 
-From 0 to 1 cm, the slope is constant and so \(\frac{dV}{dx} = 25V\mathrm{cm}^{-1}\). So \(\bar{E} = -25V\mathrm{cm}^{-1}\hat{i}\)
+From 0 to 1 cm, the slope is constant and so \(\frac{dV}{dx} = 25V\mathrm{cm}^{-1}\). So \(\vec{E} = -25V\mathrm{cm}^{-1}\hat{i}\)
 
-From 1 to 4 cm, the potential is constant, \(V = 25V\). It implies that \(\frac{dV}{dx} = 0\). So \(\bar{E} = 0\)
+From 1 to 4 cm, the potential is constant, \(V = 25V\). It implies that \(\frac{dV}{dx} = 0\). So \(\vec{E} = 0\)
 
-From 4 to 5 cm, the slope \(\frac{dV}{dx} = -25V\mathrm{cm}^{-1}\). So \(\bar{E} = +25V\mathrm{cm}^{-1}\hat{i}\).
+From 4 to 5 cm, the slope \(\frac{dV}{dx} = -25V\mathrm{cm}^{-1}\). So \(\vec{E} = +25V\mathrm{cm}^{-1}\hat{i}\).
 
 ![](a23.png)
 

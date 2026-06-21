@@ -347,7 +347,7 @@ $$
 V = V_{1} + V_{2} + V_{3} \quad (1.103)
 $$
 
-$$
+$$ since,Q=CV,we have
 V = \frac{Q}{C_{1}} + \frac{Q}{C_{2}} + \frac{Q}{C_{3}} = Q\left(\frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}\right) \quad (1.104)
 $$
 
