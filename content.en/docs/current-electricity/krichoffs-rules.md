@@ -1,34 +1,35 @@
 ---
 title: "Kirchoff Rules"
 weight: 5
+references:
+    links:
+        - https://everycircuit.com/?utm_source=chatgpt.com
 --- 
-
-## 2.5
 
 ## KIRCHHOFF'S RULES
 
 Ohm's law is useful only for simple circuits. For more complex circuits, Kirchhoff's rules can be used to find current and voltage. There are two generalized rules: i) Kirchhoff's current rule ii) Kirchhoff's voltage rule.
 
-### 2.5.1 Kirchhoff's first rule (Current rule or Junction rule)
+### Kirchhoff's first rule (Current rule or Junction rule)
 
 It states that the algebraic sum of the currents at any junction of a circuit is zero. It is a statement of law of conservation of electric charge. The charges that enter a given junction in a circuit must leave that junction since charge cannot build up or disappear at a junction. By convention, current entering the junction is taken as positive and current leaving the junction is taken as negative.
 
-2.5.2 Kirchhoff's Second rule (Voltage rule or Loop rule)
-
 ![](b38.png)
 <center>Figure 2.23 Kirchhoff's current rule </center>
+
+#
 
 Applying this law to the junction A in Figure 2.23
 
 $$I_{1} + I_{2} - I_{3} - I_{4} - I_{5} = 0$$ $$(\mathrm{or})$$ $$I_{1} + I_{2} = I_{3} + I_{4} + I_{5}$$
 
-## EXAMPLE 2.20
+### EXAMPLE 2.20
 
 For the given circuit find the value of $I$ .
 
 ![](b39.png)
 
-## Solution
+### Solution
 
 Applying Kirchhoff's rule to the point P in the circuit,
 
@@ -42,7 +43,7 @@ $$1.5\mathrm{A} - 0.9\mathrm{A} - I = 0$$
 
 $$0.6\mathrm{A} - I = 0$$
 
-### 2.5.2 Kirchhoff’s Second rule (Voltage rule or Loop rule)
+### Kirchhoff’s Second rule (Voltage rule or Loop rule)
 
 It states that in a closed circuit the algebraic sum of the products of the current and resistance of each part of the circuit is equal to the total emf included in the circuit. This rule follows from the law of conservation of energy for an isolated system (The energy supplied by the emf sources is equal to the sum of the energy delivered to all resistors). The product of current and resistance is taken as positive when the direction of the current is followed. Suppose if the direction of current is opposite to the direction of the loop, then product of current and voltage across the resistor is negative. It is shown in Figure 2.24 (a) and (b). The emf is considered positive when proceeding from the negative to the positive terminal of the cell. It is shown in Figure 2.24 (c) and (d).
 
@@ -51,13 +52,13 @@ It states that in a closed circuit the algebraic sum of the products of the curr
 
 Kirkhoff voltage rule has to be applied only when all currents in the circuit reach a steady state condition (the current in various branches are constant).
 
-## EXAMPLE 2.21
+### EXAMPLE 2.21
 
 The following figure shows a complex network of conductors which can be divided into two closed loops like EACE and ABCA. Apply Kirchhoff's voltage rule (KVR),
 
 ![](b41.png)
 
-## Solution
+### Solution
 
 Thus applying Kirchhoff's second law to the closed loop EACE
 
@@ -73,7 +74,7 @@ Calculate the current that flows in the 1 $\Omega$ resistor in the following cir
 
 ![](b42.png)
 
-## Solution
+### Solution
 
 ![](b43.png)
 
@@ -93,16 +94,16 @@ $$I_{1} = 1.83\mathrm{A}\mathrm{and}I_{2} = -0.13\mathrm{A}$$
 
 It implies that the current in the 1 ohm resistor flows from F to E.
 
-### 2.5.3 Wheatstone's bridge
+### Wheatstone's bridge
 
-An important application of Kirchhoff's rules is the Wheatstone's bridge. It is used to compare resistances and in determining the unknown resistance in electrical network. The bridge consists of four resistances $P$ , $Q$ , $R$ and $S$ connected as shown in Figure 2.25. A galvanometer $G$ is connected between the points $B$ and $D$ . The battery is connected between the points $A$ and $C$ . The current
+An important application of Kirchhoff's rules is the Wheatstone's bridge. It is used to compare resistances and in determining the unknown resistance in electrical network. The bridge consists of four resistances $P$ , $Q$ , $R$ and $S$ connected as shown in Figure 2.25. A galvanometer $G$ is connected between the points $B$ and $D$ . The battery is connected between the points $A$ and $C$ . The current through the galvanometer is $I_{G}$ and its resistance is $G$ .
 
 
 ![](b44.png)
 
 Figure 2.25 Wheatstone's bridge
 
-through the galvanometer is $I_{G}$ and its resistance is $G$ .
+
 
 Applying Kirchhoff's current rule to junction $B$ and $D$ respectively.
 
@@ -134,11 +135,11 @@ This is the condition for bridge balance. Only under this condition, galvanomete
 
 A galvanometer is an instrument used for detecting and measuring even very small electric currents. It is extensively useful to compare the potential difference between various parts of the circuit.
 
-## EXAMPLE 2.23
+### EXAMPLE 2.23
 
 In a Wheatstone's bridge $P = 100 \Omega$ , $Q = 1000 \Omega$ and $R = 40 \Omega$ . If the galvanometer shows zero deflection, determine the value of $S$ .
 
-# Solution
+### Solution
 
 \[
 \frac{P}{Q} = \frac{R}{S}
@@ -154,7 +155,7 @@ S = \frac{1000}{100} \times 40 = 400 \, \Omega
 
 ---
 
-# EXAMPLE 2.24
+### EXAMPLE 2.24
 
 What is the value of \( x \) when the Wheatstone's network is balanced?
 
@@ -162,9 +163,8 @@ What is the value of \( x \) when the Wheatstone's network is balanced?
 
 ![](b45.png)
 
----
 
-## Solution
+### Solution
 
 \[
 \frac{P}{Q} = \frac{R}{S}, \text{ when the network is balanced}
@@ -190,7 +190,7 @@ x = 625 - 400
 x = 225 \, \Omega
 \]
 
-### 2.5.4 Meter bridge
+### Meter bridge
 
 The meter bridge is another form of Wheatstone's bridge. It consists of a uniform wire of manganin AB of one meter length. This wire is stretched along a metre scale on a wooden board between two copper strips C and D. Between these two copper strips another copper strip E is mounted to enclose two gaps \( \mathrm{G}_{1} \) and \( \mathrm{G}_{2} \) as shown in Figure 2.26.
 
@@ -199,6 +199,8 @@ An unknown resistance \( P \) is connected in \( \mathrm{G}_{1} \) and a standar
 ![](b46.png)
 
 <center>Figure 2.26 Meter bridge </center>
+
+#
 
 The position of the jockey on the wire is adjusted so that the galvanometer shows zero deflection. Let the position of jockey at the wire be at J. The resistances corresponding to AJ and JB of the bridge wire form the resistances $R$ and $S$ of the Wheatstone's bridge. Then for the bridge balance
 
@@ -222,11 +224,11 @@ If $P$ is the unknown resistance equation (2.57) becomes,
 
 $$\rho = P\frac{\pi a^2}{l}$$
 
-## EXAMPLE 2.25
+### EXAMPLE 2.25
 
 In a meter bridge experiment with a standard resistance of $15\Omega$ in the right gap, the ratio of balancing length is 3:2. Find the value of the other resistance.
 
-## Solution
+### Solution
 
 $$Q = 15\Omega ,\qquad l_{1}:l_{2} = 3:2$$
 
@@ -244,15 +246,15 @@ P = Q \frac{l_1}{l_2}
 P = 15 \times \frac{3}{2} = 22.5 \, \Omega
 \]
 
-## EXAMPLE 2.26
+### EXAMPLE 2.26
 
 In a meter bridge experiment, the value of resistance in the resistance box connected in the right gap is $10\Omega$ . The balancing length is $l_{1} = 55\mathrm{cm}$ . Find the value of unknown resistance.
 
-## Solution
+### Solution
 
 $$Q = 10\Omega$$ $$\frac{P}{Q} = \frac{l_1}{100 - l_1} = \frac{l_1}{l_2}$$ $$P = Q\times \frac{l_1}{100 - l_1}$$ $$P = \frac{10\times 55}{100 - 55}$$ $$P = \frac{550}{45} = 12.2\Omega$$
 
-### 2.5.5 Potentiometer
+### Potentiometer
 
 Potentiometer is used for the accurate measurement of potential differences, current and resistances. It consists of ten meter long uniform wire of manganin or constantan stretched in parallel rows each of 1 meter length, on a wooden board. The two free ends A and B are brought to the same side and fixed to copper strips with binding screws. A meter scale is fixed parallel to the wire. A jockey is provided for making contact.
 
@@ -270,7 +272,11 @@ $$\mathrm{Hence} \epsilon = I r l \quad (2.58)$$
 
 Since $I$ and $r$ are constants, $\epsilon \propto l$ . The emf of the cell is directly proportional to the balancing length.
 
-### 2.5.6 Comparison of emf of two cells with a potentiometer
+#
+
+### Comparison of emf of two cells with a potentiometer
+
+#
 
 To compare the emf of two cells, the circuit connections are made as shown in Figure 2.28. Potentiometer wire CD is connected to a battery $B t$ and a key K in
 
@@ -279,6 +285,8 @@ The end C of the wire is connected to the terminal M of a DPDT (Double Pole Doub
 ![](b48.png)
 
 <center>Figure 2.28 Comparison of emf of two cells </center>
+
+#
 
 The DPDT switch is pressed towards \( \mathbf{M}_{1} \mathbf{N}_{1} \) so that cell \( \epsilon_{1} \) is included in the secondary circuit and the balancing length \( l_{1} \) is found by adjusting the jockey for zero deflection. Then the second cell \( \epsilon_{2} \) is included in the circuit and the balancing length \( l_{2} \) is determined. Let \( r \) be the resistance per unit length of the potentiometer wire and \( I \) be the current flowing through the wire.
 
@@ -290,12 +298,14 @@ $$\frac{\epsilon_{1}}{\epsilon_{2}} = \frac{l_{1}}{l_{2}} \quad (2.61)$$
 
 By including a rheostat (Rh) in the primary circuit, the experiment can be repeated several times by changing the current flowing through it.
 
-### 2.5.7 Measurement of internal resistance of a cell by potentiometer
+### Measurement of internal resistance of a cell by potentiometer
 
 To measure the internal resistance of a cell, the circuit connections are made as shown in Figure 2.29. The end C of the potentiometer wire is connected to the positive terminal of the battery Bt and the negative terminal of the battery is connected to the end D through a key $\mathrm{K}_{1}$ . This forms the primary circuit.
 
 ![](b49.png)
 <center>Figure 2.29 measurement of internal resistance </center>
+
+#
 
 The positive terminal of the cell of emf \( \epsilon \) whose internal resistance is to be determined is also connected to the end C of the wire. The negative terminal of the cell \( \epsilon \) is connected to a jockey through a galvanometer and a high resistance. A resistance box R and key \( \mathrm{K}_{2} \) are connected across the cell \( \epsilon \). With \( \mathrm{K}_{2} \) open, the balancing point J is obtained and the balancing length \( \mathrm{CJ} = l_{1} \) is measured. Since the cell is in open circuit, its emf is
 
