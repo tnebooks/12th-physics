@@ -12,11 +12,13 @@ Matter is made up of atoms. Each atom consists of a positively charged nucleus w
 In the XI Volume 2, unit 6, we studied, that the mass move from higher gravitational potential to lower gravitational potential. Likewise, positive charge flows from region of higher electric potential to region of lower electric potential and negative charge flows from region of lower electric potential to region of higher electric potential. So battery or electric cell simply creates potential difference across the conductor.
 
 ![](b2.png)
+
 <center>Figure 2.1 Water current and Electric current </center>
 
 The electric current in a conductor is defined as the rate of flow of charges through a given cross- sectional area A. It is shown in the Figure 2.2.
 
 ![](b3.png)
+
 <center>Figure 2.2 Charges flow across the area A </center>
 
 If a net charge Q passes through any cross section of a conductor in time t, then the current is defined as $I = Q$. But charge flow is not always constant. Hence current can more generally be defined as
@@ -46,6 +48,7 @@ $$I = \frac{Q}{t} = \frac{120}{60} = 2A$$
 ### Conventional Current
 
 ![](b4.png)
+
 <center>Figure 2.3 Direction of conventional current and electron flow </center>
 
 #
@@ -77,6 +80,10 @@ This velocity is called drift velocity $\vec{v}_{d}$ . The drift velocity is the
 The drift velocity $\bar{\nu}_{d}$ is given by
 
 >$$\begin{array}{l}\bar{\nu}_{d} = \bar{a}\tau \\ \bar{\nu}_{d} = -\frac{e\tau}{m}\bar{E} \end{array} \quad (2.4)$$
+
+$$
+\vec{U}_d = -\mu \vec{E} \tag{2.5}
+$$
 
 Here $\mu = \frac{e\tau}{m}$ is the mobility of the electron and it is defined as the magnitude of the drift velocity per unit electric field.
 
@@ -207,3 +214,22 @@ Charge of an electron, $\mathrm{e} = 1.6\times 10^{- 19}\mathrm{C}$
 The number of electrons flowing per second, $\mathrm{n} = ?$
 
 $$I = \frac{q}{t} = \frac{ne}{t}$$ $$n = \frac{It}{e}$$ $$n = \frac{32\times 1}{1.6\times 10^{-19}\mathrm{C}}$$ $$n = 20\times 10^{19} = 2\times 10^{20}\mathrm{electrons}$$
+
+
+
+# Note
+
+Why current density is a vector but current is a scalar?
+
+In general, the current \( I \) is defined as the scalar product of the current density and area vector in which the charges cross.
+
+$$
+I = \vec{J} \cdot \vec{A}
+$$
+
+The current \( I \) can be positive or negative depending on the choice of the unit vector normal to the surface area \( A \).
+
+![](note.png)
+
+**Figure 2.6 Current is a scalar**
+

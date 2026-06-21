@@ -6,6 +6,45 @@ tags: ["Magnetism", "Biot Savart", "Ampere Law", "Magnetic Field", "Tamil Nadu B
 summary: "Explains magnetic fields, magnetic effects of current, and forces on moving charges."
 ---
 
+## LEARNING OBJECTIVES
+
+In this unit, the student is exposed to
+
+- Earth's magnetic field and magnetic elements
+- Basic properties of magnets
+- Statement of Coulomb inverse square law of magnetism
+- Magnetic dipole
+- Magnetic field due to a dipole along axial line and equatorial line
+
+
+---
+- Torque acting on a bar magnet in a uniform magnetic field
+- Potential energy of a bar magnet placed in a uniform magnetic field
+- Magnetic properties - permeability, susceptibility etc
+- Classification of magnetic materials - dia, para and ferro magnetic materials
+- Concept of Hysteresis
+- Magnetic effects of electric current - long straight conductor and circular coil
+
+---
+- Right hand thumb rule and Maxwell's right hand cork screw rule
+- Biot-Savart's law - applications
+- Tangent law and Tangent Galvanometer
+- Current loop as a magnetic dipole
+- Magnetic dipole moment of revolving electron
+- Ampère's circuital law - applications
+
+---
+
+- Solenoid and toroid
+- Lorentz force - charged particle moving in an electromagnetic field
+- Cyclotron
+- Force on a current carrying conductor in a magnetic field
+- Force between two long parallel current carrying conductor
+- Torque on a current loop in a magnetic field
+- Moving Coil Galvanometer
+
+---
+
 # Magnetism and Magnetic Effects of Electric Current
 ### Class 12 – Tamil Nadu State Board
 ---

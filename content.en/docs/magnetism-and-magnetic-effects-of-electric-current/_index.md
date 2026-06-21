@@ -10,35 +10,6 @@ summary: "This unit introduces the fundamentals of magnetism, starting with the 
 
 > "The magnetic force is animate, or imitates a soul; in many respects it surpasses the human soul while it is united to an organic body" - William Gilbert
 
-## LEARNING OBJECTIVES
-
-In this unit, the student is exposed to
-
-- Earth's magnetic field and magnetic elements
-- Basic properties of magnets
-- Statement of Coulomb inverse square law of magnetism
-- Magnetic dipole
-- Magnetic field due to a dipole along axial line and equatorial line
-- Torque acting on a bar magnet in a uniform magnetic field
-- Potential energy of a bar magnet placed in a uniform magnetic field
-- Magnetic properties - permeability, susceptibility etc
-- Classification of magnetic materials - dia, para and ferro magnetic materials
-- Concept of Hysteresis
-- Magnetic effects of electric current - long straight conductor and circular coil
-- Right hand thumb rule and Maxwell's right hand cork screw rule
-- Biot-Savart's law - applications
-- Tangent law and Tangent Galvanometer
-- Current loop as a magnetic dipole
-- Magnetic dipole moment of revolving electron
-- Ampère's circuital law - applications
-- Solenoid and toroid
-- Lorentz force - charged particle moving in an electromagnetic field
-- Cyclotron
-- Force on a current carrying conductor in a magnetic field
-- Force between two long parallel current carrying conductor
-- Torque on a current loop in a magnetic field
-- Moving Coil Galvanometer
-
 ## 3.1 INTRODUCTION TO MAGNETISM
 
 ![Magnetic levitation](img3.1.png)
@@ -66,17 +37,22 @@ world – (a) speakers (b) head phones
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north-south direction of the Earth.
 
+### Do You Know
+
 > William Gilbert in 1600 proposed that Earth itself behaves like a gigantic powerful bar magnet. But this theory is not successful because the temperature inside the Earth is very high and so it will not be possible for a magnet to retain its magnetism.
 
 > Gover suggested that the Earth's magnetic field is due to hot rays coming out from the Sun. These rays will heat up the air near equatorial region. Once air becomes hotter, it rises above and will move towards northern and southern hemispheres and get electrified. This may be responsible to magnetize the ferromagnetic materials near the Earth's surface. Till date, so many theories have been proposed. But none of the theories completely explains the cause for the Earth's magnetism.
 
-The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole. Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north pole of the Earth which is near the geographic south pole. The branch of physics which deals with the Earth's magnetic field is called Geomagnetism or Terrestrial magnetism.
+The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole. Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north pole of the Earth which is near the geographic south pole.**The branch of physics which deals with the Earth's magnetic field is called Geomagnetism or Terrestrial magnetism.**
 
 There are three quantities required to specify the magnetic field of the Earth on its surface, which are often called as the elements of the Earth's magnetic field. They are:
 
 (a) magnetic declination $(D)$
+
 (b) magnetic dip or inclination $(I)$
+
 (c) the horizontal component of the Earth's magnetic field $(B_{H})$
+
 
 ![Declination angle](img3.4.png)
 
@@ -86,12 +62,9 @@ The straight line which connects magnetic poles of Earth is known as magnetic ax
 
 When a magnetic needle is freely suspended, the alignment of the magnet does not exactly lie along the geographic meridian as shown in Figure 3.4. The angle between magnetic meridian at a point and geographical meridian is called the declination or magnetic declination $(D)$. At higher latitudes, the declination is greater whereas near the equator, the declination is smaller. In India, declination angle is very small and for Chennai, magnetic declination angle is $-1^{\circ}16'$ (which is negative (west)).
 
-The angle subtended by the Earth's total magnetic field $\vec{B}$ with the horizontal direction in the magnetic meridian is called dip or magnetic inclination $(I)$ at that point. For Chennai, inclination angle is $14^{\circ}28'$. The component of Earth's magnetic field along the horizontal direction in the magnetic meridian is called horizontal component of Earth's magnetic field, denoted by $B_{H}$.
+**The angle subtended by the Earth's total magnetic field $\vec{B}$ with the horizontal direction in the magnetic meridian is called dip or magnetic inclination $(I)$ at that point.** For Chennai, inclination angle is $14^{\circ}28'$. The component of Earth's magnetic field along the horizontal direction in the magnetic meridian is called horizontal component of Earth's magnetic field, denoted by $B_{H}$.
 
-Let $B_{E}$ be the net Earth's magnetic field at any point on the surface of the Earth. $B_{E}$ can be resolved into two perpendicu
-
-
-lar components.
+Let $B_{E}$ be the net Earth's magnetic field at any point on the surface of the Earth. $B_{E}$ can be resolved into two perpendicular components.
 
 ![Inclination angle](img3.5.png)
 
@@ -197,7 +170,9 @@ When the bar magnet is cut along the axis into two pieces, new magnetic pole str
 $$ p_{m}^{\prime} = q_{m}^{\prime} \cdot 2l $$
 $$ p_{m}^{\prime} = \frac{q_{m}}{2} \cdot 2l = \frac{1}{2} (q_{m} \cdot 2l) = \frac{1}{2} p_{m} $$
 
-In vector notation, $\vec{p}_{m}^{\prime} = \frac{1}{2}\vec{p}_{m}$
+In vector notation, 
+$\vec{p}'_m = \frac{1}{2}\vec{p}_m$
+
 
 (b) A bar magnet cut into two pieces perpendicular to the axis:
 
@@ -223,6 +198,8 @@ Geometrical length of the bar magnet is $12\mathrm{cm}$
 $$ \text{Magnetic length} = \frac{5}{6} \times (\text{geometrical length}) $$
 $$ = \frac{5}{6} \times 12 = 10\mathrm{cm} $$
 
+In this figure, the dot implies the pole points.
+
 ![](fig3.e.3.1.png)
 
 > **Important Notes:**
@@ -242,9 +219,9 @@ $$ = \frac{5}{6} \times 12 = 10\mathrm{cm} $$
 
 **(d) Magnetic flux**
 
-The number of magnetic field lines crossing any area normally is defined as magnetic flux $\Phi_{B}$ through the area. Mathematically, the magnetic flux through a surface of area $\vec{A}$ in a uniform magnetic field $\vec{B}$ is defined as
+**The number of magnetic field lines crossing any area normally is defined as magnetic flux $\Phi_{B}$ through the area.** Mathematically, the magnetic flux through a surface of area $\vec{A}$ in a uniform magnetic field $\vec{B}$ is defined as
 
-$$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
+>$$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
 
 where $\theta$ is the angle between $\vec{B}$ and $\vec{A}$ as shown in Figure 3.8.
 
@@ -487,7 +464,9 @@ $$
 
 $$ \tau = l \times q_m B \sin \theta + l \times q_m B \sin \theta $$
 $$ \tau = 2l \times q_m B \sin \theta $$
-$$ \tau = p_m B \sin \theta \qquad (\because q_m \times 2l = p_m) \quad (3.25) $$
+$$ \tau = p_m B \sin \theta \qquad (\because q_m \times 2l = p_m)  $$
+
+In vector notation,  $\vec{\tau} = \vec{p}_{m} \times \vec{B} \quad$ (3.25)
 
 **Important Questions:**
 
@@ -630,6 +609,9 @@ $$ \vec{M} = \frac{\text{Magnetic moment}}{\text{Volume}} = \frac{q_m \vec{2l}}{
 In magnitude, equation (3.31) is
 
 $$ |\vec{M}| = M = \frac{q_m \times 2l}{2l \times A} \Rightarrow M = \frac{q_m}{A} $$
+
+This means, **for a bar magnet the intensity of magnetisation can be defined as the pole strength per unit area (face area).**
+
 **(d) Magnetic induction or total magnetic field**
 
 When a substance like soft iron bar is placed in a uniform magnetising field $\vec{H}$, the substance gets magnetised. The magnetic induction (total magnetic field) inside the specimen $\vec{B}$ is equal to the sum of the magnetic field $\vec{B}_o$ produced in vacuum due to the magnetising field and the magnetic field $\vec{B}_m$ due to the induced magnetism of the substance.
@@ -681,8 +663,6 @@ $$ M = \frac{\text{Magnetic moment}}{\text{Volume}} = \frac{2}{25 \times 10^{-6}
 
 $$ M = 0.8 \times 10^{5} \text{ A m}^{-1} $$
 
-## 3.5 CLASSIFICATION OF MAGNETIC MATERIALS
-
 ### EXAMPLE 3.9
 
 Using the relation $\vec{B} = \mu_0(\vec{H} + \vec{M})$, show that $\chi_m = \mu_r - 1$.
@@ -716,6 +696,9 @@ The susceptibility of material Y is
 $$ \chi_{m,Y} = \frac{|\vec{M}|}{|\vec{H}|} = \frac{2000}{1000} = 2 $$
 
 Since susceptibility of material Y is greater than that of material X, which implies that material Y can be easily magnetized.
+
+
+## 3.5 CLASSIFICATION OF MAGNETIC MATERIALS
 
 The magnetic materials are generally classified into three types based on their behaviour in a magnetising field. They are diamagnetic, paramagnetic and ferromagnetic materials.
 
@@ -2003,6 +1986,8 @@ Stretch out forefinger, the middle finger and the thumb of the left hand such th
 
 A metallic rod of linear density $0.25 \text{ kg m}^{-1}$ is lying horizontally on a smooth inclined plane which makes an angle of $45^{\circ}$ with the horizontal. The rod is not allowed to slide down by flowing a current through it when a magnetic field of strength 0.25 T is acting on it in the vertical direction. Calculate the electric current flowing in the rod to keep it stationary.
 
+![](fig3.e.24.1.png)
+
 **Solution**
 
 The linear density of the rod i.e., mass per unit length of the rod is $0.25 \text{ kg m}^{-1}$
@@ -2010,6 +1995,8 @@ The linear density of the rod i.e., mass per unit length of the rod is $0.25 \te
 $$ \Rightarrow \frac{m}{l} = 0.25 \text{ kg m}^{-1} $$
 
 Let $I$ be the current flowing in the metallic rod. The direction of electric current is into the plane of the paper. The direction of magnetic force $IBl$ is given by Fleming's left hand rule.
+
+![](fig3.e.24.2.png)
 
 For equilibrium of the rod,
 

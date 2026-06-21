@@ -512,6 +512,8 @@ i) inversely proportional to the number density $(n)$ of the electrons ii) inver
 
 In metals, if the temperature increases, the average time between the collision $(\tau)$ decreases and $n$ is independent of temperature. In semiconductors when temperature increases, $n$ increases and $\tau$ decreases, but increase in $n$ is dominant than decreasing $\tau$ so that overall resistivity decreases.
 
+## Do You Know
+
 The resistance of certain materials become zero below certain temperature $T_{c}$ . This temperature is known as critical temperature or transition temperature. The materials which exhibit this property are known as superconductors. This phenomenon was first observed by Kammerlingh Onnes in 1911. He found that mercury exhibits superconductor behaviour at 4.2 K. Since $R = 0$ , current once induced in a superconductor persists without any potential difference.
 
 ### EXAMPLE 2.13
