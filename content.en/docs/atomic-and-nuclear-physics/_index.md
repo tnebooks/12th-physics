@@ -520,53 +520,765 @@ On calculating wavelength or wave number difference between the faint and bright
 
 The difference between hydrogen atom and deuterium is in the number of neutron. Hydrogen atom contains an electron and a proton, whereas deuterium has an electron, a proton and a neutron.
 
-## Excitation energy and excitation potential
+# Unit 9: ATOMIC AND NUCLEAR PHYSICS (Continued)
+
+In 1931, H.C. Urey and co-workers noticed that in the shorter wavelength region of the hydrogen spectrum lines, faint companion lines are observed. From the isotope displacement effect (isotope shift), the isotope of the same element can produce slightly different spectral lines. The presence of these faint lines confirmed the existence of isotopes of hydrogen atom (which is named as Deuterium).
+
+On calculating wavelength or wave number difference between the faint and bright spectral lines, atomic mass of deuterium is measured to be twice that of atomic mass of hydrogen atom. Bohr atom model could not explain this isotopic shift. Thus by considering nuclear motion (although the movement of the nucleus is much smaller) into account in the Bohr atom model, the wave number or wavelength difference between the lines produced by the hydrogen atom and deuterium is theoretically calculated which perfectly agreed with the spectroscopic measured values.
+
+The difference between hydrogen atom and deuterium is in the number of neutron. Hydrogen atom contains an electron and a proton, whereas deuterium has an electron, a proton and a neutron.
+
+> **Note**
+
+### Excitation energy and excitation potential
 
 The energy required to excite an electron from lower energy state to any higher energy state is known as excitation energy.
 
-The excitation energy for an electron from ground state $(n = 1)$ to first excited state $(n = 2)$ is called first excitation energy.
+The excitation energy for an electron from ground state (n = 1) to first excited state (n = 2) is called first excitation energy.
 
 For hydrogen atom, it is
 
-$$E_{I} = E_{2} - E_{1} = -3.4 eV - (-13.6 eV) = 10.2 eV$$
+$$
+E_I = E_2 - E_1 = -3.4 \ eV - (-13.6 \ eV) = 10.2 \ eV
+$$
 
-Similarly, the excitation energy for an electron from ground state $(n = 1)$ to second excited state $(n = 3)$ is called second excitation energy, which is
+Similarly, the excitation energy for an electron from ground state (n = 1) to second excited state (n = 3) is called second excitation energy, which is
 
-$$E_{II} = E_{3} - E_{1} = -1.51 eV - (-13.6 eV) = 12.1 eV$$
+$$
+E_{II} = E_3 - E_1 = -1.51 \ eV - (-13.6 \ eV) = 12.1 \ eV
+$$
 
 and so on.
 
-## Excitation potential is defined as excitation energy per unit charge.
+Excitation potential is defined as excitation energy per unit charge.
 
 For hydrogen atom, the first excitation state energy is
 
-$$E_{I} = eV_{I}$$
+$$
+E_I = e V_I
+$$
 
 First excitation potential for hydrogen atom is,
 
-$$V_{I} = \frac{1}{e} E_{I} = 10.2 \mathrm{volt}$$
+$$
+\Rightarrow V_I = \frac{1}{e} E_I = 10.2 \ \text{volt}
+$$
 
 Similarly, second excitation potential is,
 
-$$V_{II} = \frac{1}{e} E_{II} = 12.1 \mathrm{volt} \ \text{and} \ \text{so} \ \text{on}.$$
+$$
+\Rightarrow V_{II} = \frac{1}{e} E_{II} = 12.1 \ \text{volt}
+$$
 
-![](Table-9.1.png)
+and so on.
 
-## Ionization energy and ionization potential
+### Ionization energy and ionization potential
 
-An atom is said to be ionized when an electron is completely removed from the atom - that is, it reaches the state with energy $E_{n\to \infty}$. The minimum energy required to remove an electron from an atom in the ground state is known as binding energy or ionization energy.
+An atom is said to be ionized when an electron is completely removed from the atom – that is, it reaches the state with energy \( E_{n \rightarrow \infty} \). The minimum energy required to remove an electron from an atom in the ground state is known as binding energy or ionization energy.
 
 For hydrogen atom, the ground state ionization energy is,
 
-$$E_{\mathrm{ionization}} = E_{\infty} - E_{1} = 0 - (-13.6 \mathrm{eV})$$ $$= 13.6 \mathrm{eV}$$
+$$
+E_{\text{ionization}} = E_{\infty} - E_1 = 0 - (-13.6 \ eV) = 13.6 \ eV
+$$
 
-When an electron is in $n^{\mathrm{th}}$ state of an atom, the energy required to remove an electron from that state - that is, the corresponding ionization energy is
+When an electron is in nth state of an atom, the energy required to remove an electron from that state – that is, the corresponding ionization energy is
 
-$$E_{\mathrm{ionization}} = E_{\infty} - E_{n} = 0 - \left(-\frac{13.6}{n^{2}} Z^{2} eV\right)$$ $$= \frac{13.6}{n^{2}} Z^{2} eV$$
+$$
+E_{\text{ionization}} = E_{\infty} - E_n = 0 - \left( -\frac{13.6 Z^{2}}{n^{2}} \ eV \right) = \frac{13.6 Z^{2}}{n^{2}} \ eV
+$$
 
-At normal room temperature, the electron in a hydrogen atom $(Z = 1)$ spends most of its time in the ground state. The amount of decay at the same time. The total number of nuclei decaying at any instant depends on the total number of nuclei present at that instant. This is known as the law of radioactive decay. The law states that the rate of decay of radioactive nuclei is directly proportional to the number of radioactive nuclei present at that instant.
+At normal room temperature, the electron in a hydrogen atom (Z=1) spends most of its time in the ground state.
 
-#### 9.6.4 Law of radioactive decay
+**Table 9.1**
+
+| Physical Quantity | Ground State | First Excited State | Second Excited State |
+|---|---|---|---|
+| Radius (\( r_n \propto n^2 \)) | 0.529 Å | 2.116 Å | 4.761 Å |
+| Velocity (\( v_n \propto n^{-1} \)) | \( 2.19 \times 10^6 \ \text{m s}^{-1} \) | \( 1.095 \times 10^6 \ \text{m s}^{-1} \) | \( 0.73 \times 10^6 \ \text{m s}^{-1} \) |
+| Total Energy (\( E_n \propto n^{-2} \)) | -13.6 eV | -3.4 eV | -1.51 eV |
+
+The energy required to remove an electron from the ground state of an atom to the outer most orbit \( (E = 0 \ \text{for} \ n \rightarrow \infty) \) is known as first ionization energy \( (13.6 \ \text{eV}) \). Then, the hydrogen atom is said to be in ionized state or simply called as hydrogen ion, denoted by \( H^{+} \). If we supply more energy than the ionization energy, the excess energy appears as the kinetic energy of the free electron.
+
+Ionization potential is defined as ionization energy per unit charge.
+
+$$
+V_{\text{ionization}} = \frac{1}{e} E_{\text{ionization}} = \frac{13.6}{n^{2}} Z^{2} \ V
+$$
+
+Thus, for a hydrogen atom \( (Z = 1) \), the ionization potential is
+
+$$
+V = \frac{13.6}{n^{2}} \ \text{volt}
+$$
+
+The radius, velocity and total energy in ground state, first excited state and second excited state are given in Table 9.1.
+
+## EXAMPLE 9.5
+
+Suppose the energy of an electron in hydrogen-like atom is given as \( E_n = -\frac{54.4}{n^{2}} \ \text{eV} \) where \( n \in \mathbb{N} \). Calculate the following:
+
+(a) Sketch the energy levels for this atom and compute its atomic number.
+(b) If the atom is in ground state, compute its first excitation potential and also its ionization potential.
+(c) When a photon with energy \( 42 \ \text{eV} \) and another photon with energy \( 51 \ \text{eV} \) are made to collide with this atom, does this atom absorb these photons?
+(d) Determine the radius of its first Bohr orbit.
+(e) Calculate the kinetic and potential energies of electron in the ground state.
+
+### Solutions
+
+(a) Given that
+
+$$
+E_n = -\frac{54.4}{n^{2}} \ \text{eV}
+$$
+
+For \( n = 1 \), the ground state energy \( E_1 = -54.4 \ \text{eV} \) and for \( n = 2 \), \( E_2 = -13.6 \ \text{eV} \). Similarly, \( E_3 = -6.04 \ \text{eV} \), \( E_4 = -3.4 \ \text{eV} \) and so on.
+
+For large value of principal quantum number - that is, \( n = \infty \), we get \( E_{\infty} = 0 \ \text{eV} \).
+
+(b) For a hydrogen-like atom, ground state energy is
+
+$$
+E_1 = -\frac{13.6}{n^{2}} Z^{2} \ \text{eV}
+$$
+
+where \( Z \) is the atomic number. Hence, comparing this energy with given energy, we get
+
+$$
+-13.6 Z^{2} = -54.4 \Rightarrow Z = \pm 2
+$$
+
+Since atomic number cannot be negative number, \( Z = 2 \).
+
+The first excitation energy is
+
+$$
+E_I = E_2 - E_1 = -13.6 \ \text{eV} - (-54.4 \ \text{eV}) = 40.8 \ \text{eV}
+$$
+
+Hence, the first excitation potential is
+
+$$
+V_I = \frac{1}{e} E_I = \frac{40.8 \ \text{eV}}{e} = 40.8 \ \text{volt}
+$$
+
+The first ionization energy is
+
+$$
+E_{\text{ionization}} = E_{\infty} - E_1 = 0 - (-54.4 \ \text{eV}) = 54.4 \ \text{eV}
+$$
+
+Hence, the first ionization potential is
+
+$$
+V_{\text{ionization}} = \frac{1}{e} E_{\text{ionization}} = \frac{54.4 \ \text{eV}}{e} = 54.4 \ \text{volt}
+$$
+
+(c) Consider two photons to be A and B.
+
+Given that photon A with energy \( 42 \ \text{eV} \) and photon B with energy \( 51 \ \text{eV} \)
+
+From Bohr assumption, difference in energy levels is equal to the energy photon absorbed, then atom will absorb energy, otherwise, not.
+
+$$
+E_2 - E_1 = -13.6 \ \text{eV} - (-54.4 \ \text{eV}) = 40.8 \ \text{eV} \approx 41 \ \text{eV}
+$$
+
+Similarly,
+
+$$
+E_3 - E_1 = -6.04 \ \text{eV} - (-54.4 \ \text{eV}) = 48.36 \ \text{eV}
+$$
+
+$$
+E_4 - E_1 = -3.4 \ \text{eV} - (-54.4 \ \text{eV}) = 51 \ \text{eV}
+$$
+
+$$
+E_3 - E_2 = -6.04 \ \text{eV} - (-13.6 \ \text{eV}) = 7.56 \ \text{eV}
+$$
+
+and so on.
+
+But note that \( E_2 - E_1 \neq 42 \ \text{eV} \), \( E_3 - E_1 \neq 42 \ \text{eV} \), \( E_4 - E_1 \neq 42 \ \text{eV} \) and \( E_3 - E_2 \neq 42 \ \text{eV} \).
+
+For all possibilities, no difference in energy is equal to the photon energy. Hence, photon A is not absorbed by this atom. But for Photon B, \( E_4 - E_1 = 51 \ \text{eV} \), which means Photon B can be absorbed by this atom.
+
+(d) The radius of Bohr orbit is \( r_n = \frac{a_0 \times n^{2}}{Z} \)
+
+For \( n = 1, Z = 2 \)
+
+$$
+r_1 = \frac{a_0}{2} = \frac{0.529}{2} = 0.265 \ \text{Å}
+$$
+
+(e) Since total energy is equal to negative of kinetic energy in Bohr atom model, we get
+
+$$
+KE_n = -E_n = -\left( -\frac{54.4}{n^{2}} \ \text{eV} \right) = \frac{54.4}{n^{2}} \ \text{eV}
+$$
+
+Since Potential energy is negative of twice the kinetic energy,
+
+$$
+U_n = -2 KE_n = -2 \left( \frac{54.4}{n^{2}} \ \text{eV} \right) = -\frac{108.8}{n^{2}} \ \text{eV}
+$$
+
+For ground state, put \( n = 1 \)
+
+Kinetic energy is \( KE_1 = 54.4 \ \text{eV} \) and Potential energy is \( U_1 = -108.8 \ \text{eV} \)
+
+### 9.3.4 Atomic spectra
+
+Materials in the solid, liquid and gaseous states emit electromagnetic radiations when they are heated up and these emitted radiations usually exhibit continuous spectrum. For example, when white light is examined through a spectrometer, electromagnetic radiations of all wavelengths are observed which is a continuous spectrum.
+
+In early twentieth century, many scientists spent considerable time in understanding the characteristic radiations emitted by the atoms of individual elements exposed to a flame or electrical discharge. When they were viewed or photographed, instead of a continuous spectrum, the radiation contains a set of discrete lines, each with characteristic wavelength. In other words, the wavelengths of the radiation obtained are well defined and their positions and intensities are characteristic of the element as shown in Figure 9.21.
+
+This implies that these spectra are unique to each element and can be used to identify the element of the gas (like finger print used to identify a person) - that is, it varies from one gas to another gas. This uniqueness of line spectra of elements made the scientists to determine the composition of stars, sun and also used to identify the unknown compounds.
+
+#### Hydrogen spectrum
+
+When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic radiations of certain sharply-defined characteristic wavelength (line spectrum), called hydrogen emission spectrum (Refer unit 5, volume 1 of +2 physics text book). The emission spectrum of hydrogen is shown in Figure 9.22(a).
+
+When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by allowing light to fall on the atoms, electrons can be excited. Once the electrons get sufficient energy as given by Bohr's postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state. The wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
+
+Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately \( 10^{-8} \ \text{s} \)) by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
+
+The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
+
+Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculated using equation derived from Bohr atom model.
+
+$$
+\frac{1}{\lambda} = R \left( \frac{1}{n^{2}} - \frac{1}{m^{2}} \right) = \overline{\nu} \quad (9.18)
+$$
+
+where \( \overline{\nu} \) is known as wave number which is inverse of wavelength, \( R \) is known as Rydberg constant whose value is \( 1.09737 \times 10^{7} \ \text{m}^{-1} \) and \( m \) and \( n \) are positive integers such that \( m > n \). The various spectral series are discussed below:
+
+#### (a) Lyman series
+
+For \( n = 1 \) and \( m = 2, 3, 4, \dots \) in equation (9.18), the wave numbers or wavelength of spectral lines of Lyman series which lies in ultra-violet region,
+
+$$
+\overline{\nu} = \frac{1}{\lambda} = R \left( \frac{1}{1^{2}} - \frac{1}{m^{2}} \right)
+$$
+
+#### (b) Balmer series
+
+For \( n = 2 \) and \( m = 3, 4, 5, \dots \) in equation (9.18), the wave numbers or wavelength of spectral lines of Balmer series which lies in visible region,
+
+$$
+\overline{\nu} = \frac{1}{\lambda} = R \left( \frac{1}{2^{2}} - \frac{1}{m^{2}} \right)
+$$
+
+#### (c) Paschen series
+
+Put \( n = 3 \) and \( m = 4, 5, 6, \dots \) in equation (9.18). The wave number or wavelength of spectral lines of Paschen series which lies in infra-red region (near IR) is
+
+$$
+\overline{\nu} = \frac{1}{\lambda} = R \left( \frac{1}{3^{2}} - \frac{1}{m^{2}} \right)
+$$
+
+#### (d) Brackett series
+
+For \( n = 4 \) and \( m = 5, 6, 7, \dots \) in equation (9.18), the wave numbers or wavelength of spectral lines of Brackett series which lies in infra-red region (middle IR),
+
+$$
+\overline{\nu} = \frac{1}{\lambda} = R \left( \frac{1}{4^{2}} - \frac{1}{m^{2}} \right)
+$$
+
+#### (e) Pfund series
+
+For \( n = 5 \) and \( m = 6, 7, 8, \dots \) in equation (9.18), the wave numbers or wavelength of spectral lines of Pfund series which lies in infra-red region (far IR),
+
+$$
+\overline{\nu} = \frac{1}{\lambda} = R \left( \frac{1}{5^{2}} - \frac{1}{m^{2}} \right)
+$$
+
+Different spectral series are listed in Table 9.2.
+
+**Table 9.2**
+
+| n | m | Series Name | Region |
+|---|---|---|---|
+| 1 | 2,3,4,.... | Lyman | Ultraviolet |
+| 2 | 3,4,5,.... | Balmer | Visible |
+| 3 | 4,5,6,.... | Paschen | Infrared |
+| 4 | 5,6,7,.... | Brackett | Infrared |
+| 5 | 6,7,8,.... | Pfund | Infrared |
+
+### Limitations of Bohr atom model
+
+The following are the drawbacks of Bohr atom model
+
+(a) Bohr atom model is valid only for hydrogen atom or hydrogen like-atoms but not for complex atoms.
+(b) When the spectral lines are closely examined, individual lines of hydrogen spectrum are accompanied by a number of faint lines. This is called fine structure. This cannot be explained by Bohr atom model.
+(c) Bohr atom model fails to explain the intensity variations in the spectral lines.
+(d) The distribution of electrons in various levels cannot be completely explained by Bohr atom model.
+
+## 9.4 NUCLEI
+
+### Introduction
+
+In the previous section, we have discussed about various preliminary atom models, Rutherford's alpha particle scattering experiment and Bohr atom model. These played a vital role to understand the structure of the atom and the nucleus. In this section, the structure of the nuclei and their properties, classifications are discussed.
+
+### 9.4.1 Composition of nucleus
+
+Atoms have a nucleus surrounded by electrons. The nucleus contains protons and neutrons. The neutrons are electrically neutral \( (q = 0) \) and the protons have positive charge \( (q = +e) \) equal in magnitude to the charge of the electron \( (q = -e) \). The number of protons in the nucleus is called the atomic number and it is denoted by \( Z \). The number of neutrons in the nucleus is called neutron number \( (N) \). The total number of neutrons and protons in the nucleus is called the mass number and it is denoted by \( A \). Hence, \( A = Z + N \).
+
+The two constituents of nucleus namely neutrons and protons, are collectively called as nucleons. The mass of a proton is \( 1.6726 \times 10^{-27} \ \mathrm{kg} \) which is roughly 1836 times the mass of the electron. The mass of a neutron is slightly greater than the mass of the proton and it is equal to \( 1.6749 \times 10^{-27} \ \mathrm{kg} \).
+
+To specify the nucleus of any element, we use the following general notation
+
+$$
+_{Z}^{A}X
+$$
+
+where \( X \) is the chemical symbol of the element, \( A \) is the mass number and \( Z \) is the atomic number. For example, the nitrogen nucleus is represented by \( ^{15}N \). It implies that nitrogen nucleus contains 15 nucleons of which 7 are protons \( (Z = 7) \) and 8 are neutrons \( (N = A - Z = 8) \). Note that once the element is specified, the value of \( Z \) is known and subscript \( Z \) is sometimes omitted. For example, nitrogen nucleus is simply denoted as \( ^{15}N \) and we call it as 'nitrogen fifteen'.
+
+Since the nucleus is made up of positively charged protons and electrically neutral neutrons, the overall charge of the nucleus is positive and it has the value \( +Ze \). But the atom is electrically neutral which implies that the number of electrons in the atom is equal to the number of protons in the nucleus.
+
+### 9.4.2 Isotopes, isobars, and isotones
+
+#### Isotopes:
+
+In nature, there are atoms of a particular element whose nuclei have same number of protons but different number of neutrons. These kinds of atoms are called isotopes. In other words, isotopes are atoms of the same element having same atomic number \( Z \), but different mass number \( A \). For example, hydrogen has three isotopes and they are represented as \( ^{1}H \) (hydrogen), \( ^{2}H \) (deuterium), and \( ^{3}H \) (tritium). Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
+
+The number of isotopes for the particular element and their relative abundances (percentage) vary with each element. For example, carbon has four main isotopes: \( ^{11}C \), \( ^{12}C \), \( ^{13}C \) and \( ^{14}C \). But in nature, the percentage of \( ^{12}C \) is approximately \( 98.9\% \), that of \( ^{13}C \) is \( 1.1\% \) and that of \( ^{14}C \) is \( 0.0001\% \). The other carbon isotope \( ^{11}C \), does not occur naturally and it can be produced only in nuclear reactions in the laboratory or by cosmic rays.
+
+Since the chemical properties of any atom are determined only by electrons, the isotopes of any element have same electronic structure and same chemical properties. So the isotopes of the same element are placed in the same location in the periodic table.
+
+#### Isobars:
+
+Isobars are the atoms of different elements having the same mass number \( A \), but different atomic number \( Z \). In other words, isobars are the atoms of different chemical elements which have same number of nucleons. For example \( ^{40}S \), \( ^{40}Cl \), \( ^{40}Ar \), \( ^{40}K \) and \( ^{40}Ca \) are isobars having same mass number 40 but different atomic numbers. Unlike isotopes, isobars are chemically different elements. They have different physical and chemical properties.
+
+#### Isotones:
+
+Isotones are the atoms of different elements having same number of neutrons. \( ^{12}_{5}B \) and \( ^{13}_{6}C \) are examples of isotones with 7 neutrons each.
+
+### 9.4.3 Atomic and nuclear masses
+
+The mass of nuclei is very small (about \( 10^{-25} \ \text{kg} \) or less). Therefore, it is more convenient to express it in terms of another unit namely, the atomic mass unit \( (u) \). One atomic mass unit \( (u) \) is defined as the \( (1/12)^{\text{th}} \) of the mass of the isotope of carbon \( ^{12}_{6}C \) which is more abundant in naturally occurring isotope of carbon.
+
+In other words
+
+$$
+1u = \frac{\text{mass of } ^{12}_{6}C \text{ atom}}{12} = \frac{1.9926 \times 10^{-26}}{12} = 1.660 \times 10^{-27} \ \mathrm{kg}
+$$
+
+In terms of this atomic mass unit, the mass of the neutron \( = 1.008665 \ u \), the mass of the proton \( = 1.007276 \ u \), the mass of the hydrogen atom \( = 1.007825 \ u \) and the mass of \( ^{12}C = 12u \). Note that usually mass specified is the mass of the atom, not mass of the nucleus. To get the nuclear mass of particular nucleus, the mass of electrons has to be subtracted from the corresponding atomic mass. Experimentally the atomic mass is determined by the instrument called Bainbridge mass spectrometer. If we determine the atomic mass of the element without considering the effect of its isotopes, we get the mass averaged over different isotopes weighted by their abundances.
+
+## EXAMPLE 9.6
+
+Calculate the average atomic mass of chlorine if no distinction is made between its different isotopes?
+
+### Solution
+
+The element chlorine is a mixture of \( 75.77\% \) of \( ^{35}_{17}Cl \) and \( 24.23\% \) of \( ^{37}_{17}Cl \). So the average atomic mass will be
+
+$$
+\frac{75.77}{100} \times 34.96885u + \frac{24.23}{100} \times 36.96593u = 35.453u
+$$
+
+In fact, the chemist uses the average atomic mass or simply called chemical atomic weight (35.453 u for chlorine) of an element. So it must be remembered that the atomic mass which is mentioned in the periodic table is basically averaged atomic mass.
+
+### 9.4.4 Size and density of the nucleus
+
+The alpha particle scattering experiment and many other measurements using different methods have been carried out on the nuclei of various atoms. The nuclei of atoms are found to be approximately spherical in shape. It is experimentally found that radius of nuclei for \( Z > 10 \), satisfies the following empirical formula
+
+$$
+R = R_0 A^{\frac{1}{3}} \quad (9.19)
+$$
+
+Here \( A \) is the mass number of the nucleus and the constant \( R_0 = 1.2 \ \text{F} \) where \( 1 \ \text{F} = 1 \times 10^{-15} \ \mathrm{m} \). The unit fermi (F) is named after Enrico Fermi.
+
+## EXAMPLE 9.7
+
+Calculate the radius of \( ^{197}_{79}Au \) nucleus.
+
+### Solution
+
+According to the equation (9.19),
+
+$$
+R = 1.2 \times 10^{-15} \times (197)^{\frac{1}{3}} = 6.97 \times 10^{-15} \ \mathrm{m}
+$$
+
+Or \( R = 6.97 \ \text{F} \)
+
+## EXAMPLE 9.8
+
+Calculate the density of the nucleus with mass number \( A \)
+
+### Solution
+
+From equation (9.19), the radius of the nucleus, \( R = R_0 A^{\frac{1}{3}} \). Then the volume of the nucleus
+
+$$
+V = \frac{4}{3} \pi R^{3} = \frac{4}{3} \pi R_0^{3} A
+$$
+
+By ignoring the mass difference between the proton and neutron, the total mass of the nucleus having mass number \( A \) is equal to \( A \cdot m \) where \( m \) is mass of the proton and is equal to \( 1.6726 \times 10^{-27} \ \mathrm{kg} \)
+
+Nuclear density
+
+$$
+\rho = \frac{\text{mass of the nucleus}}{\text{Volume of the nucleus}} = \frac{A \cdot m}{\frac{4}{3} \pi R_0^{3} A} = \frac{m}{\frac{4}{3} \pi R_0^{3}}
+$$
+
+The above expression shows that the nuclear density is independent of the mass number \( A \). In other words, all the nuclei \( (Z > 10) \) have the same density and it is an important characteristic property of all nuclei.
+
+We can calculate the numerical value of this density by substituting the corresponding values.
+
+$$
+\rho = \frac{1.67 \times 10^{-27}}{\frac{4}{3} \pi \times (1.2 \times 10^{-15})^{3}} = 2.3 \times 10^{17} \ \mathrm{kg} \ \mathrm{m}^{-3}
+$$
+
+It implies that nucleons are extremely tightly packed or compressed state in the nucleus and compare this density with the density of water which is \( 10^{3} \ \mathrm{kg} \ \mathrm{m}^{-3} \).
+
+> A single teaspoon of nuclear matter would weigh about trillion tons.
+
+### 9.4.5 Mass defect and binding energy
+
+It is experimentally found out that the mass of any nucleus is always less than the sum of the masses of its individual constituent particles. For example, consider the carbon-12 nucleus which is made up of 6 protons and 6 neutrons.
+
+Mass of 6 neutrons \( = 6 \times 1.00866u = 6.05196u \)
+Mass of 6 protons \( = 6 \times 1.00727u = 6.04362u \)
+Mass of 6 electrons \( = 6 \times 0.00055u = 0.0033u \)
+
+The expected mass of carbon-12 nucleus \( = 6.05196u + 6.04362u = 12.09558u \)
+
+But using mass spectroscopy, the atomic mass of carbon-12 atom is found to be \( 12u \). So if we subtract the mass of 6 electrons \( (0.0033u) \) from \( 12u \), we get the nuclear mass of carbon-12 atom which is equal to \( 11.9967u \). Hence the experimental mass of carbon-12 nucleus is less than the total mass of its individual constituents by \( \Delta m = 0.09888u \). This difference in mass \( \Delta m \) is called mass defect. In general, if M, \( m_p \) and \( m_n \) are mass of the nucleus \( (_{Z}^{A}X) \), the mass of a proton and the mass of a neutron respectively, then the mass defect is given by
+
+$$
+\Delta m = (Z m_p + N m_n) - M \quad (9.20)
+$$
+
+Where has this mass disappeared? The answer was provided by Albert Einstein with the help of famous mass-energy relation \( (E = mc^{2}) \). According to this relation, the mass can be converted into energy and energy can be converted into mass. In the case of the carbon-12 nucleus, when 6 protons and 6 neutrons combine to form carbon-12 nucleus, mass equal to mass defect disappears and an energy equivalent to missing mass is released. This energy is called the binding energy of the nucleus (BE) and is equal to \( (\Delta m)c^{2} \). In fact, to separate the carbon-12 nucleus into individual constituents, we must supply the energy equal to binding energy of the nucleus.
+
+We can write the equation (9.20) in terms of binding energy
+
+$$
+BE = (Z m_p + N m_n - M) c^{2} \quad (9.21)
+$$
+
+It is always convenient to work with the mass of the atom rather than with the mass of the nucleus. Hence by adding and subtracting the mass of the \( Z \) electrons, we get
+
+$$
+BE = (Z m_p + Z m_e + N m_n - M - Z m_e) c^{2} \quad (9.22)
+$$
+
+$$
+BE = [Z (m_p + m_e) + N m_n - M - Z m_e] c^{2}
+$$
+
+where \( m_p + m_e = m_H \) (mass of hydrogen atom)
+
+$$
+BE = [Z m_H + N m_n - (M + Z m_e)] c^{2} \quad (9.23)
+$$
+
+Here \( M + Z m_e = M_A \) where \( M_A \) is the mass of the atom of an element \( _{Z}^{A}X \).
+
+Finally, the binding energy in terms of the atomic masses is given by
+
+$$
+BE = [Z m_H + N m_n - M_A] c^{2} \quad (9.24)
+$$
+
+## EXAMPLE 9.9
+
+Compute the binding energy of \( ^{4}_{2}He \) nucleus using the following data: Atomic mass of Helium atom, \( M_A(He) = 4.00260u \) and that of hydrogen atom, \( m_H = 1.00785u \).
+
+### Solution:
+
+Binding energy \( BE = [Z m_H + N m_n - M_A] c^{2} \)
+
+For helium nucleus, \( Z = 2 \), \( N = A - Z = 4 - 2 = 2 \)
+
+Mass defect
+
+$$
+\Delta m = [(2 \times 1.00785u) + (2 \times 1.008665u) - 4.00260u] = 0.03043u
+$$
+
+$$
+BE = 0.03043u \times c^{2}
+$$
+
+$$
+BE = 0.03043 \times 931 \ \text{MeV} = 28.33 \ \text{MeV}
+$$
+
+\( [\because 1u c^{2} = 931 \ \text{MeV}] \)
+
+The binding energy of the \( ^{4}_{2}He \) nucleus is 28.33 MeV.
+
+### 9.4.6 Binding energy curve
+
+In the previous section, the origin of the binding energy is discussed. Now we can find the average binding energy per nucleon \( \overline{BE} \). It is given by
+
+$$
+\overline{BE} = \frac{[Z m_H + N m_n - M_A] c^{2}}{A} \quad (9.25)
+$$
+
+The average binding energy per nucleon is the average energy required to separate single nucleon from the particular nucleus. When \( \overline{BE} \) is plotted against A of all known nuclei, we get \( \overline{BE} \) average curve as shown in Figure 9.24.
+
+#### Important inferences from the average binding energy curve:
+
+(1) The value of \( \overline{BE} \) rises as the mass number increases until it reaches a maximum value of \( 8.8 \ \text{MeV} \) for \( A = 56 \) (iron) and then it slowly decreases.
+(2) The average binding energy per nucleon is about \( 8.5 \ \text{MeV} \) for nuclei having mass number lying between \( A = 40 \) and 120. These elements are comparatively more stable and not radioactive.
+(3) For higher mass numbers, the curve drops slowly and \( \overline{BE} \) for uranium is about 7.6 MeV. Such nuclei are unstable and exhibit radioactivity.
+
+From Figure 9.24, if two light nuclei with A<28 combine to form a nucleus with A<56, the binding energy per nucleon is more for final nucleus than initial nuclei. Thus, if the lighter elements combine to produce a nucleus of medium value A, a large amount of energy will be released. This is the basis of nuclear fusion and is the principle of the hydrogen bomb.
+
+(4) If a nucleus of heavy element is split (fission) into two or more nuclei of medium value A, the energy released would again be large. The atom bomb is based on this principle and huge energy of atom bombs comes from this fission when it is uncontrolled. Fission is explained in the section 9.7
+
+## EXAMPLE 9.10
+
+Compute the binding energy per nucleon of \( ^{4}_{2}He \) nucleus.
+
+### Solution
+
+From Example 9.9, we found that the BE of \( ^{4}_{2}He = 28.33 \ \text{MeV} \)
+
+Binding energy per nucleon \( = \overline{BE} = \frac{28.33 \ \text{MeV}}{4} \approx 7 \ \text{MeV} \).
+
+## 9.5 NUCLEAR FORCE
+
+Nucleus of the atoms contains protons and neutrons. From electrostatics, we learnt that like charges repel each other. In the nucleus, since the protons are separated by a distance of about a few fermi \( (10^{-15} \ \mathrm{m}) \), they must exert on each other a very strong repulsive force.
+
+For example, the electrostatic repulsive force between two protons separated by a distance \( 10^{-15} \ \mathrm{m} \)
+
+$$
+F = k \times \frac{q^{2}}{r^{2}} = 9 \times 10^{9} \times \frac{(1.6 \times 10^{-19})^{2}}{(10^{-15})^{2}} \approx 230 \ \mathrm{N}
+$$
+
+The acceleration experienced by a proton due to the force of \( 230 \ \mathrm{N} \) is
+
+$$
+a = \frac{F}{m} = \frac{230 \ \mathrm{N}}{1.67 \times 10^{-27} \ \mathrm{kg}} \approx 1.4 \times 10^{29} \ \mathrm{m} \ \mathrm{s}^{-2}
+$$
+
+This is nearly \( 10^{28} \) times greater than the acceleration due to gravity. So if the protons in the nucleus experience only the electrostatic force, then the nucleus would fly apart in an instant. Then how are the protons held together in the nucleus?
+
+From this observation, it was concluded that there must be a strong attractive force between protons to overcome the repulsive Coulombic force. This attractive force which holds the nucleons together is called strong nuclear force. The properties of the nuclear force were understood through various experiments carried out between 1930s and 1950s. A few properties of the nuclear force are:
+
+(i) The nuclear force is of very short range, acting only up to a distance of a few fermi. But inside the nucleus, the repulsive Coulomb force or attractive gravitational forces between two protons are much weaker than the nuclear force between two protons. Similarly, the gravitational force between two neutrons is also much weaker than nuclear force between the neutrons. So nuclear force is the strongest force in nature.
+
+(ii) The nuclear force is attractive and acts with an equal strength between proton-proton, proton-neutron, and neutron-neutron.
+
+## 9.6 RADIOACTIVITY
+
+In the binding energy curve, the stability of the nucleus that has \( Z > 82 \) starts to decrease and these nuclei are fairly unstable nuclei. Some of the unstable nuclei decay naturally by emitting certain particles to form a stable nucleus. The elements with atomic number \( Z > 82 \) and isotopes of lighter nuclei belong to the category of naturally-occurring radioactive nuclei. Each of these radioactive nuclei decays to another nucleus by the emission of \( ^{4}_{2}He \) nucleus \( (\alpha \text{-decay}) \) or electron or positron \( (\beta \text{-decay}) \) or gamma rays \( (\gamma \text{-decay}) \)
+
+The phenomenon of spontaneous emission of highly penetrating radiations such as \( \alpha \), \( \beta \) and \( \gamma \) rays by an element is called radioactivity and the substances which emit these radiations are called radioactive elements. These radioactive elements can be heavy elements \( (Z > 82) \) or isotopes of lighter and heavy elements and these isotopes are called radioisotopes. For example, carbon isotope \( ^{14}C \) is radioactive but \( ^{12}C \) is not.
+
+Radioisotopes have a variety of applications such as carbon dating, cancer treatment, etc. When a radioactive nucleus undergoes decay, the mass of the system decreases - that is, the mass of the initial nucleus before decay is always greater than the sum of the masses of the final nucleus and the emitted particle. This difference in mass \( \Delta m \) appears as the energy according to Einstein's relation \( E = |\Delta m| c^{2} \).
+
+The phenomenon of radioactivity was first discovered by Henri Becquerel in 1896. Later, Marie Curie and her husband Pierre Curie did a series of experiments in detail to understand the phenomenon of radioactivity. In India, Saha Institute of Nuclear Physics (SINP), Kolkata is the premier institute pursuing active research in nuclear physics.
+
+### 9.6.1 Alpha decay
+
+When an unstable nucleus decays by emitting an \( \alpha \)-particle \( (^{4}_{2}He \ \text{nucleus}) \), it loses two protons and two neutrons. As a result, its atomic number \( Z \) decreases by 2 and the mass number decreases by 4. We write the alpha decay process symbolically in the following way
+
+$$
+_{Z}^{A} X \rightarrow _{Z-2}^{A-4} Y + _{2}^{4} He \quad (9.26)
+$$
+
+Here \( X \) is called the parent nucleus and \( Y \) is called the daughter nucleus.
+
+Example: Decay of Uranium \( ^{238}_{92}U \) to thorium \( ^{234}_{90}Th \) with the emission of \( ^{4}_{2}He \) nucleus \( (\alpha \text{-particle}) \)
+
+$$
+^{238}_{92}U \rightarrow ^{234}_{90}Th + ^{4}_{2}He
+$$
+
+As already mentioned, the total mass of the daughter nucleus and \( ^{4}_{2}He \) nucleus is always less than that of the parent nucleus. The difference in mass \( (\Delta m = m_X - m_Y - m_{\alpha}) \) is released as energy called disintegration energy \( Q \) and is given by
+
+$$
+Q = (m_X - m_Y - m_{\alpha}) c^{2} \quad (9.27)
+$$
+
+Note that for spontaneous decay (natural radioactivity) \( Q > 0 \). In alpha decay process, the disintegration energy is certainly positive \( (Q > 0) \). In fact, the disintegration energy \( Q \) is also the net kinetic energy gained in the decay process or if the parent nucleus is at rest, \( Q \) is the total kinetic energy of daughter nucleus and the \( ^{4}He \) nucleus. Suppose \( Q < 0 \), then the decay process cannot occur spontaneously and energy must be supplied to induce the decay.
+
+In alpha decay, why does the unstable nucleus emit \( ^{4}He \) nucleus? Why does it not emit four separate nucleons? After all \( ^{4}He \) consists of two protons and two neutrons. For example, if \( ^{238}U \) nucleus decays into \( ^{234}Th \) by emitting four separate nucleons (two protons and two neutrons), then the disintegration energy \( Q \) for this process turns out to be negative. It implies that the total mass of products is greater than that of parent \( (^{238}U) \) nucleus. This kind of process cannot occur in nature because it would violate conservation of energy. In any decay process, the conservation of energy, laws of linear momentum and laws of angular momentum must be obeyed.
+
+## EXAMPLE 9.11
+
+(a) Calculate the disintegration energy when stationary \( ^{232}U \) nucleus decays to thorium \( ^{228}Th \) with the emission of \( \alpha \) particle. The atomic masses are of \( ^{232}U = 232.037156u \), \( ^{228}Th = 228.028741u \) and \( ^{4}He = 4.002603u \)
+(b) Calculate kinetic energies of \( ^{228}Th \) and \( \alpha \)-particle and their ratio.
+
+### Solution
+
+The difference in masses
+
+$$
+\Delta m = (m_U - m_{Th} - m_{\alpha}) = (232.037156 - 228.028741 - 4.002603)u = 0.005812u
+$$
+
+The mass lost in this decay \( = 0.005812u \)
+
+Since \( 1u = 931 \ \text{MeV} \), the energy \( Q \) released is
+
+$$
+Q = (0.005812u) \times (931 \ \text{MeV}/u) = 5.41 \ \text{MeV}
+$$
+
+This disintegration energy \( Q \) appears as the kinetic energy of \( \alpha \) particle and the daughter nucleus.
+
+In any decay, the total linear momentum must be conserved.
+
+Total linear momentum of the parent nucleus \( = \) total linear momentum of the daughter nucleus and alpha particle
+
+Since before decay, the uranium nucleus is at rest, its momentum is zero.
+
+By applying conservation of momentum, we get
+
+$$
+0 = m_{Th} \vec{v}_{Th} + m_{\alpha} \vec{v}_{\alpha}
+$$
+
+$$
+m_{\alpha} \vec{v}_{\alpha} = -m_{Th} \vec{v}_{Th}
+$$
+
+It implies that the alpha particle and daughter nucleus move in opposite directions.
+
+In magnitude \( m_{\alpha} v_{\alpha} = m_{Th} v_{Th} \)
+
+The velocity of alpha particle \( v_{\alpha} = \frac{m_{Th}}{m_{\alpha}} v_{Th} \)
+
+Since \( m_{Th} > m_{\alpha} \), \( v_{\alpha} > v_{Th} \).
+
+The ratio of the kinetic energy of alpha particle to that of the daughter nucleus
+
+$$
+\frac{KE_{\alpha}}{KE_{Th}} = \frac{\frac{1}{2} m_{\alpha} v_{\alpha}^{2}}{\frac{1}{2} m_{Th} v_{Th}^{2}} = \frac{m_{Th}}{m_{\alpha}} = \frac{228.028741}{4.002603} = 57
+$$
+
+The kinetic energy of alpha particle is 57 times greater than the kinetic energy of the daughter nucleus \( (^{228}_{90}Th) \).
+
+The disintegration energy \( Q = \) total kinetic energy of products
+
+$$
+KE_{\alpha} + KE_{Th} = 5.41 \ \text{MeV}
+$$
+
+$$
+57 KE_{Th} + KE_{Th} = 5.41 \ \text{MeV}
+$$
+
+$$
+KE_{Th} = \frac{5.41}{58} \ \text{MeV} = 0.093 \ \text{MeV}
+$$
+
+$$
+KE_{\alpha} = 57 KE_{Th} = 57 \times 0.093 = 5.301 \ \text{MeV}
+$$
+
+In fact, \( 98\% \) of total kinetic energy is taken by the \( \alpha \) particle.
+
+> **A very interesting application of alpha decay is in smoke detectors** which prevent us from any hazardous fire.
+>
+> The smoke detector uses around \( 0.2 \ \text{mg} \) of man-made weak radioactive isotope called americium \( (^{241}_{95}Am) \). This radioactive source is placed between two oppositely charged metal plates and \( \alpha \) radiations from \( ^{241}_{95}Am \) continuously ionize the nitrogen, oxygen molecules in the air space between the plates. As a result, there will be a continuous flow of small steady current in the circuit. If smoke enters, the radiation is being absorbed by the smoke particles rather than air molecules. As a result, the ionization and along with it the current is reduced. This drop in current is detected by the circuit and alarm starts.
+>
+> The radiation dosage emitted by americium is very much less than safe level, so it can be considered harmless.
+
+### 9.6.2 Beta decay
+
+In beta decay, a radioactive nucleus emits either electron or positron. If electron \( (e^{-}) \) is emitted, it is called \( \beta^{-} \) decay and if positron \( (e^{+}) \) is emitted, it is called \( \beta^{+} \) decay. The positron is an anti-particle of an electron whose mass is same as that of electron and charge is opposite to that of electron - that is, \( +e \). Both positron and electron are referred to as beta particles.
+
+#### \( \beta^{-} \) decay:
+
+In \( \beta^{-} \) decay, the atomic number of the nucleus increases by one but its mass number remains the same. This decay is represented by
+
+$$
+_{Z}^{A} X \rightarrow _{Z+1}^{A} Y + e^{-} + \overline{\nu} \quad (9.28)
+$$
+
+It implies that the element \( X \) becomes \( Y \) by giving out an electron and an antineutrino \( (\overline{\nu}) \). In other words, in each \( \beta^{-} \) decay, one neutron in the nucleus of \( X \) is converted into a proton with the emission of an electron \( (e^{-}) \) and an antineutrino. Thus,
+
+$$
+n \rightarrow p + e^{-} + \overline{\nu}
+$$
+
+Where \( p \) - proton, \( \overline{\nu} \) - antineutrino.
+
+Example: Carbon \( (^{14}_{6}C) \) is converted into nitrogen \( (^{14}_{7}N) \) through \( \beta^{-} \) decay.
+
+$$
+^{14}_{6}C \rightarrow ^{14}_{7}N + e^{-} + \overline{\nu}
+$$
+
+#### \( \beta^{+} \) decay:
+
+In \( \beta^{+} \) decay, the atomic number is decreased by one and again its mass number remains the same. This decay is represented by
+
+$$
+_{Z}^{A} X \rightarrow _{Z-1}^{A} Y + e^{+} + \nu \quad (9.29)
+$$
+
+It implies that the element \( X \) becomes \( Y \) by giving out a positron and neutrino \( (\nu) \). In other words, for each \( \beta^{+} \) decay, a proton in the nucleus \( X \) is converted into a neutron, a positron \( (e^{+}) \) and a neutrino. Thus,
+
+$$
+p \rightarrow n + e^{+} + \nu
+$$
+
+Example: Sodium \( (^{22}_{11}Na) \) is converted into neon \( (^{22}_{10}Ne) \) through \( \beta^{+} \) decay.
+
+$$
+^{22}_{11}Na \rightarrow ^{22}_{10}Ne + e^{+} + \nu
+$$
+
+However a single proton (not inside any nucleus) cannot exhibit \( \beta^{+} \) decay due to energy conservation, because neutron mass is larger than proton mass. But a single neutron (not inside any nucleus) can exhibit \( \beta^{-} \) decay.
+
+It is important to note that the electron or positron which comes out from nuclei during beta decay are not present inside the nuclei but they are produced only during the conversion of neutron into proton or proton into neutron inside the nucleus.
+
+#### Neutrino:
+
+Initially, it was thought that during beta decay, a neutron in the parent nucleus is converted into the daughter nuclei by emitting only electron as given by
+
+$$
+_{Z}^{A} X \rightarrow _{Z+1}^{A} Y + e^{-} \quad (9.30)
+$$
+
+But the kinetic energy of electron coming out of the nucleus did not match with the experimental results. In alpha decay, the alpha particle takes only certain allowed discrete energies whereas in beta decay, it was found that the beta particle (i.e., electron) has a continuous range of energies. But the conservation of energy and momentum gives specific single values for energy of electron and the recoiling nucleus Y. It seems that the conservation of energy, momentum are violated and could not be explained why energy of beta particle having continuous range of values. So beta decay remained as a puzzle for several years.
+
+After a detailed theoretical and experimental study in 1931, W. Pauli proposed a third particle which must be emitted in the beta decay process carrying away missing energy and momentum. Fermi later named this particle as neutrino (little neutral one) since its mass is small and is neutral carrying no charge. For many years, the neutrino (symbol \( \nu \), Greek nu) was hypothetical and could not be verified experimentally. Finally, the neutrino was detected experimentally in 1956 by Fredrick Reines and Clyde Cowan. Later Reines received Nobel prize in physics in the year 1995 for his discovery.
+
+The neutrino has the following properties:
+- It has zero charge
+- It has an antiparticle called anti-neutrino.
+- Recent experiments showed that the neutrino has very small mass.
+- It interacts very weakly with the matter. Therefore, it is very difficult to detect it. In fact, in every second, trillions of neutrinos coming from the sun are passing through our body without causing interaction.
+
+### 9.6.3 Gamma emission
+
+In \( \alpha \) and \( \beta \) decay, the daughter nucleus is in the excited state most of the time. The typical life time of excited state is approximately \( 10^{-11} \ \text{s} \). So this excited state nucleus immediately returns to the ground state or lower energy state by emitting highly energetic photons called \( \gamma \) rays. In fact, when the atom is in the excited state, it returns to the ground state by emitting photons of energy in the order of few eV. But when the excited state nucleus returns to its ground state, it emits a highly energetic photon \( (\gamma \ \text{rays}) \) of energy in the order of MeV. The gamma emission is given by
+
+$$
+_{Z}^{A} X^{*} \rightarrow _{Z}^{A} X + \gamma \ \text{rays} \quad (9.31)
+$$
+
+Here the asterisk \( (*) \) indicates the excited state nucleus. In gamma emission, there is no change in the mass number or atomic number of the nucleus.
+
+Boron \( \left( ^{12}_{5}B \right) \) has two beta decay modes as shown in Figure 9.25:
+
+(1) it undergoes beta decay directly into ground state carbon \( \left( ^{12}_{6}C \right) \) by emitting an electron of maximum energy 13.4 MeV.
+
+(2) it undergoes beta ray emission to an excited state of carbon \( \left( ^{12}_{6}C^{*} \right) \) by emitting an electron of maximum energy \( 9.0 \ \text{MeV} \) followed by gamma decay to ground state by emitting a photon of energy \( 4.4 \ \text{MeV} \). It is represented by
+
+$$
+^{12}_{5}B \rightarrow ^{12}_{6}C + e^{-} + \overline{\nu}
+$$
+
+$$
+^{12}_{6}C^{*} \rightarrow ^{12}_{6}C + \gamma
+$$
+
+### 9.6.4 Law of radioactive decay
+
+In the previous section, the decay process of a single radioactive nucleus was discussed. In practice, we have bulk material of radioactive sample which contains a vast number of the radioactive nuclei and not all the radioactive nucleus in a sample decay at the same time. It decays over a period of time and this decay is basically a random process. It implies that we cannot predict which nucleus is going to decay; rather we can determine on a probabilistic basis (like tossing a coin). We can calculate approximately how many nuclei in a sample are decayed over a period of time.
 
 Let $N$ be the number of radioactive nuclei present at any instant $t$. Then, from the law,
 

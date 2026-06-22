@@ -7,18 +7,18 @@ weight: 3
 
 The interaction between two charges is determined by Coulomb's law. How does the interaction itself occur? Consider a point charge kept at a point in space. If another point charge is placed at some distance from the first point charge, it experiences either an attractive force or repulsive force. This is called 'action at a distance'. But how does the second charge know about existence of the first charge which is located at some distance away from it? To answer this question, Michael Faraday introduced the concept of field.
 
-According to Faraday, every charge in the universe creates an electric field in the surrounding space, and if another charge is brought into its field, it will interact with the electric field at that point and will experience a force. It may be recalled that the interaction of two masses is similarly explained using the concept of gravitational field. Both the electric and gravitational forces are non-contact forces, hence the field concept is required to explain action at a distance.
+According to Faraday, every charge in the universe creates an electric field in the surrounding space, and if another charge is brought into its field, it will interact with the electric field at that point and will experience a force. It may be recalled that the interaction of two masses is similarly explained using the concept of gravitational field (Refer unit 6, volume 2, XI physics).  Both the electric and gravitational forces are non-contact forces, hence the field concept is required to explain action at a distance.
 
 Consider a source point charge \(q\) located at a point in space. Another point charge \(q*{0}\) (test charge) is placed at some point P which is at a distance \(r\) from the charge \(q\). The electrostatic force experienced by the charge \(q*{0}\) due to \(q\) is given by Coulomb's law.
 
 $$
-\bar{F} = \frac{kq q_{0}}{r^{2}}\hat{r} = \frac{1}{4\pi\epsilon_{0}}\frac{q q_{0}}{r^{2}}\hat{r} \quad \text{where } k = \frac{1}{4\pi\epsilon_{0}}
+\vec{F} = \frac{kq q_{0}}{r^{2}}\hat{r} = \frac{1}{4\pi\epsilon_{0}}\frac{q q_{0}}{r^{2}}\hat{r} \quad \text{where } k = \frac{1}{4\pi\epsilon_{0}}
 $$
 
-The charge \(q\) creates an electric field in the surrounding space within which its effect can be felt by another charge. It is measured in terms of a quantity called electric field intensity or simply called electric field \(\bar{E}\). The electric field at the point \(\mathbf{P}\) at a distance \(r\) from the point charge \(q\) is defined as the force that would be experienced by a unit positive charge placed at that point \(\mathbf{P}\) and is given by
+The charge \(q\) creates an electric field in the surrounding space within which its effect can be felt by another charge. It is measured in terms of a quantity called electric field intensity or simply called electric field \(\vec{E}\). The electric field at the point \(\mathbf{P}\) at a distance \(r\) from the point charge \(q\) is defined as the force that would be experienced by a unit positive charge placed at that point \(\mathbf{P}\) and is given by
 
 $$
-\bar{E} = \frac{\bar{F}}{q_0} = \frac{kq}{r^2}\hat{r} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r} \quad (1.4)
+\vec{E} = \frac{\vec{F}}{q_0} = \frac{kq}{r^2}\hat{r} = \frac{1}{4\pi\epsilon_0}\frac{q}{r^2}\hat{r} \quad (1.4)
 $$
 
 Here \(\hat{r}\) is the unit vector pointing from \(q\) to the point of interest \(\mathrm{P}\). The electric field is a vector quantity and its SI unit is newton per coulomb (NC\(^{-1}\)).
@@ -29,10 +29,10 @@ Here \(\hat{r}\) is the unit vector pointing from \(q\) to the point of interest
 
 ![Figure 1.4 Electric field of positive and negative charges](J.png)
 
-(ii) If the electric field at a point \(\mathrm{P}\) is \(\bar{E}\) then the force experienced by the test charge \(q\_{\mathrm{o}}\) placed at the point \(\mathrm{P}\) is
+(ii) If the electric field at a point \(\mathrm{P}\) is \(\vec{E}\) then the force experienced by the test charge \(q\_{\mathrm{o}}\) placed at the point \(\mathrm{P}\) is
 
 $$
-\bar{F} = q_0\bar{E} \quad (1.5)
+\vec{F} = q_0\vec{E} \quad (1.5)
 $$
 
 This is Coulomb's law in terms of electric field.
@@ -174,14 +174,14 @@ $$
 |\vec{E}_A| = 2.25\times 10^9\sqrt{2} = 3.18\times 10^9 \mathrm{NC}^{-1}
 $$
 
-The direction of \(\bar{E}_{\mathrm{A}}\) is given by \(\frac{\bar{E}_{\mathrm{A}}}{\left|\bar{E}\_{\mathrm{A}}\right|} = \frac{2.25\times 10^{9}(\hat{i} +\hat{j})}{2.25\times\sqrt{2}\times 10^{9}} = \frac{(\hat{i} +\hat{j})}{\sqrt{2}}\) which is the unit vector along OA.
+The direction of \(\vec{E}_{\mathrm{A}}\) is given by \(\frac{\vec{E}_{\mathrm{A}}}{\left|\vec{E}\_{\mathrm{A}}\right|} = \frac{2.25\times 10^{9}(\hat{i} +\hat{j})}{2.25\times\sqrt{2}\times 10^{9}} = \frac{(\hat{i} +\hat{j})}{\sqrt{2}}\) which is the unit vector along OA.
 
 ![](R.png)
 
 The acceleration experienced by an electron placed at point A is
 
 $$
-\bar{a}_{A} = \frac{\bar{F}}{m} = \frac{q\bar{E}_{A}}{m}
+\vec{a}_{A} = \frac{\vec{F}}{m} = \frac{q\vec{E}_{A}}{m}
 $$
 
 $$
@@ -264,7 +264,7 @@ The electric field lines are denser (more closer) in a region where the electric
 
 ![Figure 1.11 Electric field has larger magnitude at surface A than B](X.png)
 
-Figure 1.11 shows electric field lines from a positive point charge. The magnitude of the electric field for a point charge decreases as the distance increases \(\left|\bar{E}\right|\propto \frac{1}{r^2}\). So the electric field has greater magnitude at the surface A than at B. Therefore, the number of lines crossing the surface A is greater than the number of lines crossing the surface B. Note that at surface B the electric field lines are farther apart compared to the electric field lines at the surface A.
+Figure 1.11 shows electric field lines from a positive point charge. The magnitude of the electric field for a point charge decreases as the distance increases \(\left|\vec{E}\right|\propto \frac{1}{r^2}\). So the electric field has greater magnitude at the surface A than at B. Therefore, the number of lines crossing the surface A is greater than the number of lines crossing the surface B. Note that at surface B the electric field lines are farther apart compared to the electric field lines at the surface A.
 
 No two electric field lines intersect each other. If two lines cross at a point, then there will be two different electric field vectors at the same point. As a consequence, if some charge is placed in the intersection point, then it has to move in two different directions at the same time, which is physically impossible. Hence, electric field lines do not intersect.
 

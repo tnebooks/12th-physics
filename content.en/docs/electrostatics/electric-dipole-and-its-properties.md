@@ -35,9 +35,9 @@ $$
 3. Though the electric dipole moment for two equal and opposite charges is defined, it is possible to define and calculate the electric dipole moment for a collection of point charges. The electric dipole moment for a collection of \(n\) point charges is given by
 
 $$
-\bar{p} = \sum_{i = 1}^{n}q_{i}\bar{r}_{i} \quad (1.12)
+\vec{p} = \sum_{i = 1}^{n}q_{i}\vec{r}_{i} \quad (1.12)
 $$
-where \(\bar{r}_{i}\) is the position vector of charge \(q_{i}\) from the origin.
+where \(\vec{r}_{i}\) is the position vector of charge \(q_{i}\) from the origin.
 
 **EXAMPLE 1.10**
 
@@ -50,18 +50,18 @@ Calculate the electric dipole moment for the following charge configurations.
 Case (a) The position vector for the \(+q\) on the positive \(x\)-axis is \(a\hat{i}\) and position vector for the \(+q\) charge the negative \(x\) axis is \(-a\hat{i}\). So the dipole moment is,
 
 $$
-\bar{p} = (+q)(a\hat{i}) + (+q)(-a\hat{i}) = 0
+\vec{p} = (+q)(a\hat{i}) + (+q)(-a\hat{i}) = 0
 $$
 
-Case (b) In this case one charge is placed at the origin, so its position vector is zero. Hence only the second charge \(+q\) with position vector \(a\hat{i}\) contributes to the dipole moment, which is \(\bar{p} = qa\hat{i}\).
+Case (b) In this case one charge is placed at the origin, so its position vector is zero. Hence only the second charge \(+q\) with position vector \(a\hat{i}\) contributes to the dipole moment, which is \(\vec{p} = qa\hat{i}\).
 
 From both cases (a) and (b), we can infer that in general the electric dipole moment depends on the choice of the origin and charge configuration. But for one special case, the electric dipole moment is independent of the origin. If the total charge is zero, then the electric dipole moment will be the same irrespective of the choice of the origin. It is because of this reason that the electric dipole moment of an electric dipole (total charge is zero) is always directed from \(-q\) to \(+q\), independent of the choice of the origin.
 
-Case (c) \(\bar{p} = (-2q)a\hat{j} + q(2a)(-\hat{j}) = -4qa\hat{j}\). Note that in this case \(\bar{p}\) is directed from \(-2q\) to \(+q\).
+Case (c) \(\vec{p} = (-2q)a\hat{j} + q(2a)(-\hat{j}) = -4qa\hat{j}\). Note that in this case \(\vec{p}\) is directed from \(-2q\) to \(+q\).
 
-Case (d) \(\bar{p} = -2qa(-\hat{i}) + qa\hat{j} + qa(-\hat{j}) = 2qa\hat{i}\)
+Case (d) \(\vec{p} = -2qa(-\hat{i}) + qa\hat{j} + qa(-\hat{j}) = 2qa\hat{i}\)
 
-The water molecule \(\mathrm{H}_{2}\mathrm{O}\) has this charge configuration. The water molecule has three atoms (two H atom and one O atom). The centres of positive (H) and negative (O) charges of a water molecule lie at different points, hence it possess permanent dipole moment. The electric dipole moment \(\bar{p}\) is directed from centre of negative charge to the centre of positive charge.
+The water molecule \(\mathrm{H}_{2}\mathrm{O}\) has this charge configuration. The water molecule has three atoms (two H atom and one O atom). The centres of positive (H) and negative (O) charges of a water molecule lie at different points, hence it possess permanent dipole moment. The electric dipole moment \(\vec{p}\) is directed from centre of negative charge to the centre of positive charge.
 
 ![](a6.png)
 
@@ -73,12 +73,12 @@ Consider an electric dipole placed on the \(x\)-axis as shown in Figure 1.15. A 
 
 ![Figure 1.15 Electric field of the dipole along the axial line](a7.png)
 
-The electric field at a point C due to \(+q\) is \(\bar{E}_{+} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}\) along BC
+The electric field at a point C due to \(+q\) is \(\vec{E}_{+} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}\) along BC
 
 Since the electric dipole moment vector \(\vec{p}\) is from \(-q\) to \(+q\) and is directed along BC, the above equation is rewritten as
 
 $$
-\bar{E}_{+} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}\hat{p} \quad (1.13)
+\vec{E}_{+} = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}\hat{p} \quad (1.13)
 $$
 
 where \(\hat{p}\) is the electric dipole moment unit vector from \(-q\) to \(+q\)
@@ -86,84 +86,84 @@ where \(\hat{p}\) is the electric dipole moment unit vector from \(-q\) to \(+q\
 The electric field at a point C due to \(-q\) is
 
 $$
-\bar{E}_{-} = -\frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r + a\right)^{2}}\hat{p} \quad (1.14)
+\vec{E}_{-} = -\frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r + a\right)^{2}}\hat{p} \quad (1.14)
 $$
 
-Since \(+q\) is located closer to the point C than \(-q\), \(\bar{E}_{+}\) is stronger than \(\bar{E}_{-}\). Therefore, the length of the \(\bar{E}_{+}\) vector is drawn larger than that of \(\bar{E}_{-}\) vector.
+Since \(+q\) is located closer to the point C than \(-q\), \(\vec{E}_{+}\) is stronger than \(\vec{E}_{-}\). Therefore, the length of the \(\vec{E}_{+}\) vector is drawn larger than that of \(\vec{E}_{-}\) vector.
 
 The total electric field at point C is calculated using the superposition principle of the electric field.
 
 $$
-\bar{E}_{tot} = \bar{E}_{+} + \bar{E}_{-}
+\vec{E}_{tot} = \vec{E}_{+} + \vec{E}_{-}
 $$
 $$
 = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r - a\right)^{2}}\hat{p} - \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r + a\right)^{2}}\hat{p}
 $$
 
 $$
-\bar{E}_{tot} = \frac{q}{4\pi\epsilon_{0}}\left(\frac{1}{\left(r - a\right)^{2}} - \frac{1}{\left(r + a\right)^{2}}\right)\hat{p} \quad (1.15)
+\vec{E}_{tot} = \frac{q}{4\pi\epsilon_{0}}\left(\frac{1}{\left(r - a\right)^{2}} - \frac{1}{\left(r + a\right)^{2}}\right)\hat{p} \quad (1.15)
 $$
 
 $$
-\bar{E}_{tot} = \frac{1}{4\pi\epsilon_{0}} q\left(\frac{4ra}{\left(r^{2} - a^{2}\right)^{2}}\right)\hat{p} \quad (1.16)
+\vec{E}_{tot} = \frac{1}{4\pi\epsilon_{0}} q\left(\frac{4ra}{\left(r^{2} - a^{2}\right)^{2}}\right)\hat{p} \quad (1.16)
 $$
 
-Note that the total electric field is along \(\bar{E}_{+}\) since \(+q\) is closer to C than \(-q\).
+Note that the total electric field is along \(\vec{E}_{+}\) since \(+q\) is closer to C than \(-q\).
 
 ![Figure 1.16 Total electric field of the dipole on the axial line](a8.png)
 
 If the point C is very far away from the dipole \((r \gg a)\). Then under this limit the term \(\left(r^{2} - a^{2}\right)^{2} = r^{4}\). Substituting this into equation (1.16), we get
 
 $$
-\bar{E}_{tot} = \frac{1}{4\pi\epsilon_{0}}\left(\frac{4aq}{r^{3}}\right)\hat{p} \quad (r \gg a)
+\vec{E}_{tot} = \frac{1}{4\pi\epsilon_{0}}\left(\frac{4aq}{r^{3}}\right)\hat{p} \quad (r \gg a)
 $$
 $$
-\text{since } 2aq\hat{p} = \bar{p}
+\text{since } 2aq\hat{p} = \vec{p}
 $$
 $$
-\bar{E}_{tot} = \frac{1}{4\pi\epsilon_{0}}\frac{2\bar{p}}{r^{3}} \quad (r \gg a)
+\vec{E}_{tot} = \frac{1}{4\pi\epsilon_{0}}\frac{2\vec{p}}{r^{3}} \quad (r \gg a)
 $$
 
-If the point C is chosen on the left side of the dipole, the total electric field is still in the direction of \(\bar{p}\).
+If the point C is chosen on the left side of the dipole, the total electric field is still in the direction of \(\vec{p}\).
 
 **Case (ii) Electric field due to an electric dipole at a point on the equatorial plane**
 
-Consider a point C at a distance \(r\) from the midpoint O of the dipole on the equatorial plane as shown in Figure 1.17. Since the point C is equidistant from \(+q\) and \(-q\), the magnitude of the electric fields at C due to \(+q\) and \(-q\) are the same. The direction of \(\bar{E}_{+}\) is along BC and the direction of \(\bar{E}_{-}\) is along CA. \(\bar{E}_{+}\) and \(\bar{E}_{-}\) can be resolved into two components; one component parallel to the dipole axis and the other perpendicular to it. Since perpendicular components \(\left|\bar{E}_{+}\right|\sin \theta\) and \(\left|\bar{E}_{-}\right|\sin \theta\) are equal in magnitude and oppositely directed, they cancel each other. The magnitude of the total electric field at point C is the sum of the parallel components of \(\bar{E}_{+}\) and \(\bar{E}_{-}\) and its direction is along \(-\hat{p}\) as shown.
+Consider a point C at a distance \(r\) from the midpoint O of the dipole on the equatorial plane as shown in Figure 1.17. Since the point C is equidistant from \(+q\) and \(-q\), the magnitude of the electric fields at C due to \(+q\) and \(-q\) are the same. The direction of \(\vec{E}_{+}\) is along BC and the direction of \(\vec{E}_{-}\) is along CA. \(\vec{E}_{+}\) and \(\vec{E}_{-}\) can be resolved into two components; one component parallel to the dipole axis and the other perpendicular to it. Since perpendicular components \(\left|\vec{E}_{+}\right|\sin \theta\) and \(\left|\vec{E}_{-}\right|\sin \theta\) are equal in magnitude and oppositely directed, they cancel each other. The magnitude of the total electric field at point C is the sum of the parallel components of \(\vec{E}_{+}\) and \(\vec{E}_{-}\) and its direction is along \(-\hat{p}\) as shown.
 
 ![Figure 1.17 Electric field due to a dipole at a point on the equatorial plane](a9.png)
 
 $$
-\bar{E}_{tot} = -\left|\bar{E}_{+}\right|\cos \theta \hat{p} - \left|\bar{E}_{-}\right|\cos \theta \hat{p} \quad (1.18)
+\vec{E}_{tot} = -\left|\vec{E}_{+}\right|\cos \theta \hat{p} - \left|\vec{E}_{-}\right|\cos \theta \hat{p} \quad (1.18)
 $$
 
-The magnitudes \(\bar{E}_{+}\) and \(\bar{E}_{-}\) are the same and are given by
+The magnitudes \(\vec{E}_{+}\) and \(\vec{E}_{-}\) are the same and are given by
 
 $$
-\left|\bar{E}_{+}\right| = \left|\bar{E}_{-}\right| = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r^{2} + a^{2}\right)} \quad (1.19)
+\left|\vec{E}_{+}\right| = \left|\vec{E}_{-}\right| = \frac{1}{4\pi\epsilon_{0}}\frac{q}{\left(r^{2} + a^{2}\right)} \quad (1.19)
 $$
 
 By substituting equation (1.19) into equation (1.18), we get
 
 $$
-\bar{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{2q\cos\theta}{\left(r^{2} + a^{2}\right)}\hat{p}
+\vec{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{2q\cos\theta}{\left(r^{2} + a^{2}\right)}\hat{p}
 $$
 $$
 = -\frac{1}{4\pi\epsilon_{0}}\frac{2qa}{\left(r^{2} + a^{2}\right)^{3/2}}\hat{p} \quad (\text{since }\cos \theta = \frac{a}{\sqrt{r^{2} + a^{2}}})
 $$
 
 $$
-\bar{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{\bar{p}}{\left(r^{2} + a^{2}\right)^{\frac{3}{2}}} \quad (\text{since }\bar{p} = 2qa\hat{p}) \quad (1.20)
+\vec{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{\vec{p}}{\left(r^{2} + a^{2}\right)^{\frac{3}{2}}} \quad (\text{since }\vec{p} = 2qa\hat{p}) \quad (1.20)
 $$
 
 At very large distances \((r \gg a)\), the equation (1.20) becomes
 
 $$
-\bar{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{\bar{p}}{r^{3}} \quad (r \gg a) \quad (1.21)
+\vec{E}_{tot} = -\frac{1}{4\pi\epsilon_{0}}\frac{\vec{p}}{r^{3}} \quad (r \gg a) \quad (1.21)
 $$
 
 ### Important inferences
 
-(i) From equations (1.17) and (1.21), it is inferred that for very large distances, the magnitude of the electric field at point on the dipole axis is twice the magnitude of the electric field at the point at the same distance on the equatorial plane. The direction of the electric field at points on the dipole axis is directed along the direction of dipole moment vector \(\bar{p}\) but at points on the equatorial plane it is directed opposite to the dipole moment vector, that is along \(-\bar{p}\).
+(i) From equations (1.17) and (1.21), it is inferred that for very large distances, the magnitude of the electric field at point on the dipole axis is twice the magnitude of the electric field at the point at the same distance on the equatorial plane. The direction of the electric field at points on the dipole axis is directed along the direction of dipole moment vector \(\vec{p}\) but at points on the equatorial plane it is directed opposite to the dipole moment vector, that is along \(-\vec{p}\).
 
 (ii) At very large distances, the electric field due to a dipole varies as \(\frac{1}{r^{3}}\). Note that for a point charge, the electric field varies as \(\frac{1}{r^{2}}\).This implies that the electric field due to a dipole at very large distances goes to zero faster than the electric field due to a point charge. The reason for this behavior is that at very large distance, the two charges appear to be close to each other and neutralize each other.
 

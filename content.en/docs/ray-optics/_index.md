@@ -41,9 +41,10 @@ $$ i = r \tag{6.1} $$
 
 
 ![](6.1.png)
+**Figure** Reflection of light
 
 
-The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays. If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection.
+The laws of reflection are valid at each point for any reflecting surface whether the surface is flat (or) curved. If the reflecting surface is flat, then incident parallel rays after reflection come out as parallel rays. If the reflecting surface is irregular, then the incident parallel rays after reflection come out as irregular rays (not parallel rays). Still the laws of reflection are valid at every point of incidence in irregular reflection as shown in figure 6.3(b).
 
 ![](6.2(a).png)
 
@@ -93,14 +94,14 @@ The triangles $\Delta ODA$ and $\Delta ODA'$ are congruent
 
 $$ \therefore AD = A'D $$
 
-This shows that the image distance $d_i$ inside the plane mirror is equal to the object distance $d_o$ in front of the plane mirror.
+This shows that the image distance $d_i$ inside the plane mirror is equal to the object distance $d_o$ in front of the plane mirror. The image formed by the plane mirror for extended object is shown in Figure 6.4(b).
 
 #### 6.1.5 Characteristics of the image formed by plane mirror
 
 (i) The image formed by a plane mirror is virtual, erect and laterally inverted sidewise (left/right).  
 (ii) The size of the image is equal to the size of the object.  
 (iii) The image distance behind the mirror is equal to the object distance in front of the mirror.  
-(iv) If an object is placed between two plane mirrors inclined at an angle $\theta$, then the number of images $n$ formed is given in Table 6.1.
+(iv) If an object is placed between two plane mirrors inclined at an angle $\theta$, then the number of images $n$ formed is given in Table 6.1the images formed are shown in Figure 6.5.
 
 ![](Table-6.1.png)
 
@@ -148,6 +149,8 @@ We shall get familiarised with some of the terminologies pertaining to spherical
 
 **Focal plane:** The plane through the focus and perpendicular to the principal axis is called the focal plane of the mirror.
 
+All the above mentioned terms are shown in Figure 6.7 for both concave and convex mirrors.
+
 ![](6.7.png)
 
 #### 6.2.1 Paraxial Rays and Marginal Rays
@@ -181,7 +184,8 @@ $PF$ is focal length $f$ and $PC$ is the radius of curvature $R$.
 
 $$ 2f = R \quad \text{(or)} \quad f = \frac{R}{2} \tag{6.4} $$
 
-Equation (6.4) is the relation between $f$ and $R$.
+Equation (6.4) is the relation between $f$ and $R$.The construction is shown for convex
+mirror in figure 6.9(b)
 
 #### 6.2.3 Image formation in spherical mirrors
 
@@ -223,41 +227,99 @@ $$ \frac{A'B'}{AB} = \frac{PA'}{PA} \tag{6.5} $$
 
 The other set of similar triangles are $\Delta DPF$ and $\Delta B'A'F$. ($PD$ is almost a straight vertical line)
 
-From these similar triangles,
+\[
+\frac{A'B'}{PD} = \frac{A'F}{PF}
+\]
 
-$$ \frac{A'B'}{PD} = \frac{F A'}{FP} $$
+As, \( PD = AB \) the above equation becomes,
 
-But $PD = AB$. Therefore,
+\[
+\frac{A'B'}{AB} = \frac{A'F}{PF} \tag{6.6}
+\]
 
-$$ \frac{A'B'}{AB} = \frac{F A'}{FP} \tag{6.6} $$
+From equations (6.5) and (6.6) we can write,
 
-From equations (6.5) and (6.6),
+\[
+\frac{PA'}{PA} = \frac{A'F}{PF}
+\]
 
-$$ \frac{PA'}{PA} = \frac{F A'}{FP} $$
+As, \( A'F = PA' - PF \), the above equation becomes,
 
-$$ \frac{PA'}{PA} = \frac{PA' - PF}{PF} $$
+\[
+\frac{PA'}{PA} = \frac{PA' - PF}{PF} \tag{6.7}
+\]
 
-Using sign convention, $PA = -u$, $PA' = -v$, $PF = -f$
+\( PA \), \( PA' \) and \( PF \) are mere distances; here we use sign conventions so that the expression that is derived will be a general one. The general expression thus obtained will be valid for the situations other than the one shown in figure.
 
-Substituting these values,
+∴ substituting \( PA = -u \), \( PA' = -v \) and \( PF = -f \) in equation (6.7),
 
-$$ \frac{-v}{-u} = \frac{-v - (-f)}{-f} = \frac{-v + f}{-f} = \frac{v - f}{f} $$
+\[
+PA = -u, \quad PA' = -v, \quad PF = -f
+\]
 
-$$ \frac{v}{u} = \frac{v - f}{f} $$
+All the three distances are negative as per sign convention, because they are measured to the left of the pole. Now, the equation (6.7) becomes,
 
-$$ vf = u(v - f) $$
+\[
+\frac{-v}{-u} = \frac{-v - (-f)}{-f}
+\]
 
-$$ vf = uv - uf $$
+On further simplification,
 
-Dividing both sides by $uvf$,
+\[
+\frac{v}{u} = \frac{v - f}{f}; \quad \frac{v}{u} = \frac{v}{f} - 1
+\]
 
-$$ \frac{1}{u} + \frac{1}{v} = \frac{1}{f} \tag{6.7} $$
+Dividing both sides with \( v \),
 
-Equation (6.7) is called the **mirror equation**.
+\[
+\frac{1}{u} = \frac{1}{f} - \frac{1}{v}
+\]
 
-The magnification $m$ is defined as the ratio of image height $h'$ to object height $h$.
+After rearranging,
 
-$$ m = \frac{h'}{h} = -\frac{v}{u} \tag{6.8} $$
+\[
+\frac{1}{v} + \frac{1}{u} = \frac{1}{f} \tag{6.8}
+\] 
+
+The equation (6.8) is called mirror equation. Although this equation is derived for a special situation shown in Figure (6.12), it is also valid for all other situations with any spherical mirror. This is because proper sign convention is followed for \( u, v \) and \( f \) in equation (6.7).
+
+### 6.2.6 Lateral magnification in spherical mirrors
+
+**The *lateral* (or) *transverse* magnification \( m \) is defined as the ratio of the height of the image to the height of the object.** The height of the object and image are measured perpendicular to the principal axis.
+
+\[
+\text{magnification } (m) = \frac{\text{height of the image } (h')}{\text{height of the object } (h)}
+\]
+
+\[
+m = \frac{h'}{h} \tag{6.9}
+\]
+
+Applying proper sign conventions for equation (6.5),
+
+\[
+\frac{A'B'}{AB} = \frac{PA'}{PA}
+\]
+
+\[
+A'B' = -h', \quad AB = h, \quad PA' = -v, \quad PA = -u
+\]
+
+\[
+\frac{-h'}{h} = \frac{-v}{-u}
+\]
+
+On simplifying we get,
+
+\[
+m = \frac{h'}{h} = -\frac{v}{u} \tag{6.10}
+\]
+
+Using mirror equation, we can further write the magnification as,
+
+\[
+m = \frac{h'}{h} = \frac{f - v}{f} = \frac{f}{f - u} \tag{6.11}
+\] 
 
 #### EXAMPLE 6.3
 
@@ -396,9 +458,10 @@ $$ v = \frac{3 \times 10^8}{1.33} = 2.26 \times 10^8 \, \text{m s}^{-1} $$
 
 Light travels with a speed of $2.26 \times 10^8 \, \text{m s}^{-1}$ through pure water.
 
-Refractive index does not have a unit. The smallest value of refractive index is for vacuum, which is 1. For any other medium refractive index is greater than 1. Refractive index is also called as optical density of the medium. Higher the refractive index of a medium, lesser is the speed of light through it and vice-versa. (Note: optical density should not be confused with mass density of the material of the medium. They two are different entities.)
+Refractive index does not have a unit. The smallest value of refractive index is for vacuum, which is 1. For any other medium refractive index is greater than 1. Refractive index is also called as optical density of the medium. Higher the refractive index of a medium, lesser is the speed of light through it and vice-versa. (Note: optical density should not be confused with mass density of the material of the medium. They two are different entities).The Table 6.2 shows the refractive indices of different transparent media.
 
 ![](Table-6.2.png)
+![](6ch.png)
 
 #### 6.3.4 Optical path
 
@@ -490,6 +553,8 @@ $$ d = r - i \tag{6.21} $$
 In any refracting surface there will also be some reflection taking place. Thus, the intensity of refracted light will be lesser than the incident light. The phenomenon in which a part of light from a source undergoing reflection and the other part of light from the same source undergoing refraction at the same surface is called simultaneous reflection (or) simultaneous refraction. Such surfaces are available as partially silvered glasses.
 
 ![](6.18.png)
+
+![](doyouknow.png)
 
 #### 6.4.3 Principle of reversibility
 
@@ -588,6 +653,8 @@ $$ d - d' = d \left(1 - \frac{1}{n}\right) \tag{6.28} $$
 **Atmospheric refraction:** Due to refraction of light through different layers of atmosphere which vary in refractive index, the path of light deviates continuously when it passes through the atmosphere. For example, the Sun is visible a little before the actual sunrise and also until a little after the actual sunset due to refraction of light through the atmosphere. What we mean by actual sunrise is the actual crossing of the sun at the horizon. The apparent shift in the direction of the sun is around half a degree and the corresponding time difference between the actual and apparent positions is about 2 minutes. Sun appears flattened (oval shaped) during sunrise and sunset due to the same phenomenon.
 
 The same is also applicable for the positions of stars. Actually, the stars do not twinkle. They appear twinkling because of the movement of the atmospheric layers with varying refractive indices which is clearly seen in the night sky.
+
+![](doyouknow1.png)
 
 #### EXAMPLE 6.8
 
@@ -969,6 +1036,66 @@ If the first medium is air, then $n_1 = 1$ and for the second medium $n_2 = n$, 
 
 $$ \frac{n}{v} - \frac{1}{u} = \frac{n - 1}{R} \tag{6.57} $$
 
+# EXAMPLE 6.12
+
+Find the position of the image of a point object O in the two cases given. Take the radius of curvature of the surface R as 15 cm, \( n_1 = 1 \) and \( n_2 = 2 \).  
+Case i) O is located 10 cm to the left of the surface.  
+Case ii) O is located 30 cm to the left of the surface.  
+
+## Solution
+
+Case i)  
+
+\[
+\frac{n_2}{v} - \frac{n_1}{u} = \frac{(n_2 - n_1)}{R};
+\]
+
+applying sign convention,  
+
+\[
+u = -10 \, \text{cm}, \quad R = 15 \, \text{cm}
+\]
+
+\[
+\frac{2}{v} - \frac{1}{(-10)} = \frac{(2 - 1)}{15}; \quad \frac{2}{v} = \frac{1}{15} - \frac{1}{10}
+\]
+
+\[
+\therefore v = -60 \, \text{cm}
+\]
+
+[a virtual image is formed 60 cm, to the left of the surface]
+
+![](6ch2.png)
+
+---
+
+Case ii)
+
+\[
+\frac{n_2}{v} - \frac{n_1}{u} = \frac{(n_2 - n_1)}{R};
+\]
+
+applying sign convention,
+
+\[
+u = -30 \, \text{cm}, \quad R = 15 \, \text{cm}
+\]
+
+\[
+\frac{2}{v} - \frac{1}{(-30)} = \frac{(2 - 1)}{15}; \quad \frac{2}{v} + \frac{1}{30} = \frac{1}{15}
+\]
+
+\[
+\therefore \, v = 60 \, \text{cm}
+\]
+
+[a real image is formed 60 cm, to the right of the surface]
+
+![](6ch3.png)
+
+---
+
 ### 6.6 THIN LENSES
 
 A lens is a transparent medium bounded by two refracting surfaces such that at least one of them is curved (spherical). If the two surfaces have the same radius of curvature, the lens is called **equi-convex** or **equi-concave**. If the two surfaces have different radii of curvature, we call them **convexo-concave** or **concavo-convex** depending upon the nature of the surfaces.
@@ -1002,79 +1129,59 @@ Let us consider a thin lens made up of a medium of refractive index $n_2$ placed
 
 ![](6.34.png)
 
-For refraction at surface ①, using equation (6.56):
+The general equation for the refraction at a single spherical surface is given by the equation (6.56) is,
 
-$$ \frac{n_2}{v'} - \frac{n_1}{u} = \frac{n_2 - n_1}{R_1} \tag{6.58} $$
+\[
+\frac{n_2}{v} - \frac{n_1}{u} = \frac{(n_2 - n_1)}{R}
+\]
 
-For refraction at surface ②, the image $I'$ acts as a virtual object for surface ②. The distance $PI'$ is taken as $-v'$ (since the object is on the opposite side of the incoming light). The final image distance is $v$. For refraction at surface ②:
+For the refracting surface ①, the light goes from \( n_1 \) to \( n_2 \).
 
-$$ \frac{n_1}{v} - \frac{n_2}{(-v')} = \frac{n_1 - n_2}{R_2} $$
+\[
+\frac{n_2}{v'} - \frac{n_1}{u} = \frac{(n_2 - n_1)}{R_1} \tag{6.58}
+\]
 
-$$ \frac{n_1}{v} + \frac{n_2}{v'} = \frac{n_1 - n_2}{R_2} \tag{6.59} $$
+For the refracting surface ②, the light goes from medium \( n_2 \) to \( n_1 \).
 
-Adding equations (6.58) and (6.59):
+\[
+\frac{n_1}{v} - \frac{n_2}{v'} = \frac{(n_1 - n_2)}{R_2} \tag{6.59}
+\]
 
-$$ \frac{n_1}{v} - \frac{n_1}{u} = (n_2 - n_1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) $$
+For surface ②, \( I' \) acts as virtual object.
 
-$$ n_1\left(\frac{1}{v} - \frac{1}{u}\right) = (n_2 - n_1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) $$
+Adding the above two equations (6.58) and (6.59)
 
-$$ \frac{1}{v} - \frac{1}{u} = \frac{n_2 - n_1}{n_1}\left(\frac{1}{R_1} - \frac{1}{R_2}\right) $$
+\[
+\frac{n_1}{v} - \frac{n_2}{u} = (n_2 - n_1) \left( \frac{1}{R_1} - \frac{1}{R_2} \right)
+\]
 
-Let $\frac{n_2}{n_1} = n$, the relative refractive index of the lens material with respect to the surrounding medium. Then:
+On further simplifying and rearranging,
 
-$$ \frac{1}{v} - \frac{1}{u} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) \tag{6.60} $$
+\[
+\frac{1}{v} - \frac{1}{u} = \left( \frac{n_2 - n_1}{n_1} \right) \left( \frac{1}{R_1} - \frac{1}{R_2} \right)
+\]
 
-When the object is at infinity ($u = \infty$), the image distance $v$ equals the focal length $f$ of the lens. Substituting $u = \infty$ and $v = f$ in equation (6.60):
+\[
+\frac{1}{v} - \frac{1}{u} = \left( \frac{n_2}{n_1} - 1 \right) \left( \frac{1}{R_1} - \frac{1}{R_2} \right) \tag{6.60}
+\]
 
-$$ \frac{1}{f} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) \tag{6.61} $$
+If the object is at infinity, the image is formed at the focus of the lens. Thus, for \( u = \infty, v = f \). Then the equation becomes,
 
-Equation (6.61) is called the **lens maker's formula**. It is valid for thin lenses.
+\[
+\frac{1}{f} - \frac{1}{\infty} = \left( \frac{n_2}{n_1} - 1 \right) \left( \frac{1}{R_1} - \frac{1}{R_2} \right)
+\]
 
-From equations (6.60) and (6.61), we get the **lens equation**:
+\[
+\frac{1}{f} = \left( \frac{n_2}{n_1} - 1 \right) \left( \frac{1}{R_1} - \frac{1}{R_2} \right) \tag{6.61}
+\]
 
-$$ \frac{1}{v} - \frac{1}{u} = \frac{1}{f} \tag{6.62} $$
+If the lens is kept in air, then we can take \( n_1 = 1 \) and \( n_2 = n \). So the equation (6.61) becomes,
 
-The magnification $m$ for a thin lens is given by:
+\[
+\frac{1}{f} = (n - 1) \left( \frac{1}{R_1} - \frac{1}{R_2} \right) \tag{6.62}
+\]
 
-$$ m = \frac{h'}{h} = \frac{v}{u} \tag{6.63} $$
-
-For a converging lens, $f$ is positive and for a diverging lens, $f$ is negative.
-
-The general equation for the refraction at a single spherical surface is given by equation (6.56):
-
-$$ \frac{n_2}{v} - \frac{n_1}{u} = \frac{n_2 - n_1}{R} $$
-
-For the refracting surface ①, the light goes from $n_1$ to $n_2$:
-
-$$ \frac{n_2}{v'} - \frac{n_1}{u} = \frac{n_2 - n_1}{R_1} \tag{6.58} $$
-
-For the refracting surface ②, the light goes from medium $n_2$ to $n_1$:
-
-$$ \frac{n_1}{v} - \frac{n_2}{v'} = \frac{n_1 - n_2}{R_2} \tag{6.59} $$
-
-For surface ②, $I'$ acts as a virtual object.
-
-Adding equations (6.58) and (6.59):
-
-$$ \frac{n_1}{v} - \frac{n_1}{u} = (n_2 - n_1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) $$
-
-On further simplifying and rearranging:
-
-$$ \frac{1}{v} - \frac{1}{u} = \left(\frac{n_2 - n_1}{n_1}\right)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) $$
-
-$$ \frac{1}{v} - \frac{1}{u} = \left(\frac{n_2}{n_1} - 1\right)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) \tag{6.60} $$
-
-If the object is at infinity, the image is formed at the focus of the lens. Thus, for $u = \infty$, $v = f$. Then the equation becomes:
-
-$$ \frac{1}{f} - \frac{1}{\infty} = \left(\frac{n_2}{n_1} - 1\right)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) $$
-
-$$ \frac{1}{f} = \left(\frac{n_2}{n_1} - 1\right)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) \tag{6.61} $$
-
-If the lens is kept in air, then we can take $n_1 = 1$ and $n_2 = n$. So equation (6.61) becomes:
-
-$$ \frac{1}{f} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) \tag{6.62} $$
-
-The above formula is called the **lens maker's formula**, because it tells the lens manufacturers what curvature is needed for a material of particular refractive index to make a lens of desired focal length. This formula holds good also for any type of lens. By comparing equations (6.60) and (6.61) we can write:
+The above formula is called as the lens maker's formula, because it tells the lens manufacturers what curvature is needed for a material of particular refractive index to make a lens of desired focal length. This formula holds good also for any type of lens. By comparing equations (6.60) and (6.61) we can write:
 
 $$ \frac{1}{v} - \frac{1}{u} = \frac{1}{f} \tag{6.63} $$
 
@@ -1188,6 +1295,28 @@ From the lens maker's formula, equation (6.62), equation (6.68) can be written f
 $$ P = \frac{1}{f} = (n - 1)\left(\frac{1}{R_1} - \frac{1}{R_2}\right) \tag{6.69} $$
 
 The outcome of this equation for power is that for a given geometry of the lens, the larger the value of refractive index, the greater is the power of the lens and vice versa. Also for lenses with small radii of curvature (bulky), the power is large, and for lenses with large radii of curvature (skinny), the power is small.
+
+#### EXAMPLE 6.15
+
+If the focal length is 150 cm for a lens, what is the power of the lens?
+
+**Solution**
+
+Given, focal length, \( f = 150 \, \text{cm} = 1.5 \, \text{m} \)
+
+Equation for power of lens is,  
+
+\[
+P = \frac{1}{f}
+\]
+
+Substituting the values,  
+
+\[
+P = \frac{1}{1.5 \, \text{m}} = 0.67 \, \text{D}
+\]
+
+As the power is positive, it is a converging lens.
 
 ### 6.6.6 Focal length of lenses in contact
 
@@ -1346,7 +1475,7 @@ A thin biconvex lens is made up of glass of refractive index $1.5$. The two surf
 
 **Solution**
 
-![](6.18.png)
+![](EX-6.18.png)
 
 Given, $n = 1.5$, $R_1 = 30~\text{cm}$, $R_2 = -30~\text{cm}$.
 
@@ -1570,45 +1699,69 @@ Consider a beam of white light passing through a prism. It gets dispersed into i
 
 ![](6.44.png)
 
-For small angles of $A$ and $\delta$:
+![](doyouknow2.png)
 
-$$ \sin\left(\frac{A + \delta}{2}\right) \approx \frac{A + \delta}{2}, \quad \sin\left(\frac{A}{2}\right) \approx \frac{A}{2} $$
+\[
+n = \frac{\sin\left(\frac{A + \delta}{2}\right)}{\sin\left(\frac{A}{2}\right)} \tag{6.90}
+\]
 
-$$ \therefore n = \frac{\left(\frac{A + \delta}{2}\right)}{\left(\frac{A}{2}\right)} = \frac{A + \delta}{A} = 1 + \frac{\delta}{A} $$
+For small angles of \( A \) and \( \delta \),
 
-On further simplifying:
+\[
+\sin\left(\frac{A + \delta}{2}\right) \approx \left(\frac{A + \delta}{2}\right)
+\]
 
-$$ \frac{\delta}{A} = n - 1 \quad \Rightarrow \quad \delta = (n - 1)A \tag{6.91} $$
+\[
+\sin\left(\frac{A}{2}\right) \approx \left(\frac{A}{2}\right)
+\]
+
+\[
+\therefore n = \frac{\left(\frac{A + \delta}{2}\right)}{\left(\frac{A}{2}\right)} = \frac{A + \delta}{A} = 1 + \frac{\delta}{A}
+\]
+
+On further simplifying, \(\frac{\delta}{A} = n - 1\)
+
+\[
+\delta = (n - 1)A \tag{6.91}
+\]
 
 When white light enters the prism, the deviation is different for different colours. Thus, the refractive index is also different for different colours.
 
-Let $\delta_\nu$ and $\delta_R$ be the angles of minimum deviation for violet and red colours. Let $n_\nu$ and $n_R$ be the refractive indices for violet and red colours respectively.
+Let \( \delta_{v} \), \( \delta_{R} \) are the angles of minimum deviation for violet and red colour. Let \( n_{v} \) and \( n_{R} \) be the refractive indices for the violet and red colour respectively.
 
-For violet colour: $\delta_\nu = (n_\nu - 1)A \tag{6.92}$
+For Violet colour, \( \delta_{V} = (n_{V} - 1) A \)                         (6.92) 
 
-For red colour: $\delta_R = (n_R - 1)A \tag{6.93}$
+For Red colour, \( \delta_{R} = (n_{R} - 1) A \)                            (6.93) 
 
-Since the angle of minimum deviation for violet colour $\delta_\nu$ is greater than that for red colour $\delta_R$, the refractive index for violet colour $n_\nu$ is greater than the refractive index for red colour $n_R$.
+As, angle of minimum deviation for violet colour \( \delta_{v'} \) is greater than angle of minimum deviation for red colour \( \delta_{R'} \), the refractive index for violet colour \( n_{v'} \) is greater than the refractive index for red colour \( n_{R'} \).
 
-Subtracting $\delta_R$ from $\delta_\nu$:
+Subtracting \( \delta_{R'} \) from \( \delta_{v'} \), we get,
 
-$$ \delta_\nu - \delta_R = (n_\nu - n_R)A \tag{6.94} $$
+\[
+\delta_{v'} - \delta_{R'} = (n_{v'} - n_{R'})A \tag{6.94}
+\]
 
-The angular separation between the two extreme colours (violet and red) in the spectrum $(\delta_\nu - \delta_R)$ is called the **angular dispersion**.
+The angular separation between the two extreme colours (violet and red) in the spectrum (\( \delta_{v} - \delta_{R} \)) is called the angular dispersion.
+If we take \(\delta\) as the angle of minimum deviation for any mean colour (green or yellow) and \(n\) the corresponding refractive index. Then,
 
-If we take $\delta$ as the angle of minimum deviation for any mean colour (green or yellow) and $n$ as the corresponding refractive index, then:
+\[
+\delta = (n - 1)A \tag{6.95}
+\]
 
-$$ \delta = (n - 1)A \tag{6.95} $$
+**Dispersive power \(\omega\) is defined as the ratio of the angular dispersion for the extreme colours to the deviation for any middle colour.**  
+Dispersive power is the ability of the material of the prism to produce dispersion.
 
-**Dispersive power** $\omega$ is defined as the ratio of the angular dispersion for the extreme colours to the deviation for any middle colour. Dispersive power is the ability of the material of the prism to produce dispersion.
+\[
+\omega = \frac{\text{angular dispersion}}{\text{middle deviation}} = \frac{\delta_v - \delta_R}{\delta} \tag{6.96}
+\]
 
-$$ \omega = \frac{\text{angular dispersion}}{\text{middle deviation}} = \frac{\delta_\nu - \delta_R}{\delta} \tag{6.96} $$
+Substituting for \(\delta_v - \delta_R\) and \((\delta)\),
 
-Substituting for $(\delta_\nu - \delta_R)$ and $\delta$:
+\[
+\omega = \frac{(n_v - n_R)}{(n - 1)} \tag{6.97}
+\]
 
-$$ \omega = \frac{(n_\nu - n_R)}{(n - 1)} \tag{6.97} $$
-
-The dispersive power is a dimensionless and unitless quantity. The dispersive power is always positive. The dispersive power of a prism depends only on the nature of the material of the prism and is independent of the angle of the prism.
+The dispersive power is a dimensionless and unitless quantity. The dispersive power is always positive. The dispersive power of a prism depends only on the nature of material of the prism and it is independent of the angle of the prism.
 
 #### EXAMPLE 6.22
 
