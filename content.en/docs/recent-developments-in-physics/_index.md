@@ -8,7 +8,7 @@ summary: "This unit highlights the importance of physics in the development of s
 
 
 
-# RECENT DEVELOPMENTS IN PHYSICS
+# CHAPTER 11 RECENT DEVELOPMENTS IN PHYSICS
 
 There's Plenty of Room at the Bottom: An Invitation to Enter a New Field of Physics' - Richard Feynman
 
@@ -23,7 +23,11 @@ Physics is the basic building block for science, engineering and technology as d
 
 ![](1.png)
 
+###### Figure 11.1 Physics is the building block for science,engineering,technology and medicine 
+
+
 ## 11.2 Nanoscience and Nanotechnology
+
 
 ### 11.2.1
 #### Nanoscience
