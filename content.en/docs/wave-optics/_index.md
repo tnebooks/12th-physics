@@ -4,7 +4,22 @@ categories:
     - wave-optics
 weight: 7
 summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
-
+references:
+   links:
+      - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+   books:
+        - b1:
+            title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
+            url: https://www.amazon.in/Fundamentals-Optics-Francis-Jenkins/dp/1259002292
+        - b2:
+            title: Fundamentals of Physics, 6th Edition, John Wiley & Sons Inc.
+            url: https://www.amazon.in/Fundamentals-Physics-Chapters-1-21/dp/0471228613
+        - b3:
+            title: H.C. Verma, Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & Distributors Pvt. Ltd
+            url: https://www.amazon.in/Concept-Physics-Part-1-2018-2019-Session/dp/8177091875
+        - b4:
+            title: Roger A. Freedman, Hugh D. Young, Sears and Zemansky’s University Physics, 12th Edition, Pearson
+            url: https://www.amazon.in/Sears-Zemanskys-University-Physics-Mechanics/dp/8131759857
 ---
 
 # CHAPTER 7  WAVE OPTICS
@@ -848,8 +863,8 @@ The equation for first minimum in single slit diffraction is, a sin θ = λ. The
 We can discuss the following cases on the central maximum. 
 
 (i) If a < λ, then sin θ > 1 which is not possible. Hence, diffraction does not take place.<br>
-(ii) If a = λ, then sin θ = 1 i.e. θ = 90 degree. The first minimum is at 90 degree. Hence, the central maximum spreads fully into the geometrically shadowed region leading to the bending of the diffracted light by 90 degree.<br>
-(iii) If a > λ and also comparable to λ, saya = 2λ, then sin θ =1/2 (or) θ = 30 degree. The diffraction is observed with a measurable spread. Hence, it is concluded that for observing the diffraction pattern, essentially the width of the slit a must be just few times greater than the wavelength of light λ.<br>
+(ii) If a = λ, then sin θ = 1 i.e. θ = 90°. The first minimum is at 90°. Hence, the central maximum spreads fully into the geometrically shadowed region leading to the bending of the diffracted light by 90°.<br>
+(iii) If a > λ and also comparable to λ, saya = 2λ, then sin θ =1/2 (or) θ = 30°. The diffraction is observed with a measurable spread. Hence, it is concluded that for observing the diffraction pattern, essentially the width of the slit a must be just few times greater than the wavelength of light λ.<br>
 (iv) If a >> λ, then sin θ << 1 i.e. The first minimum falls within the width space of the slit itself. Hence, the phenomenon of diffraction is not observed at all.
 
 ### 7.4.4 Fresnel’s distance
@@ -1638,7 +1653,7 @@ Calculate the power of the lens of the spectacles needed to rectify the defect o
 
 The maximum distance the person could see is \(x = 1.8\mathrm{m}\).
 
-The lens should have a focal length of \(f = -x = -1.8\mathrm{m}\).
+The lens should have a focal length of \(f = -xm = -1.8m.
 
 It is a concave (or) diverging lens.
 
@@ -1724,63 +1739,6 @@ $$P = \frac{1}{0.375\mathrm{m}} = 2.67\mathrm{D}$$
 - The correction lens for farsightedness/hypermetropic eye should be a convex lens with focal length \(f = \frac{y \times 25\mathrm{cm}}{y - 25\mathrm{cm}}\), where \(25\mathrm{cm}\) is the near distance and \(y\) is the minimum distance up to which an object can be seen.
 - The farsightedness arising due to aging is called presbyopia.
 - Astigmatism is the defect arising due to different curvatures along different planes in the eye lens.
-
----
-
-## MULTIPLE CHOICE QUESTIONS
-
-1. A plane glass is placed over various coloured letters (violet, green, yellow, red). The letter which appears to be raised more is
-   (a) red (b) yellow (c) green (d) violet
-
-2. Two point white dots are \(1\mathrm{mm}\) apart on a black paper. They are viewed by eye of pupil diameter \(3\mathrm{mm}\) approximately. The maximum distance at which these dots can be resolved by the eye is, [take wavelength of light \(\lambda = 500\mathrm{nm}\)]
-   (a) \(1\mathrm{m}\) (b) \(5\mathrm{m}\) (c) \(3\mathrm{m}\) (d) \(6\mathrm{m}\)
-
-3. In a Young's double-slit experiment, the slit separation is doubled. To maintain the same fringe spacing on the screen, the screen-to-slit distance \(D\) must be changed to
-   (a) \(2D\) (b) \(\frac{D}{2}\) (c) \(\sqrt{2}D\) (d) \(\frac{D}{\sqrt{2}}\)
-
-4. Two coherent monochromatic light beams of intensities \(I\) and \(4I\) are superposed. The maximum and minimum possible intensities in the resulting beam are
-   (a) \(5I\) and \(I\) (b) \(5I\) and \(3I\) (c) \(9I\) and \(I\) (d) \(9I\) and \(3I\)
-
-5. When light is incident on a soap film of thickness \(5\times 10^{-5}\mathrm{cm}\), the wavelength of light reflected maximum in the visible region is \(5320\mathrm{\AA}\). Refractive index of the film will be
-   (a) 1.22 (b) 1.33 (c) 1.51 (d) 1.83
-
-6. First diffraction minimum due to a single slit of width \(1.0\times 10^{-5}\mathrm{cm}\) is at \(30^{\circ}\). Then wavelength of light used is
-   (a) \(400\mathrm{\AA}\) (b) \(500\mathrm{\AA}\) (c) \(600\mathrm{\AA}\) (d) \(700\mathrm{\AA}\)
-
-7. A ray of light strikes a glass plate at an angle \(60^{\circ}\). If the reflected and refracted rays are perpendicular to each other, the refractive index of the glass is
-   (a) \(\sqrt{3}\) (b) \(\frac{3}{2}\) (c) \(\sqrt{\frac{3}{2}}\) (d) 2
-
-<<<<<<< HEAD
-8. One of the slits of Young's double slit is covered with a glass plate. The position of central maximum will
-
-![](obj8.png)
-
-=======
-8. One of the slits of Young's double slit is covered with a glass plate. The position of central maximum will,
-![](4.png)
->>>>>>> c70a444eae204de8a4598387af1b71c7597ad8d3
-   (a) get shifted downwards (b) get shifted upwards (c) will remain the same (d) data insufficient to conclude
-
-9. Light transmitted by Nicol prism is
-   (a) partially polarised (b) unpolarised (c) plane polarised (d) elliptically polarised
-
-10. The transverse nature of light is shown in
-    (a) interference (b) diffraction (c) scattering (d) polarisation
-
-### Answers
-
-1) d
-2) b
-3) a
-4) c
-5) b
-6) b
-7) a
-8) b
-9) c
-10) d
-
----
 
 ## SHORT ANSWER QUESTIONS
 
@@ -1889,39 +1847,3 @@ $$P = \frac{1}{0.375\mathrm{m}} = 2.67\mathrm{D}$$
 10. A compound microscope has a magnifying power of 100 when the image is formed at infinity. The objective has a focal length of \(0.5\mathrm{cm}\) and the tube length is \(6.5\mathrm{cm}\). What is the focal length of the eyepiece?
     [Ans: \(3.25\mathrm{cm}\)]
     (Note: magnification is also called as magnifying power)
-
----
-
-## REFERENCES
-
-1. Frances A. Jenkins and Harvey E. White, Fundamentals of Optics, 4th Edition, McGraw Hill Book Company, (2011).
-2. David Halliday, Robert Resnick and Jearl Walker, Fundamentals of Physics, 6th Edition, John Wiley & Sons Inc., (2004).
-3. H.C. Verma, Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & Distributors Pvt. Ltd., (2008).
-4. Roger A. Freedman, Hugh D. Young, Sears and Zemansky's University Physics, 12th Edition, Pearson, (2011).
-
----
-
-## ICT CORNER
-
-### Wave Optics
-
-In this activity you will be able to explore the behaviour of a Young's double slit experiment by adjusting the slit separation, the distance to the screen, and the wavelength of the light.
-
-**Topic:** Young's double slit experiment.
-
-**STEPS:**
-
-- Open the browser and type 'tutor-homework.com/Physics_Help/double_slit_experiment.html' in the address bar.
-- Change the slit separation (distance between two sources) and observe how the pattern of bright and dark fringes changes.
-- What happens to the fringe width if distance between the source and screen decreases?
-- Observe how does the fringe width in interference pattern vary with the wavelength of incident light?
-
-Observe the pattern of bright and dark fringes by clicking the Run button.
-
-![](1.png)
-
-**Note:** Use flash enabled browser or install flash player in your system.
-
-**URL:** http://tutor-homework.com/Physics_Help/double_slit_experiment.html
-
-*Pictures are indicative only. * If browser requires, allow Flash Player or Java Script to load the page.
