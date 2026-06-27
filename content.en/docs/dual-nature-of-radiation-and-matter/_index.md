@@ -4,6 +4,21 @@ categories:
     - dual-nature-of-radiation-and-matter
 weight: 8
 summary: "This unit explains the dual nature of matter and radiation, starting with electron emission and the photoelectric effect along with its laws and early observations. It introduces the concept of energy quantization and practical devices like photocells."
+references:
+    links:
+      - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
+    videos:
+        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+    books:
+        - b1:
+           title: Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited
+           url: https://www.amazon.in/Concepts-Modern-Physics-Special-Indian/dp/0070151555
+        - b2:
+            title: H.S. Mani and G.K. Mehta, Introduction to Modern Physics, Affiliated East-West Press Pvt. Ltd.
+            url: https://www.amazon.in/Introduction-Modern-Physics-H-S-Mani/dp/8185095736
+        - b3:
+            title: H.C.Verma, Concepts of Physics, Volume 1 and 2, Bharathi Bhawna publishers.
+            url: https://www.amazon.in/Concepts-Physics-ORIGINAL-BOOKS-TOP-Editions/dp/B0F4NPPS95
 
 ---
 # CHAPTER 8 DUAL NATURE OF RADIATION AND MATTER
@@ -780,6 +795,12 @@ $$
 
 Since $m_e < m_p$, $K_p < K_e$; the electron has more kinetic energy than the proton.
 
+$$\frac{K_p}{K_e} = \frac{\frac{1}{2}m_p v_p^2}{\frac{1}{2}m_e v_e^2} \quad \text{(or)} \quad \frac{v_p}{v_e} = \sqrt{\frac{K_p m_e}{K_e m_p}}$$
+
+---
+
+$$\frac{v_p}{v_e} = \sqrt{\frac{m_e^2}{m_p^2}} = \frac{m_e}{m_p} \quad \text{since } \frac{K_p}{K_e} = \frac{m_e}{m_p}$$
+
 Since $m_e < m_p$, $v_p < v_e$; the electron moves faster than the proton.
 
 ## 8.4 X-RAYS
@@ -904,6 +925,10 @@ $$
 
 ## Summary
 
+   - Particle is a material object which is considered as a tiny concentration of matter (localized in space and time) whereas wave is a broad distribution of energy (not localized in space and time).
+   - The liberation of electrons from any surface of a substance is called electron emission.
+   - The minimum energy needed for anelectrontoescape from the metal surface is called
+work function of that metal.
 - $1 \mathrm{eV}$ is equal to $1.602\times 10^{-19}\mathrm{J}$.
 - The emission of electrons by supplying thermal energy is known as thermionic emission.
 - Electric field emission occurs when a very strong electric field is applied across the metal.
@@ -928,117 +953,6 @@ $$
 
 ---
 
-## Multiple Choice Questions
-
-1. The wavelength $\lambda_{e}$ of an electron and $\lambda_{p}$ of a photon of same energy $E$ are related by (NEET 2013)
-   a) $\lambda_{p}\propto \lambda_{e}$
-   b) $\lambda_{p}\propto \sqrt{\lambda_{e}}$
-   c) $\lambda_{p}\propto \frac{1}{\sqrt{\lambda_{e}}}$
-   d) $\lambda_{p}\propto \lambda_{e}^{2}$
-
-2. In an electron microscope, the electrons are accelerated by a voltage of $14\mathrm{kV}$. If the voltage is changed to $224\mathrm{kV}$ then the de Broglie wavelength associated with the electrons would
-   a) increase by 2 times
-   b) decrease by 2 times
-   c) decrease by 4 times
-   d) increase by 4 times
-
-3. The wave associated with a moving particle of mass $3\times 10^{-6}\mathrm{g}$ has the same wavelength as an electron moving with a velocity $6\times 10^{6}\mathrm{m}\mathrm{s}^{-1}$. The velocity of the particle is
-   a) $1.82\times 10^{-18}\mathrm{m}\mathrm{s}^{-1}$
-   b) $9\times 10^{-2}\mathrm{m}\mathrm{s}^{-1}$
-   c) $3\times 10^{-31}\mathrm{m}\mathrm{s}^{-1}$
-   d) $1.82\times 10^{-15}\mathrm{m}\mathrm{s}^{-1}$
-
-4. When a metallic surface is illuminated with radiation of wavelength $\lambda$ the stopping potential is $V$. If the same surface is illuminated with radiation of wavelength $2\lambda$ the stopping potential is $\frac{V}{4}$. The threshold wavelength for the metallic surface is (NEET 2016)
-   a) $4\lambda$
-   b) $5\lambda$
-   c) $\frac{5}{2}\lambda$
-   d) $3\lambda$
-
-5. If a light of wavelength $330~\mathrm{nm}$ is incident on a metal with work function $3.55\mathrm{eV}$, the electrons are emitted. Then the wavelength of the wave associated with the emitted electron is (Take $h = 6.6\times 10^{-34}\mathrm{Js}$)
-   a) $< 2.75\times 10^{-9}\mathrm{m}$
-   b) $\geq 2.75\times 10^{-9}\mathrm{m}$
-   c) $\leq 2.75\times 10^{-12}\mathrm{m}$
-   d) $< 2.5\times 10^{-10}\mathrm{m}$
-
-6. A photoelectric surface is illuminated successively by monochromatic light of wavelength $\lambda$ and $\lambda/2$. If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the material is (NEET 2015)
-   a) $\frac{hc}{\lambda}$
-   b) $\frac{2hc}{\lambda}$
-   c) $\frac{hc}{3\lambda}$
-   d) $\frac{hc}{2\lambda}$
-
-7. In photoelectric emission, a radiation whose frequency is 4 times threshold frequency of a certain metal is incident on the metal. Then the maximum possible velocity of the emitted electron will be
-   a) $\sqrt{\frac{h\nu_0}{m}}$
-   b) $\sqrt{\frac{6h\nu_0}{m}}$
-   c) $2\sqrt{\frac{h\nu_0}{m}}$
-   d) $\sqrt{\frac{h\nu_0}{2m}}$
-
-8. Two radiations with photon energies $0.9\mathrm{eV}$ and $3.3\mathrm{eV}$ respectively are falling on a metallic surface successively. If the work function of the metal is $0.6\mathrm{eV}$ then the ratio of maximum speeds of emitted electrons in the two cases will be
-   a) 1:4
-   b) 1:3
-   c) 1:1
-   d) 1:9
-
-9. A light source of wavelength $520~\mathrm{nm}$ emits $1.04\times 10^{15}$ photons per second while the second source of $460~\mathrm{nm}$ produces $1.38\times 10^{15}$ photons per second. Then the ratio of power of second source to that of first source is
-   a) 1.00
-   b) 1.02
-   c) 1.5
-   d) 0.98
-
-10. If the mean wavelength of light from sun is taken as $550~\mathrm{nm}$ and its mean power as $3.8\times 10^{26}\mathrm{W}$, then the number of photons emitted per second from the sun is of the order of
-    a) $10^{45}$
-    b) $10^{42}$
-    c) $10^{54}$
-    d) $10^{51}$
-
-11. The threshold wavelength for a metal surface whose photoelectric work function is $3.313\mathrm{eV}$ is
-    a) $4125\mathrm{Å}$
-    b) $3750\mathrm{Å}$
-    c) $6000\mathrm{Å}$
-    d) $2062.5\mathrm{Å}$
-
-12. A light of wavelength $500~\mathrm{nm}$ is incident on a sensitive metal plate of photoelectric work function $1.235\mathrm{eV}$. The kinetic energy of the photo electrons emitted is (Take $h = 6.6\times 10^{-34}\mathrm{Js}$)
-    a) $0.58\mathrm{eV}$
-    b) $2.48\mathrm{eV}$
-    c) $1.24\mathrm{eV}$
-    d) $1.16\mathrm{eV}$
-
-13. Photons of wavelength $\lambda$ are incident on a metal. The most energetic electrons ejected from the metal are bent into a circular arc of radius $R$ by a perpendicular magnetic field having magnitude $B$. The work function of the metal is (KVPY-SX 2016)
-    a) $\frac{hc}{\lambda} - m_e + \frac{e^{2}B^{2}R^{2}}{2m_e}$
-    b) $\frac{hc}{\lambda} + 2m_e\left[\frac{eBR}{2m_e}\right]^{2}$
-    c) $\frac{hc}{\lambda} - m_e c^{2} - \frac{e^{2}B^{2}R^{2}}{2m_e}$
-    d) $\frac{hc}{\lambda} - 2m_e\left[\frac{eBR}{2m_e}\right]^{2}$
-
-14. The work functions for metals $A$, $B$ and $C$ are $1.92\mathrm{eV}$, $2.0\mathrm{eV}$ and $5.0\mathrm{eV}$ respectively. The metal/metals which will emit photoelectrons for a radiation of wavelength $4100\mathrm{Å}$ is/are
-    a) A only
-    b) both $A$ and $B$
-    c) all these metals
-    d) none
-
-15. Emission of electrons by the absorption of heat energy is called...........emission.
-    a) photoelectric
-    b) field
-    c) thermionic
-    d) secondary
-
-**Answers**
-
-1. d
-2. c
-3. d
-4. d
-5. b
-6. d
-7. b
-8. b
-9. c
-10. a
-11. b
-12. c
-13. d
-14. b
-15. c
-
----
 
 ### II Short Answer Questions
 
@@ -1134,37 +1048,3 @@ $$
     [Ans: $64\mathrm{V}$]
 
 ---
-
-## References
-
-1. Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited.
-2. H.S. Mani and G.K. Mehta, Introduction to Modern Physics, Affiliated East-West Press Pvt. Ltd.
-3. H.C.Verma, Concepts of Physics, Volume 1 and 2, Bharathi Bhawna publishers.
-4. Halliday, Resnick and Walker, Principles of Physics, Wiley publishers.
-
----
-
-## ICT CORNER
-
-### Dual nature of radiation and matter
-
-**Topic: Photoelectric effect**
-
-In this activity you will be able to visualize how light knocks electrons off a metal target and describe the photoelectric effect experiment.
-
-**STEPS:**
-
-- Open the browser and type "https://phet.colorado.edu/en/simulation/legacy/photoelectric" in the address bar.
-- Change intensity of light and observe how the intensity of light will affect the photo electric current and the energy of electrons.
-- By adjusting the value of wavelength and observe how the wavelength of light will affect the photo electric current and the energy of electrons.
-- Adjust the value of voltage from the battery and analyse the effect of potential difference on the photoelectric current.
-- Change the material of the target and analyse how it will affect the current and the energy of electrons.
-- Study the photo electric current - voltage graph and Photo electric current - intensity graph obtained from this experiment.
-
-![](7.png)
-
-**Note:** Install Java application if it is not in your browser. You can download all the phet simulation and works in off line from https://phet.colorado.edu/en/offline-access.
-
-**URL:** https://phet.colorado.edu/en/simulation/legacy/photoelectric
-
-*Pictures are indicative only. If browser requires, allow Flash Player or Java Script to load the page.
