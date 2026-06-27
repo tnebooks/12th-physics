@@ -16,6 +16,7 @@ summary: "This unit introduces the fundamentals of magnetism, starting with the 
 
 
 Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open.
+![](image.png)
 
 Magnetism exists everywhere from tiny particles like electrons to the entire universe. Historically the word 'magnetism' was derived from iron ore magnetite ($\mathrm{Fe_3O_4}$). In olden days, magnets were used as magnetic compass for navigation, magnetic therapy for treatment and also used in magic shows.
 
@@ -107,6 +108,7 @@ $$ \tan I = \frac{0.26}{0.15} \Rightarrow I = \tan^{-1}(1.732) = 60^{\circ} $$
 The resultant magnetic field of the Earth is
 
 $$ B = \sqrt{B_{H}^{2} + B_{V}^{2}} = 0.3\mathrm{G} $$
+![](image-1.png)
 
 ### 3.1.2 Basic properties of magnets
 
@@ -918,9 +920,10 @@ This rule can also be used to find the direction of the magnetic field around th
 ### EXAMPLE 3.12
 
 The magnetic field shown in the figure is due to the current carrying wire. In which direction does the current flow in the wire?
+![](image-3.png)
 
 **Solution**
-
+![](image-4.png)
 Using right hand rule, current flows upwards.
 
 ## 3.8 BIOT-SAVART LAW
@@ -1221,13 +1224,7 @@ This implies that a current carrying circular loop behaves as a magnetic dipole 
 In order to determine the direction of magnetic moment, we use right hand thumb rule which states that:
 
 *If we curl the fingers of right hand in the direction of current in the loop, then the stretched thumb gives the direction of the magnetic moment associated with the loop.*
-
-**Table 3.3 End rule - polarity with direction of current in circular loop**
-
-| Current in circular loop | Polarity |
-| :--- | :--- |
-| Anti-clockwise current | North Pole |
-| Clockwise current | South Pole |
+![](image-5.png)
 
 ### 3.8.6 Magnetic dipole moment of revolving electron
 
@@ -1356,6 +1353,7 @@ where $\hat{n}$ is the unit vector along the tangent to the Amperian loop as sho
 ### EXAMPLE 3.15
 
 Compute the magnitude of the magnetic field of a long, straight wire carrying a current of 1A at distance of 1m from it. Compare it with Earth's magnetic field.
+
 
 **Solution**
 
@@ -2381,176 +2379,3 @@ R_h = (n - 1) R_g
 - **Ideal ammeter**: Zero resistance.
 - **Voltmeter**: Converts galvanometer by connecting high resistance in series.
 - **Ideal voltmeter**: Infinite resistance.
-
-# I. Multiple Choice Questions
-
-1. The magnetic field at the centre O of the following current loop is
-![](fig3.bb.1.1.png)
-
-   (a) \( \frac{\mu I}{4r} \) (b) \( \frac{\mu I}{4r} \) (c) \( \frac{\mu I}{2r} \) (d) \( \frac{\mu I}{2r} \)
-
-2. An electron moves in a straight line inside a charged parallel plate capacitor of uniform charge density \( \sigma \). The time taken by the electron to cross the parallel plate capacitor undeflected when the plates are kept under constant magnetic field of induction \( \vec{B} \) is
-![](fig3.bb.1.2.png)
-   (a) \( \frac{eIB}{\sigma} \) (b) \( \frac{eIB}{\sigma l} \) (c) \( \frac{eIB}{\sigma} \) (d) \( \frac{eIB}{\sigma l} \)
-
-3. A particle having mass \( m \) and charge \( q \) accelerated through potential difference \( V \). Find the force when kept under perpendicular magnetic field \( \vec{B} \).
-   (a) \( \frac{qB}{4\pi \varepsilon_0 r} \) (b) \( \frac{qB}{4\pi \varepsilon_0 r} \) (c) \( \frac{qB}{2\pi \varepsilon_0 r} \) (d) \( \frac{qB}{2\pi \varepsilon_0 r} \)
-
-4. A circular coil of radius 5 cm and 50 turns carries a current of 3 A. Magnetic dipole moment is nearly
-   (a) 1.0 A m² (b) 1.2 A m² (c) 0.5 A m² (d) 0.8 A m²
-
-5. A thin insulated wire forms a plane spiral of \( N = 100 \) tight turns carrying \( I = 8 \) mA. Inside radius \( a = 50 \) mm, outside \( b = 100 \) mm. Magnetic induction at centre is
-   (a) 5 μT (b) 7 μT (c) 8 μT (d) 10 μT
-
-6. Three wires of equal length bent as circle, semi-circle, square. Same current and uniform B field. Which experiences greater torque?
-   (a) Circle (b) Semi-circle (c) Square (d) All same
-
-7. Two identical coils, each \( N \) turns, radius \( R \), placed coaxially at distance \( R \). Current \( I \) in same direction. Magnetic field at point P at distance \( R/2 \) from each centre is:
-![](fig3.bb.1.7.png)
-   (a) \( p_m \) (b) \( \frac{3}{2} p_m \) (c) \( \frac{2}{\pi} p_m \) (d) \( \frac{1}{2} p_m \)
-
-8. A wire of length \( l \) carrying current \( I \) along Y direction in magnetic field \( \vec{B} = \frac{\beta}{\sqrt{3}} (\hat{i} + \hat{j} + \hat{k}) \, \text{T} \). Magnitude of Lorentz force is
-   (a) \( \sqrt{2} \beta I l \) (b) \( \sqrt{\frac{1}{3}} \beta I l \) (c) \( \sqrt{2} \beta I l \) (d) \( \sqrt{\frac{1}{2}} \beta I l \)
-
-9. A bar magnet of length \( l \) and magnetic moment \( p_m \) is bent in the form of an arc. New magnetic dipole moment is (NEET 2013)
-![](fig3.bb.1.9.png)
-   (a) 1.00 mA (b) 1.25 mA (c) 1.50 mA (d) 1.75 mA
-
-10. A non-conducting charged ring carrying charge \( q \), mass \( m \), radius \( r \) rotated with angular speed \( \omega \). Ratio of magnetic moment to angular momentum is
-    (a) \( \frac{q}{m} \) (b) \( \frac{2q}{m} \) (c) \( \frac{q}{2m} \) (d) \( \frac{q}{4m} \)
-
-11. (Diagram based) Options: \( \frac{8N\mu I}{5\sqrt{2}R} \), \( \frac{4N\mu I}{\sqrt{5}R} \), etc.
-![](fig3.bb.1.11.png)
-12. Two short bar magnets: 1.20 Am² and 1.00 Am², parallel with north poles pointing south, separated by 20.0 cm. Resultant horizontal magnetic induction at midpoint (Earth's horizontal component \( 3.6 \times 10^{-5} \, \text{Wb m}^{-2} \)) is
-    (a) \( 3.60 \times 10^{-5} \) (b) \( 3.5 \times 10^{-5} \) (c) \( 2.56 \times 10^{-4} \) (d) \( 2.2 \times 10^{-4} \) Wb m⁻²
-
-13. Vertical component of Earth's magnetic field equals horizontal component. Angle of dip is
-    (a) \( 30^\circ \) (b) \( 45^\circ \) (c) \( 60^\circ \) (d) \( 90^\circ \)
-
-14. A flat dielectric disc of radius \( R \) carries surface charge density \( \sigma \), rotates with angular velocity \( \omega \) about perpendicular axis. Torque in uniform B field perpendicular to axis is
-    (a) \( \frac{1}{4} \sigma \omega \pi B R \) (b) \( \frac{1}{2} \sigma \omega \pi B R^2 \) (c) \( \frac{1}{4} \sigma \omega \pi B R^3 \) (d) \( \frac{1}{4} \sigma \omega \pi B R^4 \)
-
-15. Potential energy of magnetic dipole \( \vec{p}_m = (-0.5\hat{i} + 0.4\hat{j}) \, \text{Am}^2 \) in \( \vec{B} = 0.2\hat{i} \, \text{T} \) is
-    (a) -0.1 J (b) -0.8 J (c) 0.1 J (d) 0.8 J
-
-## Answers:
-
-1. a
-2. b
-3. c
-4. b
-5. b
-6. a
-7. b
-8. a
-9. b
-10. c
-11. c
-12. b
-13. d
-14. d
-15. a
-
-## II. Short Answer Questions
-
-1. What is magnetic field?
-2. Define magnetic flux.
-3. Define magnetic dipole moment.
-4. State Coulomb's inverse law.
-5. What is magnetic susceptibility?
-6. State Biot-Savart's law.
-7. What is magnetic permeability?
-8. State Ampere's circuital law.
-9. Compare dia, para, and ferromagnetism.
-10. What is meant by hysteresis?
-11. Define magnetic declination and inclination.
-12. What is resonance condition in cyclotron?
-13. Define ampere.
-14. State Fleming's left hand rule.
-15. Is an ammeter connected in series or parallel? Why?
-16. Explain the concept of velocity selector.
-17. Why is the path of a charged particle not a circle when velocity is not perpendicular to magnetic field?
-18. Give properties of dia/para/ferromagnetic materials.
-19. What happens to domains in a ferromagnetic material in an external magnetic field?
-20. How is a galvanometer converted into (i) an ammeter and (ii) a voltmeter?
-
-# III. Long Answer Questions
-
-1. Discuss Earth's magnetic field in detail.
-2. Deduce the relation for magnetic field due to an infinitely long straight conductor using Biot-Savart law.
-3. Obtain relation for magnetic field on the axis of a circular coil using Biot-Savart law.
-4. Compute torque experienced by a magnetic needle in a uniform magnetic field.
-5. Calculate magnetic field on the axial line of a bar magnet.
-6. Obtain magnetic field on the equatorial line of a bar magnet.
-7. Find magnetic field due to a long straight conductor using Ampere's circuital law.
-8. Discuss the working of cyclotron in detail.
-9. What is tangent law? Discuss in detail.
-10. Derive expression for torque on a current-carrying coil in a magnetic field.
-11. Discuss conversion of galvanometer into ammeter and voltmeter.
-12. Calculate magnetic field inside and outside a long solenoid using Ampere's circuital law.
-13. Derive expression for force between two parallel current-carrying conductors.
-14. Give an account of magnetic Lorentz force.
-15. Compare soft and hard ferromagnetic materials.
-16. Derive expression for force on a current-carrying conductor in a magnetic field.
-17. Explain principle and working of a moving coil galvanometer.
-
-# IV. Numerical Problems
-
-1. A bar magnet with magnetic moment \( \vec{P}_m \) is cut into four pieces (first cut along axis, then each piece cut along axis again). Compute magnetic moment of each piece.
-
-   **Answer:** \( \vec{P}_{m,\text{new}} = \frac{1}{4} \vec{P}_m \)
-
-2. A conductor of linear mass density \( 0.2 \, \text{g m}^{-1} \) suspended by two flexible wires. Tension is zero when kept inside magnetic field of 1 T (into page). Compute current and direction. \( g = 10 \, \text{m s}^{-2} \)
-![](fig3.bb.4.2.png)
-   **Answer:** \( 2 \, \text{mA} \)
-
-3. A circular coil with area \( 0.1 \, \text{cm}^2 \) in uniform B field \( 0.2 \, \text{T} \), current 3 A, plane perpendicular to B field. Calculate:
-   (a) total torque (b) total force (c) average force on each electron (free electron density \( 10^{28} \, \text{m}^{-3} \))
-
-   **Answer:** (a) zero (b) zero (c) \( 0.6 \times 10^{-23} \, \text{N} \)
-
-4. A bar magnet in uniform B field \( 0.8 \, \text{T} \) at \( 30^\circ \) experiences torque \( 0.2 \, \text{Nm} \). Calculate:
-   (i) magnetic moment
-   (ii) work done from most stable to most unstable configuration, and work done by magnetic field.
-
-   **Answer:** (i) \( 0.5 \, \text{A m}^2 \) (ii) \( W = 0.8 \, \text{J} \), \( W_{\text{mag}} = -0.8 \, \text{J} \)
-
-5. A non-conducting sphere of mass 100 g, radius 20 cm, with 5-turn coil wrapped tightly. Placed on inclined plane with coil parallel to incline. Uniform B field \( 0.5 \, \text{T} \) vertically upward. Compute current for equilibrium.
-![](fig3.bb.4.5.png)
-   **Answer:** \( \frac{2}{\pi} \, \text{A} \)
-
-6. Calculate magnetic field at centre of a square loop carrying current \( 1.5 \, \text{A} \), side length 50 cm.
-
-   **Answer:** \( 3.4 \times 10^{-6} \, \text{T} \)
-
----
-
-# BOOKS FOR REFERENCE
-
-1. H. C. Verma, *Concepts of Physics – Volume 2*, Bharati Bhawan Publisher.
-2. Halliday, Resnick and Walker, *Fundamentals of Physics*, Wiley Publishers, 10th edition.
-3. Serway and Jewett, *Physics for Scientists and Engineers with Modern Physics*, Brook/Cole Publishers, 8th edition.
-4. David J. Griffiths, *Introduction to Electrodynamics*, Pearson Publishers.
-5. Rita John, *Solid State Physics (Magnetism chapter)*, McGraw Hill Education (India) Pvt. Ltd.
-6. Paul Tipler and Gene Mosca, *Physics for Scientists and Engineers with Modern Physics*, 6th edition, W.H. Freeman and Company.
-
----
-
-# ICT CORNER
-
-## Magnetism
-
-**Topic: Cyclotron**
-
-In this activity you will be able to visualize and understand the working of a cyclotron.
-
-**URL:** http://physics.bu.edu/~duffy/HTML5/cyclotron.html
-
-**Steps:**
-- Open the browser and type the above URL.
-- Click `play` to release the positively charged particle between the D-shaped sections.
-- Observe trajectory under magnetic field.
-- Note kinetic energy after some time (say \( t = 20 \, \text{s} \)).
-- Double electric and magnetic fields and observe change in kinetic energy.
-
-*Note: Pictures are indicative only. If browser requires, allow Flash Player or JavaScript to load the page.*

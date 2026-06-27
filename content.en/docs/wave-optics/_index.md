@@ -4,7 +4,22 @@ categories:
     - wave-optics
 weight: 7
 summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
-
+references:
+   links:
+      - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+   books:
+        - b1:
+            title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
+            url: https://www.amazon.in/Fundamentals-Optics-Francis-Jenkins/dp/1259002292
+        - b2:
+            title: Fundamentals of Physics, 6th Edition, John Wiley & Sons Inc.
+            url: https://www.amazon.in/Fundamentals-Physics-Chapters-1-21/dp/0471228613
+        - b3:
+            title: H.C. Verma, Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & Distributors Pvt. Ltd
+            url: https://www.amazon.in/Concept-Physics-Part-1-2018-2019-Session/dp/8177091875
+        - b4:
+            title: Roger A. Freedman, Hugh D. Young, Sears and Zemansky’s University Physics, 12th Edition, Pearson
+            url: https://www.amazon.in/Sears-Zemanskys-University-Physics-Mechanics/dp/8131759857
 ---
 
 # CHAPTER 7  WAVE OPTICS
@@ -140,9 +155,9 @@ In the same way the laws of refraction can be proved for wavefront travelling fr
 
 The speed of light is inversely proportional to the refractive index of the medium \(\nu \propto 1 / n\) and also directly proportional to wavelength of light \(\nu \propto \lambda\) . Hence,
 
-\[\frac{\lambda_{1}}{\lambda_{2}} = \frac{n_{2}}{n_{1}} \quad (7.5)\]
+\[\frac{\lambda_{1}}{\lambda_{2}} = \frac{n_{2}}{n_{1}} \quad (7.5)\].
 
-If light of a particular frequency travels through different media, then, its frequency remains unchanged in all the media. Only the wavelength changes according to speed of light in that medium.
+>If light of a particular frequency travels through different media, then, its frequency remains unchanged in all the media. Only the wavelength changes according to speed of light in that medium.
 
 ## EXAMPLE 7.1
 
@@ -577,6 +592,7 @@ We know that, \(\lambda^{\prime} = \frac{\lambda}{RI}\)
 
 When a white light (polychromatic light) is used in interference experiment, coloured fringes of varied thickness will be formed on the screen. This is because, different colours have different wavelengths. However, the central fringe (or) \(0^{\mathrm{th}}\) fringe will always be bright and white in colour, because all the colours falling at the point O will have no path difference with each other. Hence, only constructive interference is possible at O for all the colours.
 
+![](Dyk1.png)
 ## EXAMPLE 7.7
 
 Lights of two wavelengths \(560 \mathrm{nm}\) and \(420 \mathrm{nm}\) are used in Young's double slit experiment. Find the least distance from the central fringe where the bright fringes of the two wavelengths coincide. Given \(D = 1 \mathrm{m}\) and \(d = 3 \mathrm{mm}\) .
@@ -647,7 +663,7 @@ The condition for destructive interference for reflected ray is,
 
 \[2\mu d + \frac{\lambda}{2} = (2n + 1)\frac{\lambda}{2} \ \ (\mathrm{or})\ \ 2\mu d = n\lambda \quad (7.36)\]
 
-If the incidence is not nearly normal but at an angle of incidence \(i\) which has an angle of refraction \(r\) , then the expression \(2\mu d\) is to be replaced with \(2\mu d \cos r\) .
+>If the incidence is not nearly normal but at an angle of incidence \(i\) which has an angle of refraction \(r\) , then the expression \(2\mu d\) is to be replaced with \(2\mu d \cos r\) .
 
 ## EXAMPLE 7.8
 
@@ -746,6 +762,8 @@ Where \(n = 0, 1, 2, 3....\) is the order of diffraction maximum.
 
 The central maximum is called \(0^{\mathrm{th}}\) order maximum. The points of the maximum intensity lie nearly midway between the successive minima.
 
+>Here, sin θ gives the angular spread of diffraction from the central reference line. We can replace sin θ in the above equations with y / D. It is possible because θ is small. Now, we can approximate,
+sinθ=tanθ=y/D  Where, y is the position of minimum (or) maximum on the screen from its center and D is the distance between the slit and the screen.
 
 ## EXAMPLE 7.9
 
@@ -800,13 +818,17 @@ The distance between the central maximum and second minimum is \(y_{2} - y_{1} =
 
 ![](EX-7.9(2).png)
 
-Note: The above calculation shows that the diffraction pattern produced by a single slit, has equal widths of maxima. Only the width of central maximum is double as it is spread on both the sides. But, the intensity falls rapidly for higher order diffraction fringes.
+>The above calculation shows that the diffraction pattern produced by a single slit, has equal widths of maxima. Only the width of central maximum is double as it is spread on both the sides. But, the intensity falls rapidly for higher order diffraction fringes.
 
 ## EXAMPLE 7.10
 
 **Problem:** A monochromatic light of wavelength $5000 \text{ Å}$ passes through a single slit producing diffraction pattern for the central maximum as shown in the figure. Determine the width of the slit.
 
+<<<<<<< HEAD
+![](pro-7.10.png)
+=======
 ![](2.png)
+>>>>>>> c70a444eae204de8a4598387af1b71c7597ad8d3
 
 **Given:**
 - Wavelength, $\lambda = 5000 \text{ Å} = 5000 \times 10^{-10} \text{ m} = 5 \times 10^{-7} \text{ m}$
@@ -841,8 +863,8 @@ The equation for first minimum in single slit diffraction is, a sin θ = λ. The
 We can discuss the following cases on the central maximum. 
 
 (i) If a < λ, then sin θ > 1 which is not possible. Hence, diffraction does not take place.<br>
-(ii) If a = λ, then sin θ = 1 i.e. θ = 90 degree. The first minimum is at 90 degree. Hence, the central maximum spreads fully into the geometrically shadowed region leading to the bending of the diffracted light by 90 degree.<br>
-(iii) If a > λ and also comparable to λ, saya = 2λ, then sin θ =1/2 (or) θ = 30 degree. The diffraction is observed with a measurable spread. Hence, it is concluded that for observing the diffraction pattern, essentially the width of the slit a must be just few times greater than the wavelength of light λ.<br>
+(ii) If a = λ, then sin θ = 1 i.e. θ = 90°. The first minimum is at 90°. Hence, the central maximum spreads fully into the geometrically shadowed region leading to the bending of the diffracted light by 90°.<br>
+(iii) If a > λ and also comparable to λ, saya = 2λ, then sin θ =1/2 (or) θ = 30°. The diffraction is observed with a measurable spread. Hence, it is concluded that for observing the diffraction pattern, essentially the width of the slit a must be just few times greater than the wavelength of light λ.<br>
 (iv) If a >> λ, then sin θ << 1 i.e. The first minimum falls within the width space of the slit itself. Hence, the phenomenon of diffraction is not observed at all.
 
 ### 7.4.4 Fresnel’s distance
@@ -913,13 +935,15 @@ Condition for \(P\) to be first maximum, \(m = 1\): \((a + b)\sin \theta_{1} = \
 
 Condition for \(P\) to be second maximum, \(m = 2\): \((a + b)\sin \theta_{2} = 2\lambda\). The second maximum is obtained at an angle \(\theta_{2}\)
 
+Condition for \(P\) to be mth maximum,
+
 On either side of central maximum, different higher order diffraction maxima are formed at different angular positions.
 
 If we take \(N = \frac{1}{a + b} \quad (7.49)\), then \(N\) gives the number of grating elements or rulings drawn per unit width of the grating. Normally, this number \(N\) is specified on the grating itself. Now, the equation becomes,
 
 $$\frac{1}{N}\sin \theta = m\lambda \text{ (or) } \sin \theta = Nm\lambda \quad (7.50)$$
 
-The students should remember that in a single slit experiment, the formula \(a\sin \theta = n\lambda\) is condition for minimum with n as order of minimum. But in the grating experiment, the formula \(\sin \theta = Nm\lambda\) is condition for maximum with \(m\) as the order of diffraction.
+>The students should remember that in a single slit experiment, the formula \(a\sin \theta = n\lambda\) is condition for minimum with n as order of minimum. But in the grating experiment, the formula \(\sin \theta = Nm\lambda\) is condition for maximum with \(m\) as the order of diffraction.
 
 
 ## EXAMPLE 7.12
@@ -952,19 +976,30 @@ Rewriting, \(N = \frac{\sin \theta}{m\lambda}\)
 
 Substituting, \(N = \frac{0.5}{4\times 500\times 10^{-9}} = 2.5\times 10^{5} \text{ m}^{-1} = 2.5\times 10^{3} \text{ cm}^{-1}\)
 
+![](Dyk2.png)
+
 ### 7.4.7 Experiment to determine the wavelength of monochromatic light
 
 The wavelength of a spectral line can be very accurately determined with the help of a plane transmission grating. For that we need to use an 
 instrument called spectrometer (Refer 7.6.6). After preliminary adjustments, the slit of collimator is illuminated by a monochromatic light, whose wavelength is to be determined. The telescope is brought in line with collimator to view the image of the slit. The given grating is then mounted on the prism table with its plane perpendicular to the incident beam of light coming from the collimator. The telescope is turned to one side until the first order diffraction image of the slit is seen. The reading of the position of the telescope is noted.
-Similarly, the first order diffraction image on the other side is captured and the eading is noted. The difference between two readings gives 2θ. Half of its value gives θ. The angle for first order maximum is shown in Figure 7.21.
+Similarly, the first order diffraction image on the other side is captured and the eading is noted. The difference between two readings gives 2θ. Half of its value gives θ. The angle for first order maximum is shown in Figure 7.21.The
+wavelength of light is calculated from the
+equation,
 
+λ=sinθ/Nm               (7.51)
+
+Here, N is the number of rulings per metre in the grating and m is the order of the diffraction image.
 
 ![](7.21.png)
 
 ### 7.4.8 Determination of wavelenght of different colours
 
 The diffraction pattern for white light consists of a white central maximum and continuous coloured diffraction pattern on its both sides. The central maximum is white as all the colours constructively meet at centre  with no path difference. As θ increases, the path difference fullfills the 
-condition for maxima of different orders for all colours from violet to red. It produces a spectrum of diffraction pattern from violet to red on either side of central maximum as shown in Figure 7.22.
+condition for maxima of different orders for all colours from violet to red. It produces a spectrum of diffraction pattern from violet to red on either side of central maximum as shown in Figure 7.22.By measuring the angle at which these colours appear for various orders of diffraction, the wavelength of different colours could be calculated using the formula given by equation (7.51),
+
+λ=sinθ/Nm
+
+Here, N is the number of rulings per metre in the grating and m is the order of the diffraction image.
 
 ![](7.22.png)
 
@@ -1238,13 +1273,13 @@ The ordinary ray is total internally reflected at the layer of canada balsam and
 
 #### 7.5.8 Polarisation by scattering
 
-When a beam of unpolarised light is made to fall on a substance containing small particles whose size is smaller than the wavelength of light, the light gets absorbed by the particles and re-radiated. This phenomenon is called scattering of light. In the scattered light, the vibrations are confined to one direction. Hence, the scattered light is said to be polarised. For example, the blue colour of the sky is due to the scattering of sunlight by the dust particles present in the atmosphere. The scattered sunlight is found to be partially polarised. With a polaroid, one can check this.
+When sunlight gets scattered by the atmospheric molecules, the electrons of these molecules are influenced by the vibrating components of the electric field present in the sunlight. As the sunlight is unpolarised, it produces these vibrations in all directions. These vibrating electrons radiate energy only in the direction perpendicular to their vibrations. When an observer views a beam of sunlight perpendicular to its direction of travel, the radiations produced by the electrons vibrating in the direction perpendicular to the direction of view will only reach the observer. Hence, the light reaching the observer is plane polarised. It is shown in Figure 7.35.
 
 ![](7.35.png)
 
 ## 7.6 OPTICAL INSTRUMENTS
 
-Optical instruments use visible light and lenses to produce magnified images of objects. The principle behind the construction and working of the instruments are based on the reflection and refraction of light. Three common optical instruments are the microscope, telescope and the spectrometer.
+There are many optical instruments we used in our daily liffe.We shall discuss here about microscope,telescope,spectrometer and of course the human eye.
 
 ### 7.6.1 Simple microscope
 
@@ -1272,7 +1307,13 @@ This is the magnification for near point focusing.
 
 The eye is most relaxed when the image is formed at infinity. The focusing is called normal focusing when the image is formed at infinity. This is shown in Figure 7.37(b). To find the magnification \(m\), if we take the ratio of the height of image to the height of object \(\left(m = \frac{h'}{h}\right)\), we will not get a meaningful equation, as the image is of infinite size and it is also formed at infinity. Hence, we can practically use the angular magnification. The angular magnification is defined as the ratio of angle \(\theta_{i}\) subtended by the image with aided eye to the angle \(\theta_{0}\) subtended by the object with unaided eye.
 
+<<<<<<< HEAD
+$$m = \frac{\theta_{i}}{\theta_{0}}$$
+
+![](7.37.png)
+=======
 ![](3.png)
+>>>>>>> c70a444eae204de8a4598387af1b71c7597ad8d3
 
 For unaided eye shown in Figure 7.37(a),
 
@@ -1467,7 +1508,7 @@ A terrestrial telescope is used to see objects at a long distance on the surface
 
 ![](7.42.png)
 
-Modern telescopes use concave mirrors instead of lenses for the objectives. It is rather difficult and expensive to make lenses of large size which form images that are free from any optical defect. A telescopes which has a concave mirror objective is called reflecting telescope. It has several advantages. Only one reflecting surface is used in the Newtonian telescope arrangement as shown in Figure 7.42. The main advantage is that a mirror has high resolving power and also it is free from chromatic aberration.
+Modern telescopes use concave mirrors instead of lenses for the objectives. It is rather difficult and expensive to make lenses of large size which form images that are free from any optical defect. A telescopes which has a concave mirror objective is called reflecting telescope. It has several advantages. Only one surface is to be polished and maintained for a mirror whereas it is to be done for two surfaces for a lens. Support can be given from the entire back of the mirror whereas it is given only at the rim for lens. A mirror weighs much less compared to a lens. But, the one obvious problem with a reflecting telescope is that the objective mirror would focus the light inside the telescope tube. One must have an eye piece inside the tube obstructing some light. This problem could also be overcome by introducing a secondary mirror which would take the light outside the tube for view as shown in the Figure 7.42.
 
 ### 7.6.6 Spectrometer
 
@@ -1612,7 +1653,7 @@ Calculate the power of the lens of the spectacles needed to rectify the defect o
 
 The maximum distance the person could see is \(x = 1.8\mathrm{m}\).
 
-The lens should have a focal length of \(f = -x = -1.8\mathrm{m}\).
+The lens should have a focal length of \(f = -xm = -1.8m.
 
 It is a concave (or) diverging lens.
 
@@ -1698,56 +1739,6 @@ $$P = \frac{1}{0.375\mathrm{m}} = 2.67\mathrm{D}$$
 - The correction lens for farsightedness/hypermetropic eye should be a convex lens with focal length \(f = \frac{y \times 25\mathrm{cm}}{y - 25\mathrm{cm}}\), where \(25\mathrm{cm}\) is the near distance and \(y\) is the minimum distance up to which an object can be seen.
 - The farsightedness arising due to aging is called presbyopia.
 - Astigmatism is the defect arising due to different curvatures along different planes in the eye lens.
-
----
-
-## MULTIPLE CHOICE QUESTIONS
-
-1. A plane glass is placed over various coloured letters (violet, green, yellow, red). The letter which appears to be raised more is
-   (a) red (b) yellow (c) green (d) violet
-
-2. Two point white dots are \(1\mathrm{mm}\) apart on a black paper. They are viewed by eye of pupil diameter \(3\mathrm{mm}\) approximately. The maximum distance at which these dots can be resolved by the eye is, [take wavelength of light \(\lambda = 500\mathrm{nm}\)]
-   (a) \(1\mathrm{m}\) (b) \(5\mathrm{m}\) (c) \(3\mathrm{m}\) (d) \(6\mathrm{m}\)
-
-3. In a Young's double-slit experiment, the slit separation is doubled. To maintain the same fringe spacing on the screen, the screen-to-slit distance \(D\) must be changed to
-   (a) \(2D\) (b) \(\frac{D}{2}\) (c) \(\sqrt{2}D\) (d) \(\frac{D}{\sqrt{2}}\)
-
-4. Two coherent monochromatic light beams of intensities \(I\) and \(4I\) are superposed. The maximum and minimum possible intensities in the resulting beam are
-   (a) \(5I\) and \(I\) (b) \(5I\) and \(3I\) (c) \(9I\) and \(I\) (d) \(9I\) and \(3I\)
-
-5. When light is incident on a soap film of thickness \(5\times 10^{-5}\mathrm{cm}\), the wavelength of light reflected maximum in the visible region is \(5320\mathrm{\AA}\). Refractive index of the film will be
-   (a) 1.22 (b) 1.33 (c) 1.51 (d) 1.83
-
-6. First diffraction minimum due to a single slit of width \(1.0\times 10^{-5}\mathrm{cm}\) is at \(30^{\circ}\). Then wavelength of light used is
-   (a) \(400\mathrm{\AA}\) (b) \(500\mathrm{\AA}\) (c) \(600\mathrm{\AA}\) (d) \(700\mathrm{\AA}\)
-
-7. A ray of light strikes a glass plate at an angle \(60^{\circ}\). If the reflected and refracted rays are perpendicular to each other, the refractive index of the glass is
-   (a) \(\sqrt{3}\) (b) \(\frac{3}{2}\) (c) \(\sqrt{\frac{3}{2}}\) (d) 2
-
-8. One of the slits of Young's double slit is covered with a glass plate. The position of central maximum will,
-![](4.png)
-   (a) get shifted downwards (b) get shifted upwards (c) will remain the same (d) data insufficient to conclude
-
-9. Light transmitted by Nicol prism is
-   (a) partially polarised (b) unpolarised (c) plane polarised (d) elliptically polarised
-
-10. The transverse nature of light is shown in
-    (a) interference (b) diffraction (c) scattering (d) polarisation
-
-### Answers
-
-1) d
-2) b
-3) a
-4) c
-5) b
-6) b
-7) a
-8) b
-9) c
-10) d
-
----
 
 ## SHORT ANSWER QUESTIONS
 
@@ -1856,39 +1847,3 @@ $$P = \frac{1}{0.375\mathrm{m}} = 2.67\mathrm{D}$$
 10. A compound microscope has a magnifying power of 100 when the image is formed at infinity. The objective has a focal length of \(0.5\mathrm{cm}\) and the tube length is \(6.5\mathrm{cm}\). What is the focal length of the eyepiece?
     [Ans: \(3.25\mathrm{cm}\)]
     (Note: magnification is also called as magnifying power)
-
----
-
-## REFERENCES
-
-1. Frances A. Jenkins and Harvey E. White, Fundamentals of Optics, 4th Edition, McGraw Hill Book Company, (2011).
-2. David Halliday, Robert Resnick and Jearl Walker, Fundamentals of Physics, 6th Edition, John Wiley & Sons Inc., (2004).
-3. H.C. Verma, Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & Distributors Pvt. Ltd., (2008).
-4. Roger A. Freedman, Hugh D. Young, Sears and Zemansky's University Physics, 12th Edition, Pearson, (2011).
-
----
-
-## ICT CORNER
-
-### Wave Optics
-
-In this activity you will be able to explore the behaviour of a Young's double slit experiment by adjusting the slit separation, the distance to the screen, and the wavelength of the light.
-
-**Topic:** Young's double slit experiment.
-
-**STEPS:**
-
-- Open the browser and type 'tutor-homework.com/Physics_Help/double_slit_experiment.html' in the address bar.
-- Change the slit separation (distance between two sources) and observe how the pattern of bright and dark fringes changes.
-- What happens to the fringe width if distance between the source and screen decreases?
-- Observe how does the fringe width in interference pattern vary with the wavelength of incident light?
-
-Observe the pattern of bright and dark fringes by clicking the Run button.
-
-![](1.png)
-
-**Note:** Use flash enabled browser or install flash player in your system.
-
-**URL:** http://tutor-homework.com/Physics_Help/double_slit_experiment.html
-
-*Pictures are indicative only. * If browser requires, allow Flash Player or Java Script to load the page.

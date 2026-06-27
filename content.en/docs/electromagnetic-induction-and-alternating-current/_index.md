@@ -570,6 +570,20 @@ We have learnt about inertia in XI standard. In translational motion, mass is a 
 ![Induced emf ε opposes the 
 changing current i](img4.19.png)
 
+The inductance plays the same role in a
+circuit as mass and moment of inertia play
+in mechanical motion. When a circuit is
+switched on, the increasing current induces
+an emf which opposes the growth of current
+in a circuit (Figure 4.19(a)). Likewise, when
+circuit is broken, the decreasing current
+induces an emf in the reverse direction.
+This emf now opposes the decay of current
+(Figure 4.19(b)).
+Thus, inductance of the coil opposes any
+change in current and tries to maintain the
+original state.
+
 ### 4.3.2 Self-inductance of a long solenoid
 
 Consider a long solenoid of length $l$ and cross-sectional area $A$. Let $n$ be the number of turns per unit length (or turn density) of the solenoid. When an electric current $i$ is passed through the solenoid, a magnetic field produced inside is almost uniform and is directed along the axis of the solenoid as shown in Figure 4.20. The magnetic field at any point inside the solenoid is given by (Refer section 3.9.3)
@@ -1012,10 +1026,11 @@ Stator core or armature core is made up of iron or steel alloy. It is a hollow c
 
 Armature winding is the coil, wound on slots provided in the armature core (Figure 4.27).
 
-![Stator core, Armature 
-winding and 2-pole rotor](img4.27.png)
 
 #### ii) Rotor
+
+![Stator core, Armature 
+winding and 2-pole rotor](img4.27.png)
 
 Rotor contains magnetic field windings. The magnetic poles are magnetized by DC source. The ends of field windings are connected to a pair of slip rings, attached to a common shaft about which rotor rotates. Slip rings rotate along with rotor. To maintain connection between the DC source and field windings, two brushes are used which continuously slide over the slip rings. The 2-pole rotor is shown in Figure 4.27.
 
@@ -1088,21 +1103,18 @@ one cycle.
 
 ![](img4ch8.png)
 
-#### 4.5.6 Three phase AC generator
+#### 4.5.6 Poly-phase AC generator
 
-In a three phase AC generator, three separate windings are placed on the stator core. These windings are displaced from one another by $120^{\circ}$ as shown in Figure 4.30(a). The rotor is a field magnet with alternate north and south poles. When the rotor is rotated, by electromagnetic induction, alternating emf is induced in each of the three stator windings. The induced emfs are equal in magnitude but differ in phase by $120^{\circ}$ (Figure 4.30(b)). They are given by the equations
-
-$$
-\epsilon_1 = \epsilon_m \sin \omega t
-$$
-
-$$
-\epsilon_2 = \epsilon_m \sin (\omega t - 120^{\circ})
-$$
-
-$$
-\epsilon_3 = \epsilon_m \sin (\omega t - 240^{\circ})
-$$
+Some AC generators may have more
+than one coil in the armature core and each
+coil produces an alternating emf. In these
+generators, more than one emf is produced.
+Thus they are called poly-phase generators.
+If there are two alternating emfs
+produced in a generator, it is called twophase generator. In some AC generators,
+there are three separate coils, which would
+give three separate emfs. Hence they are
+called three-phase AC generators.
 
 ### 4.5.7 Three-phase AC generator
 
@@ -1270,57 +1282,63 @@ Thus it is clear that when an electric power is transmitted at higher voltage, t
 
 #### EXAMPLE 4.16
 
-The primary coil of a transformer has 200 turns and the secondary coil has 1000 turns. If the primary voltage is $220\mathrm{V}$ and the primary current is $2\mathrm{A}$, find the secondary voltage and secondary current.
+# EXAMPLE 4.16
 
-#### Solution
+An ideal transformer has 460 and 40,000 turns in the primary and secondary coils respectively. Find the voltage developed per turn of the secondary if the transformer is connected to a 230 V AC mains. The secondary is given to a load of resistance \( 10^4 \, \Omega \). Calculate the power delivered to the load.
 
-$$
-N_p = 200;\quad N_s = 1000;\quad \epsilon_p = 220\mathrm{V};\quad i_p = 2\mathrm{A}
-$$
+## Solution
 
-We know that
+\[
+N_p = 460 \, \text{turns}; \, N_s = 40,000 \, \text{turns}
+\]
 
-$$
-\frac{\epsilon_s}{\epsilon_p} = \frac{N_s}{N_p} \quad \Rightarrow \quad \epsilon_s = \epsilon_p \times \frac{N_s}{N_p} = 220 \times \frac{1000}{200} = 1100\mathrm{V}
-$$
+\[
+V_p = 230 \, \text{V}; \, R_s = 10^4 \, \Omega
+\]
 
-Also,
+(i) Secondary voltage,
 
-$$
-\frac{i_p}{i_s} = \frac{N_s}{N_p} \quad \Rightarrow \quad i_s = i_p \times \frac{N_p}{N_s} = 2 \times \frac{200}{1000} = 0.4\mathrm{A}
-$$
+\[
+V_s = \frac{V_p N_s}{N_p} = \frac{230 \times 40,000}{460} = 20,000 \, \text{V}
+\]
+
+Secondary voltage per turn,
+
+\[
+\frac{V_s}{N_s} = \frac{20,000}{40,000} = 0.5 \, \text{V}
+\]
+
+(ii) Power delivered
+
+\[
+= V_s I_s = \frac{V_s^2}{R_s} = \frac{20,000 \times 20,000}{10^4} = 40 \, \text{kW}
+\]
 
 #### EXAMPLE 4.17
 
-A transformer is used to step up an alternating voltage of $220\mathrm{V}$ to $4400\mathrm{V}$ to transmit $22\mathrm{kW}$ of power. If the primary coil has 1000 turns, find the number of turns in the secondary coil, the current rating of the primary and secondary coils. Assume that the transformer is ideal.
+# EXAMPLE 4.17
 
-#### Solution
+An inverter is common electrical device which we use in our homes. When there is no power in our house, inverter gives AC power to run a few electronic appliances like fan or light. An inverter has inbuilt step-up transformer which converts 12 V AC to 240 V AC. The primary coil has 100 turns and the inverter delivers 50 mA to the external circuit. Find the number of turns in the secondary and the primary current.
 
-$$
-\epsilon_p = 220\mathrm{V};\quad \epsilon_s = 4400\mathrm{V};\quad P = 22 \times 10^3\mathrm{W};\quad N_p = 1000
-$$
+## Solution
 
-Number of turns in the secondary coil:
+\[
+V_p = 12 \, \text{V}; \, V_s = 240 \, \text{V}
+\]
 
-$$
-\frac{N_s}{N_p} = \frac{\epsilon_s}{\epsilon_p} \quad \Rightarrow \quad N_s = N_p \times \frac{\epsilon_s}{\epsilon_p} = 1000 \times \frac{4400}{220} = 20000
-$$
+\[
+I_s = 50 \, \text{mA}; \, N_p = 100 \, \text{turns}
+\]
 
-Current rating of the primary coil:
+\[
+\frac{V_s}{V_p} = \frac{N_s}{N_p} = \frac{I_p}{I_s} = K
+\]
 
-$$
-i_p = \frac{P}{\epsilon_p} = \frac{22 \times 10^3}{220} = 100\mathrm{A}
-$$
+Transformation ratio,
 
-Current rating of the secondary coil:
-
-$$
-i_s = \frac{P}{\epsilon_s} = \frac{22 \times 10^3}{4400} = 5\mathrm{A}
-$$
-
-Transformation ratio
-
-\( K = \frac{240}{12} = 20 \)
+\[
+K = \frac{240}{12} = 20
+\]
 
 The number of turns in the secondary
 
@@ -1333,8 +1351,6 @@ Primary current,
 \[
 I_p = K \times I_s = 20 \times 50 \, \text{mA} = 1 \, \text{A}
 \]
-
-is positive and lower terminal negative at an instant. Therefore, the current flows in clockwise direction. After a short time, the polarities of the source are reversed so that current now flows in anti-clockwise direction (Figure 4.34(b)). This current which flows in alternate directions in the circuit is called alternating current.
 
 ![](img4ch9.png)
 
@@ -1361,6 +1377,9 @@ circuit is called alternating current.
 ![](img4.34.png)
 **Figure 4.34** Alternating voltage and the 
 corresponding alternating current
+
+is positive and lower terminal negative at an instant. Therefore, the current flows in clockwise direction. After a short time, the polarities of the source are reversed so that current now flows in anti-clockwise direction (Figure 4.34(b)). This current which flows in alternate directions in the circuit is called alternating current.
+
 
 ---
 
@@ -1389,6 +1408,8 @@ voltage (b) Sinusoidal alternating current
 
 **Note** 
 Interesting, sine waves are very common in nature. The periodic motions like waves in water, swinging of pendulum are associated with sine waves. Thus sine wave seems to be nature's standard. Also refer unit 11 of XI physics text book.
+
+### 4.7.2 Mean or Average value of AC
 
 The current and voltage in a DC system remain constant over a period of time so that there is no problem in specifying their magnitudes. However, an alternating current or voltage varies from time to time. Then a question arises how to express the magnitude of an alternating current or voltage. Though there are many ways of expressing it, we limit our discussion with two ways, namely mean value and RMS (Root Mean Square) value of AC.
 
@@ -1739,6 +1760,15 @@ $$
 X_{L} = \omega L \quad (4.42)
 $$
 
+The inductive reactance \( (X_L) \) varies directly as the frequency.
+
+\[
+X_L = 2\pi f L
+\tag{4.42}
+\]
+
+where \( f \) is the frequency of the alternating current. For a steady current, \( f = 0 \). Therefore, \( X_L = 0 \). Thus an ideal inductor offers no resistance to steady DC current.
+
 #### An inductor blocks AC but it allows DC. Why? and How?
 
 An inductor $L$ is a closely wound helical coil. The steady DC current flowing through $L$ produces uniform magnetic field around it and the magnetic flux linked remains constant. Therefore there is no self- induction and self- induced emf (back emf). Since inductor behaves like a resistor, DC flows through an inductor.
@@ -1809,9 +1839,7 @@ Thus a capacitive circuit offers infinite resistance to the steady current. So t
 
 ![Phasor diagram and wave diagram for AC circuit with C](img4.45.png)
 
-#### What is ICE?
-
-ICE is an acronym which means that the current leads the EMF (voltage) in a capacitive circuit.
+![](image.png)
 
 #### EXAMPLE 4.20
 
@@ -1898,6 +1926,8 @@ Thus the electrons flow in one direction while charging the capacitor and its di
 ### 4.7.7 AC circuit containing a resistor, an inductor and a capacitor in series - Series RLC circuit
 
 Consider a circuit containing a resistor of resistance $R$, an inductor of inductance $L$ and a capacitor of capacitance $C$ connected across an alternating voltage source (Figure 4.46). The instantaneous value of the alternating voltage is given by
+
+v =Vm sin ωt
 
 ![AC circuit containing $R, L$ and $C$](img4.46.png)
 
@@ -2034,6 +2064,8 @@ $$
 The maximum current at series resonance is limited by the resistance of the circuit. For smaller resistance, larger current with sharper curve is obtained and vice versa.
 
 ![Resonance curve](img4.49.png)
+
+**Do You Know**
 
 The phenomenon of electrical resonance is possible when the circuit contains both $L$ and $C$. Only then the voltage across $L$ and $C$ cancel one another when $V_{L}$ and $V_{C}$ are $180^{\circ}$ out of phase and the circuit becomes purely resistive. This implies that resonance will not occur in $RL$ and $RC$ circuits.
 
@@ -2244,6 +2276,38 @@ $$
 
 where $V_{RMS} I_{RMS}$ is called apparent power and $\cos \phi$ is power factor. The average power of an AC circuit is also known as the true power of the circuit.
 
+# Special Cases
+
+(i) For a purely resistive circuit, the phase angle between voltage and current is zero and \( \cos \phi = 1 \).
+
+\[
+\therefore P_{av} = V_{RMS} I_{RMS}
+\]
+
+(ii) For a purely inductive or capacitive circuit, the phase angle is \( \pm \frac{\pi}{2} \) and  
+\[
+\cos\left(\pm \frac{\pi}{2}\right) = 0.
+\]
+
+\[
+\therefore P_{av} = 0
+\]
+
+(iii) For series RLC circuit, the phase angle  
+\[
+\phi = \tan^{-1}\left(\frac{X_L - X_C}{R}\right)
+\]
+
+\[
+\therefore P_{av} = V_{RMS} I_{RMS} \cos \phi
+\]
+
+(iv) For series RLC circuit at resonance, the phase angle is zero and \( \cos \phi = 1 \).
+
+\[
+\therefore P_{av} = V_{RMS} I_{RMS}
+\]
+
 ### 4.8.2 Wattless current
 
 Consider an AC circuit in which there is a phase angle of $\phi$ between $V_{RMS}$ and $I_{RMS}$ and voltage is assumed to be leading the current by $\phi$ as shown in the phasor diagram (Figure 4.50).
@@ -2407,6 +2471,15 @@ In the ideal LC circuit, there is no loss of energy. Therefore, the oscillations
 
 ![LC oscillations](img4.52.png)
 
+**Do You Know**
+
+But in practice, the Joule
+heating and radiation of
+electromagnetic waves from
+the circuit decrease the energy of the
+system. Therefore, the oscillations
+become damped oscillations.
+
 ### 4.9.2 Conservation of energy in LC oscillations
 
 During LC oscillations in LC circuits, the energy of the system oscillates between the electric field of the capacitor and the magnetic field of the inductor. Although, these two forms of energy vary with time, the total energy remains constant. It means that LC oscillations take place in accordance with the law of conservation of energy.
@@ -2534,227 +2607,3 @@ $$
 - **Power** of a circuit is defined as the rate of consumption of electric energy in that circuit. It depends on the components of the circuit.
 - Whenever energy is given to a LC circuit, the electrical oscillations of definite frequency are generated. These oscillations are called **LC oscillations**.
 - During LC oscillations, the total energy remains constant. It means that LC oscillations take place in accordance with the law of conservation of energy.
-
-#### EVALUATION
-
-#### Multiple Choice Questions
-
-1. An electron moves on a straight line path XY as shown in the figure. The coil abcd is adjacent to the path of the electron. What will be the direction of current, if any, induced in the coil?
-
-![](6.png)
-
-   (a) The current will reverse its direction as the electron goes past the coil
-   (b) No current will be induced
-   (c) abcd
-   (d) adcb
-
-   **Answer: (a)**
-
-2. A thin semi-circular conducting ring (PQR) of radius r is falling with its plane vertical in a horizontal magnetic field B, as shown in the figure.
-
-![](7.png)
-
- The potential difference developed across the ring when its speed $v$, is
-   (a) Zero
-   (b) $\frac{Bv\pi r^2}{2}$ and P is at higher potential
-   (c) $\pi r B v$ and R is at higher potential
-   (d) $2r B v$ and R is at higher potential
-
-   **Answer: (d)**
-
-3. The flux linked with a coil at any instant t is given by $\Phi_B = 10t^2 - 50t + 250$. The induced emf at $t = 3$ s is
-   (a) $-190\mathrm{V}$ (b) $-10\mathrm{V}$ (c) $10\mathrm{V}$ (d) $190\mathrm{V}$
-
-   **Answer: (b)**
-
-4. When the current changes from $+2\mathrm{A}$ to $-2\mathrm{A}$ in $0.05\mathrm{s}$, an emf of $8\mathrm{V}$ is induced in a coil. The co-efficient of self-induction of the coil is
-   (a) $0.2\mathrm{H}$ (b) $0.4\mathrm{H}$ (c) $0.8\mathrm{H}$ (d) $0.1\mathrm{H}$
-
-   **Answer: (d)**
-
-5. The current $i$ flowing in a coil varies with time as shown in the figure. The variation of induced emf with time would be (NEET 2011)
-
-![](8.png)
-
-   **Answer: (a)**
-
-6. A circular coil with a cross-sectional area of $4\mathrm{cm}^2$ has 10 turns. It is placed at the centre of a long solenoid that has 15 turns/cm and a cross-sectional area of $10\mathrm{cm}^2$. The axis of the coil coincides with the axis of the solenoid. What is their mutual inductance?
-   (a) $7.54\mu \mathrm{H}$ (b) $8.54\mu \mathrm{H}$ (c) $9.54\mu \mathrm{H}$ (d) $10.54\mu \mathrm{H}$
-
-   **Answer: (a)**
-
-7. In a transformer, the number of turns in the primary and the secondary are 410 and 1230 respectively. If the current in primary is 6A, then that in the secondary coil is
-   (a) 2 A (b) 18 A (c) 12 A (d) 1 A
-
-   **Answer: (a)**
-
-8. A step-down transformer reduces the supply voltage from 220 V to 11 V and increase the current from 6 A to 100 A. Then its efficiency is
-   (a) 1.2 (b) 0.83 (c) 0.12 (d) 0.9
-
-   **Answer: (b)**
-
-9. In an electrical circuit, $R, L, C$ and AC voltage source are all connected in series. When $L$ is removed from the circuit, the phase difference between the voltage and current in the circuit is $\pi/3$. Instead, if $C$ is removed from the circuit, the phase difference is again $\pi/3$. The power factor of the circuit is (NEET 2012)
-   (a) $\frac{1}{2}$ (b) $\frac{1}{\sqrt{2}}$ (c) 1 (d) $\frac{\sqrt{3}}{2}$
-
-   **Answer: (c)**
-
-10. In a series RL circuit, the resistance and inductive reactance are the same. Then the phase difference between the voltage and current in the circuit is
-    (a) $\frac{\pi}{4}$ (b) $\frac{\pi}{2}$ (c) $\frac{\pi}{6}$ (d) zero
-
-    **Answer: (a)**
-
-11. In a series resonant RLC circuit, the voltage across $100\Omega$ resistor is $40\mathrm{V}$. The resonant frequency $\omega$ is $250\mathrm{rad/s}$. If the value of $C$ is $4\mu \mathrm{F}$, then the voltage across $L$ is
-    (a) $600\mathrm{V}$ (b) $4000\mathrm{V}$ (c) $400\mathrm{V}$ (d) $1\mathrm{V}$
-
-    **Answer: (c)**
-
-12. An inductor $20\mathrm{mH}$, a capacitor $50\mu \mathrm{F}$ and a resistor $40\Omega$ are connected in series across a source of emf $V = 10 \sin 340t$. The power loss in AC circuit is
-    (a) $0.76\mathrm{W}$ (b) $0.89\mathrm{W}$ (c) $0.46\mathrm{W}$ (d) $0.67\mathrm{W}$
-
-    **Answer: (c)**
-9
-
-13. The instantaneous values of alternating current and voltage in a circuit are $i = \frac{1}{\sqrt{2}} \sin (100\pi t)$ A and $v = \frac{1}{\sqrt{2}} \sin \left(100\pi t + \frac{\pi}{3}\right)$ V. The average power in watts consumed in the circuit is (IIT Main 2012)
-    (a) $\frac{1}{4}$ (b) $\frac{\sqrt{3}}{4}$ (c) $\frac{1}{2}$ (d) $\frac{1}{8}$
-
-    **Answer: (d)**
-
-14. In an oscillating LC circuit, the maximum charge on the capacitor is $Q$. The charge on the capacitor when the energy is stored equally between the electric and magnetic fields is
-    (a) $\frac{Q}{2}$ (b) $\frac{Q}{\sqrt{3}}$ (c) $\frac{Q}{\sqrt{2}}$ (d) $Q$
-
-    **Answer: (c)**
-
-15. $\frac{20}{\pi^2}\mathrm{H}$ inductor is connected to a capacitor of capacitance C. The value of C in order to impart maximum power at $50\mathrm{Hz}$ is
-    (a) $50\mu \mathrm{F}$ (b) $0.5\mu \mathrm{F}$ (c) $500\mu \mathrm{F}$ (d) $5\mu \mathrm{F}$
-
-    **Answer: (d)**
-
-#### Answers
-
-1) a, 2) d, 3) b, 4) d, 5) a, 6) a, 7) a, 8) b, 9) c, 10) a, 11) c, 12) c, 13) d, 14) c, 15) d
-
-#### II Short Answer Questions
-
-1. What is meant by electromagnetic induction?
-2. State Faraday's laws of electromagnetic induction.
-3. State Lenz's law.
-4. State Fleming's right hand rule.
-5. How is Eddy current produced? How do they flow in a conductor?
-6. Mention the ways of producing induced emf.
-7. What for an inductor is used? Give some examples.
-8. What do you mean by self-induction?
-9. How will you define the unit of inductance?
-10. What do you understand by self-inductance of a coil? Give its physical significance.
-11. What is meant by mutual induction?
-12. Give the principle of AC generator.
-13. List out the advantages of stationary armature-rotating field system of AC generator.
-14. What are step-up and step-down transformers?
-15. Define average value of an alternating current.
-16. How will you define RMS value of an alternating current?
-17. What are phasors?
-18. Define electric resonance.
-19. What do you mean by resonant frequency?
-20. How will you define Q-factor?
-21. What is meant by wattless current?
-22. Give any one definition of power factor.
-23. What are LC oscillations?
-
-#### III Long Answer Questions
-
-1. Establish the fact that the relative motion between the coil and the magnet induces an emf in the coil of a closed circuit.
-2. Give an illustration of determining direction of induced current by using Lenz's law.
-3. Show that Lenz's law is in accordance with the law of conservation of energy.
-4. Obtain an expression for motional emf from Lorentz force.
-5. Give the uses of Foucault current.
-6. Define self-inductance of a coil in terms of (i) magnetic flux and (ii) induced emf.
-7. Assuming that the length of the solenoid is large when compared to its diameter, find the equation for its inductance.
-8. An inductor of inductance L carries an electric current i. How much energy is stored while establishing the current in it?
-9. Show that the mutual inductance between a pair of coils is same $(M_{12} = M_{21})$.
-10. How will you induce an emf by changing the area enclosed by the coil?
-11. Show mathematically that the rotation of a coil in a magnetic field over one rotation induces an alternating emf of one cycle.
-12. Elaborate the standard construction details of AC generator.
-13. Explain the working of a single-phase AC generator with necessary diagram.
-14. How are the three different emfs generated in a three-phase AC generator? Show the graphical representation of these three emfs.
-15. Explain the construction and working of transformer.
-16. Mention the various energy losses in a transformer.
-17. Give the advantage of AC in long distance power transmission with an illustration.
-18. Find out the phase relationship between voltage and current in a pure inductive circuit.
-19. Derive an expression for phase angle between the applied voltage and current in a series RLC circuit.
-20. Define inductive and capacitive reactance. Give their units.
-21. Obtain an expression for average power of AC over a cycle. Discuss its special cases.
-22. Explain the generation of LC oscillations in a circuit containing an inductor of inductance L and a capacitor of capacitance C.
-23. Prove that the total energy is conserved during LC oscillations.
-24. Compare the electromagnetic oscillations of LC circuit with the mechanical oscillations of block-spring system qualitatively to find the expression for angular frequency of LC oscillator.
-
-#### IV Numerical Problems
-
-1. A square coil of side $30~\mathrm{cm}$ with 500 turns is kept in a uniform magnetic field of $0.4\mathrm{T}$. The plane of the coil is inclined at an angle of $30^{\circ}$ to the field. Calculate the magnetic flux through the coil. **(Ans: $9\mathrm{Wb}$)**
-
-2. A straight metal wire crosses a magnetic field of flux $4\mathrm{mWb}$ in a time $0.4\mathrm{s}$. Find the magnitude of the emf induced in the wire. **(Ans: $10\mathrm{mV}$)**
-
-3. The magnetic flux passing through a coil perpendicular to its plane is a function of time and is given by $\Phi_B = (2t^3 + 4t^2 + 8t + 8)\mathrm{Wb}$. If the resistance of the coil is $5\Omega$, determine the induced current through the coil at a time $t = 3$ second. **(Ans: $17.2\mathrm{A}$)**
-
-4. A closely wound circular coil of radius $0.02\mathrm{m}$ is placed perpendicular to the magnetic field. When the magnetic field is changed from $8000\mathrm{T}$ to $2000\mathrm{T}$ in $6\mathrm{s}$, an emf of $44\mathrm{V}$ is induced in it. Calculate the number of turns in the coil. (Take $\pi = \frac{22}{7}$) **(Ans: $35$ turns)**
-
-5. A rectangular coil of area $6\mathrm{cm}^2$ having $3500$ turns is kept in a uniform magnetic field of $0.4\mathrm{T}$. Initially, the plane of the coil is perpendicular to the field and is then rotated through an angle of $180^{\circ}$. If the resistance of the coil is $35\Omega$, find the amount of charge flowing through the coil. **(Ans: $48 \times 10^{-3}\mathrm{C}$)**
-
-6. An induced current of $2.5\mathrm{mA}$ flows through a single conductor of resistance $100\Omega$. Find out the rate at which the magnetic flux is cut by the conductor. **(Ans: $250\mathrm{mWb s}^{-1}$)**
-
-7. A fan of metal blades of length $0.4\mathrm{m}$ rotates normal to a magnetic field of $4 \times 10^{-3}\mathrm{T}$. If the induced emf between the centre and edge of the blade is $0.02\mathrm{V}$, determine the rate of rotation of the blade. **(Ans: $9.95$ revolutions/second)**
-
-8. A bicycle wheel with metal spokes of $1\mathrm{m}$ long rotates in Earth's magnetic field. The plane of the wheel is perpendicular to the horizontal component of Earth's field of $4 \times 10^{-5}\mathrm{T}$. If the emf induced across the spokes is $31.4\mathrm{mV}$, calculate the rate of revolution of the wheel. **(Ans: $250$ revolutions/second)**
-
-9. Determine the self-inductance of 4000 turn air-core solenoid of length $2\mathrm{m}$ and diameter $0.04\mathrm{m}$. **(Ans: $12.62\mathrm{mH}$)**
-
-10. A coil of 200 turns carries a current of $4\mathrm{A}$. If the magnetic flux through the coil is $6 \times 10^{-5}\mathrm{Wb}$, find the magnetic energy stored in the medium surrounding the coil. **(Ans: $0.024\mathrm{J}$)**
-
-11. A $50\mathrm{cm}$ long solenoid has 400 turns per cm. The diameter of the solenoid is $0.04\mathrm{m}$. Find the magnetic flux linked with each turn when it carries a current of $1\mathrm{A}$. **(Ans: $0.63 \times 10^{-4}\mathrm{Wb}$)**
-
-12. A coil of 200 turns carries a current of $0.4\mathrm{A}$. If the magnetic flux of $4\mathrm{mWb}$ is linked with each turn of the coil, find the inductance of the coil. **(Ans: $2\mathrm{H}$)**
-
-13. Two air core solenoids have the same length of $80\mathrm{cm}$ and same cross-sectional area $5\mathrm{cm}^2$. Find the mutual inductance between them if the number of turns in the first coil is 1200 turns and that in the second coil is 400 turns. **(Ans: $0.38\mathrm{mH}$)**
-
-14. A long solenoid having 400 turns per cm carries a current 2A. A 100 turn coil of cross-sectional area $4\mathrm{cm}^2$ is placed co-axially inside the solenoid so that the coil is in the field produced by the solenoid. Find the emf induced in the coil if the current through the solenoid reverses its direction in $0.04\mathrm{sec}$. **(Ans: $0.20\mathrm{V}$)**
-
-15. A 200 turn circular coil of radius $2\mathrm{cm}$ is placed co-axially within a long solenoid of $3\mathrm{cm}$ radius. If the turn density of the solenoid is 90 turns per cm, then calculate mutual inductance of the coil and the solenoid. **(Ans: $2.84\mathrm{mH}$)**
-
-16. The solenoids $S_1$ and $S_2$ are wound on an iron-core of relative permeability 900. Their areas of their cross-section and their lengths are the same and are $4\mathrm{cm}^2$ and $0.04\mathrm{m}$ respectively. If the number of turns in $S_1$ is 200 and in $S_2$ is 300, calculate the mutual inductance. **(Ans: $6.79 \times 10^{-2}\mathrm{H}$)**
-
-17. A step-down transformer connected to main supply of 220 V is used to operate 11V, 88W lamp. Calculate (i) Voltage transformation ratio and (ii) Current in the primary. **(Ans: $1/20$ and $0.4\mathrm{A}$)**
-
-18. A 200V/120V step-down transformer of $90\%$ efficiency is connected to an induction stove of resistance $40\Omega$. Find the current drawn by the primary of the transformer. **(Ans: $2\mathrm{A}$)**
-
-19. The 300 turn primary of a transformer has resistance $0.82\Omega$ and the resistance of its secondary of 1200 turns is $6.2\Omega$. Find the voltage across the primary if the power output from the secondary at $1600\mathrm{V}$ is $32\mathrm{kW}$. Calculate the power losses in both coils when the transformer efficiency is $80\%$. **(Ans: $8.2\mathrm{kW}$ and $2.48\mathrm{kW}$)**
-
-20. Calculate the instantaneous value at $60^{\circ}$, average value and RMS value of an alternating current whose peak value is 20 A. **(Ans: $17.32\mathrm{A}$, $12.74\mathrm{A}$, $14.14\mathrm{A}$)**
-
-#### V Conceptual Questions
-
-1. A graph between the magnitude of the magnetic flux linked with a closed loop and time is given in the figure. Arrange the regions of the graph in ascending order of the magnitude of induced emf in the loop.
-
-![](9.png)
-
-2. Using Lenz's law, predict the direction of induced current in conducting rings 1 and 2 when current in the wire is steadily decreasing.
-
-![](10.png)
-
-3. A flexible metallic loop abcd in the shape of a square is kept in a magnetic field with its plane perpendicular to the field. The magnetic field is directed into the paper normally. Find the direction of the induced current when the square loop is crushed into an irregular shape as shown in the figure.
-
-![](11.png)
-
-4. Predict the polarity of the capacitor in a closed circular loop when two bar magnets are moved as shown in the figure.
-
-![](12.png)
-
-5. In series LC circuit, the voltages across L and C are $180^{\circ}$ out of phase. Is it correct? Explain.
-
-6. When does power factor of a series RLC circuit become maximum?
-
-#### BOOK FOR REFERENCES
-
-1. H.C.Verma, Concepts of Physics, Volume 1 and 2, Bharathi Bhawan publishers.
-2. Halliday, Resnick and Walker, Principles of Physics, Wiley publishers.
-3. D.C.Tayal, Electricity and Magnetism, Himalaya Publishing House.
-4. K.K.Tewari, Electricity and Magnetism with Electronics, S.Chand Publishers.
-5. B.L.Theraja and A.K.Theraja, A text book of Electrical Technology, Volume 1 and 2, S.Chand publishers.
-
