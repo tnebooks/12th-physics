@@ -118,7 +118,7 @@ Some basic terminologies and properties used in describing bar magnet.
 
 Consider a bar magnet as shown in Figure 3.6. Let $q_{m}$ be the pole strength of the magnetic pole and let $l$ be the distance between the geometrical centre of bar magnet O and one end of the pole. The magnetic dipole moment is defined as the product of its pole strength and magnetic length. It is a vector quantity, denoted by $\vec{p}_{m}$.
 
-![ A bar magnet](img3.6.PNG)
+![ A bar magnet](img3.6.6.png)
 
 $$ \vec{p}_{m} = q_{m}\vec{d} \quad (3.4) $$
 
