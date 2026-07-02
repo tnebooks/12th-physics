@@ -40,5 +40,5 @@ $$
 I_{\min} = (2\sqrt{I} - \sqrt{I})^2 = (\sqrt{I})^2 = I
 $$
 
-Hence, **the maximum and minimum possible intensities are \(9I\) and \(I\), respectively.**
+Hence, **the maximum and minimum possible intensities are $9I$ and $I$, respectively.**
 ```
