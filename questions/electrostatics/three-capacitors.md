@@ -9,6 +9,8 @@ answers:
 
 Three capacitors are connected in triangle as shown in the figure. The equivalent capacitance between the points A and C is
 
+![](./three-capacitors.png)
+
 ```markdown
 Between A and C, one capacitor is directly connected and the other two capacitors form a series combination.
 
