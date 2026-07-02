@@ -9,6 +9,7 @@ in Linux
 ```bash
 export QUESTIONS_FOLDER="$PWD/questions"
 export PUBLIC_FOLDER="$PWD/public" 
+npm i --prefix ../design-system
 npm run watch --prefix ../design-system
 ```
 
