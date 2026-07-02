@@ -1,13 +1,15 @@
 ---
-title: 'அலல ஒளியியல் (Wave Optics)'
+title: 'அலை ஒளியியல் (Wave Optics)'
 categories:
     - wave-optics
 weight: 7
 summary: "இந்த அலகு ஒளியின் அலை இயல்பை விளக்குகிறது மற்றும் பிரதிபலிப்பு மற்றும் விலக்கம் விதிகளுக்கான கோட்பாட்டு அடிப்படையை வழங்குகிறது. இதில் இடையீடு (interference), விலகல் (diffraction), மற்றும் துருவமயமாக்கல் (polarization) போன்ற முக்கிய அலை நிகழ்வுகள் அடங்கும். மேலும், பெரிதாக்கல் (magnification), தீர்மான திறன் (resolving power) போன்ற கருத்துகளையும், மைக்ரோஸ்கோப் மற்றும் தொலைநோக்கி போன்ற ஒளியியல் கருவிகளின் செயல்முறைகளையும் இந்த அலகு அறிமுகப்படுத்துகிறது."
 references:
-   links:
-      - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
-   books:
+    videos:
+        - youtube:MA_B-xBz_OI
+    links:
+      - "[யங் இரட்டைப் பிளவு சோதனை](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+    books:
         - b1:
             title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
             url: https://www.amazon.in/Fundamentals-Optics-Francis-Jenkins/dp/1259002292
@@ -1917,31 +1919,3 @@ D = 25 cm
 3. H.C. Verma, Concepts of Physics [Part-1], 1st Edition, Bharathi Bhawan Publishers & Distributors Pvt. Ltd., (2008).
 
 4. Roger A. Freedman, Hugh D. Young, Sears and Zemansky's University Physics, 12th Edition, Pearson, (2011).
-
-### இணையச் செயல்பாடு
-
-**ஒளியியல்**
-
-**தலைப்பு:** யங் இரட்டைப் பிளவு சோதனை
-
-**நோக்கம்:** ஒரியல் மூலங்களுக்கு இடைப்பட்ட தூரம், மூலங்களுக்கும் திரைக்கும் இடையேயுள்ள தொலைவு, மற்றும் ஒளியின் அலைநீளம் ஆகியவற்றை மாறுதல் செய்யும் போது பட்டை அகலம் எவ்வாறு மாறுபடுகிறது என்பதனை இந்த செயல்பாட்டின் மூலம் மாணவர்கள் புரிந்து கொள்வார்கள்.
-
-**படிகள்:**
-
-• 'tutor-homework.com/Physics_Help/double_slit_experiment.html' என்ற பக்கத்திற்கு செல்லுங்கள்.
-
-• ஒரியல் மூலங்களுக்கு இடைப்பட்ட தூரத்தை மாற்றுதல் செய்து கருமைப் பட்டைகளும் பொலிவு பட்டைகளும் எவ்வாறு மாற்றமடைகிறது எனக் கவனியுங்கள்.
-
-• மூலங்களுக்கும் திரைக்கும் இடையேயுள்ள தொலைவைக் குறைக்கும் போது பட்டை அகலத்தில் ஏற்படும் மாற்றத்தைக் கவனியுங்கள்.
-
-• ஒளியின் அலைநீளத்தை மாற்றுதல் செய்து பட்டை அகலம் எவ்வாறு மாறுகிறது என்பதைக் கவனியுங்கள்.
-
-• "Run" என்ற பொத்தானைச் சொடுக்கும் போது கிடைக்கும் கருமைப் பட்டையும் பொலிவுப் பட்டையும் உற்று நோக்குக.
-
-**குறிப்பு:** உங்கள் உலாவியில் flash player இல்லையென்றால் அதனை நிறுவவும்.
-
-**உரலி:** http://tutor-homework.com/Physics_Help/double_slit_experiment.html
-
-*படங்கள் அடையாளத்திற்கு மட்டும்.
-
-* தேவையெனில் Flash Player or Java Script அனுமதிக்க.
