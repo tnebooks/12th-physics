@@ -11,6 +11,7 @@ summary: "This unit explains the nature and production of electromagnetic waves,
 
 "One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
 
+![](image.png)
 # 5.1 INTRODUCTION
 
 ![](5.1.png)
@@ -104,6 +105,8 @@ In stars, due to thermal excitation of atoms, time- varying electric field is pr
 
 Even though Maxwell initially started with purely symmetry argument, his correction term explains one of the important aspects of the universe, namely the existence of electromagnetic waves.
 
+![](image-2.png)
+
 ## EXAMPLE 5.1
 
 Consider a parallel plate capacitor which is connected to an $230~\mathrm{V}$ RMS value and $50\mathrm{Hz}$ frequency. If the separation distance between the plates of the capacitor and area of the plates are $1\mathrm{mm}$ and $20~\mathrm{cm}^2$ respectively. Calculate the displacement current at $t = 1$ s.
@@ -128,7 +131,9 @@ Electrodynamics can be summarized in four basic equations, known as Maxwell's eq
 
 It is nothing but the Gauss's law of electricity. It relates the net electric flux to net electric charge enclosed in a surface. Mathematically, it is expressed as
 
-$$\oint \vec{E}\cdot d\vec{A} = \frac{Q_{\mathrm{enclosed}}}{\epsilon_{\mathrm{s}}} \quad (5.7)$$
+$$\oint \vec{E}\cdot d\vec{A} = \frac{Q_{\mathrm{enclosed}}}{\epsilon_{\mathrm{s}}} 
+\quad $$ $$\mathrm{~(Gauss's~law~for~electricity)~}(5.7)$$
+
 
 where $\vec{E}$ is the electric field and $\mathrm{Q}$ enclosed is the net charge enclosed by the surface S. This equation is true for both discrete and continuous distribution of charges.
 
@@ -158,7 +163,8 @@ Our modern technological revolution is due to Faraday's laws of electromagnetic 
 
 It is modified Ampere's circuital law. This is also known as Ampere - Maxwell law. This law relates the magnetic field around any closed path to the conduction current and displacement current through that path.
 
-$$\oint \vec{B}\cdot d\vec{A} = \mu_0i_c + \mu_0\epsilon_0\frac{d}{ds}\oint \vec{E}\cdot d\vec{A} \quad (5.10)$$
+$$\oint \vec{B} \cdot d\vec{l} = \mu_0 i_c + \mu_0 \epsilon_0 \frac{d}{dt} \oint \vec{E} \cdot d\vec{A}$$  
+$$\mathrm{(Ampere\text{-}Maxwell~law)} \hspace{1cm} (5.10)$$
 
 where $\vec{B}$ is the magnetic field. This equation shows that both conduction current and displacement current produce magnetic field.
 
@@ -182,6 +188,7 @@ Since the coil is maintained at very high potential, air between the electrodes 
 
 If the receiver is rotated by $90^{\circ}$ , then no spark is observed by the receiver. This confirms that electromagnetic waves are transverse waves as predicted by Maxwell. Hertz detected radio waves and also computed the speed of radio waves which is equal to the speed of light $(3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1})$ .
 
+![](image-3.png)
 ## Properties of electromagnetic waves
 
 1. Electromagnetic waves are produced by any accelerated charge.
@@ -206,6 +213,7 @@ $$
 \Delta p = \frac{U}{c} - \left( -\frac{U}{c} \right) = 2 \frac{U}{c}.
 $$
 
+![](image-4.png)
 ## EXAMPLE 5.2
 
 The relative magnetic permeability of the medium is 2.5 and the relative electrical permittivity of the medium is 2.25. Compute the refractive index of the medium.
@@ -433,193 +441,3 @@ $$\oint \vec{B}\cdot \vec{dl} = \mu_{o}i = \mu_{o}(i_{c} + i_{d}).$$
 
 ---
 
-# EVALUATION
-
-## I Multiple choice questions
-
-1. The dimension of $\frac{1}{\mu_{0}\epsilon_{0}}$ is  
-   (a) $[L T^{-1}]$  
-   (b) $[L^2 T^{-2}]$  
-   (c) $[L^{-1} T]$  
-   (d) $[L^{-2} T^{-2}]$
-
-2. If the amplitude of the magnetic field is $3\times 10^{-6}\mathrm{T}$ then amplitude of the electric field for a electromagnetic waves is  
-   (a) $100\mathrm{Vm}^{-1}$  
-   (b) $300\mathrm{Vm}^{-1}$  
-   (c) $600\mathrm{Vm}^{-1}$  
-   (d) $900\mathrm{Vm}^{-1}$
-
-3. Which of the following electromagnetic radiations is used for viewing objects through fog  
-   (a) microwave  
-   (b) gamma rays  
-   (c) X-rays  
-   (d) infrared
-
-4. Which of the following is false for electromagnetic waves  
-   (a) transverse  
-   (b) non-mechanical waves  
-   (c) longitudinal  
-   (d) produced by accelerating charges
-
-5. Consider an oscillator which has a charged particle oscillating about its mean position with a frequency of $300\mathrm{MHz}$ . The wavelength of electromagnetic waves produced by this oscillator is  
-   (a) $1\mathrm{m}$  
-   (b) $10\mathrm{m}$  
-   (c) $100\mathrm{m}$  
-   (d) $1000\mathrm{m}$
-
-6. The electric and the magnetic fields, associated with an electromagnetic wave, propagating along negative X axis can be represented by  
-   (a) $\bar{E} = E_{i}\hat{i}$ and $\bar{B} = B_{i}\hat{i}$  
-   (b) $\bar{E} = E_{i}\hat{j}$ and $\bar{B} = B_{i}\hat{k}$  
-   (c) $\bar{E} = E_{i}\hat{i}$ and $\bar{B} = B_{i}\hat{j}$  
-   (d) $\bar{E} = E_{i}\hat{j}$ and $\bar{B} = B_{i}\hat{i}$
-
-7. In an electromagnetic wave travelling in free space the rms value of the electric field is $3\mathrm{Vm}^{-1}$ . The peak value of the magnetic field is  
-   (a) $1.414\times 10^{-8}\mathrm{T}$  
-   (b) $1.0\times 10^{-8}\mathrm{T}$  
-   (c) $2.828\times 10^{-8}\mathrm{T}$  
-   (d) $2.0\times 10^{-8}\mathrm{T}$
-
-8. An e.m. wave is propagating in a medium with a velocity $\bar{v} = v \hat{i}$ . The instantaneous oscillating electric field of this e.m. wave is along $+y$ -axis, then the direction of oscillating magnetic field of the e.m. wave will be along:  
-   (a) $-y$ direction  
-   (b) $-x$ direction  
-   (c) $+z$ direction  
-   (d) $-z$ direction
-
-9. If the magnetic monopole exists, then which of the Maxwell's equation to be modified?  
-   (a) $\oint \bar{E}\cdot d\bar{A} = \frac{Q_{\mathrm{enclosed}}}{\epsilon_{0}}$  
-   (b) $\oint \bar{B}\cdot d\bar{A} = 0$  
-   (c) $\oint \bar{B}\cdot d\bar{l} = \mu_{0}i_{c} + \mu_{0}\epsilon_{0}\frac{d}{dt}\oint \bar{E}\cdot d\bar{A}$  
-   (d) $\oint \bar{E}\cdot d\bar{l} = -\frac{d}{dt}\Phi_{B}$
-
-10. Fraunhofer lines are an example of spectrum.  
-    (a) line emission  
-    (b) line absorption  
-    (c) band emission  
-    (d) band absorption
-
-11. Which of the following is an electromagnetic wave?  
-    (a) $\alpha$ - rays  
-    (b) $\beta$ - rays  
-    (c) $\gamma$ - rays  
-    (d) all of them
-
-12. Which one of them is used to produce a propagating electromagnetic wave?  
-    (a) an accelerating charge  
-    (b) a charge moving with constant velocity  
-    (c) a stationary charge  
-    (d) an uncharged particle
-
-13. If $E = E_{0}\sin [10^{6}x - \omega t]$ be the electric field of a plane electromagnetic wave, the value of $\omega$ is  
-    (a) $0.3\times 10^{-14}\mathrm{rad}\mathrm{s}^{-1}$  
-    (b) $3\times 10^{-14}\mathrm{rad}\mathrm{s}^{-1}$  
-    (c) $0.3\times 10^{14}\mathrm{rad}\mathrm{s}^{-1}$  
-    (d) $3\times 10^{14}\mathrm{rad}\mathrm{s}^{-1}$
-
-14. Which of the following is NOT true for electromagnetic waves?  
-    (a) it transports energy  
-    (b) it transports momentum  
-    (c) it transports angular momentum  
-    (d) in vacuum, it travels with different speeds which depend on their frequency
-
-15. The electric and magnetic fields of an electromagnetic wave are  
-    (a) in phase and perpendicular to each other  
-    (b) out of phase and not perpendicular to each other  
-    (c) in phase and not perpendicular to each other  
-    (d) out of phase and perpendicular to each other
-
-## Answers
-
-1) b  
-2) d  
-3) d  
-4) c  
-5) a  
-6) b  
-7) a  
-8) c  
-9) b  
-10) b  
-11) c  
-12) a  
-13) d  
-14) d  
-15) a
-
-## II Short answer questions
-
-1. What is displacement current?  
-2. What are electromagnetic waves?  
-3. Write down the integral form of modified Ampere's circuital law.  
-4. Write notes on Gauss' law in magnetism.  
-5. Give two uses each of (i) IR radiation, (ii) Microwaves and (iii) UV radiation.  
-6. What are Fraunhofer lines? How are they useful in the identification of elements present in the Sun?  
-7. Write notes on Ampere-Maxwell law.  
-8. Why are e.m. waves non-mechanical?
-
-## III Long answer questions
-
-1. Write down Maxwell equations in integral form.  
-2. Write short notes on (a) microwave (b) X-ray (c) radio waves (d) visible spectrum  
-3. Discuss the Hertz experiment.  
-4. Explain the Maxwell's modification of Ampere's circuital law.  
-5. Explain the importance of Maxwell's correction.  
-6. Write down the properties of electromagnetic waves.  
-7. Discuss the source of electromagnetic waves.  
-8. Explain the types of emission spectrum.  
-9. Explain the types of absorption spectrum.
-
-## IV Numerical problems
-
-1. Consider a parallel plate capacitor whose plates are closely spaced. Let $R$ be the radius of the plates and the current in the wire connected to the plates is 5 A, calculate the displacement current through the surface passing between the plates by directly calculating the rate of change of flux of electric field through the surface.  
-   **Answer:** $I_{d} = I_{c} = 5\mathrm{A}$
-
-2. A transmitter consists of LC circuit with an inductance of $1\mu \mathrm{H}$ and a capacitance of $1\mu \mathrm{F}$ . What is the wavelength of the electromagnetic waves it emits?  
-   **Answer:** $18.84\times 10^{2}\mathrm{m}$
-
-3. A pulse of light of duration $10^{-6}\mathrm{s}$ is absorbed completely by a small object initially at rest. If the power of the pulse is $60\times 10^{-3}\mathrm{W}$ , calculate the final momentum of the object.  
-   **Answer:** $20\times 10^{-17}\mathrm{kg m s^{-1}}$
-
-4. Let an electromagnetic wave propagate along the $x$ - direction, the magnetic field oscillates at a frequency of $10^{10}\mathrm{Hz}$ and has an amplitude of $10^{-5}\mathrm{T}$ , acting along the $y$ - direction. Then, compute the wavelength of the wave. Also write down the expression for electric field in this case.  
-   **Answer:** $\lambda = 3\times 10^{-2}\mathrm{m}$ and $\bar{E} (x,t) = 3\times 10^{3}\sin (2.09\times 10^{2}x - 6.28\times 10^{10}t)(-\hat{k})\mathrm{N}\mathrm{C}^{-1}$
-
-5. If the relative permeability and relative permittivity of a medium are 1.0 and 2.25 respectively, find the speed of the electromagnetic wave in this medium.  
-   **Answer:** $v = 2\times 10^{8}\mathrm{m s^{-1}}$
-
----
-
-## BOOKS FOR REFERENCE:
-
-1. H. C. Verma, Concepts of Physics - Volume 2, Bharati Bhawan Publisher.  
-2. Halliday, Resnick and Walker, Fundamentals of Physics, Wiley Publishers, 10th edition.  
-3. Serway and Jewett, Physics for scientist and engineers with modern physics, Brook/Coole publishers, Eighth edition.  
-4. David J. Griffiths, Introduction to electrodynamics, Pearson publishers.  
-5. Paul Tipler and Gene Mosca, Physics for scientist and engineers with modern physics, Sixth edition, W.H.Freeman and Company.
-
----
-
-# ICT CORNER
-
-# Electromagnetic waves
-
-Physics of microwaves and heating food
-
-In this activity you will be able to how do microwaves heat food?
-
-## STEPS:
-
-- Open the browser and type "phet.colorado.edu/en/simulation/microwaves" in the address bar. Run the simulation.  
-- select 'one molecule' tab. Turn on the microwave using the button in the right control panel. The arrows indicate the strength and direction of the force that would be exerted by the micro wave on the water molecules present in food. Observe the response of water molecule in response to this force?  
-- Observe how do microwaves heat food by rotating water molecule?  
-- Change amplitude and frequency of microwave and discuss how fast the water molecules are rotating?
-
-Discuss the relationship between rotating speed of the molecule with cooking time.
-
-## Note:
-
-Install Java application if it is not in your system. You can download all the phet simulation and works in off line from https://phet.colorado.edu/en/offline- access.
-
-## URL:
-
-https://phet.colorado.edu/en/simulation/microwaves
-
-\* Pictures are indicative only. \* If browser requires, allow Flash Player or Java Script to load the page.
