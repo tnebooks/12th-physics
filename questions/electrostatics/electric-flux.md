@@ -9,7 +9,7 @@ answers:
 
 The total electric flux for the following closed surface which is kept inside water
 
-![](D:\tnebooks\12th-physics\content.en\docs\electrostatics\electric flux.png)
+![My image](./electric-flux.png)
 
 ```markdown
 According to Gauss's law, the total electric flux through a closed surface is

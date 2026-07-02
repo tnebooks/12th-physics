@@ -9,6 +9,8 @@ answers:
 
 Rank the electrostatic potential energies for the given system of charges in increasing order.
 
+![](./charge-order.png)
+
 ```markdown
 Electrostatic potential energy depends on the type of charges and the distance between them.
 
