@@ -4,6 +4,21 @@ categories:
     - atomic-and-nuclear-physics
 weight: 9
 summary: "இந்த அலகு அணுக்கள் மற்றும் அணுக்கருவின் அமைப்பை விளக்குகிறது. இதில் J.J. Thomson experiment மற்றும் Millikan’s oil drop experiment போன்ற பரிசோதனைகள் மூலம் எலக்ட்ரானின் பண்புகள் அறியப்படுகின்றன. மேலும், Rutherford model மற்றும் Bohr atom model போன்ற அணுக்கட்டமைப்பு மாதிரிகள் மற்றும் அணுக்கதிர்வீச்சு (atomic spectra) பற்றியும் இதில் விளக்கப்படுகின்றன."
+references:
+    links:
+      - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
+    videos:
+        - youtube:EQiuknQYSEs
+    books:
+        - b1:
+           title: Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited
+           url: https://www.amazon.in/Concepts-Modern-Physics-Special-Indian/dp/0070151555
+        - b2:
+            title: H.S. Mani and G.K. Mehta, Introduction to Modern Physics, Affiliated East-West Press Pvt. Ltd.
+            url: https://www.amazon.in/Introduction-Modern-Physics-H-S-Mani/dp/8185095736
+        - b3:
+            title: H.C.Verma, Concepts of Physics, Volume 1 and 2, Bharathi Bhawna publishers.
+            url: https://www.amazon.in/Concepts-Physics-ORIGINAL-BOOKS-TOP-Editions/dp/B0F4NPPS95
 ---
 
 ## 9.1 அறிமு்கம்

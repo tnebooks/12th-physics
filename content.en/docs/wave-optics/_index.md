@@ -1812,33 +1812,13 @@ $$P = \frac{1}{0.375\mathrm{m}} = 2.67\mathrm{D}$$
 
 ## EXERCISE PROBLEMS
 
-1. The ratio of maximum and minimum intensities in an interference pattern is 36:1. What is the ratio of the amplitudes of the two interfering waves?
-   [Ans: 7:5]
-
-2. In Young's double slit experiment, 62 fringes are seen on a screen for sodium light of wavelength 5893 Å. If violet light of wavelength 4359 Å is used in place of sodium light, how many fringes will be seen?
-   [Ans: 84]
-
-3. Light of wavelength \(600\mathrm{nm}\) that falls on a pair of slits producing interference pattern on a screen in which the bright fringes are separated by \(7.2\mathrm{mm}\). What must be the wavelength of another light which produces bright fringes separated by \(8.1\mathrm{mm}\) with the same apparatus?
-   [Ans: \(675\mathrm{nm}\)]
-
-4. A beam of light of wavelength \(600\mathrm{nm}\) from a distant source falls on a single slit \(1\mathrm{mm}\) wide and the resulting diffraction pattern is observed on a screen \(2\mathrm{m}\) away. What is the distance between the first dark fringes on either side of the central bright fringe?
-   [Ans: \(2.4\mathrm{mm}\)]
-
-5. Light of wavelength \(5000\mathrm{\AA}\) produces diffraction pattern of the single slit of width \(2.5\mu\mathrm{m}\). What is the maximum order of diffraction possible?
-   [Ans: 5]
-
-6. \(I_{0}\) is the intensity of light existing between two crossed Polaroids kept with their axes perpendicular to each other. A third polaroid is introduced between them. What must be the angle between the axes of first and the newly introduced polaroid to get the maximum light from the whole arrangement?
-   [Ans: \(45^{\circ}\)]
-
-7. An unpolarised light of intensity \(32 \mathrm{Wm}^{-2}\) passes through three Polaroids such that the axes of the first and the last Polaroids are at \(90^{\circ}\). What is the angle between the axes of the first and middle Polaroids so that the emerging light has an intensity of only \(3\mathrm{Wm}^{-2}\)?
-   [Ans: \(30^{\circ}\)]
-
-8. The reflected light is found to be plane polarised when an unpolarized light falls on a denser medium at \(60^{\circ}\) with the normal. Find the angle of refraction and critical angle of incidence for total internal reflection in the denser to rarer medium reflection.
-   [Ans: \(30^{\circ}\), \(35.15^{\circ}\)]
-
-9. The near point and the far point for a person are \(50\mathrm{cm}\) and \(500\mathrm{cm}\) respectively. Calculate the power of the lens the person should wear to read a book held in hand at \(25\mathrm{cm}\). What maximum distance is clearly visible for the person with this lens on the eye?
-   [Ans: \(2\mathrm{D}\), \(45.45\mathrm{cm}\)]
-
-10. A compound microscope has a magnifying power of 100 when the image is formed at infinity. The objective has a focal length of \(0.5\mathrm{cm}\) and the tube length is \(6.5\mathrm{cm}\). What is the focal length of the eyepiece?
-    [Ans: \(3.25\mathrm{cm}\)]
-    (Note: magnification is also called as magnifying power)
+1. The ratio of maximum and minimum intensities in an interference pattern is 36:1. What is the ratio of the amplitudes of the two interfering waves? [Ans: 7:5]
+2. In Young's double slit experiment, 62 fringes are seen on a screen for sodium light of wavelength 5893 Å. If violet light of wavelength 4359 Å is used in place of sodium light, how many fringes will be seen? [Ans: 84]
+3. Light of wavelength \(600\mathrm{nm}\) that falls on a pair of slits producing interference pattern on a screen in which the bright fringes are separated by \(7.2\mathrm{mm}\). What must be the wavelength of another light which produces bright fringes separated by \(8.1\mathrm{mm}\) with the same apparatus? [Ans: \(675\mathrm{nm}\)]
+4. A beam of light of wavelength \(600\mathrm{nm}\) from a distant source falls on a single slit \(1\mathrm{mm}\) wide and the resulting diffraction pattern is observed on a screen \(2\mathrm{m}\) away. What is the distance between the first dark fringes on either side of the central bright fringe? [Ans: \(2.4\mathrm{mm}\)]
+5. Light of wavelength \(5000\mathrm{\AA}\) produces diffraction pattern of the single slit of width \(2.5\mu\mathrm{m}\). What is the maximum order of diffraction possible? [Ans: 5]
+6. \(I_{0}\) is the intensity of light existing between two crossed Polaroids kept with their axes perpendicular to each other. A third polaroid is introduced between them. What must be the angle between the axes of first and the newly introduced polaroid to get the maximum light from the whole arrangement? [Ans: \(45^{\circ}\)]
+7. An unpolarised light of intensity \(32 \mathrm{Wm}^{-2}\) passes through three Polaroids such that the axes of the first and the last Polaroids are at \(90^{\circ}\). What is the angle between the axes of the first and middle Polaroids so that the emerging light has an intensity of only \(3\mathrm{Wm}^{-2}\)? [Ans: \(30^{\circ}\)]
+8. The reflected light is found to be plane polarised when an unpolarized light falls on a denser medium at \(60^{\circ}\) with the normal. Find the angle of refraction and critical angle of incidence for total internal reflection in the denser to rarer medium reflection. [Ans: \(30^{\circ}\), \(35.15^{\circ}\)]
+9. The near point and the far point for a person are \(50\mathrm{cm}\) and \(500\mathrm{cm}\) respectively. Calculate the power of the lens the person should wear to read a book held in hand at \(25\mathrm{cm}\). What maximum distance is clearly visible for the person with this lens on the eye? [Ans: \(2\mathrm{D}\), \(45.45\mathrm{cm}\)]
+10. A compound microscope has a magnifying power of 100 when the image is formed at infinity. The objective has a focal length of \(0.5\mathrm{cm}\) and the tube length is \(6.5\mathrm{cm}\). What is the focal length of the eyepiece? [Ans: \(3.25\mathrm{cm}\)] (Note: magnification is also called as magnifying power)

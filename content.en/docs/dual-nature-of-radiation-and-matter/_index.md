@@ -8,7 +8,7 @@ references:
     links:
       - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+        - youtube:oyn_praD8ag
     books:
         - b1:
            title: Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited
@@ -21,7 +21,7 @@ references:
             url: https://www.amazon.in/Concepts-Physics-ORIGINAL-BOOKS-TOP-Editions/dp/B0F4NPPS95
 
 ---
-# CHAPTER 8 DUAL NATURE OF RADIATION AND MATTER
+> “If quantum mechanics has not profoundly shocked you, you have not understood it yet” – Neils Bohr
 
 ## 8.1 INTRODUCTION
 
@@ -883,27 +883,27 @@ From the Figure 8.23, it is evident that $K$- series of lines in the x- ray spec
 
 The $K_{\alpha}$ and $K_{\beta}$ of the $K$- series of molybdenum are shown by the two peaks in its x- ray spectrum in Figure 8.21(b).
 
-### Applications of x-rays:
+#### Applications of x-rays:
 
 X- rays are being used in many fields. Let us list a few of them.
 
-#### 1) Medical diagnosis
+##### 1) Medical diagnosis
 
 X- rays can pass through flesh more easily than through bones. Thus an x- ray radiograph containing a deep shadow of the bones and a light shadow of the flesh may be obtained. X- ray radiographs are used to detect fractures, foreign bodies, diseased organs etc.
 
-#### 2) Medical therapy
+##### 2) Medical therapy
 
 Since x- rays can kill diseased tissues, they are employed to cure skin diseases, malignant tumours etc.
 
-#### 3) Industry
+##### 3) Industry
 
 X- rays are used to check for flaws in welded joints, motor tyres, tennis balls and wood. At the custom post, they are used for detection of contraband goods.
 
-#### 4) Scientific research
+##### 4) Scientific research
 
 X- ray diffraction is important tool to study the structure of the crystalline materials - that is, the arrangement of atoms and molecules in crystals.
 
-## EXAMPLE 8.9
+#### EXAMPLE 8.9
 
 Calculate the cut- off wavelength and cutoff frequency of x- rays from an x- ray tube of accelerating potential 20,000 V.
 
@@ -999,52 +999,24 @@ work function of that metal.
 
 ### IV. Numerical problems
 
-1. How many photons per second emanate from a $50\mathrm{mW}$ laser of $640\mathrm{nm}$?
-   [Ans: $1.61\times 10^{17}\mathrm{s}^{-1}$]
-
-2. Calculate the maximum kinetic energy and maximum velocity of the photoelectrons emitted when the stopping potential is $81\mathrm{V}$ for the photoelectric emission experiment.
-   [Ans: $1.3\times 10^{-17}\mathrm{J}$, $5.3\times 10^{6}\mathrm{ms}^{-1}$]
-
+1. How many photons per second emanate from a $50\mathrm{mW}$ laser of $640\mathrm{nm}$? [Ans: $1.61\times 10^{17}\mathrm{s}^{-1}$]
+2. Calculate the maximum kinetic energy and maximum velocity of the photoelectrons emitted when the stopping potential is $81\mathrm{V}$ for the photoelectric emission experiment. [Ans: $1.3\times 10^{-17}\mathrm{J}$, $5.3\times 10^{6}\mathrm{ms}^{-1}$]
 3. Calculate the energies of the photons associated with the following radiation:
    (i) violet light of $413~\mathrm{nm}$
    (ii) X-rays of $0.1\mathrm{nm}$
-   (iii) radio waves of $10\mathrm{m}$
+   (iii) radio waves of $10\mathrm{m}$ 
    [Ans: $3\mathrm{eV}$; $12424\mathrm{eV}$; $1.24\times 10^{-7}\mathrm{eV}$]
-
-4. A $150\mathrm{W}$ lamp emits light of mean wavelength of $5500\mathrm{Å}$. If the efficiency is $12\%$, find out the number of photons emitted by the lamp in one second.
-   [Ans: $4.98\times 10^{19}$]
-
-5. How many photons of frequency $10^{14}$ Hz will make up $19.86$ J of energy?
-   [Ans: $3\times 10^{20}$]
-
-6. What should be the velocity of the electron so that its momentum equals that of $4000\mathrm{Å}$ wavelength photon.
-   [Ans: $1818\mathrm{ms}^{-1}$]
-
-7. When a light of frequency $9\times 10^{14}\mathrm{Hz}$ is incident on a metal surface, photoelectrons are emitted with a maximum speed of $8\times 10^{5}\mathrm{ms}^{-1}$. Determine the threshold frequency of the surface.
-   [Ans: $4.61\times 10^{14}\mathrm{Hz}$]
-
-8. When a $6000\mathrm{Å}$ light falls on the cathode of a photo cell, photoemission takes place. If a potential of $0.8\mathrm{V}$ is required to stop emission of electron, then determine the (i) frequency of the light (ii) energy of the incident photon (iii) work function of the cathode material (iv) threshold frequency and (v) net energy of the electron after it leaves the surface.
-   [Ans: $5\times 10^{14}$ Hz; 2.07 eV; 1.27 eV; $3.07\times 10^{14}$ Hz; 0.8 eV]
-
-9. A $3310\mathrm{Å}$ photon liberates an electron from a material with energy $3\times 10^{-19}\mathrm{J}$ while another $5000\mathrm{Å}$ photon ejects an electron with energy $0.972\times 10^{-19}\mathrm{J}$ from the same material. Determine the value of Planck's constant and the threshold wavelength of the material.
-   [Ans: $6.62\times 10^{-34}\mathrm{Js}$; $6620\times 10^{-10}\mathrm{m}$]
-
-10. At the given point of time, the earth receives energy from sun at $4\mathrm{cal}\ \mathrm{cm}^{-2}\ \mathrm{min}^{-1}$. Determine the number of photons received on the surface of the Earth per $\mathrm{cm}^2$ per minute. (Given : Mean wavelength of sun light $= 5500\mathrm{Å}$)
-    [Ans: $4.65\times 10^{19}$]
-
-11. UV light of wavelength $1800\mathrm{Å}$ is incident on a lithium surface whose threshold wavelength is $4965\mathrm{Å}$. Determine the maximum energy of the electron emitted.
-    [Ans: $4.40\mathrm{eV}$]
-
-12. Calculate the de Broglie wavelength of a proton whose kinetic energy is equal to $81.9\times 10^{-15}\mathrm{J}$. (Given: mass of proton is 1836 times that of electron).
-    [Ans: $4\times 10^{-14}\mathrm{m}$]
-
-13. A deuteron and an alpha particle are accelerated with the same potential. Which one of the two has (i) greater value of de Broglie wavelength associated with it and (ii) less kinetic energy? Explain.
-    [Ans: $\lambda_d = 2\lambda_{\alpha}$ and $K_d = \frac{K_{\alpha}}{2}$]
-
-14. An electron is accelerated through a potential difference of $81\mathrm{V}$. What is the de Broglie wavelength associated with it? To which part of electromagnetic spectrum does this wavelength correspond?
-    [Ans: $\lambda = 1.36\mathrm{Å}$ and x- rays]
-
-15. The ratio between the de Broglie wavelength associated with proton, accelerated through a potential of $512\mathrm{V}$ and that of alpha particle accelerated through a potential of $X$ volts is found to be one. Find the value of $X$.
-    [Ans: $64\mathrm{V}$]
+4. A $150\mathrm{W}$ lamp emits light of mean wavelength of $5500\mathrm{Å}$. If the efficiency is $12\%$, find out the number of photons emitted by the lamp in one second. [Ans: $4.98\times 10^{19}$]
+5. How many photons of frequency $10^{14}$ Hz will make up $19.86$ J of energy? [Ans: $3\times 10^{20}$]
+6. What should be the velocity of the electron so that its momentum equals that of $4000\mathrm{Å}$ wavelength photon. [Ans: $1818\mathrm{ms}^{-1}$]
+7. When a light of frequency $9\times 10^{14}\mathrm{Hz}$ is incident on a metal surface, photoelectrons are emitted with a maximum speed of $8\times 10^{5}\mathrm{ms}^{-1}$. Determine the threshold frequency of the surface. [Ans: $4.61\times 10^{14}\mathrm{Hz}$]
+8. When a $6000\mathrm{Å}$ light falls on the cathode of a photo cell, photoemission takes place. If a potential of $0.8\mathrm{V}$ is required to stop emission of electron, then determine the (i) frequency of the light (ii) energy of the incident photon (iii) work function of the cathode material (iv) threshold frequency and (v) net energy of the electron after it leaves the surface. [Ans: $5\times 10^{14}$ Hz; 2.07 eV; 1.27 eV; $3.07\times 10^{14}$ Hz; 0.8 eV]
+9. A $3310\mathrm{Å}$ photon liberates an electron from a material with energy $3\times 10^{-19}\mathrm{J}$ while another $5000\mathrm{Å}$ photon ejects an electron with energy $0.972\times 10^{-19}\mathrm{J}$ from the same material. Determine the value of Planck's constant and the threshold wavelength of the material. [Ans: $6.62\times 10^{-34}\mathrm{Js}$; $6620\times 10^{-10}\mathrm{m}$]
+10. At the given point of time, the earth receives energy from sun at $4\mathrm{cal}\ \mathrm{cm}^{-2}\ \mathrm{min}^{-1}$. Determine the number of photons received on the surface of the Earth per $\mathrm{cm}^2$ per minute. (Given : Mean wavelength of sun light $= 5500\mathrm{Å}$)[Ans: $4.65\times 10^{19}$]
+11. UV light of wavelength $1800\mathrm{Å}$ is incident on a lithium surface whose threshold wavelength is $4965\mathrm{Å}$. Determine the maximum energy of the electron emitted. [Ans: $4.40\mathrm{eV}$]
+12. Calculate the de Broglie wavelength of a proton whose kinetic energy is equal to $81.9\times 10^{-15}\mathrm{J}$. (Given: mass of proton is 1836 times that of electron). [Ans: $4\times 10^{-14}\mathrm{m}$]
+13. A deuteron and an alpha particle are accelerated with the same potential. Which one of the two has (i) greater value of de Broglie wavelength associated with it and (ii) less kinetic energy? Explain. [Ans: $\lambda_d = 2\lambda_{\alpha}$ and $K_d = \frac{K_{\alpha}}{2}$]
+14. An electron is accelerated through a potential difference of $81\mathrm{V}$. What is the de Broglie wavelength associated with it? To which part of electromagnetic spectrum does this wavelength correspond? [Ans: $\lambda = 1.36\mathrm{Å}$ and x- rays]
+15. The ratio between the de Broglie wavelength associated with proton, accelerated through a potential of $512\mathrm{V}$ and that of alpha particle accelerated through a potential of $X$ volts is found to be one. Find the value of $X$. [Ans: $64\mathrm{V}$]
 
 ---

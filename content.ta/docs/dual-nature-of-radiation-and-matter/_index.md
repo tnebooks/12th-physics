@@ -8,7 +8,7 @@ references:
     links:
       - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+        - youtube:oyn_praD8ag
     books:
         - b1:
            title: Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited
@@ -20,6 +20,8 @@ references:
             title: H.C.Verma, Concepts of Physics, Volume 1 and 2, Bharathi Bhawna publishers.
             url: https://www.amazon.in/Concepts-Physics-ORIGINAL-BOOKS-TOP-Editions/dp/B0F4NPPS95
 ---
+
+> “குவாண்டம் இயந்திரவியல் உங்களுக்கு ஆழ்ந்த அதிர்ச்சியை தரவில்லையெனில், அதனை நீங்கள் முழுமையாக இன்னும் புரிந்து கொள்ளவில்லை". – நீல்ஸ் போர்
 
 ### 8.1 அறிமுகம்
 
