@@ -9,7 +9,7 @@ answers:
 
 What is the ratio of the charges |q1|/|q2|for the following electric field line pattern?
 
-![](./electric-lines.png)
+![](qns-3.png)
 
 ```markdown
 The number of electric field lines is proportional to the magnitude of the charge.

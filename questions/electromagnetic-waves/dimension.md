@@ -1,10 +1,24 @@
 ---
 choices:
-  - "[L T^−1]"
-  - "[L^−1 T]"
-  - "[L^−2 T^2]"
+  - "[L T⁻¹]"
+  - "[L⁻¹ T]"
+  - "[L⁻² T²]"
 answers:
-  - "[L^2T^−2]"
+  - "[L²T⁻²]"
 ---
 
-The dimension of 1/μ∘ɛ∘ is
+**The dimension of 1/μ₀ɛ₀ is**
+
+```markdown
+The speed of light is given by: c = 1/√(μ₀ɛ₀)
+
+Therefore, 1/μ₀ɛ₀ = c²
+
+Dimension of c is: [L T⁻¹]
+
+Dimension of c² is: [L² T⁻²]
+
+Therefore, the dimension of 1/μ₀ɛ₀ is **[L² T⁻²]**.
+
+Correct answer: **[L²T⁻²]**
+```

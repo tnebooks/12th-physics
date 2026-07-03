@@ -13,7 +13,7 @@ An electric field E =10xî exists in a certain region of space. Then the potenti
 The potential difference is related to the electric field by
 
 $$
-V_O - V_A = \int_{0}^{2} E\,dx
+V_O - V_A = -\int_{0}^{2} E\,dx
 $$
 
 Given,
@@ -25,9 +25,9 @@ $$
 Therefore,
 
 $$
-V_O - V_A = \int_{0}^{2} 10x\,dx
-= 5x^2 \Big|_{0}^{2}
-= 20\ \text{V}
+V_O - V_A = - \int_{0}^{2} 10x\,dx
+=- 5x^2 \Big|_{0}^{2}
+= - 20\ \text{V}
 $$
 
 Hence, the potential difference is **+20 V**.

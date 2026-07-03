@@ -5,8 +5,6 @@ categories:
 weight: 7
 summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
 references:
-   videos:
-        - youtube:MA_B-xBz_OI
    links:
       - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
    books:
@@ -24,8 +22,15 @@ references:
             url: https://www.amazon.in/Sears-Zemanskys-University-Physics-Mechanics/dp/8131759857
 ---
 
-> An age is called dark, not because the light fails to shine, but because people refuse to see. — James Albert Michener
+# CHAPTER 7  WAVE OPTICS
 
+An age is called dark, not because the light fails to shine, but because people refuse to see. — James Albert Michener
+
+## LEARNING OBJECTIVES
+
+In this unit, the students are exposed to,
+
+The wave aspect of light. The proof for law of reflection and refraction. The phenomena like interference, diffraction and polarisation. The terms like magnification and resolving power etc. The different optical instruments like microscope, telescope etc.
 
 ## 7.1 THEORIES ON LIGHT
 
