@@ -9,8 +9,6 @@ answers:
 
 An electric dipole is placed at an alignment angle of 30° with an electric field of 2 × 10^5 N C^-1. It experiences a torque equal to 8 N m. The charge on the dipole if the dipole length is 1 cm is
 
-![Image](./image.png)
-
 ```markdown
 Torque on dipole: τ = q E d sinθ
 

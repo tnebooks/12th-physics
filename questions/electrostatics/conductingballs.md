@@ -10,7 +10,6 @@ answers:
 Two identical conducting balls having positive charges $ q_1 $ and $ q_2 $ are separated by a centre to centre distance $ r $. If they are made to touch each other and then separated to the same distance, the force between them will be  
 (NSEP 04-05)
 
-![Image](./image.png)
 
 ```markdown
 Initial force:

@@ -9,7 +9,7 @@ answers:
 
 Two identical point charges of magnitude $-q$ are fixed as shown in the figure below. A third charge $+q$ is placed midway between the two charges at the point P. Suppose this charge $+q$ is displaced a small distance from the point P in the directions indicated by the arrows, in which direction(s) will $+q$ be stable with respect to the displacement?
 
-![Image](./image.png)
+![Image](./1.png)
 
 ```markdown
 At point P, the net force on the central charge $+q$ is zero because the two $-q$ charges exert equal and opposite forces on it.
