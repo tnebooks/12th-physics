@@ -9,7 +9,7 @@ answers:
 
 A thin conducting spherical shell of radius $ R $ has a charge $ Q $ which is uniformly distributed on its surface. The correct plot for electrostatic potential due to this spherical shell is
 
-![Image](./image.png)
+![Image](./10.png)
 
 ```markdown
 For a thin conducting spherical shell:
