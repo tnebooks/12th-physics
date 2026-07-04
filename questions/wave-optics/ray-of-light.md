@@ -7,37 +7,27 @@ answers:
   - "√3"
 ---
 
-A ray of light strikes a glass plate at an angle 60°. If the reflected and refracted rays are perpendicular to each other, the refractive index of the glass is,
+**A ray of light strikes a glass plate at an angle 60°. If the reflected and refracted rays are perpendicular to each other, the refractive index of the glass is,**
 
 ```markdown
-When the reflected ray and refracted ray are perpendicular to each other, the angle of incidence is equal to Brewster's angle.
+Given:
 
-According to Brewster's law,
+* Angle of incidence, $i = 60^\circ$
+* Reflected and refracted rays are perpendicular to each other.
 
-$$
-\mu = \tan i_B
-$$
+When reflected and refracted rays are perpendicular:
 
-where
+$$i + r = 90^\circ \quad \Rightarrow \quad r = 90^\circ - i$$
 
-- $\mu$ = refractive index of the medium
-- $i_B$ = Brewster's angle
+$$r = 90^\circ - 60^\circ = 30^\circ$$
 
-Given,
+Using Snell's law:
 
-$$
-i_B = 60^\circ
-$$
+$$\mu = \frac{\sin i}{\sin r}$$
 
-Therefore,
+$$\mu = \frac{\sin 60^\circ}{\sin 30^\circ} = \frac{\frac{\sqrt{3}}{2}}{\frac{1}{2}} = √{3}$$
 
-$$
-\mu = \tan 60^\circ
-$$
+Therefore, the refractive index of the glass is **$√{3}$**.
 
-$$
-\mu = \sqrt{3}
-$$
-
-Hence, **the refractive index of the glass is $\sqrt{3}$.**
+Correct answer: **$√{3}$**.
 ```

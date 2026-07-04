@@ -7,50 +7,29 @@ answers:
   - "5 m"
 ---
 
-Two point white dots are 1 mm apart on a black paper. They are viewed by eye of pupil diameter 3 mm approximately.The maximum distance at which these dots can be resolved by the eye is, [take wavelength of light, λ = 500 nm]
+**Two point white dots are 1 mm apart on a black paper. They are viewed by eye of pupil diameter 3 mm approximately.The maximum distance at which these dots can be resolved by the eye is, [take wavelength of light, λ = 500 nm]**
 
 ```markdown
-For the eye to just resolve two points, the angular separation must satisfy Rayleigh's criterion:
 
-$$
-\theta = \frac{1.22\lambda}{D}
-$$
+The maximum distance at which two point objects can be resolved by the eye is determined by the **Rayleigh criterion** for resolution:
 
-where
+$$\theta_{\text{min}} = \frac{1.22 \lambda}{D}$$
 
-- $\lambda = 500 \times 10^{-9}\ \text{m}$
-- $D = 3 \times 10^{-3}\ \text{m}$ (diameter of the pupil)
+where:
 
-Thus,
+* $\theta_{\text{min}}$ = minimum angular separation (in radians)
+* $\lambda = 500 \text{ nm} = 500 \times 10^{-9} \text{ m}$
+* $D = 3 \text{ mm} = 3 \times 10^{-3} \text{ m}$ (pupil diameter)
 
-$$
-\theta = \frac{1.22 \times 500 \times 10^{-9}}{3 \times 10^{-3}}
-= 2.03 \times 10^{-4}\ \text{rad}
-$$
+$$\theta_{\text{min}} = \frac{1.22 \times 500 \times 10^{-9}}{3 \times 10^{-3}} = \frac{6.1 \times 10^{-7}}{3 \times 10^{-3}} = 2.033 \times 10^{-4} \text{ radians}$$
 
-If the two dots are separated by
+The two dots are separated by a distance $d = 1 \text{ mm} = 10^{-3} \text{ m}$. The maximum distance $L$ at which they can be resolved is:
 
-$$
-d = 1\ \text{mm} = 10^{-3}\ \text{m}
-$$
+$$\theta_{\text{min}} \approx \frac{d}{L} \quad \Rightarrow \quad L = \frac{d}{\theta_{\text{min}}}$$
 
-and are at a distance $L$ from the eye, then
+$$L = \frac{10^{-3}}{2.033 \times 10^{-4}} \approx 4.92 \text{ m} \approx 5 \text{ m}$$
 
-$$
-\theta \approx \frac{d}{L}
-$$
+Therefore, the maximum distance is approximately **$5 \text{ m}$**.
 
-Hence,
-
-$$
-L = \frac{d}{\theta}
-= \frac{10^{-3}}{2.03 \times 10^{-4}}
-\approx 4.9\ \text{m}
-$$
-
-$$
-L \approx 5\ \text{m}
-$$
-
-Hence, **the maximum distance at which the two dots can be resolved is $5\ \text{m}$.**
+Correct answer: **$5 \text{ m}$**.
 ```
