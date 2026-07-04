@@ -29,8 +29,8 @@ since the dielectric constant of water is 80.
 Therefore,
 
 $$
-\Phi = \frac{q}{80\varepsilon_0}
+\Phi = \frac{2q}{80\varepsilon_0}
 $$
 
-Hence, the total electric flux through the closed surface is **$\dfrac{q}{80\varepsilon_0}$**.
+Hence, the total electric flux through the closed surface is **$\dfrac{q}{40\varepsilon_0}$**.
 ```
