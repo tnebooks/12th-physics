@@ -7,12 +7,20 @@ answers:
   - "plane polarised"
 ---
 
-Light transmitted by Nicol prism is,
+**Light transmitted by Nicol prism is,**
+
 
 ```markdown
-A Nicol prism acts as a polarizer. It allows vibrations of light only in one plane and blocks vibrations in all other directions.
+A **Nicol prism** is an optical device made from calcite crystals that produces **plane polarised light** (or linearly polarised light).
 
-Therefore, the light emerging from a Nicol prism has vibrations confined to a single plane.
+- It works on the principle of double refraction (birefringence).
+- The ordinary ray is totally internally reflected and removed.
+- The extraordinary ray passes through and emerges as **plane polarised light**.
 
-Hence, **the light transmitted by a Nicol prism is plane polarised.**
+Other options:
+- **Partially polarised** → Light in which the electric field oscillates in all directions but with unequal amplitudes.
+- **Unpolarised** → Light in which the electric field oscillates in all random directions.
+- **Elliptically polarised** → Light in which the tip of the electric field vector traces an ellipse.
+
+Therefore, the correct answer is **"plane polarised"**.
 ```

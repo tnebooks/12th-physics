@@ -1,34 +1,27 @@
 ---
 choices:
-  - "10 V"
-  - "–20 V"
-  - "–10 V"
+  - "Graph A"
+  - "Graph C"
+  - "Graph D"
 answers:
-  - "+20 V"
+  - "Graph B"
 ---
 
-An electric field E =10xî exists in a certain region of space. Then the potential difference V = Vo – VA, where Vo is the potential at the origin and VA is the potential at x = 2 m is:
+A thin conducting spherical shell of radius $ R $ has a charge $ Q $ which is uniformly distributed on its surface. The correct plot for electrostatic potential due to this spherical shell is
+
+![](./spherical-shell.png)
 
 ```markdown
-The potential difference is related to the electric field by
+For a thin conducting spherical shell:
+- **Inside the shell** ($ r < R $): Potential is constant and equal to surface potential
+- **On the surface** ($ r = R $): $ V = \frac{kQ}{R} $
+- **Outside** ($ r > R $): Potential decreases as $ V = \frac{kQ}{r} $
 
-$$
-V_O - V_A = \int_{0}^{2} E\,dx
-$$
+So the graph should show:
+- Constant potential for $ r < R $
+- Then decreasing as $ 1/r $ for $ r > R $
 
-Given,
+This matches **Graph B**.
 
-$$
-E = 10x
-$$
-
-Therefore,
-
-$$
-V_O - V_A = \int_{0}^{2} 10x\,dx
-= 5x^2 \Big|_{0}^{2}
-= 20\ \text{V}
-$$
-
-Hence, the potential difference is **+20 V**.
+Therefore, option **(b) Graph B** is correct.
 ```

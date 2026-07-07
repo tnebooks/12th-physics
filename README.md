@@ -20,6 +20,7 @@ set QUESTIONS_FOLDER=%cd%\questions
 set PUBLIC_FOLDER=%cd%\public
 cd ..\design-system
 npm i
+npm run watch
 ```
 
 ```bash

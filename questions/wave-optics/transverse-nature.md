@@ -7,12 +7,15 @@ answers:
   - "polarisation"
 ---
 
-The transverse nature of light is shown in,
+**The transverse nature of light is shown in,**
 
 ```markdown
-Polarisation is a phenomenon that can occur only in transverse waves. Longitudinal waves cannot be polarised.
+The transverse nature of light is demonstrated by the phenomenon of **polarisation**.
 
-Since light can be polarised, it proves that light vibrations occur perpendicular to the direction of propagation.
+- **Polarisation** proves that light waves are transverse because only transverse waves can be polarised. Longitudinal waves (like sound) cannot be polarised.
+- **Interference** — Demonstrates the wave nature of light (superposition principle), but does not prove transverse nature.
+- **Diffraction** — Demonstrates the wave nature of light (bending around obstacles), but does not prove transverse nature.
+- **Scattering** — Redirection of light by particles; does not specifically prove transverse nature.
 
-Hence, **the transverse nature of light is shown by polarisation.**
+Therefore, the correct answer is **"polarisation"**.
 ```

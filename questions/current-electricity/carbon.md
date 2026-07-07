@@ -7,25 +7,19 @@ answers:
   - "Yellow – Violet – Orange – Silver"
 ---
 
-A carbon resistor of (47 ± 4.7 ) k Ω to be marked with rings of different colours for its identification. The colour code sequence will be
+**A carbon resistor of (47 ± 4.7) kΩ to be marked with rings of different colours for its identification. The colour code sequence will be**
 
 ```markdown
-Here's the short explanation:
+Resistance value = 47 kΩ ± 4.7 kΩ
 
-- **47 kΩ** = 47 × 10³ Ω  
-  So the first two digits are **4** and **7**, and the multiplier is **10³**.
+Using the standard resistor color code:
 
-- From the resistor color code:
-  - 4 = **Yellow**
-  - 7 = **Violet**
-  - 10³ = **Orange** (third band)
+- First digit: 4 → Yellow
+- Second digit: 7 → Violet
+- Multiplier: 47 × 10³ = 47000 Ω → 10³ = Orange
+- Tolerance: ±4.7 kΩ is 10% of 47 kΩ → 10% tolerance → Silver
 
-- Tolerance:  
-  ±4.7 kΩ on 47 kΩ = ±10%  
-  - 10% tolerance = **Silver** (fourth band)
+Therefore, the color code sequence is: **Yellow – Violet – Orange – Silver**
 
-So the sequence is:  
-**Yellow – Violet – Orange – Silver**
-
-**Final answer:** Yellow – Violet – Orange – Silver
+Answer: Yellow – Violet – Orange – Silver
 ```
