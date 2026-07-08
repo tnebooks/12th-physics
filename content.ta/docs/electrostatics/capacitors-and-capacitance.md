@@ -1,6 +1,37 @@
 ---
 title: "மின்தேக்கிகள் மற்றும் மின்தேக்குத்திறன்"
 weight: 8
+references:
+    videos:
+        - custom:
+            title: "தேக்கியில் சேமிக்கப்படும் ஆற்றல்"
+            desc: "தேக்கியில் சேமிக்கப்படும் மின்னழுத்த நிலை ஆற்றல்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/03f7f210-f5ed-11ef-b2d1-a9c604108134.mp4"
+
+        - custom:
+            title: "தேக்கிகளின் பயன்பாடுகள்"
+            desc: "அன்றாட வாழ்வில் தேக்கிகளின் பயன்பாடுகள்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
+
+        - custom:
+            title: "தேக்கிகளில் மின்கடத்தாப் பொருள்களின் விளைவு"
+            desc: "தேக்குத்திறனில் மின்கடத்தாப் பொருள்களின் விளைவு"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c3c360-fb61-11ef-a95a-13114375fc0c.mp4"
+
+        - custom:
+            title: "தேக்கிகளில் மின்கடத்தாப் பொருள்களின் விளைவு - கணக்குப் பிரச்சினைகள்"
+            desc: "தேக்கிகளில் மின்கடத்தாப் பொருள்களின் விளைவு தொடர்பான கணக்குப் பிரச்சினைகள்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c457bf0-ffcf-11ef-8f38-f300d82546c2.mp4"
+
+        - custom:
+            title: "தொடர் மற்றும் பக்க இணைப்பில் தேக்கிகள்"
+            desc: "தேக்கிகளின் தொடர் மற்றும் பக்க இணைப்பு"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96aeec0-f5ea-11ef-b2d1-a9c604108134.mp4"
+
+        - custom:
+            title: "தொடர் மற்றும் பக்க இணைப்பில் தேக்கிகள் - கணக்குப் பிரச்சினைகள்"
+            desc: "தேக்கிகளின் தொடர் மற்றும் பக்க இணைப்பு தொடர்பான கணக்குப் பிரச்சினைகள்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
 ---
 
 ### மின்தேக்கிகள் (Capacitors)
