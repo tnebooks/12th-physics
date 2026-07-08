@@ -2,6 +2,37 @@
 title: "Capacitors And Capacitance"
 weight: 8
 references:
+  videos:
+    - custom:
+        title: "Energy Stored in the Capacitor"
+        desc: "Electric Potential Energy Stored in a Capacitor"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/03f7f210-f5ed-11ef-b2d1-a9c604108134.mp4"
+
+    - custom:
+        title: "Applications of Capacitors"
+        desc: "Capacitor Applications in Daily Life"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
+
+    - custom:
+        title: "Effect of Dielectrics in Capacitors"
+        desc: "Effect of Dielectrics on Capacitance"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c3c360-fb61-11ef-a95a-13114375fc0c.mp4"
+
+    - custom:
+        title: "Effect of Dielectrics in Capacitors - Problems"
+        desc: "Problems on Effect of Dielectrics in Capacitors"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c457bf0-ffcf-11ef-8f38-f300d82546c2.mp4"
+
+    - custom:
+        title: "Capacitors in Series and Parallel"
+        desc: "Series and Parallel Combination of Capacitors"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96aeec0-f5ea-11ef-b2d1-a9c604108134.mp4"
+
+    - custom:
+        title: "Capacitors in Series and Parallel - Problems"
+        desc: "Problems on Series and Parallel Combination of Capacitors"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
+references:
     links:
         - "[Capacitor Lab](https://phet.colorado.edu/sims/cheerpj/capacitor-lab/latest/capacitor-lab.html?simulation=capacitor-lab)"
 
