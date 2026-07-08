@@ -32,7 +32,6 @@ references:
         title: "Capacitors in Series and Parallel - Problems"
         desc: "Problems on Series and Parallel Combination of Capacitors"
         url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
-references:
     links:
         - "[Capacitor Lab](https://phet.colorado.edu/sims/cheerpj/capacitor-lab/latest/capacitor-lab.html?simulation=capacitor-lab)"
 
