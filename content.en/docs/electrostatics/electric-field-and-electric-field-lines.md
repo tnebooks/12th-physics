@@ -1,6 +1,47 @@
 ---
 title: "Electric Field And Electric Field Lines"
 weight: 3
+references:
+    videos:
+        - custom:
+            title: "Electric Field (Part 1)"
+            desc: "Electric Field - Part 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6dfdbab0-eb75-11ee-96fd-5d33c5fcace2.mp4"
+
+        - custom:
+            title: "Electric Field (Part 2)"
+            desc: "Electric Field - Part 2"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a8273710-e6b7-11ee-b6c9-1dfcf713672a.mp4"
+
+        - custom:
+            title: "Motion of a Charged Particle in a Uniform Electric Field (Part 1)"
+            desc: "Uniform Electric Field - Motion of a Charged Particle - Part 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5357ca00-e77b-11ee-beac-7d1e5813c4f6.mp4"
+
+        - custom:
+            title: "Motion of a Charged Particle in a Uniform Electric Field (Part 2)"
+            desc: "Uniform Electric Field - Motion of a Charged Particle - Part 2"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f6c4bd0-e84e-11ee-87f2-2b369e7440d7.mp4"
+
+        - custom:
+            title: "Electric Field due to Continuous Charge Distribution"
+            desc: "Electric Field due to Continuous Charge Distribution"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cb91830-f5a6-11ee-b348-13c1d950659a.mp4"
+
+        - custom:
+            title: "Electric Field due to Linear Charge Distribution"
+            desc: "Electric Field due to a Linear Charge Distribution"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8abbfe40-f729-11ee-a053-83c53da4eab7.mp4"
+
+        - custom:
+            title: "Electric Field due to Continuous Charge Distribution in a Ring"
+            desc: "Electric Field due to a Uniformly Charged Ring"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f0214580-fb28-11ee-9c47-d35d244d0a95.mp4"
+
+        - custom:
+            title: "Properties of Electric Field Lines"
+            desc: "Electric Field Lines and Their Properties"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6864060-d971-11ef-8800-8f665f1f5071.mp4"
 ---
 
 ### Electric Field

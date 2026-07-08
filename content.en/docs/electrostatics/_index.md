@@ -4,10 +4,6 @@ weight: 1
 references:
     videos:
         - youtube:BjJJW4QavOA
-        - custom:
-            title: "Video Title"
-            desc: "Video Desc"
-            url: "https://www.w3schools.com/tags/movie.mp4"
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson

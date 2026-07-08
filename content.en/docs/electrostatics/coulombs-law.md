@@ -1,6 +1,32 @@
 ---
 title: "Coulomb's Law"
 weight: 2
+references:
+    videos:
+        - custom:
+            title: "Coulomb's Law"
+            desc: "Introduction to Coulomb's Law"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48beaeb0-0158-11ee-a274-17c521ebc81c.mp4"
+
+        - custom:
+            title: "Coulomb's Law - Previous Year Questions"
+            desc: "PYQ Discussion and Solutions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6d49460-dbbe-11ee-8390-0b2e989e1553.mp4"
+
+        - custom:
+            title: "Coulomb's Law - MCQ Practice"
+            desc: "Electrostatics Multiple Choice Questions"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ec289a0-dd4b-11ee-a227-7d4813a2f7d2.mp4"
+
+        - custom:
+            title: "Coulomb's Law - Numerical Problems"
+            desc: "Problem Solving using Coulomb's Law"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c30110d0-e070-11ee-a851-f5ca18e9dc7a.mp4"
+
+        - custom:
+            title: "Coulomb's Law - Demonstration"
+            desc: "Experimental Demonstration of Coulomb's Law"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d293dd0-0c71-11ef-8ad3-81e4b54bf3cd.mp4"
 ---
 
 In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges \(q_{1}\) and \(q_{2}\) at rest in vacuum, and separated by a distance of \(r\) as shown in Figure 1.2. According to Coulomb, the force on the point charge \(q_{2}\) exerted by another point charge \(q_{1}\) is
