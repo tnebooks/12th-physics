@@ -1,6 +1,57 @@
 ---
 title: "நிலை மின்னழுத்தமும் மின்னழுத்த ஆற்றலும்"
 weight: 5
+references:
+    videos:
+        - custom:
+            title: "மின்னழுத்தம் மற்றும் மின்னழுத்த நிலை ஆற்றல்"
+            desc: "மின்னழுத்தம் மற்றும் மின்னழுத்த நிலை ஆற்றலுக்கான அறிமுகம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f290be0-0944-11ef-ab0c-9964d2f12e77.mp4"
+
+        - custom:
+            title: "மின் இருமுனையம் மற்றும் அதன் பண்புகள்"
+            desc: "மின் இருமுனையம் மற்றும் அதன் பண்புகளுக்கான அறிமுகம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
+
+        - custom:
+            title: "மின்னழுத்தம்"
+            desc: "மின்னழுத்தம் - பகுதி 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
+
+        - custom:
+            title: "மின்னழுத்த வேறுபாடு"
+            desc: "மின்னழுத்த வேறுபாடு மற்றும் செய்யப்பட்ட வேலை"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
+
+        - custom:
+            title: "புள்ளி மின்னூட்டத்தால் ஏற்படும் மின்னழுத்தம்"
+            desc: "புள்ளி மின்னூட்டத்தால் ஏற்படும் மின்னழுத்தம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
+
+        - custom:
+            title: "மின்னூட்டங்களின் தொகுப்பால் ஏற்படும் மின்னழுத்தம்"
+            desc: "மின்னூட்டங்களின் தொகுப்பால் ஏற்படும் மின்னழுத்தம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
+
+        - custom:
+            title: "சமமின்னழுத்தப் பரப்புகள்"
+            desc: "சமமின்னழுத்தப் பரப்புகளின் கருத்து மற்றும் பண்புகள்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
+
+        - custom:
+            title: "மின்புலத்திற்கும் மின்னழுத்தத்திற்கும் இடையேயான தொடர்பு"
+            desc: "மின்புலம் மற்றும் மின்னழுத்தம் இடையேயான தொடர்பு"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b56fabf0-1db7-11ef-81b4-6bfa0b2f6339.mp4"
+
+        - custom:
+            title: "மின்னழுத்த நிலை ஆற்றல்"
+            desc: "மின்னூட்டங்களின் மின்னழுத்த நிலை ஆற்றல்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
+
+        - custom:
+            title: "மின்நிலையியலில் ஆற்றல் அழியாமை விதி"
+            desc: "மின்நிலையியல் விசையின் அழியாத தன்மை"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
 ---
 
 ### அறிமுகம்

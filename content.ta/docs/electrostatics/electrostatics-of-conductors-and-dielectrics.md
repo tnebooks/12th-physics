@@ -1,6 +1,32 @@
 ---
 title: "கடத்திகள் மற்றும் மின்காப்புகளின் நிலை மின்னியல் பண்புகள்"
 weight: 7
+references:
+    videos:
+        - custom:
+            title: "மின்நிலையியல் சமநிலையில் உள்ள கடத்திகள் - பண்புகள் (பகுதி 1)"
+            desc: "மின்நிலையியல் சமநிலையில் உள்ள கடத்திகளின் பண்புகள் - பகுதி 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96e4a300-c8ef-11ef-922a-ffd02f7f3b2c.mp4"
+
+        - custom:
+            title: "மின்நிலையியல் சமநிலையில் உள்ள கடத்திகள் - பண்புகள் (பகுதி 2)"
+            desc: "மின்நிலையியல் சமநிலையில் உள்ள கடத்திகளின் பண்புகள் - பகுதி 2"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2673e2c0-d727-11ef-b16f-63a37bb24111.mp4"
+
+        - custom:
+            title: "மின்நிலையியல் கவசம்"
+            desc: "மின்நிலையியல் கவசத்தின் தத்துவம் மற்றும் பயன்பாடுகள்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d7fc270-dc90-11ef-a08b-3dfcd3e8fd17.mp4"
+
+        - custom:
+            title: "மின்நிலையியல் தூண்டல்"
+            desc: "மின்நிலையியல் தூண்டல்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bddd8b60-c206-11ef-89f8-b56b3657b460.mp4"
+
+        - custom:
+            title: "மின்கடத்தாப் பொருள்கள் அல்லது காப்புப் பொருள்கள்"
+            desc: "மின்கடத்தாப் பொருள்கள் அல்லது காப்புப் பொருள்களின் பண்புகள்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e1dee90-f272-11ef-94d4-798a36bd4a22.mp4"
 ---
 
 ### நிலைமின் சமநிலையில் கடத்திகள்

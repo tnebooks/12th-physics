@@ -1,6 +1,22 @@
 ---
 title: "மின்கடத்தியில் மின்துகள்களின் பரவலும் கூர்முனைச் செயல்பாடும்"
 weight: 9
+references:
+    videos:
+        - custom:
+            title: "கடத்தியில் மின்னூட்டங்களின் பரவல்"
+            desc: "கடத்தியில் மின்னூட்டங்களின் பரவல்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
+
+        - custom:
+            title: "முனைகளின் செயல் அல்லது கரோனா மின்னிறக்கம்"
+            desc: "முனைகளின் செயல் மற்றும் கரோனா மின்னிறக்கம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
+
+        - custom:
+            title: "வான் டி கிராஃப் மின்னாக்கி"
+            desc: "வான் டி கிராஃப் மின்னாக்கி - தத்துவம் மற்றும் அமைப்பு"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4" 
 ---
 
 ### மின்கடத்தியில் மின்துகள்களின் பரவல்

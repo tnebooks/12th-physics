@@ -1,6 +1,32 @@
 ---
 title: "மின் இருமுனையும் அதன் பண்புகளும்"
 weight: 4
+references:
+    videos:
+        - custom:
+            title: "மின் இருமுனையம் மற்றும் அதன் பண்புகள்"
+            desc: "மின் இருமுனையம் மற்றும் அதன் பண்புகளுக்கான அறிமுகம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
+
+        - custom:
+            title: "மின் இருமுனையம் (பகுதி 1)"
+            desc: "மின் இருமுனையம் - பகுதி 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/65c14540-fcb1-11ee-a087-9302ccb53342.mp4"
+
+        - custom:
+            title: "மின் இருமுனையத்தால் ஏற்படும் மின்புலம்"
+            desc: "அச்சுக் கோட்டில் உள்ள ஒரு புள்ளியில் மின் இருமுனையத்தால் ஏற்படும் மின்புலம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5bbe2ac0-0604-11ef-a231-2f490913dbea.mp4"
+
+        - custom:
+            title: "சீரான மின்புலத்தில் மின் இருமுனையம் அனுபவிக்கும் திருப்புவிசை"
+            desc: "சீரான மின்புலத்தில் மின் இருமுனையத்தின் திருப்புவிசை - கருத்து"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/421782e0-d56e-11ee-9e1b-55665d1545f6.mp4"
+
+        - custom:
+            title: "சீரான மின்புலத்தில் மின் இருமுனையம் அனுபவிக்கும் திருப்புவிசை"
+            desc: "சீரான மின்புலத்தில் மின் இருமுனையத்தின் திருப்புவிசை"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
 ---
 
 ### மின் இருமுனை (Dipole)
