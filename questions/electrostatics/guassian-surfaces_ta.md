@@ -1,4 +1,5 @@
 ---
+complexity: "H"
 choices:
   - "A < B = C < D"
   - "C < A = B < D"
