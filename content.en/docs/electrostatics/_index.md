@@ -3,7 +3,7 @@ title: Electrostatics
 weight: 1
 references:
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+        - youtube:BjJJW4QavOA
     books:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson

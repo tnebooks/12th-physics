@@ -1,4 +1,5 @@
 ---
+complexity: "M"
 choices:
   - "80q/ɛ"
   - "q/80ɛ"

@@ -1,6 +1,32 @@
 ---
 title: "Electric Dipole And Its Properties"
 weight: 4
+references:
+  videos:
+    - custom:
+        title: "Electric Dipole and its Properties"
+        desc: "Introduction to Electric Dipole and its Properties"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
+
+    - custom:
+        title: "Electric Dipole (Part 1)"
+        desc: "Electric Dipole - Part 1"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/65c14540-fcb1-11ee-a087-9302ccb53342.mp4"
+
+    - custom:
+        title: "Electric Field due to an Electric Dipole"
+        desc: "Electric Field due to an Electric Dipole at a Point on the Axial Line"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5bbe2ac0-0604-11ef-a231-2f490913dbea.mp4"
+
+    - custom:
+        title: "Torque Experienced by an Electric Dipole in a Uniform Electric Field"
+        desc: "Torque on an Electric Dipole in a Uniform Electric Field - Concept"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/421782e0-d56e-11ee-9e1b-55665d1545f6.mp4"
+
+    - custom:
+        title: "Torque Experienced by an Electric Dipole in a Uniform Electric Field"
+        desc: "Torque on an Electric Dipole in a Uniform Electric Field"
+        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
 ---
 
 ### Electric dipole
