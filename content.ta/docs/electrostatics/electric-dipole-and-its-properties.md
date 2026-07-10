@@ -27,6 +27,13 @@ references:
             title: "சீரான மின்புலத்தில் மின் இருமுனையம் அனுபவிக்கும் திருப்புவிசை"
             desc: "சீரான மின்புலத்தில் மின் இருமுனையத்தின் திருப்புவிசை"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
+
+    links: 
+        - "https://phet.colorado.edu/en/simulations/charges-and-fields?"
+    books:
+        - b1:
+            title: "மின் இருமுனையம்"
+            url: "https://openstax.org/books/university-physics-volume-2/pages/5-7-electric-dipoles"
 ---
 
 ### மின் இருமுனை (Dipole)

@@ -27,6 +27,14 @@ references:
             title: "காஸ் விதியின் பயன்பாடுகள் (பகுதி 2)"
             desc: "காஸ் விதியின் பயன்பாடுகள் - பகுதி 2"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8b04dfa-3e26-47c9-ac8e-70517ac9695b.mp4"
+
+    links:
+        - "https://phet.colorado.edu/en/simulations/charges-and-fields"
+
+    books:
+        - b1:
+            title: "மின் பாய்வு மற்றும் காஸ் விதி"
+            url: "https://openstax.org/books/university-physics-volume-2/pages/6-2-electric-flux"
 ---
 
 ### மின்பாயம் (Electric Flux)

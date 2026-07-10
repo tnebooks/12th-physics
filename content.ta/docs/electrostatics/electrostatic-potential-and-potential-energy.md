@@ -52,6 +52,13 @@ references:
             title: "மின்நிலையியலில் ஆற்றல் அழியாமை விதி"
             desc: "மின்நிலையியல் விசையின் அழியாத தன்மை"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
+    links:
+        - "https://phet.colorado.edu/en/simulations/charges-and-fields"
+
+    books:
+        - b1:
+            title: "மின்னழுத்தம் மற்றும் மின்னியல் நிலை ஆற்றல்"
+            url: "https://openstax.org/books/university-physics-volume-2/pages/7-3-electric-potential-and-potential-difference"
 ---
 
 ### அறிமுகம்

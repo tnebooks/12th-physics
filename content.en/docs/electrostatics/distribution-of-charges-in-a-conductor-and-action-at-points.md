@@ -2,21 +2,32 @@
 title: "Distribution Of Charges In A Conductor And Action At Points"
 weight: 9
 references:
-  videos:
-    - custom:
-        title: "Distribution of Charges in a Conductor"
-        desc: "Distribution of Charges in a Conductor"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
+    videos:
+        - custom:
+            title: "Distribution of Charges in a Conductor"
+            desc: "Distribution of Charges in a Conductor"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
 
-    - custom:
-        title: "Action of Points or Corona Discharge"
-        desc: "Action of Points and Corona Discharge"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
+        - custom:
+            title: "Action of Points or Corona Discharge"
+            desc: "Action of Points and Corona Discharge"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
 
-    - custom:
-        title: "Van de Graaff Generator"
-        desc: "Van de Graaff Generator - Principle and Construction"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"        
+        - custom:
+            title: "Van de Graaff Generator"
+            desc: "Van de Graaff Generator - Principle and Construction"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"      
+
+    links:
+        - "[Balloons and Static Electricity](https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html)"
+        - "[Charges and Fields](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html)"
+
+    books:
+        - b1:
+            title: "Electric Charges and Fields"
+            url: "https://ncert.nic.in/textbook/pdf/keph102.pdf"
+        
+    
 ---
 
 ### Distribution of charges in a conductor

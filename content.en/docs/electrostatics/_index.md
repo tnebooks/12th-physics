@@ -2,6 +2,8 @@
 title: Electrostatics
 weight: 1
 references:
+    links:
+        - "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html"
     videos:
         - youtube:BjJJW4QavOA
     books:

@@ -27,6 +27,13 @@ references:
             title: "Coulomb's Law - Demonstration"
             desc: "Experimental Demonstration of Coulomb's Law"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d293dd0-0c71-11ef-8ad3-81e4b54bf3cd.mp4"
+
+    links:
+        - "https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_all.html"
+    books: 
+        - b1:
+            title: "Electric Charges and Fields"
+            url: "https://ncert.nic.in/textbook/pdf/leph101.pdf?"
 ---
 
 In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges \(q_{1}\) and \(q_{2}\) at rest in vacuum, and separated by a distance of \(r\) as shown in Figure 1.2. According to Coulomb, the force on the point charge \(q_{2}\) exerted by another point charge \(q_{1}\) is

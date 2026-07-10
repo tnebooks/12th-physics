@@ -27,6 +27,15 @@ references:
             title: "மின்கடத்தாப் பொருள்கள் அல்லது காப்புப் பொருள்கள்"
             desc: "மின்கடத்தாப் பொருள்கள் அல்லது காப்புப் பொருள்களின் பண்புகள்"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e1dee90-f272-11ef-94d4-798a36bd4a22.mp4"
+
+    links:
+        - "https://phet.colorado.edu/en/simulations/charges-and-fields"
+        - "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html"
+
+    books:
+        - b1:
+            title: "மின்நிலை சமநிலையில் கடத்திகள் மற்றும் மின்கடத்தாப் பொருட்கள்"
+            url: "https://courses.lumenlearning.com/suny-physics/chapter/18-7-conductors-and-electric-fields-in-static-equilibrium/"
 ---
 
 ### நிலைமின் சமநிலையில் கடத்திகள்

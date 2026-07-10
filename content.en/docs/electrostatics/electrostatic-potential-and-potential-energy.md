@@ -2,56 +2,64 @@
 title: "Electrostatic Potential And Potential Energy"
 weight: 5
 references:
-  videos:
-    - custom:
-        title: "Electric Potential and Potential Energy"
-        desc: "Introduction to Electric Potential and Potential Energy"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f290be0-0944-11ef-ab0c-9964d2f12e77.mp4"
+    videos:
+        - custom:
+            title: "Electric Potential and Potential Energy"
+            desc: "Introduction to Electric Potential and Potential Energy"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f290be0-0944-11ef-ab0c-9964d2f12e77.mp4"
 
-    - custom:
-        title: "Electric Dipole and its Properties"
-        desc: "Introduction to Electric Dipole and its Properties"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
+        - custom:
+            title: "Electric Dipole and its Properties"
+            desc: "Introduction to Electric Dipole and its Properties"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
 
-    - custom:
-        title: "Electric Potential"
-        desc: "Electric Potential - Part 1"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
+        - custom:
+            title: "Electric Potential"
+            desc: "Electric Potential - Part 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
 
-    - custom:
-        title: "Electric Potential Difference"
-        desc: "Potential Difference and Work Done"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
+        - custom:
+            title: "Electric Potential Difference"
+            desc: "Potential Difference and Work Done"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
 
-    - custom:
-        title: "Potential due to a Point Charge"
-        desc: "Electric Potential due to a Point Charge"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
+        - custom:
+            title: "Potential due to a Point Charge"
+            desc: "Electric Potential due to a Point Charge"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
 
-    - custom:
-        title: "Potential due to a System of Charges"
-        desc: "Electric Potential due to a System of Charges"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
+        - custom:
+            title: "Potential due to a System of Charges"
+            desc: "Electric Potential due to a System of Charges"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
 
-    - custom:
-        title: "Equipotential Surfaces"
-        desc: "Concept and Properties of Equipotential Surfaces"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
+        - custom:
+            title: "Equipotential Surfaces"
+            desc: "Concept and Properties of Equipotential Surfaces"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
 
-    - custom:
-        title: "Relation Between Electric Field and Potential"
-        desc: "Electric Field and Potential Relationship"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b56fabf0-1db7-11ef-81b4-6bfa0b2f6339.mp4"
+        - custom:
+            title: "Relation Between Electric Field and Potential"
+            desc: "Electric Field and Potential Relationship"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b56fabf0-1db7-11ef-81b4-6bfa0b2f6339.mp4"
 
-    - custom:
-        title: "Electric Potential Energy"
-        desc: "Electric Potential Energy of Charges"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
+        - custom:
+            title: "Electric Potential Energy"
+            desc: "Electric Potential Energy of Charges"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
 
-    - custom:
-        title: "Conservation of Energy in Electrostatics"
-        desc: "Conservative Nature of Electrostatic Force"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
+        - custom:
+            title: "Conservation of Energy in Electrostatics"
+            desc: "Conservative Nature of Electrostatic Force"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
+
+    links:
+    - "https://phet.colorado.edu/en/simulations/charges-and-fields"
+
+    books:
+    - b1:
+        title: "Electric Potential and Electric Potential Energy"
+        url: "https://openstax.org/books/university-physics-volume-2/pages/7-3-electric-potential-and-potential-difference"
 ---
 
 

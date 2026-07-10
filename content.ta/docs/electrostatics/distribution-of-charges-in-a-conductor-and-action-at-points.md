@@ -17,6 +17,15 @@ references:
             title: "வான் டி கிராஃப் மின்னாக்கி"
             desc: "வான் டி கிராஃப் மின்னாக்கி - தத்துவம் மற்றும் அமைப்பு"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4" 
+
+    links:
+        - "[Balloons and Static Electricity](https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html)"
+        - "[Charges and Fields](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html)"
+
+    books:
+        - b1:
+            title: "மின்னூட்டங்கள் மற்றும் மின்புலங்கள்"
+            url: "https://ncert.nic.in/textbook/pdf/keph102.pdf"
 ---
 
 ### மின்கடத்தியில் மின்துகள்களின் பரவல்
