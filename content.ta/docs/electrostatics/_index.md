@@ -3,7 +3,10 @@ title: 'நிலை மின்னியல்'
 weight: 1
 references:
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+        - custom:
+            title: "மின்காந்தவியல் மற்றும் மின்காந்த விசைகளின் அடிப்படைகள்"
+            desc: "மின்காந்தவியலின் முக்கியத்துவம், மின்கட்டணங்களின் வரலாறு மற்றும் அவற்றின் அடிப்படை பண்புகள் பற்றிய விளக்கம்"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/70e56da0-d70f-11ef-9591-cb3e87f486ed.mp4"
     links:
         - "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html"
     books:
