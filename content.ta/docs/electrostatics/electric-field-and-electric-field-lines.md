@@ -42,6 +42,13 @@ references:
             title: "மின்புலக் கோடுகளின் பண்புகள்"
             desc: "மின்புலக் கோடுகள் மற்றும் அவற்றின் பண்புகள்"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6864060-d971-11ef-8800-8f665f1f5071.mp4"
+
+    links:
+        - "https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html"
+    books:
+        - b1:
+            title: "மின்புலம்"
+            url: "https://openstax.org/books/university-physics-volume-2/pages/5-4-electric-field?"
 ---
 
 ### மின்புலம்

@@ -2,31 +2,40 @@
 title: "Gauss Law And Its Applications"
 weight: 6
 references:
-  videos:
-    - custom:
-        title: "Gauss's Law"
-        desc: "Introduction to Gauss's Law"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71666e60-1d8c-11ef-982e-f92705a8e9a3.mp4"
+    videos:
+        - custom:
+            title: "Gauss's Law"
+            desc: "Introduction to Gauss's Law"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71666e60-1d8c-11ef-982e-f92705a8e9a3.mp4"
 
-    - custom:
-        title: "Gauss's Law - Problems"
-        desc: "Problems based on Gauss's Law"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
+        - custom:
+            title: "Gauss's Law - Problems"
+            desc: "Problems based on Gauss's Law"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
 
-    - custom:
-        title: "Introduction to Gauss's Law"
-        desc: "Basic Concepts of Gauss's Law"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9165d5c0-cabb-11ef-b00a-53465a814d4b.mp4"
+        - custom:
+            title: "Introduction to Gauss's Law"
+            desc: "Basic Concepts of Gauss's Law"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9165d5c0-cabb-11ef-b00a-53465a814d4b.mp4"
 
-    - custom:
-        title: "Applications of Gauss's Law (Part 1)"
-        desc: "Applications of Gauss's Law - Part 1"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/56da6c8c-9201-4d62-89b7-edab1d982a99.mp4"
+        - custom:
+            title: "Applications of Gauss's Law (Part 1)"
+            desc: "Applications of Gauss's Law - Part 1"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/56da6c8c-9201-4d62-89b7-edab1d982a99.mp4"
 
-    - custom:
-        title: "Applications of Gauss's Law (Part 2)"
-        desc: "Applications of Gauss's Law - Part 2"
-        url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8b04dfa-3e26-47c9-ac8e-70517ac9695b.mp4"
+        - custom:
+            title: "Applications of Gauss's Law (Part 2)"
+            desc: "Applications of Gauss's Law - Part 2"
+            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8b04dfa-3e26-47c9-ac8e-70517ac9695b.mp4"
+
+    links:
+        - "https://phet.colorado.edu/en/simulations/charges-and-fields"
+
+    books:
+        - b1:
+            title: "Electric Flux and Gauss's Law"
+            url: "https://openstax.org/books/university-physics-volume-2/pages/6-2-electric-flux"
+
 ---
 
 ### Electric Flux

@@ -34,6 +34,12 @@ references:
           url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
     links:
         - "[Capacitor Lab](https://phet.colorado.edu/sims/cheerpj/capacitor-lab/latest/capacitor-lab.html?simulation=capacitor-lab)"
+        - "[Capacitor Lab: Basics](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_en.html)"
+    
+    books:
+        - b1:
+            title: "Capacitance and Capacitors"
+            url: "https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Map%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_(OpenStax)/08%3A_Capacitance/8.02%3A_Capacitors_and_Capacitance"
 
 ---
 
