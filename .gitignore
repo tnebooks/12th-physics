@@ -7,3 +7,5 @@ themes/
 package-lock.json
 
 .hugo_build.lock
+
+tools/
