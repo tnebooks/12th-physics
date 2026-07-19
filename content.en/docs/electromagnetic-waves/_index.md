@@ -32,13 +32,38 @@ In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in
 
 Faraday's law of electromagnetic induction states that the change in magnetic field produces an electric field. Mathematically, it is written as
 
-$$ \oint_{l}\vec{E}\cdot \vec{dl} = -\frac{d}{dt}\Phi_{B} = -\frac{d}{dt}\oint_{S}\vec{B}\cdot \vec{dA} \quad (5.1)$$
+\[
+\begin{aligned}
+&
+\underbrace{\oint_{I} \vec{E}\cdot d\vec{\ell}}_{
+\begin{array}{c}
+\text{Electric field}\\
+\text{induced along a}\\
+\text{closed loop}
+\end{array}
+\;\;\quad=\;} =
+\underbrace{-\frac{d}{dt}\Phi_B}_{
+\begin{array}{c}
+\text{Variation of}\\
+\text{magnetic flux}\\
+\text{with time}
+\end{array}
+\;\;\quad=\;} =
+\underbrace{-\frac{d}{dt}\oint_S \vec{B}\cdot d\vec{A}}_{
+\begin{array}{c}
+\text{Changing magnetic flux }\Phi_B\\
+\text{in the region enclosed}\\
+\text{by the loop}
+\end{array}}
+\quad (5.1)
+\end{aligned}
+\]
+
 
 where $\Phi_{\mathrm{B}}$ is the magnetic flux and $\frac{d}{dt}$ is the total derivative with respect to time. Equation (5.1) means that the electric field $\bar{E}$ is induced along a closed loop by the changing magnetic flux $\Phi_{\mathrm{B}}$ in the region encircled by the loop.
 
- From symmetry considerations, James Clerk Maxwell showed that the change in electric field also produces a magnetic field which is given by
+From symmetry considerations, James Clerk Maxwell showed that the change in electric field also produces a magnetic field which is given by
 
-$$\oint_{l}\vec{B}\cdot \vec{dl} = -\frac{d}{dt}\Phi_{E} = -\frac{d}{dt}\oint_{S}\vec{E}\cdot \vec{dA} \quad (5.2)$$
 
 where $\Phi_{\mathrm{E}}$ is the electric flux. This is known as Maxwell's law of induction which explains that the magnetic field $\vec{B}$ is induced along a closed loop by the changing electric flux $\Phi_{\mathrm{E}}$ in the region encircled by that loop. This symmetry between electric and magnetic fields explains the existence of electromagnetic waves such as radio waves, gamma rays, infrared rays etc.
 
