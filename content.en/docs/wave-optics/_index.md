@@ -30,7 +30,15 @@ An age is called dark, not because the light fails to shine, but because people 
 
 In this unit, the students are exposed to,
 
-The wave aspect of light. The proof for law of reflection and refraction. The phenomena like interference, diffraction and polarisation. The terms like magnification and resolving power etc. The different optical instruments like microscope, telescope etc.
+The wave aspect of light.
+
+The proof for law of reflection and refraction.
+
+The phenomena like interference, diffraction and polarisation.
+
+The terms like magnification and resolving power etc.
+
+The different optical instruments like microscope, telescope etc.
 
 ## 7.1 THEORIES ON LIGHT
 
@@ -58,7 +66,7 @@ Nevertheless, the interaction phenomenon of light with matter like photoelectric
 
 Albert Einstein (1905), endorsing the views of Max Plank (1900), was able to explain photoelectric effect (discussed in Unit 8) in which light interacts with matter as photons to eject the electrons. A photon is a discrete packet of energy. Each photon has energy \(E\) of,
 
-\[E = h\nu\]
+$$E = h\nu \quad (7.1)$$
 
 Where, \(h\) is Plank's constant \((h = 6.625\times 10^{- 34}\mathrm{Js})\) and \(\nu\) is frequency of electromagnetic wave.
 
@@ -72,7 +80,7 @@ Light is a transverse, electromagnetic wave. The wave nature of light was first 
 
 Wave optics deals with the wave characteristics of light. Even the law of reflection and refraction are proved only with the help of wave optics. Though light propagates as a wave, its direction of propagation is still represented as a ray.
 
-A good example for wave propagation is the spreading of circular ripples on the surface of still water from a point where a stone is dropped. The molecules (or) particles of water at a point are moving only up and down (oscillate) when a ripple passes through that point. All these particles on the circular ripple are in the same phase of vibration as they are all at the same distance from the center. The ripple represents a wavefront as shown in Figure 7.1(a). A wavefront is the locus of points which are in the same state (or) phase of vibration.
+A good example for wave propagation is the spreading of circular ripples on the surface of still water from a point where a stone is dropped. The molecules (or) particles of water at a point are moving only up and down (oscillate) when a ripple passes through that point. All these particles on the circular ripple are in the same phase of vibration as they are all at the same distance from the center. The ripple represents a wavefront as shown in Figure 7.1(a).**A wavefront is the locus of points which are in the same state (or) phase of vibration.**
 
 When a wave propagates it is treated as the propagation of wavefront. The wavefront is always perpendicular to the direction of the propagation of the wave. As the direction of ray is in the direction of propagation of the wave, the wavefront is always perpendicular to the ray as shown in Figure 7.1(b).
 
@@ -83,7 +91,7 @@ The shape of a wavefront observed at a point depends on the shape of the source 
 
 ### 7.2.2 Huygens' Principle
 
-Huygens principle is basically a geometrical construction which gives the shape of the wavefront at any time if we know its shape at \(t = 0\) . According to Huygens principle, each point on the wavefront behaves as the source of secondary wavelets spreading out in all directions with the speed of the wave. These are called as secondary wavelets. The envelope to all these wavelets gives the position and shape of the new wavefront at a later time. Thus, Huygens' principle explains the propagation of a wavefront.
+Huygens principle is basically a geometrical construction which gives the shape of the wavefront at any time if we know its shape at \(t = 0\) . **According to Huygens principle, each point on the wavefront behaves as the source of secondary wavelets spreading out in all directions with the speed of the wave. These are called as secondary wavelets. The envelope to all these wavelets gives the position and shape of the new wavefront at a later time.** Thus, Huygens' principle explains the propagation of a wavefront.
 
 The propagation of a spherical and plane wavefront can be explained using Huygens' principle. Let, \(AB\) be the wavefront at a time, \(t = 0\) . According to Huygens' principle, every point on \(AB\) acts as a source of secondary wavelet which travels with the speed of the wave (speed of light \(c\) ). To find the position of the wavefront after a time \(t\) , circles of radius equal to \(ct\) are drawn with points \(P\) , \(Q\) , \(R\) ... etc., as centers on \(AB\) . The forward envelope (or) the tangent \(A'B'\) of the small circles is the new wavefront at that instant \(t\) . The wavefront \(A'B'\) will be a spherical wavefront from a point object which is at a finite distance as shown in Figure 7.3(a) and it is a plane wavefront if the source of light is at a large distance (infinity) as shown in Figure 7.3(b).
 
@@ -217,7 +225,7 @@ The results show that the frequency remains same in all media.
 
 ## 7.3 INTERFERENCE
 
-The phenomenon of superposition of two light waves which produces increase in intensity at some points and decrease in intensity at some other points is called interference of light.
+**The phenomenon of superposition of two light waves which produces increase in intensity at some points and decrease in intensity at some other points is called interference of light.**
 
 Superposition of waves refers to addition of waves. The concept of superposition of mechanical waves is studied in (XI Physics 11.7). When two waves simultaneously pass through a particle in a medium, the resultant displacement of that particle is the vector addition of the displacements due to the individual waves. The resultant displacement will be maximum or minimum depending upon the phase difference between the two superimposing waves. These concepts hold good for light as well.
 
@@ -304,23 +312,29 @@ Resultant amplitude,
 
 Resultant amplitude is maximum when,
 
-\[\phi = 0,\ \cos 0 = 1,\ A_{\mathrm{max}} = \sqrt{a_1^2 + a_2^2 + 2a_1a_2}\]  
-\[A_{\mathrm{max}} = \sqrt{(a_1 + a_2)^2} = \sqrt{(5 + 3)^2} = \sqrt{(8)^2}\]  
-\[A_{\mathrm{max}}= 8\ \text{units}\]
+$\phi = 0, \cos 0 = 1, A_{\max} = \sqrt{a_1^2 + a_2^2 + 2a_1a_2}$
+
+$A_{\max} = \sqrt{(a_1 + a_2)^2} = \sqrt{(5 + 3)^2} = \sqrt{(8)^2}$
+$= 8 \text{ units}$
 
 Resultant amplitude is minimum when,
 
-\[\phi = \pi ,\ \cos \pi = -1,\ A_{\mathrm{min}} = \sqrt{a_1^2 + a_2^2 - 2a_1a_2}\]  
-\[A_{\mathrm{min}} = \sqrt{(a_1 - a_2)^2} = \sqrt{(5 - 3)^2} = \sqrt{(2)^2}\]  
-\[A_{\mathrm{min}}= 2\ \text{units}\]  
-\[I\propto A^2\]
+$\phi = \pi, \cos \pi = -1, A_{\max} = \sqrt{a_1^2 + a_2^2 - 2a_1a_2}$
 
-\[\frac{I_{\mathrm{max}}}{I_{\mathrm{min}}} = \frac{(A_{\mathrm{max}})^2}{(A_{\mathrm{min}})^2}\]
+$A_{\min} = \sqrt{(a_1 - a_2)^2} = \sqrt{(5 - 3)^2} = \sqrt{(2)^2}$
+$= 2 \text{ units}$
+
+$I \propto A^2$
+
+$$\frac{I_{\max}}{I_{\min}} = \frac{(A_{\max})^2}{(A_{\min})^2}$$
 
 Substituting,
 
-\[\frac{I_{\mathrm{max}}}{I_{\mathrm{min}}} = \frac{(8)^2}{(2)^2} = \frac{64}{4} = 16\ \text{(or)}\]  
-\[I_{\mathrm{max}}:I_{\mathrm{min}} = 16:1\]
+$$\frac{I_{\max}}{I_{\min}} = \frac{(8)^2}{(2)^2} = \frac{64}{4} = 16 \text{ (or)}$$
+
+$I_{\max} : I_{\min} = 16 : 1$
+
+
 
 ## EXAMPLE 7.3
 
@@ -397,7 +411,7 @@ Substituting,
 
 ### 7.3.2 Coherent sources
 
-Two light sources are said to be coherent if they produce waves which have same phase or constant phase difference, same frequency or wavelength (monochromatic), same waveform and preferably same amplitude. Coherence is a property of waves that enables to obtain stationary interference patterns.
+**Two light sources are said to be coherent if they produce waves which have same phase or constant phase difference, same frequency or wavelength (monochromatic), same waveform and preferably same amplitude.** Coherence is a property of waves that enables to obtain stationary interference patterns.
 
 Two independent monochromatic sources can never be coherent, because they may emit waves of same frequency and same amplitude, but not with same phase. This is because, atoms while emitting light, produce change in phase due to thermal vibrations. Hence, these sources are said to be incoherent sources.
 
@@ -510,7 +524,7 @@ This shows that on the screen, alternate bright and dark fringes are seen on eit
 
 ##### Equation for bandwidth
 
-The bandwidth \(\beta\) is defined as the distance between any two consecutive bright (or) dark fringes.
+**The bandwidth \(\beta\) is defined as the distance between any two consecutive bright (or) dark fringes.**
 
 The distance between \((n + 1)^{\mathrm{th}}\) and \(n^{\mathrm{th}}\) consecutive bright fringes from \(O\) is given by,
 
@@ -592,7 +606,7 @@ We know that, \(\lambda^{\prime} = \frac{\lambda}{RI}\)
 
 When a white light (polychromatic light) is used in interference experiment, coloured fringes of varied thickness will be formed on the screen. This is because, different colours have different wavelengths. However, the central fringe (or) \(0^{\mathrm{th}}\) fringe will always be bright and white in colour, because all the colours falling at the point O will have no path difference with each other. Hence, only constructive interference is possible at O for all the colours.
 
-![](Dyk1.png)
+
 ## EXAMPLE 7.7
 
 Lights of two wavelengths \(560 \mathrm{nm}\) and \(420 \mathrm{nm}\) are used in Young's double slit experiment. Find the least distance from the central fringe where the bright fringes of the two wavelengths coincide. Given \(D = 1 \mathrm{m}\) and \(d = 3 \mathrm{mm}\) .
@@ -619,11 +633,13 @@ Equation for \(n^{\mathrm{th}}\) bright fringe is, \(y_{n} = n\frac{\lambda D}{d
 
 \[\frac{1}{n} = \frac{4}{3} - 1 = \frac{1}{3} \Rightarrow n = 3\]
 
-Thus, third bright fringe of light of wavelength \(560 \mathrm{nm}\) coincides with the fourth bright fringe of light of wavelength \(420 \mathrm{nm}\) .
+Thus, the $3^{\text{rd}}$ bright fringe of $\lambda_1$ and $4^{\text{th}}$ bright fringe of $\lambda_2$ coincide at the least distance y.
 
-The least distance from the central fringe, \(y = n \frac{\lambda_1 D}{d}\)
+The least distance from the central fringe where the bright fringes of the two wavelengths coincides is, $y_n = n\frac{\lambda D}{d}$
 
-Substituting, \(y = 3 \times \frac{560 \times 10^{-9} \times 1}{3 \times 10^{-3}} = 560 \times 10^{-6} \mathrm{m} = 0.560 \mathrm{mm}\)
+$$y_n = 3 \times \frac{560 \times 10^{-9} \times 1}{3 \times 10^{-3}} = 560 \times 10^{-6}\text{ m}$$
+
+$$y_n = 0.560 \times 10^{-3}\text{ m} = 0.560\text{ mm}$$
 
 ![](doyouknow.png)
 
@@ -635,9 +651,8 @@ Let us consider a thin film of transparent material of refractive index µ (here
 
 ##### For transmitted light
 
-Consider a thin film of thickness \(d\) and refractive index \(\mu\) . A ray of light from source \(S\) is partially reflected at the top surface \(A\) and partially refracted. The refracted ray travels inside the film and gets reflected at \(B\) and transmitted at \(C\) as shown in Figure 7.16. The ray \(AE\) is the one reflected from the top surface. The ray \(CF\) is the one transmitted from the bottom surface. Both rays \(AE\) and \(CF\) are derived from the same incident ray. Hence, they are coherent.
-
-Let us consider the path difference between the rays \(AE\) and \(CF\) . The ray \(CF\) travels from \(A\) to \(B\) to \(C\) up to \(B\) where the splitting occurred. The extra path travelled by the wave transmitted from \(C\) is the path inside the film, \(AB + BC\) . If we approximate the incidence to be nearly normal \((i = 0)\) and the film of small thickness, then the points \(B\) and \(C\) are very close to each other. The extra distance travelled by the wave is approximately twice thickness of the film, \(AB + BC = 2d\) . As this extra path is traversed inside the medium of refractive index \(\mu\) , the optical path difference is, \(\delta = 2\mu d\) .
+The light transmitted may interfere to
+produce a resultant intensity.Let us consider the path difference between the rays \(AE\) and \(CF\) . The ray \(CF\) travels from \(A\) to \(B\) to \(C\) up to \(B\) where the splitting occurred. The extra path travelled by the wave transmitted from \(C\) is the path inside the film, \(BC + CD\) . If we approximate the incidence to be nearly normal \((i = 0)\) and the film of small thickness, then the points \(B\) and \(C\) are very close to each other. The extra distance travelled by the wave is approximately twice thickness of the film, \(BC + CD = 2d\) . As this extra path is traversed inside the medium of refractive index \(\mu\) , the optical path difference is, \(\delta = 2\mu d\) .
 
 The condition for constructive interference in transmitted ray is,
 
@@ -662,7 +677,8 @@ The additional path difference \(\lambda /2\) is due to the phase change of \(\p
 The condition for destructive interference for reflected ray is,
 
 \[2\mu d + \frac{\lambda}{2} = (2n + 1)\frac{\lambda}{2} \ \ (\mathrm{or})\ \ 2\mu d = n\lambda \quad (7.36)\]
-
+>**Note**
+>
 >If the incidence is not nearly normal but at an angle of incidence \(i\) which has an angle of refraction \(r\) , then the expression \(2\mu d\) is to be replaced with \(2\mu d \cos r\) .
 
 ## EXAMPLE 7.8
@@ -689,7 +705,7 @@ Substituting, \(d = \frac{589\times 10^{-9}}{2\times 1.25} = 235.6\times 10^{- 9
 
 ## 7.4 DIFFRACTION
 
-Diffraction is a characteristic of all waves, including sound waves. Diffraction is bending of waves around sharp edges into the geometrically shadowed region.
+Diffraction is a characteristic of all waves, including sound waves. **Diffraction is bending of waves around sharp edges into the geometrically shadowed region.**
 
 This is a violation to the rectilinear propagation of light we have studied in ray optics. But, the diffraction is prominent only when the size of the obstacle is comparable to the wavelength of light. This is the reason why sound waves get diffracted prominently by obstacles like doors, windows, buildings etc. The wavelength of sound wave is large and comparable to the geometry of these obstacles. But the diffraction in light is more pronounced when the obstacle size is of the order of wavelength of light.
 
@@ -762,6 +778,7 @@ Where \(n = 0, 1, 2, 3....\) is the order of diffraction maximum.
 
 The central maximum is called \(0^{\mathrm{th}}\) order maximum. The points of the maximum intensity lie nearly midway between the successive minima.
 
+>**NOTE**
 >Here, sin θ gives the angular spread of diffraction from the central reference line. We can replace sin θ in the above equations with y / D. It is possible because θ is small. Now, we can approximate,
 sinθ=tanθ=y/D  Where, y is the position of minimum (or) maximum on the screen from its center and D is the distance between the slit and the screen.
 
@@ -818,44 +835,31 @@ The distance between the central maximum and second minimum is \(y_{2} - y_{1} =
 
 ![](EX-7.9(2).png)
 
+>**NOTE**
+>
 >The above calculation shows that the diffraction pattern produced by a single slit, has equal widths of maxima. Only the width of central maximum is double as it is spread on both the sides. But, the intensity falls rapidly for higher order diffraction fringes.
 
 ## EXAMPLE 7.10
 
 **Problem:** A monochromatic light of wavelength $5000 \text{ Å}$ passes through a single slit producing diffraction pattern for the central maximum as shown in the figure. Determine the width of the slit.
 
-<<<<<<< HEAD
-![](pro-7.10.png)
-=======
-![](2.png)
->>>>>>> c70a444eae204de8a4598387af1b71c7597ad8d3
+![](image.png)
 
-**Given:**
-- Wavelength, $\lambda = 5000 \text{ Å} = 5000 \times 10^{-10} \text{ m} = 5 \times 10^{-7} \text{ m}$
-- From the figure (typical values for first minimum): $\theta = 30^\circ$ (or $\sin \theta = 0.5$)
+### Solution
 
-**Formula for first minimum in single-slit diffraction:**
-$$a \sin \theta = n \lambda$$
+$\lambda = 5000\text{ \AA} = 5000 \times 10^{-10}\text{ m}; \sin 30^\circ = 0.5;$
+$n = 1; a = ?$
 
-For the first minimum, $n = 1$:
-$$a \sin \theta = \lambda$$
+Equation for diffraction minimum is,
+$a \sin \theta = n\lambda$
 
-## Solution:
+The central maximum is spread up to the first minimum. Hence, $n = 1$
 
-$$a = \frac{\lambda}{\sin \theta}$$
+Rewriting, $a = \frac{\lambda}{\sin \theta}$
 
-Substituting the values:
-$$a = \frac{5 \times 10^{-7}}{\sin 30^\circ}$$
+Substituting, $a = \frac{5000 \times 10^{-10}}{0.5}$
 
-$$a = \frac{5 \times 10^{-7}}{0.5}$$
-
-$$a = 10 \times 10^{-7} \text{ m}$$
-
-$$a = 1 \times 10^{-6} \text{ m}$$
-
-$$a = 1 \mu \text{m}$$
-
-**Answer:** The width of the slit is **$1 \mu \text{m}$** (or $10^{-6} \text{ m}$).
+$$a = 1 \times 10^{-6}\text{ m} = 0.001 \times 10^{-3}\text{ m} = 0.001\text{ mm}$$
 
 ### 7.4.3 Discussion on first minimum
 
@@ -869,7 +873,7 @@ We can discuss the following cases on the central maximum.
 
 ### 7.4.4 Fresnel’s distance
 
-The rectilinear propagation of light is violated as there is bending of light in diffraction. But, this bending is not seen till the diffracted ray crosses the central maximum at a distance z from the slit as shown in Figure 7.19.Hence, Fresnel’s distance is the distance upto which the ray optics is obeyed and beyond which the ray optics is not obeyed; but, the wave optics becomes significant.
+The rectilinear propagation of light is violated as there is bending of light in diffraction. But, this bending is not seen till the diffracted ray crosses the central maximum at a distance z from the slit as shown in Figure 7.19.Hence, **Fresnel’s distance is the distance upto which the ray optics is obeyed and beyond which the ray optics is not obeyed; but, the wave optics becomes significant.**
 
 ![](7.19.png)
 
@@ -908,7 +912,7 @@ It is difficult to find the difference between interference and diffraction as t
 
 ### 7.4.6 Diffraction in grating
 
-A  grating has multiple slits with equal widths of comparable size to the wavelength of diffracting light. A grating is a plane sheet of transparent material on which opaque rulings are made. A modern commercial grating contains about 6000 lines per centimetre. The transparent space between the rulings act as slit of width a and the rulings act as obstacles having a definite width b.  The combined width of a slit and a ruling is called grating element e,  (e = a + b). The points on the slit separated by a distance equal to the grating element are called corresponding points. 
+A  grating has multiple slits with equal widths of comparable size to the wavelength of diffracting light. A grating is a plane sheet of transparent material on which opaque rulings are made. A modern commercial grating contains about 6000 lines per centimetre. The transparent space between the rulings act as slit of width a and the rulings act as obstacles having a definite width b.  **The combined width of a slit and a ruling is called grating element e,  (e = a + b). The points on the slit separated by a distance equal to the grating element are called corresponding points.** 
 
 ![](7.20.png)
 
@@ -942,7 +946,8 @@ On either side of central maximum, different higher order diffraction maxima are
 If we take \(N = \frac{1}{a + b} \quad (7.49)\), then \(N\) gives the number of grating elements or rulings drawn per unit width of the grating. Normally, this number \(N\) is specified on the grating itself. Now, the equation becomes,
 
 $$\frac{1}{N}\sin \theta = m\lambda \text{ (or) } \sin \theta = Nm\lambda \quad (7.50)$$
-
+>**NOTE**
+>
 >The students should remember that in a single slit experiment, the formula \(a\sin \theta = n\lambda\) is condition for minimum with n as order of minimum. But in the grating experiment, the formula \(\sin \theta = Nm\lambda\) is condition for maximum with \(m\) as the order of diffraction.
 
 
@@ -1030,7 +1035,7 @@ For example, let two point-sources of light close to each other form image on a 
 
 ![](7.24.png)
 
-According to Rayleigh's criterion, the two points on an image are said to be just resolved when the central maximum of one diffraction pattern coincides with the first minimum of the other and vice-versa as shown in Figure 7.24(b). In other words, the distance between the two central maxima must be at least \(r_0\). Hence, \(r_0\) is called spatial resolution given by the equation (7.54) and the corresponding \(\theta\) is said to be angular resolution given by the equation (7.53) respectively. It shows that for better resolution, the wavelength of light used must be as small as possible and the size of the aperture of the instrument must be as large as possible.
+**According to Rayleigh's criterion, the two points on an image are said to be just resolved when the central maximum of one diffraction pattern coincides with the first minimum of the other and vice-versa** as shown in Figure 7.24(b). In other words, the distance between the two central maxima must be at least \(r_0\). Hence, \(r_0\) is called spatial resolution given by the equation (7.54) and the corresponding \(\theta\) is said to be angular resolution given by the equation (7.53) respectively. It shows that for better resolution, the wavelength of light used must be as small as possible and the size of the aperture of the instrument must be as large as possible.
 
 The ability of an optical instrument to distinguish the two closely adjacent objects (or) two points on the same object is said to be the resolving power of the instrument. In general, the term resolution is pertaining to the quality of the image and the term resolving power is associated with the ability of the optical instrument. Resolution and resolving power are reciprocal of each other.
 
@@ -1046,7 +1051,7 @@ The equation for angular resolution is \(\theta = \frac{1.22\lambda}{a}\)
 
 Substituting, \(\theta = \frac{1.22\times 589\times 10^{-9}}{2.3} = 3.124\times 10^{-7} \text{ rad} = 0.0011'\)
 
-Note: The angular resolution of human eye is approximately \(3\times 10^{-4} \text{ rad} \approx 1.03'\)
+>Note: The angular resolution of human eye is approximately \(3\times 10^{-4} \text{ rad} \approx 1.03'\)
 
 ## 7.5 POLARISATION
 
@@ -1083,7 +1088,7 @@ In 1932, an American scientist Edwin Land developed polarisers in the form of sh
 
 #### 7.5.3.1 Polariser and analyser
 
-Let us consider an unpolarised beam of light. The vibrations can be in all possible directions perpendicular to the direction of propagation as shown in Figure 7.27. When this light passes through a polaroid \(P_{1}\) the vibrations are restricted to only one plane. The emergent beam can be further passed through another polaroid \(P_{2}\). If the polaroid \(P_{2}\) is rotated by keeping the ray of light as axis, for a particular position of \(P_{2}\) the intensity is maximum. When the polaroid \(P_{2}\) is rotated further, the intensity starts decreasing. There is complete extinction of the light when \(P_{2}\) is rotated through \(90^{\circ}\). On further rotating \(P_{2}\), the light reappears and the intensity increases and becomes maximum at \(90^{\circ}\). The light coming out from polaroid \(P_{1}\) is said to be plane polarised. The Polaroid (here \(P_{1}\)) which polarises the light passing through it is called a polariser. The polaroid (here \(P_{2}\)) which is used to examine whether a light is polarised or not is called an analyser.
+Let us consider an unpolarised beam of light. The vibrations can be in all possible directions perpendicular to the direction of propagation as shown in Figure 7.27. When this light passes through a polaroid \(P_{1}\) the vibrations are restricted to only one plane. The emergent beam can be further passed through another polaroid \(P_{2}\). If the polaroid \(P_{2}\) is rotated by keeping the ray of light as axis, for a particular position of \(P_{2}\) the intensity is maximum. When the polaroid \(P_{2}\) is rotated further, the intensity starts decreasing. There is complete extinction of the light when \(P_{2}\) is rotated through \(90^{\circ}\). On further rotating \(P_{2}\), the light reappears and the intensity increases and becomes maximum at \(90^{\circ}\). The light coming out from polaroid \(P_{1}\) is said to be plane polarised. **The Polaroid (here \(P_{1}\)) which polarises the light passing through it is called a polariser. The polaroid (here \(P_{2}\)) which is used to examine whether a light is polarised or not is called an analyser.**
 
 If the intensity of the unpolarised light is \(I\) then the intensity of polarised light will be \(\frac{I}{2}\). The other half of intensity is restricted by the polariser.
 
@@ -1091,7 +1096,7 @@ If the intensity of the unpolarised light is \(I\) then the intensity of polaris
 
 #### 7.5.3.2 Plane and partially polarised light
 
-A light is said to be plane polarised if the intensity varies from maximum to zero for every \(90^{\circ}\) rotation of the analyser as shown in the graph in Figure 7.28(a). This is because the vibrations are allowed in one direction and completely restricted in the perpendicular direction. On the other hand, if the intensity of light varies between maximum and minimum (not zero) for every \(90^{\circ}\) rotation of the analyser, the light is said to be partially polarised light as shown in the graph in Figure 7.28(b). This is because the light is not fully restricted in that particular direction which remains as a minimum intensity.
+**A light is said to be plane polarised if the intensity varies from maximum to zero for every \(90^{\circ}\) rotation of the analyser** as shown in the graph in Figure 7.28(a). This is because the vibrations are allowed in one direction and completely restricted in the perpendicular direction. On the other hand, **if the intensity of light varies between maximum and minimum (not zero) for every \(90^{\circ}\) rotation of the analyser, the light is said to be partially polarised light** as shown in the graph in Figure 7.28(b). This is because the light is not fully restricted in that particular direction which remains as a minimum intensity.
 
 ![](7.28.png)
 
@@ -1186,7 +1191,7 @@ Here, \(I' = I/4\). Substituting, \(I'' = (I/4) \cos^{2}(45^{\circ}) = (I/4) (1/
 
 ### 7.5.4 Polarisation by reflection
 
-The simplest method of producing plane polarised light is by reflection. Consider a beam of unpolarised light incident on a polished glass surface \(XY\). This light undergoes reflection as well as refraction. As it is unpolarized, it consists of vibrations which are parallel to the reflecting surface (shown as dots) and also not parallel to it (shown as arrows). It is shown in Figure 7.31. For a particular angle of incidence, the reflected light is found to be plane polarised and the refracted light is found to be partially polarised. It is because, the parallel vibrations to the surface are reflected and the other vibrations are refracted. Few parallel vibrations may also get refracted resulting in partially polarised refracted light. The angle of incidence for which the reflected light is found to be plane polarised is called polarising angle \(i_{p}\).
+The simplest method of producing plane polarised light is by reflection. Consider a beam of unpolarised light incident on a polished glass surface \(XY\). This light undergoes reflection as well as refraction. As it is unpolarized, it consists of vibrations which are parallel to the reflecting surface (shown as dots) and also not parallel to it (shown as arrows). It is shown in Figure 7.31. For a particular angle of incidence, the reflected light is found to be plane polarised and the refracted light is found to be partially polarised. It is because, the parallel vibrations to the surface are reflected and the other vibrations are refracted. Few parallel vibrations may also get refracted resulting in partially polarised refracted light. **The angle of incidence for which the reflected light is found to be plane polarised is called polarising angle \(i_{p}\).**
 
 ![](7.31.png)
 
@@ -1307,13 +1312,8 @@ This is the magnification for near point focusing.
 
 The eye is most relaxed when the image is formed at infinity. The focusing is called normal focusing when the image is formed at infinity. This is shown in Figure 7.37(b). To find the magnification \(m\), if we take the ratio of the height of image to the height of object \(\left(m = \frac{h'}{h}\right)\), we will not get a meaningful equation, as the image is of infinite size and it is also formed at infinity. Hence, we can practically use the angular magnification. The angular magnification is defined as the ratio of angle \(\theta_{i}\) subtended by the image with aided eye to the angle \(\theta_{0}\) subtended by the object with unaided eye.
 
-<<<<<<< HEAD
-$$m = \frac{\theta_{i}}{\theta_{0}}$$
 
-![](7.37.png)
-=======
 ![](3.png)
->>>>>>> c70a444eae204de8a4598387af1b71c7597ad8d3
 
 For unaided eye shown in Figure 7.37(a),
 
@@ -1653,7 +1653,7 @@ Calculate the power of the lens of the spectacles needed to rectify the defect o
 
 The maximum distance the person could see is \(x = 1.8\mathrm{m}\).
 
-The lens should have a focal length of \(f = -xm = -1.8m.
+The lens should have a focal length of \(f = -xm = -1.8m.\)
 
 It is a concave (or) diverging lens.
 
