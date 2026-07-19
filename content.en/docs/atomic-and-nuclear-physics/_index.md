@@ -20,7 +20,7 @@ In this unit, the students are exposed to- electric discharge through the gases-
 
 In earlier classes, we have studied that anything which occupies space is called matter. Matter can be classified into solids, liquids and gases. In our daily life, we use water for drinking, petrol for vehicles, we inhale oxygen, stainless steel vessels for cooking, etc. Experiences tell us that behaviour of one material is not the same as that of another, which means that the physical and chemical properties are different for different materials. In order to understand this, we need to know the fundamental constituents of materials.
 
-When an object is divided repeatedly, the process of division could not be done beyond a certain stage in a similar way and we end up with a small speck. This small speck was defined as an atom. The word atom in Greek means 'without division or indivisible'. The size of an atom is very very small. For an example, the size of hydrogen atom (simplest among other atoms) is around $10^{-10}\mathrm{m}$. An American Physicist Richard P. Feynman said that if the size of an atom becomes the size of an apple, then the size of apple becomes the size of the earth as shown in Figure 9.1. Such a small entity is an atom.
+When an object is divided repeatedly, the process of division could not be done beyond a certain stage in a similar way and we end up with a small speck. This small speck was defined as an atom. The word atom in Greek means 'without division or indivisible'. The size of an atom is very very small. For an example, the size of hydrogen atom (simplest among other atoms) is around 10<sup>-10</sup> m. An American Physicist Richard P. Feynman said that if the size of an atom becomes the size of an apple, then the size of apple becomes the size of the earth as shown in Figure 9.1. Such a small entity is an atom.
 
 In this unit, we first discuss the theoretical models of atom to understand its structure. The Bohr atom model is more successful than J. J. Thomson and Rutherford atom models. It explained many unsolved issues in those days and also gave better understanding of chemistry.
 
@@ -34,17 +34,17 @@ Gases at normal atmospheric pressure are poor conductors of electricity because 
 
 But by special arrangement, one can make a gas to conduct electricity.
 
-A simple and convenient device used to study the conduction of electricity through gases is known as gas discharge tube. The arrangement of discharge tube is shown in Figure 9.2. It consists of a long closed glass tube (of length nearly $50~\mathrm{cm}$ and diameter of $4\mathrm{cm}$ inside of which a gas in pure form is filled usually. The small opening in the tube is connected to a high vacuum pump and a low- pressure gauge. This tube is fitted with two metallic plates known as electrodes which are connected to secondary of an induction coil. The electrode connected to positive of secondary is known as anode and the electrode to the negative of the secondary is cathode. The potential of secondary is maintained at about $50~\mathrm{kV}$.
+A simple and convenient device used to study the conduction of electricity through gases is known as gas discharge tube. The arrangement of discharge tube is shown in Figure 9.2. It consists of a long closed glass tube (of length nearly 50 cm and diameter of 4 cm inside of which a gas in pure form is filled usually. The small opening in the tube is connected to a high vacuum pump and a low- pressure gauge. This tube is fitted with two metallic plates known as electrodes which are connected to secondary of an induction coil. The electrode connected to positive of secondary is known as anode and the electrode to the negative of the secondary is cathode. The potential of secondary is maintained at about 50 kV.
 
 ![](9.2.png)
 
-Suppose the pressure of the gas in discharge tube is reduced to around $110\mathrm{mm}$ of Hg using vacuum pump, it is observed that no discharge takes place. When the pressure is kept near $100\mathrm{mm}$ of Hg, the discharge of electricity through the tube takes place. Consequently, irregular streaks of light appear and also crackling sound is produced. When the pressure is reduced to the order of 10 mm of Hg, a luminous column known as positive column is formed from anode to cathode.
+Suppose the pressure of the gas in discharge tube is reduced to around 110 mm of Hg using vacuum pump, it is observed that no discharge takes place. When the pressure is kept near 100 mm of Hg, the discharge of electricity through the tube takes place. Consequently, irregular streaks of light appear and also crackling sound is produced. When the pressure is reduced to the order of 10 mm of Hg, a luminous column known as positive column is formed from anode to cathode.
 
-When the pressure reaches to around $0.01\mathrm{mm}$ of Hg, positive column disappears. At this time, a dark space is formed between anode and cathode which is often called Crooke's dark space and the walls of the tube appear with green colour. At this stage, some invisible rays emanate from cathode called cathode rays, which are later found be a beam of electrons.
+When the pressure reaches to around 0.01 mm of Hg, positive column disappears. At this time, a dark space is formed between anode and cathode which is often called Crooke's dark space and the walls of the tube appear with green colour. At this stage, some invisible rays emanate from cathode called cathode rays, which are later found be a beam of electrons.
 
 ## Properties of cathode rays
 
-(1) Cathode rays possess energy and momentum and travel in a straight line with high speed of the order of $10^{7}\mathrm{ms}^{-1}$. It can be deflected by application of electric and magnetic fields. The direction of deflection indicates that they contain negatively charged particles.
+(1) Cathode rays possess energy and momentum and travel in a straight line with high speed of the order of 10<sup>7</sup> ms<sup>-1</sup>. It can be deflected by application of electric and magnetic fields. The direction of deflection indicates that they contain negatively charged particles.
 
 (2) When the cathode rays are allowed to fall on matter, heat is produced. Cathode rays affect the photographic plates and also produce fluorescence when they fall on certain crystals and minerals.
 
@@ -52,9 +52,9 @@ When the pressure reaches to around $0.01\mathrm{mm}$ of Hg, positive column dis
 
 (4) Cathode rays ionize the gas through which they pass.
 
-(5) The speed of cathode rays is up to $\left(\frac{1}{10}\right)^{th}$ of the speed of light.
+(5) The speed of cathode rays is up to (1/10)<sup>th</sup> of the speed of light.
 
-### 9.2.1 Determination of specific charge $\left(\frac{e}{m}\right)$ of an electron - Thomson's experiment
+### 9.2.1 Determination of specific charge (e/m) of an electron - Thomson's experiment
 
 Thomson's experiment is considered as one among the landmark experiments for the birth of modern physics. In 1887, J. J. Thomson made remarkable improvement in the study of gases in discharge tubes. In the presence of electric and magnetic fields, the cathode rays were deflected. By the variation of electric and magnetic fields, the specific charge (charge per unit mass) of the cathode rays is measured.
 
@@ -66,7 +66,7 @@ The arrangement of J. J. Thomson's experiment is shown in Figure 9.3. A highly e
 
 ![](9.4.png)
 
-For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let $e$ be the charge of the cathode rays, then
+For a fixed electric field between the plates, the magnetic field is adjusted such that the cathode rays (electron beam) strike at the original position O (Figure 9.3). This means that the magnitude of electric force is balanced by the magnitude of force due to magnetic field as shown in Figure 9.4. Let $$e$$ be the charge of the cathode rays, then
 
 $$eE = eBv$$
 
@@ -74,7 +74,7 @@ $$\Rightarrow v = \frac{E}{B} \quad (9.1)$$
 
 #### (ii) Determination of specific charge
 
-Since the cathode rays (electron beam) are accelerated from cathode to anode, the potential energy of the electron beam at the cathode is converted into kinetic energy of the electron beam at the anode. Let $V$ be the potential difference between anode and cathode, then the potential energy is $eV$. Then from law of conservation of energy,
+Since the cathode rays (electron beam) are accelerated from cathode to anode, the potential energy of the electron beam at the cathode is converted into kinetic energy of the electron beam at the anode. Let $$V$$ be the potential difference between anode and cathode, then the potential energy is $$eV$$. Then from law of conservation of energy,
 
 $$eV = \frac{1}{2} mv^2\Rightarrow \frac{e}{m} = \frac{v^2}{2V}$$
 
@@ -82,7 +82,7 @@ Substituting the value of velocity from equation (9.1), we get
 
 $$\frac{e}{m} = \frac{1}{2V}\frac{E^2}{B^2} \quad (9.2)$$
 
-Substituting the values of $E$, $B$ and $V$, the specific charge can be determined as
+Substituting the values of *E*, *B* and *V*, the specific charge can be determined as
 
 $$\frac{e}{m} = 1.7\times 10^{11}\mathrm{Ckg}^{-1}$$
 
@@ -92,7 +92,7 @@ When the magnetic field is turned off, the deflection is only due to electric fi
 
 $$F_{e} = eE \quad (9.3)$$
 
-Let $m$ be the mass of the electron and by applying Newton's second law of motion, acceleration of the electron is
+Let *m* be the mass of the electron and by applying Newton's second law of motion, acceleration of the electron is
 
 $$a_{e} = \frac{1}{m} F_{e} \quad (9.4)$$
 
@@ -102,23 +102,23 @@ $$a_{e} = \frac{1}{m} eE = \frac{e}{m} E$$
 
 Figure 9.5 Deviation of path by applying uniform electric field
 
-Let $y$ be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be $u = 0$ before entering the parallel electric plates. Let $t$ be the time taken by the cathode rays to travel in electric field. Let $l$ be the length of one of the plates, then the time taken is
+Let *y* be the deviation produced from original position on the screen as shown in Figure 9.5. Let the initial upward velocity of cathode ray be *u = 0* before entering the parallel electric plates. Let *t* be the time taken by the cathode rays to travel in electric field. Let *l* be the length of one of the plates, then the time taken is
 
 ![](9.5.png)
 
 $$t = \frac{l}{v} \quad (9.5)$$
 
-Hence, the deflection $y^{\prime}$ of cathode rays is (note: $u = 0$ and $a_{e} = \frac{e}{m} E$)
+Hence, the deflection \( y' \) of cathode rays is (Note: \( u = 0 \) and \( a_e = \frac{e}{m}E \)).
 
 $$y^{\prime} = ut + \frac{1}{2} at^{2}\Rightarrow y^{\prime} = ut + \frac{1}{2} a_{e}t^{2}$$ $$= \frac{1}{2}\Bigl (\frac{e}{m} E\Bigr)\Bigl (\frac{l}{v}\Bigr)^{2}$$
 
 $$y^{\prime} = \frac{1}{2}\frac{e}{m}\frac{l^{2}B^{2}}{E} \quad (9.6)$$
 
-Therefore, the deflection $y$ on the screen is
+Therefore, the deflection *y* on the screen is
 
 $$y\propto y^{\prime}\Rightarrow y = Cy^{\prime}$$
 
-where C is proportionality constant which depends on the geometry of the discharge tube and substituting $y^{\prime}$ value in equation 9.6, we get
+where C is proportionality constant which depends on the geometry of the discharge tube and substituting \( y' \) value in equation 9.6, we get
 
 ![](9.6.png)
 
@@ -128,7 +128,9 @@ Rearranging equation (9.7) as
 
 $$\frac{e}{m} = \frac{2yE}{Cl^{2}B^{2}} \quad (9.8)$$
 
-Substituting the values on RHS, the value of specific charge is calculated as $\frac{e}{m} = 1.7 \times 10^{11} \mathrm{Ckg}^{- 1}$.
+Substituting the values on RHS, the value of specific charge is calculated as \[
+\frac{e}{m} = 1.7 \times 10^{11} \, \text{C kg}^{-1}
+\].
 
 #### 9.2.2 Determination of charge of an electron - Millikan's oil drop experiment
 
@@ -138,15 +140,33 @@ of nature known as charge of an electron (Figure 9.6 (a)).
 
 By adjusting electric field suitably, the motion of oil drop inside the chamber can be controlled - that is, it can be made to move up or down or even kept balanced in the field of view for sufficiently long time.
 
-The experimental arrangement is shown in Figure 9.6 (b). The apparatus consists of two horizontal circular metal plates A and B each with diameter around $20 \mathrm{cm}$ and are separated by a small distance $1.5 \mathrm{cm}$. These two parallel plates are enclosed in a chamber with glass walls. Further, plates A and B are maintained at high potential difference around $10kV$ such that electric field acts vertically downward. A small hole is made at the centre of the upper plate A and an atomizer is kept exactly above the hole to spray the liquid. When a fine droplet of the highly viscous non volatile liquid (like glycerine) is sprayed using atomizer, they fall freely downward through the hole of the top plate only under the influence of gravity.
+The experimental arrangement is shown in Figure 9.6 (b). The apparatus consists of two horizontal circular metal plates A and B each with diameter around 20 cm and are separated by a small distance 1.5 cm. These two parallel plates are enclosed in a chamber with glass walls. Further, plates A and B are maintained at high potential difference around 10 kV such that electric field acts vertically downward. A small hole is made at the centre of the upper plate A and an atomizer is kept exactly above the hole to spray the liquid. When a fine droplet of the highly viscous non volatile liquid (like glycerine) is sprayed using atomizer, they fall freely downward through the hole of the top plate only under the influence of gravity.
 
 Few oil drops in the chamber can acquire electric charge (negative charge) because of friction with air or passage of x- rays in between the parallel plates. Further the chamber is illuminated by light which is passed horizontally and oil drops can be seen clearly using microscope placed perpendicular to the light beam.
 
 These drops can move either upwards or downward.
 
-Let $m$ be the mass of the oil drop and $q$ be its charge. Then the forces acting on the droplet are
+Let *m* be the mass of the oil drop and $q$ be its charge. Then the forces acting on the droplet are
 
-(a) gravitational force $F_{g} = mg$ (b) electric force $F_{e} = qE$ (c) buoyant force $F_{b}$ (d) viscous force $F_{v}$
+(a) Gravitational force
+
+\[
+F_g = mg
+\]
+
+(b) Electric force
+
+\[
+F_e = qE
+\]
+
+(c) Buoyant force
+
+\[
+F_b
+\]
+
+(d) Viscous force \[F_v\]
 
 ![](9.7.png)
 
@@ -154,9 +174,9 @@ Let $m$ be the mass of the oil drop and $q$ be its charge. Then the forces actin
 
 When the electric field is switched off, the oil drop accelerates downwards. Due to the presence of air drag forces, the oil drops easily attain its terminal velocity and moves with constant velocity. This velocity can be carefully measured by noting down the time taken by the oil drop to fall through a predetermined distance. The free body diagram of the oil drop is shown in Figure 9.7 (a), we note that viscous force and buoyant force balance the gravitational force.
 
-Let the gravitational force acting on the oil drop (downward) be $F_{g} = mg$
+Let the gravitational force acting on the oil drop (downward) be $$F_{g} = mg$$
 
-Let us assume that oil drop to be spherical in shape. Let $\rho$ be the density of the oil drop, and $r$ be the radius of the oil drop, then the mass of the oil drop can be expressed in terms of its density as
+Let us assume that oil drop to be spherical in shape. Let \(\rho\) be the density of the oil drop, and *r* be the radius of the oil drop, then the mass of the oil drop can be expressed in terms of its density as
 
 $$\begin{array}{l}\rho = \frac{m}{V}\\ \Rightarrow m = \rho \left(\frac{4}{3}\pi r^3\right)\left\{ \begin{array}{l}\because \text{volume of the}\\ \text{sphere},V = \frac{4}{3}\pi r^3 \end{array} \right\} \end{array} \quad (9.9)$$
 
@@ -164,7 +184,7 @@ The gravitational force can be written in terms of density as
 
 $$F_{g} = mg\Rightarrow F_{g} = \rho \left(\frac{4}{3}\pi r^{3}\right)g$$
 
-Let $\sigma$ be the density of the air, the upthrust force experienced by the oil drop due to displaced air is
+Let \(\sigma\) be the density of the air, the upthrust force experienced by the oil drop due to displaced air is
 
 $$F_{b} = \sigma \left(\frac{4}{3}\pi r^{3}\right)g$$
 
@@ -188,7 +208,7 @@ Thus, equation (9.9) gives the radius of the oil drop.
 
 #### (b) Determination of electric charge
 
-When the electric field is switched on, charged oil drops experience an upward electric force $(qE)$. Among many drops, one particular drop can be chosen in the field of view of microscope and strength of the electric field is adjusted to make that particular drop to be stationary. Under these circumstances, there will be no viscous force acting on the oil drop. Then, from the free body diagram shown Figure 9.7 (b), the net force acting on the oil droplet is
+When the electric field is switched on, charged oil drops experience an upward electric force *(qE)*. Among many drops, one particular drop can be chosen in the field of view of microscope and strength of the electric field is adjusted to make that particular drop to be stationary. Under these circumstances, there will be no viscous force acting on the oil drop. Then, from the free body diagram shown Figure 9.7 (b), the net force acting on the oil droplet is
 
 $$F_{e} + F_{b} = F_{g}$$
 
@@ -202,7 +222,9 @@ Substituting equation (9.9) in equation (9.11), we get
 
 $$q = \frac{18\pi}{E}\left(\frac{\eta^3\nu^3}{2(\rho - \sigma)g}\right)^{\frac{1}{2}} \quad (9.12)$$
 
-Millikan repeated this experiment several times and computed the charges on oil drops. He found that the charge of any oil drop can be written as integral multiple of a basic value, $- 1.6\times 10^{- 19}\mathrm{C}$
+Millikan repeated this experiment several times and computed the charges on oil drops. He found that the charge of any oil drop can be written as integral multiple of a basic value, \[
+-1.6 \times 10^{-19}\,\text{C}
+\] which is nothing but the charge of an electron. 
 
 ## 9.3 ATOM MODELS
 
@@ -228,14 +250,14 @@ In 1911, Geiger and Marsden did a remarkable experiment based on the advice of t
 
 ![](9.9.png)
 
-The experimental arrangement is shown in Figure 9.9. A source of alpha particles (radioactive material, example polonium) is kept inside a thick lead box with a fine hole as seen in Figure 9.9. The alpha particles coming through the fine hole of lead box pass through another fine hole made on the lead screen. These particles are now allowed to fall on a thin gold foil and it is observed that the alpha particles passing through gold foil are scattered through different angles. A movable screen (from $0^{\circ}$ to $180^{\circ}$) which is made up of zinc sulphide (ZnS) is kept on the other side of the gold foil to collect the scattered alpha particles. Whenever alpha particles strike the screen, a flash of light is observed which can be seen through a microscope.
+The experimental arrangement is shown in Figure 9.9. A source of alpha particles (radioactive material, example polonium) is kept inside a thick lead box with a fine hole as seen in Figure 9.9. The alpha particles coming through the fine hole of lead box pass through another fine hole made on the lead screen. These particles are now allowed to fall on a thin gold foil and it is observed that the alpha particles passing through gold foil are scattered through different angles. A movable screen (\(0^\circ \text{ to } 180^\circ\)) which is made up of zinc sulphide (ZnS) is kept on the other side of the gold foil to collect the scattered alpha particles. Whenever alpha particles strike the screen, a flash of light is observed which can be seen through a microscope.
 
 Rutherford proposed an atom model based on the results of alpha scattering experiment. In this experiment, alpha particles (positively charged particles) were allowed to fall on the atoms of a metallic gold foil. The results of this experiment are given below and are shown in Figure 9.10, Rutherford expected the atom model to be as seen in Figure 9.10 (a) but the experiment showed the model as in Figure 9.10 (b).
 
 (a) Most of the alpha particles were un-deflected through the gold foil and went straight.
 (b) Some of the alpha particles were deflected through a small angle.
-(c) A few alpha particles (one in thousand) were deflected through the angle more than $90^{\circ}$
-(d) Very few alpha particles returned back (back scattered) - that is, deflected back by $180^{\circ}$
+(c) A few alpha particles (one in thousand) were deflected through the angle more than \(90^\circ\)
+(d) Very few alpha particles returned back (back scattered) - that is, deflected back by \(180^\circ\)
 
 ![](9.10.png)
 
@@ -243,25 +265,27 @@ In Figure 9.10 (c), the dotted points are the alpha scattering experiment data p
 
 ## Conclusion made by Rutherford based on the above observation
 
-From the experimental observations, Rutherford proposed that an atom has a lot of empty space and contains a tiny matter at its centre known as nucleus whose size is of the order of $10^{- 14}\mathrm{m}$. The nucleus is positively charged and most of the mass of the atom is concentrated in the nucleus. The nucleus is surrounded by negatively charged electrons. Since static charge distribution cannot be in a stable equilibrium, he suggested that the electrons are not at rest and they revolve around the nucleus in circular orbits like planets revolving around the sun.
+From the experimental observations, Rutherford proposed that an atom has a lot of empty space and contains a tiny matter at its centre known as nucleus whose size is of the order of \(10^{-14}\) m. The nucleus is positively charged and most of the mass of the atom is concentrated in the nucleus. The nucleus is surrounded by negatively charged electrons. Since static charge distribution cannot be in a stable equilibrium, he suggested that the electrons are not at rest and they revolve around the nucleus in circular orbits like planets revolving around the sun.
 
 ![](9.11.png)
 
-When an alpha particle moves straight towards the nucleus, it reaches a point where it comes to rest momentarily and returns back as shown in Figure 9.11. The minimum distance between the centre of the nucleus and the alpha particle just before it gets reflected back through $180^{\circ}$ is defined as the distance of closest approach $\mathbf{r}_0$ (also known as contact distance). At this distance, all the kinetic energy of the alpha particle will be converted into electrostatic potential energy (Refer unit 1, volume 1 of $+2$ physics text book).
+When an alpha particle moves straight towards the nucleus, it reaches a point where it comes to rest momentarily and returns back as shown in Figure 9.11. The minimum distance between the centre of the nucleus and the alpha particle just before it gets reflected back through \(180^\circ\) is defined as the distance of closest approach \(r_0\) (also known as contact distance). At this distance, all the kinetic energy of the alpha particle will be converted into electrostatic potential energy (Refer unit 1, volume 1 of +2 physics text book).
 
 $$\frac{1}{2} m\nu_{0}^{2} = \frac{1}{4\pi\epsilon_{0}}\frac{(2e)(Ze)}{r_{0}}$$
 
 $$\Rightarrow r_0 = \frac{1}{4\pi\epsilon_0}\frac{2Ze^2}{\left(\frac{1}{2}m\nu_0^2\right)} = \frac{1}{4\pi\epsilon_0}\frac{2Ze^2}{E_k}$$
 
-where $E_{k}$ is the kinetic energy of the alpha particle. This is used to estimate the size of the nucleus but size of the nucleus is always lesser than the distance of closest approach. Further, Rutherford calculated the radius of the nucleus for different nuclei and found that it ranges from $10^{- 14}\mathrm{m}$ to $10^{- 15}\mathrm{m}$.
+where \(E_k\) is the kinetic energy of the alpha particle. This is used to estimate the size of the nucleus but size of the nucleus is always lesser than the distance of closest approach. Further, Rutherford calculated the radius of the nucleus for different nuclei and found that it ranges from \(10^{-14}\) m to \(10^{-15}\) m.
 
 ![](9.12.png)
 
-The impact parameter $(b)$ (see Figure 9.12) is defined as the perpendicular distance between the centre of the gold nucleus and the direction of velocity vector of alpha particle when it is at a large distance. The relation between impact parameter and scattering angle can be shown as
+The impact parameter *(b)* (see Figure 9.12) is defined as the perpendicular distance between the centre of the gold nucleus and the direction of velocity vector of alpha particle when it is at a large distance. The relation between impact parameter and scattering angle can be shown as
 
 $$b\propto \cot \left(\frac{\theta}{2}\right)\Rightarrow b = K\cot \left(\frac{\theta}{2}\right) \quad (9.13)$$
 
-where $K = \frac{1}{4\pi\epsilon_0}\frac{2Ze^2}{mv_0^2}$ and $\theta$ is called scattering angle. Equation (9.13) implies that when impact parameter increases, the scattering angle decreases. Smaller the impact parameter, larger will be the deflection of alpha particles.
+where \[
+K = \frac{1}{4\pi\epsilon_0}\frac{2Ze^2}{mv_0^2}
+\] and \(\theta\) is called scattering angle. Equation (9.13) implies that when impact parameter increases, the scattering angle decreases. Smaller the impact parameter, larger will be the deflection of alpha particles.
 
 ## Drawbacks of Rutherford model
 
@@ -289,39 +313,48 @@ In order to overcome the limitations of the Rutherford atom model in explaining 
 
 (b) Electrons in an atom revolve around the nucleus only in certain discrete orbits called stationary orbits and electron in such orbits do not radiate electromagnetic energy. Only those discrete orbits allowed are stable orbits.
 
-The angular momentum of the electron in these stationary orbits are quantized - that is, it can be written as an integer or integral multiple of $\frac{h}{2\pi}$ called as reduced Planck's constant - that is, $\hbar$ (read it as h- bar) and the integer $n$ is called as principal quantum number.
+The angular momentum of the electron in these stationary orbits are quantized - that is, it can be written as an integer or integral multiple of \[
+\frac{h}{2\pi}
+\] called as reduced Planck's constant - that is, \[
+\hbar
+\] (read it as h- bar) and the integer *n* is called as principal quantum number.
 
 $$l = n\hbar \qquad \text{where} \hbar = \frac{h}{2\pi}$$
 
 This condition is known as angular momentum quantization condition.
 
-According to quantum mechanics, particles like electrons have dual nature (Refer unit 8, volume 2 of $+2$ physics text book). The standing wave pattern of the de Broglie wave associated with orbiting electron in a stable orbit is shown in Figure 9.15.
+According to quantum mechanics, particles like electrons have dual nature (Refer unit 8, volume 2 of +2 physics text book). The standing wave pattern of the de Broglie wave associated with orbiting electron in a stable orbit is shown in Figure 9.15.
 
 ![](9.15.png)
 
-The circumference of an electron's orbit of radius $r$ must be an integral multiple of de Broglie wavelength - that is,
+The circumference of an electron's orbit of radius *r* must be an integral multiple of de Broglie wavelength - that is,
 
 $$2\pi r = n\lambda \qquad (9.14)$$
+where n = 1,2,3..
 
-But the de Broglie wavelength $(\lambda)$ associated with an electron of mass $m$ moving with velocity $\upsilon$ is $\lambda = \frac{h}{m\upsilon}$ where $h$ is called Planck's constant. Thus from equation (9.14),
+But the de Broglie wavelength \(\lambda\) associated with an electron of mass *m* moving with velocity \[
+\lambda = \frac{h}{m v}
+\] where *h* is called Planck's constant. Thus from equation (9.14),
 
 $$2\pi r = n\left(\frac{h}{m\upsilon}\right)$$ $$m\upsilon r = n\frac{h}{2\pi}$$
 
-For any particle of mass $m$ undergoing circular motion with radius $r$ and velocity $\upsilon$, the magnitude of angular momentum $l$ is given by
+For any particle of mass *m* undergoing circular motion with radius *r* and velocity \(\upsilon\), the magnitude of angular momentum *l* is given by
 
 $$l = r(m\upsilon)$$ $$m\upsilon r = l = n\hbar$$
 
-(c) Energy of the electron in orbits is not continuous but only discrete. This is called the quantization of energy. An electron can jump from one orbit to another orbit by absorbing or emitting a photon whose energy is equal to the difference in energy $(\Delta E)$ between the two orbital levels (Figure 9.16)
+(c) Energy of the electron in orbits is not continuous but only discrete. This is called the quantization of energy. An electron can jump from one orbit to another orbit by absorbing or emitting a photon whose energy is equal to the difference in energy \(\Delta\) E between the two orbital levels (Figure 9.16)
 
 $$\Delta E = E_{final} - E_{initial} = h\nu = h\frac{c}{\lambda}$$
 
-where $c$ is the speed of light and $\lambda$ is the wavelength and $\nu$ is the frequency of the radiation emitted. Thus, the frequency of the radiation emitted is related only to change in atomic energy levels and it does not depend on frequency of orbital motion of the electron.
+where *c* is the speed of light and \(\lambda\) is the wavelength and \(\nu\) is the frequency of the radiation emitted. Thus, the frequency of the radiation emitted is related only to change in atomic energy levels and it does not depend on frequency of orbital motion of the electron.
 
 ![](9.16.png)
 
 ## EXAMPLE 9.1
 
-The radius of the $5^{\mathrm{th}}$ orbit of hydrogen atom is $13.25\mathrm{\AA}$. Calculate the de broglie wavelength of the electron orbiting in the $5^{\mathrm{th}}$ orbit.
+The radius of the 5th orbit of hydrogen atom is \[13.25
+\mathring{A}
+\]. Calculate the de broglie wavelength of the electron orbiting in the 5th orbit.
 
 ## Solution:
 
@@ -329,7 +362,7 @@ $$2\pi r = n\lambda$$ $$2\times 3.14\times 13.25\dot{\mathrm{A}} = 5\times \lamb
 
 ## EXAMPLE 9.2
 
-Find the (i) angular momentum (ii) velocity of the electron revolving in the $5^{\mathrm{th}}$ orbit of hydrogen atom.
+Find the (i) angular momentum (ii) velocity of the electron revolving in the 5th orbit of hydrogen atom.
 
 $$(h = 6.6\times 10^{-34}\mathrm{Js},m = 9.1\times 10^{-31}\mathrm{kg})$$
 
@@ -345,11 +378,11 @@ $$\mathrm{Velocity}\ u = \frac{l}{mr}$$ $$\displaystyle = \frac{(5.25\times 10^{
 
 ## Radius of the orbit of the electron and velocity of the electron
 
-Consider an atom which contains the nucleus at rest and an electron revolving around the nucleus in a circular orbit of radius $r_{n}$ as shown in Figure 9.17. Nucleus is made up of protons and neutrons. Since proton is positively charged and neutron is electrically neutral, the charge of a nucleus is entirely due to the charge of protons.
+Consider an atom which contains the nucleus at rest and an electron revolving around the nucleus in a circular orbit of radius \(r_n\) as shown in Figure 9.17. Nucleus is made up of protons and neutrons. Since proton is positively charged and neutron is electrically neutral, the charge of a nucleus is entirely due to the charge of protons.
 
 ![](9.17.png)
 
-Let $Z$ be the atomic number of the atom, then $+Ze$ is the charge of the nucleus. Let $- e$ be the charge of the electron. From Coulomb's law, the force of attraction between the nucleus and the electron is
+Let *Z* be the atomic number of the atom, then *+Ze* is the charge of the nucleus. Let *- e* be the charge of the electron. From Coulomb's law, the force of attraction between the nucleus and the electron is
 
 $$\vec{F}_{\mathrm{coulomb}} = \frac{1}{4\pi\epsilon_0}\frac{(+Ze)(-e)}{r_n^2}\hat{r}$$ $$\displaystyle = -\frac{1}{4\pi\epsilon_0}\frac{Ze^2}{r_n^2}\hat{r}$$
 
@@ -357,45 +390,48 @@ This force provides necessary centripetal force
 
 $$\vec{F}_{\mathrm{centripetal}} = \frac{mv_n^2}{r_n}\hat{r}$$
 
-where $m$ be the mass of the electron that moves with a velocity $v_{n}$ in a circular orbit. Therefore,
+where *m* be the mass of the electron that moves with a velocity \(v_n\) in a circular orbit. Therefore,
 
 $$\left|\vec{F}_{\mathrm{coulomb}}\right| = \left|\vec{F}_{\mathrm{centripetal}}\right|$$
 
 $$\frac{1}{4\pi\epsilon_0}\frac{Ze^2}{r_n^2} = \frac{mv_n^2}{r_n}$$
 
-Multiplied and divided by $m$
+Multiplied and divided by *m*
 
 $$r_n = \frac{4\pi\epsilon_0(mv_nr_n)^2}{Zme^2} \quad (9.15)$$
 
-From Bohr's assumption, the angular momentum quantization condition, $mv_nr_n = l_n = n\hbar$
+From Bohr's assumption, the angular momentum quantization condition, *mv_nr_n = l_n = n\(\hbar\)*
 
 $$r_{n} = \frac{4\pi\epsilon_{0}(n\hbar)^{2}}{Zme^{2}} = \frac{4\pi\epsilon_{0}n^{2}\hbar^{2}}{Zme^{2}}$$
 
 $$r_{n} = \left(\frac{\epsilon_{0}h^{2}}{\pi m e^{2}}\right)\frac{n^{2}}{Z}\qquad (\because \hbar = \frac{h}{2\pi}) \quad (9.16)$$
 
-where $n\in \mathbb{N}$. Since, $\epsilon_{0}, h, e$ and $\pi$ are constants. Therefore, the radius of the orbit becomes
+where \(n \in \mathbb{N}\). Since, \(\epsilon_0\), \(h\), \(e\) and \(\pi\) are constants. Therefore, the radius of the orbit becomes
 
 $$r_{n} = a_{0}\frac{n^{2}}{Z}$$
 
-where $a_{0} = \frac{\epsilon_{0}h^{2}}{\pi m e^{2}} = 0.529\mathrm{\AA}$. This is known as Bohr radius which is the smallest radius of the orbit in hydrogen atom. Bohr radius is also used as unit of length called Bohr. 1 Bohr $= 0.53\mathrm{\AA}$. For hydrogen atom $(Z = 1)$ the radius of $\mathrm{n}^{\mathrm{th}}$ orbit is
+where \[
+a_0=\frac{\epsilon_0 h^2}{\pi m e^2}=0.529\,\text{Å}
+\]. This is known as Bohr radius which is the smallest radius of the orbit in hydrogen atom. Bohr radius is also used as unit of length called Bohr. 1 Bohr = 0.53 Å. For hydrogen atom (Z = 1),  
+the radius of n\(^\text{th}\) orbit is
 
 $$r_{n} = a_{0}n^{2}$$
 
-For $n = 1$ (first orbit or ground state),
+For *n = 1* (first orbit or ground state),
 
 $$r_{1} = a_{0} = 0.529\mathrm{\AA}$$
 
-For $n = 2$ (second orbit or first excited state),
+For *n = 2* (second orbit or first excited state),
 
 $$r_{2} = 4a_{0} = 2.116\mathrm{\AA}$$
 
-For $n = 3$ (third orbit or second excited state),
+For *n = 3* (third orbit or second excited state),
 
 $$r_{3} = 9a_{0} = 4.761\mathrm{\AA}$$
 
 and so on.
 
-Thus the radius of the orbit from centre increases with $n$, that is, $r_{n}\propto n^{2}$ as shown in Figure 9.18.
+Thus the radius of the orbit from centre increases with *n*, that is, $$ r_n \propto n^2 $$ as shown in Figure 9.18.
 
 Further, Bohr's angular momentum quantization condition leads to
 
@@ -405,68 +441,77 @@ $$\frac{mv_{n}a_{0}n^{2}}{Z} = n\frac{h}{2\pi}\left[\therefore r_{n} = a_{0}\fra
 
 $$v_{n} = \frac{h}{2\pi m a_{0}n}$$
 
-in atomic physics $v_{n}\propto \frac{1}{n}$
+in atomic physics $$ v_n \propto 1/n $$
 
 Note that the velocity of electron decreases as the principal quantum number (orbit number) increases as shown in Figure 9.19. This curve is the rectangular hyperbola. This implies that the velocity of electron in ground state is maximum when compared to that in excited states.
 
 ![](9.19.png)
 
-Since the electrostatic force is a conservative force, the potential energy for the $n^{\mathrm{th}}$ orbit is
+The energy of an electron in the nth orbit
+
+Since the electrostatic force is a conservative force, the potential energy for the nth orbit is
 
 $$U_{n} = \frac{1}{4\pi\epsilon_{0}}\frac{(+Ze)(-e)}{r_{n}} = -\frac{1}{4\pi\epsilon_{0}}\frac{Ze^{2}}{r_{n}}$$ $$\qquad = -\frac{1}{4\epsilon_{0}^{2}}\frac{Z^{2}me^{4}}{h^{2}n^{2}}\left(\because r_{n} = \frac{\epsilon_{0}h^{2}}{\pi m e^{2}}\frac{n^{2}}{Z}\right)$$
 
-The kinetic energy of the electron in $n^{\mathrm{th}}$ orbit is
+The kinetic energy of the electron in nth orbit is
 
 $$KE_{n} = \frac{1}{2} mv_{n}^{2} = \frac{me^{4}}{8\epsilon_{0}^{2}h^{2}}\frac{Z^{2}}{n^{2}}$$
 
-This implies that $U_{n} = - 2KE_{n}$. Total energy of the electron in in the $n^{\mathrm{th}}$ orbit is
+This implies that $$ U_n = -2 \text{ KE}_n. $$. Total energy of the electron in in the nth orbit is
 
 $$E_{n} = KE_{n} + U_{n} = KE_{n} - 2KE_{n} = -KE_{n}$$ $$E_{n} = -\frac{me^{4}}{8\epsilon_{0}^{2}h^{2}}\frac{Z^{2}}{n^{2}}$$
 
-For hydrogen atom $(Z = 1)$
+For hydrogen atom *(Z = 1)*
 
 $$E_{n} = -\frac{me^{4}}{8\epsilon_{0}^{2}h^{2}}\frac{1}{n^{2}}\mathrm{~joule} \quad (9.17)$$
 
-where $n$ stands for principal quantum number. The negative sign in equation (9.17) indicates that the electron is bound to the nucleus.
+where *n* stands for principal quantum number. The negative sign in equation (9.17) indicates that the electron is bound to the nucleus.
 
-Substituting the values of mass and charge of an electron $(m$ and $e$ ) permittivity of free space $\epsilon_{0}$ and Planck's constant $h$ and expressing energy in terms of electron $(+e V)$), we get
+Substituting the values of mass and charge of an electron (*m* and *e* ) permittivity of free space \(\epsilon_0\) and Planck's constant *h* and expressing energy in terms of electron (+(*e V*)), we get
 
 $$E_{n} = -13.6\frac{1}{n^{2}} eV$$
 
-For the first orbit (ground state), the total energy of electron is $E_{1} = - 13.6eV$ For the second orbit (first excited state), the total energy of electron is $E_{2} = - 3.4eV$ For the third orbit (second excited state), the total energy of electron is $E_{3} = - 1.51eV$ and so on.
+For the first orbit (ground state), the total energy of electron is \[ E_1 = -13.6 \, \text{eV}. \] For the second orbit (first excited state), the total energy of electron is \[ E_2 = -3.4 \, \text{eV}. \] For the third orbit (second excited state), the total energy of electron is \[ E_3 = -1.51 \, \text{eV}. \] and so on.
 
-Notice that the energy of the first excited state is greater than that of the ground state, second excited state is greater than that of the first excited state and so on. Thus, the orbit which is closest to the nucleus $(r_{1})$ has lowest energy (minimum energy what it is compared with other orbits). So, it is often called ground state energy (lowest energy state). The ground state energy of hydrogen $(- 13.6$ $eV)$ is used as a unit of energy called Rydberg $(1\mathrm{Rydberg} = - 13.6eV)$
-
+Notice that the energy of the first excited state is greater than that of the ground state, second excited state is greater than that of the first excited state and so on. Thus, the orbit which is closest to the nucleus \(r_1\) has lowest energy (minimum energy what it is compared with other orbits). So, it is often called ground state energy (lowest energy state). The ground state energy of hydrogen ($$ -13.6 \, \text{eV} $$) is used as a unit of energy called Rydberg \[ (1 \, \text{Rydberg} = -13.6 \, \text{eV}). \]
 The negative value of this energy is because of the way the zero of the potential energy is defined. When the electron is taken away to an infinite distance (very far distance) from nucleus, both the potential energy and kinetic energy terms vanish and hence the total energy also vanishes.
 
-The energy level diagram along with the shape of the orbits for increasing values of $n$ are shown in Figure 9.20. It shows that the energies of the excited states come closer and closer together when the principal quantum number $n$ takes higher values.
+The energy level diagram along with the shape of the orbits for increasing values of *n* are shown in Figure 9.20. It shows that the energies of the excited states come closer and closer together when the principal quantum number *n* takes higher values.
 
 ## EXAMPLE 9.3
 
-(a) Show that the ratio of velocity of an electron in the first Bohr orbit to the speed of light $c$ is a dimensionless number.
+(a) Show that the ratio of velocity of an electron in the first Bohr orbit to the speed of light *c* is a dimensionless number.
 (b) Compute the velocity of electrons in ground state, first excited state and second excited state in Bohr atom model for hydrogen atom.
 
 ## Solution
 
-(a) The velocity of an electron in $n^{\mathrm{th}}$ orbit is $\nu_{n} = \frac{h}{2\pi m a_{0}}\frac{Z}{n}$ where $a_{0} = \frac{\epsilon_{0}h^{2}}{\pi m e^{2}} =$ Bohr radius. Substituting for $a_{0}$ in $\nu_{n}$
+(a) The velocity of an electron in \( n^{th} \) orbit is
+
+\[v_n = \frac{h}{2\pi m a_0} \frac{Z}{n}\]
+
+where \( a_0 = \frac{\varepsilon_0 h^2}{\pi m e^2} = \) Bohr radius. Substituting
+
+for \( a_0 \) in \( v_n \),
 
 ![](9.20.png)
 
 $$\nu_{n} = \frac{e^{2}}{2\epsilon_{0}h}\frac{Z}{n} = c\left(\frac{e^{2}}{2\epsilon_{0}hc}\right)\frac{Z}{n} = \frac{\alpha cZ}{n}$$
 
-where $c$ is the speed of light in free space or vacuum and its value is $c = 3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1}$ and $\alpha$ is called fine structure constant.
+where *c* is the speed of light in free space or vacuum and its value is \[ c = 3 \times 10^8 \, \text{m s}^{-1} \] and \(\alpha\) is called fine structure constant.
 
-For a hydrogen atom, $Z = 1$ and for the first orbit, $n = 1$, the ratio of velocity of electron in first orbit to the speed of light in vacuum or free space is
+For a hydrogen atom, *Z = 1* and for the first orbit, *n = 1*, the ratio of velocity of electron in first orbit to the speed of light in vacuum or free space is
 
 $$\begin{array}{l}\frac{\nu_1}{c} = \alpha = \frac{e^2}{2\epsilon_0hc}\\ \alpha = \frac{(1.6\times 10^{-19}\mathrm{C})^2}{2\times(8.854\times 10^{-12}\mathrm{C}^2\mathrm{N}^{-1}\mathrm{m}^{-2})}\\ \times \frac{1}{(6.6\times 10^{-34}\mathrm{Nms})\times(3\times 10^8\mathrm{ms}^{-1})}\\ \approx \frac{1}{136.9} = \frac{1}{137} \end{array}$$
 
-number
+number.
+
+\[\Rightarrow \alpha = \frac{1}{137}\]
 
 (b) Using fine structure constant, the velocity of electron can be written as
 
 $$\nu_{n} = \frac{\alpha cZ}{n}$$
 
-For hydrogen atom $(Z = 1)$ the velocity of electron in $n^{\mathrm{th}}$ orbit is
+For hydrogen atom *(Z = 1)* the velocity of electron in nth orbit is
 
 $$\nu_{n} = \frac{c}{137}\frac{1}{n} = (2.19\times 10^{6})\frac{1}{n}\mathrm{ms}^{-1}$$
 
@@ -482,7 +527,7 @@ For the third orbit (second excited state), the velocity of electron is
 
 $$\nu_{3} = 0.73\times 10^{6}\mathrm{ms}^{-1}$$
 
-Here, $\nu_{1} > \nu_{2} > \nu_{3}$
+Here, \(v_0\)>\(v_1\)>\(v_2\)
 
 ## EXAMPLE 9.4
 
@@ -490,11 +535,11 @@ The Bohr atom model is derived with the assumption that the nucleus of the atom 
 
 ## Solution
 
-Let the mass of the electron be $m$ and mass of the nucleus be $M$. Since there is no external force acting on the system, the centre of mass of hydrogen atom remains at rest. Hence, both nucleus and electron move about the centre of mass as shown in figure.
+Let the mass of the electron be *m* and mass of the nucleus be *M*. Since there is no external force acting on the system, the centre of mass of hydrogen atom remains at rest. Hence, both nucleus and electron move about the centre of mass as shown in figure.
 
 ![](EX-9.4.png)
 
-Let $V$ be the velocity of the nuclear motion and $\nu$ be the velocity of electron motion. Since the total linear momentum of the system is zero,
+Let *V* be the velocity of the nuclear motion and \(\nu\) be the velocity of electron motion. Since the total linear momentum of the system is zero,
 
 $$-m\nu + M V = 0 \ \text{or}$$ $$M V = m\nu = p$$ $$\vec{p}_e + \vec{p}_n = \vec{0}\ \text{or}$$ $$\left|\vec{p}_e\right| = \left|\vec{p}_n\right| = p$$
 
@@ -506,7 +551,7 @@ Let $\frac{1}{M} +\frac{1}{m} = \frac{1}{\mu_m}$. Here the reduced mass
 
 $$\text{is}, \mu_m = \frac{mM}{M + m}$$
 
-Therefore, the kinetic energy of the system now is $KE = \frac{p^2}{2\mu_m}$
+Therefore, the kinetic energy of the system now is \[KE = \frac{p^2}{2\mu_{m}}\]
 
 Since the potential energy of the system is same, the total energy of the hydrogen can be expressed by replacing mass by reduced mass, which is
 
@@ -520,15 +565,6 @@ On calculating wavelength or wave number difference between the faint and bright
 
 The difference between hydrogen atom and deuterium is in the number of neutron. Hydrogen atom contains an electron and a proton, whereas deuterium has an electron, a proton and a neutron.
 
-# Unit 9: ATOMIC AND NUCLEAR PHYSICS (Continued)
-
-In 1931, H.C. Urey and co-workers noticed that in the shorter wavelength region of the hydrogen spectrum lines, faint companion lines are observed. From the isotope displacement effect (isotope shift), the isotope of the same element can produce slightly different spectral lines. The presence of these faint lines confirmed the existence of isotopes of hydrogen atom (which is named as Deuterium).
-
-On calculating wavelength or wave number difference between the faint and bright spectral lines, atomic mass of deuterium is measured to be twice that of atomic mass of hydrogen atom. Bohr atom model could not explain this isotopic shift. Thus by considering nuclear motion (although the movement of the nucleus is much smaller) into account in the Bohr atom model, the wave number or wavelength difference between the lines produced by the hydrogen atom and deuterium is theoretically calculated which perfectly agreed with the spectroscopic measured values.
-
-The difference between hydrogen atom and deuterium is in the number of neutron. Hydrogen atom contains an electron and a proton, whereas deuterium has an electron, a proton and a neutron.
-
-> **Note**
 
 ### Excitation energy and excitation potential
 
@@ -595,7 +631,7 @@ At normal room temperature, the electron in a hydrogen atom (Z=1) spends most of
 | Physical Quantity | Ground State | First Excited State | Second Excited State |
 |---|---|---|---|
 | Radius (\( r_n \propto n^2 \)) | 0.529 Å | 2.116 Å | 4.761 Å |
-| Velocity (\( v_n \propto n^{-1} \)) | \( 2.19 \times 10^6 \ \text{m s}^{-1} \) | \( 1.095 \times 10^6 \ \text{m s}^{-1} \) | \( 0.73 \times 10^6 \ \text{m s}^{-1} \) |
+| Velocity (\( v_n \propto n^{-1} \)) | \( 2.19 \times 10^6 \ \text{m s}^{-1} \) | \( 2.19 \times 10^6 \ \text{m s}^{-1} \)  | \( 0.73 \times 10^6 \ \text{m s}^{-1} \) |
 | Total Energy (\( E_n \propto n^{-2} \)) | -13.6 eV | -3.4 eV | -1.51 eV |
 
 The energy required to remove an electron from the ground state of an atom to the outer most orbit \( (E = 0 \ \text{for} \ n \rightarrow \infty) \) is known as first ionization energy \( (13.6 \ \text{eV}) \). Then, the hydrogen atom is said to be in ionized state or simply called as hydrogen ion, denoted by \( H^{+} \). If we supply more energy than the ionization energy, the excess energy appears as the kinetic energy of the free electron.
@@ -635,6 +671,8 @@ $$
 For \( n = 1 \), the ground state energy \( E_1 = -54.4 \ \text{eV} \) and for \( n = 2 \), \( E_2 = -13.6 \ \text{eV} \). Similarly, \( E_3 = -6.04 \ \text{eV} \), \( E_4 = -3.4 \ \text{eV} \) and so on.
 
 For large value of principal quantum number - that is, \( n = \infty \), we get \( E_{\infty} = 0 \ \text{eV} \).
+
+![](eg.png)
 
 (b) For a hydrogen-like atom, ground state energy is
 
@@ -742,9 +780,13 @@ When the hydrogen gas enclosed in a tube is heated up, it emits electromagnetic 
 
 When any gas is heated up, the thermal energy is supplied to excite the electrons. Similarly by allowing light to fall on the atoms, electrons can be excited. Once the electrons get sufficient energy as given by Bohr's postulate (c), it absorbs energy with particular wavelength (or frequency) and jumps from one stationary state (original state) to another state. The wavelengths (or frequencies) for the colours that are not observed are seen as dark lines in the absorption spectrum as shown in Figure 9.22 (b).
 
+![](fig.png)
+
 Since electrons in excited states have very small life time, these electrons jump back to ground state through spontaneous emission in a short duration of time (approximately \( 10^{-8} \ \text{s} \)) by emitting the radiation with same wavelength (or frequency) corresponding to the colours it absorbed (Figure 9.22 (a)). This is called emission spectroscopy.
 
 The wavelengths of these lines can be calculated with great precision. Further, the emitted radiation contains wavelengths both lesser and greater than wavelengths of lines in the visible spectrum.
+
+![](fig2.png)
 
 Notice that the spectral lines of hydrogen as shown in Figure 9.23 are grouped in separate series. In each series, the distance of separation between the consecutive wavelengths decreases from higher wavelength to the lower wavelength, and also wavelength in each series approach a limiting value known as the series limit. These series are named as Lyman series, Balmer series, Paschen series, Brackett series, Pfund series, etc. The wavelengths of these spectral lines perfectly agree with the wavelengths calculated using equation derived from Bohr atom model.
 
@@ -833,7 +875,9 @@ $$
 _{Z}^{A}X
 $$
 
-where \( X \) is the chemical symbol of the element, \( A \) is the mass number and \( Z \) is the atomic number. For example, the nitrogen nucleus is represented by \( ^{15}N \). It implies that nitrogen nucleus contains 15 nucleons of which 7 are protons \( (Z = 7) \) and 8 are neutrons \( (N = A - Z = 8) \). Note that once the element is specified, the value of \( Z \) is known and subscript \( Z \) is sometimes omitted. For example, nitrogen nucleus is simply denoted as \( ^{15}N \) and we call it as 'nitrogen fifteen'.
+where \( X \) is the chemical symbol of the element, \( A \) is the mass number and \( Z \) is the atomic number. For example, the nitrogen nucleus is represented by $$
+_{7}^{15}N
+$$. It implies that nitrogen nucleus contains 15 nucleons of which 7 are protons \( (Z = 7) \) and 8 are neutrons \( (N = A - Z = 8) \). Note that once the element is specified, the value of \( Z \) is known and subscript \( Z \) is sometimes omitted. For example, nitrogen nucleus is simply denoted as \( ^{15}N \) and we call it as 'nitrogen fifteen'.
 
 Since the nucleus is made up of positively charged protons and electrically neutral neutrons, the overall charge of the nucleus is positive and it has the value \( +Ze \). But the atom is electrically neutral which implies that the number of electrons in the atom is equal to the number of protons in the nucleus.
 
@@ -841,15 +885,17 @@ Since the nucleus is made up of positively charged protons and electrically neut
 
 #### Isotopes:
 
-In nature, there are atoms of a particular element whose nuclei have same number of protons but different number of neutrons. These kinds of atoms are called isotopes. In other words, isotopes are atoms of the same element having same atomic number \( Z \), but different mass number \( A \). For example, hydrogen has three isotopes and they are represented as \( ^{1}H \) (hydrogen), \( ^{2}H \) (deuterium), and \( ^{3}H \) (tritium). Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
+In nature, there are atoms of a particular element whose nuclei have same number of protons but different number of neutrons. These kinds of atoms are called isotopes. In other words, isotopes are atoms of the same element having same atomic number \( Z \), but different mass number \( A \). For example, hydrogen has three isotopes and they are represented as \(_1^1\text{H}\) (hydrogen),  
+\(_2^1\text{H}\) (deuterium), and \(_3^1\text{H}\) (tritium). Note that all the three nuclei have one proton and, hydrogen has no neutron, deuterium has 1 neutron and tritium has 2 neutrons.
 
-The number of isotopes for the particular element and their relative abundances (percentage) vary with each element. For example, carbon has four main isotopes: \( ^{11}C \), \( ^{12}C \), \( ^{13}C \) and \( ^{14}C \). But in nature, the percentage of \( ^{12}C \) is approximately \( 98.9\% \), that of \( ^{13}C \) is \( 1.1\% \) and that of \( ^{14}C \) is \( 0.0001\% \). The other carbon isotope \( ^{11}C \), does not occur naturally and it can be produced only in nuclear reactions in the laboratory or by cosmic rays.
+The number of isotopes for the particular element and their relative abundances (percentage) vary with each element. example, carbon has four main isotopes: example, carbon has four main isotopes: \( ^{11}_6C \), \( ^{12}_6C \), \( ^{13}_6C \) and \( ^{14}_6C \). But in nature, the percentage of \( ^{12}_6C \) is approximately 98.9 %, that of \( ^{13}_6C \) is 1.1% and that of \( ^{14}_6C \) is 0.0001%. The other  
+carbon isotope \( ^{11}_6C \), does not occur naturally and it can be produced only in nuclear reactions in the laboratory or by cosmic rays.
 
 Since the chemical properties of any atom are determined only by electrons, the isotopes of any element have same electronic structure and same chemical properties. So the isotopes of the same element are placed in the same location in the periodic table.
 
 #### Isobars:
 
-Isobars are the atoms of different elements having the same mass number \( A \), but different atomic number \( Z \). In other words, isobars are the atoms of different chemical elements which have same number of nucleons. For example \( ^{40}S \), \( ^{40}Cl \), \( ^{40}Ar \), \( ^{40}K \) and \( ^{40}Ca \) are isobars having same mass number 40 but different atomic numbers. Unlike isotopes, isobars are chemically different elements. They have different physical and chemical properties.
+Isobars are the atoms of different elements having the same mass number \( A \), but different atomic number \( Z \). In other words, isobars are the atoms of different chemical elements which have same number of nucleons. For example \( ^{40}_{16}S \), \( ^{40}_{17}Cl \), \( ^{40}_{18}Ar \), \( ^{40}_{19}K \) and \( ^{40}_{20}Ca \) are isobars having same mass number 40 but different atomic numbers. Unlike isotopes, isobars are chemically different elements. They have different physical and chemical properties.
 
 #### Isotones:
 
@@ -924,6 +970,8 @@ Nuclear density
 $$
 \rho = \frac{\text{mass of the nucleus}}{\text{Volume of the nucleus}} = \frac{A \cdot m}{\frac{4}{3} \pi R_0^{3} A} = \frac{m}{\frac{4}{3} \pi R_0^{3}}
 $$
+
+![](ex9.8.png)
 
 The above expression shows that the nuclear density is independent of the mass number \( A \). In other words, all the nuclei \( (Z > 10) \) have the same density and it is an important characteristic property of all nuclei.
 
@@ -1023,6 +1071,8 @@ $$
 
 The average binding energy per nucleon is the average energy required to separate single nucleon from the particular nucleus. When \( \overline{BE} \) is plotted against A of all known nuclei, we get \( \overline{BE} \) average curve as shown in Figure 9.24.
 
+![](9.24.png)
+
 #### Important inferences from the average binding energy curve:
 
 (1) The value of \( \overline{BE} \) rises as the mass number increases until it reaches a maximum value of \( 8.8 \ \text{MeV} \) for \( A = 56 \) (iron) and then it slowly decreases.
@@ -1066,6 +1116,8 @@ From this observation, it was concluded that there must be a strong attractive f
 (i) The nuclear force is of very short range, acting only up to a distance of a few fermi. But inside the nucleus, the repulsive Coulomb force or attractive gravitational forces between two protons are much weaker than the nuclear force between two protons. Similarly, the gravitational force between two neutrons is also much weaker than nuclear force between the neutrons. So nuclear force is the strongest force in nature.
 
 (ii) The nuclear force is attractive and acts with an equal strength between proton-proton, proton-neutron, and neutron-neutron.
+
+(iii) Nuclear force does not act on the electrons. So it does not alter the chemical properties of the atom.
 
 ## 9.6 RADIOACTIVITY
 
@@ -1177,12 +1229,6 @@ KE_{\alpha} = 57 KE_{Th} = 57 \times 0.093 = 5.301 \ \text{MeV}
 $$
 
 In fact, \( 98\% \) of total kinetic energy is taken by the \( \alpha \) particle.
-
-> **A very interesting application of alpha decay is in smoke detectors** which prevent us from any hazardous fire.
->
-> The smoke detector uses around \( 0.2 \ \text{mg} \) of man-made weak radioactive isotope called americium \( (^{241}_{95}Am) \). This radioactive source is placed between two oppositely charged metal plates and \( \alpha \) radiations from \( ^{241}_{95}Am \) continuously ionize the nitrogen, oxygen molecules in the air space between the plates. As a result, there will be a continuous flow of small steady current in the circuit. If smoke enters, the radiation is being absorbed by the smoke particles rather than air molecules. As a result, the ionization and along with it the current is reduced. This drop in current is detected by the circuit and alarm starts.
->
-> The radiation dosage emitted by americium is very much less than safe level, so it can be considered harmless.
 
 ### 9.6.2 Beta decay
 
