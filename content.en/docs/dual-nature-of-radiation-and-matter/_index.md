@@ -47,10 +47,8 @@ Free electrons possess some kinetic energy and this energy is different for diff
 
 The minimum energy needed for an electron to escape from the metal surface is called work function of that metal. The work function of the metal is denoted by $\Phi_0$ and is measured in electron volt (eV).
 
-**Note** The SI unit of energy is joule. But electron volt is a commonly used unit of energy in atomic and nuclear physics.
-
-One electron volt is defined as the kinetic energy gained by an electron when accelerated by a potential difference of 1 V.
-
+>**Note** The SI unit of energy is joule. But electron volt is a commonly used unit of energy in atomic and nuclear physics.
+>One electron volt is defined as the kinetic energy gained by an electron when accelerated by a potential difference of 1 V.
 $$
 1eV = \mathrm{KE} \text{ gained by the electron } = \text{Work done by the electric field} = qV = 1.602\times 10^{-19}\mathrm{C}\times 1\mathrm{V} = 1.602\times 10^{-19}\mathrm{J}
 $$
@@ -107,6 +105,7 @@ In order to improve the visibility of the spark, Hertz made many attempts and fi
 
 The reason for this behaviour of the spark was not known at that time. Later it was found that it is due to the photoelectric emission. Whenever ultraviolet light is incident on the metallic sphere, the electrons on the outer surface are emitted which caused the spark to be more vigorous.
 
+>**Do You Know**
 It is interesting to note that the experiment of Hertz confirmed that light is an electromagnetic wave. But the same experiment also produced the first evidence for particle nature of light.
 
 ##### Hallwachs' observation
@@ -156,6 +155,9 @@ To study the effect of intensity of incident light on photoelectric current, the
 ![](8.9.png)
 
 A graph is drawn between light intensity along x- axis and the photocurrent along y- axis. From the graph in Figure 8.9, it is evident that photocurrent - the number of electrons emitted per second - is directly proportional to the intensity of the incident light.
+
+>**Note** 
+Here, intensity of light means brightness. A bright light has more intensity than a dim light.
 
 ### 8.2.3 Effect of potential difference on photoelectric current
 
@@ -239,7 +241,9 @@ i) When light is incident on a metallic surface, there is a continuous supply of
 
 ii) According to wave theory, if a sufficiently intense beam of light is incident on the surface, electrons should be liberated from the surface of the target, however low the frequency of the radiation is. From the experiments, it is found that photoelectric emission is not possible below a certain minimum frequency of incident radiation. Therefore, the wave theory fails to explain the existence of threshold frequency.
 
-iii) Since the energy of light is spread across the entire wavefront, the electrons which receive energy from it are large in number. Each electron needs considerable amount of time (a few hours) to get energy sufficient to overcome the work function and to get liberated from the surface. But experiments show that photoelectric emission is almost instantaneous process (the time lag is less than $10^{-9}$ s after the surface is illuminated) which could not be explained by wave theory.
+iii) Since the energy of light is spread across the entire wavefront, the electrons which receive energy from it are large in number. Each electron needs considerable amount of time (a few hours) to get energy sufficient to overcome the work function and to get liberated from the surface. 
+
+But experiments show that photoelectric emission is almost instantaneous process (the time lag is less than $10^{-9}$ s after the surface is illuminated) which could not be explained by wave theory.
 
 Thus, the experimental observations of photoelectric emission could not be explained on the basis of the wave theory of light.
 
@@ -351,7 +355,7 @@ iv) Since photons are electrically neutral, they are unaffected by electric and 
 
 v) When a photon interacts with matter (photon- electron collision), the total energy, total linear momentum and angular momentum are conserved. Since photon may be absorbed or a new photon may be produced in such interactions, the number of photons may not be conserved.
 
-**Note** According to quantum concept, intensity of light of given wavelength is defined as the number of energy quanta or photons incident per unit area per unit time, with each photon having same energy. Its unit is $\mathrm{Wm}^{-2}$.
+>**Note** According to quantum concept, intensity of light of given wavelength is defined as the number of energy quanta or photons incident per unit area per unit time, with each photon having same energy. Its unit is $\mathrm{Wm}^{-2}$.
 
 ##### Einstein's explanation of photoelectric equation
 
@@ -425,6 +429,7 @@ It is therefore concluded that light possesses dual nature, that of both particl
 
 In other words, light behaves as a wave during its propagation and behaves as a particle during its interaction with matter. Both theories are necessary for complete description of physical phenomena. Hence, the wave nature and quantum nature complement each other.
 
+>**Do You Know**
 > A reader may find it difficult to understand how light can be both a wave and a stream of particle. This is the case even for great scientist like Albert Einstein.
 >
 > Einstein once wrote a letter to his friend Michel Besso in 1954 expressing his frustration:
@@ -525,7 +530,7 @@ Therefore, stopping potential $= 1\mathrm{V}$
 
 ## EXAMPLE 8.4
 
-The work function of potassium is $2.30\mathrm{eV}$. UV light of wavelength $3000\mathrm{\AA}$ and intensity $2\mathrm{Wm}^{-2}$ is incident on the potassium surface. i) Determine the maximum kinetic energy of the photo electrons ii) If $40\%$ of incident photons produce photo electrons, how many electrons are emitted per second if the area of the potassium surface is $2\mathrm{cm}^2$?
+The work function of potassium is $2.30\mathrm{eV}$. UV light of wavelength $3000\mathrm{\AA}$ and intensity $2\mathrm{Wm}^{-2}$ is incident on the potassium surface. i) Determine the maximum kinetic energy of the photo electrons ii) If 40% of incident photons produce photo electrons, how many electrons are emitted per second if the area of the potassium surface is $2\mathrm{cm}^2$?
 
 ## Solution:
 
@@ -670,11 +675,14 @@ The electrons scattered by Ni atoms in different directions are received by the 
 
 ![](8.18.png)
 
-It is to be noted that electrons are not the only particles with which wave nature can be demonstrated. The waves are associated with particles like neutrons and alpha particles also when they are in motion. They undergo diffraction when they are scattered by suitable crystals. Neutron diffraction studies are highly useful for investigating crystal structures.
+>**Note**
+>
+>It is to be noted that electrons are not the only particles with which wave nature can be demonstrated. The waves are associated with particles like neutrons and alpha particles also when they are in motion. They undergo diffraction when they are scattered by suitable crystals. Neutron diffraction studies are highly useful for investigating crystal structures.
 
-Diffraction is one of the properties of waves. Whenever waves are incident on an obstacle, they bend around the edges of the obstacle. This bending of waves is called diffraction. The amount of bending depends on the wavelength of the waves.
-
-We have learnt in unit 7 that as the wavelength of light is very small, diffraction effects of light are very small. In order to study diffraction of light, diffraction gratings are used. Since x- rays and de Broglie waves of electrons have wavelengths (in the order of $10^{-10}\mathrm{m}$) much shorter than that of the light wave, diffraction grating cannot be used in x- ray diffraction studies. In a crystal, the spacing between atomic planes is comparable to the wavelength of x- rays and de Broglie waves of electrons. Hence, in x- ray diffraction studies, the crystals are used which serve as three- dimensional grating.
+>**Note**
+>
+>Diffraction is one of the properties of waves. Whenever waves are incident on an obstacle, they bend around the edges of the obstacle. This bending of waves is called diffraction. The amount of bending depends on the wavelength of the waves.
+>We have learnt in unit 7 that as the wavelength of light is very small, diffraction effects of light are very small. In order to study diffraction of light, diffraction gratings are used. Since x- rays and de Broglie waves of electrons have wavelengths (in the order of $10^{-10}\mathrm{m}$) much shorter than that of the light wave, diffraction grating cannot be used in x- ray diffraction studies. In a crystal, the spacing between atomic planes is comparable to the wavelength of x- rays and de Broglie waves of electrons. Hence, in x- ray diffraction studies, the crystals are used which serve as three- dimensional grating.
 
 Figure 8.18 shows the variation of intensity of the scattered electrons with the angle $\theta$ for the accelerating voltage of $54\mathrm{V}$. For a given accelerating voltage $V$, the scattered wave shows a peak or maximum at an angle of $50^{\circ}$ to the incident electron beam. This peak in intensity is attributed to the constructive interference of electrons diffracted from various atomic layers of the target material. From the known value of interplanar spacing of Nickel, the wavelength of the electron wave was experimentally calculated as $1.65\mathrm{Å}$.
 
@@ -787,7 +795,11 @@ A proton and an electron have same de Broglie wavelength. Which of them moves fa
 
 ## Solution:
 
-We know that $\lambda = \frac{h}{\sqrt{2mK}}$. Since proton and electron have same de Broglie wavelength, we get
+We know that 
+$$
+\lambda = \frac{h}{\sqrt{2mK}}
+$$
+Since proton and electron have same de Broglie wavelength, we get
 
 $$
 \frac{h}{\sqrt{2m_p K_p}} = \frac{h}{\sqrt{2m_e K_e}} \quad \text{(or)} \quad \frac{K_p}{K_e} = \frac{m_e}{m_p}
