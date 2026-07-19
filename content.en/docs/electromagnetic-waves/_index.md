@@ -9,7 +9,7 @@ summary: "This unit explains the nature and production of electromagnetic waves,
 
 # ELECTROMAGNETIC WAVES
 
-"One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
+>"One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
 
 # 5.1 INTRODUCTION
 
@@ -129,6 +129,13 @@ In stars, due to thermal excitation of atoms, time- varying electric field is pr
 
 Even though Maxwell initially started with purely symmetry argument, his correction term explains one of the important aspects of the universe, namely the existence of electromagnetic waves.
 
+>**Note:**
+>Displacement current
+>The name stuck because
+>Maxwell named it. The word
+>displacement is poorly chosen because
+>nothing is being displaced here.
+
 ## EXAMPLE 5.1
 
 Consider a parallel plate capacitor which is connected to an $230~\mathrm{V}$ RMS value and $50\mathrm{Hz}$ frequency. If the separation distance between the plates of the capacitor and area of the plates are $1\mathrm{mm}$ and $20~\mathrm{cm}^2$ respectively. Calculate the displacement current at $t = 1$ s.
@@ -143,7 +150,7 @@ $$d = 1\mathrm{mm} = 1\times 10^{-3}\mathrm{m}$$ $$A = 20\mathrm{cm}^2 = 20\time
 
 $$\mathrm{Displacement~current},i_{d} = \epsilon_{0}\frac{d\Phi_{E}}{dt} = \epsilon_{0}\frac{d(\mathrm{EA})}{dt}$$
 
-$$\begin{array}{rl} & {\therefore i_{d} = \frac{\epsilon_{0}A}{d}\left|\frac{dV}{dt}\right|\quad \left|\because E = \frac{V}{d}\right|}\\ & {\qquad = \frac{\epsilon_{0}A}{d}(325)(100\pi)\cos 100\pi t}\\ & {\qquad = \left(\frac{8.85\times 10^{-12}\times 20\times 10^{-4}\times 325}{\times 100\times 3.14\times \cos(100\pi\times 1)}\right)\Bigg /(1\times 10^{-3})}\\ & {\qquad = 1.81\times 10^{-6}\mathrm{A} = 1.81\mu \mathrm{A}\quad \left[\because \cos (100\pi \times 1) = 1\right]} \end{array} \quad (1)$$
+\[\begin{array}{rl} & {\therefore i_{d} = \frac{\epsilon_{0}A}{d}\left|\frac{dV}{dt}\right|\quad \left|\because E = \frac{V}{d}\right|}\\ & {\qquad = \frac{\epsilon_{0}A}{d}(325)(100\pi)\cos 100\pi t}\\ & {\qquad = \left({8.85\times 10^{-12}\times 20\times 10^{-4}\times 325}{\times 100\times 3.14\times \cos(100\pi\times 1)}\right)\Bigg /(1\times 10^{-3})}\\ & {\qquad = 1.81\times 10^{-6}\mathrm{A} = 1.81\mu \mathrm{A}\quad \left[\because \cos (100\pi \times 1) = 1\right]} \end{array} \quad (1)\]
 
 #### 5.1.2 Maxwell's equations in integral form
 
@@ -153,7 +160,14 @@ Electrodynamics can be summarized in four basic equations, known as Maxwell's eq
 
 It is nothing but the Gauss's law of electricity. It relates the net electric flux to net electric charge enclosed in a surface. Mathematically, it is expressed as
 
-$$\oint \vec{E}\cdot d\vec{A} = \frac{Q_{\mathrm{enclosed}}}{\epsilon_{\mathrm{s}}} \quad (5.7)$$
+$$
+\oint_{S} \vec{E}\cdot d\vec{A} = \frac{Q_{\mathrm{enclosed}}}{\varepsilon_{0}}
+\qquad (5.7)
+$$
+
+$$
+\mathrm{(Gauss's~law~for~electricity)}
+$$
 
 where $\vec{E}$ is the electric field and $\mathrm{Q}$ enclosed is the net charge enclosed by the surface S. This equation is true for both discrete and continuous distribution of charges.
 
@@ -163,7 +177,7 @@ It also indicates that the electric field lines start from positive charge and t
 
 This law is similar to Gauss's law for electricity. So this law can also be called as Gauss's law for magnetism. The surface integral of magnetic field over a closed surface is zero. Mathematically,
 
-$$\oint \vec{B}\cdot d\vec{A} = 0$$ $$\mathrm{~s~}$$ $$\mathrm{~(Gauss's~law~for~magnetism)~}(5.8)$$
+$$\oint_{s} \vec{B}\cdot d\vec{A} = 0$$ $$\mathrm{~(Gauss's~law~for~magnetism)~}(5.8)$$
 
 where $\vec{B}$ is the magnetic field.
 
@@ -173,7 +187,7 @@ This equation implies that the magnetic lines of force form a continuous closed 
 
 It is Faraday's law of electromagnetic induction. This law relates electric field with the changing magnetic flux which is mathematically written as
 
-$$\oint \vec{E}\cdot d\vec{A} = -\frac{d}{dt}\Phi_B \quad (\mathrm{Faraday's~law}) \quad (5.9)$$
+$$\oint_{l} \vec{E}\cdot d\vec{A} = -\frac{d}{dt}\Phi_B \quad (\mathrm{Faraday's~law}) \quad (5.9)$$
 
 where $\vec{E}$ is the electric field. This equation implies that the line integral of the electric field around any closed path is equal to the rate of change of magnetic flux through the closed path bounded by the surface.
 
@@ -183,13 +197,14 @@ Our modern technological revolution is due to Faraday's laws of electromagnetic 
 
 It is modified Ampere's circuital law. This is also known as Ampere - Maxwell law. This law relates the magnetic field around any closed path to the conduction current and displacement current through that path.
 
-$$\oint \vec{B}\cdot d\vec{A} = \mu_0i_c + \mu_0\epsilon_0\frac{d}{ds}\oint \vec{E}\cdot d\vec{A} \quad (5.10)$$
+$$\oint_{l} \vec{B}\cdot d\vec{A} = \mu_0i_c + \mu_0\epsilon_0\frac{d}{ds}\oint_{s} \vec{E}\cdot d\vec{A} \quad (\mathrm{Ampere-Maxwell~law}) \quad (5.10)$$
 
 where $\vec{B}$ is the magnetic field. This equation shows that both conduction current and displacement current produce magnetic field.
 
 These four equations are known as Maxwell's equations in electrodynamics. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
 
 ![](5.7.png)
+
 
 ### 5.2 ELECTROMAGNETIC WAVES
 
@@ -230,6 +245,24 @@ where \( \epsilon_r \) is the relative permittivity of the medium (also known as
 $$
 \Delta p = \frac{U}{c} - \left( -\frac{U}{c} \right) = 2 \frac{U}{c}.
 $$
+
+>**Do you know?** 
+>+ It is surprising to realize that EM waves have linear momentum and angular
+momentum like particles. In the year 2018, Nobel prize in physics was awarded
+for the invention of optical tweezers and production of high intense light pulses.
+>* Optical tweezer is nothing but a laser light, used to move micro sized particles or
+molecules from one location to another location. It has a lot of applications in the medical
+field. The bacteria and virus can alone be separated from regular tissue using this optical
+tweezer and cancerous cells can be separated from normal healthy cells. The optical tweezer
+utilizes momentum property of EM waves.
+>+ In fact, the comet has tail shape because the sun light impart large amount of linear
+momentum which pushes the masses of the comet away from the sun.
+>* Angular momentum of EM waves can be understood in simple way. Consider a setup of
+oppositely-charged coaxial cylindrical shells and in between them a solenoid is kept. An AC current
+is flowing through it and when the current in the solenoid is reduced to zero, then the inner and
+outer cylindrical shells start to rotate in opposite directions. The rotation of these cylinders is due to
+the impart of angular momentum from the electromagnetic field produced by the AC current.
+
 
 ## EXAMPLE 5.2
 
@@ -309,15 +342,15 @@ It is produced by hot bodies (also known as heat waves) and also by when the mol
 
 It provides electrical energy to satellites by means of solar cells. It is used to produce dehydrated fruits, in green houses to keep the plants warm, heat therapy for muscular pain or sprain, TV remote as a signal carrier, to look through haze fog or mist and used in night vision or infrared photography.
 
-# ACTIVITY
-
-## Measuring the speed of light using the microwave oven
-
-Nowadays the microwave oven is very commonly used to heat the food items. Micro waves of wavelengths $1 \mathrm{mm}$ to $30 \mathrm{cm}$ are produced in these ovens. Such waves form the standing waves between the interior walls of the oven. It is interesting to note that the speed of light can be measured using micro wave oven.
-
-![](Activity.png)
-
-We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero and at antinodes point, the amplitude is maximum. In other words, the maximal energy of microwaves is located at antinode points. When we keep some food items like chappathi or chocolate (after removing the rotating platform) inside the oven, we can notice that at antinode locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) and (d). The distance between two successive burnt spots will give the half wavelength of microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength and frequency of microwaves, using the formula $v\lambda = c$ , we can calculate the speed of light c.
+>### ACTIVITY
+>
+>#### Measuring the speed of light using the microwave oven
+>
+>Nowadays the microwave oven is very commonly used to heat the food items. Micro waves of wavelengths $1 \mathrm{mm}$ to $30 \mathrm{cm}$ are produced in these ovens. Such waves form the standing waves between the interior walls of the oven. It is interesting to note that the speed of light can be measured using micro wave oven.
+>
+>![](Activity.png)
+>
+>We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero and at antinodes point, the amplitude is maximum. In other words, the maximal energy of microwaves is located at antinode points. When we keep some food items like chappathi or chocolate (after removing the rotating platform) inside the oven, we can notice that at antinode locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) and (d). The distance between two successive burnt spots will give the half wavelength of microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength and frequency of microwaves, using the formula $v\lambda = c$ , we can calculate the speed of light c.
 
 
 ##### Visible light
