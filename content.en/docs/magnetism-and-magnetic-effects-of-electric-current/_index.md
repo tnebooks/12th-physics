@@ -6,16 +6,17 @@ weight: 3
 summary: "This unit introduces the fundamentals of magnetism, starting with the Earth’s magnetic field, magnetic elements, and basic properties of magnets. It explains concepts like magnetic dipoles, fields produced by dipoles, and laws such as Coulomb’s inverse square law of magnetism and Biot–Savart law."
 ---
 
-# MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT
+# 3. MAGNETISM AND MAGNETIC EFFECTS OF ELECTRIC CURRENT
 
 > "The magnetic force is animate, or imitates a soul; in many respects it surpasses the human soul while it is united to an organic body" - William Gilbert
 
 ## 3.1 INTRODUCTION TO MAGNETISM
 
-![Magnetic levitation](img3.1.png)
+![Figure 3.1: Magnetic levitation](img3.1.png)
 
 
-Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open.
+Magnets! No doubt, their behaviour will attract everyone. The world enjoys their benefits, to lead a modern luxurious life. The study of magnets fascinated scientists around our globe for many centuries and even now, door for research on magnets is still open (Figure 3.1).
+
 ![](image.png)
 
 Magnetism exists everywhere from tiny particles like electrons to the entire universe. Historically the word 'magnetism' was derived from iron ore magnetite ($\mathrm{Fe_3O_4}$). In olden days, magnets were used as magnetic compass for navigation, magnetic therapy for treatment and also used in magic shows.
@@ -27,13 +28,11 @@ Earlier, both electricity and magnetism were thought to be two independent branc
 In this unit, basics of magnets and their properties are given. Later, how a current carrying conductor (here only steady current, not time-varying current is considered) behaves like a magnet is presented.
 
 
-![Uses of magnets in modern 
-world – (a) speakers (b) head phones 
-(c) MRI scan (d) Hard disc of laptop](a2.png)
+![Figure 3.2: Uses of magnets in modern world – (a) speakers (b) head phones  (c) MRI scan (d) Hard disc of laptop](a2.png)
 
 ### 3.1.1 Earth's magnetic field and magnetic elements
 
-![Earth’s magnetic field](img3.3.png)
+![Figure 3.3: Earth’s magnetic field](img3.3.png)
 
 
 From the activities performed in lower classes, you might have noticed that the needle in a magnetic compass or freely suspended magnet comes to rest in a position which is approximately along the geographical north-south direction of the Earth.
@@ -41,7 +40,7 @@ From the activities performed in lower classes, you might have noticed that the 
 ### Do You Know
 
 > William Gilbert in 1600 proposed that Earth itself behaves like a gigantic powerful bar magnet. But this theory is not successful because the temperature inside the Earth is very high and so it will not be possible for a magnet to retain its magnetism.
-
+>
 > Gover suggested that the Earth's magnetic field is due to hot rays coming out from the Sun. These rays will heat up the air near equatorial region. Once air becomes hotter, it rises above and will move towards northern and southern hemispheres and get electrified. This may be responsible to magnetize the ferromagnetic materials near the Earth's surface. Till date, so many theories have been proposed. But none of the theories completely explains the cause for the Earth's magnetism.
 
 The north pole of magnetic compass needle is attracted towards the magnetic south pole of the Earth which is near the geographic north pole. Similarly, the south pole of magnetic compass needle is attracted towards the magnetic north pole of the Earth which is near the geographic south pole.**The branch of physics which deals with the Earth's magnetic field is called Geomagnetism or Terrestrial magnetism.**
@@ -55,7 +54,7 @@ There are three quantities required to specify the magnetic field of the Earth o
 (c) the horizontal component of the Earth's magnetic field $(B_{H})$
 
 
-![Declination angle](img3.4.png)
+![Figure 3.4: Declination angle](img3.4.png)
 
 Day and night occur because Earth spins about an axis called geographic axis. A vertical plane passing through the geographic axis is called geographic meridian and a great circle perpendicular to Earth's geographic axis is called geographic equator.
 
@@ -67,7 +66,7 @@ When a magnetic needle is freely suspended, the alignment of the magnet does not
 
 Let $B_{E}$ be the net Earth's magnetic field at any point on the surface of the Earth. $B_{E}$ can be resolved into two perpendicular components.
 
-![Inclination angle](img3.5.png)
+![Figure 3.5: Inclination angle](img3.5.png)
 
 $$ \text{Horizontal component } B_{H} = B_{E}\cos I \quad (3.1) $$
 $$ \text{Vertical component } B_{V} = B_{E}\sin I \quad (3.2) $$
@@ -95,7 +94,7 @@ $$ B_{V} = B_{E} $$
 
 This implies that the vertical component is maximum at poles and horizontal component is zero at poles.
 
-## EXAMPLE 3.1
+ **EXAMPLE 3.1**
 
 The horizontal component and vertical component of Earth's magnetic field at a place are 0.15 G and 0.26 G respectively. Calculate the angle of dip and resultant magnetic field. (G - gauss, cgs unit for magnetic field $1\mathrm{G} = 10^{-4}\mathrm{T}$)
 
@@ -118,7 +117,7 @@ Some basic terminologies and properties used in describing bar magnet.
 
 Consider a bar magnet as shown in Figure 3.6. Let $q_{m}$ be the pole strength of the magnetic pole and let $l$ be the distance between the geometrical centre of bar magnet O and one end of the pole. The magnetic dipole moment is defined as the product of its pole strength and magnetic length. It is a vector quantity, denoted by $\vec{p}_{m}$.
 
-![ A bar magnet](img3.6.PNG)
+![Figure 3.6: A bar magnet](img3.6.PNG)
 
 $$ \vec{p}_{m} = q_{m}\vec{d} \quad (3.4) $$
 
@@ -152,9 +151,9 @@ The following are the properties of bar magnet:
 
 $$ \frac{\text{Magnetic length}}{\text{Geometrical length}} = \frac{5}{6} = 0.833 $$
 
-![Properties of bar magnet](img3.7.png)
+![Figure 3.7: Properties of bar magnet](img3.7.png)
 
-## EXAMPLE 3.2
+**EXAMPLE 3.2**
 
 Let the magnetic moment of a bar magnet be $p_m$ whose magnetic length is $d = 2l$ and pole strength is $q_m$. Compute the magnetic moment of the bar magnet when it is cut into two pieces
 
@@ -187,7 +186,7 @@ $p'_m = q_m \times \frac{1}{2}(2l) = \frac{1}{2}(q_m \cdot 2l) = \frac{1}{2}p_m$
 In vector notation, 
 $\vec{p}'_m = \frac{1}{2}\vec{p}_m$
 
-## EXAMPLE 3.3
+**EXAMPLE 3.3**
 
 Compute the magnetic length of a uniform bar magnet if the geometrical length of the magnet is $12\mathrm{cm}$. Mark the positions of magnetic pole points.
 
@@ -223,11 +222,11 @@ In this figure, the dot implies the pole points.
 
 **The number of magnetic field lines crossing any area normally is defined as magnetic flux $\Phi_{B}$ through the area.** Mathematically, the magnetic flux through a surface of area $\vec{A}$ in a uniform magnetic field $\vec{B}$ is defined as
 
->$$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
+$$ \Phi_{B} = \vec{B} \cdot \vec{A} = BA\cos \theta = B_{\perp}A \quad (3.6) $$
 
 where $\theta$ is the angle between $\vec{B}$ and $\vec{A}$ as shown in Figure 3.8.
 
-![Magnetic flux](img3.8.png)
+![Figure 3.8: Magnetic flux](img3.8.png)
 
 **Special cases:**
 
@@ -249,13 +248,13 @@ The magnetic flux density is defined as the number of magnetic field lines cross
 
 **Uniform magnetic field:** Magnetic field is said to be uniform if it has same magnitude and direction at all the points in a given region. Example: locally Earth's magnetic field is uniform.
 
-![Uniform magnetic field](img3.9.png)
+![Figure 3.9: Uniform magnetic field](img3.9.png)
 
 **Non-uniform magnetic field:** Magnetic field is said to be non-uniform if the magnitude or direction or both vary at different points in a region. Example: magnetic field of a bar magnet
 
-![Non-uniform magnetic field (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet](img3.10.png)
+![Figure 3.10: Non-uniform magnetic field (a) direction is constant (b) direction is not a constant (c) both magnitude and direction are not constant (d) magnetic field of a bar magnet](img3.10.png)
 
-## EXAMPLE 3.4
+**EXAMPLE 3.4**
 
 Calculate the magnetic flux coming out from closed surface containing magnetic dipole (say, a bar magnet) as shown in figure.
 
@@ -279,7 +278,7 @@ Consider two bar magnets A and B as shown in Figure 3.11. When the north pole of
 
 On the other hand, when the north pole of magnet A and the south pole of magnet B or the south pole of magnet A and the north pole of magnet B are brought closer, their poles attract each other.
 
-![Magnetic poles behave like electric charges - like poles repel and unlike poles attract](img3.11.png)
+![Figure 3.11: Magnetic poles behave like electric charges - like poles repel and unlike poles attract](img3.11.png)
 
 This looks similar to Coulomb's law for static charges studied in Unit I (opposite charges attract and like charges repel each other). So analogous to Coulomb's law in electrostatics, we can state Coulomb's law for magnetism (Figure 3.12) as follows:
 
@@ -299,7 +298,7 @@ where $k$ is a proportionality constant whose value depends on the surrounding m
 
 ![Coulomb's law - force between two magnetic poles](img3.12.png)
 
-## EXAMPLE 3.5
+**EXAMPLE 3.5**
 
 The repulsive force between two magnetic poles in air is $9 \times 10^{-3} \mathrm{N}$. If the two poles are equal in strength and are separated by a distance of $10 \mathrm{cm}$, calculate the pole strength of each pole.
 
@@ -319,7 +318,7 @@ $$ 9 \times 10^{-3} = 10^{-7} \times \frac{q_m^2}{(10 \times 10^{-2})^2} \Righta
 
 Consider a bar magnet NS as shown in Figure 3.13. Let N be the north pole and S be the south pole of the bar magnet, each of pole strength $q_{m}$ and are separated by a distance of $2l$. The magnetic field at a point C (lies along the axis of the magnet) at a distance $r$ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole $(q_{m_C} = 1 \text{ A m})$ at C.
 
-![ Magnetic field at a point along the axial line due to magnetic dipole](img3.13.png)
+![Figure 3.13: Magnetic field at a point along the axial line due to magnetic dipole](img3.13.png)
 
 The magnetic field at C due to the north pole is
 
@@ -363,7 +362,7 @@ where $\vec{p}_m = p_m \hat{i}$.
 
 Consider a bar magnet NS as shown in Figure 3.14. Let N be the north pole and S be the south pole of the bar magnet, each with pole strength $q_{m}$ and separated by a distance of $2l$. The magnetic field at a point C (lies along the equatorial line) at a distance $r$ from the geometrical centre O of the bar magnet can be computed by keeping unit north pole $(q_{mC} = 1 \text{ A m})$ at C.
 
-![Magnetic field at a point along the equatorial line due to a magnetic dipole](img3.14.png)
+![Figure 3.14: Magnetic field at a point along the equatorial line due to a magnetic dipole](img3.14.png)
 
 The magnetic field at C due to the north pole is
 
@@ -371,7 +370,7 @@ $$ \vec{B}_N = -B_N\cos \theta \hat{i} + B_N\sin \theta \hat{j} \quad (3.15) $$
 
 where $B_N = \frac{\mu_0}{4\pi} \frac{q_m}{r^{\prime 2}}$ and $r^{\prime} = (r^2 + l^2)^{\frac{1}{2}}$
 
-![Components of magnetic field](img3.15.png)
+![Figure 3.15: Components of magnetic field](img3.15.png)
 
 The magnetic field at C due to the south pole is
 
@@ -411,7 +410,8 @@ $$ \vec{B}_{\text{equatorial}} = -\frac{\mu_0}{4\pi} \frac{\vec{p}_m}{r^3} \quad
 
 Note that magnitude of $B_{\text{axial}}$ is twice that of magnitude of $B_{\text{equatorial}}$ and the direction of $B_{\text{axial}}$ and $B_{\text{equatorial}}$ are opposite.
 
-## EXAMPLE 3.6
+
+**EXAMPLE 3.6**
 
 A short bar magnet has a magnetic moment of $0.5 \text{ J T}^{-1}$. Calculate magnitude and direction of the magnetic field produced by the bar magnet which is kept at a distance of $0.1 \text{ m}$ from the centre of the bar magnet along (a) axial line of the bar magnet and (b) normal bisector of the bar magnet.
 
@@ -530,7 +530,7 @@ $$
 
 ---
 
-### Case 1
+**Case 1**
 
 (i) If $\theta = 0^\circ$, then
 
@@ -546,7 +546,7 @@ $$
 
 From the above two results, we infer that the potential energy of the bar magnet is minimum when it is aligned along the external magnetic field and maximum when the bar magnet is aligned anti-parallel to external magnetic field.
 
-## EXAMPLE 3.7
+**EXAMPLE 3.7**
 
 Consider a magnetic dipole which on switching ON external magnetic field orient only in two possible ways i.e., one along the direction of the magnetic field (parallel to the field) and another anti-parallel to magnetic field. Compute the energy for the possible orientation.
 
@@ -645,7 +645,7 @@ It is a dimensionless quantity. Magnetic susceptibility for some of the isotropi
 | Carbon dioxide (1 atm) | $-2.3 \times 10^{-9}$ |
 | Oxygen (1 atm) | $2090 \times 10^{-9}$ |
 
-### EXAMPLE 3.8
+**EXAMPLE 3.8**
 
 Compute the intensity of magnetisation of the bar magnet whose mass, magnetic moment and density are $200 \text{ g}$, $2 \text{ A m}^2$ and $8 \text{ g cm}^{-3}$, respectively.
 
@@ -665,7 +665,7 @@ $$ M = \frac{\text{Magnetic moment}}{\text{Volume}} = \frac{2}{25 \times 10^{-6}
 
 $$ M = 0.8 \times 10^{5} \text{ A m}^{-1} $$
 
-### EXAMPLE 3.9
+**EXAMPLE 3.9**
 
 Using the relation $\vec{B} = \mu_0(\vec{H} + \vec{M})$, show that $\chi_m = \mu_r - 1$.
 
@@ -683,7 +683,7 @@ where $\mu = \mu_0(\chi_m + 1) \Rightarrow \chi_m + 1 = \frac{\mu}{\mu_0} = \mu_
 
 $$ \Rightarrow \chi_m = \mu_r - 1 $$
 
-### EXAMPLE 3.10
+**EXAMPLE 3.10**
 
 Two materials X and Y are magnetised whose values of intensity of magnetisation are $500 \text{ A m}^{-1}$ and $2000 \text{ A m}^{-1}$ respectively. If the magnetising field is $1000 \text{ A m}^{-1}$, then which one among these materials can be easily magnetized?
 
@@ -717,11 +717,16 @@ This action is called diamagnetic action and such materials are known as diamagn
 **Properties of diamagnetic materials:**
 
 i) Magnetic susceptibility is negative.
+
 ii) Relative permeability is slightly less than unity.
+
 iii) The magnetic field lines are repelled or expelled by diamagnetic materials when placed in a magnetic field.
+
 iv) Susceptibility is nearly temperature independent.
 
-![Meissner effect - superconductors behave like perfect diamagnetic materials below transition temperature $T_c$](img3.18.png)
+>**Note:**
+>Superconductors are perfect diamagnetic materials. The expulsion of magnetic flux from a superconductor during its transition to the superconducting state is known as **Meissner effect**. (see figure 3.18)
+>![Figure 3.18: Meissner effect - superconductors behave like perfect diamagnetic materials below transition temperature $T_c$](img3.18.png)
 
 **(b) Paramagnetic materials**s
 
@@ -755,7 +760,7 @@ $$ \chi_m \propto \frac{1}{T} \text{ or } \chi_m = \frac{C}{T} $$
 
 This relation is called Curie's law. Here $C$ is called Curie constant and temperature $T$ is in kelvin. The graph drawn between magnetic susceptibility and temperature is shown in Figure 3.19, which is a rectangular hyperbola.
 
-![Curie's law - susceptibility vs temperature](img3.19.png)
+![Figure 3.19: Curie's law - susceptibility vs temperature](img3.19.png)
 
 **(c) Ferromagnetic materials**
 
@@ -877,11 +882,12 @@ $$ \chi_m = \frac{M}{H} $$
 
 ## 3.7 MAGNETIC EFFECTS OF ELECTRIC CURRENT
 
-![Oersted's experiment - current carrying wire and deflection of magnetic needle](img3.25.png)
 
 ### 3.7.1 Oersted experiment
 
 In 1820 Hans Christian Oersted, while preparing for his lecture in physics, noticed that electric current passing through a wire deflects the nearby magnetic needle in the compass. By proper investigation, he observed that the deflection of magnetic needle is due to the change in magnetic field produced around current carrying conductor (Figure 3.25). When the direction of current is reversed, the magnetic needle is deflected in the opposite direction. This lead to the development of the theory 'electromagnetism' which unifies two branches in physics namely, electricity and magnetism.
+
+![Oersted's experiment - current carrying wire and deflection of magnetic needle](img3.25.png)
 
 ### 3.7.2 Magnetic field around a straight current-carrying conductor and circular loop
 
@@ -937,8 +943,11 @@ Soon after Oersted's discovery, both Jean-Baptiste Biot and Felix Savart in 1819
 Biot and Savart experimentally observed that the magnitude of magnetic field $d\vec{B}$ at a point P (Figure 3.30) at a distance $r$ from the small elemental length taken on a conductor carrying current varies
 
 (i) directly as the strength of the current $I$
+
 (ii) directly as the magnitude of the length element $d\vec{l}$
+
 (iii) directly as the sine of the angle $\theta$ between $d\vec{l}$ and $\hat{r}$
+
 (iv) inversely as the square of the distance $r$ between the point P and length element $d\vec{l}$
 
 This is expressed as
@@ -969,7 +978,6 @@ where the integral is taken over the entire current distribution.
 ### Cases
 
 1. If the point P lies on the conductor, then $\theta = 0^\circ.$ Therefore, \( |d\vec{B}| \) is zero.
-
 2. If the point lies perpendicular to the conductor, then $\theta = 90^\circ. $ Therefore, \( d\vec{B} \) is maximum and is given by $d\vec{B} = \frac{\mu_0}{4\pi} \frac{Idl}{r^2} \hat{n}$ where \( \hat{n} \) is the unit vector perpendicular to both \( I d\vec{l} \) and \( \hat{r} \).
 
 > **Note:** Electric current is not a vector quantity. It is a scalar quantity. But electric current in a conductor has direction of flow. Therefore, the electric current flowing in a small elemental conductor can be taken as vector quantity i.e. $I\,d\vec{l}$
@@ -979,7 +987,7 @@ where the integral is taken over the entire current distribution.
 Electric and magnetic fields
 - obey inverse square law, so they are long range fields.
 - obey the principle of superposition and are linear with respect to source. In magnitude,
-  $E \propto q$, $B \propto Idl$
+  $$E \propto q$$, $$B \propto Idl$$
 
 **Differences between electric field (from Coulomb's law) and magnetic field (from Biot-Savart's law):**
 
@@ -1143,6 +1151,7 @@ At the centre of turn table, there is a small upright projection on which a comp
 In the tangent galvanometer experiment, when no current is passed through the coil, the small magnetic needle lies along horizontal component of Earth's magnetic field. When the circuit is closed, the electric current will pass through the circular coil and produce magnetic field at the centre of the coil. Now there are two fields which are acting mutually perpendicular to each other. They are:
 
 (1) the magnetic field $(B)$ due to the electric current in the coil acting normal to the plane of the coil.
+
 (2) the horizontal component of Earth's magnetic field $(B_H)$
 
 Because of these crossed fields, the pivoted magnetic needle deflects through an angle $\theta$. From tangent law (equation 3.39),
@@ -1419,7 +1428,7 @@ $$ \int_a^b \vec{B} \cdot d\vec{l} = B L = \mu_0 N I \Rightarrow B = \mu_0 \frac
 
 The number of turns per unit length is given by $\frac{N}{L} = n$, Then
 
-$$ B = \mu_0 \frac{n L I}{L} = \mu_0 n I \quad (3.53) $$
+$$ B = \mu_0 \frac{n L I}{L} = \mu_0 n I \quad (3.52) $$
 
 Since $n$ is a constant for a given solenoid and $\mu_0$ is also constant. For a fixed current $I$, the magnetic field inside the solenoid is also a constant.
 
@@ -1537,7 +1546,7 @@ $$ B_S = \mu_0 \frac{NI}{2\pi r_2} $$
 
 If the number of turns per unit length $n = \frac{N}{2\pi r_2}$, then the magnetic field at point S is
 
-$$ B_S = \mu_0 n I \quad (3.54) $$
+$$ B_S = \mu_0 n I \quad (3.53) $$
 
 ## 3.10 LORENTZ FORCE
 
@@ -2054,7 +2063,7 @@ The force between two parallel current carrying conductors is repulsive if they 
 
 One ampere is defined as that constant current which when passed through each of the two infinitely long parallel straight conductors kept side by side parallelly at a distance of one metre apart in air or vacuum causes each conductor to experience a force of $2 \times 10^{-7}$ newton per metre length of conductor.
 
-> **Important Notes**
+> **Did You Know?**
 >
 > In November 2018, however, the redefinition of the ampere — along with three other SI base units: the kilogram (mass), kelvin (temperature) and mole (amount of substance) — was approved.
 >
@@ -2318,29 +2327,30 @@ A voltmeter must have high resistance and when it is connected in parallel, it w
 
 ![High resistance connected in series](fig3.62.png)
 
-A galvanometer is converted into a voltmeter by connecting high resistance \( R_h \) in series with galvanometer. The scale is now calibrated in volt and the range depends on the values of the resistance \( R_h \).
+A galvanometer is converted into a voltmeter by connecting high resistance $R_h$ in series with galvanometer as shown in Figure 3.62. The scale is now calibrated in volt and the range of voltmeter depends on the values of the resistance $R_h$ connected in series i.e. the value of resistance is so adjusted so that current $I_g$ produces full scale deflection in the galvanometer.
 
-Let \( R_g \) be the resistance of galvanometer and \( I_g \) be the current for full scale deflection. Since the galvanometer is connected in series with high resistance, the current in the circuit is same as the current passing through the galvanometer.
+Let $R_g$ be the resistance of galvanometer and $I_g$ be the current with which the galvanometer produces full scale deflection. Since the galvanometer is connected in series with high resistance, the current in the electrical circuit is same as the current passing through the galvanometer.
+$$I = I_g \implies I_g = \frac{\text{potential difference}}{\text{total resistance}}$$
 
-\[
-I_g = \frac{V}{R_g + R_h} \Rightarrow R_h = \frac{V}{I_g} - R_g
-\]
+Since the galvanometer and high resistance are connected in series, the total resistance or effective resistance in the circuit is the sum of their resistances. This gives the resistance of voltmeter. Thus the voltmeter resistance is
 
-The voltmeter resistance is:
+$$R_v = R_g + R_h$$
 
-\[
-R_v = R_g + R_h
-\]
+Therefore,
+
+$$I_g = \frac{V}{R_g + R_h} \implies R_h = \frac{V}{I_g} - R_g$$
+
+Note that $I_g \propto V$
+
+The deflection in the galvanometer is proportional to current $I_g$. But current $I_g$ is proportional to the potential difference. Hence the deflection in the galvanometer is a measure of potential difference. Since the resistance of voltmeter is very large, a voltmeter connected in parallel in an electrical circuit will draw least current in the circuit. An ideal voltmeter is one which has infinite resistance.
 
 **Key points:**
 
-1. Voltmeter is a high resistance instrument and it is always connected in parallel.
+1. Voltmeter is a high resistance instrument and it is always connected in parallel with the circuit element across which the potential difference is to be measured.
 2. An ideal voltmeter has infinite resistance.
-3. In order to increase the range of voltmeter \( n \) times:
+3. In order to increase the range of voltmeter $n$ times the value of resistance to be connected in series with galvanometer is
 
-\[
-R_h = (n - 1) R_g
-\]
+$$R_h = (n - 1)R_g$$
 
 ---
 
