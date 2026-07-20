@@ -13,7 +13,7 @@ summary: "This unit explains the nature and production of electromagnetic waves,
 
 # 5.1 INTRODUCTION
 
-![](5.1.png)
+![Fig 5.1 Visible spectrum - rainbow and lightning](5.1.png)
 
 We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure and properties of various things from atom to universe. Without light, even our eyes cannot see objects. What is light?. This puzzle made many physicists sleepless until middle of \(19^{\mathrm{th}}\) century. Earlier, many scientists thought that optics and electromagnetism are two different branches of physics. But from the work of James Clerk Maxwell, who actually enlightened the concept of light from his theoretical prediction that light is an electromagnetic wave which moves with the speed equal to \(3\times 10^{8}\mathrm{ms}^{- 1}\) (in free space or vacuum). Later, it was confirmed that visible light is just only small portion of electromagnetic spectrum, which ranges from gamma rays to radio waves.
 
@@ -22,7 +22,7 @@ In unit 4, we studied that time varying magnetic field produces an electric fiel
 ![](img_1.png)
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell's prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
-![](5.2.png)
+![Fig 5.2 (a) Cell phone tower and cell phone (b) X-ray radiograph](5.2.png)
 
 In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in our day to day life. It is a faster and more effective mode of transferring information from one place to another. It works on the basis that light is an electromagnetic wave. In hospitals, the location of bone fracture can be detected using X- rays as shown in Figure 5.2 (b), which is also an electromagnetic wave. For cooking microwave oven is used. The microwave is also an electromagnetic wave. There are plenty of applications of electromagnetic waves in engineering, medicine (example LASER surgery, etc), defence (example, RADAR signals) and also in fundamental scientific research. In this unit, basics of electromagnetic waves are discussed.
 
@@ -73,7 +73,7 @@ In order to understand how the changing electric field induces magnetic field, l
 
 Let a time- dependent current $i_{c}$ called conduction current be passed through the wire to charge the capacitor.
 
-![](5.3.png)
+![Fig 5.3 Applying Ampere's circuital law - loop enclosing surface](5.3.png)
 
 Ampere's circuital law can be used to find the magnetic field produced around the current carrying wire.
 
@@ -83,7 +83,7 @@ $$\oint_{\mathrm{enclosing} S_{1}}\vec{B}\cdot d\vec{l} = \mu_{0}i_{c} \quad (5.
 
 where $\mu_{0}$ is the permeability of free space.
 
-![](5.4.png)
+![Fig 5.4 Applying Ampere's circuital law - loop enclosing surface S₂](5.4.png)
 
 Now, the same loop is enclosed by balloon shaped surface $S_{2}$ such that boundaries of two surfaces $S_{1}$ and $S_{2}$ are same but the shape of the surfaces is different (Figure 5.4). As Ampere's law applied for a given closed loop does not depend on the shape of the enclosing surface, the integrals should give the same answer. But by applying Ampere's circuital law for the surface $S_{2}$ , we get
 
@@ -93,7 +93,7 @@ The right hand side of equation is zero because the surface $S_{2}$ nowhere touc
 
 Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time- varying electric field (or time- varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor (Figure 5.5).
 
-![](5.5.png)
+![Fig 5.5 Applying Gauss's law between the plates of the capacitor](5.5.png)
 
 From Gauss's law of electrostatics, the electric flux between the plates of the capacitor is
 
@@ -115,7 +115,7 @@ where the total current enclosed by the surface becomes the sum of conduction cu
 
 Between the plates, the conduction current is zero while the displacement current is non- zero. This displacement current or time- varying electric field can also produce a magnetic field between the plates of the capacitor. The magnetic field at a point inside the capacitor is perpendicular to the electric field and is shown in Figure 5.6. This magnetic field can be determined using equation (5.6).
 
-![](5.6.png)
+![Fig 5.6 Magnetic field produced by conduction and displacement currents](5.6.png)
 
 ## Importance of Maxwell's correction:
 
@@ -203,7 +203,7 @@ where $\vec{B}$ is the magnetic field. This equation shows that both conduction 
 
 These four equations are known as Maxwell's equations in electrodynamics. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
 
-![](5.7.png)
+![Fig 5.7 (a) Heinrich Rudolf Hertz (b) Schematic diagram of Hertz apparatus](5.7.png)
 
 
 ### 5.2 ELECTROMAGNETIC WAVES
@@ -228,7 +228,7 @@ If the receiver is rotated by $90^{\circ}$ , then no spark is observed by the re
 2. Electromagnetic waves do not require any medium for propagation. So electromagnetic wave is a non-mechanical wave.
 3. Electromagnetic waves are transverse in nature. The oscillating electric field vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to each other.For example, if the electric and magnetic fields are as shown in Figure 5.8, then the direction of propagation will be along x-direction.
 
-![](5.8.png)
+![Fig 5.8 Electromagnetic waves - transverse wave](5.8.png)
 
 4. Electromagnetic waves travel with speed which is equal to the speed of light in vacuum or free space,$$c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} = 3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1}$$, where $\epsilon_0$ is the permittivity of free space or vacuum and $\mu_0$ is the permeability of free space or vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
 5. In a medium with permittivity ε and permeability μ, the speed of electromagnetic wave v is less than that in free space or vacuum (v < c).
@@ -290,7 +290,7 @@ $$E_{x} = E_{0}\sin (kz - \omega t)$$ $$B_{y} = B_{0}\sin (kz - \omega t)$$
 
 where $E_{\mathrm{o}}$ and $B_{\mathrm{o}}$ are amplitudes of oscillating electric and magnetic field, $k$ is a wave number, $\omega$ is the angular frequency of the
 
-![](5.9.png)
+![Fig 5.9 Oscillating charges - sources of electromagnetic waves](5.9.png)
 
  wave and $\hat{k}$ (unit vector, here it is called propagation vector) denotes the direction of propagation of electromagnetic wave.
 
@@ -320,7 +320,7 @@ $$v = \frac{3\times 10^{4}}{2\times 10^{-4}} = 1.5\times 10^{8}m s^{-1}$$
 
 #### 5.2.3 Electromagnetic spectrum
 
-![](5.10.png)
+![Fig 5.10 Electromagnetic Spectrum](5.10.png)
 
 Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency (Figure 5.10).
 
@@ -405,12 +405,12 @@ This magnetic field can be easily produced with a permanent magnet. So, electrom
 
 When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
 
-![](5.11.png)
+![Fig 5.11 Black body radiation spectrum - variation with temperature](5.11.png)
  is called black body spectrum (Refer XI Physics Unit 8). It is a continuous frequency (or wavelength) curve depending on the body's temperature.
 
 Suppose we allow a beam of white light to pass through the prism (as shown in Figure 5.12). It is split into its seven constituent colours which can be viewed on the screen as continuous spectrum. This phenomenon is known as dispersion of light and the definite pattern of colours obtained on the screen after dispersion is called as spectrum. The spectra can be broadly classified into two categories:
 
-![](5.12.png)
+![Fig 5.12 White light passed through prism - dispersion](5.12.png)
 
 ### (a)Emission spectra
 
@@ -430,10 +430,10 @@ Suppose light from hot gas is allowed to pass through prism, line spectrum is ob
 
 Band spectrum consists of several number of very closely spaced spectral lines which overlap together forming specific
 
-![](5.13.png)
+![Fig 5.13 Continuous emission spectra](5.13.png)
 
 
-![](5.14.png)
+![Fig 5.14 Line emission spectra](5.14.png)
 
  bands which are separated by dark spaces. This spectrum has a sharp edge at one end and fades out at the other end. Such spectra arise when the molecules are excited. Band spectrum is the characteristic of the molecule and hence the structure of the molecules can be studied using their band spectra. Example: spectra of ammonia gas in the discharge tube etc.
 
@@ -453,7 +453,7 @@ When light from the incandescent lamp is passed through cold gas (medium), the s
 
 When white light is passed through the iodine vapour, dark bands on continuous bright background is obtained. This type of band is also obtained when white light is passed through diluted solution of blood or chlorophyll or through certain solutions of organic and inorganic compounds.
 
-![](5.15.png)
+![Fig 5.15 Line absorption spectra](5.15.png)
 
 ## Fraunhofer lines
 
@@ -461,223 +461,32 @@ When the spectrum obtained from the Sun is examined, it consists of large number
 
 known as Fraunhofer lines (Figure 5.16). The absorption spectra for various materials are compared with the Fraunhofer lines in the solar spectrum, which helps in identifying elements present in the Sun's atmosphere.
 
-![](5.16.png)
+![Fig 5.16 Solar spectrum - Fraunhofer lines](5.16.png)
 
 ---
 
 # SUMMARY
 
-- Displacement current can be defined as 'the current which comes into play in the region in which the electric field and the electric flux are changing with time'.
++ Displacement current can be defined as 'the current which comes into play in the region in which the electric field and the electric flux are changing with time'.
 
-- Maxwell modified Ampere's law as
+* Maxwell modified Ampere's law as
 
 $$\oint \vec{B}\cdot \vec{dl} = \mu_{o}i = \mu_{o}(i_{c} + i_{d}).$$
 
-- An electromagnetic wave is radiated by an accelerated charge which propagates through space as coupled electric and magnetic fields, oscillating perpendicular to each other and to the direction of propagation of the wave.
++ An electromagnetic wave is radiated by an accelerated charge which propagates through space as coupled electric and magnetic fields, oscillating perpendicular to each other and to the direction of propagation of the wave.
 
-- Electromagnetic waves are non- mechanical and do not require any medium for propagation.
+* Electromagnetic waves are non- mechanical and do not require any medium for propagation.
 
-- The instantaneous magnitude of the electric and magnetic field vectors in electromagnetic wave are related by $c = E / B$ .
++ The instantaneous magnitude of the electric and magnetic field vectors in electromagnetic wave are related by $c = E / B$ .
 
-- Electromagnetic waves can show interference, diffraction and also can be polarized
+* Electromagnetic waves can show interference, diffraction and also can be polarized
 
-- Electromagnetic waves carry not only energy and momentum but also angular momentum.
++ Electromagnetic waves carry not only energy and momentum but also angular momentum.
 
-- Types of spectra: emission and absorption spectra.
+* Types of spectra: emission and absorption spectra.
 
-- When the spectrum of self luminous source is taken, we get emission spectrum. Each source has its own characteristic emission spectrum. The emission spectrum can be divided into three types: continuous, line and band.
++ When the spectrum of self luminous source is taken, we get emission spectrum. Each source has its own characteristic emission spectrum. The emission spectrum can be divided into three types: continuous, line and band.
 
-- When the spectrum obtained from the Sun is examined, it consists of a large number of dark lines (line absorption spectrum). These dark lines in the solar spectrum are known as Fraunhofer lines.
-
----
-
-# EVALUATION
-
-## I Multiple choice questions
-
-1. The dimension of $\frac{1}{\mu_{0}\epsilon_{0}}$ is  
-   (a) $[L T^{-1}]$  
-   (b) $[L^2 T^{-2}]$  
-   (c) $[L^{-1} T]$  
-   (d) $[L^{-2} T^{-2}]$
-
-2. If the amplitude of the magnetic field is $3\times 10^{-6}\mathrm{T}$ then amplitude of the electric field for a electromagnetic waves is  
-   (a) $100\mathrm{Vm}^{-1}$  
-   (b) $300\mathrm{Vm}^{-1}$  
-   (c) $600\mathrm{Vm}^{-1}$  
-   (d) $900\mathrm{Vm}^{-1}$
-
-3. Which of the following electromagnetic radiations is used for viewing objects through fog  
-   (a) microwave  
-   (b) gamma rays  
-   (c) X-rays  
-   (d) infrared
-
-4. Which of the following is false for electromagnetic waves  
-   (a) transverse  
-   (b) non-mechanical waves  
-   (c) longitudinal  
-   (d) produced by accelerating charges
-
-5. Consider an oscillator which has a charged particle oscillating about its mean position with a frequency of $300\mathrm{MHz}$ . The wavelength of electromagnetic waves produced by this oscillator is  
-   (a) $1\mathrm{m}$  
-   (b) $10\mathrm{m}$  
-   (c) $100\mathrm{m}$  
-   (d) $1000\mathrm{m}$
-
-6. The electric and the magnetic fields, associated with an electromagnetic wave, propagating along negative X axis can be represented by  
-   (a) $\bar{E} = E_{i}\hat{i}$ and $\bar{B} = B_{i}\hat{i}$  
-   (b) $\bar{E} = E_{i}\hat{j}$ and $\bar{B} = B_{i}\hat{k}$  
-   (c) $\bar{E} = E_{i}\hat{i}$ and $\bar{B} = B_{i}\hat{j}$  
-   (d) $\bar{E} = E_{i}\hat{j}$ and $\bar{B} = B_{i}\hat{i}$
-
-7. In an electromagnetic wave travelling in free space the rms value of the electric field is $3\mathrm{Vm}^{-1}$ . The peak value of the magnetic field is  
-   (a) $1.414\times 10^{-8}\mathrm{T}$  
-   (b) $1.0\times 10^{-8}\mathrm{T}$  
-   (c) $2.828\times 10^{-8}\mathrm{T}$  
-   (d) $2.0\times 10^{-8}\mathrm{T}$
-
-8. An e.m. wave is propagating in a medium with a velocity $\bar{v} = v \hat{i}$ . The instantaneous oscillating electric field of this e.m. wave is along $+y$ -axis, then the direction of oscillating magnetic field of the e.m. wave will be along:  
-   (a) $-y$ direction  
-   (b) $-x$ direction  
-   (c) $+z$ direction  
-   (d) $-z$ direction
-
-9. If the magnetic monopole exists, then which of the Maxwell's equation to be modified?  
-   (a) $\oint \bar{E}\cdot d\bar{A} = \frac{Q_{\mathrm{enclosed}}}{\epsilon_{0}}$  
-   (b) $\oint \bar{B}\cdot d\bar{A} = 0$  
-   (c) $\oint \bar{B}\cdot d\bar{l} = \mu_{0}i_{c} + \mu_{0}\epsilon_{0}\frac{d}{dt}\oint \bar{E}\cdot d\bar{A}$  
-   (d) $\oint \bar{E}\cdot d\bar{l} = -\frac{d}{dt}\Phi_{B}$
-
-10. Fraunhofer lines are an example of spectrum.  
-    (a) line emission  
-    (b) line absorption  
-    (c) band emission  
-    (d) band absorption
-
-11. Which of the following is an electromagnetic wave?  
-    (a) $\alpha$ - rays  
-    (b) $\beta$ - rays  
-    (c) $\gamma$ - rays  
-    (d) all of them
-
-12. Which one of them is used to produce a propagating electromagnetic wave?  
-    (a) an accelerating charge  
-    (b) a charge moving with constant velocity  
-    (c) a stationary charge  
-    (d) an uncharged particle
-
-13. If $E = E_{0}\sin [10^{6}x - \omega t]$ be the electric field of a plane electromagnetic wave, the value of $\omega$ is  
-    (a) $0.3\times 10^{-14}\mathrm{rad}\mathrm{s}^{-1}$  
-    (b) $3\times 10^{-14}\mathrm{rad}\mathrm{s}^{-1}$  
-    (c) $0.3\times 10^{14}\mathrm{rad}\mathrm{s}^{-1}$  
-    (d) $3\times 10^{14}\mathrm{rad}\mathrm{s}^{-1}$
-
-14. Which of the following is NOT true for electromagnetic waves?  
-    (a) it transports energy  
-    (b) it transports momentum  
-    (c) it transports angular momentum  
-    (d) in vacuum, it travels with different speeds which depend on their frequency
-
-15. The electric and magnetic fields of an electromagnetic wave are  
-    (a) in phase and perpendicular to each other  
-    (b) out of phase and not perpendicular to each other  
-    (c) in phase and not perpendicular to each other  
-    (d) out of phase and perpendicular to each other
-
-## Answers
-
-1) b  
-2) d  
-3) d  
-4) c  
-5) a  
-6) b  
-7) a  
-8) c  
-9) b  
-10) b  
-11) c  
-12) a  
-13) d  
-14) d  
-15) a
-
-## II Short answer questions
-
-1. What is displacement current?  
-2. What are electromagnetic waves?  
-3. Write down the integral form of modified Ampere's circuital law.  
-4. Write notes on Gauss' law in magnetism.  
-5. Give two uses each of (i) IR radiation, (ii) Microwaves and (iii) UV radiation.  
-6. What are Fraunhofer lines? How are they useful in the identification of elements present in the Sun?  
-7. Write notes on Ampere-Maxwell law.  
-8. Why are e.m. waves non-mechanical?
-
-## III Long answer questions
-
-1. Write down Maxwell equations in integral form.  
-2. Write short notes on (a) microwave (b) X-ray (c) radio waves (d) visible spectrum  
-3. Discuss the Hertz experiment.  
-4. Explain the Maxwell's modification of Ampere's circuital law.  
-5. Explain the importance of Maxwell's correction.  
-6. Write down the properties of electromagnetic waves.  
-7. Discuss the source of electromagnetic waves.  
-8. Explain the types of emission spectrum.  
-9. Explain the types of absorption spectrum.
-
-## IV Numerical problems
-
-1. Consider a parallel plate capacitor whose plates are closely spaced. Let $R$ be the radius of the plates and the current in the wire connected to the plates is 5 A, calculate the displacement current through the surface passing between the plates by directly calculating the rate of change of flux of electric field through the surface.  
-   **Answer:** $I_{d} = I_{c} = 5\mathrm{A}$
-
-2. A transmitter consists of LC circuit with an inductance of $1\mu \mathrm{H}$ and a capacitance of $1\mu \mathrm{F}$ . What is the wavelength of the electromagnetic waves it emits?  
-   **Answer:** $18.84\times 10^{2}\mathrm{m}$
-
-3. A pulse of light of duration $10^{-6}\mathrm{s}$ is absorbed completely by a small object initially at rest. If the power of the pulse is $60\times 10^{-3}\mathrm{W}$ , calculate the final momentum of the object.  
-   **Answer:** $20\times 10^{-17}\mathrm{kg m s^{-1}}$
-
-4. Let an electromagnetic wave propagate along the $x$ - direction, the magnetic field oscillates at a frequency of $10^{10}\mathrm{Hz}$ and has an amplitude of $10^{-5}\mathrm{T}$ , acting along the $y$ - direction. Then, compute the wavelength of the wave. Also write down the expression for electric field in this case.  
-   **Answer:** $\lambda = 3\times 10^{-2}\mathrm{m}$ and $\bar{E} (x,t) = 3\times 10^{3}\sin (2.09\times 10^{2}x - 6.28\times 10^{10}t)(-\hat{k})\mathrm{N}\mathrm{C}^{-1}$
-
-5. If the relative permeability and relative permittivity of a medium are 1.0 and 2.25 respectively, find the speed of the electromagnetic wave in this medium.  
-   **Answer:** $v = 2\times 10^{8}\mathrm{m s^{-1}}$
+* When the spectrum obtained from the Sun is examined, it consists of a large number of dark lines (line absorption spectrum). These dark lines in the solar spectrum are known as Fraunhofer lines.
 
 ---
-
-## BOOKS FOR REFERENCE:
-
-1. H. C. Verma, Concepts of Physics - Volume 2, Bharati Bhawan Publisher.  
-2. Halliday, Resnick and Walker, Fundamentals of Physics, Wiley Publishers, 10th edition.  
-3. Serway and Jewett, Physics for scientist and engineers with modern physics, Brook/Coole publishers, Eighth edition.  
-4. David J. Griffiths, Introduction to electrodynamics, Pearson publishers.  
-5. Paul Tipler and Gene Mosca, Physics for scientist and engineers with modern physics, Sixth edition, W.H.Freeman and Company.
-
----
-
-# ICT CORNER
-
-# Electromagnetic waves
-
-Physics of microwaves and heating food
-
-In this activity you will be able to how do microwaves heat food?
-
-## STEPS:
-
-- Open the browser and type "phet.colorado.edu/en/simulation/microwaves" in the address bar. Run the simulation.  
-- select 'one molecule' tab. Turn on the microwave using the button in the right control panel. The arrows indicate the strength and direction of the force that would be exerted by the micro wave on the water molecules present in food. Observe the response of water molecule in response to this force?  
-- Observe how do microwaves heat food by rotating water molecule?  
-- Change amplitude and frequency of microwave and discuss how fast the water molecules are rotating?
-
-Discuss the relationship between rotating speed of the molecule with cooking time.
-
-## Note:
-
-Install Java application if it is not in your system. You can download all the phet simulation and works in off line from https://phet.colorado.edu/en/offline- access.
-
-## URL:
-
-https://phet.colorado.edu/en/simulation/microwaves
-
-\* Pictures are indicative only. \* If browser requires, allow Flash Player or Java Script to load the page.
