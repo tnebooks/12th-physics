@@ -57,7 +57,7 @@ Suppose the maximum kinetic energy of the free electron inside the metal is $0.5
 
 The work function is different for different metals and is a typical property of metals and the nature of their surface. Table 8.1 gives the approximate value of work function for various metals. The material with smaller work function is more effective in electron emission because extra energy required to release the free electrons from the metal surface is smaller.
 
-![](table-8.1.png)
+![Table 8.1 Work function of some materials](image-24.png)
 
 So the metal selected for electron emission should have low work function. The electron emission is categorized into different types depending upon the form of energy being utilized. There are mainly four types of electron emission which are given below.
 
@@ -65,29 +65,31 @@ So the metal selected for electron emission should have low work function. The e
 
 When a metal is heated to a high temperature, the free electrons on the surface of the metal get sufficient energy in the form of thermal energy so that they are emitted from the metallic surface (Figure 8.1). This type of emission is known as thermionic emission.
 
-![](8.1.png)
+![Figure 8.1 Electrons in the (a) metal
+(b) heated metal](image.png)
 
 The intensity of the thermionic emission (the number of electrons emitted) depends on the metal used and its temperature. Examples: cathode ray tubes, electron microscopes, x- ray tubes etc (Figure 8.2).
 
-![](8.2.png)
+![Figure 8.2 Thermionic emission from hot
+filament of cathode ray tube or x-ray tube](image-1.png)
 
 ##### ii) Field emission
 
 Electric field emission occurs when a very strong electric field is applied across the metal. This strong field pulls the free electrons and helps them to overcome the surface barrier of the metal (Figure 8.3). Examples: Field emission scanning electron microscopes, Field- emission display etc.
 
-![](8.3.png)
+![Figure 8.3 Field emission](image-2.png)
 
 ##### iii) Photo electric emission
 
 When an electromagnetic radiation of suitable frequency is incident on the surface of the metal, the energy is transferred from the radiation to the free electrons. Hence, the free electrons get sufficient energy to cross the surface barrier and the photo electric emission takes place (Figure 8.4). The number of electrons emitted depends on the intensity of the incident radiation. Examples: Photo diodes, photo electric cells etc.
 
-![](8.4.png)
+![Figure 8.4 Photo electric emission](image-3.png)
 
 ##### iv) Secondary emission
 
 When a beam of fast moving electrons strikes the surface of the metal, the kinetic energy of the striking electrons is transferred to the free electrons on the metal surface. Thus the free electrons get sufficient kinetic energy so that the secondary emission of electron occurs (Figure 8.5). Examples: Image intensifiers, photo multiplier tubes etc.
 
-![](8.5.png)
+![Figure 8.5 Secondary emission of electrons](image-4.png)
 
 ## 8.2 PHOTO ELECTRIC EFFECT
 
@@ -116,13 +118,15 @@ A clean circular plate of zinc is mounted on an insulating stand and is attached
 
 Further, if the negatively charged zinc plate is exposed to ultraviolet light, the leaves will come closer as the charges leaked away quickly (Figure 8.6(b)). If the plate is positively charged, it becomes more positive upon UV rays irradiation and the leaves open further (Figure 8.6(c)). From these observations, it was concluded that negatively charged electrons were emitted from the zinc plate under the action of ultraviolet light.
 
-![](8.6.png)
+![Figure 8.6 Irradiation of ultraviolet light
+on (a) uncharged zinc plate (b) negatively
+charged plate (c) positively charged plate](image-5.png)
 
 ##### Lenard's observation
 
 In 1902, Lenard studied this electron emission phenomenon in detail. His simple experimental setup is shown in Figure 8.7. The apparatus consists of two metallic plates $A$ and $C$ placed in an evacuated quartz bulb. The galvanometer $G$ and battery $B$ are connected in the circuit.
 
-![](8.7.png)
+![Figure 8.7 Experimental setup of Lenard](image-6.png)
 
 When ultraviolet light is incident on the negative plate $C$ an electric current flows in the circuit that is indicated by the deflection in the galvanometer. On other hand, if the positive plate is irradiated by the ultraviolet light, no current is observed in the circuit.
 
@@ -144,7 +148,7 @@ The necessary potential difference between $C$ and $A$ is provided by high tensi
 
 If there is no light falling on the cathode $C$, no photoelectrons are emitted and the microammeter reads zero. When ultraviolet or visible light is allowed to fall on $C$, the photoelectrons are liberated and are attracted towards anode. As a result, the photoelectric current is set up in the circuit which is measured using micro ammeter.
 
-![](8.8.png)
+![Figure 8.8 Experimental setup for the study of photoelectric effect](image-7.png)
 
 The variation of photocurrent with respect to (i) intensity of incident light (ii) the potential difference between the electrodes (iii) the nature of the material and (iv) frequency of incident light can be studied with the help of this arrangement.
 
@@ -152,7 +156,8 @@ The variation of photocurrent with respect to (i) intensity of incident light (i
 
 To study the effect of intensity of incident light on photoelectric current, the frequency of the incident light and the accelerating potential $V$ of the anode are kept constant. Here the potential of $A$ is kept positive with respect to that of $C$ so that the electrons emitted from $C$ are attracted towards $A$. Now, the intensity of the incident light is varied and the corresponding photoelectric current is measured.
 
-![](8.9.png)
+![Figure 8.9 Variation of photocurrent
+with intensity](image-8.png)
 
 A graph is drawn between light intensity along x- axis and the photocurrent along y- axis. From the graph in Figure 8.9, it is evident that photocurrent - the number of electrons emitted per second - is directly proportional to the intensity of the incident light.
 
@@ -169,7 +174,8 @@ When a negative (retarding) potential is applied to $A$ with respect to $C$, the
 
 When the negative (retarding) potential of $A$ is gradually increased, the photocurrent starts to decrease because more and more photoelectrons are being repelled away from reaching the electrode $A$. The photocurrent becomes zero at a particular negative potential $V_0$, called stopping or cut- off potential.
 
-![](8.10.png)
+![Figure 8.10 Variation of photocurrent
+with potential difference](image-9.png)
 
 Stopping potential is that value of the negative (retarding) potential given to the collecting electrode $A$ which is just sufficient to stop the most energetic photoelectrons emitted and make the photocurrent zero.
 
@@ -207,11 +213,15 @@ Thus, for a given frequency of the incident light, the stopping potential is ind
 
 To study the effect of frequency of incident light on stopping potential, the intensity of the incident light is kept constant. The variation of photocurrent with the collecting electrode potential is studied for radiations of different frequencies and a graph drawn between them is shown in Figure 8.11. From the graph, it is clear that stopping potential vary over different frequencies of incident light.
 
-![](8.11.png)
+![Figure 8.11 Variation of photocurrent with
+collector electrode potential for different
+frequencies of the incident radiation](image-10.png)
 
 Greater the frequency of the incident radiation, larger is the corresponding stopping potential. This implies that as the frequency is increased, the photoelectrons are emitted with greater kinetic energies so that the retarding potential needed to stop the photoelectrons is also greater.
 
-![](8.12.png)
+![Figure 8.12 Variation of stopping
+potential with frequency of the incident
+radiation for two metals](image-11.png)
 
 Now a graph is drawn between frequency of incident radiation and the stopping potential for different metals (Figure 8.12). From this graph, it is found that stopping potential varies linearly with frequency. Below a certain frequency called threshold frequency, no electrons are emitted; hence stopping potential is zero for that reason. But as the frequency is increased above threshold value, the stopping potential varies linearly with the frequency of incident light.
 
@@ -367,8 +377,7 @@ $$
 
 where $m$ is the mass of the electron and $v$ its velocity. This is shown in Figure 8.13(a).
 
-![](8.13.png)
-
+![Figure 8.13 Emission of photoelectrons](image-12.png)
 If we reduce the frequency of the incident light, the speed or kinetic energy of photo electrons is also reduced. At some frequency $\nu_0$ of incident radiation, the photo electrons are just ejected with almost zero kinetic energy (Figure 8.13(b)). Then the equation (8.6) becomes
 
 $$
@@ -395,13 +404,14 @@ $$
 K_{\mathrm{max}} = h\nu - \phi_0 \quad (8.8)
 $$
 
-![](8.14.png)
+![Figure 8.14 $K_{\scriptstyle\mathrm{max}}$  vs ν graph](image-13.png)
 
 A graph between maximum kinetic energy $K_{\mathrm{max}}$ of the photoelectron and frequency $\nu$ of the incident light is a straight line as shown in Figure 8.14. The slope of the line is $h$ and its $y$-intercept is $-\phi_0$.
 
 Einstein's equation was experimentally verified by R.A. Millikan. He drew $K_{\mathrm{max}}$ versus $\nu$ graph for many metals (cesium, potassium, sodium and lithium) as shown in Figure 8.15 and found that the slope is independent of the metals.
 
-![](8.15.png)
+![Figure 8.15 $K_{\scriptstyle\mathrm{max}}$ vs ν graph for different
+metals](image-14.png)
 
 Millikan also calculated the value of Planck's constant $(h = 6.626\times 10^{-34}\mathrm{Js})$ and work function of many metals (Cs, K, Na, Ca); these values are in agreement with the theoretical prediction.
 
@@ -456,8 +466,7 @@ It consists of an evacuated glass or quartz bulb in which two metallic electrode
 
 The cathode $C$ is semi-cylindrical in shape and is coated with a photo sensitive material. The anode $A$ is a thin rod or wire kept along the axis of the semi-cylindrical cathode. A potential difference is applied between the anode and the cathode through a galvanometer $G$.
 
-![](8.16.png)
-
+![Figure 8.16 Construction of photo cell](image-15.png)
 ##### Working:
 
 When cathode is irradiated with suitable radiation, electrons are emitted from it. These electrons are attracted by anode and hence a current is produced which is measured by the galvanometer. For a given cathode, the magnitude of the current depends on i) the intensity of incident radiation and ii) the potential difference between anode and cathode.
@@ -669,11 +678,13 @@ Louis de Broglie hypothesis of matter waves was experimentally confirmed by Clin
 
 The filament $F$ is heated by a low tension (L.T.) battery. Electrons are emitted from the hot filament by thermionic emission. They are then accelerated due to the potential difference between the filament and the anode aluminium cylinder by a high tension (H.T.) battery. Electron beam is collimated by using two thin aluminium diaphragms and is allowed to strike a single crystal of Nickel.
 
-![](8.17.png)
+![Figure 8.17 Experimental set up of
+Davisson – Germer experiment](image-16.png)
 
 The electrons scattered by Ni atoms in different directions are received by the electron detector which measures the intensity of scattered electron beam. The detector is capable of rotation in the plane of the paper so that the angle $\theta$ between the incident beam and the scattered beam can be changed at our will. The intensity of the scattered electron beam is measured as a function of the angle $\theta$.
 
-![](8.18.png)
+![Figure 8.18 Variation of intensity of
+diffracted electron beam with the angle θ](image-17.png)
 
 >**Note**
 >
@@ -707,7 +718,8 @@ The resolving power of a microscope is inversely proportional to the wavelength 
 
 Louis de Broglie wavelength of electron is very much less than (a few thousands less) that of the visible light being used in optical microscopes. As a result, the microscopes employing de Broglie waves of electrons have very much higher resolving power than optical microscope. Electron microscopes giving magnification more than 2,00,000 times are common in research laboratories.
 
-![](8.19.png)
+![Figure 8.19 (a) Optical microscope (b) Electron microscope (c) Photograph of electron
+microscope](image-18.png)
 
 #### Working
 
@@ -837,7 +849,7 @@ X- rays are produced in x- ray tube which is essentially a discharge tube as sho
 
 The electrons are accelerated to high speeds by the voltage applied between the filament $F$ and the anode. The target materials like tungsten, molybdenum are embedded in the face of the solid copper anode. The face of the target is inclined at an angle of $45^{\circ}$ with respect to the electron beam so that x- rays can leave the tube through its side.
 
-![](8.20.png)
+![Figure 8.20 Production of x-rays](image-19.png)
 
 When high- speed electrons strike the target, they are decelerated suddenly and lose their kinetic energy. As a result, x- ray photons are produced. Since most of the kinetic energy of the bombarding electrons gets converted into heat, targets made of high- melting- point metals and a cooling system are usually employed.
 
@@ -847,7 +859,12 @@ X- rays are produced when fast moving electrons strike the metal target. The int
 
 The continuous spectrum consists of radiations of all possible wavelengths with a certain minimum wavelength $\lambda_0$ which depends on the voltage across the electrodes. The peaks are characteristics of the material of the target and hence it is called characteristic spectrum. Figure 8.21(a) depicts the x- ray spectra of tungsten at various accelerating voltages and Figure 8.21(b) shows the x- ray spectra of tungsten and molybdenum at a particular accelerating voltage.
 
-![](8.21.png)
+![Figure 8.21 (a) X-ray spectra of tungsten
+at various accelerating potentials](image-20.png)
+
+![Figure 8.21 (b) X-ray spectra of tungsten
+and molybdenum at 35 kV accelerating
+potential](image-21.png)
 
 Though classical electromagnetic theory suggests the emission of radiations from accelerating electrons, it could not explain two features exhibited by x- ray spectra. These features are given below.
 
@@ -860,7 +877,8 @@ But these two features could be explained on the basis of photon theory of radia
 
 When a fast moving electron penetrates and approaches a target nucleus, the interaction between the electron and the nucleus either accelerates or decelerates it which results in a change of path of the electron. The radiation produced from such decelerating electron is called Bremsstrahlung or braking radiation (Figure 8.22).
 
-![](8.22.png)
+![Figure 8.22 Bremsstrahlung photon
+from a decelerating electron](image-22.png)
 
 The energy of the photon emitted is equal to the loss of kinetic energy of the electron. Since an electron may lose part or all of its energy to the photon, the photons are emitted with all possible energies (or frequencies). The continuous x- ray spectrum is due to such radiations.
 
@@ -891,7 +909,8 @@ When an energetic electron penetrates into the target atom and it can remove som
 
 From the Figure 8.23, it is evident that $K$- series of lines in the x- ray spectrum of an element arises due to the electronic transitions from $L$, $M$, $N$, ... levels to the $K$- level. Similarly, the longer wavelength $L$- series originates when an $L$- electron is knocked out of the atom and the corresponding vacancy is filled by the electronic transitions from $M, N, O$ level to the $L$- level and so on.
 
-![](8.23.png)
+![Figure 8.23 Origin of characteristic
+x-ray spectra](image-23.png)
 
 The $K_{\alpha}$ and $K_{\beta}$ of the $K$- series of molybdenum are shown by the two peaks in its x- ray spectrum in Figure 8.21(b).
 
@@ -962,101 +981,5 @@ work function of that metal.
 - Whenever fast moving electrons fall on the materials, a highly penetrating radiations, namely x- rays, are emitted.
 - Continuous x- ray spectrum consists of radiations of all possible wavelengths with a certain minimum wavelength $\lambda_0$.
 - Characteristic x- ray spectra show some narrow peaks at some well- defined wavelengths when the target is hit by fast electrons.
-
----
-
-
-### II Short Answer Questions
-
-1. Why do metals have a large number of free electrons?
-2. Define work function of a metal. Give its unit.
-3. What is photoelectric effect?
-4. How does photocurrent vary with the intensity of the incident light?
-5. Give the definition of intensity of light according to quantum concept and its unit.
-6. How will you define threshold frequency?
-7. What is a photo cell? Mention the different types of photocells.
-8. Write the expression for the de Broglie wavelength associated with a charged particle of charge $q$ and mass $m$, when it is accelerated through a potential $V$.
-9. State de Broglie hypothesis.
-10. Why we do not see the wave properties of a baseball?
-11. A proton and an electron have same kinetic energy. Which one has greater de Broglie wavelength? Justify.
-12. Write the relationship of de Broglie wavelength $\lambda$ associated with a particle of mass $m$ in terms of its kinetic energy $K$.
-13. An electron and an alpha particle have same kinetic energy. How are the de Broglie wavelengths associated with them related?
-14. Define stopping potential.
-15. What is surface barrier?
-16. Mention the two features of x- ray spectra, not explained by classical electromagnetic theory.
-17. What is Bremsstrahlung?
-
----
-
-### III Long Answer Questions
-
-1. What do you mean by electron emission? Explain briefly various methods of electron emission.
-2. Briefly discuss the observations of Hertz, Hallwachs and Lenard.
-3. Explain the effect of potential difference on photoelectric current.
-4. Explain how frequency of incident light varies with stopping potential.
-5. List out the laws of photoelectric effect.
-6. Explain why photoelectric effect cannot be explained on the basis of wave nature of light.
-7. Give the quantum concept of energy proposed by Max Planck.
-8. Obtain Einstein's photoelectric equation with necessary explanation.
-9. Explain experimentally observed facts of photoelectric effect with the help of Einstein's explanation.
-10. Give the construction and working of photo emissive cell.
-11. Derive an expression for de Broglie wavelength of electrons.
-12. Briefly explain the principle and working of electron microscope.
-13. Describe briefly Davisson - Germer experiment which demonstrated the wave nature of electrons.
-14. List out the characteristics of photons.
-15. Give the applications photocell.
-16. How do we obtain characteristic x-ray spectra?
-
----
-
-### IV. Numerical problems
-
-1. How many photons per second emanate from a $50\mathrm{mW}$ laser of $640\mathrm{nm}$?
-   [Ans: $1.61\times 10^{17}\mathrm{s}^{-1}$]
-
-2. Calculate the maximum kinetic energy and maximum velocity of the photoelectrons emitted when the stopping potential is $81\mathrm{V}$ for the photoelectric emission experiment.
-   [Ans: $1.3\times 10^{-17}\mathrm{J}$, $5.3\times 10^{6}\mathrm{ms}^{-1}$]
-
-3. Calculate the energies of the photons associated with the following radiation:
-   (i) violet light of $413~\mathrm{nm}$
-   (ii) X-rays of $0.1\mathrm{nm}$
-   (iii) radio waves of $10\mathrm{m}$
-   [Ans: $3\mathrm{eV}$; $12424\mathrm{eV}$; $1.24\times 10^{-7}\mathrm{eV}$]
-
-4. A $150\mathrm{W}$ lamp emits light of mean wavelength of $5500\mathrm{Å}$. If the efficiency is $12\%$, find out the number of photons emitted by the lamp in one second.
-   [Ans: $4.98\times 10^{19}$]
-
-5. How many photons of frequency $10^{14}$ Hz will make up $19.86$ J of energy?
-   [Ans: $3\times 10^{20}$]
-
-6. What should be the velocity of the electron so that its momentum equals that of $4000\mathrm{Å}$ wavelength photon.
-   [Ans: $1818\mathrm{ms}^{-1}$]
-
-7. When a light of frequency $9\times 10^{14}\mathrm{Hz}$ is incident on a metal surface, photoelectrons are emitted with a maximum speed of $8\times 10^{5}\mathrm{ms}^{-1}$. Determine the threshold frequency of the surface.
-   [Ans: $4.61\times 10^{14}\mathrm{Hz}$]
-
-8. When a $6000\mathrm{Å}$ light falls on the cathode of a photo cell, photoemission takes place. If a potential of $0.8\mathrm{V}$ is required to stop emission of electron, then determine the (i) frequency of the light (ii) energy of the incident photon (iii) work function of the cathode material (iv) threshold frequency and (v) net energy of the electron after it leaves the surface.
-   [Ans: $5\times 10^{14}$ Hz; 2.07 eV; 1.27 eV; $3.07\times 10^{14}$ Hz; 0.8 eV]
-
-9. A $3310\mathrm{Å}$ photon liberates an electron from a material with energy $3\times 10^{-19}\mathrm{J}$ while another $5000\mathrm{Å}$ photon ejects an electron with energy $0.972\times 10^{-19}\mathrm{J}$ from the same material. Determine the value of Planck's constant and the threshold wavelength of the material.
-   [Ans: $6.62\times 10^{-34}\mathrm{Js}$; $6620\times 10^{-10}\mathrm{m}$]
-
-10. At the given point of time, the earth receives energy from sun at $4\mathrm{cal}\ \mathrm{cm}^{-2}\ \mathrm{min}^{-1}$. Determine the number of photons received on the surface of the Earth per $\mathrm{cm}^2$ per minute. (Given : Mean wavelength of sun light $= 5500\mathrm{Å}$)
-    [Ans: $4.65\times 10^{19}$]
-
-11. UV light of wavelength $1800\mathrm{Å}$ is incident on a lithium surface whose threshold wavelength is $4965\mathrm{Å}$. Determine the maximum energy of the electron emitted.
-    [Ans: $4.40\mathrm{eV}$]
-
-12. Calculate the de Broglie wavelength of a proton whose kinetic energy is equal to $81.9\times 10^{-15}\mathrm{J}$. (Given: mass of proton is 1836 times that of electron).
-    [Ans: $4\times 10^{-14}\mathrm{m}$]
-
-13. A deuteron and an alpha particle are accelerated with the same potential. Which one of the two has (i) greater value of de Broglie wavelength associated with it and (ii) less kinetic energy? Explain.
-    [Ans: $\lambda_d = 2\lambda_{\alpha}$ and $K_d = \frac{K_{\alpha}}{2}$]
-
-14. An electron is accelerated through a potential difference of $81\mathrm{V}$. What is the de Broglie wavelength associated with it? To which part of electromagnetic spectrum does this wavelength correspond?
-    [Ans: $\lambda = 1.36\mathrm{Å}$ and x- rays]
-
-15. The ratio between the de Broglie wavelength associated with proton, accelerated through a potential of $512\mathrm{V}$ and that of alpha particle accelerated through a potential of $X$ volts is found to be one. Find the value of $X$.
-    [Ans: $64\mathrm{V}$]
 
 ---
