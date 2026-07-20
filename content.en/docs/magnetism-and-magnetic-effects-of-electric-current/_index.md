@@ -342,7 +342,7 @@ $$ \vec{B} = \frac{\mu_0 q_{m}}{4\pi} \left( \frac{1}{(r - l)^{2}} - \frac{1}{(r
 
 $$ \vec{B} = \frac{\mu_0}{4\pi} \frac{2r q_{m} \cdot (2l)}{(r^{2} - l^{2})^{2}} \hat{i} \quad (3.11) $$
 
-Since the magnitude of magnetic dipole moment is $|\vec{p}_{m}| = p_{m} = q_{m} \cdot 2l$, the magnetic field at a point C can be written as
+Since the magnitude of magnetic dipole moment is $|\vec{p}_m| = p_m = q_m \cdot 2l$, the magnetic field at a point C can be written as
 
 $$ \vec{B}_{\text{axial}} = \frac{\mu_0}{4\pi} \left( \frac{2r p_{m}}{(r^{2} - l^{2})^{2}} \right) \hat{i} \quad (3.12) $$
 
@@ -378,7 +378,7 @@ $$ \vec{B}_S = -B_S\cos \theta \hat{i} - B_S\sin \theta \hat{j} \quad (3.16) $$
 
 where $B_{S} = \frac{\mu_{0}}{4\pi} \frac{q_{m}}{r^{\prime 2}}$
 
-From equations (3.15) and (3.16), the net magnetic field at point C due to the dipole is $\vec{B} = \vec{B}_{N} + \vec{B}_{S}$
+From equations (3.15) and (3.16), the net magnetic field at point C due to the dipole is $$\vec{B} = \vec{B}_{N} + \vec{B}_{S}$$
 
 $$ \vec{B} = -(B_N + B_S)\cos \theta \hat{i} \quad (\text{Since } B_N = B_S) $$
 
@@ -494,7 +494,7 @@ $$
 dW = |\vec{\tau}_{ext}| d\theta
 $$
 
-The bar magnet has to be moved at constant angular velocity, which implies that $|\vec{\tau}_\mu| = |\vec{\tau}_{ext}|$.
+The bar magnet has to be moved at constant angular velocity, which implies that $$|\vec{\tau}_\mu| = |\vec{\tau}_{ext}|$$.
 
 $$
 dW = p_\mu B \sin \theta \, d\theta
