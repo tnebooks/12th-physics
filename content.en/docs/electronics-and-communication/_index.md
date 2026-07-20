@@ -51,20 +51,8 @@ This chapter deals with semiconductor devices like \(p - n\) junction diodes, bi
 >
 >**Passive components:** components that cannot generate power in a circuit. Active components: components that can generate power in a circuit.
 
-![](1.png)
-**Figure 10.1** Evolution of computers
+![**Figure 10.1** Evolution of computers (a) One of the world’s first computers (b) Desktop computer (c) Laptop computer (d) Palmtop computer(e) Smallest computer  by IBM kept near the tip of the rice grain](1.png)
 
-(a) One of the world’s first computers
-
-(b) Desktop computer
-
- (c) Laptop computer
-
-(d) Palmtop computer
-
- (e) Smallest computer
-
-by IBM kept near the tip of the rice grain
 
 
 >**DO YOU KNOW**
@@ -86,10 +74,7 @@ The energy band formed due to the valence orbitals is called valence band (VB) a
 
 A simple pictorial representation of the valence band and conduction band is shown in Figure 10.2(a). \(E_{V}\) represents the maximum energy of the valence band and \(E_{c}\) represents minimum energy of the conduction band. The forbidden energy gap, \(E_{g} = E_{c} - E_{V}\) . We know that the Coulomb force of attraction between the orbiting electron and the nucleus is inversely proportional to the distance between them. Therefore, the electrons in the orbitals closer to the nucleus are strongly bound to it. Hence, the electrons closer to nucleus require a lot of energy to be excited. The electrons in the valence band are loosely bound to the nucleus and can be easily excited to become free electrons.
 
-![](2.png)
-
-**Figure 10.2** (a) Schematic representation of valence band, conduction band and forbidden
-energy gap. Energy band structure of (b) Insulator (c) Conductor (d) Semiconductor
+![**Figure 10.2** (a) Schematic representation of valence band, conduction band and forbidden energy gap. Energy band structure of (b) Insulator (c) Conductor (d) Semiconductor](2.png)
 
 ### 10.1.2 Classification of materials
 
@@ -125,20 +110,15 @@ A semiconductor in its pure form without any impurity is called an intrinsic sem
 
 10.4 (a) The presence of free electron, hole and broken covalent bond in the intrinsic silicon crystal (b) Presence of electrons in the conduction band and holes in the valence band at room temperature
 
-![](3.png)
+![**Figure 10.3** (a) Two dimensional crystal lattice of silicon (b) Valence band and conduction band of intrinsic semiconductor](3.png)
 
-**Figure 10.3** (a) Two dimensional
-crystal lattice of silicon (b) Valence
-band and conduction band of intrinsic
-semiconductor
 
 presence of any other foreign atom in the crystal lattice. The silicon lattice is shown in Figure 10.3(a). Each silicon atom has four electrons in the outermost orbit and is covalently bonded with four neighbouring atoms to form the lattice. The band diagram for this case is shown in Figure 10.3(b).
 
 A small increase in temperature is sufficient enough to break some of the covalent bonds and release the electrons free from the lattice (10.4(a)). As a result, some states in the valence band become empty and the same number of states in the conduction band will be occupied by
 
-![](4.png)
+![**Figure 10.4** (a) The presence of free electron, hole and broken covalent bond in the intrinsic silicon crystal (b) Presence of electrons in the conduction band and holes in the valence band at room temperature](4.png)
 
-**Figure 10.4** (a) The presence of free electron, hole and broken covalent bond in the intrinsic silicon crystal (b) Presence of electrons in the conduction band and holes in the valence band at room temperature
 
 electrons as shown in Figure 10.4(b). The vacancies produced in the valence band are called holes. As the holes are deficiency of electrons, they are treated to possess positive charges. Hence, electrons and holes are the two charge carriers in semiconductors.
 
@@ -169,24 +149,17 @@ ii) p-type semiconductor
 
 A n- type semiconductor is obtained by doping a pure silicon (or germanium) crystal with pentavalent impurity atoms (from V group of periodic table) such as phosphorus, arsenic and antimony as shown in Figure 10.5(a). The dopant has five valence electrons while the silicon atom has four valence electrons. During the process of doping, a few of the silicon atoms are replaced by pentavalent
 
-![](5.png)
+![**Figure 10.5** n-type extrinsic semiconductor: (a) Free electron which is loosely attached to the lattice (b) Representation of donor energy level](5.png)
 
-**Figure 10.5** n-type extrinsic
-semiconductor: (a) Free electron which
-is loosely attached to the lattice
-(b) Representation of donor energy level
+
 
 
 dopants. Four of the five valence electrons of the impurity atom form covalent bonds with four silicon atoms. The fifth valence electron of the impurity atom is loosely attached with the nucleus as it is not used in the formation of the covalent bond.
 
 The energy level of the loosely attached fifth electron from the dopant is found just below the conduction band edge and is called the donor energy level as shown in Figure 10.5(b). At room temperature, these electrons can easily move to the conduction band with the absorption of thermal energy. It is shown in the Figure 10.6. Besides, an external electric field also can set free the loosely bound electrons and lead to conduction.
 
-![](6.png)
-**Figure 10.6** Thermally generated
-holes in the valence band and the free
-electrons generated by the dopants
-in the conduction band (n-type
-semiconductor)
+![**Figure 10.6** Thermally generated holes in the valence band and the free electrons generated by the dopants in the conduction band (n-type semiconductor)](6.png)
+
 
 It is important to note that the energy required for an electron to jump from the valence band to the conduction band in an intrinsic semiconductor is \(0.7\mathrm{eV}\) for Ge and \(1.1\mathrm{eV}\) for Si, while the energy required to set free a donor electron is only \(0.01\mathrm{eV}\) for Ge and \(0.05\mathrm{eV}\) for Si.
 
@@ -201,18 +174,12 @@ To make complete covalent bonding with all four neighbouring atoms, the dopant i
 For each acceptor atom, there will be a hole in the valence band; this is in addition to the holes left by the thermally generated electrons. In such an extrinsic semiconductor, holes are the majority carriers and thermally generated electrons are minority carriers as shown in Figure 10.8. The extrinsic semiconductor thus formed is called a \(p\) - type semiconductor.
 
 
-![](7.png)
+![**Figure 10.7** p-type extrinsic semiconductor (a) Hole generated by the dopant (b) Representation of acceptor energy level](7.png)
 
-**Figure 10.7** p-type extrinsic semiconductor
-(a) Hole generated by the dopant
-(b) Representation of acceptor energy level
 
-![](8.png)
 
-**Figure 10.8**  Thermally generated
-electron in the conduction band and the
-holes generated by the dopants in the
-valence band (p-type semiconductor)
+![**Figure 10.8**  Thermally generated electron in the conduction band and the holes generated by the dopants in the valence band (p-type semiconductor)](8.png)
+
 
 >**Note**
 >
@@ -229,7 +196,7 @@ A single piece of semiconductor crystal is suitably doped such that its one side
 When an electron leaves the \(n\) - side, a pentavalent atom in the \(n\) - side becomes a positive ion. The free electron migrating into \(p\) - side recombines with a hole present in a trivalent atom near the junction and the trivalent atom becomes a negative ion. Since such ions are bonded to the neighbouring atoms in the crystal lattice, they are unable to move. As the diffusion process continues, a layer of positive ions and a layer of negative ions are created on either side of the junction accordingly. The thin region near
 
 
-![](9.png)
+![**Figure 10.9** Formation of p–n junction](9.png)
 
 the junction which is free from charge carriers (free electrons and holes) is called depletion region (Figure 10.9).
 
@@ -243,7 +210,7 @@ there is no net electric current across the junction. Thus, a \(p - n\) junction
 
 The movement of charge carriers across the junction takes place only to a certain point beyond which the depletion layer acts like a barrier to further diffusion of free charges across the junction. This is due to the fact that the immobile ions on both sides establish an electric potential difference across the junction.
 
-![](10.png)
+![**Figure 10.10** Barrier potential formed across the junction](10.png)
 
 **This difference in potential across the depletion layer is called the barrier potential \((V_{\mathrm{b}})\)** as shown in Figure 10.10. At \(25^{\circ}\mathrm{C}\) , this barrier potential is approximately 0.7 V for silicon and 0.3 V for germanium.
 
@@ -251,7 +218,7 @@ The movement of charge carriers across the junction takes place only to a certai
 
 **A \(p - n\) junction diode is formed when a \(p\) - type semiconductor is fused with an \(n\) - type semiconductor. It is a device with single \(p - n\) junction as shown in Figure 10.11(a) and its circuit symbol is shown in Figure 10.11(b).**
 
-![](11.png)
+![**Figure 10.11** p-n junction diode (a) Schematic representation (b) Circuit symbol](11.png)
 
 
 
@@ -270,13 +237,13 @@ If the positive terminal of the external voltage source is connected to the \(p\
 
 The electron from the \(n\) - side is now accelerated towards the \(p\) - side as it experiences a reduced barrier potential at the junction. In addition, the accelerated electrons experience a strong attraction by the positive potential applied to the \(p\) - side. This results in the movement of electrons in the \(n\) - side towards the \(p\) - side and similarly, holes in the \(p\) - side towards the \(n\) - side. When the applied voltage is increased, the width of the depletion region and hence the barrier potential are further reduced. This results in a large number of electrons passing through the junction resulting in an exponential rise in current through the junction.
 
-![](12.png)
+![**Figure 10.12** Schematic representation of a p-n junction diode under forward bias](12.png)
 
 **ii) Reverse bias**
 
 If the positive terminal of the battery is connected to the \(n\) - side and the negative terminal to the \(p\) - side, the junction is said to be reverse biased as shown in Figure 10.13.
 
-![](13.png)
+![**Figure 10.13** Schematic representation of a p-n junction diode under reverse bias](13.png)
 
 As the positive terminal is connected to the \(n\) - type material, the electrons in the \(n\) - side are attracted towards the positive terminal and the holes in the \(p\) - side are attracted by the negative terminal. This increases the immobile ion concentration at the junction. The net effect is the widening of the depletion region leading to an increase in the barrier potential. Consequently, the majority charge carriers from both sides experience a great potential barrier to cross the junction. This reduces the diffusion current across the junction drastically.
 
@@ -299,12 +266,7 @@ The \(p\) - \(n\) junction diode is forward biased as shown in Figure 10.14(a). 
 
 current through the diode. The voltage across the diode is varied by varying the biasing voltage across the DC power supply. The forward bias voltage and the corresponding forward bias current are noted. A graph is plotted by taking the forward bias voltage \((V_{p})\) along the x- axis and the current \((I_{p})\) through the diode along the y- axis. This graph is called the forward V- I characteristics of the \(p\) - \(n\) junction diode and is shown in Figure 10.14(b). Four inferences can be brought out from the graph:
 
-![](14.png)
-
-
-(a) Diode under forward bias
-
-(b) Forward characteristics
+![**Figure 10.14** p-n junction diode (a) Diode under forward bias (b) Forward characteristics](14.png)
 
 (i) At room temperature, a potential difference equal to the barrier potential is required before a reasonable forward current starts flowing across the diode. This voltage is known as threshold voltage or cut-in voltage or knee voltage \((V_{knee})\) . It is approximately \(0.3\mathrm{V}\) for germanium and \(0.7\mathrm{V}\) for silicon. The current flow is negligible when the applied voltage is less than the threshold voltage. Beyond the threshold voltage, increase in current is significant even for a small increase in voltage.
 
@@ -322,7 +284,7 @@ The circuit to study the reverse characteristics is shown in Figure 10.15(a). In
 
 A graph drawn between the reverse bias voltage and the current across the junction is called the reverse characteristics of a \(p\) - \(n\) junction diode. It is shown in Figure 10.15(b). Under this bias, a very small
 
-![](15.png)
+![**Figure 10.15** p-n junction diode (a) Diode under reverse bias (b) Reverse characteristics](15.png)
 
 current in \(\mu \mathrm{A}\) flows across the junction. This is due to the flow of the minority charge carriers and is called the leakage current or reverse saturation current. This reverse current is independent of the voltage up to a certain voltage, known as breakdown voltage.
 
@@ -333,7 +295,7 @@ current in \(\mu \mathrm{A}\) flows across the junction. This is due to the flow
 The forward and reverse characteristics are given in one graph as shown in Figure 10.16.
 
 
-![](16.png)
+![**Figure 10.16** Forward and reverse charactristics of a diode](16.png)
 
 >**EXAMPLE 10.1**
 >
@@ -379,14 +341,14 @@ When the positive half cycle of the AC input signal passes through the circuit, 
 
 When the negative half cycle of the AC input signal passes through the circuit, terminal A is negative with respect to terminal B. Now the diode is reverse biased and does not conduct. Hence no current passes through \(R_{\mathrm{L}}\) . The reverse saturation current in a diode is negligible. Since there is no voltage drop across \(R_{\mathrm{L}}\) , the negative half cycle of AC supply is suppressed at the output.
 
-![](17.png)
+![**Figure 10.17** (a) Half wave rectifier circuit (b) Input and output waveforms](17.png)
 
 The output of the half wave rectifier is not a steady DC voltage but a pulsating wave. This pulsating voltage cannot be used for electronic equipments. A constant or a steady voltage is required which can be obtained with the help of filter circuits and voltage regulator circuits.
 
 Efficiency \((\eta)\) is the ratio of the output DC power to the AC input power supplied to the circuit. Its value for half wave rectifier is \(40.6\%\) .
 
 >**Note**
-
+>
 >If the direction of the diode is reversed, the negative half of the AC signal is passed through and the positive half is blocked.
 
 **ii) Full wave rectifier**
@@ -401,7 +363,7 @@ When the positive half cycle of the AC input signal passes through the circuit, 
 
 When the negative half cycle of the AC input signal passes through the circuit, terminal N becomes positive, C is at zero potential and terminal M is at negative potential. This forward biases diode $D_2$ and reverse biases diode $D_1$. Hence, being forward biased, diode $D_2$ conducts and current flows along the path $ND_2ABC$.
 
-![](18.png)
+![**Figure 10.18** (a) Full wave rectifier circuit (b) Input and output waveforms](18.png)
 
 
 
@@ -454,17 +416,17 @@ As explained in the previous section, Zener breakdown occurs due to the breaking
 
 It looks like an ordinary \(p - n\) junction diode except that \(n\) - side lead resembles the shape of the letter 'z'. The arrow head points the direction of conventional current. In Figure 10.19(a), black ring indicates the \(n\) - side lead.
 
-![](19.png)
+![**Figure 10.19** Zener diode (a) Commercial picture (b) Circuit symbol](19.png)
 
 **V-I Characteristics of Zener diode**
 
 The circuit to study the forward and reverse characteristics of a Zener diode is shown in Figure 10.20(a) and Figure 10.20 (b). The V- I characteristics of a Zener diode is shown in Figure 10.20(c). The forward characteristic of a Zener diode is similar to that of an ordinary \(p - n\) junction diode. It starts conducting approximately around 0.7 V. However, the reverse characteristics is highly significant in Zener diode. The increase in reverse voltage  normally generates very small reverse current. While in Zener diode, when the reverse voltage is increased to the breakdown voltage \((V_{z})\) , the increase in current is very sharp. The voltage remains almost constant throughout the breakdown region. In Figure 10.20(c), \(I_{Z(\mathrm{max})}\) represents the maximum reverse current. If the reverse current is increased further, the diode will be damaged. The important parameters of the reverse characteristics are
 
-•Zener breakdown voltage, \(V_{z}\) 
+- Zener breakdown voltage, \(V_{z}\) 
 
-•Minimum current to sustain breakdown, \(I_{Z(\mathrm{min})}\)
+- Minimum current to sustain breakdown, \(I_{Z(\mathrm{min})}\)
 
-![](20.png)
+![**Figure 10.20** Zener diode (a) Forward bias (b) Reverse bias (c) V-I characteristics](20.png)
 
 Maximum current limited by maximum power dissipation, \(I_{Z(\mathrm{max})}\)
 
@@ -478,17 +440,17 @@ The Zener diode is operated in the reverse bias condition with the voltage great
 
 The zener diode can be used
 
-•as voltage regulator 
+- as voltage regulator 
 
-•for calibrating voltages to provide fixed reference voltage in a network for biasing 
+- for calibrating voltages to provide fixed reference voltage in a network for biasing 
 
-•to protect of any gadget against damage from accidental application of excessive voltage.
+- to protect of any gadget against damage from accidental application of excessive voltage.
 
 **Zener diode as a voltage regulator**
 
 Zener diode as a voltage regulatorZener diode working in the breakdown region can serve as a voltage regulator whose circuit diagram is given in Figure 10.21. A series resistance \(R_{s}\) of suitable value is used to limit the Zener current to avoid any damage to the diode. This resistance also plays a role in voltage regulation. The fluctuating DC input voltage is applied to the circuit and constant output voltage \(V_{0}\) is taken across the load resistance \(R_{\mathrm{L}}\) which is connected in parallel with Zener diode. The output voltage is maintained constant as long as the input voltage is greater than \(V_{Z}\) .
 
-![](21.png)
+![**Figure 10.21** Circuit to study voltage regulation by Zener diode](21.png)
 
 If the input DC voltage is increased, the Zener current increases thereby increasing current through \(R_{\mathrm{s}}\) and the voltage drop across \(R_{\mathrm{s}}\) is also increased. The increased current flows through the diode without affecting the \(I_{\mathrm{L}}\) . Since Zener diode is operated in the breakdown region, the Zener breakdown voltage across the diode is nearly constant even though the reverse bias current through the diode increases considerably. The increase in input voltage is dropped across \(R_{\mathrm{s}}\) and hence it is also called dropping resistance. Because of the parallel connection, the voltage across \(R_{\mathrm{L}}\) is also equal to Zener breakdown voltage which is taken as constant output voltage \(V_{0}\) .
 
@@ -524,7 +486,7 @@ Optoelectronics deals with devices which convert electrical energy into light an
 
 LED is a \(p - n\) junction diode which emits visible or invisible light when it is forward biased. Since electrical energy is converted into light energy, this process is also called electroluminescence. The circuit symbol of LED is shown in Figure 10.22(a). The direction of arrows indicates that light is emitted from the diode.
 
-![](22.png)
+![**Figure 10.22** (a) Circuit symbol of LED (b) Schematic diagram to explain recombination process](22.png)
 
 
 When the \(p - n\) junction is forward biased, the conduction band electrons on \(n\) - side and valence band holes on \(p\) - side diffuse across the junction. When they cross the junction, they become excess minority carriers (electrons in \(p\) - side and holes in \(n\) - side). These excess minority carriers recombine with oppositely charged majority carriers in the respective regions, i.e. the electrons in the conduction band recombine with holes in the valence band as shown in the Figure 10.22(b).
@@ -561,7 +523,7 @@ conditioner etc.
 >
 >The wavelength \(660~\mathrm{nm}\) corresponds to red colour light.
 
-*ii) Photodiodes**
+**ii) Photodiodes**
 
 A \(p\) - \(n\) junction diode which converts an optical signal into electric signal is known as photodiode. Thus, the operation
 
@@ -570,7 +532,7 @@ of photodiode is exactly inverse to that of an LED. Photodiode works in reverse 
 
 The device consists of a \(p\) - \(n\) junction semiconductor made of photosensitive material kept safely inside a plastic case as shown in Figure 10.23(b). It has a small transparent window that allows light to be incident on the \(p\) - \(n\) junction. Photodiodes can generate current when the \(p\) - \(n\) junction is exposed to light and hence are called as light sensors.
 
-![](23.png)
+![**Figure 10.23** (a) Circuit symbol (b) Schematic view of photodiode](23.png)
 
 When a photon of sufficient energy \((hv)\) strikes the depletion region of the diode, some of the valence band electrons are elevated into conduction band, in turn holes are developed in the valence band. This creates electron- hole pairs. The amount of electron- hole pairs generated depends on the intensity of light incident on the \(p\) - \(n\) junction.
 
@@ -584,15 +546,15 @@ This reverse current in the absence of any incident light is called dark current
 
 The photodiodes are used in
 
-· alarm system
+- alarm system
 
-· count items on a conveyor belt
+- count items on a conveyor belt
 
-· photoconductors
+- photoconductors
 
-· compact disc players, smoke detectors
+- compact disc players, smoke detectors
 
-· medical applications such as detectors for
+- medical applications such as detectors for
 computed tomography etc.
 
 **iii) Solar cell**
@@ -601,7 +563,7 @@ A solar cell, also known as photovoltaic cell, works on the principle of photovo
 
 In a solar cell, electron- hole pairs are generated due to the absorption of light photons near the junction. Then the charge carriers are separated due to the electric field of the depletion region. Electrons move towards \(n\) - type silicon layer and holes move towards \(p\) - type silicon layer. The electrons reaching the \(n\) - side are collected by the front contact (metal finger contact) and holes reaching \(p\) - side are collected by the back
 
-![](24.png)
+![**Figure 10.24** Cross-sectional view of a solar cell](24.png)
 
 
 electrical contact. Thus a potential difference is developed across solar cell.When an external load is connected to the solar cell, photocurrent flows through the load.
@@ -633,7 +595,7 @@ The BJT consists of a semiconductor (silicon or germanium) crystal in which an \
 
 a \(p\) - type material sandwiched between two \(n\) - type materials (NPN transistor). To protect it against moisture, it is sealed inside a metal or a plastic case. The two types of transistors with their circuit symbols are shown in Figure 10.25.
 
-![](25.png)
+![**Figure 10.25** Schematic Diagram of (a) NPN transistor and circuit symbol (b) PNP transistor and circuit symbol](25.png)
 
 The three regions formed are called as emitter, base and collector which are provided with terminals or ohmic contacts labeled as \(E\) , \(B\) , and \(C\) . As BJT has two \(p\) - \(n\) junctions, two depletion layers are formed across the emitter- base junction \((I_{\mathrm{EB}})\) and collector- base junction \((I_{\mathrm{CB}})\) respectively. The circuit symbol carries an arrowhead at the emitter lead pointing from \(p\) to \(n\) indicating the direction of conventional current.
 
@@ -646,7 +608,7 @@ The main function of the emitter is to supply majority charge carriers to the co
 
 Base is very thin \((10^{- 6}\mathrm{m})\) and very lightly doped region when compared to the other two regions.
 
-**## Collector:**
+**Collector:**
 
 The main function of collector is to collect the majority charge carriers supplied by the emitter through the base. Hence, collector is made physically larger than the other two as it has to dissipate more power. It is moderately doped.
 
@@ -682,37 +644,31 @@ There are three types of circuit connections for operating a transistor based on
 
 The base is common to both the input and output circuits. The schematic and circuit symbol are shown in Figure 10.26(a) and 10.26(b). The input current is the emitter current \(I_{\mathrm{E}}\) and the output current is the collector current \(I_{\mathrm{C}}\) . The input signal is applied between emitter and base while the output is measured between collector and base.
 
-![](26.png)
+![**Figure 10.26** NPN transistor in common base configuration (a) Schematic circuit diagram (b) Circuit symbol](26.png)
 
 
 2) Common-Emitter (CE) configurationIn this configuration, the emitter is common to both the input and output circuits as shown in Figure 10.27. The base current \(I_{\mathrm{B}}\) is the input current and the collector current \(I_{\mathrm{c}}\) is the output current. The input signal is applied between emitter and base while the output is measured between collector and emitter.
 
-![](27.png)
-
-
+![**Figure 10.27** NPN transistor in common emitter configuration (a) Schematic circuit diagram (b) Circuit symbol](27.png)
 
 **iii) Common-Collector (CC) configuration**
 
 Here, the collector is common to both the input and output circuits as shown in Figure 10.28. The base current \(I_{\mathrm{B}}\) is the input current and the emitter current \(I_{\mathrm{E}}\) is the output current. The input signal is applied between base and collector while the output is measured between emitter and collector.
 
-![](28.png)
+
 
 >**Note**
 >
 >As the output is taken from the emitter in common collector configuration, it is called an emitter follower.
 
-![](28.png)
+![**Figure 10.28** NPN transistor in common collector configuration (a) Schematic circuit diagram (b) Circuit symbol](28.png)
 
-**Figure 10.28** NPN transistor in
-common collector configuration
-(a) Schematic circuit diagram
-(b) Circuit symbol
 
 ### 10.4.2 Transistor action in the common base mode
 
 The operation of an NPN transistor in the common base mode is explained below. The current flow in a common base NPN transistor in the forward active mode is shown in Figure 10.29.
 
-![](29.png)
+![**Figure 10.29** Flow of current in a NPN transistor](29.png)
 
 
 Basically, a BJT can be considered as two \(p\) - \(n\) junction diodes connected back- to- back. In the forward active bias of the  transistor, the emitter-base junction is forward biased by a DC power supply $V_{EB}$ and the collector-base junction is reverse biased by the bias power supply $V_{CB}$. The forward bias decreases the depletion region across the emitter-base junction and the reverse bias increases the depletion region across the collector-base junction. Hence, the barrier potential across the emitter-base junction is decreased and that across the collector-base junction is increased. The voltage across the emitter-base junction is represented as $V_{EB}$ and that across the collector-base junction as $V_{CB}$.
@@ -771,20 +727,20 @@ Input characteristic curves give the relationship between the base current \((I_
 
 Initially, the collector to emitter voltage is set to a particular value (above \(0.7 \text{V}\) to reverse bias the junction). Then the base- emitter voltage is increased in suitable steps and the corresponding base- current is recorded. A graph is plotted with \(V_{\mathrm{BE}}\) along the x- axis and \(I_{\mathrm{B}}\) along the y- axis. The procedure is repeated for different values of \(V_{\mathrm{CE}}\) .
 
-![](30.png)
+![**Figure 10.30** NPN transistor in common emitter configuration](30.png)
 
 
-![](31.png)
+![**Figure 10.31** Input characteristics](31.png)
 
 
 
 The following observations are made from the graph.
 
-·The curve looks like the forward characteristics of an ordinary \(p - n\) junction diode.
+- The curve looks like the forward characteristics of an ordinary \(p - n\) junction diode.
 
-·There exists a threshold voltage or knee voltage \((V_{\mathrm{knee}})\) below which the base current is very small. This value is 0.7 V for silicon and \(0.3\mathrm{V}\) for germanium transistors. Beyond the knee voltage, the base current increases with the increase in base- emitter voltage.
+- There exists a threshold voltage or knee voltage \((V_{\mathrm{knee}})\) below which the base current is very small. This value is 0.7 V for silicon and \(0.3\mathrm{V}\) for germanium transistors. Beyond the knee voltage, the base current increases with the increase in base- emitter voltage.
 
-·It is also noted that the increase in the collector- emitter voltage decreases the base current. This shifts the curve outward. This is because the increase in collector- emitter voltage increases the width of the depletion region which in turn, reduces the effective base width and thereby the base current.
+- It is also noted that the increase in the collector- emitter voltage decreases the base current. This shifts the curve outward. This is because the increase in collector- emitter voltage increases the width of the depletion region which in turn, reduces the effective base width and thereby the base current.
 
 **Input impedance**
 
@@ -799,7 +755,7 @@ The output characteristics give the relationship between the collector current \
 
 Initially, the base current is set to a particular value. Then collector- emitter voltage is increased in suitable steps and the corresponding collector current is recorded. A graph is plotted with \(V_{CE}\) along the \(\mathbf{x}\) - axis and \(I_{C}\) along the y- axis. This procedure is repeated for different values of \(I_{B}\) . The four important regions in the output characteristics are:
 
-![](32.png)
+![**Figure 10.32** Output characteristics](32.png)
 
 **i) Saturation region**
 
@@ -838,7 +794,8 @@ The ratio of the change in collector current \(\left(\Delta I_{C}\right)\) to th
 
 Its value is very high and it generally ranges from 50 to 200.
 
-![](33.png)
+![**Figure 10.33** Current transfer
+characteristics](33.png)
 
 
 
@@ -864,7 +821,7 @@ There is a relation between current gain in the common base configuration \(\alp
 
 The operating point is a point where the transistor can be operated efficiently. A straight line drawn by joining the points \(A(V_{CC},0)\) and \(B(0,V_{CC} / R_{C})\) is called the DC load line. The DC load line superimposed on the output characteristics of a transistor is used to learn the concept of operating point of the transistor as shown in Figure 10.34.
 
-![](34.png)
+![**Figure 10.34** Output characteristics of a transistor in common emitter mode with the DC load line](34.png)
 
 
 
@@ -878,7 +835,7 @@ For a transistor to work as a open switch, the Q point can be chosen at the cut-
 
 A transistor in saturation region acts as a closed switch while in cut- off region; it acts as an open switch. It functions like an electronic switch that helps to turn ON or OFF a given circuit by a small control signal which keeps the transistor either in saturation region or in cut- off region. The circuit is shown in Figure 10.35.
 
-![](35.png)
+![**Figure 10.35** Transistor as a switch](35.png)
 
 
 
@@ -918,7 +875,7 @@ A transistor operating in the active region has the capability to amplify weak s
 
 Here, the amplification of an electrical signal is explained with a single stage transistor amplifier which is shown in Figure 10.36(a). Single stage indicates that the circuit consists of one transistor with the allied components. An NPN transistor is connected in the common emitter configuration.
 
-![](36.png)
+![**Figure 10.36** (a) Transistor as an amplifier (b) Input and output waveforms showing 180 phase reversal.](36.png)
 
 To start with, the \(Q\) point or the operating point of the transistor is fixed so as to get the maximum signal swing at the output (neither towards saturation point nor towards cut- off).
 
@@ -949,12 +906,12 @@ Basically, there are two types of oscillators: Sinusoidal and non- sinusoidal. S
 
 frequency as shown in Figure 10.37(a). Nonsinusoidal oscillators generate complex, non- sinusoidal waveforms like squarewave, triangular- wave and sawtooth- wave as shown in Figure 10.36 (b), (c), (d).
 
-![](37.png)
+![**Figure 10.37** (a) Sinusoidal waveform (b) Square waveform (c) Triangular waveform (d)Sawtooth waveform](37.png)
 
 
 Sinusoidal oscillations are of two types: Damped and undamped. If the amplitude of the electrical oscillations decreases with time due to energy loss, it is called damped oscillations as shown in Figure 10.38(a). On the other hand, the amplitude of the electrical oscillations remains constant with time in undamped oscillations as shown in Figure 10.38(b).
 
-![](38.png)
+![**Figure 10.38** (a) Damped oscillations (b) Undamped oscillations](38.png)
 
 
 
@@ -969,7 +926,7 @@ The \(LC\) tank circuit consists of an inductance \(L\) and a capacitor \(C\) co
 
 This is a single stage amplifier which amplifies the weak signal produced by the tank circuit. The required output is supplied by this amplifier.
 
-![](39.png)
+![**Figure 10.39** (a) Block diagram of an oscillator (b) Tank circuit](39.png)
 
 **iii) Feedback network**
 
@@ -990,11 +947,11 @@ In order to produce undamped oscillations, a positive feedback is provided from 
 
 The following conditions called Barkhausen conditions should be satisfied for sustained oscillations in the oscillator.
 
-·There should be positive feedback. 
+- There should be positive feedback. 
 
-·The loop phase shift must be \(0^{\circ}\) or integral multiples of \(2\pi\) 
+- The loop phase shift must be \(0^{\circ}\) or integral multiples of \(2\pi\) 
 
-·The loop gain must be unity. That is, \(\left|AB\right| = 1\)
+- The loop gain must be unity. That is, \(\left|AB\right| = 1\)
 
 Here, \(A\) is the voltage gain of the amplifier, \(\beta\) is the feedback ratio (the fraction of the output that is fed back to the input).
 
@@ -1004,12 +961,12 @@ There are different types of oscillator circuits based on the different types of
 
 Transistor oscillators are used
 
-· to generate periodic sinusoidal or non
+- to generate periodic sinusoidal or non
 sinusoidal wave forms
 
-· to generate RF carriers
+- to generate RF carriers
 
-·  to generate clock signal in digital circuits as sweep circuits in TV sets and CRO
+- to generate clock signal in digital circuits as sweep circuits in TV sets and CRO
 
 >**EXAMPLE 10.8**
 >
@@ -1049,7 +1006,7 @@ Digital signals are signals which contain only discrete values of voltages. Digi
 
 In digital systems, there exists two voltage levels: 5V (high) and 0V (low). In a positive logic system; a binary 1 stands for 5V and 0 stands for 0V while in negative logic system, 1 stands for 0V and 0 stands for 5V as shown in Figure 10.40.
 
-![](40.png)
+![**Figure 10.40** (a) Positive logic (b) Negative logic](40.png)
 
 ### 10.5.2 Logic gates
 
@@ -1069,7 +1026,7 @@ The possible combinations of inputs and the corresponding output are given in th
 
 The circuit symbol of a two input AND gate is shown in Figure 10.41(a). \(A\) and \(B\) are inputs and \(Y\) is the output. It is a logic gate and hence \(A,B\) and \(Y\) can have the value of either 1 or 0.
 
-![](41.png)
+![**Figure 10.41** (a) Two input AND gate](41.png)
 
 
 | Inputs |  | Output |
@@ -1080,10 +1037,9 @@ The circuit symbol of a two input AND gate is shown in Figure 10.41(a). \(A\) an
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-**(b)**
+**(b) Truth table**
 
-**Figure 10.41** (a) Two input AND gate
-(b) Truth table
+
 
 **Boolean Equation***
 
@@ -1099,8 +1055,8 @@ The output of AND gate is high (1) only when all inputs are high (1). In other c
 
 **Circuit Symbol**
 The circuit symbol of a two-input OR gate is shown in Figure 10.42 (a). A and B are inputs and Y is the output.
-![](58.png)
-**(a)**
+![**Figure 10.42** (a) Two-input OR Gate](58.png)
+
 
 | Inputs | Output |
 |---|---|---|
@@ -1110,9 +1066,9 @@ The circuit symbol of a two-input OR gate is shown in Figure 10.42 (a). A and B 
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-**(b**
+**(b) Truth Table**
 
-**Figure 10.42 (a) Two-input OR Gate (b) Truth Table**
+
 
 **Boolean Equation**
 
@@ -1130,8 +1086,8 @@ The output of OR gate is high (logic level 1) when any one or both of the inputs
 
 The circuit symbol of NOT gate is shown in Figure 10.43 (a). A is the input and Y is the output.
 
-![](59.png)
-**(a)**
+![**Figure 10.43** (a) NOT Gate](59.png)
+
 
 | Input | Output |
 |---|---|
@@ -1139,9 +1095,7 @@ The circuit symbol of NOT gate is shown in Figure 10.43 (a). A is the input and 
 | 0 | 1 |
 | 1 | 0 |
 
-**b**
-
-**Figure 10.43 (a) NOT Gate (b) Truth Table**
+**(b) Truth Table**
 
 **Boolean Equation**
 
@@ -1157,8 +1111,8 @@ The output is the complement of the input. This is denoted by an overline. It is
 
 The circuit symbol of NAND gate is shown in Figure 10.44 (a). A and B are inputs and Y is the output.
 
-![](60.png)
-**(a)**
+![**Figure 10.44** (a) Two-input NAND Gate](60.png)
+
 
 | Inputs | Output (AND) | Output (NAND) |
 |---|---|---|---|
@@ -1168,9 +1122,8 @@ The circuit symbol of NAND gate is shown in Figure 10.44 (a). A and B are inputs
 | 1 | 0 | 0 | 1 |
 | 1 | 1 | 1 | 0 |
 
-**(b)**
+**(b) Truth Table**
 
-**Figure 10.44 (a) Two-input NAND Gate (b) Truth Table**
 
 **Boolean Equation**
 
@@ -1184,8 +1137,8 @@ Output Y is the complement of AND operation. The circuit consists of an AND gate
 
 **Circuit Symbol**
 
-![](61.png)
-**(a)**
+![**Figure 10.45** (a) NOR Gate](61.png)
+
 
 | Inputs | Output (OR) | Output (NOR) |
 |---|---|---|---|
@@ -1195,9 +1148,8 @@ Output Y is the complement of AND operation. The circuit consists of an AND gate
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 1 | 0 |
 
-**(b)**
+**(b) Truth Table**
 
-**Figure 10.45 (a) NOR Gate (b) Truth Table**
 
 **Boolean Equation**
 
@@ -1213,7 +1165,7 @@ Output Y is the complement of OR operation (A OR B). The circuit consists of an 
 
 The circuit symbol of EX-OR gate is shown in Figure 10.46 (a). A and B are inputs and Y is the output. EX-OR operation is denoted by \( \oplus \).
 
-![](62.png)
+![**Figure 10.46** (a) EX-OR Gate](62.png)
 **(a)**
 
 | Inputs | Output (EX-OR) |
@@ -1224,9 +1176,7 @@ The circuit symbol of EX-OR gate is shown in Figure 10.46 (a). A and B are input
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-**(ஆ)**
-
-**Figure 10.46 (a) EX-OR Gate (b) Truth Table**
+**(b) Truth Table**
 
 **Boolean Equation**
 
@@ -1367,7 +1317,7 @@ From the above truth table, we can conclude:
 Thus, De Morgan's first theorem is proved. This implies that a NOR gate is equivalent to a bubbled AND gate.
 
 The related logic circuit is shown in Figure 10.47.
-![](47.png)
+![**Figure 10.47** NOR gate equals bubbled AND gate](47.png)
 
 
 ### 10.7.2 De Morgan's Second Theorem
@@ -1400,7 +1350,7 @@ From the above truth table, we can conclude:
 Thus, De Morgan's second theorem is proved. This implies that a NAND gate is equivalent to a bubbled OR gate.
 
 The related logic circuit is shown in Figure 10.48.
-![](48.png)
+![**Figure 10.48** NAND gate equals bubbled OR gate](48.png)
 
 
 >**Example 10.11**
@@ -1424,7 +1374,7 @@ An integrated circuit is also referred to as IC or chip or microchip (Figure 10.
 Integrated circuits (ICs) are a milestone in modern electronics. Due to technological advancement and the advent of VLSI (Very Large Scale Integration) era, it is possible to create a very large number of transistors on a single integrated chip.
 
 Compared to ordinary circuits, integrated circuits have two main advantages: cost and performance. Due to technological advancement, the size, speed and capacity of chips have been greatly improved. Nowadays, computers, mobile phones and other household digital devices have become smaller and cheaper due to integrated circuits. Integrated circuits can function as amplifiers, oscillators, timing circuits, microprocessors and computer memory.
-![](49.png)
+![**Figure 10.49** Circuits with integratedchips](49.png)
 
 
 These tiny integrated circuits perform calculations and store data using digital or analog technology. Digital ICs use logic gates that operate with values of one and zero. A low signal to a digital IC produces value 0, and a high signal produces value 1.
@@ -1467,7 +1417,7 @@ Figure 10.50(a) shows the baseband signal carrying information. Figure 10.50(b) 
 
 We can see that the amplitude of the carrier wave changes according to the voltage of the baseband signal.
 
-![](50.png)
+![**Figure 10.50** Amplitude Modulation (a) Baseband signal (b) Carrier signal (c) Modulated signal](50.png)
 
 
 
@@ -1495,7 +1445,7 @@ The increase in voltage of the baseband signal increases the frequency of the ca
 
 When the voltage of the baseband signal is zero (when there is no input signal), there is no change in the frequency of the carrier wave. It is at its normal frequency. This is called the centre or resting frequency. In practice, this is the frequency allocated for FM broadcasting.
 
-![](51.png)
+![**Figure 10.51** Frequency Modulation (a) Baseband signal (b) Carrier signal (c) Frequency modulated signal](51.png)
 
 
 
@@ -1542,7 +1492,7 @@ The transmitter delivers the electrical signal from the transducer to the commun
 
 **Amplifier:** Since the output of the transducer is very weak, it is amplified by an amplifier.
 
-![](52.png)
+![**Figure 10.52** Block diagram of transmission and reception of voice signals](52.png)
 
 
 **Oscillator:** For long-distance transmission in space, it generates high-frequency carrier waves (sine waves). Since the energy of a wave is directly proportional to its frequency, the carrier wave has very high energy.
@@ -1573,7 +1523,6 @@ Repeaters are used to increase the range or distance over which signals are tran
 
 It converts the electrical signal back into its original form: sound, music, images or data. Speakers, picture tubes, and computer monitors are examples of output transducers.
 
-**Figure 10.52 Block diagram of voice signal transmission and reception**
 
 ### 10.10.1 Basic Definitions in Electronic Communication System
 
@@ -1620,7 +1569,7 @@ Electromagnetic waves transmitted from an antenna at a high angle upwards are re
 
 The ionosphere acts as a reflecting surface. It starts approximately at 50 km and extends up to 400 km above the earth's surface. Due to the absorption of high-energy radiation such as ultraviolet rays from the sun, cosmic rays and \( \alpha, \beta \) rays, the air molecules in the ionosphere are ionized. This creates charged ions, and those ions create a medium that reflects radio waves or communication waves (in the permitted frequency range) back to the earth. The phenomenon of radio waves returning to the earth is total internal reflection.
 
-![](53.png)
+![**Figure 10.53** Propagation of EM waves (a) Ground wave (b) Sky wave (c) Space wave](53.png)
 
 
 As the angle of incidence in the ionosphere increases, the sky wave reaches the ground area far from the transmitter. As this angle of incidence decreases, the sky wave begins to approach the ground area near the transmitter. As the angle of incidence decreases further, the radio waves penetrate the ionosphere and escape. For a specific angle of incidence, the receiving point (B) is found at a minimum distance from the transmitter. The minimum distance between the transmitter and the point where the sky wave reaches the ground is called the skip distance.
@@ -1638,7 +1587,7 @@ The range or distance of propagation (d) depends on the height of the antenna (h
 \[ d = \sqrt{2Rh} \qquad (10.9) \]
 
 where R is the radius of the earth. The propagation distance is illustrated in Figure 10.54.
-![](54.png)
+![**Figure 10.54** Distance of coverage](54.png)
 
 
 >**Example 10.12**
@@ -1656,7 +1605,7 @@ where R is the radius of the earth. The propagation distance is illustrated in F
 
 Various types of communication systems exist in practice according to requirements. Here, some important communication systems are introduced and their applications are briefly discussed.
 
-**Figure 10.55 Satellite communication system**
+
 
 ### 10.12.1 Satellite and Satellite Communication
 
@@ -1676,10 +1625,10 @@ via a downlink (frequency band 4 GHz)
 
 Satellites are classified into different
 types based on their applications.
+![**Figure 10.55** Satellite communication system](55.png)
 
 **i) Weather satellite:** These are used to monitor the earth's weather and surface temperature. By measuring the mass of clouds, these satellites help us predict rain, dangerous cyclones and storms.
 
-![](55.png)
 
 
 
@@ -1691,8 +1640,7 @@ types based on their applications.
 
 Fibre optic communication is the method of transmitting information through optical fibres from one place to another using light pulses. It operates on the principle of total internal reflection.
 
-**Figure 10.56 Optical fibres**
-
+![**Figure 10.56** optical fibers](56.png)
 **Applications**
 
 Optical fibre system has various applications: international communication, intercity communication, data links, factory and traffic control, and military applications.
@@ -1737,7 +1685,7 @@ iv) In emergency situations, it helps locate and rescue people.
 
 Mobile communication is used to communicate with others in different locations without the use of any physical connection like wires or cables. It allows the transmission over a wide range of area without the use of the physical link. It enables the people to communicate with each other regardless of a particular location like office, house etc. It also provides communication access to remote areas.
 
-![](57.png)
+![**Figure 10.57** Mobile communication](57.png)
 
 
 It provides the facility of roaming – that is, the user may move from one place to another without the need of compromising on the communication. The maintenance and cost of installation of this communication network are also cheap.
@@ -2036,11 +1984,11 @@ d) Satellite communication
 
 28. What does RADAR stand for?
 
-29. Prove that optical fibre communication is better among various types of communication.
+29. Fiber optic communication is gaining popularity among the various transmission media -justify.
 
 ### III. Long answer questions
 
-1. Write in detail about the formation of n-type extrinsic semiconductors.
+1. Elucidate the formation of n-type extrinsic semiconductors.
 
 2. Explain the formation of depletion region and voltage barrier in a PN junction diode.
 
@@ -2052,40 +2000,42 @@ d) Satellite communication
 
 6. Write a note on photodiode.
 
-7. Describe the working principle of a solar cell. Mention its applications.
+7. Explain the working principle of a solar
+cell. Mention its applications.
 
-8. Draw the common emitter transistor characteristics and give the important points of input and output characteristics.
+8. Sketch the static characteristics of a common emitter transistor and bring out the essential features of input and output characteristics.
 
-9. Explain how a transistor acts as a switch.
+9. Transistor functions as a switch. Explain.
 
-10. Explain how a transistor acts as an amplifier with a clear circuit diagram. Draw the input and output waveforms.
+10. Describe the function of a transistor as an amplifier with the neat circuit diagram. Sketch the input and output wave forms.
 
-11. For the following logic gates, give the circuit symbol, logic operation, truth table and Boolean equation: i) AND gate ii) OR gate iii) NOT gate iv) NAND gate v) NOR gate vi) EX-OR gate.
+11. Give circuit symbol, logical operation, truth table, and Boolean expression of i) AND gate ii) OR gate iii) NOT gate iv) NAND gate v) NOR gate and vi)  EX-OR gate.
 
-12. State and prove De Morgan's first and second theorems.
+12. State and prove De Morgan’s first and second theorem.
 
-13. Explain amplitude modulation with necessary diagrams.
+13. Explain the ampitude modulation with necessary diagrams.
 
-14. Describe the basic elements of a communication system with a necessary block diagram.
+14. Explain the basic elements of communication system with the necessary block diagram.
 
-15. Explain ground wave propagation and space wave propagation of electromagnetic waves through space.
+15. Explain the ground wave propagation and space wave propagation of electromagnetic waves through space.
 
-16. List the advantages and disadvantages of frequency modulation.
+16. List out the advantages and limitations of frequency modulation.
 
-17. What is satellite communication? What are its applications?
+17. What is meant by satellite communi-
+cation? Give its applications.
 
 ### IV. Numerical problems
 
 1. Calculate the current flowing through the resistor \( R_1 \) in the given circuit with two ideal diodes connected as shown in the figure. [Answer: 2.5 A]
-
+![](Q1.png)
 2. In the following figure, four silicon diodes and a 10 \( \Omega \) resistor are connected. If each diode has a resistance of 1 \( \Omega \), calculate the current flowing through the 10 \( \Omega \) resistor. [Answer: 0.13 A]
-
+![](Q2.png)
 3. If \( V_{CEsat} = 0.2 \ \mathrm{V} \) and \( \beta = 50 \), calculate the minimum base current (\( I_B \)) required to drive the transistor in the figure to saturation. [Answer: 56 \( \mu A \)]
-
+![](Q3.png)
 4. For the BJT in the circuit shown in the figure, current gain \( \beta = 50 \). For an emitter-base voltage difference of \( V_{EB} = 600 \ \mathrm{mV} \), calculate the emitter-collector voltage difference \( V_{EC} \) in volts. [Answer: 2 V]
-
+![](Q4.png)
 5. Find the currents flowing through the 3 \( \Omega \) and 4 \( \Omega \) resistors in the following circuit. Assume \( D_1 \) and \( D_2 \) are ideal diodes. [Answer: 0 and 2A]
-
+![](Q5.png)
 6. Prove the following Boolean equations using laws and theorems of Boolean algebra.
 
 i) \( (A+B)(A+B) = A \)
@@ -2098,8 +2048,10 @@ iii) \( (A+B)(A+C) = A+BC \)
 
 8. In the following voltage regulator circuit, a Zener diode with breakdown voltage 15 V is used. Find the current through the load resistor, total current, and current through the diode. Assume ideal diode. [Answer: 5mA; 20 mA; 15 mA]
 
+![](Q8.png)
 9. For the given circuit, give the Boolean equation for output Y and its truth table. [Answer: \( Y = (AB)+(A+B) \)]
 
+![](Q9.png)
 ### Internet Activity
 
 **Subject:** Electronics and Communication Systems
