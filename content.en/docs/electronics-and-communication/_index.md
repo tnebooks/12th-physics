@@ -1190,7 +1190,7 @@ If any one of the two inputs is high, the output is high. For more than two inpu
 >
 >In the following circuit, if all three inputs A, B and C are initially 0 and then 1, what is the output Y?
 >
->![](Ex-9.png)
+>![](EX-9.png)
 >
 >**Solution**
 >
@@ -1202,7 +1202,7 @@ If any one of the two inputs is high, the output is high. For more than two inpu
 >**Example 10.10**
 >
 >Write the Boolean equation for output Y for the combination of logic gates given below with inputs A and B.
->![](Ex-10.png)
+>![](EX-10.png)
 >
 >**Solution**
 >
@@ -1593,7 +1593,7 @@ where R is the radius of the earth. The propagation distance is illustrated in F
 >**Example 10.12**
 >
 >The height of a transmitting antenna is 40 m and the height of a receiving antenna is 30 m. What is the maximum line-of-sight communication distance between them? The radius of the earth is \( 6.4 \times 10^6 \ \mathrm{m} \).
->![](Ex-12.png)
+>![](EX-12.png)
 >**Solution:**
 >
 >The total distance d between the transmitting and receiving antennas is equal to the sum of the individual propagation distances.
