@@ -18,88 +18,88 @@ categories:
     - electrostatics
 summary: "This unit introduces the fundamentals of electricity and magnetism, starting with their historical development and real-life applications of electrostatic forces. It covers key concepts such as Coulomb’s law, the superposition principle, and the idea of an electric field, including how to calculate it for different charge systems."
 ---
+### 1.1INTRODUCTION
+Electromagnetism is one of the most important branches of physics. The technological developments of the modern $21^{\mathrm{st}}$ century are primarily due to our understanding of electromagnetism. The forces we experience in everyday life are electromagnetic in nature except gravity.
 
-    Electromagnetism is one of the most important branches of physics. The technological developments of the modern $21^{\mathrm{st}}$ century are primarily due to our understanding of electromagnetism. The forces we experience in everyday life are electromagnetic in nature except gravity.
+In standard XI, we studied about the gravitational force, tension, friction, normal force etc. Newton treated them to be independent of each other with each force being a separate natural force. But what is the origin of all these forces? It is now understood that except gravity, all forces which we experience in every day life (tension in the string, normal force from the surface, friction etc.) arise from electromagnetic forces within the atoms. Some examples are
 
-    In standard XI, we studied about the gravitational force, tension, friction, normal force etc. Newton treated them to be independent of each other with each force being a separate natural force. But what is the origin of all these forces? It is now understood that except gravity, all forces which we experience in every day life (tension in the string, normal force from the surface, friction etc.) arise from electromagnetic forces within the atoms. Some examples are
+1. When an object is pushed, the atoms in our hand interact with the atoms in the object and this interaction is basically electromagnetic in nature. 
+2. When we stand on Earth's surface, the gravitational force on us acts downwards and the normal force acts upward to counter balance the gravitational force. What is the origin of this normal force? It arises due to the electromagnetic interaction of atoms on the surface of the Earth with the atoms present in the feet of the person. Though, we are attracted by the gravitational force of the Earth, we stand on Earth only because of electromagnetic force of atoms.
+3. When an object is moved on a surface, static friction resists the motion of the object. This static friction arises due to electromagnetic interaction between the atoms present in the object and atoms on the surface. Kinetic friction also has similar origin.
 
-    1. When an object is pushed, the atoms in our hand interact with the atoms in the object and this interaction is basically electromagnetic in nature. 
-    2. When we stand on Earth's surface, the gravitational force on us acts downwards and the normal force acts upward to counter balance the gravitational force. What is the origin of this normal force? It arises due to the electromagnetic interaction of atoms on the surface of the Earth with the atoms present in the feet of the person. Though, we are attracted by the gravitational force of the Earth, we stand on Earth only because of electromagnetic force of atoms.
-    3. When an object is moved on a surface, static friction resists the motion of the object. This static friction arises due to electromagnetic interaction between the atoms present in the object and atoms on the surface. Kinetic friction also has similar origin.
+From these examples, it is clear that understanding electromagnetism is very essential to understand the universe in a holistic manner. The basic principles of electromagnetism are dealt with in volume 1 at XII standard physics. This unit deals with the behaviour and other related phenomena of charges at rest. This branch of electricity which deals with stationary charges is called Electrostatics.
 
-    From these examples, it is clear that understanding electromagnetism is very essential to understand the universe in a holistic manner. The basic principles of electromagnetism are dealt with in volume 1 at XII standard physics. This unit deals with the behaviour and other related phenomena of charges at rest. This branch of electricity which deals with stationary charges is called Electrostatics.
+### 1.1.1Historical background of electric charges
 
-    ### Historical background of electric charges
+Two millenniums ago, Greeks noticed that amber (a solid, translucent material formed from the resin of a fossilized tree)
 
-    Two millenniums ago, Greeks noticed that amber (a solid, translucent material formed from the resin of a fossilized tree)
+after rubbing with animal fur attracted small pieces of leaves and dust. The amber possessing this property is said to be charged. It was initially thought that amber has this special property. Later people found that not only amber but even a glass rod rubbed with silk cloth, attracts pieces of papers. So glass rod also becomes charged when rubbed with a suitable material.
 
-    after rubbing with animal fur attracted small pieces of leaves and dust. The amber possessing this property is said to be charged. It was initially thought that amber has this special property. Later people found that not only amber but even a glass rod rubbed with silk cloth, attracts pieces of papers. So glass rod also becomes charged when rubbed with a suitable material.
+Consider a charged rubber rod hanging from a thread as shown in Figure 1.1. Suppose another charged rubber rod is brought near the first rubber rod; the rods repel each other. Now if we bring a charged glass rod close to the charged rubber rod, they attract each other. At the same time, if a charged glass rod is brought near another charged glass rod, both the rods repel each other.
 
-    Consider a charged rubber rod hanging from a thread as shown in Figure 1.1. Suppose another charged rubber rod is brought near the first rubber rod; the rods repel each other. Now if we bring a charged glass rod close to the charged rubber rod, they attract each other. At the same time, if a charged glass rod is brought near another charged glass rod, both the rods repel each other.
+![](A.png)
+<center>Figure 1.1 (a) Unlike charges attract each other (b) Like charges repel each other </center>
 
-    ![](A.png)
-    <center>Figure 1.1 (a) Unlike charges attract each other (b) Like charges repel each other </center>
+From these observations, the following inferences are made
 
-    From these observations, the following inferences are made
+(i) The charging of rubber rod and that of glass rod are different from one another. (ii) The charged rubber rod repels another charged rubber rod, which implies that like charges repel each other'. We can also arrive at the same inference by observing that a charged glass rod repels another charged glass rod. (iii) The charged rubber rod attracts the charged glass rod, implying that the charge in the glass rod is not the same kind of charge present in the rubber. Thus unlike charges attract each other.
 
-    (i) The charging of rubber rod and that of glass rod are different from one another. (ii) The charged rubber rod repels another charged rubber rod, which implies that like charges repel each other'. We can also arrive at the same inference by observing that a charged glass rod repels another charged glass rod. (iii) The charged rubber rod attracts the charged glass rod, implying that the charge in the glass rod is not the same kind of charge present in the rubber. Thus unlike charges attract each other.
+Thus unlike charges attract each other.
 
-    Thus unlike charges attract each other.
-
-    Therefore, two kinds of charges exist in the universe. In the $18^{\mathrm{th}}$ century, Benjamin Franklin called one type of charge as positive $(+)$ and another type of charge as negative $(-)$ . Based on Franklin's convention, rubber and amber rods are negatively charged while the glass rod is positively charged. If the net charge is zero in the object, it is said to be electrically neutral.
-
-
-    Following the pioneering work of J. J. Thomson and E. Rutherford, in the late 19th century and in the beginning of 20th century, we now understand that the atom is electrically neutral and is made up of the negatively charged electrons, positively charged protons, and neutrons which have zero charge. The material objects made up of atoms are neutral in general. When an object is rubbed with another object (for example rubber with silk cloth), some amount of charge is transferred from one object to another due to the friction between them and the object is then said to be electrically charged. Charging the objects through rubbing is called triboelectric charging.
-
-    # Basic properties of charges
-
-    ## (i) Electric charge
-
-    Most objects in the universe are made up of atoms, which in turn are made up of protons, neutrons and electrons. These particles have mass, an inherent property of particles. Similarly, the electric charge is another intrinsic and fundamental property of particles. The nature of charges is understood through various experiments performed in the $19^{\mathrm{th}}$ and $20^{\mathrm{th}}$ century. The SI unit of charge is coulomb.
-
-    ## (ii) Conservation of charges
-
-    Benjamin Franklin argued that when one object is rubbed with another object, charges get transferred from one to the other. Before rubbing, both objects are electrically neutral and rubbing simply transfers the charges from one object to the other. (For example, when a glass rod is rubbed against silk cloth, some negative charge are transferred from glass to silk. As a result, the glass rod is positively charged and silk cloth becomes negatively charged).
-
-    From these observations, he concluded that charges are neither created nor destroyed but can only be transferred from one object to other. This is called conservation of total charges and is one of the fundamental conservation laws in physics. It is stated more generally in the following way.
-
-    The total electric charge in the universe is constant and charge can neither be created nor be destroyed. In any physical process, the net change in charge will always be zero.
-
-    ## (iii) Quantisation of charges
-
-    What is the smallest amount of charge that can be found in nature? Experiments show that the charge on an electron is $-e$ and the charge on a proton is $+e$. Here, $e$ denotes the fundamental unit of charge. The charge $q$ on any object is equal to an integral multiple of this fundamental unit of charge e.
-
-    $$
-    q = ne \qquad (1.1)
-    $$
-
-    Here $n$ is any integer $(0,\ \pm1,\ \pm2,\ \pm3,\ \pm4,\ldots)$. This is called quantisation of electric charge.
-
-    Robert Millikan in his famous experiment found that the value of $e$ =   $1.6 \times 10^{-19}\,\text{C}$. The charge of an electron is $-1.6 \times 10^{-19}\,\text{C}$ and the charge of a proton is $+1.6 \times 10^{-19}\,\text{C}$.
-
-    When a glass rod is rubbed with silk cloth, the number of charges transferred is usually very large, typically of the order of $10^{18}$. So the charge quantisation is not appreciable at the macroscopic level. Hence, the charges are treated to be continuous (not discrete). But at the microscopic level, quantisation of charge plays a vital role.
-
-    **EXAMPLE 1.1**
-
-    Calculate the number of electrons in one coulomb of negative charge.
-
-    **Solution**
-
-    According to the quantisation of charge,
-
-    $$
-    q = ne
-    $$
-
-    Here $q = 1\,\text{C}$. So the number of electrons in $1$ coulomb of charge is
-
-    $$
-    n = \frac{q}{e}
-    = \frac{1\,\text{C}}{1.6 \times 10^{-19}}
-    = 6.25 \times 10^{18}\ \text{electrons}
-    $$
+Therefore, two kinds of charges exist in the universe. In the $18^{\mathrm{th}}$ century, Benjamin Franklin called one type of charge as positive $(+)$ and another type of charge as negative $(-)$ . Based on Franklin's convention, rubber and amber rods are negatively charged while the glass rod is positively charged. If the net charge is zero in the object, it is said to be electrically neutral.
 
 
+Following the pioneering work of J. J. Thomson and E. Rutherford, in the late 19th century and in the beginning of 20th century, we now understand that the atom is electrically neutral and is made up of the negatively charged electrons, positively charged protons, and neutrons which have zero charge. The material objects made up of atoms are neutral in general. When an object is rubbed with another object (for example rubber with silk cloth), some amount of charge is transferred from one object to another due to the friction between them and the object is then said to be electrically charged. Charging the objects through rubbing is called triboelectric charging.
+
+# 1.1.2 Basic properties of charges
+
+## (i) Electric charge
+
+Most objects in the universe are made up of atoms, which in turn are made up of protons, neutrons and electrons. These particles have mass, an inherent property of particles. Similarly, the electric charge is another intrinsic and fundamental property of particles. The nature of charges is understood through various experiments performed in the $19^{\mathrm{th}}$ and $20^{\mathrm{th}}$ century. The SI unit of charge is coulomb.
+
+## (ii) Conservation of charges
+
+Benjamin Franklin argued that when one object is rubbed with another object, charges get transferred from one to the other. Before rubbing, both objects are electrically neutral and rubbing simply transfers the charges from one object to the other. (For example, when a glass rod is rubbed against silk cloth, some negative charge are transferred from glass to silk. As a result, the glass rod is positively charged and silk cloth becomes negatively charged).
+
+From these observations, he concluded that charges are neither created nor destroyed but can only be transferred from one object to other. This is called conservation of total charges and is one of the fundamental conservation laws in physics. It is stated more generally in the following way.
+
+The total electric charge in the universe is constant and charge can neither be created nor be destroyed. In any physical process, the net change in charge will always be zero.
+
+## (iii) Quantisation of charges
+
+What is the smallest amount of charge that can be found in nature? Experiments show that the charge on an electron is $-e$ and the charge on a proton is $+e$. Here, $e$ denotes the fundamental unit of charge. The charge $q$ on any object is equal to an integral multiple of this fundamental unit of charge e.
+
+$$
+q = ne \qquad (1.1)
+$$
+
+Here $n$ is any integer $(0,\ \pm1,\ \pm2,\ \pm3,\ \pm4,\ldots)$. This is called quantisation of electric charge.
+
+Robert Millikan in his famous experiment found that the value of $e$ =   $1.6 \times 10^{-19}\,\text{C}$. The charge of an electron is $-1.6 \times 10^{-19}\,\text{C}$ and the charge of a proton is $+1.6 \times 10^{-19}\,\text{C}$.
+
+When a glass rod is rubbed with silk cloth, the number of charges transferred is usually very large, typically of the order of $10^{18}$. So the charge quantisation is not appreciable at the macroscopic level. Hence, the charges are treated to be continuous (not discrete). But at the microscopic level, quantisation of charge plays a vital role.
+
+**EXAMPLE 1.1**
+
+Calculate the number of electrons in one coulomb of negative charge.
+
+**Solution**
+
+According to the quantisation of charge,
+
+$$
+q = ne
+$$
+
+Here $q = 1\,\text{C}$. So the number of electrons in $1$ coulomb of charge is
+
+$$
+n = \frac{q}{e}
+= \frac{1\,\text{C}}{1.6 \times 10^{-19}}
+= 6.25 \times 10^{18}\ \text{electrons}
+$$
+
+### 1.2COULOMB’S LAW
 In the year 1786, Coulomb deduced the expression for the force between two stationary point charges in vacuum or free space. Consider two point charges \(q_{1}\) and \(q_{2}\) at rest in vacuum, and separated by a distance of \(r\) as shown in Figure 1.2. According to Coulomb, the force on the point charge \(q_{2}\) exerted by another point charge \(q_{1}\) is
 
 $$
@@ -239,9 +239,7 @@ $$
 
 >**Note:**
 >
->Note that the strength of the force between the two charges in water is reduced by 80 times compared to the force between the same two charges in vacuum.
-
-When common salt (NaCl) is taken in water, the electrostatic force between Na and Cl ions is reduced due to the high relative permittivity of water \((\epsilon_{\mathrm{r}} = 80)\). This is the reason water acts as a good solvent.
+>Note that the strength of the force between the two charges in water is reduced by 80 times compared to the force between the same two charges in vacuum.When common salt (NaCl) is taken in water, the electrostatic force between Na and Cl ions is reduced due to the high relative permittivity of water \((\epsilon_{\mathrm{r}} = 80)\). This is the reason water acts as a good solvent.
 
 **EXAMPLE 1.3**
 
@@ -349,7 +347,7 @@ The electrostatic force between a proton and an electron is enormously greater t
 ![Figure 1.3 Electrostatic attraction between a comb and pieces of papers](G.png)
 
 
-### Superposition principle
+###  1.2.1Superposition principle
 
 Coulomb's law explains the interaction between two point charges. If there are more than two charges, the force on one charge due to all the other charges needs to be calculated. Coulomb's law alone does not give the answer. The superposition principle explains the interaction between multiple charges.
 
@@ -377,7 +375,10 @@ $$
 $$
 \vec{F}_{1}^{tot} = k\left\{\frac{q_{1}q_{2}}{r_{21}^{2}}\hat{r}_{21} + \frac{q_{1}q_{3}}{r_{31}^{2}}\hat{r}_{31} + \frac{q_{1}q_{4}}{r_{41}^{2}}\hat{r}_{41} + \dots + \frac{q_{1}q_{n}}{r_{n1}^{2}}\hat{r}_{n1}\right\} \quad (1.3)
 $$
-
+>Without the superposition
+principle, Coulomb’s law will
+be incomplete when applied
+to more than two charges.
 Both the superposition principle and Coulomb's law form fundamental principles of electrostatics and explain all the phenomena in electrostatics. But they are not derivable from each other.
 
 **EXAMPLE 1.5**
@@ -461,8 +462,8 @@ $$
 $$
 
 The resultant force is along the positive \(x\) axis.
-
-### Electric Field
+### 1.3 ELECTRIC FIELD AND ELECTRIC FIELD LINES
+###  1.3.1Electric Field
 
 The interaction between two charges is determined by Coulomb's law. How does the interaction itself occur? Consider a point charge kept at a point in space. If another point charge is placed at some distance from the first point charge, it experiences either an attractive force or repulsive force. This is called 'action at a distance'. But how does the second charge know about existence of the first charge which is located at some distance away from it? To answer this question, Michael Faraday introduced the concept of field.
 
@@ -489,13 +490,13 @@ Here \(\hat{r}\) is the unit vector pointing from \(q\) to the point of interest
 ![Figure 1.4 Electric field of positive and negative charges](J.png)
 
 (ii) If the electric field at a point \(\mathrm{P}\) is \(\vec{E}\) then the force experienced by the test charge \(q\_{\mathrm{o}}\) placed at the point \(\mathrm{P}\) is
-
+ 
 $$
 \vec{F} = q_0\vec{E} \quad (1.5)
 $$
 
 This is Coulomb's law in terms of electric field.
-
+![](image-1.png)
 (iii) The equation (1.4) implies that the electric field is independent of the test charge \(q\_{\mathrm{o}}\) and it depends only on the source charge \(q\).
 
 (iv) Since the electric field is a vector quantity, at every point in space, this field has unique direction and magnitude. From equation (1.4), we can infer that as distance increases, the electric field decreases in magnitude.
@@ -578,7 +579,7 @@ At the point Q the electric field is directed along the positive \(x\)-axis.
 
 ![](O.png)
 
-### Electric field due to the system of point charges
+###  1.3.2Electric field due to the system of point charges
 
 Suppose a number of point charges are distributed in space. To find the electric field at some point P due to this collection of point charges, superposition principle is used. The electric field at an arbitrary point due to a collection of point charges is simply equal to the vector sum of the electric fields created by the individual point charges. This is called superposition of electric fields.
 
@@ -653,7 +654,7 @@ $$
 
 The electron is accelerated in a direction exactly opposite to $\overline{E}_A$.
 
-### Electric field due to continuous charge distribution
+### 1.3.3 Electric field due to continuous charge distribution
 
 The electric charge is quantized microscopically. The expressions (1.2), (1.3), (1.4) are applicable to only point charges. While dealing with the electric field due to a charged sphere or a charged wire etc., it is very difficult to look at individual charges in these charged bodies. Therefore, it is assumed that charge is distributed continuously on the charged bodies and the discrete nature of charges is not considered here. The electric field due to such continuous charge distributions is found by invoking the method of calculus.
 
@@ -703,7 +704,7 @@ $$
 E = \frac{mg}{qL}
 $$
 
-### Electric field lines
+### 1.3.4 Electric field lines
 
 Electric field vectors are visualized by the concept of electric field lines. They form a set of continuous lines which are the visual representation of the electric field in some region of space. The following rules are followed while drawing electric field lines for charges.
 
@@ -758,8 +759,8 @@ The following pictures depict electric field lines for various charge configurat
 (ii) In figure (b), the number of field lines emanating from both positive charges are equal (N=18). So the charges are equal. At point A, the electric field lines are denser compared to the lines at point B. So the electric field at point A is greater in magnitude compared to the field at point B. Further, no electric field line passes through C, which implies that the resultant electric field at C due to these two charges is zero.
 
 (iii) In the figure (c), the electric field lines start at \(q_{1}\) and \(q_{3}\) and end at \(q_{2}\). This implies that \(q_{1}\) and \(q_{3}\) are positive charges. The ratio of the number of field lines is \(\left|\frac{q_1}{q_2}\right| = \frac{8}{16} = \left|\frac{q_3}{q_2}\right| = \frac{1}{2}\), implying that \(q_{1}\) and \(q_{3}\) are half of the magnitude of \(q_{2}\). So \(q_{1} = q_{3} = +10 \mathrm{nC}\).
-
-### Electric dipole
+### 1.4 ELECTRIC DIPOLE AND ITS PROPERTIES
+###  1.4.1Electric dipole
 
 Two equal and opposite charges separated by a small distance constitute an electric dipole. In many molecules, the centres of positive and negative charge do not coincide. Such molecules behave as permanent dipoles. Examples: CO, water, ammonia, HCl etc.
 
@@ -821,7 +822,7 @@ The water molecule \(\mathrm{H}_{2}\mathrm{O}\) has this charge configuration. T
 
 ![](a6.png)
 
-### Electric field due to a dipole
+### 1.4.2  Electric field due to a dipole
 
 **Case (i) Electric field due to an electric dipole at points on the axial line**
 
@@ -925,7 +926,7 @@ $$
 
 (iii) The equations (1.17) and (1.21) are valid only at very large distances (r>>a). Suppose the distance 2a approaches zero and q approaches infinity such that the product of 2aq = p is finite, then the dipole is called a point dipole. For such point dipoles, equations (1.17) and (1.21) are exact and hold true for any r.
 
-### Torque experienced by an electric dipole in the uniform electric field
+### 1.4.3 Torque experienced by an electric dipole in the uniform electric field
 
 Consider an electric dipole of dipole moment \(\vec{p}\) placed in a uniform electric field \(\vec{E}\) whose field lines are equally spaced and point in the same direction. The charge \(+q\) will experience a force \(q\vec{E}\) in the direction of the field and charge \(-q\) will experience a force \(-q\vec{E}\) in a direction opposite to the field. Since the external field \(\vec{E}\) is uniform, the total force acting on the dipole is zero. These two forces acting at different points will constitute a couple and the dipole experience a torque. This torque tends to rotate the dipole. (Note that electric field lines of a uniform field are equally spaced and point in the same direction).
 
@@ -978,13 +979,14 @@ $$
 \tau_{\mathrm{max}} = 10.2\times 10^{-26}\mathrm{Nm}
 $$
 
-**Microwave oven works on the principle of torque acting on an electric dipole. The food we consume has water molecules which are permanent electric dipoles. Oven produces microwaves that are oscillating electromagnetic fields and produce torque on the water molecules. Due to this torque on each water molecule, the molecules rotate very fast and produce thermal energy. Thus, heat generated is used to heat the food.**
+>**![](image-2.png)Microwave oven works on the principle of torque acting on an electric dipole. The food we consume has water molecules which are permanent electric dipoles. Oven produces microwaves that are oscillating electromagnetic fields and produce torque on the water molecules. Due to this torque on each water molecule, the molecules rotate very fast and produce thermal energy. Thus, heat generated is used to heat the food.**
 
+###  1.5ELECTROSTATIC POTENTIAL AND POTENTIAL ENERGY
 
-
+Introduction
 In mechanics, potential energy is defined for conservative forces. Since gravitational force is a conservative force, its gravitational potential energy is defined. Since Coulomb force is an inverse-square-law force, its also a conservative force like gravitational force. Therefore, we can define potential energy for charge configurations.
 
-### Electrostatic Potential energy and Electrostatic potential
+###  1.5.1 Electrostatic Potential energy and Electrostatic potential
 
 Consider a positive charge \(q\) kept fixed at the origin which produces an electric field \(\vec{E}\) around it. A positive test charge \(q^{\prime}\) is brought from point R to point P against the repulsive force between \(q\) and \(q^{\prime}\) as shown in Figure 1.20. Work must be done to overcome the repulsion between the charges and this work done is stored as potential energy of the system.
 
@@ -1031,10 +1033,10 @@ $$
 
 1. Electric potential at point P depends only on the electric field which is due to the source charge \(q\) and not on the test charge \(q^{\prime}\). Unit positive charge is brought from infinity to the point P with constant velocity because external agency should not impart any kinetic energy to the test charge.
 2. From equation (1.29), the unit of electric potential is Joule per coulomb. The practical unit is volt (V) named after Alessandro Volta (1745-1827) who invented the electrical battery. The potential difference between two points is expressed in terms of volt.
+>Note  
+The description of motion of objects using the concept of potential or potential energy is simpler than that using the concept of field.
 
-**Note: In the case of gravitational force, mass moves from a point of higher gravitational potential to a point of lower gravitational potential. Similarly a positive charge moves from a point of higher electrostatic potential to a point of lower electrostatic potential. However a negative charge moves from lower electrostatic potential to higher electrostatic potential.**
-
-### Electric potential due to a point charge
+###  1.5.2 Electric potential due to a point charge
 
 Consider a positive charge \(q\) kept fixed at the origin. Let P be a point at distance r from the charge \(q\).
 
@@ -1177,7 +1179,7 @@ $$
 
 Hence, \(x = 3\mathrm{m}\)
 
-### Electrostatic potential at a point due to an electric dipole
+### 1.5.3 Electrostatic potential at a point due to an electric dipole
 
 Consider two equal and opposite charges separated by a small distance \(2a\) as shown in Figure 1.25. The point P is located at a distance \(r\) from the midpoint of the dipole. Let \(\theta\) be the angle between the line OP and dipole axis AB.
 
@@ -1295,9 +1297,9 @@ $$
 V = 0 \quad (1.41)
 $$
 
-**Note: The potential due to an electric dipole falls as \(\frac{1}{r^2}\) and the potential due to a single point charge falls as \(\frac{1}{r}\). Thus the potential due to the dipole falls faster than that due to a monopole (point charge). As the distance increases from electric dipole, the effects of positive and negative charges nullify each other.**
+>**Note: The potential due to an electric dipole falls as \(\frac{1}{r^2}\) and the potential due to a single point charge falls as \(\frac{1}{r}\). Thus the potential due to the dipole falls faster than that due to a monopole (point charge). As the distance increases from electric dipole, the effects of positive and negative charges nullify each other.**
 
-### Equi-potential Surface
+### 1.5.4 Equi-potential Surface
 
 Consider a point charge q located at some point in space and an imaginary sphere of radius r is chosen by keeping the charge q at its centre. The electric potential at all points on the surface of the given sphere is the same. Such a surface is called an equipotential surface.
 
@@ -1314,7 +1316,7 @@ For a uniform electric field, the equipotential surfaces form a set of planes no
 (i) The work done to move a charge q between any two points A and B, \(W = q(V_{B} - V_{A})\). If the points A and B lie on the same equipotential surface, work done is zero because \(V_{A} = V_{B}\).
 (ii) The electric field is normal to an equipotential surface. If it is not normal, then there is a component of the field parallel to the surface. Then work must be done to move a charge between two points on the same surface. This is a contradiction. Therefore the electric field must always be normal to equipotential surface.
 
-### Relation between electric field and potential
+### 1.5.5 Relation between electric field and potential
 
 Consider a positive charge \(q\) kept fixed at the origin. To move a unit positive charge by a small distance \(dx\) towards \(q\) in the electric field \(E\), the work done is given by \(dW = -E dx\). The minus sign implies that work is done against the electric field. This work done is equal to electric potential difference. Therefore,
 
@@ -1352,7 +1354,7 @@ From 4 to 5 cm, the slope \(\frac{dV}{dx} = -25V\mathrm{cm}^{-1}\). So \(\vec{E}
 
 ![](a23.png)
 
-### Electrostatic potential energy for collection of point charges
+###  1.5.6 Electrostatic potential energy for collection of point charges
 
 The electric potential at a point at a distance \(r\) from point charge \(q_{1}\) is given by
 
@@ -1452,7 +1454,7 @@ $$
 
 The potential created by the two \(+q\) charges are canceled by the potential created by the \(-q\) charges which are located in the opposite corners. Therefore the net electric potential at the centre O due to all the charges in the corners is zero.
 
-### Electrostatic potential energy of a dipole in a uniform electric field
+###  1.5.7Electrostatic potential energy of a dipole in a uniform electric field
 
 Consider a dipole placed in the uniform electric field \(\vec{E}\) as shown. A dipole experiences a torque when kept in a uniform electric field \(\vec{E}\). This torque rotates the dipole to align it with the direction of the electric field. To rotate the dipole (at constant angular velocity) from its initial angle \(\theta^{\prime}\) to another angle \(\theta\) against the torque exerted by the electric field, an equal and opposite external torque must be applied on the dipole.
 
@@ -1522,8 +1524,8 @@ For \(10^{22}\) water molecules, the total work done is
 $$
 W_{\mathrm{tot}} = 18.9\times 10^{-25}\times 10^{22} = 18.9\times 10^{-3}\mathrm{J}
 $$
-
-### Electric Flux
+### 1.6GAUSS LAW AND ITS APPLICATIONS
+###  1.6.1Electric Flux
 
 The number of electric field lines crossing a given area kept normal to the electric field lines is called electric flux. It is usually denoted by the Greek letter \(\Phi_{E}\) and its unit is \(\mathrm{Nm^2C^{-1}}\). Electric flux is a scalar quantity and it can be positive or negative. For a simpler understanding of electric flux, the following Figure 1.30 is useful.
 
@@ -1611,7 +1613,7 @@ $$
 
 From Equation (1.57), it is clear that the electric flux for a given surface depends on both the electric field pattern on the surface area and orientation of the surface with respect to the electric field.
 
-### Electric flux for closed surfaces
+###  1.6.2Electric flux for closed surfaces
 
 In the previous section, the electric flux for any arbitrary curved surface is discussed. Suppose a closed surface is present in the region of the non-uniform electric field as shown in Figure 1.33 (a).
 
@@ -1629,7 +1631,7 @@ The total electric flux over a closed surface can be negative, positive or zero.
 
 In general, the electric flux is negative if the electric field lines enter the closed surface and positive if the electric field lines leave the closed surface.
 
-### Gauss law
+### 1.6.3 Gauss law
 
 A positive point charge \(Q\) is surrounded by an imaginary sphere of radius \(r\). We can calculate the total electric flux through the closed surface of the sphere using the equation (1.58).
 
@@ -1694,7 +1696,7 @@ where \(Q_{\mathrm{encl}}\) denotes the charges within the closed surface.
 
 (ii) In figure (b), the net charge inside the cube is \(3q\) and the total electric flux in the cube is therefore \(\Phi_{E} = \frac{3q}{\epsilon_{0}}\). Note that the charge \(-10q\) lies outside the cube and it will not contribute the total flux through the surface of the cube.
 
-### Applications of Gauss law
+### 1.6.4 Applications of Gauss law
 
 Electric field due to any arbitrary charge configuration can be calculated using Coulomb's law or Gauss law. If the charge configuration possesses some kind of symmetry, then Gauss law is a very efficient way to calculate the electric field. It is illustrated in the following cases.
 
@@ -1877,9 +1879,9 @@ A graph is plotted between the electric field and radial distance.
 
 ![Figure 1.41 Electric field versus distance for a spherical shell of radius R](a40.png)
 
-Gauss law is a powerful technique whenever a given charge configuration possesses spherical, cylindrical or planar symmetry, then the electric field due to such a charge configuration can be easily found. If there is no such symmetry, the direct method (Coulomb's law and calculus) can be used. For example, it is difficult to use Gauss law to find the electric field for a dipole since it has no spherical, cylindrical or planar symmetry.
-
-### Conductors at electrostatic equilibrium
+>Gauss law is a powerful technique whenever a given charge configuration possesses spherical, cylindrical or planar symmetry, then the electric field due to such a charge configuration can be easily found. If there is no such symmetry, the direct method (Coulomb's law and calculus) can be used. For example, it is difficult to use Gauss law to find the electric field for a dipole since it has no spherical, cylindrical or planar symmetry.
+### 1.7ELECTROSTATICS OF CONDUCTORS AND DIELECTRICS
+###  1.7.1Conductors at electrostatic equilibrium
 
 An electrical conductor has a large number of mobile charges which are free to move in the material. In a metallic conductor, these mobile charges are free electrons which are not bound to any atom and therefore are free to move on the surface of the conductor. When there is no external electric field, the free electrons are in continuous random motion in all directions. As a result, there is no net motion of electrons along any particular direction which implies that the conductor is in electrostatic equilibrium. Thus at electrostatic equilibrium, there is no net current in the conductor. A conductor at electrostatic equilibrium has the following properties.
 
@@ -1931,7 +1933,7 @@ We know that the conductor has no parallel electric component on the surface whi
 
 Since the electric field is zero inside the conductor, the potential is the same as the surface of the conductor. Thus at electrostatic equilibrium, the conductor is always at equipotential.
 
-### Electrostatic shielding
+### 1.7.2 Electrostatic shielding
 
 Using Gauss law, we can prove that the electric field inside the charged spherical shell is zero. Further, we can show that the electric field inside both hollow and solid conductors is zero. It is a very interesting property which has an important consequence.
 
@@ -1945,7 +1947,7 @@ Faraday cage is an instrument used to demonstrate this effect. It is made up of 
 
 During lightning accompanied by a thunderstorm, it is always safer to sit inside a bus than in open ground or under a tree. The metal body of the bus provides electrostatic shielding, since the electric field inside is zero. During lightning, the charges flow through the body of the conductor to the ground with no effect on the person inside that bus.
 
-### Electrostatic induction
+###  1.7.3Electrostatic induction
 
 In section 1.1, we have learnt that an object can be charged by rubbing using an appropriate material. Whenever a charged rod is touched by another conductor, charges start to flow from charged rod to the conductor. Is it possible to charge a conductor without any contact? The answer is yes. This type of charging without actual contact is called electrostatic induction.
 
@@ -1995,7 +1997,7 @@ Note that the time of flight, maximum height, range are all inversely proportion
 
 ![](a49.png)
 
-### Dielectrics or insulators
+###  1.7.4 Dielectrics or insulators
 
 A dielectric is a non-conducting material and has no free electrons. The electrons in a dielectric are bound within the atoms. Ebonite, glass and mica are some examples of dielectrics. When an external electric field is applied, the electrons are not free to move anywhere but they are realigned in a specific way. A dielectric is made up of either polar molecules or nonpolar molecules.
 
@@ -2025,7 +2027,7 @@ $$
 
 where \(\chi_{e}\) is a constant called the electric susceptibility which is a characteristic of each dielectric.
 
-### Induced Electric field inside the dielectric
+###  1.7.5Induced Electric field inside the dielectric
 
 When an external electric field is applied on a conductor, the charges are aligned in such a way that an internal electric field is created which tends to cancel the external electric field. But in the case of a dielectric, which has no free electrons, the external electric field only realigns the charges so that an internal electric field is produced. The magnitude of the internal electric field is smaller than that of external electric field. Therefore the net electric field inside the dielectric is not zero but is parallel to an external electric field with magnitude less than that of the external electric field. For example, let us consider a rectangular dielectric slab placed between two oppositely charged plates (capacitor) as shown in the figure 1.50.
 
@@ -2052,8 +2054,8 @@ When the external electric field applied to a dielectric is very large, it tears
 | Paper | 16 × 10⁶ |
 | Air | 3 × 10⁶ |
 | Pyrex glass | 14 × 10⁶ |
-
-### Capacitors
+###  1.8CAPACITORS AND CAPACITANCE
+###  1.8.1Capacitors
 
 Capacitor is a device used to store electric charge and electrical energy. It consists of two conducting objects (usually plates or sheets) separated by some distance. Capacitors are widely used in many electronic circuits and have applications in many areas of science and technology.
 
@@ -2137,8 +2139,19 @@ $$
 $$
 Q = 22.12\times 10^{-12}\times 10 = 221.2\times 10^{-12}\mathrm{C} = 221.2\mathrm{pC}
 $$
-
-### Energy stored in the capacitor
+>![](image-3.png)Sometimes we notice that the ceiling
+fan does not start rotating as soon as it
+is switched on. But when we rotate the
+blades, it starts to rotate as usual. Why it
+is so? We know that to rotate any object,
+there must be a torque applied on the
+object. For the ceiling fan, the initial
+torque is given by the capacitor widely
+known as a condenser. If the condenser
+is faulty, it will not give sufficient initial
+torque to rotate the blades when the fan is
+switched on.
+###  1.8.2Energy stored in the capacitor
 
 Capacitor not only stores the charge but also it stores energy. When a battery is connected to the capacitor, electrons of total charge -Q are transferred from one plate to the other plate. To transfer the charge, work is done by the battery. This work done is stored as electrostatic potential energy in the capacitor.
 
@@ -2181,7 +2194,7 @@ From equation (1.89), we infer that the energy is stored in the electric field e
 
 It is important to note that the energy density depends only on the electric field and not on the size of the plates of the capacitor. In fact, expression (1.89) is true for the electric field due to any type of charge configuration.
 
-### Applications of capacitors
+###  1.8.3Applications of capacitors
 
 Capacitors are used in various electronics circuits. A few of the applications.
 
@@ -2199,7 +2212,7 @@ Capacitors are used in various electronics circuits. A few of the applications.
 
 However, capacitors have disadvantage as well. Even after the battery or power supply is removed, the capacitor stores charges and energy for some time. For example if the TV is switched off, it is always advisable to not touch the back side of the TV panel.
 
-### Effect of dielectrics in capacitors
+### 1.8.4 Effect of dielectrics in capacitors
 
 In earlier discussions, we assumed that the space between the parallel plates of a capacitor is either empty or filled with air. Suppose dielectrics like mica, glass or paper are introduced between the plates, then the capacitance of the capacitor is altered. The dielectric can be inserted into the plates in two different ways. (i) when the capacitor is disconnected from the battery. (ii) when the capacitor is connected to the battery.
 
@@ -2325,7 +2338,7 @@ The results of the above discussions are summarised in the following Table 1.2
 | 1 | When the battery is disconnected | Constant | Decreases | Decreases | Increases | Decreases |
 | 2 | When the battery is connected | Increases | Constant | Constant | Increases | Increases |
 
-**When the key is pressed, the separation between the plates decreases leading to an increase in the capacitance. This in turn triggers the electronic circuits in the computer to identify which key is pressed.**
+>**![](image-4.png)When the key is pressed, the separation between the plates decreases leading to an increase in the capacitance. This in turn triggers the electronic circuits in the computer to identify which key is pressed.**
 
 **EXAMPLE 1.21**
 
@@ -2375,7 +2388,7 @@ $$
 
 When the dielectric is removed, it experiences an inward pulling force due to the plates. To remove the dielectric, an external agency has to do work on the dielectric which is stored as additional energy. This is the source for the extra energy \(8.84\times 10^{-10}\mathrm{J}\).
 
-### Capacitor in series and parallel
+### 1.8.5 Capacitor in series and parallel
 
 **(i) Capacitor in series**
 
@@ -2471,8 +2484,8 @@ $$
 
 Thus the combination of capacitances in figure (a) can be replaced by a single capacitance \(6\mu \mathrm{F}\).
 
-
-### Distribution of charges in a conductor
+### 1.9 DISTRIBUTION OF CHARGES IN A CONDUCTOR AND ACTION AT POINTS
+###  1.9.1Distribution of charges in a conductor
 
 Consider two conducting spheres A and B of radii \(r_{1}\) and \(r_{2}\) respectively connected to each other by a thin conducting wire. The distance between the spheres is much greater than the radii of either spheres.
 
@@ -2576,21 +2589,26 @@ $$
 V_{A} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}}{r_{1}} = \frac{9\times 10^{9}\times 80\times 10^{-9}}{8\times 10^{-2}} = 9\mathrm{kV}
 $$
 
-### Action of points or Corona discharge
+### 1.9.2 Action of points or Corona discharge
 
 ![Figure 1.61 Action of points or corona discharge](a66.png)
+Consider a charged conductor of
+irregular shape as shown in Figure 1.61 (a).
+We know that smaller the radius of curvature, the larger is the charge density. The end of the conductor which has larger curvature (smaller radius) has a large charge accumulation as shown in Figure 1.61 (b).
 
-Consider a charged conductor of irregular shape. The charge density will be large where the radius of curvature is small. This implies that near the sharp edges of the conductor, the surface charge density is large. This results in a very large electric field around the sharp edges. The electric field around the sharp edges may become so large that it may ionize the surrounding air. Positive ions are repelled by the positive charges on the conductor and negative ions are attracted towards the conductor. The positive ions carry charge from the conductor to the air. Thus the charge on the conductor is reduced. This process is called action at points or corona discharge.
+As a result, the electric field near this edge is very high and it ionizes the surrounding air. The positive ions are repelled at the sharp edge and negative ions are attracted towards the sharper edge. This reduces the total charge of the conductor near the sharp edge. This is called action of points or corona discharge.
 
-### Lightning arrester or lightning conductor
+###  1.9.3Lightning arrester or lightning conductor
 
 This is a device used to protect tall buildings from lightning strikes. It works on the principle of action at points or corona discharge.
 
 ![Figure 1.62 (a) Schematic diagram of a lightning arrestor. (b) A house with a lightning arrestor](a67.png)
 
-This device consists of a long thick copper rod passing from top of the building to the ground. The upper end of the rod has a sharp spike or a sharp needle. The lower end of the rod is connected to copper plate which is buried deep into the ground. When a negatively charged cloud is passing above the building, it induces a positive charge on the spike. Since the induced charge density on thin sharp spike is large, it results in a corona discharge. This positive charge ionizes the surrounding air which in turn neutralizes the negative charge in the cloud. The negative charge pushed to the spikes passes through the copper rod and reaches the ground. Thus the building is protected from lightning.
+This device consists of a long thick copper rod passing from top of the building to the ground. The upper end of the rod has a sharp spike or a sharp needle. The lower end of the rod is connected to copper plate which is buried deep into the ground. When a negatively charged cloud is passing above the building, it induces a positive charge on the spike. Since the induced charge density on thin sharp spike is large, it results in a corona discharge. This positive charge ionizes the surrounding air which in turn neutralizes the negative charge in the cloud. The negative charge pushed to the spikes passes through the copper rod and is safely diverted to the Earth. The lightning
+arrester does not stop the lightning; rather
+it diverts the lightning to the ground safely.
 
-### Van de Graaff Generator
+### 1.9.4 Van de Graaff Generator
 
 In the year 1929, Robert Van de Graaff designed a machine which produces a large amount of electrostatic potential difference, up to several million volts \((10^{7}\mathrm{V})\). This Van de Graff generator works on the principle of electrostatic induction and action at points.
 
