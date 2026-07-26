@@ -32,3 +32,9 @@ title = '12th இயற்பியல்'
 languageName = 'தமிழ்'
 contentDir = 'content.ta'
 weight = 2
+
+[params]
+  [[params.question_repositories]]
+    githubhandle = "tnedu"
+    name = "Model School"
+    url = "https://workshop.gurukulams.com/"
