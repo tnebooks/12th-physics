@@ -1,8 +1,123 @@
 ---
 title: 'Electromagnetic Induction And Alternating Current'
+weight: 4
+references:
+    videos:
+      - custom:
+          title: "Fardays Experiments On Electromagnetic Induction Expt:1"
+          desc: "Fardays Experiments On Electromagnetic Induction Expt:1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/14461180-5dee-11ee-be48-bd7c9716a58d.mp4"
+      - custom:
+          title: "Direction Of Induced Emf"
+          desc: "Direction Of Induced Emf"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96eff90-8296-11f0-98c3-ff3eb6ddf2df.mp4"
+      - custom:
+          title: "Fleming's Right Hand Rule"
+          desc: "Fleming's Right Hand Rule"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ea567180-ca67-11ee-802d-fd148f00cbdd.mp4"
+      - custom:
+          title: "Motional Emf From Lorentz Force"
+          desc: "Motional Emf From Lorentz Force"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/86d401f0-8c53-11ef-b823-f512ed0684a3.mp4"
+      - custom:
+          title: "Transformer,principle,construction,working"
+          desc: "Transformer,principle,construction,working"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e967a7f0-dd88-11ef-b4f2-b972a8e4ae08.mp4"
+      - custom:
+          title: "Energy Losses In A Transformer"
+          desc: "Energy Losses In A Transformer"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/401381a0-21db-11f0-9870-7ba11843616c.mp4"
+      - custom:
+          title: "Eddy Currents-introduction"
+          desc: "Eddy Currents-introduction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fbc44380-72c6-11f0-bc0e-ffe96b519dfe.mp4"
+      - custom:
+          title: "Self Induction-electrical Inertia"
+          desc: "Self Induction-electrical Inertia"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4397a29b-1da2-4c77-9c83-2a6b21edf687.mp4"
+      - custom:
+          title: "Self Inductance Of A Long Solenoid"
+          desc: "Self Inductance Of A Long Solenoid"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/667b2d66-95b6-4660-b031-92ff4dcac619.mp4"
+      - custom:
+          title: "Mutual Induction"
+          desc: "Mutual Induction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf40939b-14ca-41d6-bf83-3e7c48fac82c.mp4"
+      - custom:
+          title: "Mutual Inductance Between Two Long Co-axial Solenoids"
+          desc: "Mutual Inductance Between Two Long Co-axial Solenoids"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3589c08d-9561-4858-ad0d-89c2248abc2d.mp4"
+      - custom:
+          title: "Production Of Induced Emf By Changing The Area Of The Coil"
+          desc: "Production Of Induced Emf By Changing The Area Of The Coil"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/80473413-53ee-4803-b1d8-3886ae9283b7.mp4"
+      - custom:
+          title: "Production Of Induced Emf By Changing Relative Orientation Of The Coil With The Magnetic Field"
+          desc: "Production Of Induced Emf By Changing Relative Orientation Of The Coil With The Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/416522a3-dcc4-47b1-9086-0f0f3fb638d6.mp4"
+      - custom:
+          title: "Ac Generator"
+          desc: "Ac Generator"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e0879a6-38fc-41e2-9689-b557c648f72f.mp4"
+      - custom:
+          title: "Single Phase Ac Generator ,Poly-phase Ac Generator"
+          desc: "Single Phase Ac Generator ,Poly-phase Ac Generator"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6d58e1d2-be6e-4d6d-8311-a186b84f4295.mp4"
+      - custom:
+          title: "Quality Factor Or Q–factor"
+          desc: "Quality Factor Or Q–factor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e6a75460-50d4-11f0-b8a1-9540cc5a38bc.mp4"
+      - custom:
+          title: "Quality Factor Or Q–factor"
+          desc: "Quality Factor Or Q–factor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/acbd97b0-58d5-11f0-a742-79d772df3472.mp4"
+      - custom:
+          title: "Average Value Of Ac"
+          desc: "Average Value Of Ac"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d2acf270-0a26-11f0-916d-9f5bc34b1322.mp4"
+      - custom:
+          title: "What Is Phasor? What Is Its Importance."
+          desc: "What Is Phasor? What Is Its Importance."
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ea83ade-c1f9-4e54-b636-9a97db377c45.mp4"
+      - custom:
+          title: "Functioning Of Resistor In An Ac Circuit"
+          desc: "Functioning Of Resistor In An Ac Circuit"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a0110a50-309f-11f0-ab9f-858cde30882e.mp4"
+      - custom:
+          title: "Ac Circuit Containing Only A Capacitor"
+          desc: "Ac Circuit Containing Only A Capacitor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/aaa2f870-282a-11f0-9ef6-ed16e565f707.mp4"
+      - custom:
+          title: "Types Of Load"
+          desc: "Types Of Load"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a179cab0-3263-11f0-8cdb-371756cc851f.mp4"
+      - custom:
+          title: "Power In Ac Source"
+          desc: "Power In Ac Source"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/aac8ceb0-5255-11f0-8fb2-6d919ffbfcfc.mp4"
+      - custom:
+          title: "Wattless Current"
+          desc: "Wattless Current"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/52b12360-55a9-11f0-a12f-17f693f93c96.mp4"
+      - custom:
+          title: "Power Factor"
+          desc: "Power Factor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48b5a420-58d4-11f0-ab46-3162a623c618.mp4"
+      - custom:
+          title: "Advantages And Disadvantages Of Ac Over Dc"
+          desc: "Advantages And Disadvantages Of Ac Over Dc"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c4bc2e70-5e35-11f0-90d6-a9de95fd3e95.mp4"
+      - custom:
+          title: "Generation Of Lc Oscillations"
+          desc: "Generation Of Lc Oscillations"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/12363762-656e-4864-b7a5-59bc96b3294f.mp4"
+      - custom:
+          title: "Lc Oscillations And Simple Harmonic Oscillations"
+          desc: "Lc Oscillations And Simple Harmonic Oscillations"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/020955d2-3612-428c-ac5c-e7149d23b51b.mp4"
+
 categories:
     - electromagnetic-induction-and-alternating-current
-weight: 4
 summary: "This unit explains the principles of electromagnetic induction, including how induced emf is generated and its direction using Lenz’s law. It covers important concepts such as eddy currents, self and mutual induction, and different methods of producing induced emf."
 
 ---

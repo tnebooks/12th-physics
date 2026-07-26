@@ -1,8 +1,123 @@
 ---
 title: 'மின்காந்தத்தூண்டலும் மாறுதிசை மின்னோட்டமும்(Electromagnetic Induction And Alternating Current)'
+weight: 4
+references:
+    videos:
+      - custom:
+          title: "மின்மாற்றி,தத்துவம்,அமைப்பு"
+          desc: "மின்மாற்றி,தத்துவம்,அமைப்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e967a7f0-dd88-11ef-b4f2-b972a8e4ae08.mp4"
+      - custom:
+          title: "மின்மாற்றியில் ஏற்படும் ஆற்றல் இழப்புகள்"
+          desc: "மின்மாற்றியில் ஏற்படும் ஆற்றல் இழப்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/401381a0-21db-11f0-9870-7ba11843616c.mp4"
+      - custom:
+          title: "பாரடேயின் மின்காந்த தூண்டல் சோதனை-1"
+          desc: "பாரடேயின் மின்காந்த தூண்டல் சோதனை-1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/14461180-5dee-11ee-be48-bd7c9716a58d.mp4"
+      - custom:
+          title: "தூண்டப்பட்ட மின்னோட்டத்தின் திசை"
+          desc: "தூண்டப்பட்ட மின்னோட்டத்தின் திசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96eff90-8296-11f0-98c3-ff3eb6ddf2df.mp4"
+      - custom:
+          title: "பிளமிங் வலக்கை விதி"
+          desc: "பிளமிங் வலக்கை விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ea567180-ca67-11ee-802d-fd148f00cbdd.mp4"
+      - custom:
+          title: "லாரன்ஸ் விசையிலிருந்து இயக்க மின்னியக்கு விசை"
+          desc: "லாரன்ஸ் விசையிலிருந்து இயக்க மின்னியக்கு விசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/86d401f0-8c53-11ef-b823-f512ed0684a3.mp4"
+      - custom:
+          title: "சுழல் மின்னோட்டங்கள்      அறிமுகம்"
+          desc: "சுழல் மின்னோட்டங்கள்      அறிமுகம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fbc44380-72c6-11f0-bc0e-ffe96b519dfe.mp4"
+      - custom:
+          title: "தன்மின் தூண்டல்-மின்நிலைமம்"
+          desc: "தன்மின் தூண்டல்-மின்நிலைமம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4397a29b-1da2-4c77-9c83-2a6b21edf687.mp4"
+      - custom:
+          title: "நீண்ட வரிச்சுருளின் தன் மின் தூண்டல் எண்"
+          desc: "நீண்ட வரிச்சுருளின் தன் மின் தூண்டல் எண்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/667b2d66-95b6-4660-b031-92ff4dcac619.mp4"
+      - custom:
+          title: "பரிமாற்று மின் தூண்டல்,"
+          desc: "பரிமாற்று மின் தூண்டல்,"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bf40939b-14ca-41d6-bf83-3e7c48fac82c.mp4"
+      - custom:
+          title: "இரு நீண்ட பொது அச்சு கொண்ட வரிச்சுருள்களுக்கிடையே பரிமாற்று மின் தூண்டல் எண்"
+          desc: "இரு நீண்ட பொது அச்சு கொண்ட வரிச்சுருள்களுக்கிடையே பரிமாற்று மின் தூண்டல் எண்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3589c08d-9561-4858-ad0d-89c2248abc2d.mp4"
+      - custom:
+          title: "-தூண்டப்பட்ட மின்னியக்கு விசையை உருவாக்கும் காரணிகள்-கம்பிச்சுருளின் பரப்பைமாற்றுவதன் மூலம்"
+          desc: "-தூண்டப்பட்ட மின்னியக்கு விசையை உருவாக்கும் காரணிகள்-கம்பிச்சுருளின் பரப்பைமாற்றுவதன் மூலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/80473413-53ee-4803-b1d8-3886ae9283b7.mp4"
+      - custom:
+          title: "-தூண்டப்பட்ட மின்னியக்கு விசையை உருவாக்கும் காரணிகள்-கம்பிச்சுருளின் திசையமைப்பை மாற்றுவதன் மூலம்"
+          desc: "-தூண்டப்பட்ட மின்னியக்கு விசையை உருவாக்கும் காரணிகள்-கம்பிச்சுருளின் திசையமைப்பை மாற்றுவதன் மூலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/416522a3-dcc4-47b1-9086-0f0f3fb638d6.mp4"
+      - custom:
+          title: "மாறுதிசை மின்னோட்ட மின்னியற்றி"
+          desc: "மாறுதிசை மின்னோட்ட மின்னியற்றி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e0879a6-38fc-41e2-9689-b557c648f72f.mp4"
+      - custom:
+          title: "ஒரு கட்ட மாறுதிசை மின்னியற்றி,பல கட்ட மாறுதிசை மின்னியற்றி"
+          desc: "ஒரு கட்ட மாறுதிசை மின்னியற்றி,பல கட்ட மாறுதிசை மின்னியற்றி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6d58e1d2-be6e-4d6d-8311-a186b84f4295.mp4"
+      - custom:
+          title: "தரக்காரணி - Q காரணி"
+          desc: "தரக்காரணி - Q காரணி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e6a75460-50d4-11f0-b8a1-9540cc5a38bc.mp4"
+      - custom:
+          title: "தரக்காரணி - Q காரணி"
+          desc: "தரக்காரணி - Q காரணி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/acbd97b0-58d5-11f0-a742-79d772df3472.mp4"
+      - custom:
+          title: "மாறுதிசை மின்னோட்டத்தின் சராசரி மதிப்பு"
+          desc: "மாறுதிசை மின்னோட்டத்தின் சராசரி மதிப்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d2acf270-0a26-11f0-916d-9f5bc34b1322.mp4"
+      - custom:
+          title: "கட்ட வெக்டர் என்றால் என்ன? ஏன் கட்ட வெக்டரைக் காண வேண்டும்?"
+          desc: "கட்ட வெக்டர் என்றால் என்ன? ஏன் கட்ட வெக்டரைக் காண வேண்டும்?"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1ea83ade-c1f9-4e54-b636-9a97db377c45.mp4"
+      - custom:
+          title: "மின் தடையாக்கி மட்டும் உள்ள AC சுற்று செயல்படும் விதம்"
+          desc: "மின் தடையாக்கி மட்டும் உள்ள AC சுற்று செயல்படும் விதம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a0110a50-309f-11f0-ab9f-858cde30882e.mp4"
+      - custom:
+          title: "மின்தேக்கி மட்டும் உள்ள AC சுற்று"
+          desc: "மின்தேக்கி மட்டும் உள்ள AC சுற்று"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/aaa2f870-282a-11f0-9ef6-ed16e565f707.mp4"
+      - custom:
+          title: "தொடர் RLC உள்ள AC சுற்று"
+          desc: "தொடர் RLC உள்ள AC சுற்று"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a179cab0-3263-11f0-8cdb-371756cc851f.mp4"
+      - custom:
+          title: "AC திறன்"
+          desc: "AC திறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/aac8ceb0-5255-11f0-8fb2-6d919ffbfcfc.mp4"
+      - custom:
+          title: "சுழித்திறன் மின்னோட்டம்"
+          desc: "சுழித்திறன் மின்னோட்டம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/52b12360-55a9-11f0-a12f-17f693f93c96.mp4"
+      - custom:
+          title: "திறன்காரணி"
+          desc: "திறன்காரணி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48b5a420-58d4-11f0-ab46-3162a623c618.mp4"
+      - custom:
+          title: "AC நன்மைகள், குறைபாடுகள்"
+          desc: "AC நன்மைகள், குறைபாடுகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c4bc2e70-5e35-11f0-90d6-a9de95fd3e95.mp4"
+      - custom:
+          title: "LC சுற்றுகளில் அலைவு"
+          desc: "LC சுற்றுகளில் அலைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/12363762-656e-4864-b7a5-59bc96b3294f.mp4"
+      - custom:
+          title: "LC அலைவுகள் மற்றும் தனிச் சீரிசை அலைவுகள்"
+          desc: "LC அலைவுகள் மற்றும் தனிச் சீரிசை அலைவுகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/020955d2-3612-428c-ac5c-e7149d23b51b.mp4"
+
 categories:
     - electromagnetic-induction-and-alternating-current
-weight: 4
 summary: "இந்த அலகு மின்காந்தத் தூண்டல் (electromagnetic induction) பற்றிய கோட்பாடுகளை விளக்குகிறது. இதில் தூண்டப்பட்ட மின்தாழ்வு (induced emf) எவ்வாறு உருவாகிறது மற்றும் அதன் திசையை Lenz’s law மூலம் எவ்வாறு கண்டறிவது என்பதும் அடங்கும். மேலும், எட்டி கரண்ட் (eddy current), சுயத் தூண்டல் (self-induction), பரஸ்பரத் தூண்டல் (mutual induction) மற்றும் தூண்டப்பட்ட மின்தாழ்வை உருவாக்கும் பல்வேறு முறைகளும் இதில் விவரிக்கப்படுகின்றன."
 ---
 
