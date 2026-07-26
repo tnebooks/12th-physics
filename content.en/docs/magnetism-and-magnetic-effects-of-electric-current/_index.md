@@ -1424,7 +1424,7 @@ Since $n$ is a constant for a given solenoid and $\mu_0$ is also constant. For a
 > **Note:** Solenoid can be used as electromagnet. It produces strong magnetic field that can be turned ON or OFF. This is not possible in case of permanent magnet. Further the strength of the magnetic field can be increased by keeping iron bar inside the solenoid. This is because the magnetic field of the solenoid magnetizes the iron bar and hence the net magnetic field is the sum of magnetic field of the solenoid and magnetic field of magnetised iron. Because of these properties, solenoids are useful in designing variety of electrical appliances.
 
 > **MRI - Magnetic Resonance Imaging**
-> ![](image-6.png)
+> ![](image-7.png)
 > MRI is Magnetic Resonance Imaging which helps the physicians to diagnose or monitor treatment for a variety of abnormal conditions happening within the head, chest, abdomen and pelvis. It is a non invasive medical test. The patient is placed in a circular opening (actually interior of a solenoid which is made up of superconducting wire) and large current is sent through the superconducting wire to produce a strong magnetic field. So, it uses more powerful magnet, radio frequency pulses and a computer to produce pictures of organs which helps the physicians to examine various parts of the body.
 
 >**EXAMPLE 3.16**
