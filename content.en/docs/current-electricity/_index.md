@@ -1,5 +1,84 @@
 ---
 title: 'Current Electricity'
+references:
+    videos:
+        - custom:
+          title: "Drift Velocity"
+          desc: "Drift Velocity"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/19f73260-021a-11ee-b1d2-c7d70c8947a0.mp4"
+        - custom:
+          title: "Relation Between Current And Drift Velocity"
+          desc: "Relation Between Current And Drift Velocity"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e180700-c99c-11ee-9f1a-6f873704f80c.mp4"
+        - custom:
+          title: "Ohm's Law "
+          desc: "Ohm's Law "
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/795450e0-0712-11f0-b632-cf6d7a33513e.mp4"
+        - custom:
+          title: "Resistance"
+          desc: "Resistance"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b8940b00-0957-11f0-90c2-6d8c40fb8077.mp4"
+        - custom:
+          title: "Resistivity"
+          desc: "Resistivity"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/13787bd0-0aef-11f0-9169-45af676abf7d.mp4"
+        - custom:
+          title: "Simple Circuits"
+          desc: "Simple Circuits"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b613560-0afe-11f0-9509-b12251bae811.mp4"
+        - custom:
+          title: "Electric Power"
+          desc: "Electric Power"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b66763b0-0fbd-11f0-8f07-0d086e5dada2.mp4"
+        - custom:
+          title: "Electric Power In Circuits"
+          desc: "Electric Power In Circuits"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/93145dc0-1475-11f0-872e-e3a39c353261.mp4"
+        - custom:
+          title: "Electrical Energy And Its Commercial Units"
+          desc: "Electrical Energy And Its Commercial Units"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f070ba0-1477-11f0-872e-e3a39c353261.mp4"
+        - custom:
+          title: "Electric Cells And Batteries"
+          desc: "Electric Cells And Batteries"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/58dc2d60-dcc4-11ef-81bb-9fa308d0f35c.mp4"
+        - custom:
+          title: "Internal Resistance Of A Cell"
+          desc: "Internal Resistance Of A Cell"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/948dc890-21c1-11f0-b7dd-8110d2e2a1c4.mp4"
+        - custom:
+          title: "Cells In Series"
+          desc: "Cells In Series"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/378131d0-11e9-11ee-943c-1d578c1cd9d9.mp4"
+        - custom:
+          title: "Cells In  Parallel"
+          desc: "Cells In  Parallel"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/57dbbf30-21e2-11f0-93d2-918d6ef9fd69.mp4"
+        - custom:
+          title: "Kirchhoff's Rules- Current Rule"
+          desc: "Kirchhoff's Rules- Current Rule"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/786ec230-f983-11ed-8ddb-899932d0ef8a.mp4"
+        - custom:
+          title: "Wheatstone's  Bridge"
+          desc: "Wheatstone's  Bridge"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/61ff41c0-d310-11ee-a5eb-c5116e2cd103.mp4"
+        - custom:
+          title: "Meter Bridge Construction"
+          desc: "Meter Bridge Construction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d07fa700-ecd5-11ee-bd9e-4598c9521df8.mp4"
+        - custom:
+          title: "Principle Of Potentiometer"
+          desc: "Principle Of Potentiometer"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8f66110-f268-11ee-ab91-4b0497fd293f.mp4"
+        - custom:
+          title: "Joule's Effect"
+          desc: "Joule's Effect"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/05dfdaf0-383a-11ef-b5c5-43376ff9c723.mp4"
+        - custom:
+          title: "Thermoelectric Effect"
+          desc: "Thermoelectric Effect"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cfe74b90-4b30-11ef-8451-25c961e86150.mp4"
+
 categories:
     - current-electricity
 weight: 2
@@ -13,7 +92,6 @@ summary: "This unit explains the behavior of electric current in conductors, inc
 > We will make electricity so cheap that only the rich will burn candles - 
 Thomas A. Edison
 
-Based on the provided file, image_8053a4.png, here is the transcribed text formatted in Markdown:
 
 ##  LEARNING OBJECTIVES
 

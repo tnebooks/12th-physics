@@ -1,5 +1,83 @@
 ---
 title: 'மின்னோட்டவியல்(Current Electricity)'
+references:
+    videos:
+      - custom:
+          title: "இழுப்பு திசைவேகம்"
+          desc: "இழுப்பு திசைவேகம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/19f73260-021a-11ee-b1d2-c7d70c8947a0.mp4"
+      - custom:
+          title: "மின்னோட்டம் மற்றும் இழுப்பு திசைவேகம் தொடர்பு"
+          desc: "மின்னோட்டம் மற்றும் இழுப்பு திசைவேகம் தொடர்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e180700-c99c-11ee-9f1a-6f873704f80c.mp4"
+      - custom:
+          title: "ஓம் விதி "
+          desc: "ஓம் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/795450e0-0712-11f0-b632-cf6d7a33513e.mp4"
+      - custom:
+          title: "மின் தடை"
+          desc: "மின் தடை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b8940b00-0957-11f0-90c2-6d8c40fb8077.mp4"
+      - custom:
+          title: "மின்தடை எண்"
+          desc: "மின்தடை எண்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/13787bd0-0aef-11f0-9169-45af676abf7d.mp4"
+      - custom:
+          title: "எளிய மின்சுற்று"
+          desc: "எளிய மின்சுற்று"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b613560-0afe-11f0-9509-b12251bae811.mp4"
+      - custom:
+          title: "மின்திறன்"
+          desc: "மின்திறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b66763b0-0fbd-11f0-8f07-0d086e5dada2.mp4"
+      - custom:
+          title: "மின் சுற்றுகளில் மின்திறன்"
+          desc: "மின் சுற்றுகளில் மின்திறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/93145dc0-1475-11f0-872e-e3a39c353261.mp4"
+      - custom:
+          title: "மின் ஆற்றலும் அதன் நடைமுறை அலகும்"
+          desc: "மின் ஆற்றலும் அதன் நடைமுறை அலகும்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f070ba0-1477-11f0-872e-e3a39c353261.mp4"
+      - custom:
+          title: "எளிய மின்கலன்"
+          desc: "எளிய மின்கலன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/58dc2d60-dcc4-11ef-81bb-9fa308d0f35c.mp4"
+      - custom:
+          title: "அகமின்தடை"
+          desc: "அகமின்தடை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/948dc890-21c1-11f0-b7dd-8110d2e2a1c4.mp4"
+      - custom:
+          title: "மின்கலன்கள் தொடரிணைப்பு"
+          desc: "மின்கலன்கள் தொடரிணைப்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/378131d0-11e9-11ee-943c-1d578c1cd9d9.mp4"
+      - custom:
+          title: "பக்க இணைப்பில் மின்கலன்கள்"
+          desc: "பக்க இணைப்பில் மின்கலன்கள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/57dbbf30-21e2-11f0-93d2-918d6ef9fd69.mp4"
+      - custom:
+          title: "கிர்க்காஃப் முதல் விதி"
+          desc: "கிர்க்காஃப் முதல் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/786ec230-f983-11ed-8ddb-899932d0ef8a.mp4"
+      - custom:
+          title: "வீட்ஸ்டோன் சமணச்சுற்று"
+          desc: "வீட்ஸ்டோன் சமணச்சுற்று"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/61ff41c0-d310-11ee-a5eb-c5116e2cd103.mp4"
+      - custom:
+          title: "மீட்டர் சமனச்சுற்று அமைப்பு"
+          desc: "மீட்டர் சமனச்சுற்று அமைப்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d07fa700-ecd5-11ee-bd9e-4598c9521df8.mp4"
+      - custom:
+          title: "மின்னழுத்தமானி தத்துவம்"
+          desc: "மின்னழுத்தமானி தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8f66110-f268-11ee-ab91-4b0497fd293f.mp4"
+      - custom:
+          title: "ஜூல் வெப்ப விளைவு"
+          desc: "ஜூல் வெப்ப விளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/05dfdaf0-383a-11ef-b5c5-43376ff9c723.mp4"
+      - custom:
+          title: "வெப்ப மின் விளைவு"
+          desc: "வெப்ப மின் விளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cfe74b90-4b30-11ef-8451-25c961e86150.mp4"
 categories:
     - current-electricity
 weight: 2
@@ -11,7 +89,7 @@ summary: "இந்த அலகு மின்கடத்திகளில�
 
 நாம் மின்சாரத்தை மிக மிக விலை குறைந்ததாக ஆக்குவோம்; அதனால் இனிமேல், பணக்காரர்கள்தான் மெழுகுவர்த்திகளை ஏற்றுவார்கள் – தாமல் ஆல்வா எடிசன்
 
-Based on the provided file, image_71cb7e.png, here is the transcribed text formatted in Markdown:
+
 
 ## கற்றலின் நோக்கங்கள்:
 
@@ -1527,7 +1605,7 @@ H = I^2 R t \qquad (2.68)$$
 படம் 2.30 காட்டியுள்ள மின் இஸ்திரிபெட்டி, மின் சூடேற்றி, ரொட்டிசுடும் மின்கருவி முதலியன மின்னோட்டத்தின் வெப்ப விளைவை பயன்படுத்தும் வீட்டு உபயோகச் சாதனங்களாகும். இந்த சாதனங்களில் சூடேற்றும் கம்பியானது நிக்கல் மற்றும் குரோமியத்தின் உலோகக் கலவையான நிக்ரோமினால் ஆனது. நிக்ரோமின் மின்தடை மிக அதிகம். மேலும் இதனை ஆக்ஸிஜனேற்றம் அடையாமலே மிக அதிக வெப்பநிலைக்கு வெப்பப்படுத்த முடியும்.
 ![**படம் 2.30** மின் இஸ்திரிபெட்டி, மின்சூடேற்றி மற்றும் ரொட்டிசுடும் மின்கருவி](image-55.png)
 
->**எடுத்துக்காட்டு 2.28***
+>**எடுத்துக்காட்டு 2.28**
 >
 >\( 10 \ \Omega \) மின்தடை கொண்ட மின் குடேற்றி \( 220 \ \mathrm{V} \) மின்திறன் மூலத்துடன் இணைக்கப்பட்டு \( 1 \ \mathrm{kg} \) நிறையுள்ள நீரில் மூழ்க வைக்கப்பட்டுள்ளது. நீரின் வெப்பநிலையை \( 30^\circ \mathrm{C} \) விருந்து \( 60^\circ \mathrm{C} \) க்கு உயர்த்த மின் குடேற்றி எவ்வளவு நேரத்திற்கு இயக்கப்பட வேண்டும்? (நீரின் தன்வெப்ப ஏற்புத்திறன் \( s = 4200 \ \mathrm{J} \ \mathrm{kg}^{-1} \ \mathrm{K}^{-1} \))
 >
