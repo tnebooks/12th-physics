@@ -2608,7 +2608,7 @@ This device consists of a long thick copper rod passing from top of the building
 arrester does not stop the lightning; rather
 it diverts the lightning to the ground safely.
 
-### Van de Graaff Generator
+### 1.9.4 Van de Graaff Generator
 
 In the year 1929, Robert Van de Graaff designed a machine which produces a large amount of electrostatic potential difference, up to several million volts \((10^{7}\mathrm{V})\). This Van de Graff generator works on the principle of electrostatic induction and action at points.
 
