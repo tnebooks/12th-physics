@@ -1,22 +1,69 @@
 ---
-title: 'மின்காந்த அலைகள்(Electromagnetic Waves)'
+title: 'மின்காந்த அலைகள்'
 categories:
     - electromagnetic-waves
 weight: 5
 summary: "இந்த அலகு மின்காந்தவியல் தொடர்பான மேம்பட்ட கருத்துகளை அறிமுகப்படுத்துகிறது. இதில் இடமாற்ற மின்பாய்ச்சி (displacement current) மற்றும் Maxwell’s correction to Ampère’s circuital law ஆகியவை விளக்கப்படுகின்றன, இதன் மூலம் Maxwell’s equations உருவாகின்றன. மேலும், மின்காந்த அலைகளின் உற்பத்தி மற்றும் பண்புகள் Hertz’s experiment உதாரணமாக விளக்கப்படுகின்றன."
+references:
+    links:
+        - "[PhET: Radio Waves & Electromagnetic Fields](https://phet.colorado.edu/en/simulations/radio-waves)"
+        - "[PhET: Microwaves](https://phet.colorado.edu/en/simulation/microwaves)"
+        - "[PhET: Waves Intro](https://phet.colorado.edu/en/simulation/waves-intro)"
+        - "[oPhysics: Electromagnetic Wave Visualization](https://ophysics.com/em.html)"
+        - "[Falstad Electromagnetic Wave Simulator](https://www.falstad.com/emwave1/)"
+        - "[Desmos: Electromagnetic Waves & Polarization](https://www.desmos.com/calculator/rbk2fiyzoe)"
+    books:
+      - b1:
+          title: "Concepts of Physics – Volume 2"
+          authors:
+              - "H. C. Verma"
+          publisher: "Bharati Bhawan"
+          url: "https://www.amazon.in/s?k=Concepts+of+Physics+Volume+2+H+C+Verma"
+
+      - b2:
+          title: "Fundamentals of Physics"
+          authors:
+              - "David Halliday"
+              - "Robert Resnick"
+              - "Jearl Walker"
+          publisher: "Wiley"
+          edition: "10th Edition"
+          url: "https://www.amazon.in/s?k=Fundamentals+of+Physics+Halliday+Resnick+Walker+10th+Edition"
+
+      - b3:
+          title: "Physics for Scientists and Engineers with Modern Physics"
+          authors:
+              - "Raymond A. Serway"
+              - "John W. Jewett"
+          publisher: "Brooks/Cole"
+          edition: "8th Edition"
+          url: "https://www.amazon.in/s?k=Physics+for+Scientists+and+Engineers+with+Modern+Physics+Serway+Jewett+8th+Edition"
+
+      - b4:
+          title: "Introduction to Electrodynamics"
+          authors:
+              - "David J. Griffiths"
+          publisher: "Pearson"
+          url: "https://www.amazon.in/s?k=Introduction+to+Electrodynamics+David+J+Griffiths"
+
+      - b5:
+          title: "Physics for Scientists and Engineers with Modern Physics"
+          authors:
+              - "Paul A. Tipler"
+              - "Gene Mosca"
+          publisher: "W. H. Freeman and Company"
+          edition: "6th Edition"
+          url: "https://www.amazon.in/s?k=Physics+for+Scientists+and+Engineers+with+Modern+Physics+Tipler+Mosca+6th+Edition"
 ---
 
-# அலகு 5
-
-# மின்காந்த அலைகள்
 
 >"ஒர் அறிவியல் சுகாப்தம் முடிவுற்று, அடித்த அறிவியல் சுகாப்தம் ஜேம்ஸ் கிளார்க் மேக்ஸ்வெல்லில் இருந்து தொடங்குகிறது" – ஆல்பர்ட் ஐன்ஸ்டீன்
 
-## 5.1. அறிமுகம்
+
 ![படம் 5.1 கண்ணாழ நிறமாலை – வானவில் மற்றும் மின்னல்](5.1.png)
 நம்மைச் சுற்றியுள்ள உலகை ஒளியின் வழியே நாம் கண்டு மகிழ்கிறோம். சூரியனிடமிருந்து கிடைக்கும் ஒளி என்பது நமக்கு கிடைக்கும் ஆற்றலின் ஒரு முக்கியமான மூலமாகும். இவ்வாற்றல் இல்லையெனில் மனித உயிர்கள் இக்கோளில் வாழ முடியாது. அணுவிலிருந்து பிரபஞ்சம் வரை உள்ள பல்வேறு பொருட்களின் அமைப்பு மற்றும் பண்புகளை நாம் புரிந்து கொள்ள ஒளியின் பங்களிப்பு மகத்தானதாகும். ஒளி இல்லையென்றால் நம் கண்களால் பொருட்களைப் பார்க்க முடியாது. இத்தகைய சிறப்புமிக்கது ஒளியாகும். ஒளி என்றால் என்ன? 19 ஆம் நூற்றாண்டின் நடுப்பகுதிவரை பல்வேறு அறிஞர்களை உறங்கவிடாமல் செய்தது இந்த மாபெரும் புதிர். தொடக்கத்தில் பெரும்பாலான அறிவியலாளர்கள் ஒளியியல் மற்றும் மின்காந்தவியல் இரண்டும் இயற்பியலின் இரு பிரிவுகள் என நம்பியிருந்தனர். ஆனால் ஒளி பற்றிய புரிதலுக்கு புது பரிணாமம் கொடுத்த பெருமை ஜேம்ஸ் கிளார்க் மேக்ஸ்வெல்லையே சாரும். அவரின் கருத்தியல் கோட்டாப்பாட்டின்படி ஒளி ஒரு மின்காந்த அலையாகும். அது வெற்றிடத்தில் \( 3 \times 10^8 \ \mathrm{m \ s^{-1}} \) என்ற திசைவேகத்தில் செல்லும். காமா கதிரிலிருந்து ரேடியோ அலைவரை பரவியுள்ள மின்காந்த நிறமாலையின் ஒரு சிறுபகுதியே கண்ணுறு ஒளி என பின்னர் உறுதிபடுத்தப்பட்டது. அலகு 4 இல் நேரத்தைப் பொறுத்து மாற்றமடையும் காந்தப்புலம், மின்புலத்தை உருவாக்கும் என பயின்றோம் (பாரடேயின் மின்காந்தத் தூண்டல் விதிகள்). இயற்கையானது சமச்சீர் (symmetry) பெற்றிருக்கும் என மேக்ஸ்வெல் உறுதியாக நம்பிக்கை கொண்டு பின்வரும் கேள்வியை முன்வைத்தார். அதாவது "நேரத்தைப்பொறுத்து மாற்றமடையும் காந்தப்புலம் மின்புலத்தை உருவாக்கும்போது, ஏன் நேரத்தைப்பொறுத்து மாற்றமடையும் மின்புலம் காந்தப்புலத்தை உருவாக்காது?" 
 
-![](img_1.png)
+![இயற்்கையின் ைமச்சீர அ்மப்பு](img_1.png)
 
 உண்மையில் இவ்வாறு இருப்பதை பின்னர் அவர் மெய்ப்பித்தார். இது மேக்ஸ்வெல்லின் தூண்டல் விதி என்று சில நேரங்களில் அழைக்கப்படும். மேக்ஸ்வெல் முன்மொழிந்த கருத்தை, 1888 இல் எச். ஹெர்ட்ஸ் ஆய்வு மூலமாக நிரூபித்தார். இது நவீன தொழில் நுட்பக் கண்டுபிடிப்புகளான, முக்கியமாக கம்பியில்லா தொலைத்தொடர்பு, லேசர் (Light Amplification by Stimulated Emission of Radiation), ரேடார் [RADAR (Radio Detection And Ranging)] தொழில்நுட்பம் மற்றும் பல கண்டுபிடிப்புகளுக்கு வழிவகுத்தது.
 
@@ -32,35 +79,53 @@ summary: "இந்த அலகு மின்காந்தவியல் �
 
 \[
 \begin{aligned}
-&
-\underbrace{\oint{I} \vec{E}\cdot d\vec{\ell}}_{
+\underbrace{\oint_{I} \vec{E}\cdot d\vec{\ell}}_{
 \begin{array}{c}
 \text{மூடிய சுற்றுப் பாதையில்}\\
 \text{தூண்டப்பட்ட}\\
 \text{மின்புலம்}
-\end{array}
-\;\;\quad=\;} =
-\underbrace{-\frac{d}{dt}\Phi_B}_{
+\end{array}}
+&= \underbrace{-\frac{d}{dt}\Phi_B}_{
 \begin{array}{c}
 \text{காந்தப் பாயத்தின்}\\
 \text{கால மாற்ற}\\
 \text{வீதம்}
-\end{array}
-\;\;\quad=\;} =
-\underbrace{-\frac{d}{dt}\oint_S \vec{B}\cdot d\vec{A}}_{
+\end{array}} \\
+&= \underbrace{-\frac{d}{dt}\oint_S \vec{B}\cdot d\vec{A}}_{
 \begin{array}{c}
 \text{சுற்றினால் சூழப்பட்ட}\\
 \text{பரப்பில் உள்ள காந்தப் பாயம் } \Phi_B\\
 \text{இன் கால மாற்றம்}
-\end{array}}
-\quad (5.1)
+\end{array}} \quad (5.1)
 \end{aligned}
 \]
+
 
 இங்கு \( \Phi_B \) என்பது காந்தப்பாயம் மற்றும் \( \frac{d}{dt} \) என்பது நேரத்தைப் பொறுத்து வகைக்கெழு. மின்சுற்றால் மூடப்பட்ட பகுதியில் உள்ள காந்தப்பாயத்தில் \( \Phi_B \) மாற்றம் ஏற்படும்போது, மூடப்பட்ட சுற்றின் வழியே மின்புலம் \( \vec{E} \) தூண்டப்படுகிறது என்பதை சமன்பாடு (5.1) நமக்கு உணர்த்துகிறது.
 
 சமச்சீர் இயல்பின் அடிப்படையில், மின்புலத்தில் ஏற்படும் மாற்றம் காந்தப்புலத்தை உருவாக்கும் என்று ஜேம்ஸ் கிளார்க் மேக்ஸ்வெல் காண்பித்தார். இது பின்வரும் சமன்பாட்டால் தரப்படுகிறது.
 
+\[
+\begin{aligned}
+\underbrace{\oint_{I} \vec{B}\cdot d\vec{\ell}}_{
+\begin{array}{c}
+\text{மூடப்பட்ட சுற்றின்}\\
+\text{வழியே தூண்ப்படும்}\\
+\text{காந்தப் பாயம்}
+\end{array}}
+&= \underbrace{-\frac{d}{dt}\Phi_E}_{
+\begin{array}{c}
+\text{நேரத்தைப் பொறுத்து}\\
+\text{மாற்றமடையும்}\\
+\text{மின்புலப்பாயம்}
+\end{array}} \\
+&= \underbrace{-\frac{d}{dt}\oint_S \vec{E}\cdot \vec{dA}}_{
+\begin{array}{c}
+\text{மின்சுற்றால் மூடப்பட்ட பரப்புக்குள்}\\
+\text{மாற்றமடையும் மின்புலப்பாயம் }\Phi_E\\
+\end{array}} \quad (5.2)
+\end{aligned}
+\]
 
 இங்கு \( \Phi_E \) என்பது மின்புலப்பாயமாகும். இதற்கு மேக்ஸ்வெல்லின் தூண்டல் விதி என்று பெயர். மின்சுற்றால் மூடப்பட்ட பகுதிக்குள் உள்ள மின்புலப்பாயத்தில் \( \Phi_E \) மாற்றம் ஏற்படும்போது, மூடப்பட்ட சுற்று வழியே காந்தப்புலம் \( \vec{B} \) தூண்டப்படுகிறது என்பதை இது விளக்குகிறது. மேலும் ரேடியோ அலைகள், காமா கதிர்கள், அகச்சிவப்புக் கதிர்கள் போன்ற மின்காந்த அலைகளின் இருப்பை இந்த மின் மற்றும் காந்தப்புலங்களுக்கு இடையேயான சமச்சீர் தன்மை விளக்குகிறது.
 
