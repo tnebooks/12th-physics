@@ -1,5 +1,141 @@
 ---
 title: 'காந்தவியல் மற்றும் மின்னோட்டத்தின் காந்த விளைவுகள்(Magnetism And Magnetic Effects Of Electric Current)'
+
+references:
+    videos:
+      - custom:
+          title: "காந்தப்புலம்"
+          desc: "காந்தப்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ad46a440-1ccf-11ee-84ac-5b02b7a4eb76.mp4"
+      - custom:
+          title: "படிக குறைபாடுகள்"
+          desc: "படிக குறைபாடுகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e972a4c0-4791-11f0-b7fd-f7f2f58390cb.mp4"
+      - custom:
+          title: "காந்த இருமுனையின் (சட்டகாந்தம்) அச்சுக்கோட்டில் உள்ள ஒரு புள்ளியில் காந்தப்புலம"
+          desc: "காந்த இருமுனையின் (சட்டகாந்தம்) அச்சுக்கோட்டில் உள்ள ஒரு புள்ளியில் காந்தப்புலம"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d575f400-2431-11f0-ad75-d300bc115658.mp4"
+      - custom:
+          title: "படிக குறைபாடுகள்"
+          desc: "படிக குறைபாடுகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a02fd740-25ba-11f0-ad05-ebf5f0d59dde.mp4"
+      - custom:
+          title: "சீரான காந்தப்புலத்தில் உள்ள சட்டகாந்தத்தின் மீது செயல்படும் திருப்புவிசை"
+          desc: "சீரான காந்தப்புலத்தில் உள்ள சட்டகாந்தத்தின் மீது செயல்படும் திருப்புவிசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ab0d4c50-2bf6-11f0-90aa-b50b1f6ee8e0.mp4"
+      - custom:
+          title: "வினைவேக மாற்றியினைப் பயன்படுத்துவதன் விளைவு"
+          desc: "வினைவேக மாற்றியினைப் பயன்படுத்துவதன் விளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4e59d800-2bf8-11f0-90aa-b50b1f6ee8e0.mp4"
+      - custom:
+          title: "காந்தமாக்குப் புலம், காந்தமாகும் செறிவு"
+          desc: "காந்தமாக்குப் புலம், காந்தமாகும் செறிவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cc9d2a20-4087-11f0-ba16-1f8e3b640c6c.mp4"
+      - custom:
+          title: "டயா காந்தப்பொருட்கள் ,டயா காந்தப்பொருட்களின் பண்புகள"
+          desc: "டயா காந்தப்பொருட்கள் ,டயா காந்தப்பொருட்களின் பண்புகள"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/781ea900-58a8-11ef-8ba7-3f3278a9b969.mp4"
+      - custom:
+          title: "தெவிட்டிய காந்தமாதல்,காந்தத்தேக்குதிறன்,காந்தநீக்குத்திறன்"
+          desc: "தெவிட்டிய காந்தமாதல்,காந்தத்தேக்குதிறன்,காந்தநீக்குத்திறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/35da5b50-4e69-11ef-861e-25bf423ac6e7.mp4"
+      - custom:
+          title: "மின் னோட்ட ம் பாயும் நேரானகடத்திச் சுற்றி உருவாகும் காந்தப்புலம்"
+          desc: "மின் னோட்ட ம் பாயும் நேரானகடத்திச் சுற்றி உருவாகும் காந்தப்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4956a030-1bf7-11ee-9871-b58d5cf4be07.mp4"
+      - custom:
+          title: "வலதுகை பெருவிரல் விதி"
+          desc: "வலதுகை பெருவிரல் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7b3727c0-f0c1-11ed-87e2-e13a4750c2bf.mp4"
+      - custom:
+          title: "பயட் – சாவர்ட் விதியின்வரையறை மற்றும் விளக்கம்"
+          desc: "பயட் – சாவர்ட் விதியின்வரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d4f0350-2d69-11ef-a4c6-070d835891a0.mp4"
+      - custom:
+          title: "பயட் – சாவர்ட் விதியின்வரையறை மற்றும் விளக்கம்"
+          desc: "பயட் – சாவர்ட் விதியின்வரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ffb72f00-4830-11ef-bb60-35bcb6914b27.mp4"
+      - custom:
+          title: "பயட் – சாவர்ட் விதியின்வரையறை மற்றும் விளக்கம்"
+          desc: "பயட் – சாவர்ட் விதியின்வரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c10d81e0-4831-11ef-bf07-b59825244ed4.mp4"
+      - custom:
+          title: "மின்னோட்ட வளையம் காந்தஇருமுனையாக செயல்படல்"
+          desc: "மின்னோட்ட வளையம் காந்தஇருமுனையாக செயல்படல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2bb5f100-4e57-11ef-b6d7-af437be2df02.mp4"
+      - custom:
+          title: "சுற்றிவரும் எலக்ட்ரானின் காந்தஇருமுனைத் திருப்புத்திறன்"
+          desc: "சுற்றிவரும் எலக்ட்ரானின் காந்தஇருமுனைத் திருப்புத்திறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5971bf10-4e58-11ef-9211-0546f82752bd.mp4"
+      - custom:
+          title: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          desc: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f7a8ee0-39eb-11ef-ae24-434f1459030b.mp4"
+      - custom:
+          title: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          desc: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3d744040-3d0e-11ef-8629-e90c13c2209d.mp4"
+      - custom:
+          title: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          desc: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96abde00-4e54-11ef-aaa3-39d1bc3e9c84.mp4"
+      - custom:
+          title: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          desc: "ஆம்பியரின் சுற்றுவிதிவரையறை மற்றும் விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/58f1e810-4e55-11ef-9a66-a9204e94d6be.mp4"
+      - custom:
+          title: "ஆம்பியரின் விதியைப்பயன்படுத்தி மின்னோட்டம் பாயும்முடிவிலா நீளம் கொண்ட கம்பியினால்ஏற்படும் காந்தப்புலம்"
+          desc: "ஆம்பியரின் விதியைப்பயன்படுத்தி மின்னோட்டம் பாயும்முடிவிலா நீளம் கொண்ட கம்பியினால்ஏற்படும் காந்தப்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/31552200-3eaa-11ef-be6e-6d97a1fe3f4a.mp4"
+      - custom:
+          title: "மின் னோட்டம் பாயும் நீண்டவரிச்சுருளினால் ஏற்படும் காந்தப்புலம்"
+          desc: "மின் னோட்டம் பாயும் நீண்டவரிச்சுருளினால் ஏற்படும் காந்தப்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/40531058-f8a2-44d9-ad82-8cef7614a2ca.mp4"
+      - custom:
+          title: "மின் னோட்டம் பாயும் நீண்டவரிச்சுருளினால் ஏற்படும் காந்த  புலத்திற்கான கோவை"
+          desc: "மின் னோட்டம் பாயும் நீண்டவரிச்சுருளினால் ஏற்படும் காந்த  புலத்திற்கான கோவை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/842a2b06-a43f-4004-afd5-499825e9a773.mp4"
+      - custom:
+          title: "லாரன்ஸ் விசையின் முக்கிய அம்சங்கள் (காந்தப்புலத்தில் இயங்கும் மின்துகளொன்று உணரும் விசை)"
+          desc: "லாரன்ஸ் விசையின் முக்கிய அம்சங்கள் (காந்தப்புலத்தில் இயங்கும் மின்துகளொன்று உணரும் விசை)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3f98c2b51a3d4c5d8d3d759c66587bfb.mp4"
+      - custom:
+          title: "சீரான காந்தப்புலத்திலுள்ளமின்துகளின் இயக்கம்"
+          desc: "சீரான காந்தப்புலத்திலுள்ளமின்துகளின் இயக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/51047720-8773-11ee-89c0-2946326e90a8.mp4"
+      - custom:
+          title: "சீரான காந்தப்புலத்திலுள்ளமின்துகளின் இயக்கம்- கோண அதிர்வெண்நிற்கான சமன்பாடு"
+          desc: "சீரான காந்தப்புலத்திலுள்ளமின்துகளின் இயக்கம்- கோண அதிர்வெண்நிற்கான சமன்பாடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c50363e0-9a7c-11ee-ba75-fbbf5498c6ca.mp4"
+      - custom:
+          title: "சீரான காந்தப்புலத்திலுள்ளமின்துகளின் இயக்கம்- கோண அதிர்வெண்நிற்கான சமன்பாடு"
+          desc: "சீரான காந்தப்புலத்திலுள்ளமின்துகளின் இயக்கம்- கோண அதிர்வெண்நிற்கான சமன்பாடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d3b07be0-ae1c-11ee-82de-192381da433c.mp4"
+      - custom:
+          title: "காந்தப்புலத்தில் உள்ளமின்னோட்டம் பாயும் கடத்தியின் மீதுசெயல்படும் விசை"
+          desc: "காந்தப்புலத்தில் உள்ளமின்னோட்டம் பாயும் கடத்தியின் மீதுசெயல்படும் விசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/67983d70-4fda-11ef-8285-c149eb35e1a8.mp4"
+      - custom:
+          title: "நீண்ட இணையானமின்னோட்டம் பாயும் இருகடத்திகளுக்கிடையே ஏற்படும் விசை"
+          desc: "நீண்ட இணையானமின்னோட்டம் பாயும் இருகடத்திகளுக்கிடையே ஏற்படும் விசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ee232790-4c3e-11f0-acce-4bb5b0624263.mp4"
+      - custom:
+          title: "காந்தப்புலத்திலுள்ளமின்னோட்டச் சுற்றின் மீது செயல்படும்திருப்பு விசை"
+          desc: "காந்தப்புலத்திலுள்ளமின்னோட்டச் சுற்றின் மீது செயல்படும்திருப்பு விசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b49d12a0-39fc-11f0-987d-2535019e70ba.mp4"
+      - custom:
+          title: "காந்தப்புலத்திலுள்ளமின்னோட்டச் சுற்றின் மீது செயல்படும்திருப்பு விசைக்கான கோவை"
+          desc: "காந்தப்புலத்திலுள்ளமின்னோட்டச் சுற்றின் மீது செயல்படும்திருப்பு விசைக்கான கோவை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/78c27920-39ff-11f0-987d-2535019e70ba.mp4"
+      - custom:
+          title: "கால்வனோமீட்டரை அம்மீட்டராக மாற்றுதல்"
+          desc: "கால்வனோமீட்டரை அம்மீட்டராக மாற்றுதல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1c18deb0-3f79-11f0-a7ba-87c7b27642a9.mp4"
+      - custom:
+          title: "கால்வனோ மீட்டரை வோல்ட்மீட்டராக மாற்றுதல்"
+          desc: "கால்வனோ மீட்டரை வோல்ட்மீட்டராக மாற்றுதல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7315b770-525b-11f0-8fb2-6d919ffbfcfc.mp4"
+
 categories:
     - magnetism-and-magnetic-effects-of-electric-current
 weight: 3

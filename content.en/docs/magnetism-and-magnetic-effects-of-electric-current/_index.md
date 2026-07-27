@@ -1,5 +1,140 @@
 ---
 title: 'Magnetism and magnetic effects of electric current'
+references:
+    videos:
+      - custom:
+          title: "Magnetising Field And Intensity Of Magnetisation"
+          desc: "Magnetising Field And Intensity Of Magnetisation"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cc9d2a20-4087-11f0-ba16-1f8e3b640c6c.mp4"
+      - custom:
+          title: "Magnetic Field"
+          desc: "Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ad46a440-1ccf-11ee-84ac-5b02b7a4eb76.mp4"
+      - custom:
+          title: "Electrostatic Potential And Potential Energy"
+          desc: "Electrostatic Potential And Potential Energy"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e972a4c0-4791-11f0-b7fd-f7f2f58390cb.mp4"
+      - custom:
+          title: "Magnetic Field At A Point Along The Axial Line Of The Magnetic Dipole (Bar Magnet)"
+          desc: "Magnetic Field At A Point Along The Axial Line Of The Magnetic Dipole (Bar Magnet)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d575f400-2431-11f0-ad75-d300bc115658.mp4"
+      - custom:
+          title: "Magnetic Field At A Point Along The Equatorial Line Due To A Magnetic Dipole (Bar Magnet)       Magnetic Field At A Point Along The Equatorial Line,components Of Magnetic Field"
+          desc: "Magnetic Field At A Point Along The Equatorial Line Due To A Magnetic Dipole (Bar Magnet)       Magnetic Field At A Point Along The Equatorial Line,components Of Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a02fd740-25ba-11f0-ad05-ebf5f0d59dde.mp4"
+      - custom:
+          title: "Torque Acting On A Bar Magnet In Uniform Magnetic Field"
+          desc: "Torque Acting On A Bar Magnet In Uniform Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ab0d4c50-2bf6-11f0-90aa-b50b1f6ee8e0.mp4"
+      - custom:
+          title: "A Bar Magnet (Magnetic Dipole) In A Uniform Magnetic Field"
+          desc: "A Bar Magnet (Magnetic Dipole) In A Uniform Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4e59d800-2bf8-11f0-90aa-b50b1f6ee8e0.mp4"
+      - custom:
+          title: "Diamagnetic Materials And Its  Properties"
+          desc: "Diamagnetic Materials And Its  Properties"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/781ea900-58a8-11ef-8ba7-3f3278a9b969.mp4"
+      - custom:
+          title: "Saturated  Magnetization,remanence And Residual Magnetism"
+          desc: "Saturated  Magnetization,remanence And Residual Magnetism"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/35da5b50-4e69-11ef-861e-25bf423ac6e7.mp4"
+      - custom:
+          title: "Magnetic Field Around A Straight Current-carrying Conductor"
+          desc: "Magnetic Field Around A Straight Current-carrying Conductor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4956a030-1bf7-11ee-9871-b58d5cf4be07.mp4"
+      - custom:
+          title: "Right Hand Thumb Rule"
+          desc: "Right Hand Thumb Rule"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7b3727c0-f0c1-11ed-87e2-e13a4750c2bf.mp4"
+      - custom:
+          title: "Definition Andexplanation Of Biot- Savart Law"
+          desc: "Definition Andexplanation Of Biot- Savart Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d4f0350-2d69-11ef-a4c6-070d835891a0.mp4"
+      - custom:
+          title: "Definition Andexplanation Of Biot- Savart Law"
+          desc: "Definition Andexplanation Of Biot- Savart Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ffb72f00-4830-11ef-bb60-35bcb6914b27.mp4"
+      - custom:
+          title: "Definition Andexplanation Of Biot- Savart Law"
+          desc: "Definition Andexplanation Of Biot- Savart Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c10d81e0-4831-11ef-bf07-b59825244ed4.mp4"
+      - custom:
+          title: "Current Loop As A Magnetic Dipole"
+          desc: "Current Loop As A Magnetic Dipole"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2bb5f100-4e57-11ef-b6d7-af437be2df02.mp4"
+      - custom:
+          title: "Magnetic Dipole Moment Of Revolving Electron"
+          desc: "Magnetic Dipole Moment Of Revolving Electron"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5971bf10-4e58-11ef-9211-0546f82752bd.mp4"
+      - custom:
+          title: "Ampère’s Circuital Law"
+          desc: "Ampère’s Circuital Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f7a8ee0-39eb-11ef-ae24-434f1459030b.mp4"
+      - custom:
+          title: "Ampère’s Circuital Law"
+          desc: "Ampère’s Circuital Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3d744040-3d0e-11ef-8629-e90c13c2209d.mp4"
+      - custom:
+          title: "Ampère’s Circuital Law"
+          desc: "Ampère’s Circuital Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96abde00-4e54-11ef-aaa3-39d1bc3e9c84.mp4"
+      - custom:
+          title: "Ampère’s Circuital Law"
+          desc: "Ampère’s Circuital Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/58f1e810-4e55-11ef-9a66-a9204e94d6be.mp4"
+      - custom:
+          title: "Magnetic Field Due To Thecurrent Carrying Wire Of Infinitelength Using Ampère’s Law"
+          desc: "Magnetic Field Due To Thecurrent Carrying Wire Of Infinitelength Using Ampère’s Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/31552200-3eaa-11ef-be6e-6d97a1fe3f4a.mp4"
+      - custom:
+          title: "Magnetic Field Due To Along Current Carrying Solenoid"
+          desc: "Magnetic Field Due To Along Current Carrying Solenoid"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/40531058-f8a2-44d9-ad82-8cef7614a2ca.mp4"
+      - custom:
+          title: "Equation For Magnetic Field Due To Along Current Carrying Solenoid"
+          desc: "Equation For Magnetic Field Due To Along Current Carrying Solenoid"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/842a2b06-a43f-4004-afd5-499825e9a773.mp4"
+      - custom:
+          title: "Force On A Moving Charge In A Magnetic Field"
+          desc: "Force On A Moving Charge In A Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3f98c2b51a3d4c5d8d3d759c66587bfb.mp4"
+      - custom:
+          title: "Motion Of A Charged Particle In A Uniform Magnetic Field"
+          desc: "Motion Of A Charged Particle In A Uniform Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/51047720-8773-11ee-89c0-2946326e90a8.mp4"
+      - custom:
+          title: "Motion Of A Charged Particle In A Uniform Magnetic Field - Equation For Angular Frequency"
+          desc: "Motion Of A Charged Particle In A Uniform Magnetic Field - Equation For Angular Frequency"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c50363e0-9a7c-11ee-ba75-fbbf5498c6ca.mp4"
+      - custom:
+          title: "Motion Of A Charged Particle In A Uniform Magnetic Field - Equation For Angular Frequency"
+          desc: "Motion Of A Charged Particle In A Uniform Magnetic Field - Equation For Angular Frequency"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d3b07be0-ae1c-11ee-82de-192381da433c.mp4"
+      - custom:
+          title: "Force On A Current Carrying Conductor Placed In A Magnetic Field"
+          desc: "Force On A Current Carrying Conductor Placed In A Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/67983d70-4fda-11ef-8285-c149eb35e1a8.mp4"
+      - custom:
+          title: "Force Between Two Long Parallel Current Carrying Conductors"
+          desc: "Force Between Two Long Parallel Current Carrying Conductors"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ee232790-4c3e-11f0-acce-4bb5b0624263.mp4"
+      - custom:
+          title: "Torque On A Current Loop Placed In A Magnetic Field"
+          desc: "Torque On A Current Loop Placed In A Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b49d12a0-39fc-11f0-987d-2535019e70ba.mp4"
+      - custom:
+          title: "Equation For Torque On A Current Loop Placed In A Magnetic Field"
+          desc: "Equation For Torque On A Current Loop Placed In A Magnetic Field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/78c27920-39ff-11f0-987d-2535019e70ba.mp4"
+      - custom:
+          title: "Conversion Of Galvanometer Into Ammeter"
+          desc: "Conversion Of Galvanometer Into Ammeter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1c18deb0-3f79-11f0-a7ba-87c7b27642a9.mp4"
+      - custom:
+          title: "Conversion Of Galvanometer Into  Voltmeter"
+          desc: "Conversion Of Galvanometer Into  Voltmeter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7315b770-525b-11f0-8fb2-6d919ffbfcfc.mp4"
+
 categories:
     - magnetism-and-magnetic-effects-of-electric-current
 weight: 3
