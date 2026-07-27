@@ -119,16 +119,12 @@ references:
 categories:
     - electromagnetic-induction-and-alternating-current
 summary: "This unit explains the principles of electromagnetic induction, including how induced emf is generated and its direction using Lenz’s law. It covers important concepts such as eddy currents, self and mutual induction, and different methods of producing induced emf."
-
 ---
 
-# 4 ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
 
 > "Nature is our kindest friend and best critic in experimental science if we only allow her intimations to fall unbiased on our minds" – Michael Faraday
 
 ## 4.1 ELECTROMAGNETIC INDUCTION
-
-### 4.1.1 Introduction
 
 In the previous chapter, we have learnt that whenever an electric current flows through a conductor, it produces a magnetic field around it. This was discovered by Christian Oersted. Later, Ampere proved that a current-carrying loop behaves like a bar magnet. These are the magnetic effects produced by the electric current.
 
@@ -142,15 +138,17 @@ In this chapter, let us see a few experiments of Faraday, the results and the ph
 >
 >At the end of the lecture, one member of the audience approached Faraday and said, "Mr. Faraday, the behaviour of the magnet and the coil of wire was interesting, but what is the use of it?" Faraday answered politely, "Sir, what is the use of a newborn baby?"
 >
->Note: We will soon see the greatness of 'that little child' who has now grown as an adult to cater to the energy needs.
+>**Note:** We will soon see the greatness of 'that little child' who has now grown as an adult to cater to the energy needs.
 
 ### 4.1.2 Magnetic Flux $(\Phi_{\mathrm{B}})$
 
 The magnetic flux $\Phi_{\mathrm{B}}$ through an area $A$ in a magnetic field is defined as the number of magnetic field lines passing through that area normally and is given by the equation (Figure 4.1(a)).
 
-$$
+\[
+\begin{aligned}
 \Phi_{\mathrm{B}} = \int \limits_{A}^{\infty}\overline{B}\cdot \mathrm{d}\overline{A} \quad (4.1)
-$$
+\end{aligned}
+\]
 
 where the integral is taken over the area $A$ and $\theta$ is the angle between the direction of the magnetic field and the outward normal to the area.
 
@@ -166,51 +164,50 @@ $$
 1\mathrm{Wb} = 1\mathrm{Tm}^2
 $$
 
-![](img4.1.png)
-<center>Figure 4.1 Magnetic flux </center>
+![Figure 4.1 Magnetic flux](img4.1.png)
 
->#### EXAMPLE 4.1
->
->A circular antenna of area $3\mathrm{m}^2$ is installed at a place in Madurai. The plane of the area of antenna is inclined at $47^{\circ}$ with the direction of Earth's magnetic field. If the magnitude of Earth's field at that place is $4.1\times 10^{-5}\mathrm{T}$ find the magnetic flux linked with the antenna.
->
->#### Solution
->
->$$
->B = 4.1\times 10^{-5}\mathrm{T};\ \theta = 90^{\circ} - 47^{\circ} = 43^{\circ};\ A = 3\mathrm{m}^2
->$$
->
->We know that $\Phi_{B} = BA\cos \theta$
->
->$$
->\Phi_{B} = 4.1\times 10^{-5}\times 3\times \cos 43^{\circ} = 4.1\times 10^{-5}\times 3\times 0.7314 = 89.96\mu \mathrm{Wb}
->$$
+#### EXAMPLE 4.1
 
->#### EXAMPLE 4.2
->
->A circular loop of area $5\times 10^{-2}\mathrm{m}^2$ rotates in a uniform magnetic field of $0.2\mathrm{T}$. If the loop rotates about its diameter which is perpendicular to the magnetic field as shown in figure. Find the magnetic flux linked with the loop when its plane is (i) normal to the field (ii) inclined $60^{\circ}$ to the field and (iii) parallel to the field.
->
->#### Solution
->
->![](img4ch.png)
->
->$$
->A = 5\times 10^{-2}\mathrm{m}^2;\ B = 0.2\mathrm{T}
->$$
->
->(i) $\theta = 0^{\circ}$;
->$$
->\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 0^{\circ} = 1\times 10^{-2}\mathrm{Wb}
->$$
->
->(ii) $\theta = 90^{\circ} - 60^{\circ} = 30^{\circ}$;
->$$
->\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 30^{\circ} = 1\times 10^{-2}\times \frac{\sqrt{3}}{2} = 8.66\times 10^{-3}\mathrm{Wb}
->$$
->
->(iii) $\theta = 90^{\circ}$;
->$$
->\Phi_{B} = BA\cos 90^{\circ} = 0
->$$
+A circular antenna of area $3\mathrm{m}^2$ is installed at a place in Madurai. The plane of the area of antenna is inclined at $47^{\circ}$ with the direction of Earth's magnetic field. If the magnitude of Earth's field at that place is $4.1\times 10^{-5}\mathrm{T}$ find the magnetic flux linked with the antenna.
+
+#### Solution
+
+$$
+B = 4.1\times 10^{-5}\mathrm{T};\ \theta = 90^{\circ} - 47^{\circ} = 43^{\circ};\ A = 3\mathrm{m}^2
+$$
+
+We know that $\Phi_{B} = BA\cos \theta$
+
+$$
+\Phi_{B} = 4.1\times 10^{-5}\times 3\times \cos 43^{\circ} = 4.1\times 10^{-5}\times 3\times 0.7314 = 89.96\mu \mathrm{Wb}
+$$
+
+#### EXAMPLE 4.2
+
+A circular loop of area $5\times 10^{-2}\mathrm{m}^2$ rotates in a uniform magnetic field of $0.2\mathrm{T}$. If the loop rotates about its diameter which is perpendicular to the magnetic field as shown in figure. Find the magnetic flux linked with the loop when its plane is (i) normal to the field (ii) inclined $60^{\circ}$ to the field and (iii) parallel to the field.
+
+#### Solution
+
+![](img4ch.png)
+
+$$
+A = 5\times 10^{-2}\mathrm{m}^2;\ B = 0.2\mathrm{T}
+$$
+
+(i) $\theta = 0^{\circ}$;
+$$
+\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 0^{\circ} = 1\times 10^{-2}\mathrm{Wb}
+$$
+
+(ii) $\theta = 90^{\circ} - 60^{\circ} = 30^{\circ}$;
+$$
+\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 30^{\circ} = 1\times 10^{-2}\times \frac{\sqrt{3}}{2} = 8.66\times 10^{-3}\mathrm{Wb}
+$$
+
+(iii) $\theta = 90^{\circ}$;
+$$
+\Phi_{B} = BA\cos 90^{\circ} = 0
+$$
 
 ### 4.1.3 Faraday's Experiments on Electromagnetic Induction
 
