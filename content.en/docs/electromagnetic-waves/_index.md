@@ -4,29 +4,75 @@ categories:
     - electromagnetic-waves
 weight: 5
 summary: "This unit explains the nature and production of electromagnetic waves, describing how oscillating electric and magnetic fields propagate through space. It covers the properties of electromagnetic waves, their spectrum ranging from radio waves to gamma rays, and their various applications in science and technology."
+references:
+    links:
+        - "[PhET: Radio Waves & Electromagnetic Fields](https://phet.colorado.edu/en/simulations/radio-waves)"
+        - "[PhET: Microwaves](https://phet.colorado.edu/en/simulation/microwaves)"
+        - "[PhET: Waves Intro](https://phet.colorado.edu/en/simulation/waves-intro)"
+        - "[oPhysics: Electromagnetic Wave Visualization](https://ophysics.com/em.html)"
+        - "[Falstad Electromagnetic Wave Simulator](https://www.falstad.com/emwave1/)"
+        - "[Desmos: Electromagnetic Waves & Polarization](https://www.desmos.com/calculator/rbk2fiyzoe)"
+    books:
+      - b1:
+          title: "Concepts of Physics – Volume 2"
+          authors:
+              - "H. C. Verma"
+          publisher: "Bharati Bhawan"
+          url: "https://www.amazon.in/s?k=Concepts+of+Physics+Volume+2+H+C+Verma"
 
+      - b2:
+          title: "Fundamentals of Physics"
+          authors:
+              - "David Halliday"
+              - "Robert Resnick"
+              - "Jearl Walker"
+          publisher: "Wiley"
+          edition: "10th Edition"
+          url: "https://www.amazon.in/s?k=Fundamentals+of+Physics+Halliday+Resnick+Walker+10th+Edition"
+
+      - b3:
+          title: "Physics for Scientists and Engineers with Modern Physics"
+          authors:
+              - "Raymond A. Serway"
+              - "John W. Jewett"
+          publisher: "Brooks/Cole"
+          edition: "8th Edition"
+          url: "https://www.amazon.in/s?k=Physics+for+Scientists+and+Engineers+with+Modern+Physics+Serway+Jewett+8th+Edition"
+
+      - b4:
+          title: "Introduction to Electrodynamics"
+          authors:
+              - "David J. Griffiths"
+          publisher: "Pearson"
+          url: "https://www.amazon.in/s?k=Introduction+to+Electrodynamics+David+J+Griffiths"
+
+      - b5:
+          title: "Physics for Scientists and Engineers with Modern Physics"
+          authors:
+              - "Paul A. Tipler"
+              - "Gene Mosca"
+          publisher: "W. H. Freeman and Company"
+          edition: "6th Edition"
+          url: "https://www.amazon.in/s?k=Physics+for+Scientists+and+Engineers+with+Modern+Physics+Tipler+Mosca+6th+Edition"
 ---
-
-# ELECTROMAGNETIC WAVES
 
 >"One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
 
-# 5.1 INTRODUCTION
 
-![Fig 5.1 Visible spectrum - rainbow and lightning](5.1.png)
+![Visible spectrum - rainbow and lightning](5.1.png)
 
 We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure and properties of various things from atom to universe. Without light, even our eyes cannot see objects. What is light?. This puzzle made many physicists sleepless until middle of \(19^{\mathrm{th}}\) century. Earlier, many scientists thought that optics and electromagnetism are two different branches of physics. But from the work of James Clerk Maxwell, who actually enlightened the concept of light from his theoretical prediction that light is an electromagnetic wave which moves with the speed equal to \(3\times 10^{8}\mathrm{ms}^{- 1}\) (in free space or vacuum). Later, it was confirmed that visible light is just only small portion of electromagnetic spectrum, which ranges from gamma rays to radio waves.
 
 In unit 4, we studied that time varying magnetic field produces an electric field (Faraday's law of electromagnetic induction). Maxwell strongly believed that nature must possess symmetry and he asked the following question, "when the time varying magnetic field produces an electric field, why not the time varying electric field produce a magnetic field?"
 
-![](img_1.png)
+![Symmetry in nature](img_1.png)
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell's prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
-![Fig 5.2 (a) Cell phone tower and cell phone (b) X-ray radiograph](5.2.png)
+![(a) Cell phone tower and cell phone (b) X-ray radiograph](5.2.png)
 
 In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in our day to day life. It is a faster and more effective mode of transferring information from one place to another. It works on the basis that light is an electromagnetic wave. In hospitals, the location of bone fracture can be detected using X- rays as shown in Figure 5.2 (b), which is also an electromagnetic wave. For cooking microwave oven is used. The microwave is also an electromagnetic wave. There are plenty of applications of electromagnetic waves in engineering, medicine (example LASER surgery, etc), defence (example, RADAR signals) and also in fundamental scientific research. In this unit, basics of electromagnetic waves are discussed.
 
-### 5.1.1 Displacement current and Maxwell's correction to Ampere's circuital law
+### Displacement current and Maxwell's correction to Ampere's circuital law
 
 ## Induced magnetic field
 
@@ -34,28 +80,24 @@ Faraday's law of electromagnetic induction states that the change in magnetic fi
 
 \[
 \begin{aligned}
-&
 \underbrace{\oint_{I} \vec{E}\cdot d\vec{\ell}}_{
 \begin{array}{c}
 \text{Electric field}\\
 \text{induced along a}\\
 \text{closed loop}
-\end{array}
-\;\;\quad=\;} =
-\underbrace{-\frac{d}{dt}\Phi_B}_{
+\end{array}}
+&= \underbrace{-\frac{d}{dt}\Phi_B}_{
 \begin{array}{c}
 \text{Variation of}\\
 \text{magnetic flux}\\
 \text{with time}
-\end{array}
-\;\;\quad=\;} =
-\underbrace{-\frac{d}{dt}\oint_S \vec{B}\cdot d\vec{A}}_{
+\end{array}} \\
+&= \underbrace{-\frac{d}{dt}\oint_S \vec{B}\cdot d\vec{A}}_{
 \begin{array}{c}
 \text{Changing magnetic flux }\Phi_B\\
 \text{in the region enclosed}\\
 \text{by the loop}
-\end{array}}
-\quad (5.1)
+\end{array}} \quad (5.1)
 \end{aligned}
 \]
 
@@ -64,8 +106,30 @@ where $\Phi_{\mathrm{B}}$ is the magnetic flux and $\frac{d}{dt}$ is the total d
 
 From symmetry considerations, James Clerk Maxwell showed that the change in electric field also produces a magnetic field which is given by
 
+\[
+\begin{aligned}
+\underbrace{\oint_{I} \vec{B}\cdot d\vec{\ell}}_{
+\begin{array}{c}
+\text{magnetic field}\\
+\text{induced along a}\\
+\text{closed loop}
+\end{array}}
+&= \underbrace{-\frac{d}{dt}\Phi_E}_{
+\begin{array}{c}
+\text{Variation of}\\
+\text{Electric flux}\\
+\text{with time}
+\end{array}} \\
+&= \underbrace{-\frac{d}{dt}\oint_S \vec{E}\cdot \vec{dA}}_{
+\begin{array}{c}
+\text{Changing Electric flux }\Phi_E\\
+\text{in the region enclosed}\\
+\text{by the loop}
+\end{array}} \quad (5.2)
+\end{aligned}
+\]
 
-where $\Phi_{\mathrm{E}}$ is the electric flux. This is known as Maxwell's law of induction which explains that the magnetic field $\vec{B}$ is induced along a closed loop by the changing electric flux $\Phi_{\mathrm{E}}$ in the region encircled by that loop. This symmetry between electric and magnetic fields explains the existence of electromagnetic waves such as radio waves, gamma rays, infrared rays etc.
+where $\Phi_{\mathrm{E}}$ is the electric flux. This is known as **Maxwell's law of induction** which explains that the magnetic field $\vec{B}$ is induced along a closed loop by the changing electric flux $\Phi_{\mathrm{E}}$ in the region encircled by that loop. This symmetry between electric and magnetic fields explains the existence of electromagnetic waves such as radio waves, gamma rays, infrared rays etc.
 
 ## Displacement current - Maxwell's correction
 
@@ -105,13 +169,17 @@ $$\frac{d\Phi_{E}}{dt} = \frac{1}{\epsilon_{0}}\frac{dq}{dt}\qquad \mathrm{(or)}
 
 where $\frac{dq}{dt} = i_{d}$ is known as displacement current or Maxwell's displacement current.
 
-The displacement current can be defined as the current which comes into play in the region in which the electric field (or the electric flux) is changing with time. In other words, whenever the change in electric field takes place, displacement current is produced.
+> The displacement current can be defined as the current which comes into play in the region in which the electric field (or the electric flux) is changing with time. 
+
+In other words, whenever the change in electric field takes place, displacement current is produced.
 
 Maxwell modified Ampere's law as
 
 $$\oint_{l}\vec{B}\cdot d\vec{l} = \mu_{0}i = \mu_{0}[i_{c} + i_{d}]$$ $$\oint_{l}\vec{B}\cdot d\vec{l} = \mu_{0}i_{c} + \mu_{0}\epsilon_{0}\frac{d\Phi_{E}}{dt}$$
 
-where the total current enclosed by the surface becomes the sum of conduction current and displacement current. Therefore, $i = i_{c} + i_{d}$ . The equation (5.6) is known as Ampere- Maxwell law. When the current in the circuit is constant, the displacement current is zero.
+where the total current enclosed by the surface becomes the sum of conduction current and displacement current. Therefore, $i = i_{c} + i_{d}$ . The equation (5.6) is known as Ampere- Maxwell law. 
+
+>When the current in the circuit is constant, the displacement current is zero.
 
 Between the plates, the conduction current is zero while the displacement current is non- zero. This displacement current or time- varying electric field can also produce a magnetic field between the plates of the capacitor. The magnetic field at a point inside the capacitor is perpendicular to the electric field and is shown in Figure 5.6. This magnetic field can be determined using equation (5.6).
 
@@ -150,7 +218,15 @@ $$d = 1\mathrm{mm} = 1\times 10^{-3}\mathrm{m}$$ $$A = 20\mathrm{cm}^2 = 20\time
 
 $$\mathrm{Displacement~current},i_{d} = \epsilon_{0}\frac{d\Phi_{E}}{dt} = \epsilon_{0}\frac{d(\mathrm{EA})}{dt}$$
 
-\[\begin{array}{rl} & {\therefore i_{d} = \frac{\epsilon_{0}A}{d}\left|\frac{dV}{dt}\right|\quad \left|\because E = \frac{V}{d}\right|}\\ & {\qquad = \frac{\epsilon_{0}A}{d}(325)(100\pi)\cos 100\pi t}\\ & {\qquad = \left({8.85\times 10^{-12}\times 20\times 10^{-4}\times 325}{\times 100\times 3.14\times \cos(100\pi\times 1)}\right)\Bigg /(1\times 10^{-3})}\\ & {\qquad = 1.81\times 10^{-6}\mathrm{A} = 1.81\mu \mathrm{A}\quad \left[\because \cos (100\pi \times 1) = 1\right]} \end{array} \quad (1)\]
+\[
+\begin{array}{rl} 
+& {\therefore i_{d} = \frac{\epsilon_{0}A}{d}\left|\frac{dV}{dt}\right|\quad \left|\because E = \frac{V}{d}\right|}\\ 
+& {\qquad = \frac{\epsilon_{0}A}{d}(325)(100\pi)\cos 100\pi t}\\ 
+& {\qquad = \Bigg(8.85\times 10^{-12}\times 20\times 10^{-4}\times 325}\\
+& {\qquad\quad \times 100\times 3.14\times \cos(100\pi\times 1)\Bigg)\Bigg /(1\times 10^{-3})}\\ 
+& {\qquad = 1.81\times 10^{-6}\mathrm{A} = 1.81\mu \mathrm{A}\quad \left[\because \cos (100\pi \times 1) = 1\right]} 
+\end{array} \quad (1)
+\]
 
 #### 5.1.2 Maxwell's equations in integral form
 
@@ -175,7 +251,7 @@ It also indicates that the electric field lines start from positive charge and t
 
 ## Second equation
 
-This law is similar to Gauss's law for electricity. So this law can also be called as Gauss's law for magnetism. The surface integral of magnetic field over a closed surface is zero. Mathematically,
+This law is similar to Gauss's law for electricity. So this law can also be called as **Gauss's law for magnetism**. The surface integral of magnetic field over a closed surface is zero. Mathematically,
 
 $$\oint_{s} \vec{B}\cdot d\vec{A} = 0$$ $$\mathrm{~(Gauss's~law~for~magnetism)~}(5.8)$$
 
@@ -197,11 +273,16 @@ Our modern technological revolution is due to Faraday's laws of electromagnetic 
 
 It is modified Ampere's circuital law. This is also known as Ampere - Maxwell law. This law relates the magnetic field around any closed path to the conduction current and displacement current through that path.
 
-$$\oint_{l} \vec{B}\cdot d\vec{A} = \mu_0i_c + \mu_0\epsilon_0\frac{d}{ds}\oint_{s} \vec{E}\cdot d\vec{A} \quad (\mathrm{Ampere-Maxwell~law}) \quad (5.10)$$
+\[
+\begin{aligned}
+\oint_{l} \vec{B}\cdot d\vec{A} &= \mu_0i_c \\
+&\quad + \mu_0\epsilon_0\frac{d}{ds}\oint_{s} \vec{E}\cdot d\vec{A} \quad \\(\mathrm{Ampere-Maxwell~law}) \quad (5.10)
+\end{aligned}
+\]
 
 where $\vec{B}$ is the magnetic field. This equation shows that both conduction current and displacement current produce magnetic field.
 
-These four equations are known as Maxwell's equations in electrodynamics. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
+These four equations are known as **Maxwell's equations in electrodynamics**. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
 
 ![Fig 5.7 (a) Heinrich Rudolf Hertz (b) Schematic diagram of Hertz apparatus](5.7.png)
 
@@ -221,6 +302,8 @@ It consists of two metal electrodes which are made of small spherical metals. Th
 Since the coil is maintained at very high potential, air between the electrodes gets ionized and spark (spark means discharge of electricity) is produced. This discharge of electricity affects another electrode (ring type — not completely closed) which is kept at far distance. This implies that the energy is transmitted from electrode to the receiver (ring electrode) in the form of waves, known as electromagnetic waves.
 
 If the receiver is rotated by $90^{\circ}$ , then no spark is observed by the receiver. This confirms that electromagnetic waves are transverse waves as predicted by Maxwell. Hertz detected radio waves and also computed the speed of radio waves which is equal to the speed of light $(3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1})$ .
+
+> **Note:** **LC oscillator** circuit with proper setup can be used to generate radio waves whose frequency is same as frequency of **LC** oscillations $\left( f = \frac{1}{2\pi\sqrt{\text{LC}}}\text{ Hz} \right)$.
 
 ## Properties of electromagnetic waves
 
@@ -262,7 +345,6 @@ oppositely-charged coaxial cylindrical shells and in between them a solenoid is 
 is flowing through it and when the current in the solenoid is reduced to zero, then the inner and
 outer cylindrical shells start to rotate in opposite directions. The rotation of these cylinders is due to
 the impart of angular momentum from the electromagnetic field produced by the AC current.
-
 
 ## EXAMPLE 5.2
 
@@ -399,9 +481,7 @@ $$B = \frac{\left(9.11\times 10^{-31}\right)\left(1.54\times 10^{10}\right)}{\le
 
 This magnetic field can be easily produced with a permanent magnet. So, electromagnetic waves of frequency 2450 MHz can be used for heating and cooking food because they are strongly absorbed by water molecules.
 
-### 5.3
-
-# TYPES OF SPECTRUM-EMISSION AND ABSORPTION SPECTRUM- FRAUNHOFER LINES
+## TYPES OF SPECTRUM-EMISSION AND ABSORPTION SPECTRUM- FRAUNHOFER LINES
 
 When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
 
@@ -428,14 +508,13 @@ Suppose light from hot gas is allowed to pass through prism, line spectrum is ob
 
 ### (iii) Band emission spectrum (or band spectrum)
 
-Band spectrum consists of several number of very closely spaced spectral lines which overlap together forming specific
+Band spectrum consists of several number of very closely spaced spectral lines which overlap together forming specific bands which are separated by dark spaces. This spectrum has a sharp edge at one end and fades out at the other end. Such spectra arise when the molecules are excited. Band spectrum is the characteristic of the molecule and hence the structure of the molecules can be studied using their band spectra. Example: spectra of ammonia gas in the discharge tube etc.
 
 ![Fig 5.13 Continuous emission spectra](5.13.png)
 
 
 ![Fig 5.14 Line emission spectra](5.14.png)
 
- bands which are separated by dark spaces. This spectrum has a sharp edge at one end and fades out at the other end. Such spectra arise when the molecules are excited. Band spectrum is the characteristic of the molecule and hence the structure of the molecules can be studied using their band spectra. Example: spectra of ammonia gas in the discharge tube etc.
 
 ### (b) Absorption spectra
 
@@ -489,4 +568,3 @@ $$\oint \vec{B}\cdot \vec{dl} = \mu_{o}i = \mu_{o}(i_{c} + i_{d}).$$
 
 * When the spectrum obtained from the Sun is examined, it consists of a large number of dark lines (line absorption spectrum). These dark lines in the solar spectrum are known as Fraunhofer lines.
 
----
