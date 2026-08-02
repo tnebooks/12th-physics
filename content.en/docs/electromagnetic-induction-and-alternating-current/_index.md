@@ -184,9 +184,11 @@ $$
 
 A circular loop of area $5\times 10^{-2}\mathrm{m}^2$ rotates in a uniform magnetic field of $0.2\mathrm{T}$. If the loop rotates about its diameter which is perpendicular to the magnetic field as shown in figure. Find the magnetic flux linked with the loop when its plane is (i) normal to the field (ii) inclined $60^{\circ}$ to the field and (iii) parallel to the field.
 
-#### Solution
 
 ![](img4ch.png)
+
+#### Solution
+
 
 $$
 A = 5\times 10^{-2}\mathrm{m}^2;\ B = 0.2\mathrm{T}
@@ -211,27 +213,27 @@ $$
 
 #### First Experiment
 
-Consider a closed circuit consisting of a coil $C$ of insulated wire and a galvanometer $G$ (Figure 4.2(a)). The galvanometer does not indicate deflection as there is no electric current in the circuit.
+Consider a closed circuit consisting of a coil $C$ of insulated wire and a galvanometer $G$ (Figure (a)). The galvanometer does not indicate deflection as there is no electric current in the circuit.
 
-When a bar magnet is inserted into the stationary coil, with its north pole facing the coil, there is a momentary deflection in the galvanometer. This indicates that an electric current is set up in the coil (Figure 4.2(b)). If the magnet is kept stationary inside the coil, the galvanometer does not indicate deflection (Figure 4.2(c)).
+When a bar magnet is inserted into the stationary coil, with its north pole facing the coil, there is a momentary deflection in the galvanometer. This indicates that an electric current is set up in the coil (Figure (b)). If the magnet is kept stationary inside the coil, the galvanometer does not indicate deflection (Figure (c)).
 
 ![Figure 4.2 Faraday’s second experiment](img4.2.png)
 
-The bar magnet is now withdrawn from the coil, the galvanometer again gives a momentary deflection but in the opposite direction. So the electric current flows in opposite direction (Figure 4.2(d)). Now if the magnet is moved faster, it gives a larger deflection due to a greater current in the circuit (Figure 4.2(e))
+The bar magnet is now withdrawn from the coil, the galvanometer again gives a momentary deflection but in the opposite direction. So the electric current flows in opposite direction (Figure (d)). Now if the magnet is moved faster, it gives a larger deflection due to a greater current in the circuit (Figure (e))
 
-The bar magnet is reversed i.e., the south pole now faces the coil. When the above experiment is repeated, the deflections are opposite to that obtained in the case of north pole (Figure 4.2(f)).
+The bar magnet is reversed i.e., the south pole now faces the coil. When the above experiment is repeated, the deflections are opposite to that obtained in the case of north pole (Figure (f)).
 
 If the magnet is kept stationary and the coil is moved towards or away from the coil, similar results are obtained. It is concluded that whenever there is a relative motion between the coil and the magnet, there is deflection in the galvanometer, indicating the electric current setup in the coil.
 
 #### Second Experiment
 
-Consider two closed circuits as shown in Figure 4.3(a). The circuit consisting of a coil $P$ a battery $B$ and a key $K$ is called as primary circuit while the circuit with a coil $S$ and a galvanometer $G$ is known as secondary circuit. The coils $P$ and $S$ are kept at rest in close proximity with respect to one another.
+Consider two closed circuits as shown in Figure(a). The circuit consisting of a coil $P$ a battery $B$ and a key $K$ is called as primary circuit while the circuit with a coil $S$ and a galvanometer $G$ is known as secondary circuit. The coils $P$ and $S$ are kept at rest in close proximity with respect to one another.
 
-If the primary circuit is closed, electric current starts flowing in the primary circuit. At that time, the galvanometer gives a momentary deflection (Figure 4.3(a)).
+If the primary circuit is closed, electric current starts flowing in the primary circuit. At that time, the galvanometer gives a momentary deflection (Figure (a)).
 
 After that, when the electric current reaches a certain steady value, no deflection is observed in the galvanometer.
 
-Likewise if the primary circuit is broken, the electric current starts decreasing and there is again a sudden deflection but in the opposite direction (Figure 4.3(b)).
+Likewise if the primary circuit is broken, the electric current starts decreasing and there is again a sudden deflection but in the opposite direction (Figure (b)).
 
 ![Figure 4.3 Faraday’s second experiment](img4.3.png)
 
@@ -247,17 +249,17 @@ From the results of his experiments, Faraday realized that whenever the magnetic
 ![Figure 4.4 Explanation of Faraday's first experiment](img4.4.png)
 
 
-Based on this idea, Faraday's experiments are understood in the following way. In the first experiment, when a bar magnet is placed close to a coil, some of the magnetic field lines of the bar magnet pass through the coil i.e., the magnetic flux is linked with the coil. When the bar magnet and the coil approach each other, the magnetic flux linked with the coil increases. So this increase in magnetic flux induces an emf and hence a transient electric current flows in the circuit in one direction (Figure 4.4(a)).
+Based on this idea, Faraday's experiments are understood in the following way. In the first experiment, when a bar magnet is placed close to a coil, some of the magnetic field lines of the bar magnet pass through the coil i.e., the magnetic flux is linked with the coil. When the bar magnet and the coil approach each other, the magnetic flux linked with the coil increases. So this increase in magnetic flux induces an emf and hence a transient electric current flows in the circuit in one direction (Figure (a)).
 
-At the same time, when they recede away from one another, the magnetic flux linked with the coil decreases. The decrease in magnetic flux again induces an emf in opposite direction and hence an electric current flows in opposite direction (Figure 4.4(b)). So there is deflection in the galvanometer when there is a relative motion between the coil and the magnet.
+At the same time, when they recede away from one another, the magnetic flux linked with the coil decreases. The decrease in magnetic flux again induces an emf in opposite direction and hence an electric current flows in opposite direction (Figure (b)). So there is deflection in the galvanometer when there is a relative motion between the coil and the magnet.
 
 In the second experiment, when the primary coil $P$ carries an electric current, a magnetic field is established around it. The magnetic lines of this field pass through itself and the neighbouring secondary coil S.
 
-When the primary circuit is open, no electric current flows in it and hence the magnetic flux linked with the secondary coil is zero (Figure 4.5(a)).
+When the primary circuit is open, no electric current flows in it and hence the magnetic flux linked with the secondary coil is zero (Figure (a)).
 
-However, when the primary circuit is closed, the increasing current builds up a magnetic field around the primary coil. Therefore, the magnetic flux linked with the secondary coil increases. This increasing flux linked induces a transient electric current in the secondary coil (Figure 4.5(b)). When the electric current in the primary coil reaches a steady value, the magnetic flux linked with the secondary coil does not change and the electric current in the secondary coil will disappear.
+However, when the primary circuit is closed, the increasing current builds up a magnetic field around the primary coil. Therefore, the magnetic flux linked with the secondary coil increases. This increasing flux linked induces a transient electric current in the secondary coil (Figure (b)). When the electric current in the primary coil reaches a steady value, the magnetic flux linked with the secondary coil does not change and the electric current in the secondary coil will disappear.
 
-Similarly, when the primary circuit is broken, the decreasing primary current induces an electric current in the secondary coil, but in the opposite direction (Figure 4.5(c)). So there is deflection in the galvanometer whenever there is a change in the primary current.
+Similarly, when the primary circuit is broken, the decreasing primary current induces an electric current in the secondary coil, but in the opposite direction (Figure (c)). So there is deflection in the galvanometer whenever there is a change in the primary current.
 
 The conclusions of Faraday's experiments are stated as two laws.
 
@@ -366,24 +368,24 @@ To understand Lenz's law, let us consider two illustrations in which we find the
 
 #### Illustration 1
 
-Consider a uniform magnetic field, with its field lines perpendicular to the plane of the paper and pointing inwards. These field lines are represented by crosses $(\times)$ as shown in Figure 4.6(a). A rectangular metallic frame ABCD is placed in this magnetic field, with its plane perpendicular to the field. The arm $AB$ is movable so that it can slide towards right or left.
+Consider a uniform magnetic field, with its field lines perpendicular to the plane of the paper and pointing inwards. These field lines are represented by crosses $(\times)$ as shown in Figure (a). A rectangular metallic frame ABCD is placed in this magnetic field, with its plane perpendicular to the field. The arm $AB$ is movable so that it can slide towards right or left.
 
 If the arm AB slides to our right side, the number of field lines (magnetic flux) passing through the frame ABCD increases and a current is induced. As suggested by Lenz's law, the induced current opposes this flux increase and it tries to reduce it by producing another magnetic field pointing outwards i.e., opposite to the existing magnetic field.
 
-The magnetic lines of this induced field are represented by red-colored circles in the Figure 4.6(b). From the direction of the magnetic field thus produced, the direction of the induced current is found to be anti-clockwise by using right-hand thumb rule.
+The magnetic lines of this induced field are represented by red-colored circles in the Figure (b). From the direction of the magnetic field thus produced, the direction of the induced current is found to be anti-clockwise by using right-hand thumb rule.
 
-The leftward motion of arm $AB$ decreases magnetic flux. The induced current, this time, produces a magnetic field in the inward direction (red-colored crosses) i.e., in the direction of the existing magnetic field (Figure 4.6(c)). Therefore, the flux decrease is opposed by the flow of induced current. From this, it is found that induced current flows in clockwise direction.
+The leftward motion of arm $AB$ decreases magnetic flux. The induced current, this time, produces a magnetic field in the inward direction (red-colored crosses) i.e., in the direction of the existing magnetic field (Figure (c)). Therefore, the flux decrease is opposed by the flow of induced current. From this, it is found that induced current flows in clockwise direction.
 
 ![Figure 4.6 First illustration of Lenz’s law](img4.6.png)
 
 
 #### Illustration 2
 
-Let us move a bar magnet towards the solenoid, with its north pole pointing the solenoid (Figure 4.7(b)). This motion increases the magnetic flux of the coil which in turn, induces an electric current. Due to the flow of induced current, the coil becomes a magnetic dipole whose two magnetic poles are on either end of the coil.
+Let us move a bar magnet towards the solenoid, with its north pole pointing the solenoid (Figure (b)). This motion increases the magnetic flux of the coil which in turn, induces an electric current. Due to the flow of induced current, the coil becomes a magnetic dipole whose two magnetic poles are on either end of the coil.
 
-In this case, the cause producing the induced current is the movement of the magnet. According to Lenz's law, the induced current should flow in such a way that it opposes the movement of the north pole towards coil. It is possible if the end nearer to the magnet becomes north pole (Figure 4.7(b)). Then it repels the north pole of the bar magnet and opposes the movement of the magnet. Once pole ends are known, the direction of the induced current could be found by using right hand thumb rule.
+In this case, the cause producing the induced current is the movement of the magnet. According to Lenz's law, the induced current should flow in such a way that it opposes the movement of the north pole towards coil. It is possible if the end nearer to the magnet becomes north pole (Figure (b)). Then it repels the north pole of the bar magnet and opposes the movement of the magnet. Once pole ends are known, the direction of the induced current could be found by using right hand thumb rule.
 
-When the bar magnet is withdrawn, the nearer end becomes south pole which attracts north pole of the bar magnet, opposing the receding motion of the magnet (Figure 4.7(c)).
+When the bar magnet is withdrawn, the nearer end becomes south pole which attracts north pole of the bar magnet, opposing the receding motion of the magnet (Figure (c)).
 
 Thus the direction of the induced current can be found from Lenz's law.
 
@@ -401,7 +403,7 @@ When a conductor moves in a magnetic field, the direction of motion of the condu
 
 ![Figure 4.8 Fleming's right hand rule](img4.8.png)
 
-The thumb, index finger and middle finger of right hand are stretched out in mutually perpendicular directions (as shown in Figure 4.8). If the index finger points the direction of the magnetic field and the thumb indicates the direction of motion of the conductor, then the middle finger will indicate the direction of the induced current.
+The thumb, index finger and middle finger of right hand are stretched out in mutually perpendicular directions (as shown in Figure ). If the index finger points the direction of the magnetic field and the thumb indicates the direction of motion of the conductor, then the middle finger will indicate the direction of the induced current.
 
 Fleming's right hand rule is also known as generator rule.
 
@@ -448,7 +450,7 @@ $$
 
 ### 4.1.6 Motional emf from Lorentz force
 
-Consider a straight conducting rod $AB$ of length $l$ in a uniform magnetic field $\bar{B}$ which is directed perpendicularly into the plane of the paper as shown in Figure 4.9(a). The length of the rod is normal to the magnetic field. Let the rod move with a constant velocity $\vec{v}$ towards right side.
+Consider a straight conducting rod $AB$ of length $l$ in a uniform magnetic field $\bar{B}$ which is directed perpendicularly into the plane of the paper as shown in Figure 4.9. The length of the rod is normal to the magnetic field. Let the rod move with a constant velocity $\vec{v}$ towards right side.
 
 When the rod moves, the free electrons present in it also move with same velocity $\vec{v}$ in $\bar{B}$. As a result, the Lorentz force acts on free electrons in the direction from B to A and is given by the relation
 
@@ -456,7 +458,7 @@ $$
 \overline{F_B} = -e(\vec{v}\times \overline{B}) \quad (4.4)
 $$
 
-The action of this Lorentz force is to accumulate the free electrons at the end $A$. This accumulation of free electrons produces a potential difference across the rod which in turn establishes an electric field $\bar{E}$ directed along $BA$ (Figure 4.9(b)). Due to the electric field $\bar{E}$, the coulomb force starts acting on the free electrons along $AB$ and is given by
+The action of this Lorentz force is to accumulate the free electrons at the end $A$. This accumulation of free electrons produces a potential difference across the rod which in turn establishes an electric field $\bar{E}$ directed along $BA$ (Figure (b)). Due to the electric field $\bar{E}$, the coulomb force starts acting on the free electrons along $AB$ and is given by
 
 $$
 \overline{F_E} = -e\overline{E} \quad (4.5)
@@ -544,25 +546,25 @@ According to Faraday's law of electromagnetic induction, an emf is induced in a 
 
 ![Figure 4.10 Eddy currents](img4.10.png)
 
-Even for a conductor in the form of a sheet or plate, an emf is induced when magnetic flux linked with it changes. But the difference is that there is no definite loop or path for induced current to flow away. As a result, the induced currents flow in concentric circular paths (Figure 4.10). As these electric currents resemble eddies of water, these are known as Eddy currents. They are also called Foucault currents.
+Even for a conductor in the form of a sheet or plate, an emf is induced when magnetic flux linked with it changes. But the difference is that there is no definite loop or path for induced current to flow away. As a result, the induced currents flow in concentric circular paths . As these electric currents resemble eddies of water, these are known as Eddy currents. They are also called Foucault currents.
 
 ![Figure 4.11 Demonstration of eddy currents](img4.11.png)
 
 #### Demonstration
 
-Here is a simple demonstration for the production of eddy currents. Consider a pendulum that can be made to oscillate between the poles of a powerful electromagnet (Figure 4.11(a)).
+Here is a simple demonstration for the production of eddy currents. Consider a pendulum that can be made to oscillate between the poles of a powerful electromagnet (Figure (a)).
 
 First the electromagnet is switched off, the pendulum is slightly displaced and released. It begins to oscillate and it executes a large number of oscillations before stopping. The air friction is the only damping force.
 
-When the electromagnet is switched on and the disc of the pendulum is made to oscillate, eddy currents are produced in it which will oppose the oscillation. A heavy damping force of eddy currents will bring the pendulum to rest within a few oscillations (Figure 4.11(b)).
+When the electromagnet is switched on and the disc of the pendulum is made to oscillate, eddy currents are produced in it which will oppose the oscillation. A heavy damping force of eddy currents will bring the pendulum to rest within a few oscillations (Figure (b)).
 
-However if some slots are cut in the disc (Figure 4.11(c)), the eddy currents are reduced. The pendulum now will execute several oscillations before coming to rest. This clearly demonstrates the production of eddy current in the disc of the pendulum.
+However if some slots are cut in the disc (Figure (c)), the eddy currents are reduced. The pendulum now will execute several oscillations before coming to rest. This clearly demonstrates the production of eddy current in the disc of the pendulum.
 
 #### Drawbacks of Eddy currents
 
 When eddy currents flow in the conductor, a large amount of energy is dissipated in the form of heat. The energy loss due to the flow of eddy current is inevitable but it can be reduced to a greater extent with suitable measures.
 
-The design of transformer core and electric motor armature is crucial in order to minimise the eddy current loss. To reduce these losses, the core of the transformer is made up of thin laminas insulated from one another (Figure 4.12(a)) while for electric motor the winding is made up of a group of wires insulated from one another (Figure 4.12(b)). The insulation used does not allow huge eddy currents to flow and hence losses are minimized.
+The design of transformer core and electric motor armature is crucial in order to minimise the eddy current loss. To reduce these losses, the core of the transformer is made up of thin laminas insulated from one another (Figure 4.12(a)) while for electric motor the winding is made up of a group of wires insulated from one another (Figure (b)). The insulation used does not allow huge eddy currents to flow and hence losses are minimized.
 
 ![Figure 4.12 (a) Insulated laminas of the core of a transformer](img4.12(a).png)
 
@@ -586,6 +588,25 @@ The design of transformer core and electric motor armature is crucial in order t
 >
 >In the second case, the magnet stops soon because eddy currents are produced in the plate which opposes the oscillation of the magnet.
 
+# Activity
+
+
+![](a.png)
+
+### Procedure
+
+1. Make a pendulum with a strong magnet suspended at the lower end of the suspension wire as shown in the first figure.
+2. Make it oscillate with a glass plate below it and note the time it takes to come to rest.
+3. Next, place a metallic plate below the oscillating magnet as shown in the second figure and again note the time it takes to stop.
+
+### Observation
+
+In the second case, the magnet stops sooner because **eddy currents** are produced in the metallic plate, which oppose the oscillation of the magnet.
+
+> **Result:**  
+> - **Glass plate:** Slow damping (magnet takes longer to stop).  
+> - **Metal plate:** Rapid damping due to the production of eddy currents.
+
 #### Application of eddy currents
 
 Though the production of eddy current is undesirable in some cases, it is useful in some other cases. A few of them are
@@ -600,7 +621,7 @@ iv. Electromagnetic damping
 
 #### i. Induction stove
 
-Induction stove is used to cook the food quickly and safely with less energy consumption. Below the cooking zone, there is a tightly wound coil of insulated wire. The cooking pan made of suitable material, is placed over the cooking zone. When the stove is switched on, an alternating current flowing in the coil produces high frequency alternating magnetic field which induces very strong eddy currents in the cooking pan. The eddy currents in the pan produce so much of heat due to Joule heating which is used to cook the food (Figure 4.13).
+Induction stove is used to cook the food quickly and safely with less energy consumption. Below the cooking zone, there is a tightly wound coil of insulated wire. The cooking pan made of suitable material, is placed over the cooking zone. When the stove is switched on, an alternating current flowing in the coil produces high frequency alternating magnetic field which induces very strong eddy currents in the cooking pan. The eddy currents in the pan produce so much of heat due to Joule heating which is used to cook the food.
 
 Note: The frequency of the domestic AC supply is increased from 50-60 Hz to around 20-40 KHz before giving it to the coil in order to produce high frequency alternating magnetic field.
 
@@ -608,9 +629,9 @@ Note: The frequency of the domestic AC supply is increased from 50-60 Hz to arou
 
 #### ii. Eddy current brake
 
-This eddy current braking system is generally used in high speed trains and roller coasters. Strong electromagnets are fixed just above the rails. To stop the train, electromagnets are switched on. The magnetic field of these magnets induces eddy currents in the rails which oppose or resist the movement of the train. This is Eddy current linear brake (Figure 4.14(a)).
+This eddy current braking system is generally used in high speed trains and roller coasters. Strong electromagnets are fixed just above the rails. To stop the train, electromagnets are switched on. The magnetic field of these magnets induces eddy currents in the rails which oppose or resist the movement of the train. This is Eddy current linear brake (Figure (a)).
 
-In some cases, the circular disc, connected to the wheel of the train through a common shaft, is made to rotate in between the poles of an electromagnet. When there is a relative motion between the disc and the magnet, eddy currents are induced in the disc which stop the train. This is Eddy current circular brake (Figure 4.14(b))
+In some cases, the circular disc, connected to the wheel of the train through a common shaft, is made to rotate in between the poles of an electromagnet. When there is a relative motion between the disc and the magnet, eddy currents are induced in the disc which stop the train. This is Eddy current circular brake (Figure (b))
 
 ![Figure 4.14 (a) Linear Eddy current brake](img4.14(a).png)
 
@@ -618,7 +639,7 @@ In some cases, the circular disc, connected to the wheel of the train through a 
 
 #### iii. Eddy current testing
 
-It is one of the simple non-destructive testing methods to find defects like surface cracks, air bubbles present in a specimen. A coil of insulated wire is given an alternating electric current so that it produces an alternating magnetic field. When this coil is brought near the test surface, eddy current is induced in the test surface. The presence of defects causes the change in phase and amplitude of the eddy current that can be detected by some other means. In this way, the defects present in the specimen are identified (Figure 4.15).
+It is one of the simple non-destructive testing methods to find defects like surface cracks, air bubbles present in a specimen. A coil of insulated wire is given an alternating electric current so that it produces an alternating magnetic field. When this coil is brought near the test surface, eddy current is induced in the test surface. The presence of defects causes the change in phase and amplitude of the eddy current that can be detected by some other means. In this way, the defects present in the specimen are identified.
 
 ![Figure 4.15 Eddy current testing](img4.15.png)
 
@@ -638,7 +659,7 @@ Inductance is the property of inductors to generate emf due to the change in cur
 
 #### Self-induction
 
-An electric current flowing through a coil will set up a magnetic field around it. Therefore, the magnetic flux of the magnetic field is linked with that coil itself. If this flux is changed by changing the current, an emf is induced in that same coil (Figure 4.18). This phenomenon is known as self- induction. The emf induced is called self- induced emf.
+An electric current flowing through a coil will set up a magnetic field around it. Therefore, the magnetic flux of the magnetic field is linked with that coil itself. If this flux is changed by changing the current, an emf is induced in that same coil. This phenomenon is known as self- induction. The emf induced is called self- induced emf.
 
 ![Figure 4.18 Self-Induction](img4.18.png)
 
@@ -684,7 +705,7 @@ Therefore, the inductance of the coil is one henry if a current changing at the 
 
 #### Physical significance of inductance
 
-We have learnt about inertia in XI standard. In translational motion, mass is a measure of linear inertia; in the same way, for rotational motion, moment of inertia is a measure of rotational inertia (Refer sections 3.2.1 and 5.4 of XI physics text book). Generally, inertia means opposition to change its state.
+We have learnt about inertia in XI standard. In translational motion, mass is a measure of linear inertia; in the same way, for rotational motion, moment of inertia is a measure of rotational inertia. Generally, inertia means opposition to change its state.
 
 ![Figure 4.19 Induced emf ε opposes the changing current i](img4.19.png)
 
@@ -692,7 +713,7 @@ The inductance plays the same role in a circuit as mass and moment of inertia pl
 
 ### 4.3.2 Self-inductance of a long solenoid
 
-Consider a long solenoid of length $l$ and cross-sectional area $A$. Let $n$ be the number of turns per unit length (or turn density) of the solenoid. When an electric current $i$ is passed through the solenoid, a magnetic field produced inside is almost uniform and is directed along the axis of the solenoid as shown in Figure 4.20. The magnetic field at any point inside the solenoid is given by (Refer section 3.9.3)
+Consider a long solenoid of length $l$ and cross-sectional area $A$. Let $n$ be the number of turns per unit length (or turn density) of the solenoid. When an electric current $i$ is passed through the solenoid, a magnetic field produced inside is almost uniform and is directed along the axis of the solenoid as shown in Figure The magnetic field at any point inside the solenoid
 
 $$ B = \mu_0 n i $$
 
@@ -736,6 +757,13 @@ $$ dW = -\epsilon dq $$
 $$ = -\epsilon i dt \quad (\because dq = i dt) $$
 
 Substituting for $\epsilon$ from equation (4.9),
+\[
+= -\left(-L\frac{di}{dt}\right)i\,dt
+\]
+
+\[
+dW = Li\,di
+\]
 
 $$= - \left( -L \frac{di}{dt} \right) i \, dt$$
 
@@ -795,7 +823,7 @@ $$ \therefore \mu_r = \frac{L_{\text{iron}}}{L_{\text{air}}} = \frac{1.8}{4.8 \t
 
 When an electric current passing through a coil changes with time, an emf is induced in the neighbouring coil. This phenomenon is known as mutual induction and the emf induced is called mutually induced emf.
 
-Consider two coils which are placed close to each other. If an electric current $i_1$ is sent through coil 1, the magnetic field produced by it is also linked with coil 2 as shown in Figure 4.21(a).
+Consider two coils which are placed close to each other. If an electric current $i_1$ is sent through coil 1, the magnetic field produced by it is also linked with coil 2 as shown in Figure (a).
 
 If $\Phi_{21}$ is the magnetic flux linked with each turn of the coil 2 of $N_2$ turns due to the current in coil 1, then the total flux linked with coil 2 $(N_2 \Phi_{21})$ is proportional to the current $i_1$ in the coil 1.
 
@@ -841,7 +869,7 @@ Therefore, the mutual inductance between two neighbouring coils is one henry if 
 
 ### 4.3.4 Mutual inductance between two long co-axial solenoids
 
-Consider two long co-axial solenoids of same length $l$. The length of these solenoids is large when compared to their radii so that the magnetic field produced inside the solenoids is uniform and the fringing effect at the ends may be ignored. Let $A_1$ and $A_2$ be the area of cross section of the solenoids with $A_1$ being greater than $A_2$ as shown in Figure 4.22. The turn density of these solenoids are $n_1$ and $n_2$ respectively.
+Consider two long co-axial solenoids of same length $l$. The length of these solenoids is large when compared to their radii so that the magnetic field produced inside the solenoids is uniform and the fringing effect at the ends may be ignored. Let $A_1$ and $A_2$ be the area of cross section of the solenoids with $A_1$ being greater than $A_2$. The turn density of these solenoids are $n_1$ and $n_2$ respectively.
 
 ![Figure 4.22 Mutual inductance of two long co-axial solenoids](img4.22.png)
 
@@ -1082,7 +1110,7 @@ Therefore, the value of induced emf at any instant is then given by
 
 $$ \epsilon = \epsilon_m \sin \omega t \quad (4.22) $$
 
-It is seen that the induced emf varies as sine function of the time angle $\omega t$. The graph between induced emf and time angle for one rotation of the coil will be a sine curve (Figure 4.25) and the emf varying in this manner is called sinusoidal emf or alternating emf.
+It is seen that the induced emf varies as sine function of the time angle $\omega t$. The graph between induced emf and time angle for one rotation of the coil will be a sine curve and the emf varying in this manner is called sinusoidal emf or alternating emf.
 
 If this alternating voltage is given to a closed circuit, a sinusoidally varying current flows in it. This current is called alternating current and is given by
 
@@ -1140,14 +1168,14 @@ The stationary part which has armature windings mounted in it is called stator. 
 
 Stator core or armature core is made up of iron or steel alloy. It is a hollow cylinder and is laminated to minimize eddy current loss. The slots are cut on inner surface of the core to accommodate armature windings.
 
-Armature winding is the coil, wound on slots provided in the armature core (Figure 4.27).
+Armature winding is the coil, wound on slots provided in the armature core.
 
 
 #### ii) Rotor
 
 ![Figure 4.27 Stator core, Armature winding and 2-pole rotor](img4.27.png)
 
-Rotor contains magnetic field windings. The magnetic poles are magnetized by DC source. The ends of field windings are connected to a pair of slip rings, attached to a common shaft about which rotor rotates. Slip rings rotate along with rotor. To maintain connection between the DC source and field windings, two brushes are used which continuously slide over the slip rings. The 2-pole rotor is shown in Figure 4.27.
+Rotor contains magnetic field windings. The magnetic poles are magnetized by DC source. The ends of field windings are connected to a pair of slip rings, attached to a common shaft about which rotor rotates. Slip rings rotate along with rotor. To maintain connection between the DC source and field windings, two brushes are used which continuously slide over the slip rings. 
 
 We will discuss the construction and working of two examples, namely single phase and three phase AC generators in the following sections.
 
@@ -1166,7 +1194,7 @@ In a single phase AC generator, the armature conductors are connected in series 
 
 In the simplified version of AC generator, a single-turn rectangular loop PQRS is mounted on the stator. The field winding is fixed inside the stator and it can be rotated about an axis, perpendicular to the plane of the paper.
 
-The loop PQRS is stationary and is also perpendicular to the plane of the paper. When field windings are excited, magnetic field is produced around it. Let the field magnet be rotated in clockwise direction by some external means (Figure 4.28).
+The loop PQRS is stationary and is also perpendicular to the plane of the paper. When field windings are excited, magnetic field is produced around it. Let the field magnet be rotated in clockwise direction by some external means.
 
 ![Figure 4.28 The loop PQRS and field magnet in its initial position](img4.28.png)
 
@@ -1215,7 +1243,7 @@ called three-phase AC generators.
 
 ### 4.5.7 Three-phase AC generator
 
-In the simplified construction of three-phase AC generator, the armature core has 6 slots, cut on its inner rim. Each slot is $60^\circ$ away from one another. Six armature conductors are mounted in these slots. The conductors 1 and 4 are joined in series to form coil 1. The conductors 3 and 6 form coil 2 while the conductors 5 and 2 form coil 3. So, these coils are rectangular in shape and are $120^\circ$ apart from one another (Figure 4.30).
+In the simplified construction of three-phase AC generator, the armature core has 6 slots, cut on its inner rim. Each slot is $60^\circ$ away from one another. Six armature conductors are mounted in these slots. The conductors 1 and 4 are joined in series to form coil 1. The conductors 3 and 6 form coil 2 while the conductors 5 and 2 form coil 3. So, these coils are rectangular in shape and are $120^\circ$ apart from one another.
 
 ![Figure 4.30 (a) Three separate windings on stator core (b) Phase difference of $120^{\circ}$](img4.30.png)
 
@@ -1247,7 +1275,7 @@ The principle of transformer is the mutual induction between two coils. That is,
 
 ### Construction
 
-In the simple construction of transformers, there are two coils of high mutual inductance wound over the same transformer core. The core is generally laminated and is made up of a good magnetic material like silicon steel. Coils are electrically insulated but magnetically linked via transformer core (Figure 4.32).
+In the simple construction of transformers, there are two coils of high mutual inductance wound over the same transformer core. The core is generally laminated and is made up of a good magnetic material like silicon steel. Coils are electrically insulated but magnetically linked via transformer core.
 
 ![Figure 4.32 (a) construction of transformer](img4.32(a).png)
 
@@ -1347,7 +1375,7 @@ Since power produced is alternating in nature, there is a way out. The most impo
 
 ![Figure 4.33 Long distance power transmissions](img4.33.png)
 
-At the transmitting point, the voltage is increased and the corresponding current is decreased by using step-up transformer (Figure 4.33). Then it is transmitted through transmission lines. This reduced current at high voltage reaches the destination without any appreciable loss. At the receiving point, the voltage is decreased and the current is increased to appropriate values by using step-down transformer and then it is given to consumers. Thus power transmission is done efficiently and economically.
+At the transmitting point, the voltage is increased and the corresponding current is decreased by using step-up transformer. Then it is transmitted through transmission lines. This reduced current at high voltage reaches the destination without any appreciable loss. At the receiving point, the voltage is decreased and the current is increased to appropriate values by using step-down transformer and then it is given to consumers. Thus power transmission is done efficiently and economically.
 
 **Illustration:**
 
@@ -1408,7 +1436,6 @@ Secondary voltage per turn,
 = V_s I_s = \frac{V_s^2}{R_s} = \frac{20,000 \times 20,000}{10^4} = 40 \, \text{kW}
 \]
 
-#### EXAMPLE 4.17
 
 An inverter is common electrical device which we use in our homes. When there is no power in our house, inverter gives AC power to run a few electronic appliances like fan or light. An inverter has inbuilt step-up transformer which converts 12 V AC to 240 V AC. The primary coil has 100 turns and the inverter delivers 50 mA to the external circuit. Find the number of turns in the secondary and the primary current.
 
@@ -1476,7 +1503,7 @@ an instant. Therefore, the current flows
 in clockwise direction. After a short time,
 the polarities of the source are reversed so
 that current now flows in anti-clockwise
-direction (Figure 4.34(b)). This current
+direction (Figure(b)). This current
 which flows in alternate directions in the
 circuit is called alternating current.
 
@@ -1530,7 +1557,7 @@ i = I_m \sin \theta
 
 (where \( \theta = \omega t \))
 
-whose graphical representation is given in Figure 4.36.
+whose graphical representation is given.
 
 The sum of all currents over a half-cycle is given by area of positive half-cycle (or negative half-cycle). Therefore,
 
@@ -1541,7 +1568,7 @@ I_{av} = \frac{\text{(or negative half-cycle)}}{\text{ Bash of half-cycle}} \tag
 
 ![**Figure 4.36** Sine wave of an alternating current](img4.36.png)
 
-Consider an elementary strip of thickness \( d\theta \) in the positive half-cycle of the current wave (Figure 4.41). Let \( i \) be the mid-ordinate of that strip.
+Consider an elementary strip of thickness \( d\theta \) in the positive half-cycle of the current wave. Let \( i \) be the mid-ordinate of that strip.
 
 Area of the elementary strip = \( i \, d\theta \)
 
@@ -1580,7 +1607,7 @@ The term RMS refers to time- varying sinusoidal currents and voltages which is n
 
 The root mean square value of an alternating current is defined as the square root of the mean of the squares of all currents over one cycle. It is denoted by $I_{RMS}$ . For alternating voltages, the RMS value is given by $V_{RMS}$ .
 
-The alternating current $i = I_{m}\sin \omega t$ or $i = I_{m}\sin \theta$ , is represented graphically in Figure 4.37. The corresponding squared current wave is also shown by the dotted lines.
+The alternating current $i = I_{m}\sin \omega t$ or $i = I_{m}\sin \theta$ , is represented graphically. The corresponding squared current wave is also shown by the dotted lines.
 
 
 ![Figure 4.37 Squared wave of AC](img4.37.png)
@@ -1591,7 +1618,7 @@ $$
 I_{RMS} = \sqrt{\frac{\mathrm{Area~of~one~cycle}}{\mathrm{of~squared~wave}}} \quad (4.33)
 $$
 
-An elementary area of thickness $d\theta$ is considered in the first half- cycle of the squared current wave as shown in Figure 4.37. Let $i^{2}$ be the mid- ordinate of the element.
+An elementary area of thickness $d\theta$ is considered in the first half- cycle of the squared current wave. Let $i^{2}$ be the mid- ordinate of the element.
 
 Area of the element $= i^{2}d\theta$
 
@@ -1733,7 +1760,7 @@ The notion of phasors is introduced to analyse phase relationship between voltag
 
 #### Phasor diagram
 
-The diagram which shows various phasors and their phase relations is called phasor diagram. Consider a sinusoidal alternating voltage $\nu = V_{m} \sin \omega t$ applied to a circuit. This voltage can be represented by a phasor, namely $\overline{OA}$ as shown in Figure 4.38.
+The diagram which shows various phasors and their phase relations is called phasor diagram. Consider a sinusoidal alternating voltage $\nu = V_{m} \sin \omega t$ applied to a circuit. This voltage can be represented by a phasor, namely $\overline{OA}$.
 
 ![Figure 4.38 Phasor diagram for an alternating voltage $\nu = V_{m} \sin \omega t$](img4.38.png)
 
@@ -1750,7 +1777,7 @@ The alternating current in the same circuit may be given by the relation $i = I_
 
 ![Figure 4.40 AC circuit with resistor](img4.40.png)
 
-Consider a circuit containing a pure resistor of resistance $R$ connected across an alternating voltage source (Figure 4.40). The instantaneous value of the alternating voltage is given by
+Consider a circuit containing a pure resistor of resistance $R$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 $$
 \nu = V_{m}\sin \omega t \quad (4.37)
@@ -1762,7 +1789,7 @@ $$
 V_{R} = iR \quad (4.38)
 $$
 
-Kirchoff's loop rule (Refer section 2.5.2) states that the algebraic sum of potential differences in a closed circuit is zero. For this resistive circuit,
+Kirchoff's loop rule states that the algebraic sum of potential differences in a closed circuit is zero. For this resistive circuit,
 
 $$
 \nu - V_{R} = 0
@@ -1782,13 +1809,13 @@ $$
 i = I_{m}\sin \omega t
 $$
 
-where $\frac{V_{m}}{R} = I_{m}$ , the peak value of alternating current in the circuit. From equations (4.37) and (4.39), it is clear that the applied voltage and the current are in phase with each other in a resistive circuit. It means that they reach their maxima and minima simultaneously. This is indicated in the phasor diagram (Figure 4.41). The wave diagram also depicts that current is in phase with the applied voltage (Figure 4.41).
+where $\frac{V_{m}}{R} = I_{m}$ , the peak value of alternating current in the circuit. From equations (4.37) and (4.39), it is clear that the applied voltage and the current are in phase with each other in a resistive circuit. It means that they reach their maxima and minima simultaneously. This is indicated in the phasor diagram. The wave diagram also depicts that current is in phase with the applied voltage.
 
 ![Figure 4.41 Phasor diagram and wave diagram for AC circuit with R](img4.41.png)
 
 ### 4.7.5 AC circuit containing only an inductor
 
-Consider a circuit containing a pure inductor of inductance $L$ connected across an alternating voltage source (Figure 4.42). The instantaneous value of the alternating voltage is given by
+Consider a circuit containing a pure inductor of inductance $L$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 $$
 \nu = V_{m}\sin \omega t \quad (4.40)
@@ -1836,7 +1863,7 @@ $$
 \mathrm{or} \quad i = I_m\sin \left(\omega t - \frac{\pi}{2}\right)
 $$
 
-where $\frac{V_m}{\omega L} = I_m$ , the peak value of the alternating current in the circuit. From equation (4.40) and (4.41), it is evident that current lags behind the applied voltage by $\frac{\pi}{2}$ in an inductive circuit. This fact is depicted in the phasor diagram. In the wave diagram also, it is seen that current lags the voltage by $90^{\circ}$ (Figure 4.43).
+where $\frac{V_m}{\omega L} = I_m$ , the peak value of the alternating current in the circuit. From equation (4.40) and (4.41), it is evident that current lags behind the applied voltage by $\frac{\pi}{2}$ in an inductive circuit. This fact is depicted in the phasor diagram. In the wave diagram also, it is seen that current lags the voltage by $90^{\circ}$.
 
 ![Figure 4.43 Phasor diagram and wave diagram for AC circuit with L](img4.43.png)
 
@@ -1865,7 +1892,7 @@ where \( f \) is the frequency of the alternating current. For a steady current,
 
 ### 4.7.6 AC circuit containing only a capacitor
 
-Consider a circuit containing a capacitor of capacitance $C$ connected across an alternating voltage source (Figure 4.44). The instantaneous value of the alternating voltage is given by
+Consider a circuit containing a capacitor of capacitance $C$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 $$
 \nu = V_{m}\sin \omega t \quad (4.43)
@@ -2021,7 +2048,7 @@ $$
 
 ### 4.7.7 AC circuit containing a resistor, an inductor and a capacitor in series - Series RLC circuit
 
-Consider a circuit containing a resistor of resistance $R$, an inductor of inductance $L$ and a capacitor of capacitance $C$ connected across an alternating voltage source (Figure 4.46). The instantaneous value of the alternating voltage is given by
+Consider a circuit containing a resistor of resistance $R$, an inductor of inductance $L$ and a capacitor of capacitance $C$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 v =Vm sin ωt
 
@@ -2139,7 +2166,7 @@ Since $X_{L}$ and $X_{C}$ are frequency dependent, the resonance condition $(X_{
 
 #### Effects of series resonance
 
-When series resonance occurs, the impedance of the circuit is minimum and is equal to the resistance of the circuit. As a result of this, the current in the circuit becomes maximum. This is shown in the resonance curve drawn between current and frequency (Figure 4.49).
+When series resonance occurs, the impedance of the circuit is minimum and is equal to the resistance of the circuit. As a result of this, the current in the circuit becomes maximum. This is shown in the resonance curve drawn between current and frequency.
 
 At resonance, the impedance is
 
@@ -2404,11 +2431,11 @@ where $V_{RMS} I_{RMS}$ is called apparent power and $\cos \phi$ is power factor
 
 ### 4.8.2 Wattless current
 
-Consider an AC circuit in which there is a phase angle of $\phi$ between $V_{RMS}$ and $I_{RMS}$ and voltage is assumed to be leading the current by $\phi$ as shown in the phasor diagram (Figure 4.50).
+Consider an AC circuit in which there is a phase angle of $\phi$ between $V_{RMS}$ and $I_{RMS}$ and voltage is assumed to be leading the current by $\phi$ as shown in the phasor diagram.
 
 ![Figure 4.50 $V_{RMS}$ leads $I_{RMS}$ by $\phi$](img4.50.png)
 
-Now, $I_{RMS}$ is resolved into two perpendicular components, namely $I_{RMS}\cos \phi$ along $V_{RMS}$ and $I_{RMS}\sin \phi$ perpendicular to $V_{RMS}$ as shown in Figure 4.51.
+Now, $I_{RMS}$ is resolved into two perpendicular components, namely $I_{RMS}\cos \phi$ along $V_{RMS}$ and $I_{RMS}\sin \phi$ perpendicular to $V_{RMS}$.
 
 ![Figure 4.51 The components of $I_{RMS}$](img4.51.png)
 
@@ -2540,7 +2567,7 @@ $$
 
 #### 4.9.1 Energy conversion during LC oscillations
 
-We have learnt that energy can be stored in both inductors and capacitors (Refer sections 1.8.2 and 4.3.2). In inductors, the energy is stored in the form of magnetic field while in capacitors, it is stored as the electric field.
+We have learnt that energy can be stored in both inductors and capacitors. In inductors, the energy is stored in the form of magnetic field while in capacitors, it is stored as the electric field.
 
 Whenever energy is given to a circuit containing a pure inductor of inductance $L$ and a capacitor of capacitance $C$ , the energy oscillates back and forth between the magnetic field of the inductor and the electric field of the capacitor. Thus the electrical oscillations of definite frequency are generated. These oscillations are called LC oscillations.
 
@@ -2548,17 +2575,17 @@ Whenever energy is given to a circuit containing a pure inductor of inductance $
 
 Let us assume that the capacitor is fully charged with maximum charge $Q_{m}$ at the initial stage. So that the energy stored in the capacitor is maximum and is given by $U_{E} = \frac{Q^{2}}{2C}$ . As there is no current in the inductor, the energy stored in it is zero i.e., $U_{B} = 0$ . Therefore, the total energy is wholly electrical. This is shown in Figure 4.52(a).
 
-The capacitor now begins to discharge through the inductor that establishes current $i$ in clockwise direction. This current produces a magnetic field around the inductor and the energy stored in the inductor is given by $U_{B} = \frac{Li^{2}}{2}$ . As the charge in the capacitor decreases, the energy stored in it also decreases and is given by $U_{E} = \frac{q^{2}}{2C}$ . Thus there is a transfer of some part of energy from the capacitor to the inductor. At that instant, the total energy is the sum of electrical and magnetic energies (Figure 4.52(b)).
+The capacitor now begins to discharge through the inductor that establishes current $i$ in clockwise direction. This current produces a magnetic field around the inductor and the energy stored in the inductor is given by $U_{B} = \frac{Li^{2}}{2}$ . As the charge in the capacitor decreases, the energy stored in it also decreases and is given by $U_{E} = \frac{q^{2}}{2C}$ . Thus there is a transfer of some part of energy from the capacitor to the inductor. At that instant, the total energy is the sum of electrical and magnetic energies (Figure (b)).
 
-When the charges in the capacitor are exhausted, its energy becomes zero i.e., $U_{E} = 0$ . The energy is fully transferred to the magnetic field of the inductor and its energy is maximum. This maximum energy is given by $U_{B} = \frac{LI_{m}^{2}}{2}$ where $I_{m}$ is the maximum current flowing in the circuit. The total energy is wholly magnetic (Figure 4.52(c)).
+When the charges in the capacitor are exhausted, its energy becomes zero i.e., $U_{E} = 0$ . The energy is fully transferred to the magnetic field of the inductor and its energy is maximum. This maximum energy is given by $U_{B} = \frac{LI_{m}^{2}}{2}$ where $I_{m}$ is the maximum current flowing in the circuit. The total energy is wholly magnetic (Figure (c)).
 
-Even though the charge in the capacitor is zero, the current will continue to flow in the same direction because the inductor will not allow it to stop immediately. The current is made to flow with decreasing magnitude by the collapsing magnetic field of the inductor. As a result of this, the capacitor begins to charge in the opposite direction. A part of the energy is transferred from the inductor back to the capacitor. The total energy is the sum of the electrical and magnetic energies (Figure 4.52(d)).
+Even though the charge in the capacitor is zero, the current will continue to flow in the same direction because the inductor will not allow it to stop immediately. The current is made to flow with decreasing magnitude by the collapsing magnetic field of the inductor. As a result of this, the capacitor begins to charge in the opposite direction. A part of the energy is transferred from the inductor back to the capacitor. The total energy is the sum of the electrical and magnetic energies (Figure (d)).
 
-When the current in the circuit reduces to zero, the capacitor becomes fully charged in the opposite direction. The energy stored in the capacitor becomes maximum. Since the current is zero, the energy stored in the inductor is zero. The total energy is wholly electrical (Figure 4.52(e)).
+When the current in the circuit reduces to zero, the capacitor becomes fully charged in the opposite direction. The energy stored in the capacitor becomes maximum. Since the current is zero, the energy stored in the inductor is zero. The total energy is wholly electrical (Figure (e)).
 
-The state of the circuit is similar to the initial state but the difference is that the capacitor is charged in opposite direction. The capacitor then starts to discharge through the inductor with anti- clockwise current. The total energy is the sum of the electrical and magnetic energies (Figure 4.52(f)).
+The state of the circuit is similar to the initial state but the difference is that the capacitor is charged in opposite direction. The capacitor then starts to discharge through the inductor with anti- clockwise current. The total energy is the sum of the electrical and magnetic energies (Figure (f)).
 
-As already explained, the processes are repeated in opposite direction (Figure 4.52(g) and (h)). Finally, the circuit returns to the initial state (Figure 4.52(a)). Thus, when the circuit goes through these stages, an alternating current flows in the circuit. As this process is repeated again and again, the electrical oscillations of definite frequency are generated. These are known as LC oscillations.
+As already explained, the processes are repeated in opposite direction (Figure (g) and (h)). Finally, the circuit returns to the initial state (Figure (a)). Thus, when the circuit goes through these stages, an alternating current flows in the circuit. As this process is repeated again and again, the electrical oscillations of definite frequency are generated. These are known as LC oscillations.
 
 In the ideal LC circuit, there is no loss of energy. Therefore, the oscillations will continue indefinitely. Such oscillations are called undamped oscillations.
 
