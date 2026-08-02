@@ -122,13 +122,9 @@ summary: "This unit explains the principles of electromagnetic induction, includ
 
 ---
 
-# 4 ELECTROMAGNETIC INDUCTION AND ALTERNATING CURRENT
-
 > "Nature is our kindest friend and best critic in experimental science if we only allow her intimations to fall unbiased on our minds" – Michael Faraday
 
 ## 4.1 ELECTROMAGNETIC INDUCTION
-
-### 4.1.1 Introduction
 
 In the previous chapter, we have learnt that whenever an electric current flows through a conductor, it produces a magnetic field around it. This was discovered by Christian Oersted. Later, Ampere proved that a current-carrying loop behaves like a bar magnet. These are the magnetic effects produced by the electric current.
 
@@ -166,51 +162,50 @@ $$
 1\mathrm{Wb} = 1\mathrm{Tm}^2
 $$
 
-![](img4.1.png)
-<center>Figure 4.1 Magnetic flux </center>
+![Figure 4.1 Magnetic flux](img4.1.png)
 
->#### EXAMPLE 4.1
->
->A circular antenna of area $3\mathrm{m}^2$ is installed at a place in Madurai. The plane of the area of antenna is inclined at $47^{\circ}$ with the direction of Earth's magnetic field. If the magnitude of Earth's field at that place is $4.1\times 10^{-5}\mathrm{T}$ find the magnetic flux linked with the antenna.
->
->#### Solution
->
->$$
->B = 4.1\times 10^{-5}\mathrm{T};\ \theta = 90^{\circ} - 47^{\circ} = 43^{\circ};\ A = 3\mathrm{m}^2
->$$
->
->We know that $\Phi_{B} = BA\cos \theta$
->
->$$
->\Phi_{B} = 4.1\times 10^{-5}\times 3\times \cos 43^{\circ} = 4.1\times 10^{-5}\times 3\times 0.7314 = 89.96\mu \mathrm{Wb}
->$$
+#### EXAMPLE 4.1
 
->#### EXAMPLE 4.2
->
->A circular loop of area $5\times 10^{-2}\mathrm{m}^2$ rotates in a uniform magnetic field of $0.2\mathrm{T}$. If the loop rotates about its diameter which is perpendicular to the magnetic field as shown in figure. Find the magnetic flux linked with the loop when its plane is (i) normal to the field (ii) inclined $60^{\circ}$ to the field and (iii) parallel to the field.
->
->#### Solution
->
->![](img4ch.png)
->
->$$
->A = 5\times 10^{-2}\mathrm{m}^2;\ B = 0.2\mathrm{T}
->$$
->
->(i) $\theta = 0^{\circ}$;
->$$
->\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 0^{\circ} = 1\times 10^{-2}\mathrm{Wb}
->$$
->
->(ii) $\theta = 90^{\circ} - 60^{\circ} = 30^{\circ}$;
->$$
->\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 30^{\circ} = 1\times 10^{-2}\times \frac{\sqrt{3}}{2} = 8.66\times 10^{-3}\mathrm{Wb}
->$$
->
->(iii) $\theta = 90^{\circ}$;
->$$
->\Phi_{B} = BA\cos 90^{\circ} = 0
->$$
+A circular antenna of area $3\mathrm{m}^2$ is installed at a place in Madurai. The plane of the area of antenna is inclined at $47^{\circ}$ with the direction of Earth's magnetic field. If the magnitude of Earth's field at that place is $4.1\times 10^{-5}\mathrm{T}$ find the magnetic flux linked with the antenna.
+
+#### Solution
+
+$$
+B = 4.1\times 10^{-5}\mathrm{T};\ \theta = 90^{\circ} - 47^{\circ} = 43^{\circ};\ A = 3\mathrm{m}^2
+$$
+
+We know that $\Phi_{B} = BA\cos \theta$
+
+$$
+\Phi_{B} = 4.1\times 10^{-5}\times 3\times \cos 43^{\circ} = 4.1\times 10^{-5}\times 3\times 0.7314 = 89.96\mu \mathrm{Wb}
+$$
+
+#### EXAMPLE 4.2
+
+A circular loop of area $5\times 10^{-2}\mathrm{m}^2$ rotates in a uniform magnetic field of $0.2\mathrm{T}$. If the loop rotates about its diameter which is perpendicular to the magnetic field as shown in figure. Find the magnetic flux linked with the loop when its plane is (i) normal to the field (ii) inclined $60^{\circ}$ to the field and (iii) parallel to the field.
+
+#### Solution
+
+![](img4ch.png)
+
+$$
+A = 5\times 10^{-2}\mathrm{m}^2;\ B = 0.2\mathrm{T}
+$$
+
+(i) $\theta = 0^{\circ}$;
+$$
+\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 0^{\circ} = 1\times 10^{-2}\mathrm{Wb}
+$$
+
+(ii) $\theta = 90^{\circ} - 60^{\circ} = 30^{\circ}$;
+$$
+\Phi_{B} = BA\cos \theta = 0.2\times 5\times 10^{-2}\times \cos 30^{\circ} = 1\times 10^{-2}\times \frac{\sqrt{3}}{2} = 8.66\times 10^{-3}\mathrm{Wb}
+$$
+
+(iii) $\theta = 90^{\circ}$;
+$$
+\Phi_{B} = BA\cos 90^{\circ} = 0
+$$
 
 ### 4.1.3 Faraday's Experiments on Electromagnetic Induction
 
@@ -304,52 +299,52 @@ Here $N\Phi_{B}$ is called flux linkage, defined as the product of number of tur
 >
 >Make a circuit containing a coil of insulated wire wound around soft hollow core and a galvanometer as shown in Figure. It is better to use a thin wire for the coil so that we can wind many turns in the available space. Perform the steps described in first experiment of Faraday with the help of a strong bar magnet. Students will get hands-on experience about electromagnetic induction.
 
->#### EXAMPLE 4.3
->
->A cylindrical bar magnet is kept along the axis of a circular solenoid. If the magnet is rotated about its axis, find out whether an electric current is induced in the coil.
->
->#### Solution
->
->The magnetic field of a cylindrical magnet is symmetrical about its axis. As the magnet is rotated along the axis of the solenoid, there is no induced current in the solenoid because the flux linked with the solenoid does not change due to the rotation of the magnet.
+#### EXAMPLE 4.3
 
->#### EXAMPLE 4.4
->
->A closed coil of 40 turns and of area $200~\mathrm{cm}^2$ is rotated in a magnetic field of flux density $2\mathrm{Wb}\mathrm{m}^{-2}$. It rotates from a position where its plane makes an angle of $30^{\circ}$ with the field to a position perpendicular to the field in a time 0.2 s. Find the magnitude of the emf induced in the coil due to its rotation.
->
->#### Solution
->
->$$
->N = 40\ \mathrm{turns};\ B = 2\ \mathrm{Wb}\mathrm{m}^{-2};\ A = 200\ \mathrm{cm}^{2} = 200\times 10^{-4}\ \mathrm{m}^{2};
->$$
->
->Initial flux,
->$$
->\Phi_{i} = BA\cos \theta = 2\times 200\times 10^{-4}\times \cos 60^{\circ} \quad (\text{since } \theta = 90^{\circ} - 30^{\circ} = 60^{\circ})
->$$
->$$
->\Phi_{i} = 2\times 10^{-2}\ \mathrm{Wb}
->$$
->
->Final flux,
->$$
->\Phi_{f} = BA\cos \theta = 2\times 200\times 10^{-4}\times \cos 0^{\circ} \quad (\text{since } \theta = 0^{\circ})
->$$
->$$
->\Phi_{f} = 4\times 10^{-2}\ \mathrm{Wb}
->$$
->
->The magnitude of the induced emf is
->$$
->e = N\frac{d\Phi_B}{dt} = \frac{40\times\left(4\times 10^{-2} - 2\times 10^{-2}\right)}{0.2} = 4\ \mathrm{V}
->$$
+A cylindrical bar magnet is kept along the axis of a circular solenoid. If the magnet is rotated about its axis, find out whether an electric current is induced in the coil.
 
->#### EXAMPLE 4.5
->
->A straight conducting wire is dropped horizontally from a certain height with its length along east-west direction. Will an emf be induced in it? Justify your answer.
->
->#### Solution
->
->Yes! An emf will be induced in the wire because it moves perpendicular to the horizontal component of Earth's magnetic field and hence it cuts the magnetic lines of Earth's magnetic field.
+#### Solution
+
+The magnetic field of a cylindrical magnet is symmetrical about its axis. As the magnet is rotated along the axis of the solenoid, there is no induced current in the solenoid because the flux linked with the solenoid does not change due to the rotation of the magnet.
+
+#### EXAMPLE 4.4
+
+A closed coil of 40 turns and of area $200~\mathrm{cm}^2$ is rotated in a magnetic field of flux density $2\mathrm{Wb}\mathrm{m}^{-2}$. It rotates from a position where its plane makes an angle of $30^{\circ}$ with the field to a position perpendicular to the field in a time 0.2 s. Find the magnitude of the emf induced in the coil due to its rotation.
+
+#### Solution
+
+$$
+N = 40\ \mathrm{turns};\ B = 2\ \mathrm{Wb}\mathrm{m}^{-2};\ A = 200\ \mathrm{cm}^{2} = 200\times 10^{-4}\ \mathrm{m}^{2};
+$$
+
+Initial flux,
+$$
+\Phi_{i} = BA\cos \theta = 2\times 200\times 10^{-4}\times \cos 60^{\circ} \quad (\text{since } \theta = 90^{\circ} - 30^{\circ} = 60^{\circ})
+$$
+$$
+\Phi_{i} = 2\times 10^{-2}\ \mathrm{Wb}
+$$
+
+Final flux,
+$$
+\Phi_{f} = BA\cos \theta = 2\times 200\times 10^{-4}\times \cos 0^{\circ} \quad (\text{since } \theta = 0^{\circ})
+$$
+$$
+\Phi_{f} = 4\times 10^{-2}\ \mathrm{Wb}
+$$
+
+The magnitude of the induced emf is
+$$
+e = N\frac{d\Phi_B}{dt} = \frac{40\times\left(4\times 10^{-2} - 2\times 10^{-2}\right)}{0.2} = 4\ \mathrm{V}
+$$
+
+#### EXAMPLE 4.5
+
+A straight conducting wire is dropped horizontally from a certain height with its length along east-west direction. Will an emf be induced in it? Justify your answer.
+
+#### Solution
+
+Yes! An emf will be induced in the wire because it moves perpendicular to the horizontal component of Earth's magnetic field and hence it cuts the magnetic lines of Earth's magnetic field.
 
 ### 4.1.4 Lenz's Law
 
@@ -410,15 +405,15 @@ The thumb, index finger and middle finger of right hand are stretched out in mut
 
 Fleming's right hand rule is also known as generator rule.
 
->#### EXAMPLE 4.6
->
->If the current $i$ flowing in the straight conducting wire as shown in the figure decreases, find out the direction of induced current in the metallic square loop placed near it.
->
->![](img4ch3.png)
->
->#### Solution
->
->From right hand rule, the magnetic field by the straight wire is directed into the plane of the square loop perpendicularly and its magnetic flux is decreasing. The decrease in flux is opposed by the current induced in the loop by producing a magnetic field in the same direction as the magnetic field of the wire. Again from right hand rule, for this inward magnetic field, the direction of the induced current in the loop is clockwise.
+#### EXAMPLE 4.6
+
+If the current $i$ flowing in the straight conducting wire as shown in the figure decreases, find out the direction of induced current in the metallic square loop placed near it.
+
+![](img4ch3.png)
+
+#### Solution
+
+From right hand rule, the magnetic field by the straight wire is directed into the plane of the square loop perpendicularly and its magnetic flux is decreasing. The decrease in flux is opposed by the current induced in the loop by producing a magnetic field in the same direction as the magnetic field of the wire. Again from right hand rule, for this inward magnetic field, the direction of the induced current in the loop is clockwise.
 
 >#### ACTIVITY
 >
@@ -428,28 +423,28 @@ Fleming's right hand rule is also known as generator rule.
 >
 >Take a narrow copper pipe and a strongly magnetized button magnet as shown in figure. Keep the copper pipe vertical and drop the magnet into the pipe. Watch the motion of the magnet and note that magnet has become slower than its free fall. The reason is that an electric current generated by a moving magnet will always oppose the original motion of the magnet that produced the current.
 
->#### EXAMPLE 4.7
->
->The magnetic flux passes perpendicular to the plane of the circuit and is directed into the paper. If the magnetic flux varies with respect to time as per the following relation: $\Phi_{B} = (2t^{3} + 3t^{2} + 8t + 5)\ \mathrm{mWb}$, what is the magnitude of the induced emf in the loop when $t = 3$ s? Find out the direction of current through the circuit.
->
->![](img4ch4.png)
->
->#### Solution
->
->$$
->\Phi_{B} = \left(2t^{3} + 3t^{2} + 8t + 5\right)\ \mathrm{mWb};\ N = 1;\ t = 3\ \mathrm{s}
->$$
->
->$$
->\epsilon = \frac{d(N\Phi_B)}{dt} = \frac{d}{dt}\left(2t^3 + 3t^2 + 8t + 5\right)\times 10^{-3} = \left(6t^2 + 6t + 8\right)\times 10^{-3}\ \mathrm{V}
->$$
->
->At $t = 3$ s,
->$$
->\epsilon = \left[\left(6\times 9\right) + \left(6\times 3\right) + 8\right]\times 10^{-3} = 80\times 10^{-3}\ \mathrm{V} = 80\ \mathrm{mV}
->$$
->
->(ii) As time passes, the magnetic flux linked with the loop increases. According to Lenz's law, the direction of the induced current should be in a way so as to oppose the flux increase. So, the induced current flows in such a way to produce a magnetic field opposite to the given field. This magnetic field is perpendicularly outwards. Therefore, the induced current flows in anticlockwise direction.
+#### EXAMPLE 4.7
+
+The magnetic flux passes perpendicular to the plane of the circuit and is directed into the paper. If the magnetic flux varies with respect to time as per the following relation: $\Phi_{B} = (2t^{3} + 3t^{2} + 8t + 5)\ \mathrm{mWb}$, what is the magnitude of the induced emf in the loop when $t = 3$ s? Find out the direction of current through the circuit.
+
+![](img4ch4.png)
+
+#### Solution
+
+$$
+\Phi_{B} = \left(2t^{3} + 3t^{2} + 8t + 5\right)\ \mathrm{mWb};\ N = 1;\ t = 3\ \mathrm{s}
+$$
+
+$$
+\epsilon = \frac{d(N\Phi_B)}{dt} = \frac{d}{dt}\left(2t^3 + 3t^2 + 8t + 5\right)\times 10^{-3} = \left(6t^2 + 6t + 8\right)\times 10^{-3}\ \mathrm{V}
+$$
+
+At $t = 3$ s,
+$$
+\epsilon = \left[\left(6\times 9\right) + \left(6\times 3\right) + 8\right]\times 10^{-3} = 80\times 10^{-3}\ \mathrm{V} = 80\ \mathrm{mV}
+$$
+
+(ii) As time passes, the magnetic flux linked with the loop increases. According to Lenz's law, the direction of the induced current should be in a way so as to oppose the flux increase. So, the induced current flows in such a way to produce a magnetic field opposite to the given field. This magnetic field is perpendicularly outwards. Therefore, the induced current flows in anticlockwise direction.
 
 ### 4.1.6 Motional emf from Lorentz force
 
@@ -473,8 +468,7 @@ $$
 \left|\bar{F}_B\right| = \left|\bar{F}_E\right|
 $$
 
-![](img4.9.png)
-<center>Figure 4.9 Motional emf from Lorentz force</center>
+![Figure 4.9 Motional emf from Lorentz force](img4.9.png)
 
 $$
 \left| -e(\vec{v}\times \bar{B})\right| = \left| -e\bar{E}\right|
@@ -502,47 +496,47 @@ $$
 
 As this emf is produced due to the movement of the rod, it is often called as motional emf. If the ends A and B are connected by an external circuit of total resistance $R$, then current $i = \frac{\epsilon}{R} = \frac{Blv}{R}$ flows in it. The direction of the current is found from right-hand thumb rule.
 
->## EXAMPLE 4.8
->
->A conducting rod of length $0.5\mathrm{m}$ falls freely from the top of a building of height $7.2\mathrm{m}$ at a place in Chennai where the horizontal component of Earth's magnetic field is $4.04\times 10^{-5}\mathrm{T}$. If the length of the rod is perpendicular to Earth's horizontal magnetic field, find the emf induced across the conductor when the rod is about to touch the ground. (Assume that the rod falls down with constant acceleration of $10\mathrm{m}\mathrm{s}^{-2}$)
->
->### Solution
->
->$$
->l = 0.5\ \mathrm{m};\ h = 7.2\ \mathrm{m};\ u = 0\ \mathrm{m}\mathrm{s}^{-1};\ g = 10\ \mathrm{m}\mathrm{s}^{-2};\ B_{H} = 4.04\times 10^{-5}\ \mathrm{T}
->$$
->
->The final velocity of the rod is
->
->$$
->v^{2} = u^{2} + 2gh = 0 + (2\times 10\times 7.2) = 144 \quad \Rightarrow \quad v = 12\ \mathrm{ms}^{-1}
->$$
->
->The magnitude of the induced emf when the rod is about to touch the ground is
->
->$$
->\epsilon = B_{H}lv = 4.04\times 10^{-5}\times 0.5\times 12 = 242.4\ \mu\mathrm{V}
->$$
+## EXAMPLE 4.8
 
->## EXAMPLE 4.9
->
->A copper rod of length $l$ rotates about one of its ends with an angular velocity $\omega$ in a magnetic field $B$ as shown in the figure. The plane of rotation is perpendicular to the field. Find the emf induced between the two ends of the rod.
->
->![](img4ch6.png)
->
->### Solution
->
->Consider a small element of length $dx$ at a distance $x$ from the centre of the circle described by the rod. As this element moves perpendicular to the field with a linear velocity $v = \omega x$, the emf developed in the element $dx$ is
->
->$$
->d\epsilon = B v dx = B (x\omega) dx
->$$
->
->This rod is made up of many such elements, moving perpendicular to the field. The emf developed across two ends is
->
->$$
->\epsilon = \int d\epsilon = \int_{0}^{l} B\omega x dx = B\omega \int_{0}^{l} x dx = B\omega \left[ \frac{x^2}{2} \right]_{0}^{l} = \frac{1}{2} B\omega l^{2}
->$$
+A conducting rod of length $0.5\mathrm{m}$ falls freely from the top of a building of height $7.2\mathrm{m}$ at a place in Chennai where the horizontal component of Earth's magnetic field is $4.04\times 10^{-5}\mathrm{T}$. If the length of the rod is perpendicular to Earth's horizontal magnetic field, find the emf induced across the conductor when the rod is about to touch the ground. (Assume that the rod falls down with constant acceleration of $10\mathrm{m}\mathrm{s}^{-2}$)
+
+### Solution
+
+$$
+l = 0.5\ \mathrm{m};\ h = 7.2\ \mathrm{m};\ u = 0\ \mathrm{m}\mathrm{s}^{-1};\ g = 10\ \mathrm{m}\mathrm{s}^{-2};\ B_{H} = 4.04\times 10^{-5}\ \mathrm{T}
+$$
+
+The final velocity of the rod is
+
+$$
+v^{2} = u^{2} + 2gh = 0 + (2\times 10\times 7.2) = 144 \quad \Rightarrow \quad v = 12\ \mathrm{ms}^{-1}
+$$
+
+The magnitude of the induced emf when the rod is about to touch the ground is
+
+$$
+\epsilon = B_{H}lv = 4.04\times 10^{-5}\times 0.5\times 12 = 242.4\ \mu\mathrm{V}
+$$
+
+## EXAMPLE 4.9
+
+A copper rod of length $l$ rotates about one of its ends with an angular velocity $\omega$ in a magnetic field $B$ as shown in the figure. The plane of rotation is perpendicular to the field. Find the emf induced between the two ends of the rod.
+
+![](img4ch6.png)
+
+### Solution
+
+Consider a small element of length $dx$ at a distance $x$ from the centre of the circle described by the rod. As this element moves perpendicular to the field with a linear velocity $v = \omega x$, the emf developed in the element $dx$ is
+
+$$
+d\epsilon = B v dx = B (x\omega) dx
+$$
+
+This rod is made up of many such elements, moving perpendicular to the field. The emf developed across two ends is
+
+$$
+\epsilon = \int d\epsilon = \int_{0}^{l} B\omega x dx = B\omega \int_{0}^{l} x dx = B\omega \left[ \frac{x^2}{2} \right]_{0}^{l} = \frac{1}{2} B\omega l^{2}
+$$
 
 ## 4.2 EDDY CURRENTS
 
@@ -597,8 +591,11 @@ The design of transformer core and electric motor armature is crucial in order t
 Though the production of eddy current is undesirable in some cases, it is useful in some other cases. A few of them are
 
 i. Induction stove
+
 ii. Eddy current brake
+
 iii. Eddy current testing
+
 iv. Electromagnetic damping
 
 #### i. Induction stove
@@ -632,8 +629,6 @@ The armature of the galvanometer coil is wound on a soft iron cylinder. Once the
 ![Figure 4.16 Electromagnetic damping](img4.16.png)
 
 ## 4.3 SELF-INDUCTION
-
-### 4.3.1 Introduction
 
 Inductor is a device used to store energy in a magnetic field when an electric current flows through it. The typical examples are coils, solenoids and toroids shown in Figure 4.17.
 
@@ -693,19 +688,7 @@ We have learnt about inertia in XI standard. In translational motion, mass is a 
 
 ![Figure 4.19 Induced emf ε opposes the changing current i](img4.19.png)
 
-The inductance plays the same role in a
-circuit as mass and moment of inertia play
-in mechanical motion. When a circuit is
-switched on, the increasing current induces
-an emf which opposes the growth of current
-in a circuit (Figure 4.19(a)). Likewise, when
-circuit is broken, the decreasing current
-induces an emf in the reverse direction.
-This emf now opposes the decay of current
-(Figure 4.19(b)).
-Thus, inductance of the coil opposes any
-change in current and tries to maintain the
-original state.
+The inductance plays the same role in a circuit as mass and moment of inertia play in mechanical motion. When a circuit is switched on, the increasing current induces an emf which opposes the growth of current in a circuit (Figure 4.19(a)). Likewise, when circuit is broken, the decreasing current induces an emf in the reverse direction. This emf now opposes the decay of current (Figure 4.19(b)). Thus, inductance of the coil opposes any change in current and tries to maintain the original state.
 
 ### 4.3.2 Self-inductance of a long solenoid
 
@@ -749,11 +732,20 @@ $$ \epsilon = -L \frac{di}{dt} $$
 Let $dW$ be work done in moving a charge $dq$ in a time $dt$ against the opposition, then
 
 $$ dW = -\epsilon dq $$
+
 $$ = -\epsilon i dt \quad (\because dq = i dt) $$
 
 Substituting for $\epsilon$ from equation (4.9),
 
+$$= - \left( -L \frac{di}{dt} \right) i \, dt$$
+
+$$dW = L i \, di$$
+
 Total work done in establishing the current $i$ is
+
+$$W = \int dW = \int_0^i L i \, di = L \left[ \frac{i^2}{2} \right]_0^i$$
+
+$$W = \frac{1}{2} L i^2$$
 
 This work done is stored as magnetic potential energy.
 
@@ -766,38 +758,38 @@ $$ u_B = \frac{L i^2}{2 A l} = \frac{(\mu_0 n^2 A l) i^2}{2 A l} \quad (\because
 $$ = \frac{\mu_0 n^2 i^2}{2} $$
 $$ u_B = \frac{B^2}{2 \mu_0} \quad (\because B = \mu_0 n i) $$
 
->#### EXAMPLE 4.10
->
->A solenoid of 500 turns is wound on an iron core of relative permeability 800. The length and radius of the solenoid are 40 cm and $3 \text{ cm}$ respectively. Calculate the average emf induced in the solenoid if the current in it changes from 0 to 3 A in 0.4 second.
->
->#### Solution
->
->$$ N = 500 \text{ turns}; \quad \mu_r = 800; $$
->$$ l = 40 \text{ cm} = 0.4 \text{ m}; r = 3 \text{ cm} = 0.03 \text{ m}; $$
->$$ di = 3 - 0 = 3 \text{ A}; dt = 0.4 \text{ s} $$
->
->Self inductance,
->
->$$ L = \mu n^2 A l \quad (\because \mu = \mu_r \mu_0; A = \pi r^2; n = \frac{N}{l}) $$
->$$ = \frac{\mu_r \mu_0 N^2 \pi r^2}{l} $$
->$$ = \frac{4 \times 3.14 \times 10^{-7} \times 800 \times 500^2 \times 3.14 \times (3 \times 10^{-2})^2}{0.4} $$
->$$ L = 1.77 \text{ H} $$
->
->Induced emf $\epsilon = -L \frac{di}{dt}$
->$$ = - \frac{1.77 \times 3}{0.4} $$
->$$ \epsilon = -13.275 \text{ V} $$
+#### EXAMPLE 4.10
 
->#### EXAMPLE 4.11
->
->The self-inductance of an air-core solenoid is $4.8 \text{ mH}$. If its core is replaced by iron core, then its self-inductance becomes $1.8 \text{ H}$. Find out the relative permeability of iron.
->
->#### Solution
->
->$$ L_{\text{air}} = 4.8 \times 10^{-3} \text{ H} $$
->$$ L_{\text{iron}} = 1.8 \text{ H} $$
->$$ L_{\text{air}} = \mu_0 n^2 A l = 4.8 \times 10^{-3} \text{ H} $$
->$$ L_{\text{iron}} = \mu n^2 A l = \mu_r \mu_0 n^2 A l = 1.8 \text{ H} $$
->$$ \therefore \mu_r = \frac{L_{\text{iron}}}{L_{\text{air}}} = \frac{1.8}{4.8 \times 10^{-3}} = 375 $$
+A solenoid of 500 turns is wound on an iron core of relative permeability 800. The length and radius of the solenoid are 40 cm and $3 \text{ cm}$ respectively. Calculate the average emf induced in the solenoid if the current in it changes from 0 to 3 A in 0.4 second.
+
+#### Solution
+
+$$ N = 500 \text{ turns}; \quad \mu_r = 800; $$
+$$ l = 40 \text{ cm} = 0.4 \text{ m}; r = 3 \text{ cm} = 0.03 \text{ m}; $$
+$$ di = 3 - 0 = 3 \text{ A}; dt = 0.4 \text{ s} $$
+
+Self inductance,
+
+$$ L = \mu n^2 A l \quad (\because \mu = \mu_r \mu_0; A = \pi r^2; n = \frac{N}{l}) $$
+$$ = \frac{\mu_r \mu_0 N^2 \pi r^2}{l} $$
+$$ = \frac{4 \times 3.14 \times 10^{-7} \times 800 \times 500^2 \times 3.14 \times (3 \times 10^{-2})^2}{0.4} $$
+$$ L = 1.77 \text{ H} $$
+
+Induced emf $\epsilon = -L \frac{di}{dt}$
+$$ = - \frac{1.77 \times 3}{0.4} $$
+$$ \epsilon = -13.275 \text{ V} $$
+
+#### EXAMPLE 4.11
+
+The self-inductance of an air-core solenoid is $4.8 \text{ mH}$. If its core is replaced by iron core, then its self-inductance becomes $1.8 \text{ H}$. Find out the relative permeability of iron.
+
+#### Solution
+
+$$ L_{\text{air}} = 4.8 \times 10^{-3} \text{ H} $$
+$$ L_{\text{iron}} = 1.8 \text{ H} $$
+$$ L_{\text{air}} = \mu_0 n^2 A l = 4.8 \times 10^{-3} \text{ H} $$
+$$ L_{\text{iron}} = \mu n^2 A l = \mu_r \mu_0 n^2 A l = 1.8 \text{ H} $$
+$$ \therefore \mu_r = \frac{L_{\text{iron}}}{L_{\text{air}}} = \frac{1.8}{4.8 \times 10^{-3}} = 375 $$
 
 ### 4.3.3 Mutual induction
 
@@ -904,68 +896,66 @@ $$ M = \mu n_1 n_2 A_2 l \quad (\text{or}) $$
 $$ M = \mu_r \mu_0 n_1 n_2 A_2 l $$
 
 
-> #### EXAMPLE 4.12
->
->The current flowing in the first coil changes from 2 A to 10 A in 0.4 s. Find the mutual inductance between two coils if an emf of $60 \text{ mV}$ is induced in the second coil. Also determine the magnitude of induced emf in the second coil if the current in the first coil is changed from 4 A to 16 A in 0.03 s. Consider only the magnitude of induced emf.
->
->#### Solution
->
->Case (i):
->$$ di_1 = 10 - 2 = 8 \text{ A}; dt = 0.4 \text{ s}; $$
->$$ \epsilon_2 = 60 \times 10^{-3} \text{ V} $$
->
->Case (ii):
-$$ di_1 = 16 - 4 = 12 \text{ A}; dt = 0.03 \text{ s} $$
->
->(i) Mutual inductance between the coils.
->$$ M = \frac{\epsilon_2}{di_1 / dt} = \frac{60 \times 10^{-3} \times 0.4}{8} $$
->$$ M = 3 \times 10^{-3} \text{ H} $$
->
->(ii) Induced emf in the second coil due to the rate of change of current in the first coil is
->$$ \epsilon_2 = M \frac{di_1}{dt} = \frac{3 \times 10^{-3} \times 12}{0.03} $$
->$$ \epsilon_2 = 1.2 \text{ V} $$
+ #### EXAMPLE 4.12
 
->#### EXAMPLE 4.13
->
->Consider two coplanar, co-axial circular coils $A$ and $B$ as shown in figure. The radius of coil $A$ is $20 \text{ cm}$ while that of coil $B$ is 2 cm. The number of turns in coils $A$ and $B$ are 200 and 1000 respectively. Calculate the mutual inductance between the coils. If the current in coil $A$ changes from 2 A to 6 A in $0.04 \text{ s}$, determine the induced emf in coil $B$ and the rate of change of flux through the coil $B$ at that instant.
->
->![](img4ch7.png)
->
->#### Solution
->
->$$ N_A = 200 \text{ turns}; N_B = 1000 \text{ turns}; $$
->$$ r_A = 20 \times 10^{-2} \text{ m}; r_B = 2 \times 10^{-2} \text{ m}; $$
->$$ dt = 0.04 \text{ s}; di_A = 6 - 2 = 4 \text{ A} $$
->
->Let $i_A$ be the current flowing in coil $A$, then the magnetic field $B_A$ at the centre of the circular coil $A$ is
->
->$$ B_A = \frac{\mu_0 N_A i_A}{2 r_A} = \frac{4 \pi \times 10^{-7} N_A i_A}{2 r_A} $$
->$$ = \frac{10^{-7} \times 2 \times 3.14 \times 200}{20 \times 10^{-2}} \times i_A $$
->$$ = 6.28 \times 10^{-4} i_A \text{ Wb m}^{-2} $$
->
->The magnetic flux linkage with coil $B$ is
->
->$$ N_B \Phi_B = N_B B_A A_B $$
->$$ = 1000 \times 6.28 \times 10^{-4} \times i_A \times 3.14 \times (2 \times 10^{-2})^2 $$
->$$ = 7.89 \times 10^{-4} i_A \text{ Wb turns} $$
->
->The mutual inductance between the coils
->
->$$ M = \frac{N_B \Phi_B}{i_A} = 7.89 \times 10^{-4} \text{ H} $$
->
->Induced emf in coil $B$ is
->
->$$ \epsilon_B = -M \frac{di_A}{dt} $$
->$$ \epsilon_B = \frac{7.89 \times 10^{-4} \times (6 - 2)}{0.04} \text{ (magnitude only)} $$
->$$ \epsilon_B = 78.9 \text{ mV} $$
->
->The rate of change of magnetic flux of coil $B$ is
->
->$$ \frac{d(N_B \Phi_B)}{dt} = \epsilon_B = 78.9 \text{ mWb s}^{-1} $$
+The current flowing in the first coil changes from 2 A to 10 A in 0.4 s. Find the mutual inductance between two coils if an emf of $60 \text{ mV}$ is induced in the second coil. Also determine the magnitude of induced emf in the second coil if the current in the first coil is changed from 4 A to 16 A in 0.03 s. Consider only the magnitude of induced emf.
+
+#### Solution
+
+Case (i):
+$$ di_1 = 10 - 2 = 8 \text{ A}; dt = 0.4 \text{ s}; $$
+$$ \epsilon_2 = 60 \times 10^{-3} \text{ V} $$
+
+Case (ii):
+$$ di_1 = 16 - 4 = 12 \text{ A}; dt = 0.03 \text{ s} $$
+
+(i) Mutual inductance between the coils.
+$$ M = \frac{\epsilon_2}{di_1 / dt} = \frac{60 \times 10^{-3} \times 0.4}{8} $$
+$$ M = 3 \times 10^{-3} \text{ H} $$
+
+(ii) Induced emf in the second coil due to the rate of change of current in the first coil is
+$$ \epsilon_2 = M \frac{di_1}{dt} = \frac{3 \times 10^{-3} \times 12}{0.03} $$
+$$ \epsilon_2 = 1.2 \text{ V} $$
+
+#### EXAMPLE 4.13
+
+Consider two coplanar, co-axial circular coils $A$ and $B$ as shown in figure. The radius of coil $A$ is $20 \text{ cm}$ while that of coil $B$ is 2 cm. The number of turns in coils $A$ and $B$ are 200 and 1000 respectively. Calculate the mutual inductance between the coils. If the current in coil $A$ changes from 2 A to 6 A in $0.04 \text{ s}$, determine the induced emf in coil $B$ and the rate of change of flux through the coil $B$ at that instant.
+
+![](img4ch7.png)
+
+#### Solution
+
+$$ N_A = 200 \text{ turns}; N_B = 1000 \text{ turns}; $$
+$$ r_A = 20 \times 10^{-2} \text{ m}; r_B = 2 \times 10^{-2} \text{ m}; $$
+$$ dt = 0.04 \text{ s}; di_A = 6 - 2 = 4 \text{ A} $$
+
+Let $i_A$ be the current flowing in coil $A$, then the magnetic field $B_A$ at the centre of the circular coil $A$ is
+
+$$ B_A = \frac{\mu_0 N_A i_A}{2 r_A} = \frac{4 \pi \times 10^{-7} N_A i_A}{2 r_A} $$
+$$ = \frac{10^{-7} \times 2 \times 3.14 \times 200}{20 \times 10^{-2}} \times i_A $$
+$$ = 6.28 \times 10^{-4} i_A \text{ Wb m}^{-2} $$
+
+The magnetic flux linkage with coil $B$ is
+
+$$ N_B \Phi_B = N_B B_A A_B $$
+$$ = 1000 \times 6.28 \times 10^{-4} \times i_A \times 3.14 \times (2 \times 10^{-2})^2 $$
+$$ = 7.89 \times 10^{-4} i_A \text{ Wb turns} $$
+
+The mutual inductance between the coils
+
+$$ M = \frac{N_B \Phi_B}{i_A} = 7.89 \times 10^{-4} \text{ H} $$
+
+Induced emf in coil $B$ is
+
+$$ \epsilon_B = -M \frac{di_A}{dt} $$
+$$ \epsilon_B = \frac{7.89 \times 10^{-4} \times (6 - 2)}{0.04} \text{ (magnitude only)} $$
+$$ \epsilon_B = 78.9 \text{ mV} $$
+
+The rate of change of magnetic flux of coil $B$ is
+
+$$ \frac{d(N_B \Phi_B)}{dt} = \epsilon_B = 78.9 \text{ mWb s}^{-1} $$
 
 ## 4.4 METHODS OF PRODUCING INDUCED EMF
-
-### 4.4.1 Introduction
 
 Electromotive force is the characteristic of any energy source capable of driving electric charge around a circuit. We have already learnt that it is not actually a force. It is the work done in moving unit electric charge around the circuit. It is measured in $\text{J C}^{-1}$ or volt.
 
@@ -978,7 +968,9 @@ $$ \epsilon = \frac{d\Phi_B}{dt} \quad \text{or} \quad \epsilon = \frac{d}{dt} (
 From the above equation, it is clear that induced emf can be produced by changing magnetic flux in any of the following ways.
 
 (i) By changing the magnetic field $B$
+
 (ii) By changing the area $A$ of the coil and
+
 (iii) By changing the relative orientation $\theta$ of the coil with magnetic field
 
 ### 4.4.2 Production of induced emf by changing the magnetic field
@@ -1006,7 +998,10 @@ As a result of change in flux, an emf is generated in the loop. The magnitude of
 $$ \epsilon = \frac{d\Phi_B}{dt} $$
 $$ \epsilon = B l v \quad (4.18) $$
 
-This emf is known as motional emf since it is produced due to the movement of the conductor in the magnetic field. The direction of induced current is found to be clockwise from Fleming's right hand rule.
+This emf is known as motional emf since it is produced due to the movement of the conductor in the magnetic field. The direction of induced current is found to be clockwise from Fleming's right hand rule. If $R$ is the resistance of the loop, then the induced current is given by
+$$i = \frac{\varepsilon}{R}$$
+
+$$i = \frac{Blv}{R} \tag{4.19}$$
 
 #### Energy conservation
 
@@ -1035,29 +1030,29 @@ $$ P = \frac{B^2 l^2 \nu^2}{R} \quad (4.21) $$
 
 This equation is exactly same as the equation (4.20). Thus the mechanical energy needed to move the rod is converted into electrical energy which then appears as thermal energy in the loop. This energy conversion is consistent with the law of conservation of energy.
 
->#### EXAMPLE 4.14
->
->A circular metal of area $0.03 \text{ m}^2$ rotates in a uniform magnetic field of $0.4 \text{ T}$. The axis of rotation passes through the centre and perpendicular to its plane and is also parallel to the field. If the disc completes 20 revolutions in one second and the resistance of the disc is $4 \Omega$, calculate the induced emf between the axis and the rim and induced current flowing in the disc.
->
->#### Solution
->
->$$ A = 0.03 \text{ m}^2; B = 0.4 \text{ T}; f = 20 \text{ rps}; $$
->$$ R = 4 \Omega $$
->
->Area swept out by the disc in unit time
->
->$$ \frac{dA}{dt} = 0.03 \times 20 $$
->$$ = 0.6 \text{ m}^2 \text{ s}^{-1} $$
->
->The magnitude of the induced emf,
->
->$$ \epsilon = \frac{d\Phi_B}{dt} = \frac{d(BA)}{dt} = B \frac{dA}{dt} $$
->$$ \epsilon = \frac{0.4 \times 0.6}{1} = 0.24 \text{ V} $$
->
->Induced current, $i = \frac{\epsilon}{R} = \frac{0.24}{4} = 0.06 \text{ A}$
->
+#### EXAMPLE 4.14
 
->Note : Emf can be induced by changing relative orientation between the coil and the magnetic field. This can be achieved either by rotating a coil in a magnetic field or by rotating a magnetic field within a stationary coil. Here rotating coil type is considered.
+A circular metal of area $0.03 \text{ m}^2$ rotates in a uniform magnetic field of $0.4 \text{ T}$. The axis of rotation passes through the centre and perpendicular to its plane and is also parallel to the field. If the disc completes 20 revolutions in one second and the resistance of the disc is $4 \Omega$, calculate the induced emf between the axis and the rim and induced current flowing in the disc.
+
+#### Solution
+
+$$ A = 0.03 \text{ m}^2; B = 0.4 \text{ T}; f = 20 \text{ rps}; $$
+$$ R = 4 \Omega $$
+
+Area swept out by the disc in unit time
+
+$$ \frac{dA}{dt} = 0.03 \times 20 $$
+$$ = 0.6 \text{ m}^2 \text{ s}^{-1} $$
+
+The magnitude of the induced emf,
+
+$$ \epsilon = \frac{d\Phi_B}{dt} = \frac{d(BA)}{dt} = B \frac{dA}{dt} $$
+$$ \epsilon = \frac{0.4 \times 0.6}{1} = 0.24 \text{ V} $$
+
+Induced current, $i = \frac{\epsilon}{R} = \frac{0.24}{4} = 0.06 \text{ A}$
+
+
+>**Note :** Emf can be induced by changing relative orientation between the coil and the magnetic field. This can be achieved either by rotating a coil in a magnetic field or by rotating a magnetic field within a stationary coil. Here rotating coil type is considered.
 
 ### 4.4.4 Production of induced emf by changing relative orientation of the coil with the magnetic field
 
@@ -1095,35 +1090,33 @@ $$ i = I_m \sin \omega t \quad (4.23) $$
 
 where $I_m$ is the maximum value of induced current.
 
->#### EXAMPLE 4.15
->
->A rectangular coil of area $70 \text{ cm}^2$ having 600 turns rotates about an axis perpendicular to a magnetic field of $0.4 \text{ Wb m}^{-2}$. If the coil completes 500 revolutions in a minute, calculate the instantaneous emf when the plane of the coil is (i) perpendicular to the field (ii) parallel to the field and (iii) inclined at $60^\circ$ with the field.
->
->#### Solution
->
->$$ A = 70 \times 10^{-4} \text{ m}^2; N = 600 \text{ turns} $$
->$$ B = 0.4 \text{ Wb m}^{-2}; f = 500 \text{ rpm} $$
->
->The instantaneous emf is
->
->$$ \epsilon = \epsilon_m \sin \omega t $$
->$$ \epsilon_m = N \Phi_m \omega = N (B A) (2 \pi f) $$
->$$ \epsilon = N B A \times 2 \pi f \times \sin \omega t $$
->
->(i) When $\omega t = 0^\circ$
->$$ \epsilon = \epsilon_m \sin 0 = 0 $$
->
->(ii) When $\omega t = 90^\circ$
->$$ \epsilon = \epsilon_m \sin 90^\circ = N B A \times 2 \pi f \times 1 $$
->$$ = 600 \times 0.4 \times 70 \times 10^{-4} \times 2 \times \frac{22}{7} \times \left(\frac{500}{60}\right) $$
->$$ = 88 \text{ V} $$
->
->(iii) When $\omega t = 90^\circ - 60^\circ = 30^\circ$
->$$ \epsilon = \epsilon_m \sin 30^\circ = 88 \times \frac{1}{2} = 44 \text{ V} $$
+#### EXAMPLE 4.15
+
+A rectangular coil of area $70 \text{ cm}^2$ having 600 turns rotates about an axis perpendicular to a magnetic field of $0.4 \text{ Wb m}^{-2}$. If the coil completes 500 revolutions in a minute, calculate the instantaneous emf when the plane of the coil is (i) perpendicular to the field (ii) parallel to the field and (iii) inclined at $60^\circ$ with the field.
+
+#### Solution
+
+$$ A = 70 \times 10^{-4} \text{ m}^2; N = 600 \text{ turns} $$
+$$ B = 0.4 \text{ Wb m}^{-2}; f = 500 \text{ rpm} $$
+
+The instantaneous emf is
+
+$$ \epsilon = \epsilon_m \sin \omega t $$
+$$ \epsilon_m = N \Phi_m \omega = N (B A) (2 \pi f) $$
+$$ \epsilon = N B A \times 2 \pi f \times \sin \omega t $$
+
+(i) When $\omega t = 0^\circ$
+$$ \epsilon = \epsilon_m \sin 0 = 0 $$
+
+(ii) When $\omega t = 90^\circ$
+$$ \epsilon = \epsilon_m \sin 90^\circ = N B A \times 2 \pi f \times 1 $$
+$$ = 600 \times 0.4 \times 70 \times 10^{-4} \times 2 \times \frac{22}{7} \times \left(\frac{500}{60}\right) $$
+$$ = 88 \text{ V} $$
+
+(iii) When $\omega t = 90^\circ - 60^\circ = 30^\circ$
+$$ \epsilon = \epsilon_m \sin 30^\circ = 88 \times \frac{1}{2} = 44 \text{ V} $$
 
 ## 4.5 AC GENERATOR
-
-### 4.5.1 Introduction
 
 AC generator or alternator is an energy conversion device. It converts mechanical energy used to rotate the coil or field magnet into electrical energy. Alternator produces a large scale electrical power for use in homes and industries. AC generator and its components are shown in Figure 4.26.
 
@@ -1133,7 +1126,7 @@ AC generator or alternator is an energy conversion device. It converts mechanica
 
 Alternators work on the principle of electromagnetic induction. The relative motion between a conductor and a magnetic field changes the magnetic flux linked with the conductor which in turn, induces an emf. The magnitude of the induced emf is given by Faraday's law of electromagnetic induction and its direction by Fleming's right hand rule.
 
->Note  
+>**Note :**  
 >Alternating emf is generated by rotating a coil in a magnetic field or by rotating a magnetic field within a stationary coil.  
 The first method is used for small AC generators while the second method is employed for large AC generators. The rotating-field method is the one which is mostly used in power stations.
 
@@ -1177,52 +1170,35 @@ The loop PQRS is stationary and is also perpendicular to the plane of the paper.
 
 ![Figure 4.28 The loop PQRS and field magnet in its initial position](img4.28.png)
 
-Assume that initial position of the field
-magnet is horizontal. At that instant, the
-direction of magnetic field is perpendicular
-to the plane of the loop PQRS. The induced
-emf is zero (Refer case (iii) of section 4.4).
-This is represented by origin O in the graph
-drawn between induced emf and time angle
-(Figure 4.29).
+Assume that initial position of the field magnet is horizontal. At that instant, the direction of magnetic field is perpendicular to the plane of the loop PQRS. The induced emf is zero (Refer case (iii) of section 4.4). This is represented by origin O in the graph drawn between induced emf and time angle (Figure 4.29).
 
-When field magnet rotates through
-90°, magnetic field becomes parallel to
-PQRS. The induced emfs across PQ and RS
-would become maximum. Since they are
-connected in series, emfs are added up and
-the direction of total induced emf is given
-by Fleming’s right hand rule.
-Care has to be taken while applying this
-rule; the thumb indicates the direction of the
-motion of the conductor with respect to field.
-For clockwise rotating poles, the conductor
-appears to be rotating anticlockwise. Hence,
-thumb should point to the left. The directionof the induced emf is at right angles to the
-plane of the paper. For PQ, it is inwards and
-for RS it is outwards. Therefore, the current
-flows along PQRS. The point A in the graph
-represents this maximum emf.
-For the rotation of 180° from the initial
-position, the field is again perpendicular to
-PQRS and the induced emf becomes zero.
-This is represented by point B.
-The field magnet becomes again parallel
-to PQRS for 270° rotation of field magnet.
-The induced emf is maximum but the
-direction is reversed. Thus the current flows
-along SRQP. This is represented by point C.
-On completion of 360°, the induced
-emf becomes zero and is represented by the
-point D. From the graph, it is clear that emf
-induced in PQRS is alternating in nature.
-Therefore, when field magnet completes
-one rotation, induced emf in PQRS finishes
-one cycle.
+When field magnet rotates through 90°, magnetic field becomes parallel to PQRS. The induced emfs across PQ and RS would become maximum. Since they are connected in series, emfs are added up and the direction of total induced emf is given by Fleming’s right hand rule. Care has to be taken while applying this rule; the thumb indicates the direction of the motion of the conductor with respect to field. For clockwise rotating poles, the conductor appears to be rotating anticlockwise. Hence, thumb should point to the left. The directionof the induced emf is at right angles to the plane of the paper. For PQ, it is inwards and for RS it is outwards. Therefore, the current flows along PQRS. The point A in the graph represents this maximum emf. For the rotation of 180° from the initial position, the field is again perpendicular to PQRS and the induced emf becomes zero. This is represented by point B. The field magnet becomes again parallel to PQRS for 270° rotation of field magnet. The induced emf is maximum but the direction is reversed. Thus the current flows along SRQP. This is represented by point C. On completion of 360°, the induced emf becomes zero and is represented by the point D. From the graph, it is clear that emf induced in PQRS is alternating in nature. Therefore, when field magnet completes one rotation, induced emf in PQRS finishes one cycle.
 
 ![Figure 4.29 Variation of induced emf with respect to time angle](img4.29.png)
 
-![](img4ch8.png)
+#### Construction of AC generator (Not for Examination)
+
+Alternator consists of two major parts, namely stator and rotor. (This box is given for better understanding of constructional details)
+
+**i) Stator**
+
+Stator has two components, namely stator core and armature winding.
+
+![Figure(a): Stator core with empty slots](fa.png)
+
+![Figure(b): Stator core with rectangular loop](fb.png)
+
+![Figure(c): Stator core with armature windings](fc.png)
+
+**ii) Rotor**
+
+Rotor conatins magnetic field windings, slip rings and brush mounted on the same shaft.
+
+![Figure(d): 6-pole rotor](fd.png)
+
+![Figure(e): 6-pole rotor with field windings, slip ring and brushes](fe.png)
+
+![Figure(f): Stator core and rotor](ff.png)
 
 #### 4.5.6 Poly-phase AC generator
 
@@ -1258,7 +1234,6 @@ Three-phase system has many advantages over single-phase system. Let us see a fe
 3) Three-phase transmission system is cheaper. A relatively thinner wire is sufficient for transmission of three-phase power.
 
 ## 4.6 TRANSFORMER
-# TRANSFORMER
 
 Transformer is a stationary device used to transform electrical power from one circuit to another without changing its frequency. The applied alternating voltage is either increased or decreased with corresponding decrease or increase of current in the circuit.
 
@@ -1401,83 +1376,98 @@ $$ = 0.008 \times 100\% = 0.8\% $$
 Thus it is clear that when an electric power is transmitted at higher voltage, the power loss is reduced to a large extent.
 
 
->### EXAMPLE 4.16
->
->An ideal transformer has 460 and 40,000 turns in the primary and secondary coils respectively. Find the voltage developed per turn of the secondary if the transformer is connected to a 230 V AC mains. The secondary is given to a load of resistance \( 10^4 \, \Omega \). Calculate the power delivered to the load.
->
->## Solution
->
->\[
->N_p = 460 \, \text{turns}; \, N_s = 40,000 \, \text{turns}
->\]
->
->\[
->V_p = 230 \, \text{V}; \, R_s = 10^4 \, \Omega
->\]
->
->(i) Secondary voltage,
->
->\[
->V_s = \frac{V_p N_s}{N_p} = \frac{230 \times 40,000}{460} = 20,000 \, \text{V}
->\]
->
->Secondary voltage per turn,
->
->\[
->\frac{V_s}{N_s} = \frac{20,000}{40,000} = 0.5 \, \text{V}
->\]
->
->(ii) Power delivered
->
->\[
->= V_s I_s = \frac{V_s^2}{R_s} = \frac{20,000 \times 20,000}{10^4} = 40 \, \text{kW}
->\]
+### EXAMPLE 4.16
 
->#### EXAMPLE 4.17
->
->An inverter is common electrical device which we use in our homes. When there is no power in our house, inverter gives AC power to run a few electronic appliances like fan or light. An inverter has inbuilt step-up transformer which converts 12 V AC to 240 V AC. The primary coil has 100 turns and the inverter delivers 50 mA to the external circuit. Find the number of turns in the secondary and the primary current.
->
->## Solution
->
->\[
->V_p = 12 \, \text{V}; \, V_s = 240 \, \text{V}
->\]
->
->\[
->I_s = 50 \, \text{mA}; \, N_p = 100 \, \text{turns}
->\]
->
->\[
->\frac{V_s}{V_p} = \frac{N_s}{N_p} = \frac{I_p}{I_s} = K
->\]
->
->Transformation ratio,
->
->\[
->K = \frac{240}{12} = 20
->\]
->
->The number of turns in the secondary
->
->\[
->N_s = N_p \times K = 100 \times 20 = 2000
->\]
->
->Primary current,
->
->\[
->I_p = K \times I_s = 20 \times 50 \, \text{mA} = 1 \, \text{A}
->\]
+An ideal transformer has 460 and 40,000 turns in the primary and secondary coils respectively. Find the voltage developed per turn of the secondary if the transformer is connected to a 230 V AC mains. The secondary is given to a load of resistance \( 10^4 \, \Omega \). Calculate the power delivered to the load.
 
-![](img4ch9.png)
+## Solution
 
----
+\[
+N_p = 460 \, \text{turns}; \, N_s = 40,000 \, \text{turns}
+\]
+
+\[
+V_p = 230 \, \text{V}; \, R_s = 10^4 \, \Omega
+\]
+
+(i) Secondary voltage,
+
+\[
+V_s = \frac{V_p N_s}{N_p} = \frac{230 \times 40,000}{460} = 20,000 \, \text{V}
+\]
+
+Secondary voltage per turn,
+
+\[
+\frac{V_s}{N_s} = \frac{20,000}{40,000} = 0.5 \, \text{V}
+\]
+
+(ii) Power delivered
+
+\[
+= V_s I_s = \frac{V_s^2}{R_s} = \frac{20,000 \times 20,000}{10^4} = 40 \, \text{kW}
+\]
+
+#### EXAMPLE 4.17
+
+An inverter is common electrical device which we use in our homes. When there is no power in our house, inverter gives AC power to run a few electronic appliances like fan or light. An inverter has inbuilt step-up transformer which converts 12 V AC to 240 V AC. The primary coil has 100 turns and the inverter delivers 50 mA to the external circuit. Find the number of turns in the secondary and the primary current.
+
+## Solution
+
+\[
+V_p = 12 \, \text{V}; \, V_s = 240 \, \text{V}
+\]
+
+\[
+I_s = 50 \, \text{mA}; \, N_p = 100 \, \text{turns}
+\]
+
+\[
+\frac{V_s}{V_p} = \frac{N_s}{N_p} = \frac{I_p}{I_s} = K
+\]
+
+Transformation ratio,
+
+\[
+K = \frac{240}{12} = 20
+\]
+
+The number of turns in the secondary
+
+\[
+N_s = N_p \times K = 100 \times 20 = 2000
+\]
+
+Primary current,
+
+\[
+I_p = K \times I_s = 20 \times 50 \, \text{mA} = 1 \, \text{A}
+\]
+
+#### Power system at a glance (Not for Examination)
+
+The generating stations present in a region are interconnected to form a common electrical network and are operated in parallel. This is to ensure uninterrupted power supply to a large number of consumers in the case of failure of any power station or a sudden increase of load beyond the capacity of the generating station.
+
+The various elements such as generating stations, transmission lines, the substations and distributors etc are all tied together for continuous generation and consumption of electric energy. This is called power system. A part of power system consisting of the sub-stations and transmission lines is known as a grid.
+
+In a power system, the transfer of electric power produced to the consumer is carried out in two stages which are further sub-divided into two as given below.
+
+1) Transmission stage  
+   a) Primary transmission stage  
+   b) Secondary transmission stage  
+2) Distribution stage  
+   a) Primary distribution stage  
+   b) Secondary distribution stage  
+
+and then it is supplied to individual consumers. These two stages of power transmission is presented in a single-line diagram shown in figure. The central system usually generates power at $11$ kV which is stepped up to $132$ kV and is transmitted through transmission lines. This is known as primary or high-voltage transmission.  
+
+This high-voltage power reaches receiving station at the outskirts of the city where it is stepped down to $33$ kV and is transmitted as secondary or low-voltage transmission to sub-stations situated within the city limits.  
+
+In the primary distribution system, the voltage is reduced from $33$ kV to $3.3$ kV at sub-stations and is given to distribution sub-stations. The voltage is finally brought down to $440$ V or $230$ V at distribution sub-station from where secondary distribution is done to factories (440V) and homes (230V) via distribution networks.
+
+![](nfe.png)
 
 ## 4.7 ALTERNATING CURRENT
-
----
-
-### 4.7.1 Introduction
 
 In section 4.5, we have seen that when the orientation of the coil with the magnetic field is changed, an alternating emf is induced and hence an alternating current flows in the closed circuit. **An alternating voltage is the voltage which changes polarity at regular intervals of time and the direction of the resulting alternating current also changes accordingly.**
 
@@ -1491,16 +1481,9 @@ which flows in alternate directions in the
 circuit is called alternating current.
 
 
-![](img4.34.png)
-**Figure 4.34** Alternating voltage and the 
-corresponding alternating current
+![Alternating voltage and the corresponding alternating current](img4.34.png)
 
-is positive and lower terminal negative at an instant. Therefore, the current flows in clockwise direction. After a short time, the polarities of the source are reversed so that current now flows in anti-clockwise direction (Figure 4.34(b)). This current which flows in alternate directions in the circuit is called alternating current.
-
-
----
-
-### Sinusoidal alternating voltage
+##### Sinusoidal alternating voltage
 
 If the waveform of alternating voltage is a sine wave, then it is known as sinusoidal alternating voltage which is given by the relation.
 
@@ -1516,15 +1499,10 @@ i = I_m \sin \omega t \tag{4.30}
 
 where \( I_m \) is the maximum value (amplitude) of the alternating current. The direction of sinusoidal voltage or current is reversed after every half-cycle and its magnitude is also changing continuously as shown in Figure 4.35.
 
----
+![**Figure 4.35** (a) Sinusoidal alternating voltage (b) Sinusoidal alternating current](img4.35.png)
 
-![](img4.35.png)
-**Figure 4.35** (a) Sinusoidal alternating 
-voltage (b) Sinusoidal alternating current
-
-
-**Note** 
-Interesting, sine waves are very common in nature. The periodic motions like waves in water, swinging of pendulum are associated with sine waves. Thus sine wave seems to be nature's standard. Also refer unit 11 of XI physics text book.
+>**Note** 
+>Interesting, sine waves are very common in nature. The periodic motions like waves in water, swinging of pendulum are associated with sine waves. Thus sine wave seems to be nature's standard. Also refer unit 11 of XI physics text book.
 
 ### 4.7.2 Mean or Average value of AC
 
@@ -1561,8 +1539,7 @@ Area of positive half-cycle
 I_{av} = \frac{\text{(or negative half-cycle)}}{\text{ Bash of half-cycle}} \tag{4.31}
 \]
 
-![](img4.36.png)
-**Figure 4.36** Sine wave of an alternating current
+![**Figure 4.36** Sine wave of an alternating current](img4.36.png)
 
 Consider an elementary strip of thickness \( d\theta \) in the positive half-cycle of the current wave (Figure 4.41). Let \( i \) be the mid-ordinate of that strip.
 
@@ -1593,14 +1570,8 @@ Hence the average value of AC is \( 0.637 \) times the maximum value \( I_m \) o
 >**Note**
 >
 >For example, if we consider \( n \) currents in a half-cycle of AC, namely \( i_1, i_2, \dots, i_n \), then average value is given by
->
->\[
->I_{av} = \frac{\text{Sum of all currents over half-cycle}}{\text{Number of currents}}
->\]
->
->\[
->I_{av} = \frac{i_1 + i_2 + \dots + i_n}{n}
->\]
+>\[ I_{av} = \frac{\text{Sum of all currents over half-cycle}}{\text{Number of currents}} \]
+>\[ I_{av} = \frac{i_1 + i_2 + \dots + i_n}{n} \]
 
 
 ### 4.7.3 RMS value of AC
@@ -1691,61 +1662,61 @@ $$
 >**Do You Know**
 >For common household appliances, the voltage rating and current rating are generally specified in terms of their RMS value. The domestic AC supply is $230\mathrm{V}$ , $50\mathrm{Hz}$ . It is the RMS or effective value. Its peak value will be $V_{m} = \sqrt{2} V_{rms} = \sqrt{2} \times 230 = 325\mathrm{V}$ .
 
->#### EXAMPLE 4.18
->
->Write down the equation for a sinusoidal voltage of $50\mathrm{Hz}$ and its peak value is $20\mathrm{V}$ . Draw the corresponding voltage versus time graph.
->
->#### Solution
->
->$$
->f = 50\mathrm{Hz}; V_{m} = 20\mathrm{V}
->$$
->
->Instantaneous voltage, $\nu = V_{m}\sin \omega t$
->
->$$
->= V_{m}\sin 2\pi ft
->$$
->
->$$
->= 20\sin (2\pi \times 50)t = 20\sin (100 \times 3.14)t
->$$
->
->$$
->\nu = 20\sin 314t
->$$
->
->Time period, $T = \frac{1}{f} = \frac{1}{50} = 0.02\mathrm{s} = 20 \times 10^{-3}\mathrm{s} = 20\mathrm{ms}$
->
->The wave form is given below.
->
->![](img4ch10.png)
+#### EXAMPLE 4.18
 
->#### EXAMPLE 4.19
->
->The equation for an alternating current is given by $i = 77 \sin 314t$ . Find the peak current, frequency, time period and instantaneous value of current at $t = 2$ ms.
->
->#### Solution
->
->$i = 77 \sin 314t; t = 2 \mathrm{ms} = 2 \times 10^{-3} \mathrm{s}$
->
->The general equation of an alternating current is $i = I_{m} \sin \omega t$ . On comparison,
->
->(i) Peak current, $I_{m} = 77 \mathrm{A}$
->
->(ii) Frequency, $f = \frac{\omega}{2\pi} = \frac{314}{2 \times 3.14} = 50 \mathrm{Hz}$
->
->(iii) Time period, $T = \frac{1}{f} = \frac{1}{50} = 0.02 \mathrm{s}$
->
->(iv) At $t = 2 \mathrm{ms}$ ,
->
->Instantaneous current, $i = 77 \sin (314 \times 2 \times 10^{-3})$
->
->$= 77 \sin \left(314 \times 2 \times 10^{-3} \times \frac{180^{\circ}}{3.14}\right)$
->
->$= 77 \sin 36^{\circ} = 77 \times 0.5878$
->
->$= 45.26 \mathrm{A}$
+Write down the equation for a sinusoidal voltage of $50\mathrm{Hz}$ and its peak value is $20\mathrm{V}$ . Draw the corresponding voltage versus time graph.
+
+#### Solution
+
+$$
+f = 50\mathrm{Hz}; V_{m} = 20\mathrm{V}
+$$
+
+Instantaneous voltage, $\nu = V_{m}\sin \omega t$
+
+$$
+= V_{m}\sin 2\pi ft
+$$
+
+$$
+= 20\sin (2\pi \times 50)t = 20\sin (100 \times 3.14)t
+$$
+
+$$
+\nu = 20\sin 314t
+$$
+
+Time period, $T = \frac{1}{f} = \frac{1}{50} = 0.02\mathrm{s} = 20 \times 10^{-3}\mathrm{s} = 20\mathrm{ms}$
+
+The wave form is given below.
+
+![](img4ch10.png)
+
+#### EXAMPLE 4.19
+
+The equation for an alternating current is given by $i = 77 \sin 314t$ . Find the peak current, frequency, time period and instantaneous value of current at $t = 2$ ms.
+
+#### Solution
+
+$i = 77 \sin 314t; t = 2 \mathrm{ms} = 2 \times 10^{-3} \mathrm{s}$
+
+The general equation of an alternating current is $i = I_{m} \sin \omega t$ . On comparison,
+
+(i) Peak current, $I_{m} = 77 \mathrm{A}$
+
+(ii) Frequency, $f = \frac{\omega}{2\pi} = \frac{314}{2 \times 3.14} = 50 \mathrm{Hz}$
+
+(iii) Time period, $T = \frac{1}{f} = \frac{1}{50} = 0.02 \mathrm{s}$
+
+(iv) At $t = 2 \mathrm{ms}$ ,
+
+Instantaneous current, $i = 77 \sin (314 \times 2 \times 10^{-3})$
+
+$= 77 \sin \left(314 \times 2 \times 10^{-3} \times \frac{180^{\circ}}{3.14}\right)$
+
+$= 77 \sin 36^{\circ} = 77 \times 0.5878$
+
+$= 45.26 \mathrm{A}$
 
 #### Phasor and phasor diagram
 
@@ -1956,65 +1927,73 @@ Thus a capacitive circuit offers infinite resistance to the steady current. So t
 
 ![Figure 4.45 Phasor diagram and wave diagram for AC circuit with C](img4.45.png)
 
-![](image.png)
+>**Do You Know ?**
+>
+>What is ELI ?
+>![](dyn1.png)
+>ELI is a acronym which means that EMF (voltage) leads the current in an inductive circuit.
+>
+>What is ICE ?
+>![](dyn2.png)
+>ICE is a acronym which means that the current leads the EMF (voltage) in a capacitive circuit.
 
->#### EXAMPLE 4.20
->
->A $400\mathrm{mH}$ coil of negligible resistance is connected to an AC circuit in which an effective current of $6\mathrm{mA}$ is flowing. Find out the voltage across the coil if the frequency is $1000\mathrm{Hz}$.
->
->#### Solution
->
->$$
->L = 400 \times 10^{-3}\mathrm{H}; I_{\mathrm{eff}} = 6 \times 10^{-3}\mathrm{A}; f = 1000\mathrm{Hz}
->$$
->
->Inductive reactance, $X_{L} = L\omega = L \times 2\pi f$
->
->$$
->= 2 \times 3.14 \times 1000 \times 0.4 = 2512\Omega
->$$
->
->Voltage across $L$, $V_{\mathrm{eff}} = I_{\mathrm{eff}} X_{L} = 6 \times 10^{-3} \times 2512 = 15.07\mathrm{V}$
 
->#### EXAMPLE 4.21
->
->A capacitor of capacitance $\frac{10^2}{\pi} \mu\mathrm{F}$ is connected across a $220\mathrm{V}, 50\mathrm{Hz}$ A.C. mains. Calculate the capacitive reactance, RMS value of current and write down the equations of voltage and current.
->
->#### Solution
->
->$$
->C = \frac{10^2}{\pi} \times 10^{-6}\mathrm{F}, V_{RMS} = 220\mathrm{V}, f = 50\mathrm{Hz}
->$$
->
->Capacitive reactance,
->
->$$
->X_{C} = \frac{1}{\omega C} = \frac{1}{2\pi f C}
->$$
->
->$$
->= \frac{1}{2 \times \pi \times 50 \times \frac{10^{-4}}{\pi}} = 100\Omega
->$$
->
->(ii) RMS value of current,
->
->$$
->I_{RMS} = \frac{V_{RMS}}{X_{C}} = \frac{220}{100} = 2.2\mathrm{A}
->$$
->
->(iii) $V_{m} = 220 \times \sqrt{2} = 311\mathrm{V}$
->
->$I_{m} = 2.2 \times \sqrt{2} = 3.1\mathrm{A}$
->
->Therefore,
->
->$$
->\nu = 311\sin 314t
->$$
->
->$$
->i = 3.1\sin\left(314t + \frac{\pi}{2}\right)
->$$
+#### EXAMPLE 4.20
+
+A $400\mathrm{mH}$ coil of negligible resistance is connected to an AC circuit in which an effective current of $6\mathrm{mA}$ is flowing. Find out the voltage across the coil if the frequency is $1000\mathrm{Hz}$.
+
+#### Solution
+
+$$
+L = 400 \times 10^{-3}\mathrm{H}; I_{\mathrm{eff}} = 6 \times 10^{-3}\mathrm{A}; f = 1000\mathrm{Hz}
+$$
+
+Inductive reactance, $X_{L} = L\omega = L \times 2\pi f$
+
+$$
+= 2 \times 3.14 \times 1000 \times 0.4 = 2512\Omega
+$$
+
+Voltage across $L$, $V_{\mathrm{eff}} = I_{\mathrm{eff}} X_{L} = 6 \times 10^{-3} \times 2512 = 15.07\mathrm{V}$
+
+#### EXAMPLE 4.21
+
+A capacitor of capacitance $\frac{10^2}{\pi} \mu\mathrm{F}$ is connected across a $220\mathrm{V}, 50\mathrm{Hz}$ A.C. mains. Calculate the capacitive reactance, RMS value of current and write down the equations of voltage and current.
+
+#### Solution
+
+$$
+C = \frac{10^2}{\pi} \times 10^{-6}\mathrm{F}, V_{RMS} = 220\mathrm{V}, f = 50\mathrm{Hz}
+$$
+
+Capacitive reactance,
+
+$$
+X_{C} = \frac{1}{\omega C} = \frac{1}{2\pi f C}
+$$
+
+$$
+= \frac{1}{2 \times \pi \times 50 \times \frac{10^{-4}}{\pi}} = 100\Omega
+$$
+
+(ii) RMS value of current,
+
+$$
+I_{RMS} = \frac{V_{RMS}}{X_{C}} = \frac{220}{100} = 2.2\mathrm{A}
+$$
+
+(iii) $V_{m} = 220 \times \sqrt{2} = 311\mathrm{V}$
+
+$I_{m} = 2.2 \times \sqrt{2} = 3.1\mathrm{A}$
+
+Therefore,
+$$
+\nu = 311\sin 314t
+$$
+
+$$
+i = 3.1\sin\left(314t + \frac{\pi}{2}\right)
+$$
 
 >#### A capacitor blocks DC but it allows AC. Why? and How? (Not for examination)
 >
@@ -2199,13 +2178,13 @@ The current in the series RLC circuit becomes maximum at resonance. Due to the i
 It is defined as the ratio of voltage across $L$ or $C$ at resonance to the applied voltage.
 
 $$
-\mathrm{Q\text{-}factor} = \frac{\mathrm{Voltage~across~L~or~C~at~resonance}}{\mathrm{Applied~voltage}} \quad (4.52)
+\mathrm{Q\text{-}factor} = \frac{\mathrm{Voltage~across~L~or~C~at~resonance}}{\mathrm{Applied~voltage}} 
 $$
 
 At resonance, the circuit is purely resistive. Therefore, the applied voltage is equal to the voltage across $R$.
 
 $$
-\mathrm{Q\text{-}factor} = \frac{I_{m}X_{L}}{I_{m}R} = \frac{X_{L}}{R}
+\mathrm{Q\text{-}factor} = \frac{I_{m}X_{L}}{I_{m}R} = \frac{X_{L}}{R} \quad (4.52)
 $$
 
 $$
@@ -2222,141 +2201,139 @@ $$
 
 The physical meaning is that Q-factor indicates the number of times the voltage across $L$ or $C$ is greater than the applied voltage at resonance.
 
->#### EXAMPLE 4.22
->
->Find the impedance of a series RLC circuit if the inductive reactance, capacitive reactance and resistance are $184\Omega$, $144\Omega$ and $30\Omega$ respectively. Also calculate the phase angle between voltage and current.
->
->#### Solution
->
->$X_{L} = 184\Omega; X_{C} = 144\Omega; R = 30\Omega$
->
->(i) The impedance is
->
->$$
->Z = \sqrt{R^{2} + (X_{L} - X_{C})^{2}}
->$$
->
->$$
->= \sqrt{30^{2} + (184 - 144)^{2}}
->$$
->
->$$
->= \sqrt{900 + 1600}
->$$
->
->$$
->Z = 50\Omega
->$$
->
->(ii) Phase angle $\phi$ between voltage and current is
->
->$$
->\tan \phi = \frac{X_{L} - X_{C}}{R}
->$$
->
->$$
->= \frac{184 - 144}{30} = 1.33
->$$
->
->$$
->\phi = 53.1^{\circ}
->$$
->
->Since the phase angle is positive, voltage leads current by $53.1^{\circ}$ for this inductive circuit.
+#### EXAMPLE 4.22
 
->#### EXAMPLE 4.23
->
->A $500\mu\mathrm{H}$ inductor, $\frac{80}{\pi^2} \mathrm{pF}$ capacitor and a $628\Omega$ resistor are connected to form a series RLC circuit. Calculate the resonant frequency and Q-factor of this circuit at resonance.
->
->#### Solution
->
->$$
->L = 500 \times 10^{-6}\mathrm{H}; C = \frac{80}{\pi^2} \times 10^{-12}\mathrm{F}; R = 628\Omega
->$$
->
->(i) Resonant frequency is
->
->$$
->f_{r} = \frac{1}{2\pi\sqrt{LC}} = \frac{1}{2\pi\sqrt{500 \times 10^{-6} \times \frac{80}{\pi^{2}} \times 10^{-12}}}
->$$
->
->$$
->= \frac{1}{2\sqrt{40,000 \times 10^{-18}}}
->$$
->
->$$
->= \frac{10,000 \times 10^{3}}{4} = 2500 \mathrm{KHz}
->$$
->
->(ii) Q-factor
->
->$$
->\frac{\omega_{r}L}{R} = \frac{2 \times 3.14 \times 2500 \times 10^{3} \times 500 \times 10^{-6}}{628}
->$$
->
->$$
->Q = 12.5
->$$
+Find the impedance of a series RLC circuit if the inductive reactance, capacitive reactance and resistance are $184\Omega$, $144\Omega$ and $30\Omega$ respectively. Also calculate the phase angle between voltage and current.
 
->#### EXAMPLE 4.24
->
->Find the instantaneous value of alternating voltage $\nu = 10\sin (3\pi \times 10^{4}t)$ volt at i) 0 s ii) $50\mu\mathrm{s}$ iii) $75\mu\mathrm{s}$
->
->#### Solution
->
->The given equation is $\nu = 10\sin (3\pi \times 10^{4}t)$
->
->(i) At $t = 0$ s,
->
->$$
->\nu = 10\sin 0^{\circ} = 0\mathrm{V}
->$$
->
->(ii) At $t = 50\mu\mathrm{s}$
->
->$$
->\nu = 10\sin \left(3\pi \times 10^{4} \times 50 \times 10^{-6}\right)
->$$
->
->$$
->= 10\sin (3\pi \times 0.5) = 10\sin (1.5\pi) = -10\mathrm{V}
->$$
->
->(iii) At $t = 75\mu\mathrm{s}$
->
->$$
->\nu = 10\sin \left(3\pi \times 10^{4} \times 75 \times 10^{-6}\right)
->$$
->
->$$
->= 10\sin (3\pi \times 0.75) = 10\sin (2.25\pi)
->$$
->
->$$
->= 10\sin (2\pi + 0.25\pi) = 10\sin (0.25\pi) = 7.07\mathrm{V}
->$$
+#### Solution
 
->#### EXAMPLE 4.25
->
->The current in an inductive circuit is given by $0.3\sin (200t - 40^{\circ})$ A. Write the equation for the voltage across >it if the inductance is $40\mathrm{mH}$.
->
->#### Solution
->
->$$
->L = 40 \times 10^{-3}\mathrm{H}; i = 0.3\sin (200t - 40^{\circ})
->$$
->
->Inductive reactance, $X_{L} = \omega L = 200 \times 40 \times 10^{-3} = 8\Omega$
->
->Peak voltage, $V_{m} = I_{m} X_{L} = 0.3 \times 8 = 2.4\mathrm{V}$
->
->In an inductive circuit, the voltage leads the current by $90^{\circ}$. Therefore,
->
->$$
->\phi = 90^{\circ} - 40^{\circ} = 50^{\circ}
->$$
->
->Thus, $\nu = 2.4\sin (200t + 50^{\circ})$ V
+$X_{L} = 184\Omega; X_{C} = 144\Omega; R = 30\Omega$
+
+(i) The impedance is
+
+$$
+Z = \sqrt{R^{2} + (X_{L} - X_{C})^{2}}
+$$
+
+$$
+= \sqrt{30^{2} + (184 - 144)^{2}}
+$$
+
+$$
+= \sqrt{900 + 1600}
+$$
+
+$$
+Z = 50\Omega
+$$
+(ii) Phase angle $\phi$ between voltage and current is
+$$
+\tan \phi = \frac{X_{L} - X_{C}}{R}
+$$
+
+$$
+= \frac{184 - 144}{30} = 1.33
+$$
+
+$$
+\phi = 53.1^{\circ}
+$$
+
+Since the phase angle is positive, voltage leads current by $53.1^{\circ}$ for this inductive circuit.
+
+#### EXAMPLE 4.23
+
+A $500\mu\mathrm{H}$ inductor, $\frac{80}{\pi^2} \mathrm{pF}$ capacitor and a $628\Omega$ resistor are connected to form a series RLC circuit. Calculate the resonant frequency and Q-factor of this circuit at resonance.
+
+#### Solution
+
+$$
+L = 500 \times 10^{-6}\mathrm{H}; C = \frac{80}{\pi^2} \times 10^{-12}\mathrm{F}; R = 628\Omega
+$$
+
+(i) Resonant frequency is
+
+$$
+f_{r} = \frac{1}{2\pi\sqrt{LC}} = \frac{1}{2\pi\sqrt{500 \times 10^{-6} \times \frac{80}{\pi^{2}} \times 10^{-12}}}
+$$
+
+$$
+= \frac{1}{2\sqrt{40,000 \times 10^{-18}}}
+$$
+
+$$
+= \frac{10,000 \times 10^{3}}{4} = 2500 \mathrm{KHz}
+$$
+
+(ii) Q-factor
+
+$$
+frac{\omega_{r}L}{R} = \frac{2 \times 3.14 \times 2500 \times 10^{3} \times 500 \times 10^{-6}}{628}
+$$
+
+$$
+Q = 12.5
+$$
+
+#### EXAMPLE 4.24
+
+Find the instantaneous value of alternating voltage $\nu = 10\sin (3\pi \times 10^{4}t)$ volt at i) 0 s ii) $50\mu\mathrm{s}$ iii) $75\mu\mathrm{s}$
+
+#### Solution
+
+The given equation is $\nu = 10\sin (3\pi \times 10^{4}t)$
+
+(i) At $t = 0$ s,
+
+$$
+\nu = 10\sin 0^{\circ} = 0\mathrm{V}
+$$
+
+(ii) At $t = 50\mu\mathrm{s}$
+
+$$
+\nu = 10\sin \left(3\pi \times 10^{4} \times 50 \times 10^{-6}\right)
+$$
+
+$$
+= 10\sin (3\pi \times 0.5) = 10\sin (1.5\pi) = -10\mathrm{V}
+$$
+
+(iii) At $t = 75\mu\mathrm{s}$
+
+$$
+\nu = 10\sin \left(3\pi \times 10^{4} \times 75 \times 10^{-6}\right)
+$$
+
+$$
+= 10\sin (3\pi \times 0.75) = 10\sin (2.25\pi)
+$$
+
+$$
+= 10\sin (2\pi + 0.25\pi) = 10\sin (0.25\pi) = 7.07\mathrm{V}
+$$
+
+#### EXAMPLE 4.25
+
+The current in an inductive circuit is given by $0.3\sin (200t - 40^{\circ})$ A. Write the equation for the voltage across it if the inductance is $40\mathrm{mH}$.
+
+#### Solution
+
+$$
+L = 40 \times 10^{-3}\mathrm{H}; i = 0.3\sin (200t - 40^{\circ})
+$$
+
+Inductive reactance, $X_{L} = \omega L = 200 \times 40 \times 10^{-3} = 8\Omega$
+
+Peak voltage, $V_{m} = I_{m} X_{L} = 0.3 \times 8 = 2.4\mathrm{V}$
+
+In an inductive circuit, the voltage leads the current by $90^{\circ}$. Therefore,
+
+$$
+\phi = 90^{\circ} - 40^{\circ} = 50^{\circ}
+$$
+
+Thus, $\nu = 2.4\sin (200t + 50^{\circ})$ V
 
 ## 4.8 AC CIRCUITS
 
@@ -2393,7 +2370,7 @@ $$
 
 where $V_{RMS} I_{RMS}$ is called apparent power and $\cos \phi$ is power factor. The average power of an AC circuit is also known as the true power of the circuit.
 
-# Special Cases
+###### Special Cases
 
 (i) For a purely resistive circuit, the phase angle between voltage and current is zero and \( \cos \phi = 1 \).
 
@@ -2445,11 +2422,11 @@ The current in an AC circuit is said to be wattless current if the power consume
 
 The power factor of a circuit is defined in one of the following ways:
 
->(i) Power factor $= \cos \phi =$ cosine of the angle of lead or lag
->
->(ii) Power factor $= \frac{R}{Z} = \frac{\text{Resistance}}{\text{Impedance}}$
->
->(iii) Power factor $= \frac{P_{av}}{V_{RMS}I_{RMS}} = \frac{\text{True power}}{\text{Apparent power}}$
+(i) Power factor $= \cos \phi =$ cosine of the angle of lead or lag
+
+(ii) Power factor $= \frac{R}{Z} = \frac{\text{Resistance}}{\text{Impedance}}$
+
+(iii) Power factor $= \frac{P_{av}}{V_{RMS}I_{RMS}} = \frac{\text{True power}}{\text{Apparent power}}$
 
 Some examples for power factors:
 
@@ -2477,87 +2454,86 @@ There are many advantages and disadvantages of AC system over DC system.
 
 (ii) At high voltages, it is more dangerous to work with AC than DC.
 
->#### EXAMPLE 4.26
->
->A series RLC circuit which resonates at $400\mathrm{kHz}$ has $80\mu\mathrm{H}$ inductor, $2000\mathrm{pF}$ capacitor and $50\Omega$ resistor. Calculate (i) Q- factor of the circuit (ii) the new value of capacitance when the value of inductance is doubled and (iii) the new Q- factor.
->
->#### Solution
->
->$$
->L = 80 \times 10^{-6}\mathrm{H}; C = 2000 \times 10^{-12}\mathrm{F}; R = 50\Omega; f_{r} = 400 \times 10^{3}\mathrm{Hz}
->$$
->
->(i) Q- factor, $Q_{1} = \frac{1}{R}\sqrt{\frac{L}{C}}$
->
->$$
->= \frac{1}{50}\sqrt{\frac{80 \times 10^{-6}}{2000 \times 10^{-12}}} = 4
->$$
->
->(ii) When $L_{2} = 2L = 2 \times 80 \times 10^{-6}\mathrm{H} = 160 \times 10^{-6}\mathrm{H}$,
->
->$$
->C_{2} = \frac{1}{4\pi^{2}f_{r}^{2}L_{2}}
->$$
->
->$$
->= \frac{1}{4 \times 3.14^{2} \times (400 \times 10^{3})^{2} \times 160 \times 10^{-6}}
->$$
->
->$$
->= 1000 \times 10^{-12}\mathrm{F}
->$$
->
->$$
->C_{2} = 1000\mathrm{pF}
->$$
->
->(iii) $Q_{2} = \frac{1}{R}\sqrt{\frac{L_{2}}{C_{2}}} = \frac{1}{50}\sqrt{\frac{160 \times 10^{-6}}{1000 \times 10^{-12}}}$
->
->$$
->= \frac{1}{50}\sqrt{\frac{16 \times 10^{-5}}{10^{-9}}} = \frac{4 \times 10^{2}}{50} = 8
->$$
+#### EXAMPLE 4.26
 
->#### EXAMPLE 4.27
->
->A capacitor of capacitance $\frac{10^{-4}}{\pi}\mathrm{F}$, an inductor of inductance $\frac{2}{\pi}\mathrm{H}$ and a resistor of resistance $100\Omega$ are connected to form a series RLC circuit. When an AC supply of $220\mathrm{V}, 50\mathrm{Hz}$ is applied to the circuit, determine (i) the impedance of the circuit (ii) the peak value of current flowing in the circuit (iii) the power factor of the circuit and (iv) the power factor of the circuit at resonance.
->
->#### Solution
->
->$$
->L = \frac{2}{\pi}\mathrm{H}; C = \frac{10^{-4}}{\pi}\mathrm{F}; R = 100\Omega; V_{RMS} = 220\mathrm{V}; f = 50\mathrm{Hz}
->$$
->
->$$
->X_{L} = 2\pi f L = 2\pi \times 50 \times \frac{2}{\pi} = 200\Omega
->$$
->
->$$
->X_{C} = \frac{1}{2\pi f C} = \frac{1}{2\pi \times 50 \times \frac{10^{-4}}{\pi}} = 100\Omega
->$$
->
->(i) Impedance, $Z = \sqrt{R^{2} + (X_{L} - X_{C})^{2}}$
->
->$$
->= \sqrt{100^{2} + (200 - 100)^{2}} = 141.4\Omega
->$$
->
->(ii) Peak value of current,
->
->$$
->I_{m} = \frac{V_{m}}{Z} = \frac{220 \times \sqrt{2}}{141.4} = 2.2\mathrm{A}
->$$
->
->(iii) Power factor of the circuit,
->
->$$
->\cos \phi = \frac{R}{Z} = \frac{100}{141.4} = 0.707
->$$
->
->(iv) Power factor at resonance,
->
->$$
->\cos \phi = \frac{R}{Z} = \frac{R}{R} = 1
->$$
+A series RLC circuit which resonates at $400\mathrm{kHz}$ has $80\mu\mathrm{H}$ inductor, $2000\mathrm{pF}$ capacitor and $50\Omega$ resistor. Calculate (i) Q- factor of the circuit (ii) the new value of capacitance when the value of inductance is doubled and (iii) the new Q- factor.
+
+#### Solution
+
+$$
+L = 80 \times 10^{-6}\mathrm{H}; C = 2000 \times 10^{-12}\mathrm{F}; R = 50\Omega; f_{r} = 400 \times 10^{3}\mathrm{Hz}
+$$
+
+(i) Q- factor, $Q_{1} = \frac{1}{R}\sqrt{\frac{L}{C}}$
+$$
+= \frac{1}{50}\sqrt{\frac{80 \times 10^{-6}}{2000 \times 10^{-12}}} = 4
+$$
+
+(ii) When $L_{2} = 2L = 2 \times 80 \times 10^{-6}\mathrm{H} = 160 \times 10^{-6}\mathrm{H}$,
+
+$$
+C_{2} = \frac{1}{4\pi^{2}f_{r}^{2}L_{2}}
+$$
+
+$$
+= \frac{1}{4 \times 3.14^{2} \times (400 \times 10^{3})^{2} \times 160 \times 10^{-6}}
+$$
+
+$$
+= 1000 \times 10^{-12}\mathrm{F}
+$$
+
+$$
+C_{2} = 1000\mathrm{pF}
+$$
+
+(iii) $Q_{2} = \frac{1}{R}\sqrt{\frac{L_{2}}{C_{2}}} = \frac{1}{50}\sqrt{\frac{160 \times 10^{-6}}{1000 \times 10^{-12}}}$
+
+$$
+= \frac{1}{50}\sqrt{\frac{16 \times 10^{-5}}{10^{-9}}} = \frac{4 \times 10^{2}}{50} = 8
+$$
+
+#### EXAMPLE 4.27
+
+A capacitor of capacitance $\frac{10^{-4}}{\pi}\mathrm{F}$, an inductor of inductance $\frac{2}{\pi}\mathrm{H}$ and a resistor of resistance $100\Omega$ are connected to form a series RLC circuit. When an AC supply of $220\mathrm{V}, 50\mathrm{Hz}$ is applied to the circuit, determine (i) the impedance of the circuit (ii) the peak value of current flowing in the circuit (iii) the power factor of the circuit and (iv) the power factor of the circuit at resonance.
+
+#### Solution
+
+$$
+L = \frac{2}{\pi}\mathrm{H}; C = \frac{10^{-4}}{\pi}\mathrm{F}; R = 100\Omega; V_{RMS} = 220\mathrm{V}; f = 50\mathrm{Hz}
+$$
+
+$$
+X_{L} = 2\pi f L = 2\pi \times 50 \times \frac{2}{\pi} = 200\Omega
+$$
+
+$$
+X_{C} = \frac{1}{2\pi f C} = \frac{1}{2\pi \times 50 \times \frac{10^{-4}}{\pi}} = 100\Omega
+$$
+
+(i) Impedance, $Z = \sqrt{R^{2} + (X_{L} - X_{C})^{2}}$
+
+$$
+= \sqrt{100^{2} + (200 - 100)^{2}} = 141.4\Omega
+$$
+
+(ii) Peak value of current,
+
+$$
+I_{m} = \frac{V_{m}}{Z} = \frac{220 \times \sqrt{2}}{141.4} = 2.2\mathrm{A}
+$$
+
+(iii) Power factor of the circuit,
+
+$$
+\cos \phi = \frac{R}{Z} = \frac{100}{141.4} = 0.707
+$$
+
+(iv) Power factor at resonance,
+
+$$
+\cos \phi = \frac{R}{Z} = \frac{R}{R} = 1
+$$
 
 
 ### 4.9 OSCILLATION IN LC CIRCUITS
