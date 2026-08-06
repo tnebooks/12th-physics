@@ -370,13 +370,14 @@ To understand Lenz's law, let us consider two illustrations in which we find the
 
 Consider a uniform magnetic field, with its field lines perpendicular to the plane of the paper and pointing inwards. These field lines are represented by crosses $(\times)$ as shown in Figure (a). A rectangular metallic frame ABCD is placed in this magnetic field, with its plane perpendicular to the field. The arm $AB$ is movable so that it can slide towards right or left.
 
+![Figure 4.6 First illustration of Lenz’s law](img4.6.png)
+
 If the arm AB slides to our right side, the number of field lines (magnetic flux) passing through the frame ABCD increases and a current is induced. As suggested by Lenz's law, the induced current opposes this flux increase and it tries to reduce it by producing another magnetic field pointing outwards i.e., opposite to the existing magnetic field.
 
 The magnetic lines of this induced field are represented by red-colored circles in the Figure (b). From the direction of the magnetic field thus produced, the direction of the induced current is found to be anti-clockwise by using right-hand thumb rule.
 
 The leftward motion of arm $AB$ decreases magnetic flux. The induced current, this time, produces a magnetic field in the inward direction (red-colored crosses) i.e., in the direction of the existing magnetic field (Figure (c)). Therefore, the flux decrease is opposed by the flow of induced current. From this, it is found that induced current flows in clockwise direction.
 
-![Figure 4.6 First illustration of Lenz’s law](img4.6.png)
 
 
 #### Illustration 2
@@ -385,11 +386,13 @@ Let us move a bar magnet towards the solenoid, with its north pole pointing the 
 
 In this case, the cause producing the induced current is the movement of the magnet. According to Lenz's law, the induced current should flow in such a way that it opposes the movement of the north pole towards coil. It is possible if the end nearer to the magnet becomes north pole (Figure (b)). Then it repels the north pole of the bar magnet and opposes the movement of the magnet. Once pole ends are known, the direction of the induced current could be found by using right hand thumb rule.
 
+![Figure 4.7 Second illustration of Lenz’s law](img4.7.png)
+
 When the bar magnet is withdrawn, the nearer end becomes south pole which attracts north pole of the bar magnet, opposing the receding motion of the magnet (Figure (c)).
 
 Thus the direction of the induced current can be found from Lenz's law.
 
-![Figure 4.7 Second illustration of Lenz’s law](img4.7.png)
+
 
 #### Conservation of energy
 
@@ -498,11 +501,11 @@ $$
 
 As this emf is produced due to the movement of the rod, it is often called as motional emf. If the ends A and B are connected by an external circuit of total resistance $R$, then current $i = \frac{\epsilon}{R} = \frac{Blv}{R}$ flows in it. The direction of the current is found from right-hand thumb rule.
 
-## EXAMPLE 4.8
+#### EXAMPLE 4.8
 
 A conducting rod of length $0.5\mathrm{m}$ falls freely from the top of a building of height $7.2\mathrm{m}$ at a place in Chennai where the horizontal component of Earth's magnetic field is $4.04\times 10^{-5}\mathrm{T}$. If the length of the rod is perpendicular to Earth's horizontal magnetic field, find the emf induced across the conductor when the rod is about to touch the ground. (Assume that the rod falls down with constant acceleration of $10\mathrm{m}\mathrm{s}^{-2}$)
 
-### Solution
+#### Solution
 
 $$
 l = 0.5\ \mathrm{m};\ h = 7.2\ \mathrm{m};\ u = 0\ \mathrm{m}\mathrm{s}^{-1};\ g = 10\ \mathrm{m}\mathrm{s}^{-2};\ B_{H} = 4.04\times 10^{-5}\ \mathrm{T}
@@ -520,13 +523,13 @@ $$
 \epsilon = B_{H}lv = 4.04\times 10^{-5}\times 0.5\times 12 = 242.4\ \mu\mathrm{V}
 $$
 
-## EXAMPLE 4.9
+#### EXAMPLE 4.9
 
 A copper rod of length $l$ rotates about one of its ends with an angular velocity $\omega$ in a magnetic field $B$ as shown in the figure. The plane of rotation is perpendicular to the field. Find the emf induced between the two ends of the rod.
 
 ![](img4ch6.png)
 
-### Solution
+#### Solution
 
 Consider a small element of length $dx$ at a distance $x$ from the centre of the circle described by the rod. As this element moves perpendicular to the field with a linear velocity $v = \omega x$, the emf developed in the element $dx$ is
 
@@ -578,7 +581,7 @@ The design of transformer core and electric motor armature is crucial in order t
 >
 >The stone will reach the Earth's surface earlier than the metal ball. The reason is that when the metal ball falls through the magnetic field of Earth, the eddy currents are produced in it which opposes its motion. But in the case of stone, no eddy currents are produced and it falls freely.
 
->### ACTIVITY
+>#### ACTIVITY
 >
 >![](image-1.png)
 >
@@ -588,24 +591,7 @@ The design of transformer core and electric motor armature is crucial in order t
 >
 >In the second case, the magnet stops soon because eddy currents are produced in the plate which opposes the oscillation of the magnet.
 
-# Activity
 
-
-![](a.png)
-
-### Procedure
-
-1. Make a pendulum with a strong magnet suspended at the lower end of the suspension wire as shown in the first figure.
-2. Make it oscillate with a glass plate below it and note the time it takes to come to rest.
-3. Next, place a metallic plate below the oscillating magnet as shown in the second figure and again note the time it takes to stop.
-
-### Observation
-
-In the second case, the magnet stops sooner because **eddy currents** are produced in the metallic plate, which oppose the oscillation of the magnet.
-
-> **Result:**  
-> - **Glass plate:** Slow damping (magnet takes longer to stop).  
-> - **Metal plate:** Rapid damping due to the production of eddy currents.
 
 #### Application of eddy currents
 
@@ -715,6 +701,8 @@ The inductance plays the same role in a circuit as mass and moment of inertia pl
 
 Consider a long solenoid of length $l$ and cross-sectional area $A$. Let $n$ be the number of turns per unit length (or turn density) of the solenoid. When an electric current $i$ is passed through the solenoid, a magnetic field produced inside is almost uniform and is directed along the axis of the solenoid as shown in Figure The magnetic field at any point inside the solenoid
 
+![Figure 4.20 Self-inductance of a long solenoid](img4.20.png)
+
 $$ B = \mu_0 n i $$
 
 As this magnetic field passes through the solenoid, the windings of the solenoid are linked by the field lines. The magnetic flux passing through each turn is
@@ -740,7 +728,7 @@ From the above equation, it is clear that inductance depends on the geometry of 
 
 $$ L = \mu n^2 A l \quad \text{or} \quad L = \mu_r \mu_0 n^2 A l $$
 
-![Figure 4.20 Self-inductance of a long solenoid](img4.20.png)
+
 
 #### Energy stored in an inductor
 
@@ -1267,7 +1255,7 @@ Transformer is a stationary device used to transform electrical power from one c
 
 If the transformer converts an alternating current with low voltage into an alternating current with high voltage, it is called **step-up transformer**. On the contrary, if the transformer converts alternating current with high voltage into an alternating current with low voltage, then it is called **step-down transformer**.
 
-## 4.6.1 Construction and working of transformer
+### 4.6.1 Construction and working of transformer
 
 ### Principle
 
@@ -1404,11 +1392,11 @@ $$ = 0.008 \times 100\% = 0.8\% $$
 Thus it is clear that when an electric power is transmitted at higher voltage, the power loss is reduced to a large extent.
 
 
-### EXAMPLE 4.16
+#### EXAMPLE 4.16
 
 An ideal transformer has 460 and 40,000 turns in the primary and secondary coils respectively. Find the voltage developed per turn of the secondary if the transformer is connected to a 230 V AC mains. The secondary is given to a load of resistance \( 10^4 \, \Omega \). Calculate the power delivered to the load.
 
-## Solution
+#### Solution
 
 \[
 N_p = 460 \, \text{turns}; \, N_s = 40,000 \, \text{turns}
@@ -1436,10 +1424,11 @@ Secondary voltage per turn,
 = V_s I_s = \frac{V_s^2}{R_s} = \frac{20,000 \times 20,000}{10^4} = 40 \, \text{kW}
 \]
 
+#### EXAMPLE 4.17
 
 An inverter is common electrical device which we use in our homes. When there is no power in our house, inverter gives AC power to run a few electronic appliances like fan or light. An inverter has inbuilt step-up transformer which converts 12 V AC to 240 V AC. The primary coil has 100 turns and the inverter delivers 50 mA to the external circuit. Find the number of turns in the secondary and the primary current.
 
-## Solution
+#### Solution
 
 \[
 V_p = 12 \, \text{V}; \, V_s = 240 \, \text{V}
@@ -1682,9 +1671,9 @@ $$
 >**Note**
 >For example, if we consider $n$ currents in one cycle of AC, namely $i_{1}, i_{2}, \ldots , i_{n}$ then RMS value is given by
 >
->$$
->I_{RMS} = \sqrt{\frac{i_{1}^{2} + i_{2}^{2} + \ldots + i_{n}^{2}}{n}}
->$$
+>$$I_{\text{RMS}} = \sqrt{\frac{\text{Sum of squares of all currents over one cycle}}{\text{Number of currents}}}$$
+>
+>$$I_{\text{RMS}} = \sqrt{\frac{i_1^2 + i_2^2 + \dots + i_n^2}{n}}$$
 
 >**Do You Know**
 >For common household appliances, the voltage rating and current rating are generally specified in terms of their RMS value. The domestic AC supply is $230\mathrm{V}$ , $50\mathrm{Hz}$ . It is the RMS or effective value. Its peak value will be $V_{m} = \sqrt{2} V_{rms} = \sqrt{2} \times 230 = 325\mathrm{V}$ .
@@ -2009,9 +1998,11 @@ $$
 I_{RMS} = \frac{V_{RMS}}{X_{C}} = \frac{220}{100} = 2.2\mathrm{A}
 $$
 
-(iii) $V_{m} = 220 \times \sqrt{2} = 311\mathrm{V}$
+(iii) 
 
-$I_{m} = 2.2 \times \sqrt{2} = 3.1\mathrm{A}$
+$$V_m = 220 \times \sqrt{2} = 311 \text{ V}$$
+
+$$I_m = 2.2 \times \sqrt{2} = 3.1 \text{ A}$$
 
 Therefore,
 $$
@@ -2563,7 +2554,7 @@ $$
 $$
 
 
-### 4.9 OSCILLATION IN LC CIRCUITS
+## 4.9 OSCILLATION IN LC CIRCUITS
 
 #### 4.9.1 Energy conversion during LC oscillations
 
