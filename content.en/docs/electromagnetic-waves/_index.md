@@ -57,9 +57,9 @@ references:
 ---
 
 >"One scientific epoch ended and another began with James Clerk Maxwell" - Albert Einstein
+## 5.1 INTRODUCTION
 
-
-![Visible spectrum - rainbow and lightning](5.1.png)
+![**Figure 5.1** Visible spectrum - rainbow and lightning](1.png)
 
 We see the world around us through light. Light from the Sun is one of the sources of energy without which human beings cannot survive in this planet. Light plays crucial role in understanding the structure and properties of various things from atom to universe. Without light, even our eyes cannot see objects. What is light?. This puzzle made many physicists sleepless until middle of \(19^{\mathrm{th}}\) century. Earlier, many scientists thought that optics and electromagnetism are two different branches of physics. But from the work of James Clerk Maxwell, who actually enlightened the concept of light from his theoretical prediction that light is an electromagnetic wave which moves with the speed equal to \(3\times 10^{8}\mathrm{ms}^{- 1}\) (in free space or vacuum). Later, it was confirmed that visible light is just only small portion of electromagnetic spectrum, which ranges from gamma rays to radio waves.
 
@@ -68,13 +68,13 @@ In unit 4, we studied that time varying magnetic field produces an electric fiel
 ![Symmetry in nature](img_1.png)
 
 Later he proved that it is indeed true. In 1888, H. Hertz experimentally verified Maxwell's prediction and hence, this understanding resulted in new technological invention, especially in wireless communication, LASER (Light Amplification by Stimulated Emission of Radiation) technology, RADAR (Radio Detection And Ranging) etc.
-![(a) Cell phone tower and cell phone (b) X-ray radiograph](5.2.png)
+![**Figure 5.2** (a) Cell phone tower and cell phone (b) X-ray radiograph](2.png)
 
 In today's digital world, cell phones (Figure 5.2 (a)) have greater influence in our day to day life. It is a faster and more effective mode of transferring information from one place to another. It works on the basis that light is an electromagnetic wave. In hospitals, the location of bone fracture can be detected using X- rays as shown in Figure 5.2 (b), which is also an electromagnetic wave. For cooking microwave oven is used. The microwave is also an electromagnetic wave. There are plenty of applications of electromagnetic waves in engineering, medicine (example LASER surgery, etc), defence (example, RADAR signals) and also in fundamental scientific research. In this unit, basics of electromagnetic waves are discussed.
 
-### Displacement current and Maxwell's correction to Ampere's circuital law
+### 5.1.1 Displacement current and Maxwell's correction to Ampere's circuital law
 
-## Induced magnetic field
+**Induced magnetic field**
 
 Faraday's law of electromagnetic induction states that the change in magnetic field produces an electric field. Mathematically, it is written as
 
@@ -131,13 +131,13 @@ From symmetry considerations, James Clerk Maxwell showed that the change in elec
 
 where $\Phi_{\mathrm{E}}$ is the electric flux. This is known as **Maxwell's law of induction** which explains that the magnetic field $\vec{B}$ is induced along a closed loop by the changing electric flux $\Phi_{\mathrm{E}}$ in the region encircled by that loop. This symmetry between electric and magnetic fields explains the existence of electromagnetic waves such as radio waves, gamma rays, infrared rays etc.
 
-## Displacement current - Maxwell's correction
+**Displacement current - Maxwell's correction**
 
 In order to understand how the changing electric field induces magnetic field, let us consider a situation of charging a parallel plate capacitor which contains non- conducting medium between the plates.
 
 Let a time- dependent current $i_{c}$ called conduction current be passed through the wire to charge the capacitor.
 
-![Fig 5.3 Applying Ampere's circuital law - loop enclosing surface](5.3.png)
+![**Figure 5.3** Applying Ampere's circuital law - loop enclosing surface](3.png)
 
 Ampere's circuital law can be used to find the magnetic field produced around the current carrying wire.
 
@@ -147,7 +147,7 @@ $$\oint_{\mathrm{enclosing} S_{1}}\vec{B}\cdot d\vec{l} = \mu_{0}i_{c} \quad (5.
 
 where $\mu_{0}$ is the permeability of free space.
 
-![Fig 5.4 Applying Ampere's circuital law - loop enclosing surface S₂](5.4.png)
+![**Figure 5.4** Applying Ampere's circuital law - loop enclosing surface S₂](4.png)
 
 Now, the same loop is enclosed by balloon shaped surface $S_{2}$ such that boundaries of two surfaces $S_{1}$ and $S_{2}$ are same but the shape of the surfaces is different (Figure 5.4). As Ampere's law applied for a given closed loop does not depend on the shape of the enclosing surface, the integrals should give the same answer. But by applying Ampere's circuital law for the surface $S_{2}$ , we get
 
@@ -157,7 +157,7 @@ The right hand side of equation is zero because the surface $S_{2}$ nowhere touc
 
 Maxwell resolved this inconsistency as follows: While the capacitor is being charged up, varying electric field is produced between capacitor plates. There must be a current associated with the changing electric field between capacitor plates. In other words, time- varying electric field (or time- varying electric flux) produces a current. This is known as displacement current flowing between the plates of the capacitor (Figure 5.5).
 
-![Fig 5.5 Applying Gauss's law between the plates of the capacitor](5.5.png)
+![**Figure 5.5** Applying Gauss's law between the plates of the capacitor](5.png)
 
 From Gauss's law of electrostatics, the electric flux between the plates of the capacitor is
 
@@ -169,23 +169,19 @@ $$\frac{d\Phi_{E}}{dt} = \frac{1}{\epsilon_{0}}\frac{dq}{dt}\qquad \mathrm{(or)}
 
 where $\frac{dq}{dt} = i_{d}$ is known as displacement current or Maxwell's displacement current.
 
-> The displacement current can be defined as the current which comes into play in the region in which the electric field (or the electric flux) is changing with time. 
-
-In other words, whenever the change in electric field takes place, displacement current is produced.
+**The displacement current can be defined as the current which comes into play in the region in which the electric field (or the electric flux) is changing with time**.In other words, whenever the change in electric field takes place, displacement current is produced.
 
 Maxwell modified Ampere's law as
 
 $$\oint_{l}\vec{B}\cdot d\vec{l} = \mu_{0}i = \mu_{0}[i_{c} + i_{d}]$$ $$\oint_{l}\vec{B}\cdot d\vec{l} = \mu_{0}i_{c} + \mu_{0}\epsilon_{0}\frac{d\Phi_{E}}{dt}$$
 
-where the total current enclosed by the surface becomes the sum of conduction current and displacement current. Therefore, $i = i_{c} + i_{d}$ . The equation (5.6) is known as Ampere- Maxwell law. 
-
->When the current in the circuit is constant, the displacement current is zero.
+where the total current enclosed by the surface becomes the sum of conduction current and displacement current. Therefore, $i = i_{c} + i_{d}$ . The equation (5.6) is known as **Ampere- Maxwell law.**  When the current in the circuit is constant, the displacement current is zero.
 
 Between the plates, the conduction current is zero while the displacement current is non- zero. This displacement current or time- varying electric field can also produce a magnetic field between the plates of the capacitor. The magnetic field at a point inside the capacitor is perpendicular to the electric field and is shown in Figure 5.6. This magnetic field can be determined using equation (5.6).
 
-![Fig 5.6 Magnetic field produced by conduction and displacement currents](5.6.png)
+![**Figure 5.6** Magnetic field produced by conduction and displacement currents](6.png)
 
-## Importance of Maxwell's correction:
+**Importance of Maxwell's correction:**
 
 Earth receives radiations from Sun and other stars. These radiations travel through empty space where there are no electric charges and hence no electric current. Ampere's law says that only electric current can produce a magnetic field. If Ampere's law alone is true, there will not be any radiation.
 
@@ -204,11 +200,11 @@ Even though Maxwell initially started with purely symmetry argument, his correct
 >displacement is poorly chosen because
 >nothing is being displaced here.
 
-## EXAMPLE 5.1
+**EXAMPLE 5.1**
 
 Consider a parallel plate capacitor which is connected to an $230~\mathrm{V}$ RMS value and $50\mathrm{Hz}$ frequency. If the separation distance between the plates of the capacitor and area of the plates are $1\mathrm{mm}$ and $20~\mathrm{cm}^2$ respectively. Calculate the displacement current at $t = 1$ s.
 
-## Solution
+**Solution**
 
 Potential difference between the plates of the capacitor,
 
@@ -228,11 +224,11 @@ $$\mathrm{Displacement~current},i_{d} = \epsilon_{0}\frac{d\Phi_{E}}{dt} = \epsi
 \end{array} \quad (1)
 \]
 
-#### 5.1.2 Maxwell's equations in integral form
+### 5.1.2 Maxwell's equations in integral form
 
 Electrodynamics can be summarized in four basic equations, known as Maxwell's equations. These equations are analogous to Newton's equations in mechanics. Maxwell's equations completely explain the behaviour of charges, currents and properties of electric and magnetic fields. These equations can be written in integral form (or integration form) or derivative form (or differential form). The  differential form of Maxwell's equation is beyond higher secondary level. So we focus only the integral form of Maxwell's equations.
 
-## First equation
+**First equation**
 
 It is nothing but the Gauss's law of electricity. It relates the net electric flux to net electric charge enclosed in a surface. Mathematically, it is expressed as
 
@@ -249,7 +245,7 @@ where $\vec{E}$ is the electric field and $\mathrm{Q}$ enclosed is the net charg
 
 It also indicates that the electric field lines start from positive charge and terminate at negative charge. This implies that the electric field lines do not form a continuous closed path. In other words, it means that an isolated positive charge or negative charge can exist.
 
-## Second equation
+**Second equation**
 
 This law is similar to Gauss's law for electricity. So this law can also be called as **Gauss's law for magnetism**. The surface integral of magnetic field over a closed surface is zero. Mathematically,
 
@@ -259,7 +255,7 @@ where $\vec{B}$ is the magnetic field.
 
 This equation implies that the magnetic lines of force form a continuous closed path. In other words, it means that no isolated magnetic monopole exists.
 
-## Third equation
+**Third equation**
 
 It is Faraday's law of electromagnetic induction. This law relates electric field with the changing magnetic flux which is mathematically written as
 
@@ -269,7 +265,7 @@ where $\vec{E}$ is the electric field. This equation implies that the line integ
 
 Our modern technological revolution is due to Faraday's laws of electromagnetic induction.
 
-## Fourth equation
+**Fourth equation**
 
 It is modified Ampere's circuital law. This is also known as Ampere - Maxwell law. This law relates the magnetic field around any closed path to the conduction current and displacement current through that path.
 
@@ -284,16 +280,16 @@ where $\vec{B}$ is the magnetic field. This equation shows that both conduction 
 
 These four equations are known as **Maxwell's equations in electrodynamics**. This equation ensures the existence of electromagnetic waves. The entire communication system in the world depends on electromagnetic waves. In fact our understanding of stars, galaxy, planets etc come by analysing the electromagnetic waves emitted by these astronomical objects.
 
-![Fig 5.7 (a) Heinrich Rudolf Hertz (b) Schematic diagram of Hertz apparatus](5.7.png)
+![**Figure 5.7** (a) Heinrich Rudolf Hertz (b) Schematic diagram of Hertz apparatus](7.png)
 
 
-### 5.2 ELECTROMAGNETIC WAVES
+## 5.2 ELECTROMAGNETIC WAVES
 
 Electromagnetic waves are nonmechanical waves which move with speed equals to the speed of light (in vacuum). It is a transverse wave. In the following subsections, we discuss the production of electromagnetic waves and its properties, sources of electromagnetic waves and also classification of electromagnetic spectrum.
 
 ### 5.2.1 Production and properties of electromagnetic waves
 
-Production of electromagnetic waves- Hertz experiment
+**Production of electromagnetic waves- Hertz experiment**
 
 Maxwell's prediction was experimentally confirmed by Heinrich Rudolf Hertz in 1888. The experimental set up used is shown in Figure 5.7 (b).
 
@@ -305,29 +301,29 @@ If the receiver is rotated by $90^{\circ}$ , then no spark is observed by the re
 
 > **Note:** **LC oscillator** circuit with proper setup can be used to generate radio waves whose frequency is same as frequency of **LC** oscillations $\left( f = \frac{1}{2\pi\sqrt{\text{LC}}}\text{ Hz} \right)$.
 
-## Properties of electromagnetic waves
+**Properties of electromagnetic waves**
 
 1. Electromagnetic waves are produced by any accelerated charge.
 2. Electromagnetic waves do not require any medium for propagation. So electromagnetic wave is a non-mechanical wave.
 3. Electromagnetic waves are transverse in nature. The oscillating electric field vector, oscillating magnetic field vector and propagation vector (gives direction of propagation) are mutually perpendicular to each other.For example, if the electric and magnetic fields are as shown in Figure 5.8, then the direction of propagation will be along x-direction.
 
-![Fig 5.8 Electromagnetic waves - transverse wave](5.8.png)
+![**Figure 5.8** Electromagnetic waves - transverse wave](8.png)
 
-4. Electromagnetic waves travel with speed which is equal to the speed of light in vacuum or free space,$$c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} = 3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1}$$, where $\epsilon_0$ is the permittivity of free space or vacuum and $\mu_0$ is the permeability of free space or vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
+4. Electromagnetic waves travel with speed which is equal to the speed of light in vacuum or free space,$c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} = 3\times 10^{8}\mathrm{m}\mathrm{s}^{- 1}$, where $\epsilon_0$ is the permittivity of free space or vacuum and $\mu_0$ is the permeability of free space or vacuum (refer Unit 1 for permittivity and Unit 3 for permeability).
 5. In a medium with permittivity ε and permeability μ, the speed of electromagnetic wave v is less than that in free space or vacuum (v < c).
 In a medium of refractive index,
-$$
+$
 n = \frac{c}{\nu} = \frac{\frac{1}{\sqrt{\epsilon_0 \mu_0}}}{\frac{1}{\sqrt{\epsilon \mu}}} \quad \therefore n = \sqrt{\epsilon_r \mu_r}
-$$
+$
 where \( \epsilon_r \) is the relative permittivity of the medium (also known as dielectric constant) and \( \mu_r \) is the relative permeability of the medium.
 6. Electromagnetic waves are not deflected by electric field or magnetic field.
 7. Electromagnetic waves can exhibit interference, diffraction and polarization.
 8. Like other waves, electromagnetic waves also carry energy, linear momentum and angular momentum.
 9. If the electromagnetic wave incident on a material surface is completely absorbed, then the energy delivered is \( U \) and momentum imparted on the surface is \( p = \frac{U}{c} \).
 10. If the incident electromagnetic wave of energy \( U \) is totally reflected from the surface, then the momentum delivered to the surface is
-$$
+$
 \Delta p = \frac{U}{c} - \left( -\frac{U}{c} \right) = 2 \frac{U}{c}.
-$$
+$
 
 >**Do you know?** 
 >+ It is surprising to realize that EM waves have linear momentum and angular
@@ -346,11 +342,11 @@ is flowing through it and when the current in the solenoid is reduced to zero, t
 outer cylindrical shells start to rotate in opposite directions. The rotation of these cylinders is due to
 the impart of angular momentum from the electromagnetic field produced by the AC current.
 
-## EXAMPLE 5.2
+**EXAMPLE 5.2**
 
 The relative magnetic permeability of the medium is 2.5 and the relative electrical permittivity of the medium is 2.25. Compute the refractive index of the medium.
 
-## Solution
+**Solution**
 
 Dielectric constant (relative permittivity of the medium), $\epsilon_{\mathrm{r}} = 2.25$
 
@@ -360,7 +356,7 @@ Refractive index of the medium,
 
 $$n = \sqrt{\epsilon_{\mathrm{r}}\mu_{\mathrm{r}}} = \sqrt{2.25\times 2.5} = 2.37$$
 
-#### 5.2.2 Sources of electromagnetic waves
+### 5.2.2 Sources of electromagnetic waves
 
 Any stationary charge produces only electric field (refer Unit 1). When the charge moves with uniform velocity, it produces steady current which gives rise to magnetic field (not time dependent, only space dependent) around the conductor in which charge flows. If the charged particle accelerates, it produces magnetic field in addition to electric field. Both electric and magnetic fields are time varying fields. Since the electromagnetic waves are transverse waves, the direction of propagation of electromagnetic waves is perpendicular to the planes containing electric and magnetic field vectors.
 
@@ -370,11 +366,9 @@ Suppose the electromagnetic field in free space propagates along $z$ - direction
 
 $$E_{x} = E_{0}\sin (kz - \omega t)$$ $$B_{y} = B_{0}\sin (kz - \omega t)$$
 
-where $E_{\mathrm{o}}$ and $B_{\mathrm{o}}$ are amplitudes of oscillating electric and magnetic field, $k$ is a wave number, $\omega$ is the angular frequency of the
+where $E_{\mathrm{o}}$ and $B_{\mathrm{o}}$ are amplitudes of oscillating electric and magnetic field, $k$ is a wave number, $\omega$ is the angular frequency of the wave and $\hat{k}$ (unit vector, here it is called propagation vector) denotes the direction of propagation of electromagnetic wave.
 
-![Fig 5.9 Oscillating charges - sources of electromagnetic waves](5.9.png)
-
- wave and $\hat{k}$ (unit vector, here it is called propagation vector) denotes the direction of propagation of electromagnetic wave.
+![**Figure 5.9** Oscillating charges - sources of electromagnetic waves](9.png)
 
 Note that both electric field and magnetic field oscillate with a frequency (frequency of electromagnetic wave) which is equal to the frequency of the source (here, oscillating charge is the source for the production of electromagnetic waves). In free space or in vacuum, the ratio between $E_{o}$ and $B_{o}$ is equal to the speed of electromagnetic wave and is equal to speed of light $c$ .
 
@@ -386,11 +380,11 @@ $$v = \frac{E_0}{B_0} < c$$
 
 Further, the energy of electromagnetic waves comes from the energy of the oscillating charge.
 
-## EXAMPLE 5.3
+**EXAMPLE 5.3**
 
 Compute the speed of the electromagnetic wave in a medium if the amplitude of electric and magnetic fields are $3\times 10^{4}\mathrm{N C}^{- 1}$ and $2\times 10^{- 4}\mathrm{T}$ respectively.
 
-## Solution
+**Solution**
 
 The amplitude of the electric field,
 
@@ -400,33 +394,33 @@ The amplitude of the magnetic field, $B_{o} = 2\times 10^{- 4}\mathrm{T}$ . Ther
 
 $$v = \frac{3\times 10^{4}}{2\times 10^{-4}} = 1.5\times 10^{8}m s^{-1}$$
 
-#### 5.2.3 Electromagnetic spectrum
+### 5.2.3 Electromagnetic spectrum
 
-![Fig 5.10 Electromagnetic Spectrum](5.10.png)
+![**Figure 5.10** Electromagnetic Spectrum](10.png)
 
 Electromagnetic spectrum is an orderly distribution of electromagnetic waves in terms of wavelength or frequency (Figure 5.10).
 
-##### Radio waves
+**Radio waves**
 
 They are produced by accelerated motion of charges in conducting wires. The frequency range is from a few $\mathrm{Hz}$ to $10^{9}\mathrm{Hz}$ . They show reflection and diffraction.
 
 They are used in radio and television communication systems and also in calibrations to transmit voice communication in the ultra high frequency band.
 
-##### Microwaves
+**Microwaves**
 
 It is produced by special vacuum tubes such as klystron, magnetron and gunndiode. The frequency range of microwaves is $10^{9}\mathrm{Hz}$ to $10^{11}\mathrm{Hz}$ . These waves undergo reflection and can be polarised.
 
 It is used in radar system for aircraft navigation, speed of the vehicle, microwave oven for cooking and very long distance wireless communication through satellites.
 
-##### Infrared radiation
+**Infrared radiation**
 
 It is produced by hot bodies (also known as heat waves) and also by when the molecules undergoing rotational and vibrational transitions. The frequency range is $10^{11}\mathrm{Hz}$ to $4\times 10^{14}\mathrm{Hz}$ .
 
 It provides electrical energy to satellites by means of solar cells. It is used to produce dehydrated fruits, in green houses to keep the plants warm, heat therapy for muscular pain or sprain, TV remote as a signal carrier, to look through haze fog or mist and used in night vision or infrared photography.
 
->### ACTIVITY
+>**ACTIVITY**
 >
->#### Measuring the speed of light using the microwave oven
+>**Measuring the speed of light using the microwave oven**
 >
 >Nowadays the microwave oven is very commonly used to heat the food items. Micro waves of wavelengths $1 \mathrm{mm}$ to $30 \mathrm{cm}$ are produced in these ovens. Such waves form the standing waves between the interior walls of the oven. It is interesting to note that the speed of light can be measured using micro wave oven.
 >
@@ -435,19 +429,19 @@ It provides electrical energy to satellites by means of solar cells. It is used 
 >We studied about the standing waves in XI physics, Volume 2, Unit 11. The standing waves have nodes and antinodes at fixed points. At node point, the amplitude of the wave is zero and at antinodes point, the amplitude is maximum. In other words, the maximal energy of microwaves is located at antinode points. When we keep some food items like chappathi or chocolate (after removing the rotating platform) inside the oven, we can notice that at antinode locations, chappathi will be burnt more than other locations. It is shown in the Figure (c) and (d). The distance between two successive burnt spots will give the half wavelength of microwave. The frequency of microwave is printed in the panel of oven. By knowing wavelength and frequency of microwaves, using the formula $v\lambda = c$ , we can calculate the speed of light c.
 
 
-##### Visible light
+**Visible light**
 
 It is produced by incandescent bodies and also it is radiated by excited atoms in gases. The frequency range is from $4 \times 10^{14}\mathrm{Hz}$ to $8 \times 10^{14}\mathrm{Hz}$ .
 
 It obeys the laws of reflection and refraction. It undergoes interference, diffraction and can be polarised. It exhibits photo-electric effect also. It can be used to study the structure of molecules, arrangement of electrons in external shells of atoms. It causes sensation of vision.
 
-##### Ultraviolet radiation
+**Ultraviolet radiation**
 
 It is produced by Sun, arc and ionized gases. Its frequency range is from $8 \times 10^{14}\mathrm{Hz}$ to $10^{17}\mathrm{Hz}$ .
 
 It has less penetrating power. It can be absorbed by atmospheric ozone and is harmful to human body. It is used to destroy bacteria in sterilizing the surgical instruments, burglar alarm, to detect the invisible writing, finger prints and also in the study of atomic structure.
 
-##### X-rays
+**X-rays**
 
 It is produced when there is sudden stopping of high speed electrons at high atomic number target, and also by electronic transitions among the innermost orbits of atoms. The frequency range of X-rays is from $10^{17}\mathrm{Hz}$ to $10^{19}\mathrm{Hz}$ .
 
@@ -455,17 +449,17 @@ X-rays have more penetrating power than ultraviolet radiation. X-rays are used e
 
  observing the progress of healing bones. Further, in a finished metal product, it is used to detect faults, cracks, flaws and holes.
 
-##### Gamma rays
+**Gamma rays**
 
 It is produced by transitions of radioactive nuclei and decay of certain elementary particles. They produce chemical reactions on photographic plates, fluorescence, ionisation, diffraction. The frequency range is $10^{18}$ Hz and above.
 
 Gamma rays have higher penetrating power than X- rays and ultraviolet radiations; it has no charge but harmful to human body. Gamma rays provide information about the structure of atomic nuclei. It is used in radio therapy for the treatment of cancer and tumour, in food industry to kill pathogenic microorganism.
 
-## EXAMPLE 5.4
+**EXAMPLE 5.4**
 
 A magnetron in a microwave oven emits electromagnetic waves (em waves) with frequency $f = 2450$ MHz. What magnetic field strength is required for electrons to move in circular paths with this frequency?.
 
-## Solution
+**Solution**
 
 Frequency of the electromagnetic waves given, $f = 2450$ MHz
 
@@ -481,70 +475,67 @@ $$B = \frac{\left(9.11\times 10^{-31}\right)\left(1.54\times 10^{10}\right)}{\le
 
 This magnetic field can be easily produced with a permanent magnet. So, electromagnetic waves of frequency 2450 MHz can be used for heating and cooking food because they are strongly absorbed by water molecules.
 
-## TYPES OF SPECTRUM-EMISSION AND ABSORPTION SPECTRUM- FRAUNHOFER LINES
+## 5.3 TYPES OF SPECTRUM-EMISSION AND ABSORPTION SPECTRUM- FRAUNHOFER LINES
 
-When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually
+When an object burns, it emits radiations. That is, it emits electromagnetic radiation which depends on temperature. If the object becomes hot, it glows in red colour. If the temperature of the object is further increased, then it glows in reddishorange colour and becomes white when it is hottest. The spectrum in Figure 5.11 usually is called black body spectrum (Refer XI Physics Unit 8). It is a continuous frequency (or wavelength) curve depending on the body's temperature.
 
-![Fig 5.11 Black body radiation spectrum - variation with temperature](5.11.png)
- is called black body spectrum (Refer XI Physics Unit 8). It is a continuous frequency (or wavelength) curve depending on the body's temperature.
-
+![**Figure 5.11** Black body radiation spectrum - variation with temperature](11.png)
 Suppose we allow a beam of white light to pass through the prism (as shown in Figure 5.12). It is split into its seven constituent colours which can be viewed on the screen as continuous spectrum. This phenomenon is known as dispersion of light and the definite pattern of colours obtained on the screen after dispersion is called as spectrum. The spectra can be broadly classified into two categories:
 
-![Fig 5.12 White light passed through prism - dispersion](5.12.png)
+![**Figure 5.12** White light passed through prism - dispersion](12.png)
 
-### (a)Emission spectra
+**(a)Emission spectra**
 
 When the spectrum of self luminous source is taken, we get emission spectrum. Each source has its own characteristic
 
 emission spectrum. The emission spectrum can be divided into three types:
 
-### (i) Continuous emission spectrum (or continuous spectrum)
+**(i) Continuous emission spectrum (or continuous spectrum)**
 
 If the light from incandescent lamp (filament bulb) is allowed to pass through prism (simplest spectroscope), it splits up into seven colours. Thus, it consists of wavelengths containing all the visible colours ranging from violet to red (Figure 5.13). Examples: spectrum obtained from carbon arc and incandescent solids.
 
-### (ii) Line emission spectrum (or line spectrum):
+**(ii) Line emission spectrum (or line spectrum):**
 
 Suppose light from hot gas is allowed to pass through prism, line spectrum is observed (Figure 5.14). Line spectra are also known as discontinuous spectra. The line spectra consists of sharp lines of definite wavelengths or frequencies. Such spectra arise due to excited atoms of elements. These lines are the characteristics of the element and are different for different elements. Examples: spectra of atomic hydrogen, helium, etc.
 
-### (iii) Band emission spectrum (or band spectrum)
+**(iii) Band emission spectrum (or band spectrum)**
 
 Band spectrum consists of several number of very closely spaced spectral lines which overlap together forming specific bands which are separated by dark spaces. This spectrum has a sharp edge at one end and fades out at the other end. Such spectra arise when the molecules are excited. Band spectrum is the characteristic of the molecule and hence the structure of the molecules can be studied using their band spectra. Example: spectra of ammonia gas in the discharge tube etc.
 
-![Fig 5.13 Continuous emission spectra](5.13.png)
+![**Figure 5.13** Continuous emission spectra](13.png)
 
 
-![Fig 5.14 Line emission spectra](5.14.png)
+![**Figure 5.14** Line emission spectra](14.png)
 
 
-### (b) Absorption spectra
+**(b) Absorption spectra**
 
 When light is allowed to pass through a medium or an absorbing substance then the spectrum obtained is known as absorption spectrum. It is the characteristic of absorbing substance. Absorption spectrum is classified into three types:
 
-### (i) Continuous absorption spectrum
+**(i) Continuous absorption spectrum**
 
 When we pass white light through a blue glass plate, it absorbs all the colours except blue and gives continuous absorption spectrum.
 
-### (ii) Line absorption spectrum
+**(ii) Line absorption spectrum**
 
 When light from the incandescent lamp is passed through cold gas (medium), the spectrum obtained through the dispersion due to prism is line absorption spectrum (Figure 5.15). Similarly, if the light from the carbon arc is made to pass through sodium vapour, a continuous spectrum of carbon arc with two dark lines in the yellow region are obtained.
 
-### (iii) Band absorption spectrum
+**(iii) Band absorption spectrum**
 
 When white light is passed through the iodine vapour, dark bands on continuous bright background is obtained. This type of band is also obtained when white light is passed through diluted solution of blood or chlorophyll or through certain solutions of organic and inorganic compounds.
 
-![Fig 5.15 Line absorption spectra](5.15.png)
-
-## Fraunhofer lines
+![**Figure 5.15** line absorption spectra](5.15.png)
+**Fraunhofer lines**
 
 When the spectrum obtained from the Sun is examined, it consists of large number of dark lines (line absorption spectrum). These dark lines in the solar spectrum are
 
 known as Fraunhofer lines (Figure 5.16). The absorption spectra for various materials are compared with the Fraunhofer lines in the solar spectrum, which helps in identifying elements present in the Sun's atmosphere.
 
-![Fig 5.16 Solar spectrum - Fraunhofer lines](5.16.png)
+![**Figure 5.16** Solar spectrum - Fraunhofer lines](16.png)
 
----
 
-# SUMMARY
+
+## SUMMARY
 
 + Displacement current can be defined as 'the current which comes into play in the region in which the electric field and the electric flux are changing with time'.
 
