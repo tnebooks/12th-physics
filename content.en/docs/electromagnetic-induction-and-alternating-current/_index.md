@@ -145,15 +145,15 @@ In this chapter, let us see a few experiments of Faraday, the results and the ph
 The magnetic flux $\Phi_{\mathrm{B}}$ through an area $A$ in a magnetic field is defined as the number of magnetic field lines passing through that area normally and is given by the equation (Figure 4.1(a)).
 
 $$
-\Phi_{\mathrm{B}} = \int \limits_{A}^{\infty}\overline{B}\cdot \mathrm{d}\overline{A} \quad (4.1)
+\Phi_{\mathrm{B}} = \int_A \vec{B}\cdot \mathrm{d}\vec{A} \quad (4.1)
 $$
 
 where the integral is taken over the area $A$ and $\theta$ is the angle between the direction of the magnetic field and the outward normal to the area.
 
-If the magnetic field $\overline{B}$ is uniform over the area $A$ and is perpendicular to the area as shown in Figure 4.1(b), then the above equation becomes
+If the magnetic field $\vec{B}$ is uniform over the area $A$ and is perpendicular to the area as shown in Figure 4.1(b), then the above equation becomes
 
 $$
-\Phi_{\mathrm{B}} = \int \limits_{A}^{\infty}\overline{B}\cdot \mathrm{d}\overline{A} = BA\cos \theta = BA\qquad \mathrm{since} \ \theta = 0^{\circ},\cos 0^{\circ} = 1
+\Phi_{\mathrm{B}} = \int_A \vec{B}\cdot \mathrm{d}\vec{A} = BA\cos \theta = BA\qquad (\text{since } \theta = 0^{\circ},\ \cos 0^{\circ} = 1)
 $$
 
 The SI unit of magnetic flux is $\mathrm{Tm}^2$. It is also measured in weber or Wb.
@@ -453,30 +453,30 @@ $$
 
 ### 4.1.6 Motional emf from Lorentz force
 
-Consider a straight conducting rod $AB$ of length $l$ in a uniform magnetic field $\bar{B}$ which is directed perpendicularly into the plane of the paper as shown in Figure 4.9. The length of the rod is normal to the magnetic field. Let the rod move with a constant velocity $\vec{v}$ towards right side.
+Consider a straight conducting rod $AB$ of length $l$ in a uniform magnetic field $\vec{B}$ which is directed perpendicularly into the plane of the paper as shown in Figure 4.9. The length of the rod is normal to the magnetic field. Let the rod move with a constant velocity $\vec{v}$ towards right side.
 
-When the rod moves, the free electrons present in it also move with same velocity $\vec{v}$ in $\bar{B}$. As a result, the Lorentz force acts on free electrons in the direction from B to A and is given by the relation
-
-$$
-\overline{F_B} = -e(\vec{v}\times \overline{B}) \quad (4.4)
-$$
-
-The action of this Lorentz force is to accumulate the free electrons at the end $A$. This accumulation of free electrons produces a potential difference across the rod which in turn establishes an electric field $\bar{E}$ directed along $BA$ (Figure (b)). Due to the electric field $\bar{E}$, the coulomb force starts acting on the free electrons along $AB$ and is given by
+When the rod moves, the free electrons present in it also move with same velocity $\vec{v}$ in $\vec{B}$. As a result, the Lorentz force acts on free electrons in the direction from B to A and is given by the relation
 
 $$
-\overline{F_E} = -e\overline{E} \quad (4.5)
+\vec{F}_B = -e(\vec{v}\times \vec{B}) \quad (4.4)
 $$
 
-The magnitude of the electric field $\bar{E}$ keeps on increasing as long as accumulation of electrons at the end $A$ continues. The force $\bar{F}_E$ also increases until equilibrium is reached. At equilibrium, the magnetic Lorentz force $\bar{F}_B$ and the coulomb force $\bar{F}_E$ balance each other and no further accumulation of free electrons at the end $A$ takes place. i.e.,
+The action of this Lorentz force is to accumulate the free electrons at the end $A$. This accumulation of free electrons produces a potential difference across the rod which in turn establishes an electric field $\vec{E}$ directed along $BA$ (Figure (b)). Due to the electric field $\vec{E}$, the coulomb force starts acting on the free electrons along $AB$ and is given by
 
 $$
-\left|\bar{F}_B\right| = \left|\bar{F}_E\right|
+\vec{F}_E = -e\vec{E} \quad (4.5)
+$$
+
+The magnitude of the electric field $\vec{E}$ keeps on increasing as long as accumulation of electrons at the end $A$ continues. The force $\vec{F}_E$ also increases until equilibrium is reached. At equilibrium, the magnetic Lorentz force $\vec{F}_B$ and the coulomb force $\vec{F}_E$ balance each other and no further accumulation of free electrons at the end $A$ takes place. i.e.,
+
+$$
+\left|\vec{F}_B\right| = \left|\vec{F}_E\right|
 $$
 
 ![Figure 4.9 Motional emf from Lorentz force](img4.9.png)
 
 $$
-\left| -e(\vec{v}\times \bar{B})\right| = \left| -e\bar{E}\right|
+\left| -e(\vec{v}\times \vec{B})\right| = \left| -e\vec{E}\right|
 $$
 
 $$
@@ -745,17 +745,14 @@ $$ dW = -\epsilon dq $$
 $$ = -\epsilon i dt \quad (\because dq = i dt) $$
 
 Substituting for $\epsilon$ from equation (4.9),
-\[
-= -\left(-L\frac{di}{dt}\right)i\,dt
-\]
 
-\[
+$$
+dW = -\left(-L\frac{di}{dt}\right)i\,dt
+$$
+
+$$
 dW = Li\,di
-\]
-
-$$= - \left( -L \frac{di}{dt} \right) i \, dt$$
-
-$$dW = L i \, di$$
+$$
 
 Total work done in establishing the current $i$ is
 
@@ -827,7 +824,7 @@ If $i_1 = 1 \text{ A}$, then $M_{21} = N_2 \Phi_{21}$. Therefore, the mutual ind
 
 When the current $i_1$ changes with time, an emf $\epsilon_2$ is induced in coil 2. From Faraday's law of electromagnetic induction, this mutually induced emf $\epsilon_2$ is given by
 
-$$ \epsilon_2 = -\frac{d(N_2 \Phi_{21})}{dt} = -\frac{d(M_{21} i_1)}{dt} $$
+$$ \epsilon_2 = -\frac{d(N_2 \Phi_{21})}{dt} = -\frac{d(M_{21} i_1)}{dt} = -M_{21}\frac{di_1}{dt} $$
 $$ (\text{or}) \quad M_{21} = \frac{-\epsilon_2}{di_1 / dt} $$
 
 The negative sign in the above equation shows that the mutually induced emf always opposes the change in current $i_1$ with respect to time. If $\frac{di_1}{dt} = 1 \text{ A s}^{-1}$, then $M_{21} = -\epsilon_2$. Mutual inductance $M_{21}$ is also defined as the opposing emf induced in the coil 2 when the rate of change of current through the coil 1 is $1 \text{ A s}^{-1}$.
@@ -1021,28 +1018,28 @@ $$i = \frac{Blv}{R} \tag{4.19}$$
 
 #### Energy conservation
 
-The current-carrying movable rod AB kept in the perpendicular magnetic field experiences a force $\overline{F}_b$ in the outward direction, opposite to its motion. This force is given by
+The current-carrying movable rod AB kept in the perpendicular magnetic field experiences a force $\vec{F}_b$ in the outward direction, opposite to its motion. This force is given by
 
-$$ \overline{F}_b = i \overline{l} \times \overline{B} $$
-$$ |\overline{F}_b| = i l B \sin \theta $$
+$$ \vec{F}_b = i \vec{l} \times \vec{B} $$
+$$ |\vec{F}_b| = i l B \sin \theta $$
 $$ F_b = i l B \quad (\text{since } \theta = 90^\circ) $$
 
-In order to move the rod with a constant velocity $\overline{\nu}$ a constant force that is equal and opposite to the magnetic force, must be applied.
+In order to move the rod with a constant velocity $\vec{v}$, a constant force that is equal and opposite to the magnetic force, must be applied.
 
-$$ |\overline{F}_{\text{app}}| = |\overline{F}_b| = i l B $$
+$$ |\vec{F}_{\text{app}}| = |\vec{F}_b| = i l B $$
 
 Therefore, mechanical work is done by the applied force to move the rod. The rate of doing work or power is
 
-$$ P = \overline{F}_{\text{app}} \cdot \overline{\nu} = F_{\text{app}} \nu \cos \theta $$
-$$ = i l B \nu $$
-$$ = \left( \frac{B l \nu}{R} \right) l B \nu $$
-$$ P = \frac{B^2 l^2 \nu^2}{R} $$
+$$ P = \vec{F}_{\text{app}} \cdot \vec{v} = F_{\text{app}} v \cos 0^\circ $$
+$$ = i l B v $$
+$$ = \left( \frac{B l v}{R} \right) l B v $$
+$$ P = \frac{B^2 l^2 v^2}{R} \quad (4.20) $$
 
 When the induced current flows in the loop, Joule heating takes place. The rate at which thermal energy is dissipated in the loop or power dissipated is
 
 $$ P = i^2 R $$
-$$ P = \left( \frac{B l \nu}{R} \right)^2 R $$
-$$ P = \frac{B^2 l^2 \nu^2}{R} \quad (4.21) $$
+$$ P = \left( \frac{B l v}{R} \right)^2 R $$
+$$ P = \frac{B^2 l^2 v^2}{R} \quad (4.21) $$
 
 This equation is exactly same as the equation (4.20). Thus the mechanical energy needed to move the rod is converted into electrical energy which then appears as thermal energy in the loop. This energy conversion is consistent with the law of conservation of energy.
 
@@ -1281,10 +1278,10 @@ As a result of flux change, emf is induced in both primary and secondary coils. 
 \varepsilon_p = -N_p \frac{d\Phi_B}{dt}
 \]
 
-But the voltage applied \( \nu_p \) across the primary is equal to the back emf. Then
+But the voltage applied \( v_p \) across the primary is equal to the back emf. Then
 
 \[
-\nu_p = -N_p \frac{d\Phi_B}{dt} \tag{4.24}
+v_p = -N_p \frac{d\Phi_B}{dt} \tag{4.24}
 \]
 
 The frequency of alternating magnetic flux in the core is same as the frequency of the applied voltage. Therefore, induced emf in secondary will also have same frequency as that of applied voltage. The emf induced in the secondary coil \( \varepsilon_s \) is given by
@@ -1293,26 +1290,28 @@ The frequency of alternating magnetic flux in the core is same as the frequency 
 \varepsilon_s = -N_s \frac{d\Phi_B}{dt}
 \]
 
-where \( N_p \) and \( N_s \) are the number of turns in the primary and secondary coil respectively. If the secondary circuit is open, then \( \varepsilon_s = \nu_s \) where \( \nu_s \) is the voltage across secondary coil.
+where \( N_p \) and \( N_s \) are the number of turns in the primary and secondary coil respectively. If the secondary circuit is open, then \( \varepsilon_s = v_s \) where \( v_s \) is the voltage across secondary coil.
 
 \[
-\nu_s = -N_s \frac{d\Phi_B}{dt} \tag{4.25}
+v_s = -N_s \frac{d\Phi_B}{dt} \tag{4.25}
 \]
 
 From equations (4.24) and (4.25),
 
 \[
-\frac{\nu_s}{\nu_p} = \frac{N_s}{N_p} = K \tag{4.26}
+\frac{v_s}{v_p} = \frac{N_s}{N_p} = K \tag{4.26}
 \]
 
 This constant \( K \) is known as voltage transformation ratio. For an ideal transformer,
 
-Input power \( \nu_p i_p \) = Output power \( \nu_s i_s \)
+\[
+\text{Input power } v_p i_p = \text{Output power } v_s i_s
+\]
 
 where \( i_p \) and \( i_s \) are the currents in the primary and secondary coil respectively. Therefore,
 
 \[
-\frac{\nu_s}{\nu_p} = \frac{N_s}{N_p} = \frac{i_p}{i_s} \tag{4.27}
+\frac{v_s}{v_p} = \frac{N_s}{N_p} = \frac{i_p}{i_s} \tag{4.27}
 \]
 
 Equation 4.27 is written in terms of amplitude of corresponding quantities,
@@ -1550,10 +1549,9 @@ whose graphical representation is given.
 
 The sum of all currents over a half-cycle is given by area of positive half-cycle (or negative half-cycle). Therefore,
 
-Area of positive half-cycle 
-\[
-I_{av} = \frac{\text{(or negative half-cycle)}}{\text{ Bash of half-cycle}} \tag{4.31}
-\]
+$$
+I_{av} = \frac{\text{Area of positive half-cycle (or negative half-cycle)}}{\text{Base length of half-cycle}} \tag{4.31}
+$$
 
 ![**Figure 4.36** Sine wave of an alternating current](img4.36.png)
 
@@ -1604,7 +1602,7 @@ The alternating current $i = I_{m}\sin \omega t$ or $i = I_{m}\sin \theta$ , is 
 The sum of the squares of all currents over one cycle is given by the area of one cycle of squared wave. Therefore,
 
 $$
-I_{RMS} = \sqrt{\frac{\mathrm{Area~of~one~cycle}}{\mathrm{of~squared~wave}}} \quad (4.33)
+I_{RMS} = \sqrt{\frac{\text{Area of one cycle of squared wave}}{\text{Base length of one cycle}}} \quad (4.33)
 $$
 
 An elementary area of thickness $d\theta$ is considered in the first half- cycle of the squared current wave. Let $i^{2}$ be the mid- ordinate of the element.
@@ -1622,15 +1620,11 @@ $$
 $$
 
 $$
-= I_{m}^{2}\int_{0}^{2\pi}\left[\frac{1 - \cos 2\theta}{2}\right]d\theta
+= I_{m}^{2}\int_{0}^{2\pi}\left[\frac{1 - \cos 2\theta}{2}\right]d\theta \qquad \left(\because \sin^2\theta = \frac{1 - \cos 2\theta}{2}\right)
 $$
 
 $$
-\sin \mathrm{sin}^2\theta = \frac{1 - \cos 2\theta}{2}
-$$
-
-$$
-= \frac{I_{m}^{2}}{2}\int_{0}^{2\pi}d\theta -\int_{0}^{2\pi}\cos 2\theta d\theta
+= \frac{I_{m}^{2}}{2}\left[\int_{0}^{2\pi}d\theta -\int_{0}^{2\pi}\cos 2\theta d\theta\right]
 $$
 
 $$
@@ -1688,7 +1682,7 @@ $$
 f = 50\mathrm{Hz}; V_{m} = 20\mathrm{V}
 $$
 
-Instantaneous voltage, $\nu = V_{m}\sin \omega t$
+Instantaneous voltage, $v = V_{m}\sin \omega t$
 
 $$
 = V_{m}\sin 2\pi ft
@@ -1699,7 +1693,7 @@ $$
 $$
 
 $$
-\nu = 20\sin 314t
+v = 20\sin 314t
 $$
 
 Time period, $T = \frac{1}{f} = \frac{1}{50} = 0.02\mathrm{s} = 20 \times 10^{-3}\mathrm{s} = 20\mathrm{ms}$
@@ -1749,9 +1743,9 @@ The notion of phasors is introduced to analyse phase relationship between voltag
 
 #### Phasor diagram
 
-The diagram which shows various phasors and their phase relations is called phasor diagram. Consider a sinusoidal alternating voltage $\nu = V_{m} \sin \omega t$ applied to a circuit. This voltage can be represented by a phasor, namely $\overline{OA}$.
+The diagram which shows various phasors and their phase relations is called phasor diagram. Consider a sinusoidal alternating voltage $v = V_{m} \sin \omega t$ applied to a circuit. This voltage can be represented by a phasor, namely $\overline{OA}$.
 
-![Figure 4.38 Phasor diagram for an alternating voltage $\nu = V_{m} \sin \omega t$](img4.38.png)
+![Figure 4.38 Phasor diagram for an alternating voltage $v = V_{m} \sin \omega t$](img4.38.png)
 
 Here the length of $\overline{OA}$ equals the peak value $(V_{m})$ , the angle it makes with x- axis gives the phase $(\omega t)$ of the applied voltage. Its projection on y- axis provides the instantaneous value $(V_{m} \sin \omega t)$ at that instant.
 
@@ -1759,7 +1753,7 @@ When $\overline{OA}$ rotates about $O$ with angular velocity $\omega$ in anti- c
 
 The alternating current in the same circuit may be given by the relation $i = I_{m} \sin (\omega t + \phi)$ which is represented by another phasor $\overline{OB}$ . Here $\phi$ is the phase angle between voltage and current. In this case, the current leads the voltage by phase angle $\phi$ which is shown in Figure 4.39. If the current lags behind the voltage, then we write $i = I_{m} \sin (\omega t - \phi)$ .
 
-![Figure 4.39 Phasor diagram and wave diagram say that $i$ leads $\nu$ by $\phi$](img4.39.png)
+![Figure 4.39 Phasor diagram and wave diagram say that $i$ leads $v$ by $\phi$](img4.39.png)
 
 ### 4.7.4 AC circuit containing pure resistor
 
@@ -1769,7 +1763,7 @@ The alternating current in the same circuit may be given by the relation $i = I_
 Consider a circuit containing a pure resistor of resistance $R$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 $$
-\nu = V_{m}\sin \omega t \quad (4.37)
+v = V_{m}\sin \omega t \quad (4.37)
 $$
 
 An alternating current $i$ flowing in the circuit due to this voltage, develops a potential drop across $R$ and is given by
@@ -1781,7 +1775,7 @@ $$
 Kirchoff's loop rule states that the algebraic sum of potential differences in a closed circuit is zero. For this resistive circuit,
 
 $$
-\nu - V_{R} = 0
+v - V_{R} = 0
 $$
 
 From equation (4.37) and (4.38),
@@ -1795,7 +1789,7 @@ i = \frac{V_{m}}{R}\sin \omega t
 $$
 
 $$
-i = I_{m}\sin \omega t
+i = I_{m}\sin \omega t \quad (4.39)
 $$
 
 where $\frac{V_{m}}{R} = I_{m}$ , the peak value of alternating current in the circuit. From equations (4.37) and (4.39), it is clear that the applied voltage and the current are in phase with each other in a resistive circuit. It means that they reach their maxima and minima simultaneously. This is indicated in the phasor diagram. The wave diagram also depicts that current is in phase with the applied voltage.
@@ -1807,7 +1801,7 @@ where $\frac{V_{m}}{R} = I_{m}$ , the peak value of alternating current in the c
 Consider a circuit containing a pure inductor of inductance $L$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 $$
-\nu = V_{m}\sin \omega t \quad (4.40)
+v = V_{m}\sin \omega t \quad (4.40)
 $$
 
 ![Figure 4.42 AC circuit with inductor](img4.42.png)
@@ -1821,7 +1815,7 @@ $$
 By applying Kirchoff's loop rule to the purely inductive circuit, we get
 
 $$
-\nu + \epsilon = 0
+v + \epsilon = 0
 $$
 
 $$
@@ -1849,7 +1843,7 @@ i = \frac{V_m}{\omega L}\sin \left(\omega t - \frac{\pi}{2}\right)
 $$
 
 $$
-\mathrm{or} \quad i = I_m\sin \left(\omega t - \frac{\pi}{2}\right)
+\mathrm{or} \quad i = I_m\sin \left(\omega t - \frac{\pi}{2}\right) \quad (4.41)
 $$
 
 where $\frac{V_m}{\omega L} = I_m$ , the peak value of the alternating current in the circuit. From equation (4.40) and (4.41), it is evident that current lags behind the applied voltage by $\frac{\pi}{2}$ in an inductive circuit. This fact is depicted in the phasor diagram. In the wave diagram also, it is seen that current lags the voltage by $90^{\circ}$.
@@ -1868,7 +1862,6 @@ The inductive reactance \( (X_L) \) varies directly as the frequency.
 
 \[
 X_L = 2\pi f L
-\tag{4.42}
 \]
 
 where \( f \) is the frequency of the alternating current. For a steady current, \( f = 0 \). Therefore, \( X_L = 0 \). Thus an ideal inductor offers no resistance to steady DC current.
@@ -1884,7 +1877,7 @@ where \( f \) is the frequency of the alternating current. For a steady current,
 Consider a circuit containing a capacitor of capacitance $C$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
 $$
-\nu = V_{m}\sin \omega t \quad (4.43)
+v = V_{m}\sin \omega t \quad (4.43)
 $$
 
 ![Figure 4.44 AC circuit with capacitor](img4.44.png)
@@ -1892,7 +1885,7 @@ $$
 Let $q$ be the instantaneous charge on the capacitor. The emf across the capacitor at that instant is $\frac{q}{C}$ . According to Kirchoff's loop rule,
 
 $$
-\nu - \frac{q}{C} = 0
+v - \frac{q}{C} = 0
 $$
 
 $$
@@ -2006,7 +1999,7 @@ $$I_m = 2.2 \times \sqrt{2} = 3.1 \text{ A}$$
 
 Therefore,
 $$
-\nu = 311\sin 314t
+v = 311\sin 314t
 $$
 
 $$
@@ -2041,7 +2034,9 @@ $$
 
 Consider a circuit containing a resistor of resistance $R$, an inductor of inductance $L$ and a capacitor of capacitance $C$ connected across an alternating voltage source. The instantaneous value of the alternating voltage is given by
 
-v =Vm sin ωt
+$$
+v = V_m \sin \omega t \quad (4.46)
+$$
 
 ![Figure 4.46 AC circuit containing $R, L$ and $C$](img4.46.png)
 
@@ -2049,7 +2044,7 @@ Let $i$ be the resulting current in the circuit at that instant. As a result, th
 
 We know that voltage across $R$ ($V_{R}$) is in phase with $i$, voltage across $L$ ($V_{L}$) leads $i$ by $\pi/2$ and voltage across $C$ ($V_{C}$) lags behind $i$ by $\pi/2$.
 
-The phasor diagram is drawn with current as the reference phasor. The current is represented by the phasor $\overline{OL}$, $V_{R}$ by $\overline{OA}$, $V_{L}$ by $\overline{OB}$ and $V_{C}$ by $\overline{OC}$ as shown in Figure 4.47.
+The phasor diagram is drawn with current as the reference phasor. The current is represented by the phasor $\overline{OI}$, $V_{R}$ by $\overline{OA}$, $V_{L}$ by $\overline{OB}$ and $V_{C}$ by $\overline{OC}$ as shown in Figure 4.47.
 
 The length of these phasors are
 
@@ -2059,7 +2054,7 @@ $$
 
 The circuit is either effectively inductive or capacitive or resistive depending on the value of $V_{L}$ or $V_{C}$. Let us assume that $V_{L} > V_{C}$. Therefore, net voltage drop across $L-C$ combination is $V_{L} - V_{C}$ which is represented by a phasor $\overline{OD}$.
 
-By parallelogram law, the diagonal $\overline{OE}$ gives the resultant voltage $\nu$ of $V_{R}$ and $(V_{L} - V_{C})$ and its length $OE$ is equal to $V_{m}$. Therefore,
+By parallelogram law, the diagonal $\overline{OE}$ gives the resultant voltage $v$ of $V_{R}$ and $(V_{L} - V_{C})$ and its length $OE$ is equal to $V_{m}$. Therefore,
 
 $$
 V_{m}^{2} = V_{R}^{2} + (V_{L} - V_{C})^{2}
@@ -2092,7 +2087,7 @@ $Z$ is called impedance of the circuit which refers to the effective opposition 
 
 ![Figure 4.48 Voltage and impedance triangle when $X_{L} > X_{C}$](img4.48.png)
 
-From phasor diagram, the phase angle between $\nu$ and $i$ is found out from the following relation
+From phasor diagram, the phase angle between $v$ and $i$ is found out from the following relation
 
 $$
 \tan \phi = \frac{V_{L} - V_{C}}{V_{R}} = \frac{X_{L} - X_{C}}{R} \quad (4.48)
@@ -2103,19 +2098,19 @@ $$
 (i) If $X_{L} > X_{C}$, $(X_{L} - X_{C})$ is positive and phase angle $\phi$ is also positive. It means that the applied voltage leads the current by $\phi$ (or current lags behind voltage by $\phi$). The circuit is inductive.
 
 $$
-\therefore i = I_{m}\sin \omega t; \quad \nu = V_{m}\sin (\omega t + \phi)
+\therefore i = I_{m}\sin \omega t; \quad v = V_{m}\sin (\omega t + \phi)
 $$
 
 (ii) If $X_{L} < X_{C}$, $(X_{L} - X_{C})$ is negative and $\phi$ is also negative. Therefore current leads voltage by $\phi$ (or voltage lags behind current by $\phi$) and the circuit is capacitive.
 
 $$
-\therefore i = I_{m}\sin \omega t; \quad \nu = V_{m}\sin (\omega t - \phi)
+\therefore i = I_{m}\sin \omega t; \quad v = V_{m}\sin (\omega t - \phi)
 $$
 
 (iii) If $X_{L} = X_{C}$, $\phi$ is zero. Therefore current and voltage are in the same phase and the circuit is resistive.
 
 $$
-\therefore \nu = V_{m}\sin \omega t; \quad i = I_{m}\sin \omega t
+\therefore v = V_{m}\sin \omega t; \quad i = I_{m}\sin \omega t
 $$
 
 ### 4.7.8 Resonance in series RLC circuit
@@ -2286,7 +2281,7 @@ $$
 (ii) Q-factor
 
 $$
-frac{\omega_{r}L}{R} = \frac{2 \times 3.14 \times 2500 \times 10^{3} \times 500 \times 10^{-6}}{628}
+\text{Q-factor} = \frac{\omega_{r}L}{R} = \frac{2 \times 3.14 \times 2500 \times 10^{3} \times 500 \times 10^{-6}}{628}
 $$
 
 $$
@@ -2295,22 +2290,22 @@ $$
 
 #### EXAMPLE 4.24
 
-Find the instantaneous value of alternating voltage $\nu = 10\sin (3\pi \times 10^{4}t)$ volt at i) 0 s ii) $50\mu\mathrm{s}$ iii) $75\mu\mathrm{s}$
+Find the instantaneous value of alternating voltage $v = 10\sin (3\pi \times 10^{4}t)$ volt at i) 0 s ii) $50\mu\mathrm{s}$ iii) $75\mu\mathrm{s}$
 
 #### Solution
 
-The given equation is $\nu = 10\sin (3\pi \times 10^{4}t)$
+The given equation is $v = 10\sin (3\pi \times 10^{4}t)$
 
 (i) At $t = 0$ s,
 
 $$
-\nu = 10\sin 0^{\circ} = 0\mathrm{V}
+v = 10\sin 0^{\circ} = 0\mathrm{V}
 $$
 
 (ii) At $t = 50\mu\mathrm{s}$
 
 $$
-\nu = 10\sin \left(3\pi \times 10^{4} \times 50 \times 10^{-6}\right)
+v = 10\sin \left(3\pi \times 10^{4} \times 50 \times 10^{-6}\right)
 $$
 
 $$
@@ -2320,7 +2315,7 @@ $$
 (iii) At $t = 75\mu\mathrm{s}$
 
 $$
-\nu = 10\sin \left(3\pi \times 10^{4} \times 75 \times 10^{-6}\right)
+v = 10\sin \left(3\pi \times 10^{4} \times 75 \times 10^{-6}\right)
 $$
 
 $$
@@ -2351,7 +2346,7 @@ $$
 \phi = 90^{\circ} - 40^{\circ} = 50^{\circ}
 $$
 
-Thus, $\nu = 2.4\sin (200t + 50^{\circ})$ V
+Thus, $v = 2.4\sin (200t + 50^{\circ})$ V
 
 ## 4.8 AC CIRCUITS
 
@@ -2362,14 +2357,14 @@ Power of a circuit is defined as the rate of consumption of electric energy in t
 The alternating voltage and alternating current in the series inductive RLC circuit at an instant are given by
 
 $$
-\nu = V_{m}\sin \omega t \quad \text{and} \quad i = I_{m}\sin (\omega t + \phi)
+v = V_{m}\sin \omega t \quad \text{and} \quad i = I_{m}\sin (\omega t + \phi)
 $$
 
-where $\phi$ is the phase angle between $\nu$ and $i$. The instantaneous power is then written as
+where $\phi$ is the phase angle between $v$ and $i$. The instantaneous power is then written as
 
 $$
 \begin{aligned}
-P &= \nu i \\
+P &= v i \\
 &= V_{m}I_{m}\sin \omega t \sin (\omega t + \phi) \\
 &= V_{m}I_{m}\sin \omega t [\sin \omega t \cos \phi + \cos \omega t \sin \phi] \\
 P &= V_{m}I_{m}[\cos \phi \sin^{2} \omega t + \sin \omega t \cos \omega t \sin \phi]
