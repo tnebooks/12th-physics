@@ -537,8 +537,10 @@ $$I = \frac{V}{R_{p}}$$
 
 ![Figure 2.10 Resistors in parallel](image-17.png)
 
->$$
-\frac{1}{R_p} = \frac{5}{12} \, \Omega \quad \text{or} \quad R_p = \frac{12}{5} \, \Omega$$
+\[
+\frac{1}{R_p} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}
+\tag{2.26}
+\]
 
 Here $R_{p}$ is the equivalent resistance of the parallel combination of the resistors. Thus, when a number of resistors are connected in parallel, the sum of the reciprocals of resistance of the individual resistors is equal to the reciprocal of the effective resistance of the combination as shown in the Figure 2.10 (b).
 
@@ -652,8 +654,9 @@ R_{p_1} = 1 \, \Omega
 >![](image-20.png)
 >
 >**Section II**
->$$
->\frac{1}{R_{p_2}} = \frac{1}{4} + \frac{1}{4} = \frac{2}{4}, \quad \frac{1}{R_{p_2}} = \frac{1}{2}, \quad R_{p_2} = 2 \, \Omega$$
+>\[
+\frac{1}{R_{p_2}} = \frac{1}{4} + \frac{1}{4} = \frac{2}{4}, \quad \frac{1}{R_{p_2}} = \frac{1}{2}, \quad R_{p_2} = 2\Omega
+\]
 >
 >![](image-21.png)
 >
@@ -823,7 +826,7 @@ In metals, if the temperature increases, the average time between the collision 
 
 >**EXAMPLE 2.13**
 >
->If the resistance of coil is $3\Omega$ at $20^{\circ}C$ and $\alpha = 0.004 / 0C$ then determine its resistance at $100^{\circ}C$2.3
+>If the resistance of coil is 3 Ω at 20°C and  \[ \alpha = 0.004/^\circ C \] then determine its resistance at 100 °C.
 >
 >**Solution**
 >
@@ -1418,10 +1421,10 @@ The DPDT switch is pressed towards \( \mathbf{M}_{1} \mathbf{N}_{1} \) so that c
 
 >we have
 >$$
-\varepsilon_1 = Ir_1 \tag{2.59}$$
+\varepsilon_1 = Irl_1 \tag{2.59}$$
 >
 >$$
-\varepsilon_2 = Ir_2 \tag{2.60}$$
+\varepsilon_2 = Irl_2 \tag{2.60}$$
 
 By dividing equation (2.59) by (2.60)
 
@@ -1484,7 +1487,7 @@ In the absence of any other external effect, this energy is spent in heating the
 
 For a resistance $R$
 
->$$H = PRt \quad (2.68)$$
+>$$H = I^2 R t \quad (2.68)$$
 
 This relation was experimentally verified by Joule and is known as Joule's law of heating. It states that **the heat developed in an electrical circuit due to the flow of current varies directly as**
 
@@ -1516,7 +1519,9 @@ Electric iron, electric heater, electric toaster shown in Figure 2.30 are some o
 >
 >**Solution**
 >
->According to Joule's heating law $H = I^2 Rt$ The current passed through the electrical heater $= \frac{220V}{10\Omega} = 22A$ Heat produced in one second by the electrical heater $H = PR$
+>According to Joule's heating law $H = I^2 Rt
+>$ The current passed through the electrical heater $= \frac{220V}{10\Omega} = 22A$ 
+>Heat produced in one second by the electrical heater $H = PR$
 >
 >Heat produced in one second $H = (22)^2 \times 10 = 4840 \mathrm{~J} = 4.84 \mathrm{~kJ}$ . In fact the power rating of this electrical heater is $4.84 \mathrm{~kW}$ .
 >
