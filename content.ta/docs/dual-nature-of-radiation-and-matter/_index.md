@@ -6,7 +6,13 @@ weight: 8
 summary: "இந்த அலகு பொருள் மற்றும் கதிர்வீச்சின் இரட்டை இயல்பை (dual nature) விளக்குகிறது. இதில் எலக்ட்ரான் வெளியேற்றம் (electron emission) மற்றும் photoelectric effect பற்றிய விதிகள் மற்றும் ஆரம்பக் கண்காணிப்புகள் அறிமுகப்படுத்தப்படுகின்றன. மேலும், ஆற்றல் அளவீடு (energy quantization) என்ற கருத்தையும், புகைப்பட மின்கலன் (photocell) போன்ற நடைமுறை பயன்பாடுகளையும் இது விளக்குகிறது."
 references:
     links:
-      - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
+        - "[ஒளிமின் விளைவு](https://phet.colorado.edu/sims/html/photoelectric/latest/photoelectric_all.html) — Simulation of photon-electron emission, stopping potential, and threshold frequency."
+        - "[டேவிசன்-ஜெர்மர்: எலக்ட்ரான் விளிம்பு விளைவு](https://phet.colorado.edu/sims/html/davisson-germer/latest/davisson-germer_all.html) — Experimental verification of de Broglie matter waves using electron diffraction."
+        - "[குவாண்டம் அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Demonstrating wave-particle duality of single photons and matter particles."
+        - "[ஹைட்ரஜன் அணுவின் மாதிரிகள்](https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_all.html) — Observation of photon absorption and emission during atomic level transitions."
+        - "[கரும்பொருள் நிறமாலை](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html) — Understanding Planck's quantum hypothesis and discrete packet energy distribution."
+        - "[மூலக்கூறுகளும் ஒளியும்](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html) — Visualizing energy absorption by molecules when exposed to specific photon energies."
+
     videos:
         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
     books:

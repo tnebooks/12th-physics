@@ -209,7 +209,13 @@ references:
             title: "வான் – டி – கிராப் மின்னியற்றி- தத்துவம் மற்றும் அமைப்பு"
             desc: "வான் – டி – கிராப் மின்னியற்றி- தத்துவம் மற்றும் அமைப்பு"
             url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"
-         
+    links:
+        - "[கூலோம் விதி](https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_all.html) — Simulation demonstrating Coulomb's Law and electrostatic force between charges."
+        - "[மின்னூட்டங்களும் புலங்களும்](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html) — Interactive exploration of electric field vectors, lines, and equipotential surfaces."
+        - "[மின்தேக்கி ஆய்வகம்: அடிப்படையானவை](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html) — Exploration of capacitance, plate area, plate separation, and charge storage."
+        - "[பலூன்களும் நிலைமின்சாரமும்](https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html) — Visualization of static charge transfer, attraction, repulsion, and polarization."
+        - "[ஜான் டிராவல்டேஜ்](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_all.html) — Demonstration of triboelectric charging and sudden electrostatic discharge."
+        - "[மின்புல ஹாக்கி](https://phet.colorado.edu/sims/html/electric-field-hockey/latest/electric-field-hockey_all.html) — Interactive practice with electrostatic force vectors and trajectory of test charges."         
 
 categories:
     - electrostatics

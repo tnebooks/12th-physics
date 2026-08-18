@@ -1,5 +1,13 @@
 ---
 title: 'எலக்ட்ரானியல் மற்றும் தகவல் தொடர்பு அமைப்புகள்(Electronics And Communication)'
+references:
+    links:
+        - "[குறைகடத்திகள்](https://phet.colorado.edu/sims/html/semiconductors/latest/semiconductors_all.html) — Simulating intrinsic and doped semiconductors, energy gap, and carrier motion."
+        - "[பட்டை அமைப்பு](https://phet.colorado.edu/sims/html/band-structure/latest/band-structure_all.html) — Energy band diagrams of metals, semiconductors, and insulators."
+        - "[மின்கடத்துத்திறன்](https://phet.colorado.edu/sims/html/conductivity/latest/conductivity_all.html) — Comparing electrical conduction in metallic conductors and doped materials."
+        - "[சுற்றமைப்பு அமைப்பு கருவி: நேர்மின்னோட்டம்](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html) — Constructing diode-like switching circuits and basic logic gates."
+        - "[ஓம் விதி](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html) — Investigating V-I characteristics and non-linear resistance profiles."
+        - "[மின்கலம்-மின்தடை சுற்று](https://phet.colorado.edu/sims/html/battery-resistor-circuit/latest/battery-resistor-circuit_all.html) — Basic electrical component modeling and current regulation."
 categories:
     - electronics-and-communication
 weight: 10

@@ -1,5 +1,14 @@
 ---
 title: 'இயற்பியலில் சமீபத்திய முன்னேற்றங்கள்'
+references:
+    links:
+        - "[குவாண்டம் சுரங்க விளைவு](https://phet.colorado.edu/sims/html/quantum-tunneling/latest/quantum-tunneling_all.html) — Quantum wave packet penetration and tunneling relevant to nanotechnology."
+        - "[ஒளியியல் இடுக்கி](https://phet.colorado.edu/sims/html/optical-tweezers/latest/optical-tweezers_all.html) — Application of laser radiation pressure in nanosciences and biophysics."
+        - "[எளிய எம்.ஆர்.ஐ](https://phet.colorado.edu/sims/html/mri/latest/mri_all.html) — Application of nuclear magnetic resonance principles in medical imaging."
+        - "[ஈர்ப்பும் சுற்றுப்பாதைகளும்](https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html) — Gravitational dynamics and orbital mechanics for satellite applications."
+        - "[எனது சூரிய குடும்பம்](https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_all.html) — Multi-body orbital mechanics and astrophysics simulation."
+        - "[பருப்பொருளின் நிலைகள்: அடிப்படைகள்](https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_all.html) — Microscopic phase transitions and thermal state changes in modern materials."
+
 categories:
     - recent-developments-in-physics
 weight: 11

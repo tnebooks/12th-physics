@@ -6,9 +6,12 @@ weight: 5
 summary: "இந்த அலகு மின்காந்தவியல் தொடர்பான மேம்பட்ட கருத்துகளை அறிமுகப்படுத்துகிறது. இதில் இடமாற்ற மின்பாய்ச்சி (displacement current) மற்றும் Maxwell’s correction to Ampère’s circuital law ஆகியவை விளக்கப்படுகின்றன, இதன் மூலம் Maxwell’s equations உருவாகின்றன. மேலும், மின்காந்த அலைகளின் உற்பத்தி மற்றும் பண்புகள் Hertz’s experiment உதாரணமாக விளக்கப்படுகின்றன."
 references:
     links:
-        - "[PhET: Radio Waves & Electromagnetic Fields](https://phet.colorado.edu/en/simulations/radio-waves)"
-        - "[PhET: Microwaves](https://phet.colorado.edu/en/simulation/microwaves)"
-        - "[PhET: Waves Intro](https://phet.colorado.edu/en/simulation/waves-intro)"
+        - "[வானொலி அலைகளும் மின்காந்தப் புலங்களும்](https://phet.colorado.edu/sims/html/radio-waves-and-electromagnetic-fields/latest/radio-waves-and-electromagnetic-fields_all.html) — Visualizing electric and magnetic field propagation from oscillating dipole antennas."
+        - "[வண்ணப் பார்வை](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html) — Exploration of the visible light portion of the electromagnetic spectrum."
+        - "[கரும்பொருள் நிறமாலை](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html) — Studying continuous thermal radiation across infrared, visible, and UV wavelengths."
+        - "[மூலக்கூறுகளும் ஒளியும்](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html) — Observing how different EM wave bands interact with atmospheric molecules."
+        - "[அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html) — Analyzing sinusoidal wave transmission, propagation speed, and wavelengths."
+        - "[அலைகள் அறிமுகம்](https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_all.html) — Fundamental introduction to wave disturbance propagation across different media."
         - "[oPhysics: Electromagnetic Wave Visualization](https://ophysics.com/em.html)"
         - "[Falstad Electromagnetic Wave Simulator](https://www.falstad.com/emwave1/)"
         - "[Desmos: Electromagnetic Waves & Polarization](https://www.desmos.com/calculator/rbk2fiyzoe)"

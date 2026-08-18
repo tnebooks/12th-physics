@@ -1,5 +1,14 @@
 ---
 title: 'கதிர் ஒளியியல் (Ray Optics)'
+references:
+    links:
+        - "[ஒளியின் விலகல்](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Refraction, Snell's law, total internal reflection, and dispersion in prisms."
+        - "[வடிவவியல் ஒளியியல்](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html) — Image formation by convex and concave lenses with real-time ray tracing."
+        - "[வடிவவியல் ஒளியியல்: அடிப்படைகள்](https://phet.colorado.edu/sims/html/geometric-optics-basics/latest/geometric-optics-basics_all.html) — Simplified ray tracing with converging lenses, focal points, and object distance."
+        - "[வண்ணப் பார்வை](https://phet.colorado.edu/sims/html/color-vision/latest/color-vision_all.html) — Understanding primary colors, white light composition, and spectral filtering."
+        - "[மூலக்கூறுகளும் ஒளியும்](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html) — Exploration of Rayleigh scattering and light absorption by gas molecules."
+        - "[கரும்பொருள் நிறமாலை](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html) — Examining wavelength distribution and peak emission of various light sources."
+
 categories:
     - ray-optics
 weight: 6

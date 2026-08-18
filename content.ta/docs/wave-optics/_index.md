@@ -6,7 +6,14 @@ weight: 7
 summary: "இந்த அலகு ஒளியின் அலை இயல்பை விளக்குகிறது மற்றும் பிரதிபலிப்பு மற்றும் விலக்கம் விதிகளுக்கான கோட்பாட்டு அடிப்படையை வழங்குகிறது. இதில் இடையீடு (interference), விலகல் (diffraction), மற்றும் துருவமயமாக்கல் (polarization) போன்ற முக்கிய அலை நிகழ்வுகள் அடங்கும். மேலும், பெரிதாக்கல் (magnification), தீர்மான திறன் (resolving power) போன்ற கருத்துகளையும், மைக்ரோஸ்கோப் மற்றும் தொலைநோக்கி போன்ற ஒளியியல் கருவிகளின் செயல்முறைகளையும் இந்த அலகு அறிமுகப்படுத்துகிறது."
 references:
    links:
-      - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+        - "[அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html) — Simulation of Young's double-slit experiment, diffraction, and fringe patterns."
+        - "[குவாண்டம் அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Observing wave nature and diffraction patterns with photons and electrons."
+        - "[கம்பியில் அலை](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html) — Investigating wave phase, node formation, constructive and destructive interference."
+        - "[ஃபூரியே: அலைகளை உருவாக்குதல்](https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_all.html) — Principles of wave superposition, harmonics, and complex waveform synthesis."
+        - "[ஒளியின் விலகல்](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Demonstrating wavefront bending and speed variation across refractive boundaries."
+        - "[அலைகள் அறிமுகம்](https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_all.html) — Visualizing 2D wavefront propagation and interference bands."
+        - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+
    books:
         - b1:
             title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
