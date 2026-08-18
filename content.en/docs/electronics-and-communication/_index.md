@@ -1,5 +1,14 @@
 ---
 title: 'Electronics and communication'
+references:
+    links:
+        - "[Semiconductors](https://phet.colorado.edu/sims/html/semiconductors/latest/semiconductors_all.html) — Simulating intrinsic and doped semiconductors, energy gap, and carrier motion."
+        - "[Band Structure](https://phet.colorado.edu/sims/html/band-structure/latest/band-structure_all.html) — Energy band diagrams of metals, semiconductors, and insulators."
+        - "[Conductivity](https://phet.colorado.edu/sims/html/conductivity/latest/conductivity_all.html) — Comparing electrical conduction in metallic conductors and doped materials."
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html) — Constructing diode-like switching circuits and basic logic gates."
+        - "[Ohm's Law](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html) — Investigating V-I characteristics and non-linear resistance profiles."
+        - "[Battery-Resistor Circuit](https://phet.colorado.edu/sims/html/battery-resistor-circuit/latest/battery-resistor-circuit_all.html) — Basic electrical component modeling and current regulation."
+
 categories:
     - electronics-and-communication
 weight: 10

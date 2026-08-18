@@ -1,5 +1,15 @@
 ---
 title: 'Atomic and Nuclear Physics'
+references:
+    links:
+        - "[Rutherford Scattering](https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_all.html) — Alpha particle scattering experiment proving the nuclear model of the atom."
+        - "[Models of the Hydrogen Atom](https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_all.html) — Comparing Thomson, Rutherford, Bohr, and de Broglie atomic models."
+        - "[Alpha Decay](https://phet.colorado.edu/sims/html/alpha-decay/latest/alpha-decay_all.html) — Simulating alpha radiation, nuclear tunnel effect, and radioactive half-life."
+        - "[Beta Decay](https://phet.colorado.edu/sims/html/beta-decay/latest/beta-decay_all.html) — Exploring beta emission and weak nuclear interaction in unstable nuclei."
+        - "[Radioactive Dating Game](https://phet.colorado.edu/sims/html/radioactive-dating-game/latest/radioactive-dating-game_all.html) — Practical application of radioactive decay and half-life calculations."
+        - "[Nuclear Fission](https://phet.colorado.edu/sims/html/nuclear-fission/latest/nuclear-fission_all.html) — Chain reaction dynamics and energy release in nuclear fission processes."
+        - "[Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html) — Building atomic nuclei with protons, neutrons, and electrons."
+
 categories:
     - atomic-and-nuclear-physics
 weight: 9

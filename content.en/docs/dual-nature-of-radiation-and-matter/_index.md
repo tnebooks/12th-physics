@@ -6,7 +6,12 @@ weight: 8
 summary: "This unit explains the dual nature of matter and radiation, starting with electron emission and the photoelectric effect along with its laws and early observations. It introduces the concept of energy quantization and practical devices like photocells."
 references:
     links:
-      - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
+        - "[Photoelectric Effect](https://phet.colorado.edu/sims/html/photoelectric/latest/photoelectric_all.html) — Simulation of photon-electron emission, stopping potential, and threshold frequency."
+        - "[Davisson-Germer: Electron Diffraction](https://phet.colorado.edu/sims/html/davisson-germer/latest/davisson-germer_all.html) — Experimental verification of de Broglie matter waves using electron diffraction."
+        - "[Quantum Wave Interference](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Demonstrating wave-particle duality of single photons and matter particles."
+        - "[Models of the Hydrogen Atom](https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_all.html) — Observation of photon absorption and emission during atomic level transitions."
+        - "[Blackbody Spectrum](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html) — Understanding Planck's quantum hypothesis and discrete packet energy distribution."
+        - "[Molecules and Light](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html) — Visualizing energy absorption by molecules when exposed to specific photon energies."
     videos:
         - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
     books:

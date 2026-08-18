@@ -78,6 +78,13 @@ references:
           title: "Thermoelectric Effect"
           desc: "Thermoelectric Effect"
           url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cfe74b90-4b30-11ef-8451-25c961e86150.mp4"
+    links:
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html) — Building DC circuits with resistors, batteries, ammeters, and voltmeters."
+        - "[DC Virtual Lab](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_all.html) — Virtual laboratory for non-ideal DC circuits and internal resistance analysis."
+        - "[Ohm's Law](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html) — Visualizing the direct relationship between voltage, current, and resistance."
+        - "[Resistance in a Wire](https://phet.colorado.edu/sims/html/resistance-in-a-wire/latest/resistance-in-a-wire_all.html) — Exploring how resistivity, wire length, and cross-sectional area affect resistance."
+        - "[Battery-Resistor Circuit](https://phet.colorado.edu/sims/html/battery-resistor-circuit/latest/battery-resistor-circuit_all.html) — Study of electron drift velocity, current flow, and thermal dissipation in resistors."
+        - "[Battery Voltage](https://phet.colorado.edu/sims/html/battery-voltage/latest/battery-voltage_all.html) — Analysis of chemical energy conversion and potential difference creation in a cell."
 
 categories:
     - current-electricity

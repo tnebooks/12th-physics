@@ -6,7 +6,13 @@ weight: 7
 summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
 references:
    links:
-      - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+        - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+        - "[Wave Interference](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html) — Simulation of Young's double-slit experiment, diffraction, and fringe patterns."
+        - "[Quantum Wave Interference](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Observing wave nature and diffraction patterns with photons and electrons."
+        - "[Wave on a String](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html) — Investigating wave phase, node formation, constructive and destructive interference."
+        - "[Fourier: Making Waves](https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_all.html) — Principles of wave superposition, harmonics, and complex waveform synthesis."
+        - "[Bending Light](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Demonstrating wavefront bending and speed variation across refractive boundaries."
+        - "[Waves Intro](https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_all.html) — Visualizing 2D wavefront propagation and interference bands."
    books:
         - b1:
             title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
