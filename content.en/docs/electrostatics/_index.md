@@ -3,7 +3,12 @@ title: Electrostatics
 weight: 1
 references:
     links:
-        - "https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html"
+        - "[PhET - Coulomb's Law](https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_all.html) — Simulation demonstrating Coulomb's Law and electrostatic force between charges."
+        - "[PhET - Charges and Fields](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html) — Interactive exploration of electric field vectors, lines, and equipotential surfaces."
+        - "[PhET - Capacitor Lab: Basics](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html) — Exploration of capacitance, plate area, plate separation, and charge storage."
+        - "[PhET - Balloons and Static Electricity](https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html) — Visualization of static charge transfer, attraction, repulsion, and polarization."
+        - "[PhET - John Travoltage](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_all.html) — Demonstration of triboelectric charging and sudden electrostatic discharge."
+        - "[PhET - Electric Field Hockey](https://phet.colorado.edu/sims/html/electric-field-hockey/latest/electric-field-hockey_all.html) — Interactive practice with electrostatic force vectors and trajectory of test charges."
     videos:
         - custom:
             title: "Fundamentals of Electromagnetism and Electric Charges"
