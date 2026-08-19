@@ -6,9 +6,89 @@ weight: 8
 summary: "இந்த அலகு பொருள் மற்றும் கதிர்வீச்சின் இரட்டை இயல்பை (dual nature) விளக்குகிறது. இதில் எலக்ட்ரான் வெளியேற்றம் (electron emission) மற்றும் photoelectric effect பற்றிய விதிகள் மற்றும் ஆரம்பக் கண்காணிப்புகள் அறிமுகப்படுத்தப்படுகின்றன. மேலும், ஆற்றல் அளவீடு (energy quantization) என்ற கருத்தையும், புகைப்பட மின்கலன் (photocell) போன்ற நடைமுறை பயன்பாடுகளையும் இது விளக்குகிறது."
 references:
     links:
-      - "[Photoelectric Effect](https://phet.colorado.edu/en/simulations/photoelectric)"
+        - "[ஒளிமின் விளைவு](https://phet.colorado.edu/sims/html/photoelectric/latest/photoelectric_all.html) — Simulation of photon-electron emission, stopping potential, and threshold frequency."
+        - "[டேவிசன்-ஜெர்மர்: எலக்ட்ரான் விளிம்பு விளைவு](https://phet.colorado.edu/sims/html/davisson-germer/latest/davisson-germer_all.html) — Experimental verification of de Broglie matter waves using electron diffraction."
+        - "[குவாண்டம் அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Demonstrating wave-particle duality of single photons and matter particles."
+        - "[ஹைட்ரஜன் அணுவின் மாதிரிகள்](https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_all.html) — Observation of photon absorption and emission during atomic level transitions."
+        - "[கரும்பொருள் நிறமாலை](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html) — Understanding Planck's quantum hypothesis and discrete packet energy distribution."
+        - "[மூலக்கூறுகளும் ஒளியும்](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html) — Visualizing energy absorption by molecules when exposed to specific photon energies."
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+      - custom:
+          title: "எலக்ட்ரான் உமிழ்வு"
+          desc: "வானியல் தொலைநோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bec4e540-48e9-11f0-8864-89606542e85c.mp4"
+      - custom:
+          title: "பணிச் சார்பு"
+          desc: "பணிச் சார்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1912701057_V1_1080.mp4"
+      - custom:
+          title: "எலக்ட்ரான் உமிழ்வின் வகைகள், பகுதி-1"
+          desc: "வெப்ப அயனி உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5c9c8c50-4db8-11ef-9f17-1bef262bf9f1.mp4"
+      - custom:
+          title: "எலக்ட்ரான் உமிழ்வின் வகைகள், பகுதி-2"
+          desc: " இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e5dc080-ad83-11ef-892b-657620940313.mp4"
+      - custom:
+          title: "லெனார்டின் உற்றுநோக்கல்கள்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b808d270-a574-11ef-a5db-bfd04a2ae78d.mp4"
+      - custom:
+          title: "ஒளிமின் மின்னோட்டத்தில் படுகின்ற ஒளியின் செறிவின் தாக்கம்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/49325bcb-eadd-48a1-ae33-0664d972b4d6.mp4"
+      - custom:
+          title: "ஒளிமின் விளைவில் மின்னழுத்த வேறுபாட்டின் தாக்கம்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/34a4d9c0-a988-11ef-8d5f-13de2138d218.mp4"
+      - custom:
+          title: "அதிர்வு அதிர்வெண்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c1019140-edab-11ee-84f2-6b2c7edc24d0.mp4"
+      - custom:
+          title: "ஒளிமின் விளைவின் விதிகள்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f2b6670-abd2-11ef-bde5-fd8417af0d89.mp4"
+      - custom:
+          title: "செவ்வியல் அலைக் கோட்பாட்டின் தோல்விகள்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae98da70-7efe-11ee-a70e-6f5ee9e3d1cd.mp4"
+      - custom:
+          title: "ஒளியின் துகள் தன்மை - ஐன்ஸ்டீனின் விளக்கம்"
+          desc: "இரண்டாம் நிலை உமிழ்வு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bebce8a0-ec0f-11ee-b147-379909815682.mp4"
+      - custom:
+          title: "ஒளிமின் விளைவு - கணக்குகள்"
+          desc: "ஐன்ஸ்டீனின் ஒளிமின் சமன்பாட்டிற்கான விளக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/af15ec60-b6ff-11ef-957f-5115e0c88e57.mp4"
+      - custom:
+          title: "அலை - துகள் இருமை, பகுதி - 1"
+          desc: "அலை - துகள் இருமை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6b7de00-4cfc-11f0-90f5-15198e1061d6.mp4"
+      - custom:
+          title: "அலை - துகள் இருமை, பகுதி - 2"
+          desc: "அலை - துகள் இருமை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6f7bb360-7850-11f0-8d33-d5f4795dbe76.mp4"
+      - custom:
+          title: "பொருள் அலைகள்"
+          desc: "அலை - துகள் இருமை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b413e80-ae44-11ef-a8ce-896d2b24244d.mp4"
+      - custom:
+          title: "டி பிராய் அலைநீளம் - கணக்குகள்"
+          desc: "அலை - துகள் இருமை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71956c30-b08d-11ef-a58f-e9b73ed95bb2.mp4"
+      - custom:
+          title: "எக்ஸ் - கதிர்கள் அறிமுகம்"
+          desc: "அலை - துகள் இருமை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e87c8350-51b5-11ef-92a4-6b384a28ed15.mp4"
+      - custom:
+          title: "எக்ஸ் - கதிர் நிறமாலைகள், பகுதி - 1"
+          desc: "எக்ஸ் - கதிர் நிறமாலைகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7a6a6680-ac96-11ef-ac50-1932402af8a1.mp4"
+      - custom:
+          title: "எக்ஸ் - கதிர் நிறமாலைகள், பகுதி - 2"
+          desc: "எக்ஸ் - கதிர் நிறமாலைகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6be10290-60b9-11f0-b124-9176d5e7d4a5.mp4"
     books:
         - b1:
            title: Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited

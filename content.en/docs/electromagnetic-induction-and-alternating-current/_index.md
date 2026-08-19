@@ -115,7 +115,13 @@ references:
           title: "Lc Oscillations And Simple Harmonic Oscillations"
           desc: "Lc Oscillations And Simple Harmonic Oscillations"
           url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/020955d2-3612-428c-ac5c-e7149d23b51b.mp4"
-
+    links:
+        - "[Faraday's Law](https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_all.html) — Demonstration of Faraday's Law and Lenz's law with moving bar magnets."
+        - "[Faraday's Electromagnetic Lab](https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html) — Experimenting with pickup coils, electromagnets, transformers, and AC supplies."
+        - "[Generator](https://phet.colorado.edu/sims/html/generator/latest/generator_all.html) — Simulating mechanical energy conversion to AC voltage via magnetic induction."
+        - "[Circuit Construction Kit: AC](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html) — Building RLC circuits, studying phase relations, and measuring AC signals."
+        - "[AC Virtual Lab](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html) — Virtual lab for alternating current analysis with inductors and capacitors."
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html) — Comparing DC transient responses with inductive and capacitive components."
 categories:
     - electromagnetic-induction-and-alternating-current
 summary: "This unit explains the principles of electromagnetic induction, including how induced emf is generated and its direction using Lenz’s law. It covers important concepts such as eddy currents, self and mutual induction, and different methods of producing induced emf."

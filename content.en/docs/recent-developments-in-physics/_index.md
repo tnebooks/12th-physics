@@ -1,5 +1,14 @@
 ---
 title: 'Recent Developments in Physics'
+references:
+    links:
+        - "[Quantum Tunneling](https://phet.colorado.edu/sims/html/quantum-tunneling/latest/quantum-tunneling_all.html) — Quantum wave packet penetration and tunneling relevant to nanotechnology."
+        - "[Optical Tweezers](https://phet.colorado.edu/sims/html/optical-tweezers/latest/optical-tweezers_all.html) — Application of laser radiation pressure in nanosciences and biophysics."
+        - "[Simplified MRI](https://phet.colorado.edu/sims/html/mri/latest/mri_all.html) — Application of nuclear magnetic resonance principles in medical imaging."
+        - "[Gravity and Orbits](https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_all.html) — Gravitational dynamics and orbital mechanics for satellite applications."
+        - "[My Solar System](https://phet.colorado.edu/sims/html/my-solar-system/latest/my-solar-system_all.html) — Multi-body orbital mechanics and astrophysics simulation."
+        - "[States of Matter: Basics](https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_all.html) — Microscopic phase transitions and thermal state changes in modern materials."
+
 categories:
     - recent-developments-in-physics
 weight: 11
