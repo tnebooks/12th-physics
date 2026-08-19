@@ -5,9 +5,196 @@ categories:
 weight: 7
 summary: "This unit explains the wave nature of light through phenomena such as interference, diffraction, and polarization. It covers Huygens' principle and demonstrates how wave optics provides a deeper understanding of the behavior of light."
 references:
-   links:
-      - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
-   books:
+    videos:
+      - custom:
+          title: "Theories of Light - Part 1"
+          desc: "refractive index"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9500c930-a16c-11ed-a6c8-dbcea8aac321.mp4"
+      - custom:
+          title: "Theories of Light- Part 2"
+          desc: "refractive index"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4de444f0-c26e-11ed-aa65-193eb81520d6.mp4"
+      - custom:
+          title: "Huygens' Principle"
+          desc: "refractive index"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d7438400-a30a-11ed-a069-2ba2310537a7.mp4"
+      - custom:
+          title: "Wavefronts"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ba5e2e80-bdb8-11ed-879a-c7376af3c089.mp4"
+      - custom:
+          title: "Proof for laws of reflection using huygen's principle"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9f33fd02f7614b4db979c8d96fdd07aa.mp4"
+      - custom:
+          title: "Proof for laws of refraction using Huygens' Principle"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/12e2e3f0-8c38-11ed-ac54-a5f6cb8f32d1.mp4"
+      - custom:
+          title: "Interference"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9240c720-0159-11ee-a274-17c521ebc81c.mp4"
+      - custom:
+          title: "PHASE AND PATH DIFFERENCE"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f7557ce0-a0be-11ef-bd9d-f56fbadba3cf.mp4"
+      - custom:
+          title: "Coherent sources"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3e75fe00-7471-11ed-aa2e-65788a18a689.mp4"
+      - custom:
+          title: "Double slit as coherent sources"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/953ee5b4-b1bb-43b5-b127-88b061a2619b.mp4"
+      - custom:
+          title: "Young's double slit experiment"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cd8aee0-bdba-11ed-879a-c7376af3c089.mp4"
+      - custom:
+          title: "Interference in thin films"
+          desc: "Huygens' Principle"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5463e4b0-7416-11ef-b249-7779aeaa94bd.mp4"
+      - custom:
+          title: "Interference in thin films - Problems"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7a744ad0-741d-11ef-bfd0-d9859d3621d1.mp4"
+      - custom:
+          title: "Diffraction - Fresnel and Fraunhofer Diffraction"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/93ef05e0-97ba-11ed-bd17-5b7a87a82371.mp4"
+      - custom:
+          title: "Diffraction at single slit"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0acb39a0-9c79-11ed-aebe-719cf62779ad.mp4"
+      - custom:
+          title: "Discussion on first minimum"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1e8c07a6-2d06-4bcb-824e-10ea642f6091.mp4"
+      - custom:
+          title: "Fresnel’s Distance"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/02f53a8a-f272-45d7-99c3-bc922c49b436.mp4"
+      - custom:
+          title: "Difference between interference and Diffraction"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7a104a46-8405-4dd8-a516-33f9d96c17a6.mp4"
+      - custom:
+          title: "Diffraction in grating"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/27de09d0-a642-11ef-901a-bdfec983a8db.mp4"
+      - custom:
+          title: "Experiment to determine wavelength of Monochromatic light & White Light"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/61ceb750-f984-11ed-8ddb-899932d0ef8a.mp4"
+      - custom:
+          title: "Resolution"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ae00188-f308-4663-9833-15179bed148d.mp4"
+      - custom:
+          title: "Polarisation"
+          desc: "Interference in thin films"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2638e300-c937-11ed-bb3f-dfd9de2d83eb.mp4"
+      - custom:
+          title: "PC1_Plane polarised light"
+          desc: "Plane polarised light"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/08a3ebb0-419f-11ee-ae14-6998607bf38b.mp4"
+      - custom:
+          title: "Polarisation Techniques"
+          desc: "Polarisation Techniques"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/dd6e2c50-c938-11ed-bb3f-dfd9de2d83eb.mp4"
+      - custom:
+          title: "Polarisation by selective absorption"
+          desc: "polarisation by selective absorption"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fee2f100-79b2-11ef-b1f3-21832db861a6.mp4"
+      - custom:
+          title: "Malus’ Law"
+          desc: "polarisation by selective absorption"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b16ea580-7bcf-11ef-a9f4-f3349fb31872.mp4"
+      - custom:
+          title: "Malus’ Law - Numericals"
+          desc: "polarisation by selective absorption"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fd8be170-7d60-11ef-b842-cd22c38443a6.mp4"
+      - custom:
+          title: "Polarisation by Reflection"
+          desc: "polarisation by selective absorption"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7ebe3d30-7bf7-11ef-8c19-11e625111c01.mp4"
+      - custom:
+          title: "Brewster’s Law -Numericals"
+          desc: "Brewster’s Law -Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9aef1b80-8d56-11ef-a274-9f6dbe22f1bd.mp4"
+      - custom:
+          title: "Pile of plates"
+          desc: "Pile of plates"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6c3cd0c0-8d5b-11ef-a456-f51f706b5747.mp4"
+      - custom:
+          title: "Polarisation by double refraction"
+          desc: "Polarisation by double refraction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e0bcd3a0-912a-11ef-a993-3b3999b1cebe.mp4"
+      - custom:
+          title: "Nicol Prism"
+          desc: "Polarisation by double refraction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b89451a0-9a94-11ef-b4db-47cd9696afdf.mp4"
+      - custom:
+          title: "Polarisation by Scattering"
+          desc: "Polarisation by scattering"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8e9d3f20-9200-11ef-bdf3-ef0c73eb3a69.mp4"
+      - custom:
+          title: "Simple microscope - near focusing point"
+          desc: "Polarisation by scattering"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/24d85260-9d17-11ef-ad28-8d53c2f90af0.mp4"
+      - custom:
+          title: "Resolving power of microscope"
+          desc: "Polarisation by scattering"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/14d4513f-d558-4321-b28d-bef1f212532e.mp4"
+      - custom:
+          title: "Resolving power of telescope"
+          desc: "Resolving power of telescope"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/507f24b0-5db1-4105-8a49-9deeb2e0073e.mp4"
+      - custom:
+          title: "Resolving power, Resolution - Numericals"
+          desc: "Resolving power of telescope"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/717adc98-5bb7-4edb-b9bf-6c187e541112.mp4"
+      - custom:
+          title: "Compound Microscope"
+          desc: "Resolving power of telescope"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b9fbf5c7-d12b-45ed-a5d8-63be2fe7e698.mp4"
+      - custom:
+          title: "Magnification in Compound Microscope"
+          desc: "Magnification of compound microscope"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1d08b205-ef22-41ba-9b6b-c91ebfab65b4.mp4"
+      - custom:
+          title: "Compound Microscope - Numericals"
+          desc: "Compound microscope -Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1985e90a-a22f-46bf-a1ec-4b657e7a38cd.mp4"
+      - custom:
+          title: "Astronomical Telescope"
+          desc: "Compound microscope -Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c3de7749-ba5e-4a2d-86d8-a885b28092fe.mp4"
+      - custom:
+          title: "Astronomical Telescope -Problems"
+          desc: "Astronomical telescope - Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/66c186bc-7196-40dd-a2ab-a30304280bc4.mp4"
+      - custom:
+          title: "Reflecting Telescope"
+          desc: "Astronomical telescope - Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/84054637-c3c2-42ab-a1c3-968eadac8cb9.mp4"
+      - custom:
+          title: "Spectrometer"
+          desc: "Astronomical telescope - Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1442d1a5-79b3-498f-8c07-2b31e9e84716.mp4"
+      - custom:
+          title: "Capacitor in Series and Parallel"
+          desc: "Astronomical telescope - Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/087f7e90-102d-11ee-8bff-cf2c5d3a2b6f.mp4"
+    links:
+        - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
+        - "[Wave Interference](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html) — Simulation of Young's double-slit experiment, diffraction, and fringe patterns."
+        - "[Quantum Wave Interference](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Observing wave nature and diffraction patterns with photons and electrons."
+        - "[Wave on a String](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html) — Investigating wave phase, node formation, constructive and destructive interference."
+        - "[Fourier: Making Waves](https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_all.html) — Principles of wave superposition, harmonics, and complex waveform synthesis."
+        - "[Bending Light](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Demonstrating wavefront bending and speed variation across refractive boundaries."
+        - "[Waves Intro](https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_all.html) — Visualizing 2D wavefront propagation and interference bands."
+    books:
         - b1:
             title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
             url: https://www.amazon.in/Fundamentals-Optics-Francis-Jenkins/dp/1259002292

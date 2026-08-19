@@ -115,6 +115,13 @@ references:
           title: "LC அலைவுகள் மற்றும் தனிச் சீரிசை அலைவுகள்"
           desc: "LC அலைவுகள் மற்றும் தனிச் சீரிசை அலைவுகள்"
           url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/020955d2-3612-428c-ac5c-e7149d23b51b.mp4"
+    links:
+        - "[ஃபாரடே விதி](https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_all.html) — Demonstration of Faraday's Law and Lenz's law with moving bar magnets."
+        - "[ஃபாரடேயின் மின்காந்த ஆய்வகம்](https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html) — Experimenting with pickup coils, electromagnets, transformers, and AC supplies."
+        - "[மின்னியற்றி](https://phet.colorado.edu/sims/html/generator/latest/generator_all.html) — Simulating mechanical energy conversion to AC voltage via magnetic induction."
+        - "[சுற்றமைப்பு அமைப்பு கருவி: மாறுதிசை மின்னோட்டம்](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac/latest/circuit-construction-kit-ac_all.html) — Building RLC circuits, studying phase relations, and measuring AC signals."
+        - "[மாறுதிசை மின்னோட்ட மெய்நிகர் ஆய்வகம்](https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit-construction-kit-ac-virtual-lab_all.html) — Virtual lab for alternating current analysis with inductors and capacitors."
+        - "[சுற்றமைப்பு அமைப்பு கருவி: நேர்மின்னோட்டம்](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html) — Comparing DC transient responses with inductive and capacitive components."
 
 categories:
     - electromagnetic-induction-and-alternating-current

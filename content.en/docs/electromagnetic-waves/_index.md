@@ -5,6 +5,27 @@ categories:
 weight: 5
 summary: "This unit explains the nature and production of electromagnetic waves, describing how oscillating electric and magnetic fields propagate through space. It covers the properties of electromagnetic waves, their spectrum ranging from radio waves to gamma rays, and their various applications in science and technology."
 references:
+    videos:
+      - custom:
+          title: "Introduction to Electromagnetic waves"
+          desc: "Coulomb's law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cc177480-c02b-11ee-af2f-fdcbaaad2904.mp4"
+      - custom:
+          title: "Maxwell's Equation in Integral Form"
+          desc: "Coulomb's law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/763fa390-c4de-11ee-9594-2d889fff859d.mp4"
+      - custom:
+          title: "Displacement current and Maxwell's correction to Ampere's circuital law (5.1.1)"
+          desc: "1. Gauss Law, 2. Faradey's law of Electromagnetic Induction, 3. Ampere Circuit Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/51e347e0-cf69-11ef-bbc0-a9743456f3b0.mp4"
+      - custom:
+          title: "Production of electromagnetic waves - Hertz experiment"
+          desc: "1. Gauss Law, 2. Faradey's law of Electromagnetic Induction, 3. Ampere Circuit Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c0a57590-5330-11f0-831a-cdebd11144cb.mp4"
+      - custom:
+          title: "Sources of Electromagnetic Waves"
+          desc: "1. Gauss Law, 2. Faradey's law of Electromagnetic Induction, 3. Ampere Circuit Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1a883de0-8ac9-11ee-8273-fd270c4bddab.mp4"
     links:
         - "[PhET: Radio Waves & Electromagnetic Fields](https://phet.colorado.edu/en/simulations/radio-waves)"
         - "[PhET: Microwaves](https://phet.colorado.edu/en/simulation/microwaves)"

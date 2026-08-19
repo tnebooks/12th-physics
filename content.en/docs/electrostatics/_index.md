@@ -2,215 +2,212 @@
 title: Electrostatics
 weight: 1
 references:
+    links:
+        - "[Coulomb's Law](https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_all.html) — Simulation demonstrating Coulomb's Law and electrostatic force between charges."
+        - "[Charges and Fields](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html) — Interactive exploration of electric field vectors, lines, and equipotential surfaces."
+        - "[Capacitor Lab: Basics](https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_all.html) — Exploration of capacitance, plate area, plate separation, and charge storage."
+        - "[Balloons and Static Electricity](https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_all.html) — Visualization of static charge transfer, attraction, repulsion, and polarization."
+        - "[John Travoltage](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_all.html) — Demonstration of triboelectric charging and sudden electrostatic discharge."
+        - "[Electric Field Hockey](https://phet.colorado.edu/sims/html/electric-field-hockey/latest/electric-field-hockey_all.html) — Interactive practice with electrostatic force vectors and trajectory of test charges."
     videos:
-        - custom:
-            title: "Introduction"
-            desc: "Introduction"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d718950-24bf-11ef-b2b7-8b0d22706ed5.mp4"
+      - custom:
+          title: "Electric Charge - Historical Background"
+          desc: "Electric Charge - Historical Background"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/70e56da0-d70f-11ef-9591-cb3e87f486ed.mp4"
+      - custom:
+          title: "Electric charge and its basic properties"
+          desc: "Electric charge and its basic properties"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/448639a0-d71f-11ef-878c-25d933947310.mp4"
+      - custom:
+          title: "Coulomb's law"
+          desc: "Coulomb's law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48beaeb0-0158-11ee-a274-17c521ebc81c.mp4"
+      - custom:
+          title: "Coulomb’s Law"
+          desc: "Coulomb’s Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6d49460-dbbe-11ee-8390-0b2e989e1553.mp4"
+      - custom:
+          title: "Coulomb’s Law - II"
+          desc: "Coulomb’s Law - II"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ec289a0-dd4b-11ee-a227-7d4813a2f7d2.mp4"
+      - custom:
+          title: "Coulomb’s Law - III"
+          desc: "Coulomb’s Law - III"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c30110d0-e070-11ee-a851-f5ca18e9dc7a.mp4"
+      - custom:
+          title: "PC13_Coulomb's law"
+          desc: "PC13_Coulomb's law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d293dd0-0c71-11ef-8ad3-81e4b54bf3cd.mp4"
+      - custom:
+          title: "Electric field (Part 2)"
+          desc: "Electric field (Part 2)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a8273710-e6b7-11ee-b6c9-1dfcf713672a.mp4"
+      - custom:
+          title: "Electric field (Part 1)"
+          desc: "Electric field (Part 1)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6dfdbab0-eb75-11ee-96fd-5d33c5fcace2.mp4"
+      - custom:
+          title: "Motion of a charged particle in a uniform Electric field - I"
+          desc: "Motion of a charged particle in a uniform Electric field - I"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5357ca00-e77b-11ee-beac-7d1e5813c4f6.mp4"
+      - custom:
+          title: "Motion of a charged particle in a uniform Electric field - II"
+          desc: "Motion of a charged particle in a uniform Electric field - II"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f6c4bd0-e84e-11ee-87f2-2b369e7440d7.mp4"
+      - custom:
+          title: "Electric field due to continuous charge distribution"
+          desc: "Electric field due to continuous charge distribution"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cb91830-f5a6-11ee-b348-13c1d950659a.mp4"
+      - custom:
+          title: "Electric field due to Linear charge distribution"
+          desc: "Electric field due to Linear charge distribution"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8abbfe40-f729-11ee-a053-83c53da4eab7.mp4"
+      - custom:
+          title: "Electric field due to continuous charge distribution in a ring"
+          desc: "Electric field due to continuous charge distribution in a ring"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f0214580-fb28-11ee-9c47-d35d244d0a95.mp4"
+      - custom:
+          title: "Electric field lines"
+          desc: "Electric field lines"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6864060-d971-11ef-8800-8f665f1f5071.mp4"
+      - custom:
+          title: "PC8_Electric dipole and its properties"
+          desc: "PC8_Electric dipole and its properties"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
+      - custom:
+          title: "Electric dipole and its properties"
+          desc: "Electric dipole and its properties"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/65c14540-fcb1-11ee-a087-9302ccb53342.mp4"
+      - custom:
+          title: "Electric field due to an electric dipole"
+          desc: "Electric field due to an electric dipole"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5bbe2ac0-0604-11ef-a231-2f490913dbea.mp4"
+      - custom:
+          title: "PC11_Torque experienced by an electric dipole in the uniform electric field"
+          desc: "PC11_Torque experienced by an electric dipole in the uniform electric field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/421782e0-d56e-11ee-9e1b-55665d1545f6.mp4"
+      - custom:
+          title: "Torque experienced by an electric dipole in the uniform electric field"
+          desc: "Torque experienced by an electric dipole in the uniform electric field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
+      - custom:
+          title: "Electrostatic Potential Energy"
+          desc: "Electrostatic Potential Energy"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ca13dbb0-fabf-11ed-8a5f-950b035dec29.mp4"
+      - custom:
+          title: "Electrostatic potential due to a point charge"
+          desc: "Electrostatic potential due to a point charge"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
+      - custom:
+          title: "Electric potential due to collection of charges"
+          desc: "Electric potential due to collection of charges"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
+      - custom:
+          title: "Electrostatic potential at a point due to an electric dipole"
+          desc: "Electrostatic potential at a point due to an electric dipole"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
+      - custom:
+          title: "Equipotential surfaces – Part 1"
+          desc: "Equipotential surfaces – Part 1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
+      - custom:
+          title: "Relation between Electric field and Potential"
+          desc: "Relation between Electric field and Potential"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
+      - custom:
+          title: "Electrostatic potential energy for collection of point charges"
+          desc: "Electrostatic potential energy for collection of point charges"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
+      - custom:
+          title: "PC16_Electrostatic potential energy of a dipole in a uniform electric field"
+          desc: "PC16_Electrostatic potential energy of a dipole in a uniform electric field"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
+      - custom:
+          title: "Gauss Law"
+          desc: "Gauss Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71666e60-1d8c-11ef-982e-f92705a8e9a3.mp4"
+      - custom:
+          title: "Gauss Law - Problems"
+          desc: "Gauss Law - Problems"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bb709040-2709-11ef-8dd6-bf8ed3d7568e.mp4"
+      - custom:
+          title: "Introduction to Gauss Law"
+          desc: "Introduction to Gauss Law"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9165d5c0-cabb-11ef-b00a-53465a814d4b.mp4"
+      - custom:
+          title: "Applications of Gauss’s law part -1"
+          desc: "Applications of Gauss’s law part -1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/56da6c8c-9201-4d62-89b7-edab1d982a99.mp4"
+      - custom:
+          title: "Applications of Gauss’s law - Part 2"
+          desc: "Applications of Gauss’s law - Part 2"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8b04dfa-3e26-47c9-ac8e-70517ac9695b.mp4"
+      - custom:
+          title: "Conductors at Electrostatic Equilibrium – Properties (Part 2)"
+          desc: "Conductors at Electrostatic Equilibrium – Properties (Part 2)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96e4a300-c8ef-11ef-922a-ffd02f7f3b2c.mp4"
+      - custom:
+          title: "Conductors at Electrostatic Equilibrium – Properties (Part 1)"
+          desc: "Conductors at Electrostatic Equilibrium – Properties (Part 1)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2673e2c0-d727-11ef-b16f-63a37bb24111.mp4"
+      - custom:
+          title: "Electrostatic Shielding"
+          desc: "Electrostatic Shielding"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d7fc270-dc90-11ef-a08b-3dfcd3e8fd17.mp4"
+      - custom:
+          title: "Electrostatic induction"
+          desc: "Electrostatic induction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bddd8b60-c206-11ef-89f8-b56b3657b460.mp4"
+      - custom:
+          title: "Dielectrics or insulators"
+          desc: "Dielectrics or insulators"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e1dee90-f272-11ef-94d4-798a36bd4a22.mp4"
+      - custom:
+          title: "Energy stored in the capacitor"
+          desc: "Energy stored in the capacitor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/03f7f210-f5ed-11ef-b2d1-a9c604108134.mp4"
+      - custom:
+          title: "PC141_Applications of Capacitors"
+          desc: "PC141_Applications of Capacitors"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
+      - custom:
+          title: "Effect of dielectrics in capacitors"
+          desc: "Effect of dielectrics in capacitors"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c3c360-fb61-11ef-a95a-13114375fc0c.mp4"
+      - custom:
+          title: "Effect of dielectrics in capacitors Problems -1"
+          desc: "Effect of dielectrics in capacitors Problems -1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c457bf0-ffcf-11ef-8f38-f300d82546c2.mp4"
+      - custom:
+          title: "Capacitor in series and parallel"
+          desc: "Capacitor in series and parallel"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96aeec0-f5ea-11ef-b2d1-a9c604108134.mp4"
+      - custom:
+          title: "Capacitor in series and parallel - Problems"
+          desc: "Capacitor in series and parallel - Problems"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
+      - custom:
+          title: "Distribution of charges in a conductor"
+          desc: "Distribution of charges in a conductor"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
+      - custom:
+          title: "Action of points or Corona discharge"
+          desc: "Action of points or Corona discharge"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
+      - custom:
+          title: "VAN DE GRAAFF GENERATOR"
+          desc: "VAN DE GRAAFF GENERATOR"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"
 
-        - custom:
-            title: "Observation And Inferences"
-            desc: "Observation And Inferences"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/70e56da0-d70f-11ef-9591-cb3e87f486ed.mp4"
-
-        - custom:
-            title: "Electrically Neutral"
-            desc: "Electrically Neutral"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/448639a0-d71f-11ef-878c-25d933947310.mp4"
-        - custom:
-            title: "Coulomb's Law"
-            desc: "Coulomb's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48beaeb0-0158-11ee-a274-17c521ebc81c.mp4"
-        - custom:
-            title: "Coulomb's Law"
-            desc: "Coulomb's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6d49460-dbbe-11ee-8390-0b2e989e1553.mp4"
-        - custom:
-            title: "Coulomb's Law (part-2)"
-            desc: "Coulomb's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ec289a0-dd4b-11ee-a227-7d4813a2f7d2.mp4"
-        - custom:
-            title: "Coulomb's Law (part-3)"
-            desc: "Coulomb's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c30110d0-e070-11ee-a851-f5ca18e9dc7a.mp4"
-        - custom:
-            title: "Coulomb's Law"
-            desc: "Coulomb's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d293dd0-0c71-11ef-8ad3-81e4b54bf3cd.mp4"
-        - custom:
-            title: "Electric Field (part-2)"
-            desc: "Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a8273710-e6b7-11ee-b6c9-1dfcf713672a.mp4"
-        - custom:
-            title: "Electric Field (part-1)"
-            desc: "Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6dfdbab0-eb75-11ee-96fd-5d33c5fcace2.mp4"
-        - custom:
-            title: "Uniform And Non-uniform Electric Field (part-1)"
-            desc: "Uniform And Non-uniform Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5357ca00-e77b-11ee-beac-7d1e5813c4f6.mp4"
-        - custom:
-            title: "Uniform And Non-uniform Electric Field (part-2)"
-            desc: "Uniform And Non-uniform Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f6c4bd0-e84e-11ee-87f2-2b369e7440d7.mp4"
-        - custom:
-            title: "Electric field due to continuous charge distribution"
-            desc: "Electric field due to continuous charge distribution"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cb91830-f5a6-11ee-b348-13c1d950659a.mp4"
-        - custom:
-            title: "Electric field due to Linear charge distribution"
-            desc: "Electric field due to Linear charge distribution"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8abbfe40-f729-11ee-a053-83c53da4eab7.mp4"
-        - custom:
-            title: "Electric field due to continuous charge distribution in a ring"
-            desc: "Electric field due to continuous charge distribution in a ring"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f0214580-fb28-11ee-9c47-d35d244d0a95.mp4"
-        - custom:
-            title: "Properties Of Electric Field Lines"
-            desc: "Properties Of Electric Field Lines"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6864060-d971-11ef-8800-8f665f1f5071.mp4"
-        - custom:
-            title: "Electric Dipole And Its Properties "
-            desc: "Electric Dipole And Its Properties"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
-        - custom:
-            title: "Electric Dipole And Its Properties (part-1)"
-            desc: "Electric Dipole And Its Properties"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/65c14540-fcb1-11ee-a087-9302ccb53342.mp4"
-        - custom:
-            title: "Electric Filed Due To A Dipole At A Point On The Axial Line - Diagram Explanation"
-            desc: "Electric Filed Due To A Dipole At A Point On The Axial Line - Diagram Explanation"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5bbe2ac0-0604-11ef-a231-2f490913dbea.mp4"
-        - custom:
-            title: "Torque Experienced By An Electric Dipole In The Uniform Electric Field"
-            desc: "Torque Experienced By An Electric Dipole In The Uniform Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/421782e0-d56e-11ee-9e1b-55665d1545f6.mp4"
-        - custom:
-            title: "Torque experienced by an electric Dipole"
-            desc: "Torque Experienced By An Electric Dipole In The Uniform Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
-        - custom:
-            title: "Electrostatic Potential Enrgy"
-            desc: "Electrostatic Potential Enrgy"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ca13dbb0-fabf-11ed-8a5f-950b035dec29.mp4"
-        - custom:
-            title: "Elestrostatic Potential And Potential Difference"
-            desc: "Elestrostatic Potential And Potential Difference"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f290be0-0944-11ef-ab0c-9964d2f12e77.mp4"
-        - custom:
-            title: "Electrostatic Potential Energy Of A Dipole In A Uniform Electric Field"
-            desc: "Electrostatic Potential Energy Of A Dipole In A Uniform Electric Field"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
-        - custom:
-            title: "Electric Potential Due To A Point Charge"
-            desc: "Electric Potential Due To A Point Charge"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
-        - custom:
-            title: "Electric Potential Due To  Collection Of Charges"
-            desc: "Electric Potential Due To  Collection Of Charges"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
-        - custom:
-            title: "Electrostatic Potential  At A Point Due To An Electric Dipole"
-            desc: "Electrostatic Potential  At A Point Due To An Electric Dipole"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
-        - custom:
-            title: "Equipotential Surface (part -1)"
-            desc: "Equipotential Surface"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
-        - custom:
-            title: "Equipotential Surface (part -2)"
-            desc: "Equipotential Surface"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b56fabf0-1db7-11ef-81b4-6bfa0b2f6339.mp4"
-        - custom:
-            title: "Relation Between Electric Field And  Potential"
-            desc: "Relation Between Electric Field And  Potential"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
-        - custom:
-            title: "Electrostatic Potential Energy For Collection Of Point Charges"
-            desc: "Electrostatic Potential Energy For Collection Of Point Charges"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
-        - custom:
-            title: "Gauss Law "
-            desc: "Gauss Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71666e60-1d8c-11ef-982e-f92705a8e9a3.mp4"
-        - custom:
-            title: "Gauss Law - JEE main problems" 
-            desc: "Gauss Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bb709040-2709-11ef-8dd6-bf8ed3d7568e.mp4"
-        - custom:
-            title: "Gauss's Law - introduction"
-            desc: "Gauss's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9165d5c0-cabb-11ef-b00a-53465a814d4b.mp4"
-        - custom:
-            title: "Application of gauss law (part -1)"
-            desc: "Gauss's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/56da6c8c-9201-4d62-89b7-edab1d982a99.mp4"
-        - custom:
-            title: "Application of gauss law (part - 2)"
-            desc: "Gauss's Law"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8b04dfa-3e26-47c9-ac8e-70517ac9695b.mp4"
-        - custom:
-            title: "Electric Potental Energy"
-            desc: "Electric Potental Energy"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/03f7f210-f5ed-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "Capacitor In A Camera"
-            desc: "Capacitor In A Camera"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
-        - custom:
-            title: "Effect Of Dielectrics In Capacitors"
-            desc: "Effect Of Dielectrics In Capacitance Of A Capacitor When It  Is Disconnected From The Battery"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c3c360-fb61-11ef-a95a-13114375fc0c.mp4"
-        - custom:
-            title: "Effect Of Dielectrics In Capacitors problems 1"
-            desc: "Effect Of Dielectrics In Capacitance Of A Capacitor When It  Is Disconnected From The Battery"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c457bf0-ffcf-11ef-8f38-f300d82546c2.mp4"
-        - custom:
-            title: "Capacitor In Series"
-            desc: "Capacitor In Series"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96aeec0-f5ea-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "Capacitor In Series And Parallel - Problems"
-            desc: "Capacitor In Series And Parallel - Problems"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "Distribution Of Charges In A Conductor"
-            desc: "Distribution Of Charges In A Conductor"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
-        - custom:
-            title: "Action Of Points Or Corona Discharge"
-            desc: "Action Of Points Or Corona Discharge"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
-        - custom:
-            title: "Van De Graaff Generator - Principle And Construction"
-            desc: "Van De Graaff Generator - Principle And Construction"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"
-        - custom:
-            title: "Conductors And Dielectrics in properties part -1"
-            desc: "Conductors And Dielectrics"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96e4a300-c8ef-11ef-922a-ffd02f7f3b2c.mp4"
-        - custom:
-            title: "Conductors And Dielectrics in properties part -2"
-            desc: "Conductors And Dielectrics"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2673e2c0-d727-11ef-b16f-63a37bb24111.mp4"
-        - custom:
-            title: "Electrostatic Shielding"
-            desc: "Electrostatic Shielding"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d7fc270-dc90-11ef-a08b-3dfcd3e8fd17.mp4"
-        - custom:
-            title: "Electrostatic Induction"
-            desc: "Electrostatic Induction"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bddd8b60-c206-11ef-89f8-b56b3657b460.mp4"
-        - custom:
-            title: "Dielectrics Or Insulators"
-            desc: "Dielectrics Or Insulators"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e1dee90-f272-11ef-94d4-798a36bd4a22.mp4"
+    books:
+        - b1:
+            title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
+            url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
 
 categories:
     - electrostatics
 summary: "This unit introduces the fundamentals of electricity and magnetism, starting with their historical development and real-life applications of electrostatic forces. It covers key concepts such as Coulomb’s law, the superposition principle, and the idea of an electric field, including how to calculate it for different charge systems."
 ---
-
 ### 1.1INTRODUCTION
 Electromagnetism is one of the most important branches of physics. The technological developments of the modern $21^{\mathrm{st}}$ century are primarily due to our understanding of electromagnetism. The forces we experience in everyday life are electromagnetic in nature except gravity.
 
@@ -776,7 +773,7 @@ At the point Q the electric field is directed along the positive \(x\)-axis.
 
 Suppose a number of point charges are distributed in space. To find the electric field at some point P due to this collection of point charges, superposition principle is used. The electric field at an arbitrary point due to a collection of point charges is simply equal to the vector sum of the electric fields created by the individual point charges. This is called superposition of electric fields.
 
-Consider a collection of point charges \(q*{1},q*{2},q*{3},\dots q*{n}\) located at various points in space. The total electric field at some point P due to all these \(n\) charges is given by
+Consider a collection of point charges \( q_1, q_2, q_3, \ldots, q_n \)  located at various points in space. The total electric field at some point P due to all these \(n\) charges is given by
 
 $$
 \vec{E}_{tot} = \vec{E}_1 + \vec{E}_2 + \vec{E}_3 + \dots + \vec{E}_n \quad (1.6)
@@ -792,7 +789,7 @@ $$
 \vec{E}_{tot} = \frac{1}{4\pi\epsilon_0}\sum_{i = 1}^{n}\left(\frac{q_i}{r_{iP}^2}\hat{r}_{iP}\right) \quad (1.8)
 $$
 
-For example in Figure 1.8, the resultant electric field due to three point charges q q q1 2 3, , at point P is shown.
+For example in Figure 1.8, the resultant electric field due to three point charges \( q_1, q_2, q_3, \ldots, q_n \)  , at point P is shown.
 Note that the relative lengths of the electric field vectors for the charges depend on relative distances of the charges to the point P.
 
 ![Figure 1.8 Superposition of Electric field](P.png)
@@ -894,7 +891,7 @@ Note that the magnitude of the electric field is directly proportional to the ma
 The electric field also can be expressed in terms of height and the length of the inclined surface of the plane.
 
 $$
-E = \frac{mg}{qL}
+E = \frac{mgh}{qL}
 $$
 
 ### 1.3.4 Electric field lines
@@ -2214,9 +2211,9 @@ When an external electric field is applied, the dipoles inside the material tend
 
 In the presence of an external electric field, the dipole moment is induced in the dielectric material. Polarisation \(\vec{P}\) is defined as the total dipole moment per unit volume of the dielectric. For most dielectrics (linear isotropic), the Polarisation is directly proportional to the strength of the external electric field. This is written as
 
-$$
-\vec{P} = \epsilon_0 \chi_e \vec{E}
-$$
+\[
+\vec{P} = \chi_e \vec{E}_{ext} \tag{1.80}
+\]
 
 where \(\chi_{e}\) is a constant called the electric susceptibility which is a characteristic of each dielectric.
 
