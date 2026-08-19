@@ -7,28 +7,7 @@ summary: "This unit introduces the fundamentals of electronics and communication
 
 ---
 
-# 10 ELECTRONICS AND COMMUNICATION
-
-Electronics is clearly the winner of the day - John Ford.
-
-## LEARNING OBJECTIVES
-
-**In this unit, the students are exposed to**
-
-* Energy band diagram in semiconductors
-* Types of semiconductors
-* Formation of *p-n* junction diode and its V-I characteristics
-* Rectification process
-* Special purpose diodes
-* Transistors and their immediate applications
-* Digital and analog signals
-* Logic gates, Boolean algebra and De Morgan's theorem
-* Modulation and its types
-* Basic elements of communication system
-* Propagation of electromagnetic waves through space
-* Some important communication systems
-
-## 10.1 INTRODUCTION
+>Electronics is clearly the winner of the day - John Ford.
 
 Electronics has become a part of our daily life. All gadgets like mobile phones, computers, televisions, music systems etc work on the electronic principles. Electronic circuits are used to perform various operations in devices like air conditioners, microwave oven, dish washers and washing machines. Besides this, its applications are widespread in all fields like communication systems, medical diagnosis and treatments and even handling money through ATMs.
 
@@ -887,6 +866,8 @@ Collector current, \(I_{c} = \beta I_{B}\) \(\therefore \beta = \frac{I_{C}}{I_{
 
 Applying Kirchhoff's voltage law to the output loop, the collector- emitter voltage is given by
 
+$$V_{CE} = V_{CC} - I_C R_C \quad (10.7)$$
+
 **Working of the amplifier**
 
 During the positive half cycle
@@ -966,7 +947,12 @@ sinusoidal wave forms
 
 - to generate RF carriers
 
-- to generate clock signal in digital circuits as sweep circuits in TV sets and CRO
+- to generate audio tones
+
+- to generate clock signal in digital circuits
+
+- as sweep circuits in TV sets and CRO
+
 
 >**EXAMPLE 10.8**
 >
@@ -1025,8 +1011,7 @@ The possible combinations of inputs and the corresponding output are given in th
 **Circuit symbol**
 
 The circuit symbol of a two input AND gate is shown in Figure 10.41(a). \(A\) and \(B\) are inputs and \(Y\) is the output. It is a logic gate and hence \(A,B\) and \(Y\) can have the value of either 1 or 0.
-
-![**Figure 10.41** (a) Two input AND gate](41.png)
+![**Figure 10.41** (a) Two input AND gate](image.png)
 
 
 | Inputs |  | Output |
@@ -1055,8 +1040,8 @@ The output of AND gate is high (1) only when all inputs are high (1). In other c
 
 **Circuit Symbol**
 The circuit symbol of a two-input OR gate is shown in Figure 10.42 (a). A and B are inputs and Y is the output.
-![**Figure 10.42** (a) Two-input OR Gate](58.png)
 
+![**Figure 10.42** (a) Two-input OR Gate](image-1.png)
 
 | Inputs | Output |
 |---|---|---|
@@ -1085,8 +1070,7 @@ The output of OR gate is high (logic level 1) when any one or both of the inputs
 **Circuit Symbol**
 
 The circuit symbol of NOT gate is shown in Figure 10.43 (a). A is the input and Y is the output.
-
-![**Figure 10.43** (a) NOT Gate](59.png)
+![**Figure 10.43** (a) NOT Gate](image-2.png)
 
 
 | Input | Output |
@@ -1111,8 +1095,7 @@ The output is the complement of the input. This is denoted by an overline. It is
 
 The circuit symbol of NAND gate is shown in Figure 10.44 (a). A and B are inputs and Y is the output.
 
-![**Figure 10.44** (a) Two-input NAND Gate](60.png)
-
+![**Figure 10.44** (a) Two-input NAND Gate](image-3.png)
 
 | Inputs | Output (AND) | Output (NAND) |
 |---|---|---|---|
@@ -1137,8 +1120,7 @@ Output Y is the complement of AND operation. The circuit consists of an AND gate
 
 **Circuit Symbol**
 
-![**Figure 10.45** (a) NOR Gate](61.png)
-
+![**Figure 10.45** (a) NOR Gate](image-4.png)
 
 | Inputs | Output (OR) | Output (NOR) |
 |---|---|---|---|
@@ -1164,8 +1146,7 @@ Output Y is the complement of OR operation (A OR B). The circuit consists of an 
 **Circuit Symbol**
 
 The circuit symbol of EX-OR gate is shown in Figure 10.46 (a). A and B are inputs and Y is the output. EX-OR operation is denoted by \( \oplus \).
-
-![**Figure 10.46** (a) EX-OR Gate](62.png)
+![**Figure 10.46** (a) EX-OR Gate](image-5.png)
 **(a)**
 
 | Inputs | Output (EX-OR) |
