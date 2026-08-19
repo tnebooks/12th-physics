@@ -3,212 +3,194 @@ title: 'நிலை மின்னியல்'
 weight: 1
 references:
     videos:
-        - custom:
-            title: "அறிமுகம்"
-            desc: "அறிமுகம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d718950-24bf-11ef-b2b7-8b0d22706ed5.mp4"
-
-        - custom:
-            title: "மின்னுட்டம் கண்டதும் அறிவதும்"
-            desc: "மின்னுட்டம் கண்டதும் அறிவதும்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/70e56da0-d70f-11ef-9591-cb3e87f486ed.mp4"
-
-        - custom:
-            title: "மின்நடுநிலைமை"
-            desc: "மின்நடுநிலைமை"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/448639a0-d71f-11ef-878c-25d933947310.mp4"
-        - custom:
-            title: "கூலூம் விதி"
-            desc: "கூலூம் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48beaeb0-0158-11ee-a274-17c521ebc81c.mp4"
-        - custom:
-            title: "கூலூம் விதி"
-            desc: "கூலூம் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6d49460-dbbe-11ee-8390-0b2e989e1553.mp4"
-        - custom:
-            title: "கூலூம் விதி"
-            desc: "கூலூம் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ec289a0-dd4b-11ee-a227-7d4813a2f7d2.mp4"
-        - custom:
-            title: "கூலூம் விதி"
-            desc: "கூலூம் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c30110d0-e070-11ee-a851-f5ca18e9dc7a.mp4"
-        - custom:
-            title: "கூலூம் விதி"
-            desc: "கூலூம் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d293dd0-0c71-11ef-8ad3-81e4b54bf3cd.mp4"
-        - custom:
-            title: "மின்புலம்"
-            desc: "மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a8273710-e6b7-11ee-b6c9-1dfcf713672a.mp4"
-        - custom:
-            title: "மின்புலம்"
-            desc: "மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6dfdbab0-eb75-11ee-96fd-5d33c5fcace2.mp4"
-        - custom:
-            title: "சீரான மின்புலம் / சீரற்ற மின்புலம்"
-            desc: "சீரான மின்புலம் / சீரற்ற மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5357ca00-e77b-11ee-beac-7d1e5813c4f6.mp4"
-        - custom:
-            title: "சீரான மின்புலம் / சீரற்ற மின்புலம்"
-            desc: "சீரான மின்புலம் / சீரற்ற மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f6c4bd0-e84e-11ee-87f2-2b369e7440d7.mp4"
-        - custom:
-            title: "புள்ளி மின்துகள்களாலான அமைப்பின் மின்புலம்"
-            desc: "புள்ளி மின்துகள்களாலான அமைப்பின் மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cb91830-f5a6-11ee-b348-13c1d950659a.mp4"
-        - custom:
-            title: "புள்ளி மின்துகள்களாலான அமைப்பின் மின்புலம்"
-            desc: "புள்ளி மின்துகள்களாலான அமைப்பின் மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8abbfe40-f729-11ee-a053-83c53da4eab7.mp4"
-        - custom:
-            title: "புள்ளி மின்துகள்களாலான அமைப்பின் மின்புலம்"
-            desc: "புள்ளி மின்துகள்களாலான அமைப்பின் மின்புலம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f0214580-fb28-11ee-9c47-d35d244d0a95.mp4"
-        - custom:
-            title: "மின்புலக் கோடுகளும் பண்புகளும்"
-            desc: "மின்புலக் கோடுகளும் பண்புகளும்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6864060-d971-11ef-8800-8f665f1f5071.mp4"
-        - custom:
-            title: "மின்இருமுனை மற்றும் பண்புகள்"
-            desc: "மின்இருமுனை மற்றும் பண்புகள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
-        - custom:
-            title: "மின்இருமுனை மற்றும் பண்புகள்"
-            desc: "மின்இருமுனை மற்றும் பண்புகள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/65c14540-fcb1-11ee-a087-9302ccb53342.mp4"
-        - custom:
-            title: "மின் இருமுனையின் அச்சுக் கோட்ல் மின்புலம் பட விளக்கம்"
-            desc: "மின் இருமுனையின் அச்சுக் கோட்ல் மின்புலம் பட விளக்கம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5bbe2ac0-0604-11ef-a231-2f490913dbea.mp4"
-        - custom:
-            title: "சீரான மின்புலத்தில் வைக்கப்பட்டுள்ள மின்இருமுனை மீது செயல்படும் திருப்புவிசை"
-            desc: "சீரான மின்புலத்தில் வைக்கப்பட்டுள்ள மின்இருமுனை மீது செயல்படும் திருப்புவிசை"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/421782e0-d56e-11ee-9e1b-55665d1545f6.mp4"
-        - custom:
-            title: "சீரான மின்புலத்தில் வைக்கப்பட்டுள்ள மின்இருமுனை மீது செயல்படும் திருப்புவிசை"
-            desc: "சீரான மின்புலத்தில் வைக்கப்பட்டுள்ள மின்இருமுனை மீது செயல்படும் திருப்புவிசை"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
-        - custom:
-            title: "நிலைமின்னழுத்த ஆற்றல்"
-            desc: "நிலைமின்னழுத்த ஆற்றல்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ca13dbb0-fabf-11ed-8a5f-950b035dec29.mp4"
-        - custom:
-            title: "நிலைமின்னழுத்த ஆற்றல்"
-            desc: "நிலைமின்னழுத்த ஆற்றல்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f290be0-0944-11ef-ab0c-9964d2f12e77.mp4"
-        - custom:
-            title: "சீரான மின்புலத்தில் வைக்கப்பட்டுள்ள மின்இருமுனையின் நிலைமின்னழுத்த ஆற்றல்,"
-            desc: "சீரான மின்புலத்தில் வைக்கப்பட்டுள்ள மின்இருமுனையின் நிலைமின்னழுத்த ஆற்றல்,"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
-        - custom:
-            title: "புள்ளி மின்துகள்களால் உருவாகும் மின்னழுத்தம்"
-            desc: "புள்ளி மின்துகள்களால் உருவாகும் மின்னழுத்தம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
-        - custom:
-            title: "மின்துகள் தொகுப்பினால் ஏற்படும் மின்னழுத்தம்"
-            desc: "மின்துகள் தொகுப்பினால் ஏற்படும் மின்னழுத்தம்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
-        - custom:
-            title: "மின்இருமுனையால் ஒரு புள்யியில் மின்னழுத்தம் சமன்பாடு வருவித்தல்"
-            desc: "மின்இருமுனையால் ஒரு புள்யியில் மின்னழுத்தம் சமன்பாடு வருவித்தல்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
-        - custom:
-            title: "சமமின்னழுத்தப்பரப்பு"
-            desc: "சமமின்னழுத்தப்பரப்பு"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
-        - custom:
-            title: "சமமின்னழுத்தப்பரப்பு"
-            desc: "சமமின்னழுத்தப்பரப்பு"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b56fabf0-1db7-11ef-81b4-6bfa0b2f6339.mp4"
-        - custom:
-            title: "மின்புலத்திற்கும்  மின்னழுத்ததிற்கும் இடையேயான தொடர்பு"
-            desc: "மின்புலத்திற்கும்  மின்னழுத்ததிற்கும் இடையேயான தொடர்பு"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
-        - custom:
-            title: "புள்ளி மின்துகள் திரளால் உருவாகும் நிலை மின்னழுத்த ஆற்றல்"
-            desc: "புள்ளி மின்துகள் திரளால் உருவாகும் நிலை மின்னழுத்த ஆற்றல்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
-        - custom:
-            title: "காஸ் விதி"
-            desc: "காஸ் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71666e60-1d8c-11ef-982e-f92705a8e9a3.mp4"
-        - custom:
-            title: "காஸ் விதி"
-            desc: "காஸ் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bb709040-2709-11ef-8dd6-bf8ed3d7568e.mp4"
-        - custom:
-            title: "காஸ் விதி"
-            desc: "காஸ் விதி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9165d5c0-cabb-11ef-b00a-53465a814d4b.mp4"
-        - custom:
-            title: "மின் கடத்தும் மற்றும் மின்கடத்தாப் பொருள்கள்"
-            desc: "மின் கடத்தும் மற்றும் மின்கடத்தாப் பொருள்கள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96e4a300-c8ef-11ef-922a-ffd02f7f3b2c.mp4"
-        - custom:
-            title: "மின் கடத்தும் மற்றும் மின்கடத்தாப் பொருள்கள்"
-            desc: "மின் கடத்தும் மற்றும் மின்கடத்தாப் பொருள்கள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2673e2c0-d727-11ef-b16f-63a37bb24111.mp4"
-        - custom:
-            title: "நிலைமின் தடுப்புறை"
-            desc: "நிலைமின் தடுப்புறை"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d7fc270-dc90-11ef-a08b-3dfcd3e8fd17.mp4"
-        - custom:
-            title: "நிலைமின் தூண்டல்"
-            desc: "நிலைமின் தூண்டல்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bddd8b60-c206-11ef-89f8-b56b3657b460.mp4"
-        - custom:
-            title: "மின்காப்புப் பொருள்கள் அல்லது மின்கடத்தாப் பொருள்கள்"
-            desc: "மின்காப்புப் பொருள்கள் அல்லது மின்கடத்தாப் பொருள்கள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e1dee90-f272-11ef-94d4-798a36bd4a22.mp4"
-        - custom:
-            title: "மின்னழுத்த ஆற்றல்"
-            desc: "மின்னழுத்த ஆற்றல்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/03f7f210-f5ed-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "மின் கடத்தும் மற்றும் மின்கடத்தாப் பொருள்கள்"
-            desc: "மின் கடத்தும் மற்றும் மின்கடத்தாப் பொருள்கள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2673e2c0-d727-11ef-b16f-63a37bb24111.mp4"
-        - custom:
-            title: "தொடரிணைப்பு மற்றும் பக்க இணைப்பு - கணக்குகள்"
-            desc: "தொடரிணைப்பு மற்றும் பக்க இணைப்பு - கணக்குகள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "கேமராக்களில் மின் தேக்கி"
-            desc: "கேமராக்களில் மின் தேக்கி"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
-        - custom:
-            title: "மின்கலனுடன் இணைப்பு துண்டிக்கப்பட்ட நிலையில் மின்காப்புகளை புகுத்தும் போது மின்தேக்குத்திறனின் மதிப்பு என்னவாகும்?"
-            desc: "மின்கலனுடன் இணைப்பு துண்டிக்கப்பட்ட நிலையில் மின்காப்புகளை புகுத்தும் போது மின்தேக்குத்திறனின் மதிப்பு என்னவாகும்?"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c3c360-fb61-11ef-a95a-13114375fc0c.mp4"
-        - custom:
-            title: "மின்கலனுடன் இணைப்பு துண்டிக்கப்பட்ட நிலையில் மின்காப்புகளை புகுத்தும் போது மின்தேக்குத்திறனின் மதிப்பு என்னவாகும்?"
-            desc: "மின்கலனுடன் இணைப்பு துண்டிக்கப்பட்ட நிலையில் மின்காப்புகளை புகுத்தும் போது மின்தேக்குத்திறனின் மதிப்பு என்னவாகும்?"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c457bf0-ffcf-11ef-8f38-f300d82546c2.mp4"
-        - custom:
-            title: "தொடரிணைப்பில் மின்தேக்கிகள்"
-            desc: "தொடரிணைப்பில் மின்தேக்கிகள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/087f7e90-102d-11ee-8bff-cf2c5d3a2b6f.mp4"
-        - custom:
-            title: "தொடரிணைப்பில் மின்தேக்கிகள்"
-            desc: "தொடரிணைப்பில் மின்தேக்கிகள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96aeec0-f5ea-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "தொடரிணைப்பு மற்றும் பக்க இணைப்பு - கணக்குகள்"
-            desc: "தொடரிணைப்பு மற்றும் பக்க இணைப்பு - கணக்குகள்"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
-        - custom:
-            title: "ஒரு கடத்தியின் மீது மின்னூட்ட அடர்த்தியின் மதிப்பு"
-            desc: "ஒரு கடத்தியின் மீது மின்னூட்ட அடர்த்தியின் மதிப்பு"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
-        - custom:
-            title: "கூர்முனைச் செயல்பாடு"
-            desc: "கூர்முனைச் செயல்பாடு"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
-        - custom:
-            title: "வான் – டி – கிராப் மின்னியற்றி- தத்துவம் மற்றும் அமைப்பு"
-            desc: "வான் – டி – கிராப் மின்னியற்றி- தத்துவம் மற்றும் அமைப்பு"
-            url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"
+      - custom:
+          title: "மின்சுமை - வரலாற்றுப் பின்னணி"
+          desc: "மின்சுமை - வரலாற்றுப் பின்னணி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/70e56da0-d70f-11ef-9591-cb3e87f486ed.mp4"
+      - custom:
+          title: "மின்சுமையும் அதன் அடிப்படைப் பண்புகளும்"
+          desc: "மின்சுமையும் அதன் அடிப்படைப் பண்புகளும்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/448639a0-d71f-11ef-878c-25d933947310.mp4"
+      - custom:
+          title: "கூலூம் விதி"
+          desc: "கூலூம் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/48beaeb0-0158-11ee-a274-17c521ebc81c.mp4"
+      - custom:
+          title: "கூலூம் விதி"
+          desc: "கூலூம் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6d49460-dbbe-11ee-8390-0b2e989e1553.mp4"
+      - custom:
+          title: "கூலூம் விதி - II"
+          desc: "கூலூம் விதி - II"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ec289a0-dd4b-11ee-a227-7d4813a2f7d2.mp4"
+      - custom:
+          title: "கூலூம் விதி - III"
+          desc: "கூலூம் விதி - III"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c30110d0-e070-11ee-a851-f5ca18e9dc7a.mp4"
+      - custom:
+          title: "PC13_கூலூம் விதி"
+          desc: "PC13_கூலூம் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2d293dd0-0c71-11ef-8ad3-81e4b54bf3cd.mp4"
+      - custom:
+          title: "மின்புலம் (பகுதி 2)"
+          desc: "மின்புலம் (பகுதி 2)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a8273710-e6b7-11ee-b6c9-1dfcf713672a.mp4"
+      - custom:
+          title: "மின்புலம் (பகுதி 1)"
+          desc: "மின்புலம் (பகுதி 1)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6dfdbab0-eb75-11ee-96fd-5d33c5fcace2.mp4"
+      - custom:
+          title: "சீரான மின்புலத்தில் மின்னூட்டம் பெற்ற துகளின் இயக்கம் - I"
+          desc: "சீரான மின்புலத்தில் மின்னூட்டம் பெற்ற துகளின் இயக்கம் - I"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5357ca00-e77b-11ee-beac-7d1e5813c4f6.mp4"
+      - custom:
+          title: "சீரான மின்புலத்தில் மின்னூட்டம் பெற்ற துகளின் இயக்கம் - II"
+          desc: "சீரான மின்புலத்தில் மின்னூட்டம் பெற்ற துகளின் இயக்கம் - II"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5f6c4bd0-e84e-11ee-87f2-2b369e7440d7.mp4"
+      - custom:
+          title: "தொடர்ச்சியான மின்னூட்டப் பரவத்தினால் ஏற்படும் மின்புலம்"
+          desc: "தொடர்ச்சியான மின்னூட்டப் பரவத்தினால் ஏற்படும் மின்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cb91830-f5a6-11ee-b348-13c1d950659a.mp4"
+      - custom:
+          title: "நேரியல் மின்னூட்டப் பரவத்தினால் ஏற்படும் மின்புலம்"
+          desc: "நேரியல் மின்னூட்டப் பரவத்தினால் ஏற்படும் மின்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8abbfe40-f729-11ee-a053-83c53da4eab7.mp4"
+      - custom:
+          title: "வளையத்தில் தொடர்ச்சியான மின்னூட்டப் பரவத்தினால் ஏற்படும் மின்புலம்"
+          desc: "வளையத்தில் தொடர்ச்சியான மின்னூட்டப் பரவத்தினால் ஏற்படும் மின்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f0214580-fb28-11ee-9c47-d35d244d0a95.mp4"
+      - custom:
+          title: "மின்புலக் கோடுகள்"
+          desc: "மின்புலக் கோடுகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6864060-d971-11ef-8800-8f665f1f5071.mp4"
+      - custom:
+          title: "PC8_மின் இருமுனையும் அதன் பண்புகளும்"
+          desc: "PC8_மின் இருமுனையும் அதன் பண்புகளும்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fdd95070-c41c-11ee-9ff3-51952bffe188.mp4"
+      - custom:
+          title: "மின் இருமுனையும் அதன் பண்புகளும்"
+          desc: "மின் இருமுனையும் அதன் பண்புகளும்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/65c14540-fcb1-11ee-a087-9302ccb53342.mp4"
+      - custom:
+          title: "மின் இருமுனையால் ஏற்படும் மின்புலம்"
+          desc: "மின் இருமுனையால் ஏற்படும் மின்புலம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5bbe2ac0-0604-11ef-a231-2f490913dbea.mp4"
+      - custom:
+          title: "PC11_சீரான மின்புலத்தில் மின் இருமுனை அனுபவிக்கும் திருப்புவிசை"
+          desc: "PC11_சீரான மின்புலத்தில் மின் இருமுனை அனுபவிக்கும் திருப்புவிசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/421782e0-d56e-11ee-9e1b-55665d1545f6.mp4"
+      - custom:
+          title: "சீரான மின்புலத்தில் மின் இருமுனை அனுபவிக்கும் திருப்புவிசை"
+          desc: "சீரான மின்புலத்தில் மின் இருமுனை அனுபவிக்கும் திருப்புவிசை"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e4f1b60-0616-11ef-b619-65f0166e0202.mp4"
+      - custom:
+          title: "நிலை மின்னியல் நிலை ஆற்றல்"
+          desc: "நிலை மின்னியல் நிலை ஆற்றல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ca13dbb0-fabf-11ed-8a5f-950b035dec29.mp4"
+      - custom:
+          title: "புள்ளி மின்துகளால் ஏற்படும் நிலை மின்னியல் மின்னழுத்தம்"
+          desc: "புள்ளி மின்துகளால் ஏற்படும் நிலை மின்னியல் மின்னழுத்தம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/613ed750-0b8c-11ef-86ad-830dc693444b.mp4"
+      - custom:
+          title: "மின்னூட்டங்களின் தொகுப்பால் ஏற்படும் மின் மின்னழுத்தம்"
+          desc: "மின்னூட்டங்களின் தொகுப்பால் ஏற்படும் மின் மின்னழுத்தம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae47dc00-ded5-11ef-958e-51fc79974fd0.mp4"
+      - custom:
+          title: "மின் இருமுனையால் ஒரு புள்ளியில் ஏற்படும் நிலை மின்னியல் மின்னழுத்தம்"
+          desc: "மின் இருமுனையால் ஒரு புள்ளியில் ஏற்படும் நிலை மின்னியல் மின்னழுத்தம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/500641f0-e2da-11ef-aae4-09dfb91ef354.mp4"
+      - custom:
+          title: "சம மின்னழுத்தப் பரப்புகள் - பகுதி 1"
+          desc: "சம மின்னழுத்தப் பரப்புகள் - பகுதி 1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/276075a0-1809-11ef-9289-b98ee02fb856.mp4"
+      - custom:
+          title: "மின்புலத்திற்கும் மின்னழுத்தத்திற்கும் இடையே உள்ள தொடர்பு"
+          desc: "மின்புலத்திற்கும் மின்னழுத்தத்திற்கும் இடையே உள்ள தொடர்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ce5f730-1287-11ef-9623-9db5c58735ca.mp4"
+      - custom:
+          title: "புள்ளி மின்னூட்டங்களின் தொகுப்பிற்கான நிலை மின்னியல் நிலை ஆற்றல்"
+          desc: "புள்ளி மின்னூட்டங்களின் தொகுப்பிற்கான நிலை மின்னியல் நிலை ஆற்றல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6cd9c70-e2dc-11ef-aae4-09dfb91ef354.mp4"
+      - custom:
+          title: "PC16_சீரான மின்புலத்தில் உள்ள மின் இருமுனையின் நிலை மின்னியல் நிலை ஆற்றல்"
+          desc: "PC16_சீரான மின்புலத்தில் உள்ள மின் இருமுனையின் நிலை மின்னியல் நிலை ஆற்றல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/080d1380-ff08-11ee-ad3e-ad02183a2889.mp4"
+      - custom:
+          title: "காஸ் விதி"
+          desc: "காஸ் விதி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71666e60-1d8c-11ef-982e-f92705a8e9a3.mp4"
+      - custom:
+          title: "காஸ் விதி - கணக்குகள்"
+          desc: "காஸ் விதி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bb709040-2709-11ef-8dd6-bf8ed3d7568e.mp4"
+      - custom:
+          title: "காஸ் விதி அறிமுகம்"
+          desc: "காஸ் விதி அறிமுகம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9165d5c0-cabb-11ef-b00a-53465a814d4b.mp4"
+      - custom:
+          title: "காஸ் விதியின் பயன்பாடுகள் பகுதி - 1"
+          desc: "காஸ் விதியின் பயன்பாடுகள் பகுதி - 1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/56da6c8c-9201-4d62-89b7-edab1d982a99.mp4"
+      - custom:
+          title: "காஸ் விதியின் பயன்பாடுகள் - பகுதி 2"
+          desc: "காஸ் விதியின் பயன்பாடுகள் - பகுதி 2"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d8b04dfa-3e26-47c9-ac8e-70517ac9695b.mp4"
+      - custom:
+          title: "நிலை மின்னியல் சமநிலையில் உள்ள கடத்திகள் - பண்புகள் (பகுதி 2)"
+          desc: "நிலை மின்னியல் சமநிலையில் உள்ள கடத்திகள் - பண்புகள் (பகுதி 2)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/96e4a300-c8ef-11ef-922a-ffd02f7f3b2c.mp4"
+      - custom:
+          title: "நிலை மின்னியல் சமநிலையில் உள்ள கடத்திகள் - பண்புகள் (பகுதி 1)"
+          desc: "நிலை மின்னியல் சமநிலையில் உள்ள கடத்திகள் - பண்புகள் (பகுதி 1)"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2673e2c0-d727-11ef-b16f-63a37bb24111.mp4"
+      - custom:
+          title: "நிலை மின்னியல் தடுப்பு"
+          desc: "நிலை மின்னியல் தடுப்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5d7fc270-dc90-11ef-a08b-3dfcd3e8fd17.mp4"
+      - custom:
+          title: "நிலை மின்னியல் தூண்டல்"
+          desc: "நிலை மின்னியல் தூண்டல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bddd8b60-c206-11ef-89f8-b56b3657b460.mp4"
+      - custom:
+          title: " மின்கடத்தாப் பொருட்கள் அல்லது காப்பான்கள்"
+          desc: " மின்கடத்தாப் பொருட்கள் அல்லது காப்பான்கள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e1dee90-f272-11ef-94d4-798a36bd4a22.mp4"
+      - custom:
+          title: "மின்தேக்கியில் சேமிக்கப்படும் ஆற்றல்"
+          desc: "மின்தேக்கியில் சேமிக்கப்படும் ஆற்றல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/03f7f210-f5ed-11ef-b2d1-a9c604108134.mp4"
+      - custom:
+          title: "PC141_மின்தேக்கிகளின் பயன்பாடுகள்"
+          desc: "PC141_மின்தேக்கிகளின் பயன்பாடுகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f04b3a16-a5a1-4090-8e72-1a75dc319bb1.mp4"
+      - custom:
+          title: "மின்தேக்கிகளில் மின்கடத்தாப் பொருட்களின் தாக்கம்"
+          desc: "மின்தேக்கிகளில் மின்கடத்தாப் பொருட்களின் தாக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42c3c360-fb61-11ef-a95a-13114375fc0c.mp4"
+      - custom:
+          title: "மின்தேக்கிகளில் மின்கடத்தாப் பொருட்களின் தாக்கம் - கணக்குகள் 1"
+          desc: "மின்தேக்கிகளில் மின்கடத்தாப் பொருட்களின் தாக்கம் - கணக்குகள் 1"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c457bf0-ffcf-11ef-8f38-f300d82546c2.mp4"
+      - custom:
+          title: "தொடரிணைப்பு மற்றும் பக்கவாட்டு இணைப்பில் மின்தேக்கிகள்"
+          desc: "தொடரிணைப்பு மற்றும் பக்கவாட்டு இணைப்பில் மின்தேக்கிகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b96aeec0-f5ea-11ef-b2d1-a9c604108134.mp4"
+      - custom:
+          title: "தொடரிணைப்பு மற்றும் பக்கவாட்டு இணைப்பில் மின்தேக்கிகள் - கணக்குகள்"
+          desc: "தொடரிணைப்பு மற்றும் பக்கவாட்டு இணைப்பில் மின்தேக்கிகள் - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4019bbd0-f5ec-11ef-b2d1-a9c604108134.mp4"
+      - custom:
+          title: "கடத்தியில் மின்னூட்டப் பரவல்"
+          desc: "கடத்தியில் மின்னூட்டப் பரவல்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0c3dccb0-c44c-11ef-bd21-770c2a53ff8f.mp4"
+      - custom:
+          title: "முனைக்கூறு செயல் அல்லது கொரோனா மின்னிறக்கம்"
+          desc: "முனைக்கூறு செயல் அல்லது கொரோனா மின்னிறக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3b9e8bc0-d180-11ef-81c5-f3ced0f78f65.mp4"
+      - custom:
+          title: "வான் டி கிராப் இயற்றி"
+          desc: "வான் டி கிராப் இயற்றி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c7535b60-acbd-11ef-8497-c334526d1145.mp4"
     links:
         - "[கூலோம் விதி](https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_all.html) — Simulation demonstrating Coulomb's Law and electrostatic force between charges."
         - "[மின்னூட்டங்களும் புலங்களும்](https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_all.html) — Interactive exploration of electric field vectors, lines, and equipotential surfaces."
