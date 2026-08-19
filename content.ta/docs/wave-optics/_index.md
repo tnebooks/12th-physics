@@ -5,7 +5,188 @@ categories:
 weight: 7
 summary: "இந்த அலகு ஒளியின் அலை இயல்பை விளக்குகிறது மற்றும் பிரதிபலிப்பு மற்றும் விலக்கம் விதிகளுக்கான கோட்பாட்டு அடிப்படையை வழங்குகிறது. இதில் இடையீடு (interference), விலகல் (diffraction), மற்றும் துருவமயமாக்கல் (polarization) போன்ற முக்கிய அலை நிகழ்வுகள் அடங்கும். மேலும், பெரிதாக்கல் (magnification), தீர்மான திறன் (resolving power) போன்ற கருத்துகளையும், மைக்ரோஸ்கோப் மற்றும் தொலைநோக்கி போன்ற ஒளியியல் கருவிகளின் செயல்முறைகளையும் இந்த அலகு அறிமுகப்படுத்துகிறது."
 references:
-   links:
+    videos:
+      - custom:
+          title: "ஒளியின் கோட்பாடுகள் - பகுதி 1"
+          desc: "ஒளிவிலகல் எண்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9500c930-a16c-11ed-a6c8-dbcea8aac321.mp4"
+      - custom:
+          title: "ஒளியின் கோட்பாடுகள் - பகுதி 2"
+          desc: "ஒளிவிலகல் எண்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4de444f0-c26e-11ed-aa65-193eb81520d6.mp4"
+      - custom:
+          title: "ஹைஜீன் தத்துவம்"
+          desc: "ஒளிவிலகல் எண்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d7438400-a30a-11ed-a069-2ba2310537a7.mp4"
+      - custom:
+          title: "அலைமுகப்புகள்"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ba5e2e80-bdb8-11ed-879a-c7376af3c089.mp4"
+      - custom:
+          title: "ஹைஜீன் தத்துவத்தைப் பயன்படுத்தி எதிரொளிப்பு விதிகளை நிரூபித்தல்"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9f33fd02f7614b4db979c8d96fdd07aa.mp4"
+      - custom:
+          title: "ஹைஜீன் தத்துவத்தைப் பயன்படுத்தி ஒளிவிலகல் விதிகளை நிரூபித்தல்"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/12e2e3f0-8c38-11ed-ac54-a5f6cb8f32d1.mp4"
+      - custom:
+          title: "குறுக்கீடு"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9240c720-0159-11ee-a274-17c521ebc81c.mp4"
+      - custom:
+          title: "கட்டம் மற்றும் பாதை வேறுபாடு"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f7557ce0-a0be-11ef-bd9d-f56fbadba3cf.mp4"
+      - custom:
+          title: "ஒருங்கமை மூலங்கள்"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3e75fe00-7471-11ed-aa2e-65788a18a689.mp4"
+      - custom:
+          title: "ஒருங்கமை மூலங்களாக இரட்டைப் பிளவு"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/953ee5b4-b1bb-43b5-b127-88b061a2619b.mp4"
+      - custom:
+          title: "யங்கின் இரட்டைப் பிளவு சோதனை"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6cd8aee0-bdba-11ed-879a-c7376af3c089.mp4"
+      - custom:
+          title: "மெல்லிய படலங்களில் குறுக்கீடு"
+          desc: "ஹைஜீன் தத்துவம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5463e4b0-7416-11ef-b249-7779aeaa94bd.mp4"
+      - custom:
+          title: "மெல்லிய படலங்களில் குறுக்கீடு - கணக்குகள்"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7a744ad0-741d-11ef-bfd0-d9859d3621d1.mp4"
+      - custom:
+          title: "விளிம்பு விளைவு - ஃப்ரெஸ்நெல் மற்றும் ஃபிராந்ஹோஃபர் விளிம்பு விளைவு"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/93ef05e0-97ba-11ed-bd17-5b7a87a82371.mp4"
+      - custom:
+          title: "ஒரு மற்றும் பிளவில் விளிம்பு விளைவு"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0acb39a0-9c79-11ed-aebe-719cf62779ad.mp4"
+      - custom:
+          title: "முதல் சிறுமத்திற்கான விளக்கம்"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1e8c07a6-2d06-4bcb-824e-10ea642f6091.mp4"
+      - custom:
+          title: "ஃப்ரெஸ்நெல் தொலைவு"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/02f53a8a-f272-45d7-99c3-bc922c49b436.mp4"
+      - custom:
+          title: "குறுக்கீட்டிற்கும் விளிம்பு விளைவிற்கும் இடையே உள்ள வேறுபாடு"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7a104a46-8405-4dd8-a516-33f9d96c17a6.mp4"
+      - custom:
+          title: "கிரேட்டிங்கில் விளிம்பு விளைவு"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/27de09d0-a642-11ef-901a-bdfec983a8db.mp4"
+      - custom:
+          title: "ஓரலை மற்றும் வெள்ளை ஒளியின் அலைநீளத்தைக் கண்டறியும் சோதனை"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/61ceb750-f984-11ed-8ddb-899932d0ef8a.mp4"
+      - custom:
+          title: "பகுதிறன்"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6ae00188-f308-4663-9833-15179bed148d.mp4"
+      - custom:
+          title: "தளவிளைவு"
+          desc: "மெல்லிய படலங்களில் குறுக்கீடு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2638e300-c937-11ed-bb3f-dfd9de2d83eb.mp4"
+      - custom:
+          title: "PC1_தளவிளைவுற்ற ஒளி"
+          desc: "தளவிளைவுற்ற ஒளி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/08a3ebb0-419f-11ee-ae14-6998607bf38b.mp4"
+      - custom:
+          title: "தளவிளைவாக்கும் முறைகள்"
+          desc: "தளவிளைவாக்கும் முறைகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/dd6e2c50-c938-11ed-bb3f-dfd9de2d83eb.mp4"
+      - custom:
+          title: "தேர்ந்தெடுக்கப்பட்ட உட்கூறறிதலின் மூலம் தளவிளைவு"
+          desc: "தேர்ந்தெடுக்கப்பட்ட உட்கூறறிதலின் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fee2f100-79b2-11ef-b1f3-21832db861a6.mp4"
+      - custom:
+          title: "மாலசு விதி"
+          desc: "தேர்ந்தெடுக்கப்பட்ட உட்கூறறிதலின் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b16ea580-7bcf-11ef-a9f4-f3349fb31872.mp4"
+      - custom:
+          title: "மாலசு விதி - கணக்குகள்"
+          desc: "தேர்ந்தெடுக்கப்பட்ட உட்கூறறிதலின் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fd8be170-7d60-11ef-b842-cd22c38443a6.mp4"
+      - custom:
+          title: "எதிரொளிப்பு மூலம் தளவிளைவு"
+          desc: "தேர்ந்தெடுக்கப்பட்ட உட்கூறறிதலின் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7ebe3d30-7bf7-11ef-8c19-11e625111c01.mp4"
+      - custom:
+          title: "ப்ரூஸ்டர் விதி - கணக்குகள்"
+          desc: "ப்ரூஸ்டர் விதி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9aef1b80-8d56-11ef-a274-9f6dbe22f1bd.mp4"
+      - custom:
+          title: "கண்ணாடிக் தட்டுத் தொகுப்பு"
+          desc: "கண்ணாடிக் தட்டுத் தொகுப்பு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6c3cd0c0-8d5b-11ef-a456-f51f706b5747.mp4"
+      - custom:
+          title: "இரட்டை ஒளிவிலகல் மூலம் தளவிளைவு"
+          desc: "இரட்டை ஒளிவிலகல் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e0bcd3a0-912a-11ef-a993-3b3999b1cebe.mp4"
+      - custom:
+          title: "நிகோல் முப்பட்டகம்"
+          desc: "இரட்டை ஒளிவிலகல் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b89451a0-9a94-11ef-b4db-47cd9696afdf.mp4"
+      - custom:
+          title: "சிதறல் மூலம் தளவிளைவு"
+          desc: "சிதறல் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8e9d3f20-9200-11ef-bdf3-ef0c73eb3a69.mp4"
+      - custom:
+          title: "எளிய நுண்ணோக்கி - அண்மைக் குவிப்புப் புள்ளி"
+          desc: "சிதறல் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/24d85260-9d17-11ef-ad28-8d53c2f90af0.mp4"
+      - custom:
+          title: "நுண்ணோக்கியின் பகுதிறன்"
+          desc: "சிதறல் மூலம் தளவிளைவு"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/14d4513f-d558-4321-b28d-bef1f212532e.mp4"
+      - custom:
+          title: "தொலைநோக்கியின் பகுதிறன்"
+          desc: "தொலைநோக்கியின் பகுதிறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/507f24b0-5db1-4105-8a49-9deeb2e0073e.mp4"
+      - custom:
+          title: "பகுதிறன், தெளிவு - கணக்குகள்"
+          desc: "தொலைநோக்கியின் பகுதிறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/717adc98-5bb7-4edb-b9bf-6c187e541112.mp4"
+      - custom:
+          title: "கூட்டு நுண்ணோக்கி"
+          desc: "தொலைநோக்கியின் பகுதிறன்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b9fbf5c7-d12b-45ed-a5d8-63be2fe7e698.mp4"
+      - custom:
+          title: "கூட்டு நுண்ணோக்கியில் பெருக்கம்"
+          desc: "கூட்டு நுண்ணோக்கியின் பெருக்கம்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1d08b205-ef22-41ba-9b6b-c91ebfab65b4.mp4"
+      - custom:
+          title: "கூட்டு நுண்ணோக்கி - கணக்குகள்"
+          desc: "கூட்டு நுண்ணோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1985e90a-a22f-46bf-a1ec-4b657e7a38cd.mp4"
+      - custom:
+          title: "வானியல் தொலைநோக்கி"
+          desc: "கூட்டு நுண்ணோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c3de7749-ba5e-4a2d-86d8-a885b28092fe.mp4"
+      - custom:
+          title: "வானியல் தொலைநோக்கி - கணக்குகள்"
+          desc: "வானியல் தொலைநோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/66c186bc-7196-40dd-a2ab-a30304280bc4.mp4"
+      - custom:
+          title: " phản xạ தொலைநோக்கி (எதிரொளிப்புத் தொலைநோக்கி)"
+          desc: "வானியல் தொலைநோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/84054637-c3c2-42ab-a1c3-968eadac8cb9.mp4"
+      - custom:
+          title: "நிறமாலை மாணி"
+          desc: "வானியல் தொலைநோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1442d1a5-79b3-498f-8c07-2b31e9e84716.mp4"
+      - custom:
+          title: "தொடரிணைப்பு மற்றும் பக்கவாட்டு இணைப்பில் மின்தேக்கி"
+          desc: "வானியல் தொலைநோக்கி - கணக்குகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/087f7e90-102d-11ee-8bff-cf2c5d3a2b6f.mp4"
+    links:
         - "[அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/wave-interference/latest/wave-interference_all.html) — Simulation of Young's double-slit experiment, diffraction, and fringe patterns."
         - "[குவாண்டம் அலை குறுக்கீடு](https://phet.colorado.edu/sims/html/quantum-wave-interference/latest/quantum-wave-interference_all.html) — Observing wave nature and diffraction patterns with photons and electrons."
         - "[கம்பியில் அலை](https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_all.html) — Investigating wave phase, node formation, constructive and destructive interference."
@@ -14,7 +195,7 @@ references:
         - "[அலைகள் அறிமுகம்](https://phet.colorado.edu/sims/html/waves-intro/latest/waves-intro_all.html) — Visualizing 2D wavefront propagation and interference bands."
         - "[Double slit Expriment](https://physics.bu.edu/~duffy/HTML5/double_slit.html)"
 
-   books:
+    books:
         - b1:
             title: Fundamentals of Optics, 4th Edition, McGraw Hill Book Company
             url: https://www.amazon.in/Fundamentals-Optics-Francis-Jenkins/dp/1259002292

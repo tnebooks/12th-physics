@@ -13,7 +13,82 @@ references:
         - "[Blackbody Spectrum](https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html) — Understanding Planck's quantum hypothesis and discrete packet energy distribution."
         - "[Molecules and Light](https://phet.colorado.edu/sims/html/molecules-and-light/latest/molecules-and-light_all.html) — Visualizing energy absorption by molecules when exposed to specific photon energies."
     videos:
-        - youtube:BjJJW4QavOA?si=RTAasw_Jq-W4WQSQ
+      - custom:
+          title: "Electron emission"
+          desc: "Astronomical telescope - Numericals"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bec4e540-48e9-11f0-8864-89606542e85c.mp4"
+      - custom:
+          title: "Work Function"
+          desc: "work function"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1912701057_V1_1080.mp4"
+      - custom:
+          title: "Types of Electron Emission, Part-1"
+          desc: "thermionic emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5c9c8c50-4db8-11f0-9f17-1bef262bf9f1.mp4"
+      - custom:
+          title: "Types of Electron Emission, Part-2"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9e5dc080-ad83-11ef-892b-657620940313.mp4"
+      - custom:
+          title: "Lenard’s Observations"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b808d270-a574-11ef-a5db-bfd04a2ae78d.mp4"
+      - custom:
+          title: "Effect of intensity of incident light on Photoelectric current"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/49325bcb-eadd-48a1-ae33-0664d972b4d6.mp4"
+      - custom:
+          title: "Effect of potential difference on photoelectric effect"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/34a4d9c0-a988-11ef-8d5f-13de2138d218.mp4"
+      - custom:
+          title: "Threshold Frequency"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c1019140-edab-11ee-84f2-6b2c7edc24d0.mp4"
+      - custom:
+          title: "Laws of photo electric effect"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2f2b6670-abd2-11ef-bde5-fd8417af0d89.mp4"
+      - custom:
+          title: "Failures Of Classical Wave Theory"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ae98da70-7efe-11ee-a70e-6f5ee9e3d1cd.mp4"
+      - custom:
+          title: "Particle Nature Of Light- Einstein's Explanation"
+          desc: "secondary emission"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bebce8a0-ec0f-11ee-b147-379909815682.mp4"
+      - custom:
+          title: "Photoelectric effect - Numericals"
+          desc: "Einstein's explanation of photoelectric equation"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/af15ec60-b6ff-11ef-957f-5115e0c88e57.mp4"
+      - custom:
+          title: "wave - particle duality, Part - 1"
+          desc: "wave - particle duality"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f6b7de00-4cfc-11f0-90f5-15198e1061d6.mp4"
+      - custom:
+          title: "wave - particle duality, Part - 2"
+          desc: "wave - particle duality"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6f7bb360-7850-11f0-8d33-d5f4795dbe76.mp4"
+      - custom:
+          title: "Matter Waves"
+          desc: "wave - particle duality"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2b413e80-ae44-11ef-a8ce-896d2b24244d.mp4"
+      - custom:
+          title: "De Broglie wavelength Numericals"
+          desc: "wave - particle duality"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71956c30-b08d-11ef-a58f-e9b73ed95bb2.mp4"
+      - custom:
+          title: "Introduction to X - rays"
+          desc: "wave - particle duality"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e87c8350-51b5-11f0-92a4-6b384a28ed15.mp4"
+      - custom:
+          title: "X - ray spectra, Part - 1"
+          desc: "x-ray spectra"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7a6a6680-ac96-11ef-ac50-1932402af8a1.mp4"
+      - custom:
+          title: "X - ray spectra, Part - 2"
+          desc: "x-ray spectra"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6be10290-60b9-11f0-b124-9176d5e7d4a5.mp4"
     books:
         - b1:
            title: Arthur Beiser, Shobhit Mahajan, Rai Choudhury, Concepts of Modern Physics, Sixth Edition, McGraw Hill Education (India) Private Limited

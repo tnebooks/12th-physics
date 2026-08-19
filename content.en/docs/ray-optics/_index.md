@@ -1,6 +1,148 @@
 ---
 title: 'Ray Optics'
 references:
+    videos:
+      - custom:
+          title: "Laws of reflection and Reflection on regular and irregular surfaces"
+          desc: "laws of reflection and reflection on regular and irregular surface"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2cff0b70-623b-11f0-a2f8-cf84b9cb12b3.mp4"
+      - custom:
+          title: "Angle of deviation due to reflection"
+          desc: "laws of reflection and reflection on regular and irregular surface"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8bff3850-65e5-11ef-9899-0b38baee8801.mp4"
+      - custom:
+          title: "Image formed by plane mirror"
+          desc: "laws of reflection and reflection on regular and irregular surface"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/60e488f0-5df7-11ef-974c-efcd582bd575.mp4"
+      - custom:
+          title: "Image formed by plane mirror - problems"
+          desc: "image formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/492cd710-5df9-11ef-b7a8-77e3af17c102.mp4"
+      - custom:
+          title: "Properties of Plane Mirror"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/852b3f40-8c36-11ed-ac54-a5f6cb8f32d1.mp4"
+      - custom:
+          title: "Images formed by inclined plane mirrors - Problems"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/85bbe270-6457-11ef-8e81-41a54d75c731.mp4"
+      - custom:
+          title: "Images formed by inclined plane mirrors"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/26246100-6459-11ef-8ff6-eb51cf0b263c.mp4"
+      - custom:
+          title: "Types of Spherical mirrors terms used in spherical mirrors"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/cc8506e0-6c7c-11f0-8897-f3e7922542fb.mp4"
+      - custom:
+          title: "Paraxial and Marginal rays"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/061cad70-744a-11f0-a2d8-c557456661b6.mp4"
+      - custom:
+          title: "Focal Length And Radius Of Curvature"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fbce7a20-cc10-11ee-856b-a3cf1363f387.mp4"
+      - custom:
+          title: "Spherical mirrors- image tracing"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3df72670-6c7b-11f0-8897-f3e7922542fb.mp4"
+      - custom:
+          title: "Spherical mirrors - cartesian conventions"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b9f77360-76b7-11f0-98a3-53e07266e4b7.mp4"
+      - custom:
+          title: "Spherical Mirrors – Mirror Equation"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6e472bc0-6503-11ef-8fa1-173a5cec9440.mp4"
+      - custom:
+          title: "Lateral Magnification"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e98e5030-fbe3-11ee-9aaf-0bffdf93e748.mp4"
+      - custom:
+          title: "Fizeau’s method to determine speed of light"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/94916c50-71f5-11f0-8fb6-af19e7b3458d.mp4"
+      - custom:
+          title: "PC151_Refractive index, Optical path, simultaneous Reflection and Refraction"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0ea7f600-944d-46af-b6e1-4b74b8815ee1.mp4"
+      - custom:
+          title: "Laws of refraction"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1c155680-7e96-11f0-b7d9-af8c0a6f9619.mp4"
+      - custom:
+          title: "Angle of deviation due to refraction"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/20e7e900-7e9d-11f0-89cb-a9ce45e93786.mp4"
+      - custom:
+          title: "Principle of reversibility"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/12219c30-8281-11f0-9113-bfb37a4a3b17.mp4"
+      - custom:
+          title: "Relative refractive index"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4705a450-7e9e-11f0-89cb-a9ce45e93786.mp4"
+      - custom:
+          title: "Apparent Depth"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/2e865ee0-c4ca-11ee-a55c-ddd7c0ee6855.mp4"
+      - custom:
+          title: "PC96_Total Internal Reflection and its Effects"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/684e2868-5f6e-4768-b55f-982fa0235b50.mp4"
+      - custom:
+      - custom:
+          title: "MIRAGE AND LOOMING"
+          desc: "properties of images formed by plane mirror"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/f4763390-710f-11ef-b493-8ba248b4807a.mp4"
+      - custom:
+          title: "Prisms making using of total internal reflection & Radius of illumination (Snell’s window)"
+          desc: "prisms"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/915da17a-798c-4fa2-8ef1-dff0394c9ba9.mp4"
+      - custom:
+          title: "PC97_Optical fibre"
+          desc: "optical fibre"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b078b596-88c1-4cbb-b308-ebfe9b72a311.mp4"
+      - custom:
+          title: "Thin Lenses – Primary and Secondary focus and Sign conventions on focal length"
+          desc: "optical fibre"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/42f46e45-1ebe-48c7-b316-f541259fe57c.mp4"
+      - custom:
+          title: "Lens Maker's Formula"
+          desc: "lens equation"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8d56a260-0a19-11ef-990f-4f12ccae2e4a.mp4"
+      - custom:
+          title: "Lateral magnification in thin lens"
+          desc: "lateral magnification"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d3d2972a-4e42-4e20-be41-5c9df1222399.mp4"
+      - custom:
+          title: "Power of a Lens"
+          desc: "power of lens"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/1049d9c9-9920-46de-8e68-81031f097bde.mp4"
+      - custom:
+          title: "Focal length of lenses in contact"
+          desc: "focal length of compound lenses"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d82694ad-cf73-4601-98ce-cb22bd0fb10b.mp4"
+      - custom:
+          title: "Silvered lenses"
+          desc: "silvered lerns"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b2a1b0b-d355-4e04-b047-e24c51eabd3b.mp4"
+      - custom:
+          title: "Refraction in prism"
+          desc: "silvered lerns"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/089894f2-4401-4f9d-8d98-1f313aafb2c3.mp4"
+      - custom:
+          title: "Angle of minimum deviation produced by prism"
+          desc: "minimum angle of deviation"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b0be2c6f-ebd6-47b3-a041-a6d296f0e6f6.mp4"
+      - custom:
+          title: "Refractive index of the material of the prism"
+          desc: "refractive index"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d0cad919-a3f0-4abb-81f2-e45b735bdb71.mp4"
+      - custom:
+          title: "PC160_Scattering of light"
+          desc: "refractive index"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9a0906df-d560-4b79-b1fc-1461ccee381a.mp4"
     links:
         - "[Bending Light](https://phet.colorado.edu/sims/html/bending-light/latest/bending-light_all.html) — Refraction, Snell's law, total internal reflection, and dispersion in prisms."
         - "[Geometric Optics](https://phet.colorado.edu/sims/html/geometric-optics/latest/geometric-optics_all.html) — Image formation by convex and concave lenses with real-time ray tracing."

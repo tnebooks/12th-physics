@@ -1,6 +1,135 @@
 ---
 title: 'எலக்ட்ரானியல் மற்றும் தகவல் தொடர்பு அமைப்புகள்(Electronics And Communication)'
 references:
+    videos:
+      - custom:
+          title: "மின்னணுவியல் – அறிமுகம் (EL-01)"
+          desc: "பீட்டா துகள்களின் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/be5d9c90-90f4-11ee-b9ef-71f7f488f658.mp4"
+      - custom:
+          title: "திண்மங்களின் ஆற்றல் பட்டைகள்"
+          desc: "பீட்டா துகள்களின் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/93248470-0765-11ef-b5b9-ab1a84dba145.mp4"
+      - custom:
+          title: "PC114_திண்மங்களின் ஆற்றல் பட்டைகள்"
+          desc: "திண்மங்களின் ஆற்றல் பட்டைகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a7612aee-fa31-4735-9aa0-be8a0564eab7.mp4"
+      - custom:
+          title: "புறக்கடத்திகள் (அரைக்கடத்திகள்)"
+          desc: "திண்மங்களின் ஆற்றல் பட்டைகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bde2dee0-9c30-11ef-85bc-674c7d919721.mp4"
+      - custom:
+          title: "P-N சந்தி, பகுதி-1"
+          desc: "திண்மங்களின் ஆற்றல் பட்டைகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b295f980-4be2-11ef-96fc-490b8d03b788.mp4"
+      - custom:
+          title: "P-N சந்தி உருவாக்கம், பகுதி - 2"
+          desc: "PN சந்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c6332780-570c-11ef-a49f-13cde098fd79.mp4"
+      - custom:
+          title: "முன்னோக்குச் சார்புப் பண்புகள்"
+          desc: "PN சந்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e9e632b0-4b4c-11ef-b8b9-0920820ee031.mp4"
+      - custom:
+          title: "PC48_முன்னோக்குச் சார்புப் பண்புகள்"
+          desc: "முன்னோக்குச் சார்புப் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c6b486f0-9da1-11ef-bcb5-8db9bf4bcb24.mp4"
+      - custom:
+          title: "அரை அலை திருத்தி"
+          desc: "முன்னோக்குச் சார்புப் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0a3aba30-71cd-11ef-931d-258acfaee076.mp4"
+      - custom:
+          title: "முழு அலை திருத்தி"
+          desc: "முழு அலை திருத்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b472e20-8d51-11ef-8bea-3175eeb20367.mp4"
+      - custom:
+          title: "இருமுனையங்களில் மின்தடங்கல் (முறிவு) முறைகள்"
+          desc: "முழு அலை திருத்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/029d0950-7672-11ef-8189-5b587ff9a2e4.mp4"
+      - custom:
+          title: "சீனர் இருமுனையம்"
+          desc: "முழு அலை திருத்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/777b6690-9521-11ef-a1e1-1d6f1381abc5.mp4"
+      - custom:
+          title: "சூரிய மின்கலங்கள்"
+          desc: "முழு அலை திருத்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d4348eb0-f27e-11ef-ad8a-c7a636191c3e.mp4"
+      - custom:
+          title: "டிரான்சிஸ்டர் சுற்று இணைப்புகள் - அறிமுகம்"
+          desc: "முழு அலை திருத்தி"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/88eacc80-ad9b-11ef-8e15-c7791b384271.mp4"
+      - custom:
+          title: "இருமுனை சந்தி டிரான்சிஸ்டர் [BJT] – பகுதி 1"
+          desc: "உமிழ்ப்பான்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fe2208f4-fe9f-49c9-88fa-efb0a22cbf3d.mp4"
+      - custom:
+          title: "இருமுனை சந்தி டிரான்சிஸ்டர் – பகுதி 2"
+          desc: "உமிழ்ப்பான்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/33642776-88ce-4cfd-a16e-a259c2598454.mp4"
+      - custom:
+          title: "டிரான்சிஸ்டர் சுற்று இணைப்புகள்"
+          desc: "உமிழ்ப்பான்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9976e7d8-9afe-44d9-9ea9-64f3e2acdda2.mp4"
+      - custom:
+          title: "பொது அடிவாரப் பயன்முறையில் டிரான்சிஸ்டர் செயல்பாடு"
+          desc: "உமிழ்ப்பான்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/abe3613e-73ac-4c4f-91bb-3b0d0e5aad60.mp4"
+      - custom:
+          title: "பொது உமிழ்ப்பான் பயன்முறையில் டிரான்சிஸ்டரின் நிலை மின்னழுத்தப் பண்புகள்"
+          desc: "உமிழ்ப்பான்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6bb3121f-d7c8-4493-a7c4-1567bdd923df.mp4"
+      - custom:
+          title: "பொது உமிழ்ப்பான் பயன்முறையில் டிரான்சிஸ்டரின் வெளியீட்டுப் பண்புகள்"
+          desc: "வெளியீட்டுப் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/37c546f9-28d8-4ef5-8f2b-351c7d6415bd.mp4"
+      - custom:
+          title: "பொது உமிழ்ப்பான் பயன்முறையில் டிரான்சிஸ்டரின் மின்னோட்ட மாற்றப் பண்புகள்"
+          desc: "மின்னோட்ட மாற்றப் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c5eb770-4eed-4d69-8928-92b07c75e152.mp4"
+      - custom:
+          title: "தருக்கப் போர்ட்கள் 1"
+          desc: "மின்னோட்ட மாற்றப் பண்புகள்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/250cbbe0-2fbd-11ee-9a80-0da15bc643f5.mp4"
+      - custom:
+          title: "தருக்கப் போர்ட்கள் 2"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/59fffb50-773e-11ee-b93d-adb6c8e6f90c.mp4"
+      - custom:
+          title: "அனலாக் மற்றும் இலக்கக் குறிகைகள்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a0078714-4657-4aef-9886-a069e41073dd.mp4"
+      - custom:
+          title: "பூலியன் இயற்கணிதம்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ab273ab3-4751-4927-be65-9b3dc6f018d8.mp4"
+      - custom:
+          title: "டி மோர்கன் தேற்றங்கள்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b391ac90-c4b4-11ee-8526-41e92419bf9c.mp4"
+      - custom:
+          title: "ஒருங்கிணைந்த சுற்றுகள் (IC)"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b3f82de9-684a-45d3-b11c-2a914ed3ac53.mp4"
+      - custom:
+          title: "PC159_தொடர்பாடல் அறிமுகம்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7c5c02f7-e063-4010-86b5-346d9da0d588.mp4"
+      - custom:
+          title: "ஏற்றம் (மாடுலேஷன்)"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/41e33fb2-dfd8-4ddc-aa28-4d412590f9b0.mp4"
+      - custom:
+          title: "வீச்சு ஏற்றம்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fe562e81-e333-4862-ab5e-93a115739b16.mp4"
+      - custom:
+          title: "அதிர்வெண் ஏற்றம்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/124f2908-5b49-402a-866c-3cf693e00a2b.mp4"
+      - custom:
+          title: "கட்ட ஏற்றம்"
+          desc: "NAND போர்ட்"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8d59bf00-465d-4f9d-9816-73352a19c7f5.mp4"
     links:
         - "[குறைகடத்திகள்](https://phet.colorado.edu/sims/html/semiconductors/latest/semiconductors_all.html) — Simulating intrinsic and doped semiconductors, energy gap, and carrier motion."
         - "[பட்டை அமைப்பு](https://phet.colorado.edu/sims/html/band-structure/latest/band-structure_all.html) — Energy band diagrams of metals, semiconductors, and insulators."
