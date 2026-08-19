@@ -1,5 +1,143 @@
 ---
 title: 'Electronics and communication'
+references:
+    videos:
+      - custom:
+          title: "Electronics – Introduction (EL-01)"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/be5d9c90-90f4-11ee-b9ef-71f7f488f658.mp4"
+      - custom:
+          title: "Energy bands in solids"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/93248470-0765-11ef-b5b9-ab1a84dba145.mp4"
+      - custom:
+          title: "PC114_ Energy Band in Solids"
+          desc: "energy bands in solids"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a7612aee-fa31-4735-9aa0-be8a0564eab7.mp4"
+      - custom:
+          title: "EXTRINSIC SEMICONDUCTOR"
+          desc: "energy bands in solids"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bde2dee0-9c30-11ef-85bc-674c7d919721.mp4"
+      - custom:
+          title: "P-N junction, Part-1"
+          desc: "energy bands in solids"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b295f980-4be2-11ef-96fc-490b8d03b788.mp4"
+      - custom:
+          title: "P-N Junction formation, Part - 2"
+          desc: "PN junction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c6332780-570c-11ef-a49f-13cde098fd79.mp4"
+      - custom:
+          title: "forward bias characteristics"
+          desc: "PN junction"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/e9e632b0-4b4c-11ef-b8b9-0920820ee031.mp4"
+      - custom:
+          title: "PC48_forward bias characteristics"
+          desc: "forward bias charecteristics"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c6b486f0-9da1-11ef-bcb5-8db9bf4bcb24.mp4"
+      - custom:
+          title: "Half wave rectifier"
+          desc: "forward bias charecteristics"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0a3aba30-71cd-11ef-931d-258acfaee076.mp4"
+      - custom:
+          title: "Full wave rectifier"
+          desc: "full wave rectifier"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b472e20-8d51-11ef-8bea-3175eeb20367.mp4"
+      - custom:
+          title: "Breakdown mechanisms in diode"
+          desc: "full wave rectifier"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/029d0950-7672-11ef-8189-5b587ff9a2e4.mp4"
+      - custom:
+          title: "zener diode"
+          desc: "full wave rectifier"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/777b6690-9521-11ef-a1e1-1d6f1381abc5.mp4"
+      - custom:
+          title: "Solar Cells"
+          desc: "full wave rectifier"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d4348eb0-f27e-11ef-ad8a-c7a636191c3e.mp4"
+      - custom:
+          title: "Introduction to Transistor circuit configurations"
+          desc: "full wave rectifier"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/88eacc80-ad9b-11ef-8e15-c7791b384271.mp4"
+      - custom:
+          title: "THE BIPOLAR JUNCTION TRANSISTOR [BJT] – Part 1"
+          desc: "Emitter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fe2208f4-fe9f-49c9-88fa-efb0a22cbf3d.mp4"
+      - custom:
+          title: "THE BIPOLAR JUNCTION TRANSISTOR – Part 2"
+          desc: "Emitter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/33642776-88ce-4cfd-a16e-a259c2598454.mp4"
+      - custom:
+          title: "Transistor circuit configurations"
+          desc: "Emitter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/9976e7d8-9afe-44d9-9ea9-64f3e2acdda2.mp4"
+      - custom:
+          title: "Transistor action in common base mode"
+          desc: "Emitter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/abe3613e-73ac-4c4f-91bb-3b0d0e5aad60.mp4"
+      - custom:
+          title: "Static Characteristics of Transistor in common emitter mode"
+          desc: "Emitter"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6bb3121f-d7c8-4493-a7c4-1567bdd923df.mp4"
+      - custom:
+          title: "Output Characteristics of Transistor in common emitter mode"
+          desc: "Output Characteristics"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/37c546f9-28d8-4ef5-8f2b-351c7d6415bd.mp4"
+      - custom:
+          title: "Current Transfer Characteristics of Transistor in common emitter mode"
+          desc: "Current transfer characteristics"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/4c5eb770-4eed-4d69-8928-92b07c75e152.mp4"
+      - custom:
+          title: "Logic Gates 1"
+          desc: "Current transfer characteristics"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/250cbbe0-2fbd-11ee-9a80-0da15bc643f5.mp4"
+      - custom:
+          title: "Logic Gates 2"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/59fffb50-773e-11ee-b93d-adb6c8e6f90c.mp4"
+      - custom:
+          title: "Analog and Digital signals"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a0078714-4657-4aef-9886-a069e41073dd.mp4"
+      - custom:
+          title: "Boolean algebra"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ab273ab3-4751-4927-be65-9b3dc6f018d8.mp4"
+      - custom:
+          title: "De Morgan's Theorems"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b391ac90-c4b4-11ee-8526-41e92419bf9c.mp4"
+      - custom:
+          title: "Integrated chips"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/b3f82de9-684a-45d3-b11c-2a914ed3ac53.mp4"
+      - custom:
+          title: "PC159_Introduction to Communication"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7c5c02f7-e063-4010-86b5-346d9da0d588.mp4"
+      - custom:
+          title: "Modulation"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/41e33fb2-dfd8-4ddc-aa28-4d412590f9b0.mp4"
+      - custom:
+          title: "Amplitude Modulation"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fe562e81-e333-4862-ab5e-93a115739b16.mp4"
+      - custom:
+          title: "Frequency Modulation"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/124f2908-5b49-402a-866c-3cf693e00a2b.mp4"
+      - custom:
+          title: "Phase Modulation"
+          desc: "Nand gate"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8d59bf00-465d-4f9d-9816-73352a19c7f5.mp4"
+    links:
+        - "[Semiconductors](https://phet.colorado.edu/sims/html/semiconductors/latest/semiconductors_all.html) — Simulating intrinsic and doped semiconductors, energy gap, and carrier motion."
+        - "[Band Structure](https://phet.colorado.edu/sims/html/band-structure/latest/band-structure_all.html) — Energy band diagrams of metals, semiconductors, and insulators."
+        - "[Conductivity](https://phet.colorado.edu/sims/html/conductivity/latest/conductivity_all.html) — Comparing electrical conduction in metallic conductors and doped materials."
+        - "[Circuit Construction Kit: DC](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_all.html) — Constructing diode-like switching circuits and basic logic gates."
+        - "[Ohm's Law](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html) — Investigating V-I characteristics and non-linear resistance profiles."
+        - "[Battery-Resistor Circuit](https://phet.colorado.edu/sims/html/battery-resistor-circuit/latest/battery-resistor-circuit_all.html) — Basic electrical component modeling and current regulation."
+
 categories:
     - electronics-and-communication
 weight: 10

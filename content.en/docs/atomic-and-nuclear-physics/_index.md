@@ -1,5 +1,128 @@
 ---
 title: 'Atomic and Nuclear Physics'
+references:
+    videos:
+      - custom:
+          title: "Discovery of Cathode Rays and their properties"
+          desc: "RUTHERFORD'S MODEL"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d145bfa5-af06-4198-b208-908b19a31bc8.mp4"
+      - custom:
+          title: "PC26_DETERMINATION OF SPECIFIC CHARGE OF AN ELECTRON - THOMSON'S EXPERIMENT"
+          desc: "RUTHERFORD'S MODEL"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5adac490-0e94-11ef-b354-897e0b6ea173.mp4"
+      - custom:
+          title: "Thomson's Experiment"
+          desc: "DETERMINATION OF SPECIFIC CHARGE OF AN ELECTRON - THOMSON'S EXPERIMENT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/64590630-1d80-11ef-b331-2f19effdf662.mp4"
+      - custom:
+          title: "Millikan's Oil Drop Experiment"
+          desc: "DETERMINATION OF SPECIFIC CHARGE OF AN ELECTRON - THOMSON'S EXPERIMENT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8f37f660-c68a-11ee-a9e0-09a196225c0b.mp4"
+      - custom:
+          title: "PC29_DETERMINATION OF CHARGE OF AN ELECTRON - MILLIKAN'S OIL DROP EXPERIMENT"
+          desc: "DETERMINATION OF CHARGE OF AN ELECTRON - MILLIKAN'S OIL DROP EXPERIMENT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/8b1f5840-23fd-11ef-bdb4-896530a7bfd4.mp4"
+      - custom:
+          title: "MILLIKAN'S OIL DROP EXPERIMENT, Part - 1"
+          desc: "DETERMINATION OF CHARGE OF AN ELECTRON - MILLIKAN'S OIL DROP EXPERIMENT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/67f30550-8709-11ef-af86-71a983a5c111.mp4"
+      - custom:
+          title: "PC30_RUTHERFORD'S MODEL"
+          desc: "DETERMINATION OF CHARGE OF AN ELECTRON - MILLIKAN'S OIL DROP EXPERIMENT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/57386ca0-2331-11ef-af80-29f53adc8888.mp4"
+      - custom:
+          title: "PC31_RUTHERFORD'S MODEL"
+          desc: "RUTHERFORD'S MODEL"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/89faa0b0-2334-11ef-9813-413274662b2a.mp4"
+      - custom:
+          title: "Bohr's Atom Model - Part 1"
+          desc: "RUTHERFORD'S MODEL"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/81d025b0-e368-11ee-8990-3359d002a2b6.mp4"
+      - custom:
+          title: "Bohr's Atom Model- Part 2"
+          desc: "ENERGY OF AN ELECTRON IN THE nth ORBIT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/7fb14d90-2404-11ef-bdb4-896530a7bfd4.mp4"
+      - custom:
+          title: "ATOMIC SPECTRA"
+          desc: "ENERGY OF AN ELECTRON IN THE nth ORBIT"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/fd5816ab-9e41-4888-9aa7-5a5ddeaa5e12.mp4"
+      - custom:
+          title: "Hydrogen Spectrum"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a6c6ac68-b566-4304-815b-0df78cb80a96.mp4"
+      - custom:
+          title: "PC156_ISOTOPES, ISOBARS AND ISOTONES"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/d6d8997f-a575-4c57-9d97-a1a1fa3726c7.mp4"
+      - custom:
+          title: "Atomic and Nuclear masses"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3ac73c9d-76e9-4e80-a03a-b75e14b2696f.mp4"
+      - custom:
+          title: "Size and density of Nucleus"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ef71a14e-2869-42ed-8dc2-5b2037843968.mp4"
+      - custom:
+          title: "Mass defect and Binding energy"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/5a4a09ab-b6b4-420e-a0e3-aee51a3b2a41.mp4"
+      - custom:
+          title: "Binding Energy Curve"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/6bdcd5c8-3abd-4ba4-a8c1-95e15a819a64.mp4"
+      - custom:
+          title: "Nuclear force"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/a2e346e4-c5d8-4b49-ae36-80c3fb124ef9.mp4"
+      - custom:
+          title: "PC34_RADIOACTIVITY"
+          desc: "SPECTRAL SERIES OF HYDROGEN ATOM"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/71861670-3619-11ef-be93-47b03afbe33f.mp4"
+      - custom:
+          title: "RADIOACTIVITY"
+          desc: "RADIOACTIVITY"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/07e8ae90-4504-11ef-b370-5b2dc3df81fb.mp4"
+      - custom:
+          title: "PC41_ALPHA DECAY"
+          desc: "RADIOACTIVITY"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/3ae41740-232a-11ef-af80-29f53adc8888.mp4"
+      - custom:
+          title: "PC33_ALPHA DECAY"
+          desc: "ALPHA DECAY"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/0caae060-3212-11ef-8db5-d3ff22bfb8fe.mp4"
+      - custom:
+          title: "PC35_NEGATIVE BETA DECAY"
+          desc: "ALPHA DECAY"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/044e05d0-4c0e-11ef-bf27-6dcd7842f263.mp4"
+      - custom:
+          title: "PC40_PROPERTIES OF BETA PARTICLES"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/298066e0-4da8-11ef-a255-0f09693fd3d1.mp4"
+      - custom:
+          title: "PC37_GAMMA EMISSION"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/bc931630-9d08-11ef-9023-0b97522e453d.mp4"
+      - custom:
+          title: "LAW OF RADIO ACTIVE DECAY"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/c401d770-77ab-4c78-a1d7-b0386025b6dd.mp4"
+      - custom:
+          title: "DISCOVERY OF NEUTRONS"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/ce41f710-2b94-4490-9fbe-a1db88d646ad.mp4"
+      - custom:
+          title: "PC153_Elementary particles & fundamental forces of nature"
+          desc: "PROPERTIES OF BETA PARTICLES"
+          url: "https://d1fiv8ydi7ukjo.cloudfront.net/manarkeni/video/35a736fe-c66a-497f-8101-bbde9c4d3a52.mp4"
+    links:
+        - "[Rutherford Scattering](https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_all.html) — Alpha particle scattering experiment proving the nuclear model of the atom."
+        - "[Models of the Hydrogen Atom](https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_all.html) — Comparing Thomson, Rutherford, Bohr, and de Broglie atomic models."
+        - "[Alpha Decay](https://phet.colorado.edu/sims/html/alpha-decay/latest/alpha-decay_all.html) — Simulating alpha radiation, nuclear tunnel effect, and radioactive half-life."
+        - "[Beta Decay](https://phet.colorado.edu/sims/html/beta-decay/latest/beta-decay_all.html) — Exploring beta emission and weak nuclear interaction in unstable nuclei."
+        - "[Radioactive Dating Game](https://phet.colorado.edu/sims/html/radioactive-dating-game/latest/radioactive-dating-game_all.html) — Practical application of radioactive decay and half-life calculations."
+        - "[Nuclear Fission](https://phet.colorado.edu/sims/html/nuclear-fission/latest/nuclear-fission_all.html) — Chain reaction dynamics and energy release in nuclear fission processes."
+        - "[Build an Atom](https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_all.html) — Building atomic nuclei with protons, neutrons, and electrons."
+
 categories:
     - atomic-and-nuclear-physics
 weight: 9
