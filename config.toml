@@ -36,5 +36,5 @@ weight = 2
 [params]
   [[params.question_repositories]]
     githubhandle = "tnedu"
-    name = "Model School"
+    name = "Competitive exams"
     url = "/physics-electrostatics/"
