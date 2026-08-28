@@ -129,30 +129,9 @@ weight: 9
 summary: "This unit explains the structure of atoms and nuclei, beginning with experiments like J.J. Thomson experiment and Millikan’s oil drop experiment to determine properties of the electron. It covers atomic models such as Rutherford model and the Bohr atom model, along with atomic spectra."
 
 ---
-# 9 ATOMIC AND NUCLEAR PHYSICS
 
-All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial - Ernest Rutherford
+>All of physics is either impossible or trivial. It is impossible until you understand it, and then it becomes trivial - Ernest Rutherford
 
-## LEARNING OBJECTIVES
-
-**In this unit, the students are exposed to**
-- electric discharge through the gases
-- determination of specific charge of an electron by J.J. Thomson experiment
-- determination of electronic charge by Millikan's oil drop experiment
-- atom models – J.J. Thomson and Rutherford
-- Bohr atom model and hydrogen atom
-- atomic spectrum and hydrogen spectrum
-- structure and properties of nucleus
-- various classification of nuclei based on atomic number and mass number
-- mass defect and binding energy
-- relation between stability and binding energy curve
-- alpha decay, beta decay and gamma emission
-- law of radioactive decay
-- nuclear fission and fusion
-- elementary ideas of nuclear reactors
-- qualitative idea of elementary particles
-
-## 9.1 INTRODUCTION
 
 ![Figure 9.1 Comparision of size of an atom with that of an apple and comparision of size of an apple with that of the Earth](9.1.png)
 
@@ -504,19 +483,25 @@ $$2\pi r = n\lambda$$ $$2\times 3.14\times 13.25\dot{\mathrm{A}} = 5\times \lamb
 
 **EXAMPLE 9.2**
 
-Find the (i) angular momentum (ii) velocity of the electron revolving in the 5th orbit of hydrogen atom.
+Find the (i) angular momentum (ii) velocity of the electron revolving in the $5^\text{th}$ orbit of hydrogen atom.
 
-$$(h = 6.6\times 10^{-34}\mathrm{Js},m = 9.1\times 10^{-31}\mathrm{kg})$$
+($h = 6.6 \times 10^{-34}\text{ Js}$, $m = 9.1 \times 10^{-31}\text{ kg}$)
 
 **Solution**
 
 (i) Angular momentum is given by
 
-$$l = n\hbar = \frac{nh}{2\pi}$$ $$= \frac{5\times 6.6\times 10^{-34}}{2\times 3.14} = 5.25\times 10^{-34}\mathrm{kgm^2s^{-1}}$$
+$$l = n\hbar = \frac{nh}{2\pi}$$
+
+$$= \frac{5 \times 6.6 \times 10^{-34}}{2 \times 3.14} = 5.25 \times 10^{-34}\text{ kg}\,\text{m}^2\,\text{s}^{-1}$$
 
 (ii) Velocity is given by
 
-$$\mathrm{Velocity}\ u = \frac{l}{mr}$$ $$\displaystyle = \frac{(5.25\times 10^{-34}\mathrm{kgm^2s^{-1}})}{(9.1\times 10^{-31}\mathrm{kg})(13.25\times 10^{-10}\mathrm{m})}$$ $$\displaystyle u = 4.4\times 10^{5}\mathrm{ms^{-1}}$$
+$$\text{Velocity } v = \frac{l}{mr}$$
+
+$$= \frac{(5.25 \times 10^{-34}\text{ kg}\,\text{m}^2\,\text{s}^{-1})}{(9.1 \times 10^{-31}\text{ kg})(13.25 \times 10^{-10}\text{ m})}$$
+
+$$v = 4.4 \times 10^5\text{ ms}^{-1}$$
 
 **Radius of the orbit of the electron and velocity of the electron**
 
@@ -542,7 +527,7 @@ Multiplied and divided by *m*
 
 $$r_n = \frac{4\pi\epsilon_0(mv_nr_n)^2}{Zme^2} \quad (9.15)$$
 
-From Bohr's assumption, the angular momentum quantization condition, *mv_nr_n = l_n = n\(\hbar\)*
+From Bohr's assumption, the angular momentum quantization condition, $mv_n r_n = l_n = n\hbar$,
 
 $$r_{n} = \frac{4\pi\epsilon_{0}(n\hbar)^{2}}{Zme^{2}} = \frac{4\pi\epsilon_{0}n^{2}\hbar^{2}}{Zme^{2}}$$
 
@@ -1603,7 +1588,7 @@ The mean life time of the nucleus is the ratio of sum or integration of life tim
 
 The total number of nuclei decaying in the time interval from $t$ to $t + \Delta t$ is equal to $R \Delta t = \lambda N_0 e^{-\lambda t} \Delta t$. It implies that until the time $t$, this $R \Delta t$ number of nuclei lived. So the life time of these $R \Delta t$ nuclei is equal to $t R \Delta t$. In the limit $\Delta t \to 0$, the total life time of all the nuclei would be the integration of $t R dt$ from the limit $t = 0$ to $t = \infty$.
 
-$\tau = \frac{\int_0^\infty t [R dt]}{\int_0^\infty N_0 e^{-\lambda t} dt} = \frac{\int_0^\infty \lambda N_0 t e^{-\lambda t} dt}{\int_0^\infty N_0 e^{-\lambda t} dt}$ (9.42)
+$$\tau = \frac{\int\limits_{0}^{\infty} t [R \, dt]}{N_0} = \frac{\int\limits_{0}^{\infty} t \left[\lambda N_0 e^{-\lambda t} \, dt\right]}{N_0} \quad \text{(9.42)}$$
 
 After a few integration (refer box item), the expression for mean life time,
 
@@ -1665,7 +1650,7 @@ $N_0 = \frac{6.02 \times 10^{23}}{13} \times 2.6 \times 10^{-6} = 12.04 \times 1
 
 (b) To find the initial activity $R_0$, we have to evaluate decay constant $\lambda$
 
-$\lambda = \frac{0.6931}{T_{1/2}} = \frac{0.6931}{10 \times 60} = 1.155 \times 10^{-3} \, \text{s}^{-1}$
+$\lambda = \frac{0.6931}{T_{1/2}} = \frac{0.6931}{10 \times 60} = 1.155 \times 10^{-3} \text{s}^{-1}$
 
 Therefore
 
@@ -1677,9 +1662,9 @@ $= 13.90 \times 10^{13}$ Bq
 
 In terms of a curie,
 
-$R_0 = \frac{13.90 \times 10^{13}}{3.7 \times 10^{10}} = 3.75 \times 10^3$ Ci
+$$R_0 = \frac{13.90 \cdot 10^{13}}{3.7 \cdot 10^{10}} = 3.75 \cdot 10^3 \text{ Ci}$$
 
-since $1$ Ci = $3.7 \times 10^{10}$ Bq
+since $1\text{Ci} = 3.7 \cdot 10^{10}\text{Bq}$
 
 (c) Activity after 2 hours can be calculated in two different ways:
 
@@ -1732,35 +1717,35 @@ By taking the logarithm on both sides, we get
 
 $t = \frac{1}{\lambda} \ln \left( \frac{R_0}{R} \right)$ (2)
 
-Here $R = 38 \, \text{decays/s} = 38 \, \text{Bq}$.
+Here $R = 38 \text{decays/s} = 38 \, \text{Bq}$.
 
 To find decay constant, we use the equation
 
-$\lambda = \frac{0.6931}{T_{1/2}} = \frac{0.6931}{5730 \, \text{yr} \times 3.156 \times 10^7 \, \text{s/yr}}$
+$\lambda = \frac{0.6931}{T_{1/2}} = \frac{0.6931}{5730  \text{yr} \times 3.156 \times 10^7 \text{s/yr}}$
 
-$\lambda = 3.83 \times 10^{-12} \, \text{s}^{-1}$
+$\lambda = 3.83 \times 10^{-12}  \text{s}^{-1}$
 
 To find the initial activity $R_0$, we use the equation $R_0 = \lambda N_0$. Here $N_0$ is the number of carbon-14 atoms present in the sample when it was alive. The mass of the charcoal is 200 g. In 12 g of carbon, there are $6.02 \times 10^{23}$ carbon atoms. So 200 g contains
 
-$\frac{6.02 \times 10^{23} \, \text{atoms/mol}}{12 \, \text{g/mol}} \times 200 \approx 1 \times 10^{25} \, \text{atoms}$
+$\frac{6.02 \times 10^{23}  \text{atoms/mol}}{12 \text{g/mol}} \times 200 \approx 1 \times 10^{25}  \text{atoms}$
 
 When the tree (sample) was alive, the ratio of $^{14}_6C$ to $^{12}_6C$ is $1.3 \times 10^{-12}$. So the total number of carbon-14 atoms is given by
 
-$N_0 = 1 \times 10^{25} \times 1.3 \times 10^{-12} = 1.3 \times 10^{13} \, \text{atoms}$
+$N_0 = 1 \times 10^{25} \times 1.3 \times 10^{-12} = 1.3 \times 10^{13}  \text{atoms}$
 
 The initial activity
 
-$R_0 = 3.83 \times 10^{-12} \times 1.3 \times 10^{13} \approx 50 \, \text{decays/s} = 50 \, \text{Bq}$
+$R_0 = 3.83 \times 10^{-12} \times 1.3 \times 10^{13} \approx 50  \text{decays/s} = 50  \text{Bq}$
 
 By substituting the value of $R_0$ and $\lambda$ in the equation (2), we get
 
 $t = \frac{1}{3.83 \times 10^{-12}} \times \ln \left[ \frac{50}{37} \right]$
 
-$t = \frac{0.301}{3.83} \times 10^{12} \approx 7.86 \times 10^{10} \, \text{s}$
+$t = \frac{0.301}{3.83} \times 10^{12} \approx 7.86 \times 10^{10}  \text{s}$
 
 In years
 
-$t = \frac{7.86 \times 10^{10} \, \text{s}}{3.156 \times 10^7 \, \text{s/yr}} \approx 2500 \, \text{years}$
+$t = \frac{7.86 \times 10^{10}  \text{s}}{3.156 \times 10^7 \text{s/yr}} \approx 2500  \text{years}$
 
 In fact, the excavated materials were sent to USA for carbon dating by Archeological Department of Tamilnadu and the report confirmed that the age of Keezhadi artefacts lies between 2200 years to 2500 years (Sangam era - 400 BC to 200 BC). The Keezhadi excavations experimentally proved that urban civilization existed in Tamil Nadu even 2000 years ago!
 

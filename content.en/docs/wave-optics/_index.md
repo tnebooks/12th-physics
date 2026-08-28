@@ -209,23 +209,9 @@ references:
             url: https://www.amazon.in/Sears-Zemanskys-University-Physics-Mechanics/dp/8131759857
 ---
 
-# CHAPTER 7  WAVE OPTICS
 
-An age is called dark, not because the light fails to shine, but because people refuse to see. — James Albert Michener
+>An age is called dark, not because the light fails to shine, but because people refuse to see. — James Albert Michener
 
-## LEARNING OBJECTIVES
-
-In this unit, the students are exposed to,
-
-The wave aspect of light.
-
-The proof for law of reflection and refraction.
-
-The phenomena like interference, diffraction and polarisation.
-
-The terms like magnification and resolving power etc.
-
-The different optical instruments like microscope, telescope etc.
 
 ## 7.1 THEORIES ON LIGHT
 
@@ -828,7 +814,9 @@ $$y_n = 3 \times \frac{560 \times 10^{-9} \times 1}{3 \times 10^{-3}} = 560 \tim
 
 $$y_n = 0.560 \times 10^{-3}\text{ m} = 0.560\text{ mm}$$
 
-![](doyouknow.png)
+>**DO YOU KNOW?**
+>Dazzling colours are exhibited by thin films of oil spread on the surface of water and also by soap bubbles as shown in the figure. These colours are due to interference of white light undergoing multiple reflections from the top and the bottom surfaces of thin films. The colour depends upon the thickness of the film, refractive index of the film and also the angle of incidence of the light.
+![](image-51.png)
 
 ## 7.3.6 Interference in thin films
 
@@ -900,7 +888,7 @@ This is a violation to the rectilinear propagation of light we have studied in r
 
 Based on the type of wavefront which undergoes diffraction, it could be classified as Fresnel and Fraunhofer diffractions. The differences between Fresnel and Fraunhofer diffractions are shown in Table 7.1.
 
-![](Table-7.1.png)
+![Table 7.1 Difference between Fresnel and Fraunhofer diffractions](image-52.png)
 
 As Fraunhofer diffraction is easy to observe and analyse, let us take it up for further discussions.
 
@@ -966,7 +954,7 @@ Where \(n = 0, 1, 2, 3....\) is the order of diffraction maximum.
 The central maximum is called \(0^{\mathrm{th}}\) order maximum. The points of the maximum intensity lie nearly midway between the successive minima.
 
 >**NOTE**
->Here, sin θ gives the angular spread of diffraction from the central reference line. We can replace sin θ in the above equations with y / D. It is possible because θ is small. Now, we can approximate,sinθ=tanθ=y/D  Where, y is the position of minimum (or) maximum on the screen from its center and D is the distance between the slit and the screen.
+>Here, $\sin \theta$ gives the angular spread of the diffraction from the central reference line. We can replace $\sin \theta$ in the above equations with $\frac{y}{D}$. It is possible because $\theta$ is small. Now, we can approximate, $\sin \theta = \tan \theta = \frac{y}{D}$Where, $y$ is the position of minimum (or) maximum on the screen from its center and $D$ is the distance between the slit and the screen.
 
 ## EXAMPLE 7.9
 
