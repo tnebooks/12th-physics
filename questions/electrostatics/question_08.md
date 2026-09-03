@@ -5,13 +5,13 @@ choices:
   - Energy density
   - Charge
 answers:
-  - Energy density
+  - Capacitance
 tags:
-  - '2022'
+  - '2023'
 ---
 
 A parallel plate capacitor stores a charge Q at a voltage V. Suppose the area of the parallel plate capacitor and distance between the plates are each doubled then which is the quantity that will change?
 
 ```markdown
-Since C = εA/d, doubling both A and d leaves capacitance unchanged. For an isolated capacitor Q remains constant, so V = Q/C is unchanged. The electric field E = V/d decreases when d doubles, hence energy density u = ½εE² changes.
+For a parallel plate capacitor C = εA/d. When both A and d are doubled, C remains unchanged. Therefore, if the capacitor initially stores charge Q, none of the listed quantities should change under the stated isolated-capacitor assumption. However, among the given options, the intended question likely concerns the capacitor parameters; this item may require verification against the original source.
 ```
