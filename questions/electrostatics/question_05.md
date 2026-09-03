@@ -1,17 +1,17 @@
 ---
 choices:
-  - 1 × 10^-2 C
-  - 3 × 10^-2 C
-  - 2 × 10^-2 C
-  - 4 × 10^-2 C
+  - Violet - Yellow - Orange - Silver
+  - Yellow - Green - Violet - Gold
+  - Green - Orange - Violet - Gold
+  - Yellow - Violet - Orange - Silver
 answers:
-  - 3 × 10^-2 C
+  - Yellow - Violet - Orange - Silver
 tags:
   - '2022'
 ---
 
-Two metallic spheres of radii 1 cm and 3 cm are given charges of -1 × 10^-2 C and 5 × 10^-2 C respectively. If these are connected by a conducting wire, the final charge on the bigger sphere is:
+A carbon resistor of 47 ± 4.7 kΩ is to be marked with rings of different colours for its identification. The colour code sequence will be:
 
 ```markdown
-After connection, potentials are equal, so charges divide in the ratio of radii 1:3. Total charge is 4 × 10^-2 C; the bigger sphere gets 3/4 of it = 3 × 10^-2 C.
+47 kΩ = 47 × 10³ Ω. The digits 4 and 7 correspond to Yellow and Violet; multiplier 10³ is Orange; ±10% tolerance is Silver.
 ```

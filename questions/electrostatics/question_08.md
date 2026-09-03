@@ -1,17 +1,17 @@
 ---
 choices:
-  - R/4
-  - R
-  - R/2
-  - 2R
+  - Voltage
+  - Capacitance
+  - Energy density
+  - Charge
 answers:
-  - R/4
+  - Energy density
 tags:
   - '2022'
 ---
 
-In India electricity is supplied for domestic use at 220 V. It is supplied at 110 V in USA. If the resistance of a 60 W bulb for use in India is R, the resistance of a 60 W bulb for use in USA will be:
+A parallel plate capacitor stores a charge Q at a voltage V. Suppose the area of the parallel plate capacitor and distance between the plates are each doubled then which is the quantity that will change?
 
 ```markdown
-For a bulb of fixed power, R = V²/P. Therefore R_USA/R_India = (110/220)² = 1/4.
+Since C = εA/d, doubling both A and d leaves capacitance unchanged. For an isolated capacitor Q remains constant, so V = Q/C is unchanged. The electric field E = V/d decreases when d doubles, hence energy density u = ½εE² changes.
 ```
