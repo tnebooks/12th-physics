@@ -1,17 +1,17 @@
 ---
 choices:
-  - Decrease by 4 times
-  - Increase by 2 times
-  - Increase by 4 times
-  - Decrease by 2 times
+  - I/8
+  - I/4
+  - 3I/8
+  - 3I/4
 answers:
-  - Decrease by 4 times
+  - 3I/8
 tags:
   - '2022'
 ---
 
-In an electron microscope, the electrons are accelerated by a voltage of 14 kV. If the voltage is changed to 224 kV, then the de-Broglie wavelength associated with the electrons would:
+Two polaroids are kept with their transmission axes inclined at 30°. Unpolarised light of intensity I falls on the first polaroid. Intensity of light emerging from the second polaroid is:
 
 ```markdown
-The de-Broglie wavelength varies as λ ∝ 1/√V. Since 224/14 = 16, the wavelength becomes 1/√16 = 1/4 of its original value.
+After the first polaroid, intensity becomes I/2. By Malus' law through the second polaroid: I₂ = (I/2)cos²30° = (I/2)(3/4) = 3I/8.
 ```

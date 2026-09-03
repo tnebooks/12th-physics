@@ -1,17 +1,17 @@
 ---
 choices:
-  - Phase modulation
-  - Amplitude modulation
-  - Pulse width modulation
-  - Frequency modulation
+  - 600 Vm^-1
+  - 100 Vm^-1
+  - 900 Vm^-1
+  - 300 Vm^-1
 answers:
-  - Frequency modulation
+  - 900 Vm^-1
 tags:
   - '2022'
 ---
 
-The variation of frequency of carrier wave with respect to the instantaneous amplitude of the modulating signal is called:
+If the magnitude of the magnetic field is 3 × 10^-6 T, then the magnitude of the electric field for an electromagnetic wave is:
 
 ```markdown
-When the instantaneous amplitude of the modulating signal changes the frequency of the carrier wave, it is called frequency modulation.
+For an electromagnetic wave, E = cB. Thus E = (3 × 10⁸)(3 × 10⁻⁶) = 900 V m⁻¹.
 ```

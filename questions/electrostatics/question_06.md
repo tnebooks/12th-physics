@@ -1,17 +1,17 @@
 ---
 choices:
-  - β-rays
-  - γ-rays
-  - α-rays
-  - All of the above
+  - 4h/π
+  - h
+  - 2h/π
+  - h/π
 answers:
-  - γ-rays
+  - h/π
 tags:
   - '2022'
 ---
 
-Which of the following is an electromagnetic wave?
+In a hydrogen atom, the electron revolving in the second orbit has angular momentum:
 
 ```markdown
-Gamma rays are electromagnetic waves, whereas alpha and beta rays are streams of particles.
+According to Bohr's quantization rule, L = nh/(2π). For n = 2, L = 2h/(2π) = h/π.
 ```
