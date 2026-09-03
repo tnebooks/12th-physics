@@ -7,11 +7,11 @@ choices:
 answers:
   - λp ∝ √λe
 tags:
-  - '2022'
+  - '2023'
 ---
 
 The wavelength λe of an electron and λp of a photon of same energy E are related by:
 
 ```markdown
-For an electron, E ∝ 1/λe² (non-relativistically), while for a photon E ∝ 1/λp. For the same energy, 1/λp ∝ 1/λe², hence λp ∝ λe².
+For an electron, E = p²/2m ∝ 1/λe², so λe ∝ 1/√E. For a photon, E = hc/λp, so λp ∝ 1/E. Eliminating E gives λp ∝ λe². Thus, the correct relation is λp ∝ λe².
 ```
