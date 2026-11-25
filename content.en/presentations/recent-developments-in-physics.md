@@ -2,7 +2,7 @@
 title: "Recent Developments in Physics"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Modern Physics", "Nanotechnology", "Robotics", "Space", "Medical Physics", "Tamil Nadu Board"]
+
 summary: "Highlights modern advancements in physics including nanotechnology, robotics, space science, and medical applications."
 ---
 

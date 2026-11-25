@@ -2,7 +2,7 @@
 title: "Current Electricity"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Current Electricity", "Ohm's Law", "Drift Velocity", "Circuits", "Tamil Nadu Board"]
+
 summary: "Understanding electric current, drift velocity, resistance, Ohm’s law, and electrical circuits."
 ---
 

@@ -203,11 +203,11 @@ references:
         - b1:
             title: Fundamentals of sound and vibration by Franky Fahy and David Thombson
             url: http://people.bath.ac.uk/ensmjc/Notes/acoustics.pdf
-
 categories:
     - electrostatics
 summary: "This unit introduces the fundamentals of electricity and magnetism, starting with their historical development and real-life applications of electrostatic forces. It covers key concepts such as Coulomb’s law, the superposition principle, and the idea of an electric field, including how to calculate it for different charge systems."
 ---
+
 ### 1.1INTRODUCTION
 Electromagnetism is one of the most important branches of physics. The technological developments of the modern $21^{\mathrm{st}}$ century are primarily due to our understanding of electromagnetism. The forces we experience in everyday life are electromagnetic in nature except gravity.
 

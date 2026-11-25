@@ -2,7 +2,7 @@
 title: "Electrostatics"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Electrostatics", "Coulomb Law", "Electric Field", "Potential", "Capacitor", "Tamil Nadu Board"]
+
 summary: "Study of charges at rest, electric fields, potential, and capacitors."
 ---
 

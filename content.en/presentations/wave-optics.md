@@ -2,7 +2,7 @@
 title: "Wave Optics"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Wave Optics", "Interference", "Diffraction", "Polarization"]
+
 summary: "Wave nature of light: interference, diffraction, and polarization with key formulas."
 ---
 

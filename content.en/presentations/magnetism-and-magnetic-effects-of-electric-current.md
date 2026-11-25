@@ -2,7 +2,7 @@
 title: "Magnetism and Magnetic Effects of Electric Current"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Magnetism", "Biot Savart", "Ampere Law", "Magnetic Field", "Tamil Nadu Board"]
+
 summary: "Explains magnetic fields, magnetic effects of current, and forces on moving charges."
 ---
 

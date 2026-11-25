@@ -2,7 +2,7 @@
 title: "மின்னோட்டம் (Current Electricity)"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Current Electricity", "Ohm's Law", "Drift Velocity", "Circuits", "Tamil Nadu Board"]
+
 summary: "மின்னோட்டம், டிரிஃப்ட் வேகம், எதிர்ப்பு, ஓம் விதி மற்றும் மின்சுற்றுகள் பற்றிய விளக்கம்."
 ---
 

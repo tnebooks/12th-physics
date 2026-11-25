@@ -2,7 +2,7 @@
 title: "Atomic and Nuclear Physics"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Atomic Physics", "Nuclear Physics", "Tamil Nadu Board"]
+
 summary: "A comprehensive overview of atomic structure, nuclear models, radioactivity, and modern physics concepts."
 ---
 

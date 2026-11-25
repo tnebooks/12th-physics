@@ -2,7 +2,7 @@
 title: "Electromagnetic Induction and Alternating Current"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["EMI", "AC", "Faraday Law", "Transformer", "Tamil Nadu Board"]
+
 summary: "Covers electromagnetic induction, Faraday’s laws, Lenz’s law, alternating current, and transformers."
 ---
 

@@ -2,7 +2,7 @@
 title: "அணு மற்றும் அணுக்கரு இயற்பியல்"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Atomic Physics", "Nuclear Physics", "Tamil Nadu Board"]
+
 summary: "அணு அமைப்பு, அணுக்கரு மாதிரிகள், கதிரியக்கம் மற்றும் நவீன இயற்பியல் கருத்துக்கள் பற்றிய விரிவான அறிமுகம்."
 ---
 
