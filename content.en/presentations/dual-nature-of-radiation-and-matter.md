@@ -2,7 +2,7 @@
 title: "Dual Nature of Radiation and Matter"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Dual Nature", "Photoelectric Effect", "de Broglie", "Tamil Nadu Board"]
+
 summary: "Explains the wave-particle duality of light and matter, including photoelectric effect and matter waves."
 ---
 

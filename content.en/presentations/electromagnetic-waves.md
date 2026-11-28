@@ -2,7 +2,7 @@
 title: "Electromagnetic Waves"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["EM Waves", "Spectrum", "Maxwell", "Tamil Nadu Board"]
+
 summary: "Explains the nature, properties, and applications of electromagnetic waves and the electromagnetic spectrum."
 ---
 

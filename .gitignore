@@ -9,3 +9,5 @@ package-lock.json
 .hugo_build.lock
 
 tools/
+
+.DS_Store

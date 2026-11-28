@@ -2,7 +2,7 @@
 title: "Electronics and Communication"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Electronics", "Semiconductors", "Communication", "Diodes", "Transistors", "Tamil Nadu Board"]
+
 summary: "Covers semiconductor devices, logic gates, and basic communication systems."
 ---
 

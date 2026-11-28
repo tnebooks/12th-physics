@@ -2,7 +2,7 @@
 title: "Ray Optics"
 layout: "single"
 categories: ["12th Physics"]
-tags: ["Ray Optics", "Reflection", "Refraction", "Lenses", "Mirrors", "Tamil Nadu Board"]
+
 summary: "Study of light propagation, reflection, refraction, mirrors, lenses, and optical instruments."
 ---
 
